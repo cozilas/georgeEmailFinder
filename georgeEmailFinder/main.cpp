@@ -31,9 +31,7 @@ bool checkForWord(string file,string keyword){
    // int c = getch();
 }
 int splitEmails(string file,vector<bool> &emailCheck){
-
-    string keyword = "Yours faithfully";
-    string keyword2 = "Yours truly";
+    string endings[] = {"Yours Faithfully","Yours faithfully","Respectfully","Sincerely","Regards","Kind Regards","Best Regards","Sincerely yours","Sincerely Yours","Yours sincerely","Yours Sincerely","Yours truly","Yours Truly","Thank You.","Thank you.","Thank You,","Thank you,","yours faithfully","sincerely","Kind regards","Kind Regards","Best regards","Best Regards","sincerely yours","yours sincerely","yours truly","Yours Truly","thank you","Thank you"};
     fstream TheFile;
     //TheFile.open("C:/Users/cozilas/Desktop/hw10/ex2/GeorgeArab/emails/Hello.txt", ios::in);
     TheFile.open("./emails/database.txt", ios::in);
@@ -46,17 +44,18 @@ int splitEmails(string file,vector<bool> &emailCheck){
         while (getline(TheFile, Line)) {
                 savingText+=Line;
                 savingText+="\n";
-
-                if (Line.find(keyword) != string::npos||Line.find(keyword2) != string::npos)
+                for(int i = 0;i<29;i++)
                 {
-                   ++found;
-                    ofstream outfile ("./emails/email_"+ to_string(emailCounter)+".txt");
-                    outfile<<savingText;
-                    emailCheck.push_back(1);
-                    // cout<<savingText;
-                    savingText ="";
-                    emailCounter++;
-
+                    if (Line.find(endings[i]) != string::npos)
+                    {
+                       ++found;
+                        ofstream outfile ("./emails/email_"+ to_string(emailCounter)+".txt");
+                        outfile<<savingText;
+                        emailCheck.push_back(1);
+                        savingText ="";
+                        emailCounter++;
+                        break;
+                    }
                 }
         }
         return emailCounter;

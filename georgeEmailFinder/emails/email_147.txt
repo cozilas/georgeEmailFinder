@@ -1,36 +1,33 @@
+Subject: Delay Notice No. 1023: Engineer's Late and Overdue Response to the
 Dear Sir,
-We write with reference to the enclosed LPO referenced in (2) above and we hereby confirm that we
-have already arranged the Fabricator for the Installation of Halfen Channel on your behalf.
-Pursuant to the Conditions of Subcontract Agreement Clause 10.3 (Contractor’s Claims), we hereby
-confirm our entitlement to deduct such amounts but not limited to the enclosed, from your interim
-payments accordingly. The basis of these charges is due to the fact that the works are being carried out
-on your behalf, due to your failure to perform your Subcontract obligations.
-In addition, we shall back charge any amount that falls under your responsibility in accordance to Clause
-12.12.4 (Other Contractors and Other Subcontractors), whereby you are liable to the Contractor for any
-claim by the Employer, other Contractors or other Subcontractors for the costs arising out of your failure
-to perform your obligations under the Subcontract.
-This is for your information and future reference.
-Yours Faithfully,
-Subject: Engineer's Overdue Response to the Contractor's Request for Confirmation of
+Contractor's Various Test Inspection Requests for Interface Verification Tests
+(IVT)
+In the period between 12 December 2017 and 6 February 2018, the Contractor submitted ten (10) Test
+Inspection Requests ('TIR') for Interface Verification Tests ('IVT') for various interfaces of the Airport
+Operational System ('AOS') Package, for the Engineer's review and approval, in the manner shown in
+Annex A hereto.
+Article 1.3 of Specification Section 013300 'Submittal Procedures' governs the processing t ime by which
+the Engineer is contractually obligated to review and respond to the Contractor's submittals. Therefore,
+on the basis that the TIRs are at Rev. 00 and Rev. 01, then these ought to have been responded to by the
+Engineer within 21 and 14 calendar days, in the period between 26 December 2017 and 27 February
+2018.
+However, Annex A illustrates that the Engineer exceeded and continues to exceed the review period for
+an initial submittal and a first re-submittal review expressly stipulated in the Contract, by upwards of 76
+calendar days.
+The Engineer's failure to respond to the TIRs for IVT for testing of the AOS in a timely manner and in any
+event, within the review times expressly detailed in the Contract, has prevented and is continuing to
+prevent the Contractor from completing the Interface Verification Tests for the AOS Package. Therefore,
+the Contractor urges the Engineer to expedite the review of the noted TIRs and issue the response and
+associated status code without any further undue delay.
+The Contractor therefore contends that the foregoing constitutes a breach of Contract and/or an act of
 
-Variation Order for RFEI/0401/0592- Wet and Damp Area
-Dear Sir,
-The Contractor refers to the letters reference (1) and (2) above, whereby the Contractor has requested,
-pursuant to Sub-Clause 20.1.4 (b) [Right to Vary] of the Conditions of Contract, that the Engineer
-confirms
-that the information, comments, clarifications and instructions, contained in the Engineer's response to
-RFEI/0401/0592 and 'Wet and Damp Area Site Walk Report', constitute a formal Variation Order. The
-Contractor records that, as of the date of this letter, the Engineer has failed to provide the necessary
-confirmation of Variation or to issue an Engineer's instruction and revised Drawings and/or Specification
-pursuant to Sub-Clauses 11.3.3 and 20.1.1 (a) of the Conditions of Contract.
-The Contractor is currently progressing with the works as per the current IFC information and approved
-shop drawings. The Contractor hereby notifies the Engineer that should the Engineer now issue an
-instruction to implement any of the changes requested in RFEI/0401/0592 and/or 'Wet and Damp Area
-Site Walk Report', there will be abortive works. It should be noted that the ROMs reference (3} and (4)
-currently do not include the estimated cost for the abortive works. The Engineer/Employer shall be
-responsible for any delays or disruptions to the Works, and the costs of any abortive works, as a result of
-the Engineer's failure to provide the necessary confirmation of Variation or to issue an Engineer's
-instruction and revised Drawings and/or Specification pursuant to Sub-Clauses 11.3.3 and 20.1.1 (a) of
-the
-Conditions of Contract, in a timely manner.
+prevention on the part of the Employer's Personnel. Therefore, in accordance with Conditions of
+Contract
+Sub-Clauses 16.5.2 and 27 .1.1, the Contractor hereby notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
+the alternative, damages for breach of Contract.
+Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
+in
+due course pursuant to Conditions of Contract Sub-Clause 27.1.S(a), (b) and (c).
 Yours faithfully,

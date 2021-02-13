@@ -1,73 +1,32 @@
-Subject:Re: Outstanding Payment to Sub-Subcontractor
-Dear Sir,
-With reference to the above subject and in continuation to our letter reference (1) we hereby provide
-our response to your letter reference (2). As stated in our letter (1) the dispute itself has nothing to do
-with TCAJV from a contractual perspective. However, we have a duty under the Contract as per Clause
-21.3 [Payments to Sub-subcontractors] to carry out due diligence in regards to Sub-Subcontractor
-payments.
-We have in our previous letter, stated our rights derived from the Subcontract Agreement between us,
-detailing our contractual rights, in which enable us to withhold any amounts from your Interim
-Payments in connection with due sums pending by you to your domestic Subcontractors.
-As stated above and within our letter (1), there are mechanisms within the Subcontract to deal with this
-matter. Accordingly, you have been instructed to bring this dispute to an end, in avoidance of the works
-being affected by it. Please be informed that we have the duty to ensure the smooth progression of the
-works and you have the obligation/responsibility to provide any information required to guarantee for
-the same.
-In addition to the aforementioned, we reiterate our formal request made in our letter (1) to submit all
-reasonable evidence and all information/documents regarding the payment status of M/S Plus Painting.
-Also, you may include in your submission any other information that you may consider relevant to this
-matter.
-
-In light of the aforementioned, you are instructed without fail to submit an “Aging Schedule” containing
-the following Sub-Subcontractor’s information within (5) days of receipt of this letter:
-1.
-Sub-Subcontractor’s Application Details;
-2.
-Sub-Subcontractor’s Certification Details;
-3.
-Sub-Subcontractor’s Date of Invoice Issued;
-4.
-Status of Payment Against Individual Sub-Subcontractor’s Certifications/Invoices;
-5.
-Date of Payment Made and/or Due to the Sub-Subcontractor;
-6.
-Number of Days Payment Late (In Accordance with Payment Terms between you and the SubSubcontractor);
-7.
-Any other relevant documents and/or information.
-In addition to Clause 21.3 [Payment to Sub-Subcontractors], we would also make reference to Clause
-5.4.3 [Interim Payment - Schedule 11 Payment Terms] stating that Payment Certifications would be
-subject to deductions if we believe you have failed to make payments to your supply chain. For ease of
-reference, we hereby state the following:
-Clause 5.4 [Schedule 11- Payment Terms]
-“When agreeing or determining the amount of the interim payment to which the Subcontractor is
-entitled and issuing the Interim Payment Certificate, the Contractor shall deduct from the amount
-claimed by the Subcontractor any items in the Statement with which the Contractor disagrees including
-items which the Contractor (acting reasonably) believes relates to:
-5.4.3 - failure of the Subcontractor to make payments properly to Sub-subcontractors, suppliers to pay
-for labour, Materials or equipment or a failure to provide adequate evidence of the same to the
-Contractor;”
-As such you are to take this letter as formal notification/notice of our intention to invoke our rights
-pursuant to Clause 5.6 of Schedule 11 [Payment Terms] whereas “If the Subcontractor fails to make
-payment of any amount that is due to a Sub-subcontractor in circumstances where the Contractor
-determines such non-payment was not the responsibility of such Sub subcontractor, the Contractor may
-(but shall be under no obligation to) pay such Sub-subcontractor directly, having given five (5) days'
-notice to the Subcontractor of its intention to do so. Any amount paid to a Sub-subcontractor pursuant
-to this paragraph 5.6 shall be deemed (and identified) in total 1 & 3 (as described in paragraphs 3.1.2
-and 3.1.6) of any statements submitted by the Subcontractor to the Contractor after the date of such
-payment. Any direct payment made by the Contractor is not intended to create and shall not create any
-contractual relationship or other relationship whether reliance based or otherwise between the
-Contractor and any Sub-subcontractor”.
-Our decision, of a potential implementation of the aforementioned, is not one that should be taken
-lightly. For the record, in case the above Clause is invoked it will in no way, release you of any of your
-contractual commitments on the project nor will it also absolve you from the levying of any cost and or
-delays over and above that of the payments made to your Subcontractor on your behalf.
-
-In view of the above, it is clear that your comment made in your letter reference (2) “[…] You are
-reminded that withholding a valid payment entitlement for works done under our contract constitutes a
-breach of contract […]” is wholly disregarded.
-In summary, we reserve all of our rights under the Subcontract Agreement and we hold you completely
-culpable for all costs and delays incurred associated with your decision and/or inability to service your
-supply chain.
-We trust you find the aforementioned self-explanatory and your utmost attention and further action is
-required.
+Subject: Delay Notice No. 1036 - Non-Compliance of DL-21 Internal Glass Sliding Doors
+Dear Sir
+On 24 August 2017, the Contractor received letter ref: MTC-CMA-TCA-0401-LTR-08067, dated 23 August
+2017, enclosing Engineer's Instruction No. 681D. This instructed the Contractor pursuant to Conditions
+of
+Contract Sub-Clause 20.1.1(a), to "implement the additional information in relation to RFI's and other
+queries raised for Door Hardware Workshop Results & Implementation for Central Processor Levels
+LB2.0, LBl.O, LO.O, LO.l & Ll.O".
+Amongst the myriad changes therein, it was observed that Door Types C-Ll0-1371-04 and C-Ll0-1371-05
+for the Limo Pick-up Drop Off Zones had been altered to break out doors for egress. The Contractor
+noted in numerous workshops thereafter, and an email to the Employer and its Design Consultants on 8
+February 2018 (refer to Annex A) that as the Limo Pick-up Drop Off Zones were considered as garage
+areas and therefore, a high hazard area, the breakout functionality was not compliant with both IBC and
+Life Safety Codes. Based upon which, the Contractor would be unable to undertake the works as
+instructed.
+In relation thereto, the Contractor records that to date, and despite the concerns raised on multiple
+occasions, the design still remains non-compliant.
+The Engineer's continued failure to provide a compliant design is continuing to prevent the Contractor
+from coordinating and finalising the approval of Shop Drawings, completing the Limo Pick up Area and
+completion of Shell and Core Activities. Consequently, this will impact upon the Contractor's ability to
+achieve inter alia Milestones MS06, MS09A.7, and Milestones MS09B and MS10. The Contractor
+contends
+that this constitutes a breach of Contract or an act of prevention on the part of the Employer's
+Personnel.
+Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
+hereby notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
+the alternative, damages for breach of Contract. Interim and I or final details of the Time impacts and
+adjustment to the Contract Price, will be provided in
+due course pursuant to Conditions of Contract Sub-Clause 27.1.S(a), (b) and (c).
 Yours faithfully,

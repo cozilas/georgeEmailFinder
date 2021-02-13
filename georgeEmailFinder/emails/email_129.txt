@@ -1,43 +1,74 @@
-Subject:
 
-RE: Amendment Agreement No.3-For On Account Monthly Advance Payment
+Subject :
 
-Dear Sir,
-We are in receipt of your letter reference (2) above, whereby you appear to show a disapproval of our
-“On Account Monthly Advance Payment” forwarded to you via our letter reference (1) above. After
-reviewing your mentioned letter, we would like to express our regret to the content thereunder.
-Be informed, that as a gesture of goodwill, we proceeded with the said “On-Account Monthly Payment”
-in an effort to assist you financially. Consequently, the fact that you seem to disapprove this payment
-has nothing to do with the fact the Engineer has not released nor approved anything related to your
-prolongation costs submission. The “on account payment” and the Engineer’s assessment are two things
-that should be dealt independently. Your obligation under the Subcontract Agreement pursuant but not
-limited to Clause 8 [Subcontractor's Obligations] is to take all reasonable steps to ensure that you
-complete the Subcontract Works and our obligation is to take all reasonable steps to ensure that you do
-so, which we have indeed taken and continue to take to ensure the smooth progress of the works.
-Taking this opportunity, you are reminded that we have audited your prolongation costs submission and
-have forwarded the same to the Engineer for their assessment. Please be informed that the approval of
-anything related to the Prolongation Costs and Extension of Time is subject to the Engineer’s approval
-pursuant to Clauses 11.4.3 and 11.4.4 [Determinations] of the Subcontract. Therefore, the approval of
-your submission by the Engineer is still pending, however, that has not hindered us in assisting you
-financially.
-Notwithstanding the above, you are also informed that your submission of prolongation costs and
-Extension of Time is not in line with Clauses 16.5 [Extension of Subcontract Time for Completion], 27.1
-[Subcontractor’s Claims] and 27.2 [Time Impact Analysis] of the Subcontract. In order to assist us and
-the Engineer in establishing and agreeing with you your entitlement, you are required to submit a Claim
-as per the provisions of the Subcontract Agreement. Consequently, we urge you to work with us to
-ensure all appropriate and necessary information is provided, in order for a determination to be made.
-In view of the above and without prejudice to your rights under the Subcontract Agreement related to
-this matter, you are reminded that it is a prerequisite under the Subcontract to provide all information
-and evidence that you took all reasonable steps to avoid or mitigate any alleged delays as required
-under the Subcontract Agreement including evidence and/or proof of loss.
-In regards to your comment about a potential dispute, the Subcontract Agreement is clear as to the
-procedures in place which need to be adhered to and implemented prior to any issuance of a Dispute
-Notice. Thus, in the event of any potential dispute in relation to the foregoing, resolution of the same
-will be in strict accordance with that of Clause 27.3 [Dispute Resolution] which forms an integral part of
-the Subcontract Agreement between us. Accordingly, you are required to give notice (a Dispute Notice)
-of the dispute and thereafter enter into discussions with us in an attempt to settle the dispute. In the
-event we could not amicably settle the dispute we would be compelled to refer the matter to arbitration
-pursuant to Clause 27.3.2. Note that arbitration is not an economic form of dispute resolution, in which
-both Parties are incurring substantial legal and specialist fees.
-We hope that the above clarifies the situation.
+Re: Cloisall Disruption Claim – Gatehouses
+
+Dear Sir,
+We refer to your ‘Consolidated Extension of Time, Prolongation Cost & Disruption Cost Submission’
+made via letter reference CLO/0401/MTB-CEILING/CONT/11377/17 dated 08 October 2017 and in
+particular to your claim for ‘Gatehouses Disruption Cost’ in the amount of AED 4,016,144.
+The claim comprises six elements, the largest of which (AED 3,397,251) relates to additional cost of
+labour, supervision and scaffold deployed in the cladding works to 19Nr Type E Gatehouses. In this
+regard you say that if the works had not been disrupted, then you would have completed 19Nr Type E
+Gatehouses in 19 months by deploying 24.292 Nr men at a production rate of 3m2/man/work day. You
+then say that you did (or would) take 45 Nr men to complete the same work in the same period of 19
+months such that production per man per work day did (or would) fall from 3.00 to 1.62m2 and cause
+you to incur additional cost. Moreover, the increase in the number of men deployed (from 24.292 Nr. to
+45 Nr.) necessitated an increase in supervision (Supervisors and Foreman). You also claim for Scaffold
+over the 19 month period and apply an uplift of 2% to the Cost of Labour, Supervision and Scaffold for
+‘Other’ items (Surveying, Logistics, Stores, QAQC and HS).
+Notwithstanding the many other deficiencies of your claim, your valuation is entirely theoretical (based
+on the unsubstantiated but consistent deployment of 45 Nr. men and related supervision over an
+unidentified period of 19 months) and as such is rejected. Indeed, only additional Cost actually incurred
+and arising solely from disruption events for which we are culpable will be considered; and only then if
+you have complied with all of your related contractual obligations (including the timely notification and
+valuation of all of the alleged disruption events and the implementation of mitigation measures).
+Indeed, a disruption claim is not merely a bundle of contemporary correspondence and photographs
+(much of which is not overtly linked to production) appended to a text of sweeping and largely
+unsupported statements asserting culpability. As noted in our rejection of your claim for Wall Cladding
+Disruption Cost, the following is required to asses any claim for disruption:
+(i)
+A ‘measured mile’ analysis supported by sufficiently detailed and objectively verifiable
+contemporary records.
+(ii)
+An ‘as planned & resourced schedule’ for the Gatehouse cladding works.
+(iii)
+A full breakdown of all BQ unit rates related to Gatehouse cladding works.
+(iv)
+The causal link between each of the alleged disruption events and Contractor culpability.
+(v)
+The causal link between each of the alleged disruption events and the effect(s) / cost(s) claimed.
+(vi)
+Contemporary records (capable of being objectively verified) of the work (location, quantities
+and times) impacted by each of the alleged disruption events, the name, designation and role of each
+person and the relevant particulars of all other resources included in the calculation of the additional
+Cost claimed.
+
+(vii)
+Actual Cost (not rates) of each resource, verified as applicable by Employment contract, salary
+slip, third party order, invoice and evidence of payment.
+(viii)
+Evidence of measures taken to mitigate the effects of each disrupting event.
+(ix)
+Abatement of actual Cost for:
+a.
+Subcontractor risk events e.g. errors in tender, quality and quantity of resources, supervision,
+availability of materials and equipment, weather, defective work etc.
+b.
+Duplication of resources (in particular Supervision, Foreman and Scaffold) included in your
+valuation of variations and other claims e.g. Prolongation Cost Claim.
+c.
+Items that you failed to timely notify and/or claim as variations e.g. instructed changes in the
+design and/or sequence and/or method of executing the works
+d.
+Items that you failed to timely notify and/or claim that have prejudiced any related entitlement
+we might otherwise have had to make a ‘back-to-back’ claim against the Employer or to levy a backcharge against a subcontractor.
+The other five elements of the claim are ‘spot’ type claims whereby as well as claiming AED 60,400 for
+additional drawing time, you claim AED 558,492 for additional resources (principally supervision and
+scaffold) that you allege it was necessary for you to deploy due to various events (e.g. incomplete work
+by MEP and Glazing Contractors, interruption of works due to installation of bumper guard, rectification
+of elevator shaft concrete works) that required you to re-visit and extend the duration of the cladding
+works on up to 20Nr. Gatehouses areas. Again your valuation is entirely theoretical and deficient of all of
+the above listed elements of a claim for disruption and as such is rejected.
+This is for your information and record.
 Yours faithfully,

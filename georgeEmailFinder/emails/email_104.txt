@@ -1,55 +1,21 @@
-Subject: Delay in Submission of As-built Drawings
+Subject RE: Additional Cost for Revision of Model Due to RC Wall Interface Detail &
 Dear Sir,
-Further to our letter ref. MTB/TCA/MOSART/L/000511 dated 17-Jan-18, regarding as-built drawing
-schedule, we regret to note that your as-built drawing submission schedule is yet to be received.
-In the absence of your response, with reference to the Target As-built Drawing Schedule Rev 02.1 issued
-to yourselves under above mentioned TCAJV letter, please be reminded that the scheduled dates are
-overdue.
-Moreover, it has been observed that your submission of as-built drawings of Pier 4 & Pier 3 have
-currently become critical for the Project Handing Over.
-As per the Programme Rev. 10.4 and Project Close-out Forecasting Principle including As-built BIM
-Model submission and approval durations, final As-built Drawing submissions may not exceed the
-following latest dates for each stage of the building completion:
-• Pier 4 -- 03 May 2018,
-
-• Pier 3 -- 21 Jun 2018,
-• Pier 1 -- 12 Aug 2018,
-• Pier 2 -- 21 Sep 2018,
-• CP -- 16 Jan 2019 .
-Since the submission and approval of the handing over documentation is mandatory for obtaining the
-taking over certificate for each completion stage of the project, you are required to take the following
-necessary actions with immediate effect:
-a) Provide mitigation plan (revised forecast dates) for all delayed as-built drawings.
-b) Provide revised submission plan for all balance as-built drawings in line with planned construction
-completion dates.
-c) Submit all balance as-built drawings for approval in an expeditious manner.
-d) Resubmit any Code 3 or Code 4 as-built drawings if applicable.
-Subject NAFFCO Continuous Ongoing Lack of Performance - Response to the Engineer's
-Dear Sir,
-In response to your letter {1) above, we hereby acknowledge receipt of the letter {2) confirming the
-Contractor's commitment to achieving the 30 June 2019 substantial completion date in accordance
-with the Target Programme to completion Rev 10.4. We reiterate that the Engineer has rejected the
-Contractor's assertion that this programme is 'accelerated' in numerous previous correspondence.
-The Contractor in the above correspondence (1) has stated "when assessed against the update of the
-Rev 10.4 Programme as of 01 January 2018, there is no slippage in the final completion date of 30 June
-2019, caused by the alleged delays in NAFFCO's performance."
-We hereby record our observations against the planned progress of fire protection activities against
-the Target Programme to Completion Rev 10.4.
-As of 01 February 2018, the Contractor has failed to make any progress on several Fire Protection
-System activities such as Fire Pipe Installation, Pressure Testing of Fire Pipes, Sprinklers Installation,
-Fire Hose Cabinet Installation and Gaseous Suppression System Installation. We further observed that
-many of the above delayed activities total float values have dropped below 30 Days as per the
-Contractor critical activity definition in Rev 10.4.
-We also record that the primary cause of these delays is the lack of coordination, delay in material
-procurement and the shortage of resources from the Contractor and its Subcontractors as highlighted
-during the weekly meetings.
-Subject CSCEC- China State Acceleration Claim- Engineer's Interim Assessment
-Dear Sir,
-Please find attached the Engineer's letter (1) dated 13th March 2018 reference MTC-CMA-TCA-0401LTR09153 wherein the Engineer provides a report for an Interim Assessment of CSCEC's Acceleration Costs,
-and in relation to CSCEC's acceleration efforts that were related to the steel roof structure for the
-Central
-
-Processor in the period from March 2015 to November 2015.
-Accordingly, CSCEC is herewith requested to respond to the Engineer's Interim Assessment of CSCEC's
-Acceleration Costs.
+Setting Out Issue Item-Planter (PS 24.1 & 24.2)
+The Contractor confirms receipt of letter reference (1) wherein the Subcontractor requests an additional
+payment of AED 8,400.00 in respect of the content of request for information {2). To be clear:
+This request for information {RFI) was submitted in order to propose a solution to the constructability
+issues being encountered by the Subcontractor to complete the planters' precast concrete cladding on
+corners with small radius.
+The Contractor notes that the Subcontractor's submission {1) does not provide any details in respect of
+the level of development achieved on its BIM model when the RFI response was received. Neither does
+this submission explain how the Subcontractor's BIM model was aborted considering that the precast
+geometry of the planters remained unchanged.
+Notwithstanding the above, please be reminded that the provisions of Clause 4.2.38 of Schedule 0
+[Scope
+of Subcontract Works] state that the Subcontractor 'is to allow for all design changes of a 'minor'
+nature'.
+The Contractor believes that the model update claimed by the Subcontractor derives from its request to
+slightly update the detail of the corners to facilitate the constructabifity of the planters and, moreover, it
+is of a minor nature. The Contractor is of the opinion that, unless demonstrated otherwise, the
+Subcontractor should not be compensated for the model update included in its submission {1).
 Yours faithfully,

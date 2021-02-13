@@ -1,24 +1,84 @@
-Subject: Notice to Refrain for Subcontractor Direct Communication to Employer/Engineer
+Subject Subcontractor's Variations- Additional Design Fees
 Dear Sir,
-In reference to the above mentioned subject we hereby advise the Subcontractor/s to diligently follow
-the Project Protocol in regards to the flow of documents and communication concerning the above
-mentioned project.
-Pursuant to Sub Clause 9.18.1 of the Conditions of Subcontract embodied in the above mentioned
-Letter of Award "The Subcontractor shall act as an independent contractor in performing the
-Subcontract Works, maintaining complete control over its employees and all Sub-subcontractors and
-shall in no case represent, or be the agent of. the Contractor or act in the Contractor's name without
-the prior written consent of the Contractor."
-As in line with the above mentioned conditions, you are instructed to refrain for any direct
-communication to the Employer/Engineer regarding any project related matters. Any subcontractor's
-procedure for acquiring contract documents clarification, approvals, etc. must all be submitted to the
-Main Contractor only.
-If the Subcontractor fails to conform to the above provisions of the Subcontract, the Contractor may
-require the Subcontractor to remove (or cause to be removed) any key personnel or any other person
+The Contractor refers to its letters (1) and (2) wherein the Subcontractor was requested to separate and
+provide further substantiation in respect of the additional design fees claimed in its requests for
+Variation
+Orders. Despite this having been requested a while ago, the Contractor has not yet received a separate
+submission which provides sufficient level of information vis-a-vis the claimed additional design fees.
+The Contractor reiterates the request, made via the abovementioned correspondence, numerous
+meetings and query sheets, that at least the following information is provided:
+Detailed explanation on why the 'additional design fee' is not included in the rates of the Bill of
+Quantities. This explanation shall clearly identify both the engineering services which, in the
+Subcontractor's opinion, are included in the Subcontract rates and the engineering cost that cannot
+be recovered by using such rates.
+Detailed explanation on why the 'additional design fee' is not included in any other item of the
+Subcontractor's Variation or claim submissions. The Subcontractor shall clarify that this engineering
+cost is not being claimed I recovered through preliminaries, acceleration, etc.
+Detailed explanation on why the engineering cost has increased.
+Detailed particulars of the design deliverable in question that allegedly got aborted prior to its
+submission, i.e. for each case provide a timeline, evidence of the incomplete shop drawing I design
+calculation etc.
+Detailed demonstration that through the 'additional design fee' the Subcontractor is not recovering
+abortive design costs associated to engineering errors made by the Subcontractor. Further, the
+Subcontractor shall also prove that the 'additional design fee' does not relate to engineering costs
+associated to the Subcontractor's base scope of works.
+Detailed design cost presentation to the Engineer and the Employer explaining the above.
+To be clear, the Subcontractor shall clarify the above listed points whilst providing all necessary
+substantiation, i.e. timesheets of hours actually expended, transmittals made when the design was
+aborted etc. Please note that since submitting its commercial proposals, the Subcontractor has not
+provided the documents required to 'back up' the additional engineering resources claimed. There is no
+reason why the Subcontractor has not provided this supporting information thus exacerbating the
+Contractor's inability to assess the Subcontractor's entitlement to the 'additional design fee'. Hence, the
+Subject: Defects liability Period (DLP) 0 &M Services
+Dear Sir,
+The Contractor acknowledges receipt of Engineer's letters (1) and (2), and responds as follows:
+The purpose of this letter is to seek the Engineer's cooperation to finally resolve the ongoing matter of
+the
 
-employed on the Site or Subcontract Works, including the Subcontractor's Representative if applicable
-Pursuant to sub-clause 14.9.3 of the aforementioned Conditions of subcontract.
-Moreover, we hereby hold the Subcontractor liable for any cost and/or time impact that is incurred by
-the Main Contractor due to these direct communications of the Subcontractor with the
-Employer/E.ngineer.
-Please be guided accordingly
-Yours faithfully
+provision of the DLP O&M Services, in accordance with clause 28.1 of the Contract. As the Engineer will
+no
+doubt agree, this matter has been the subject of discussions for a lengthy duration and it is in all Parties
+interests for the matter to be resolved quickly.
+By way of reminder, the Engineer initially gave conditional approval for the appointment of Gemma SpA
+("Gemma") as the Subcontractor to carry out the DLP O&M services. As the Engineer is aware, despite
+extensive efforts on the part of the Contractor, it has not been possible for the Contractor to obtain
+Gemma's agreement to the additional condition insisted upon by the Engineer. In this regard, we
+acknowledge the recent withdrawal of the conditional approval of Gemma by the Engineer in its letter
+ref
+(2L on the grounds that Gemma has failed to provide it with a "letter of commitment confirming Gemmo
+will be fully involved in the installation process of all specialist systems" and that "the TCA-JV will obtain
+Gemma's approval/acceptance of all relevant shop drawings".
+Notwithstanding the submission by the Contractor of the prequalification documents of Gemmo, and for
+the avoidance of any doubt, the Contractor emphasises that the Contract places no obligation on the
+Contractor to appoint a specialist subcontractor to carry out the DLP O&M Services. The Contractor also
+believes it is confusing for the Engineer to use the terminology of "independent FM Company" as there
+is
+no reference or requirement under the Contract for this appointment of an "independent FM
+Company".
+The Contractor after having given extensive consideration as to what is in the best interest of the Project
+in relation to the DLP O&M Services, the Contractor has decided that it shall undertake the provision of
+the DLP O&M Services using an in-house Facilities Management (FM) team, comprised of competent
+senior airport facilities management professionals, with the appropriate levels of experience,
+qualifications and training. The Contractor further advises that the use of the in-house FM team meets
+the
+additional requirement of the Engineer in relation to being "fully involved in the installation process of
+all
+specialist systems" and "approval/acceptance of all relevant shop drawings" as the Contractor has been
+involved in these. The in-house FM team has already been involved in the following processes, in line
+with the Employer's
+requests:
+• Engaging with the O&M Manuals Preparation Process - reviewing the manuals from an
+operational point of view and making sure that they are fit for purpose;
+• Engaging with the Spare Parts Management Process - reviewing the Spare Parts Lists and
+determining the quantities of reliable spare parts stock level needed for uninterrupted operation;
+• Engaging with the Asset Management Process- participating in the Asset Management process to
+transfer know-how;
+• Conducting a Scope Analysis to Identify the Scope of the Project and conducting a scope gap
+analysis together with a scope variation analysis;
+• Engaging with High Level Equipment Strategy;
+• Engaging with Training Scheduling Process; and
+
+• Conducting the Response Time Assessment.
+The Contractor attaches hereto the details of our in-house FM approach for the DLP period, for your
+review and feedback.
+Yours faithfully,

@@ -1,35 +1,29 @@
-Subject: Clause 27.1.1- Notice of Claim- Delay Notice No. 909- Delayed I Unreasonable Status Code 3
-responses to various Shop Drawing Submittals - GA Layout Plans
-Dear Sir,
-to Public Male and Female Toilets, plus enlarged water supply and drainage
-layout plans to slab at Level L2.0 of the Central Space Area (received in the
-period between 25 September 2017 and 01 October 2017)
-We refer to the Engineer's letter ref: (1) issued in response to our Delay Notice No. 909, ref: (2).
+Subject:
 
-We are fully aware of the contents of Specification Section 013300 'Submittal Procedures', in particular,
-the provisions of Article 1.3A3 'Processing time', which places an express obligation upon the Engineer
-to
-respond to Shop Drawing Submittals (SDSs) within certain specified 'review times', and, in respect of 2
-out
-of the 3 SDSs subject to Delay Notice No. 909, the Engineer failed to do. We are not aware however, of
-any obligation-or requirement for us to "demonstrate that shop drawings have been submitted in a
-timely
-manner" as alleged by the Engineer, and note that the Engineer's letter ref: (1) is completely devoid of
-any
-evidence in support of a purported failure to do so in respect of submittals referenced in letter ref: (2).
-On the contrary, not only did the Engineer fail to respond to 2 out of the 3 SDSs listed in Annex A to
-letter
-ref: (2) [which triggers an automatic entitlement to an extension to the Time for Completion], but Annex
-B
-contains details in support of the Engineer's unreasonable Status Code 3 comments in response to all 3
-SDSs which caused us unnecessary additional time [and expense] in having to re-submit Shop Drawings
-In view of this, all 'our rights and entitlements to recover the associated additional time and costs
-resulting
-from the events and circumstances giving rise to delay detailed in Delay Notice No. 909 (ref: 2) remain.
-Further, on the basis that the events subject to Delay Notice No. 909 were triggered after 1 August
-2017,
-then any resultant impact on the critical path due to the breach of Contract and /or the acts of
-prevention
-on the part of the Engineer and/or Employer's Design Consultant described in letter ref: (2), will be
-identified within the forthcoming consolidated Time Impact Analysis (TIA) to be issued in due course.
+Dear Sir,
+
+Delay Notice – Remaining Cut Pieces at Ceiling in CP L0.0/L0.1
+
+We refer to above-mentioned subject matter and record your persistent failure in the completion of
+your works in a timely manner as required and inform you about our concern over the ongoing site
+delays caused by you, which have been notified to you numerous times. We also put on record once
+again your lack of manpower which is affecting the works and delaying other activities and has to be
+resolved immediately.
+In light of the above, be informed that the following works need your urgent attention:
+Location
+Status
+CP -L0.0/L0.1- Arrival Immigration Hall Ceiling
+The completion of the ceiling has been delayed as highlighted in the enclosed drawing. Your failure to
+complete the remaining cut pieces on the ceiling has caused a delay in the handover. The mentioned
+outstanding works have also caused many WIR to remain Code 3.
+
+You are hereby instructed to take immediate action, at no additional cost to us, in order to complete the
+aforementioned area(s) and submit your planned completion date with mitigation measures to recover
+the delays caused by you due to incomplete works.
+Any delays, costs, claims, losses and/or expenses and the like incurred by us and/or Other SubContractors arising as a result of your failure to complete the aforementioned activities will be solely
+your responsibility as per the Subcontract Agreement Clauses including but not limited to 12.12.4 [Other
+Contractors and Other Subcontractors] and 16.6 [Delay Damages].
+This notice has been issued pursuant to the Conditions of Subcontract Agreement due to your default,
+negligence, and/or lack of diligence while performing your obligations.
+This is for your information and necessary urgent action.
 Yours faithfully,

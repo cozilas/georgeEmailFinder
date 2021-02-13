@@ -1,36 +1,35 @@
-Subject: Subcontractor's Claims Process Reminder
+Subject: Delay Notice No. 997 - Delays to 56 nos. of MEP Shop Drawing Submittals
 Dear Sir,
-We refer to Attachment #1 which indicates the letters issued with subject 'Construction Delay and/or
-Disruption Events' and remind you of your obligations pursuant ·o Oall-se-2-7-:-l- and 27:2-ot the
-Conditions of Subcontract regarding the claims process.
-The table below summarizes the Subcontractor's relevant obligations in relation to notifications and the
-provision of further particulars in relation to the prevailing Conditions of Subcontract.
-Description
-Notify the Contractor of an event giving rise to an entitlement to any extension of the Time for
-Completion, reimbursement of additional Costs, an adjustment to the Subcontract Price and or any
-other costs or damages. Provide a fully detailed claim including supporting particulars of any extension
-of the Time for Completion, reimbursement of additional Costs, an adjustment to the Contract Price and
-or any other costs or damages, to which he may consider himself entitled in order that such submission
+submitted on 2 January 2018, due to AECOM Live-Link Workflow Limitations
+On 2 January 2018, the Contractor submitted a total of 56 nos. of predominantly Mechanical, Electrical
+and Plumbing (MEP) Shop Drawing Submittals, collectively encompassing a total of 129 nos. of Shop
+Drawings. The Shop Drawing Submittal schedule included at Annex A hereto refers. However, all 56 nos.
+of Shop Drawing Submittals were placed 'on-hold' by the Engineer "due to the Live/ink workflow
+limitation[s], and were only stamped received by 11 January 2018" as notified within the Contractor's
+subsequent letter to the Engineer dated 15 January 2018 (ref: 2).
+Article 1.3 of Specification Section 013300 'Submittal Procedures' governs the processing time by which
+the Engineer is contractually obligated to respond to the Contractor's submittals. On the basis that each
+of the submittals listed in Annex A are shown to be at Revision 02 or higher, then these ought to have
+been responded to by the Engineer 7 calendar days later, i.e. on 9 January 2018. However, Annex A
+shows that at the date of preparing this Delay Notice (which is 7 February 2018), the Engineer has
+exceeded and continues to exceed the review period for a further resubmittal review expressly
+stipulated
 
-may be investigated at the time. For ongoing issues, provide interim particulars of any extension of the
-Time for Completion, reimbursement of additional Costs, an adjustment to the Subcontract Price
-and or any other costs or damages to which it may consider himself entitled.
-For ongoing issues, provide final particulars of any extension of the Time for Completion,
-reimbursement of additional costs, an adjustment to the Contract Price and
-or any other costs or damages to which he may consider himself entitled.
-Timescale
-Within 21 days after the Subcontractor becoming aware, or should have been aware, of such event
-having first arisen. Within 28 days, or such other reasonable time as may be approved by the Contractor,
-after notification submitted to the Contractor. At intervals of not more than monthly. Within not more
-than 7 days from the end of the effects resulting from the event. We urge the Subcontractor to comply
-with the above stated contractual obligations in respect of the alleged delay events. Furthermore, the
-Subcontractor is requested to demonstrate by return that its claim submissions adhere to the above
-contractual provisions. Notwithstanding the above, PCE JV have mentioned in the referenced letters
-that 'we shall continue to take all reasonable steps to mitigate the effects of such upon our works, in
-accordance with our contractual obligations'. However, statement is too generic and remains
-unsubstantiated. We take this opportunity to also remind you that pursuant to Subcontract clause
-16.5.3 (b); the Subcontractor shall not be entitled to any extension of the Subcontract Time for
-Completion in respect of any event or period of delay which the Subcontractor has not taken all
-reasonable steps to avoid or mitigate (including any steps required to comply with the Contractor's
-instructions under clause 16.4.1). This is for you information and action.
+at Article 1.3.A.3 (d) of Specification Section 013300, by 29 calendar days. The Contractor contends that
+this constitutes a breach of Contract or an act of prevention on the part of the Employer's Personnel.
+Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
+hereby notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
+the alternative, damages for breach of Contract.
+Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
+in
+due course pursuant to Conditions of Contract Sub-Clause 27.1.5{a), (b) and (c).
+Subject: Incoming and Outgoing Correspondences Log
+Dear Sir,
+In reference to the above letter and in order to streamline the correspondences between us, enclosed
+incoming and outgoing correspondences log has been prepared by our Document Control Group.
+You are kindly requested to sign (by your representative identified under the Subcontract), stamp and
+return these logs as acceptance of the transmittal of these communications. A duly signed and stamped
+copy of the same will be delivered back to you for your records.
 Yours faithfully,

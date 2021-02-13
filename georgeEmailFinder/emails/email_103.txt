@@ -1,46 +1,23 @@
-Subject: Delay in Submission of As-built Drawings
+Subject: Request for Engineer's Instruction [RFEI/0401/0686]
 Dear Sir,
-We write in continuation to our letter reference (2) and in response to your letter reference (3) above,
-regarding the subject matter. After reviewing the Schedule enclosed in your letter (3), please note the
-following:
-•
-Dates for Pier-4 are exceeding the latest date required for Pier-4, i.e. 3rd May 2018. This is not
-acceptable since it will affect Pier-4 taking over;
-•
-You have provided submission dates only for the drawings under ‘mandatory’ action category,
-however, our previous letters and emails have explained that the full list of drawings must be submitted,
-where ‘action: mandatory/elective’ indicates the operator’s priorities. Hence, all drawings require
-submission dates;
-•
-The above will exclude mock-up drawings which already have corresponding permanent works.
-Mock-up drawings will be marked for cancellation from the as-built list, and submission will not be
-required;
-•
-Any work which has been completed on site should be encouraged for early as-built submission
-to prevent overload of as-built drawings at the time of deadline of each completion stage.
-In view of the above, this letter is to put on record your delays and instruct you as per Clauses 11.3
-[Instructions of the Contractor] and 8 [Subcontractor’s Obligations] to take appropriate action as stated
-above and to ensure that you meet the targets accordingly. Failing such, we shall hold you responsible
-and backcharge all associated costs (if any) from your account according to the Conditions of the
-Subcontract Agreement, for your failure to comply with your contractual obligations.
+Deflector 'Back-Pan' Flashing at Bottom ACP for Water/Sand Protection
+The Contractor refers to its Request for a Variation Order No. 1511 {1} in respect of the Consultant's
+direction that a deflector 'back-pan' flashing is added at the bottom of the aluminium composite panels
+(ACP}.
+Please note that neither the typical Tender/IFC section details of the roof edge panels indicate any
+'backpan'
+flashings to the ACP cladding nor does Specification 074101 identify such requirement; however,
+during the shop drawing review process, the Consultant directed the Contractor to add the said 'backpan'
+flashings to avoid accumulation of both sand and water. The Contractor further notes that, it was only
+when the deflector 'back-pan' flashings were incorporated to the subsequent revision of the abovelisted
+shop drawings that the Consultant assigned a code-2 to these submissions enabling the Contractor to
+proceep with the works.
+The Contractor confirms that early notice was given to the Engineer that these works constitute a
+Variation to the Contract and, moreover, the issuance of a formal Variation Order has already been
+requested (1}; yet, the Engineer's assessment of the Contractor's entitlement has not materialised to
+date. The Contractor requests therefore that the Engineer reviews the information provided and
+confirms
 
-Meanwhile, we request you to confirm that the dates as per the Schedule attached herewith can be
-met. Please note that the dates provided therein, are the latest acceptable dates and are not negotiable.
-In case you can confirm earlier dates than the ones mentioned in the attachment then, by all means,
-please do so and inform us accordingly.
-At this juncture, we must emphasize that any delays, costs, losses and/or expenses and the like incurred
-by us arising as a result of your failure to complete the aforementioned activities will be solely your
-responsibility pursuant but not limited to Clauses 10.3 [Contractor’s Claims], 12.12 [Other Contractors
-and Other Subcontractors] and 16.6.1 [Delay Damages].
-Your response to this letter is requested within seven (7) days of receipt of this letter.
-Should you require further clarification on any of the above, please do not hesitate to contact us.
-Yours Faithfully
-Subject: Target As-Built Drawing Schedule Rev.02.1 dated 22 November 2017-Reminder
-Dear Sir,
-Please be reminded that your response to our letter ref. no. MTB-TCA-MOSART-l-000493 dated OS Dec.
-2017 is overdue.
-We note with concern that failure to receive your response could adversely affect the project close-out
-and completion target dates.
-You are kindly requested to take appropriate action to review the subject matter and respond with your
-feedback and I or confirmation at the soonest convenience.
-Yours faithfully,
+that the deflector 'back-pan' flashing shall be installed via an Engineer's Instruction pursuant to Clause
+20.1.1{a) of the Conditions of Contract to enable the Contractor to proceed with the additional works.
+Yours faithfully

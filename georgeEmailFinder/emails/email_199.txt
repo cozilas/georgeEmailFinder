@@ -1,104 +1,41 @@
-Subject: Subcontractor's Application for Extension of Time No. 02- Black Flag Days
+
+Subject: Changes of Fire Rated Ceiling from a Hanging Ceiling System to a Fixed Wall-toWall
 Dear Sir,
-The Contractor refers to the Subcontractor's application for the reimbursement of costs associated to its
-Extension of Time No. 2 made via its letter reference (1), particularly, to the Subcontractor's alleged
-right
-to claim compensation from the Contractor vis-a-vis the reduced productivity of its workforce during the
-summer.
-
-The Subcontractor claims that its ability to comply with its intended programme was impacted by the
-unfavourable weather conditions and high temperatures prevalent during the summer months.
-Additional
-breaks and increased quantity of water for site operatives are cited by the Subcontractor as examples of
-how its activity was disrupted and its productivity reduced . The Subcontractor submitted disruption
-costs
-in an amount of AED 9,015,919.84 for labour that allegedly remained idle during the months of April
-2015
-to December 2016 and included a cost breakdown under Appendix 5 to its 'Application for the
-Reimbursement of Prolongations Associated Costs' narrative.
-Firstly, the Contractor notes that the majority of the idle periods claimed by the Subcontractor comprise
-interruptions occurred during the 'summer midday ban' imposed by the Ministry of Human Resources
-and
-Emiratisation. The 'summer midday ban' is a mandatory break for UAE's labourers thus making illegal
-working outdoors between 12.30 pm and 3.00 pm from 15 June until15 September. The 'summer
-midday
-ban' has been in force in the UAE for the last 13 years; hence, the Subcontractor should have considered
-these mandatory breaks when preparing its programme and forecasting its productivity during the
-summer.
-In respect of those interruptions occurred during periods outside the 'summer midday break', the
-Contractor confirms that the Project's Health and Safety Plan includes an effective heat stress
-programme
-which assesses environmental conditions utilizing the Thermal Work Limit (TWL) to determine work/rest
-breaks and water consumption requirements for employees. In accordance with Abu Dhabi
-Occupational
-Safety and Health System Framework, the implementation of such heat stress programme is a
-mandatory
-requirement at any worksite that has, or is it reasonably foreseeable to have, a temperature at or above
-35 degrees Celsius. The Contractor is of the opinion that an Experienced Subcontractor should have
-foreseen that the temperatures on Site would exceed 35 degrees Celsius during the summer and
-therefore should have predicted (and allowed for) occurrences of interruptions during the hot season in
-the UAE. Please be reminded that pursuant to Clause 12.14.4 and Clause 14.7.1 of the Conditions of
-Subcontract,
-the Subcontractor shall fully comply with the Contractor's Health and Safety requirements as may be
-reasonably revised from time to time. Moreover, in accordance with the provisions of Clause 14.4.1, it is
-the Subcontractor's obligation to comply with 'all labour related Applicable Laws relevant to the
-Subcontractor's Personnel, including the Labour Law, Social Security Law and any other Applicable Laws
-relating to their employment, health, safety, welfare'.
-Notwithstanding the fact that the Site records of stoppages occurred due to hot weather differ from
-those
-claimed by the Subcontractor, the Contractor confirms that it proceeded fully in compliance with both
-the
-
-Subcontract and the Applicable Laws whilst stopping the execution of the works when the high
-temperature environment jeopardised the safety of the Personnel working on Site. Should the
-Subcontractor be of the opinion that the Contractor's 'flags' were declared whilst it was safe for its
-labourers to work, relevant evidence shall be provided thus demonstrating that the TWL was within the
-tolerance limits.
-Finally, please be informed that the Contractor has undertaken an assessment of the Subcontractor's
-claim for reimbursement of additional costs as a result of 'Black Flag Days' and all relevant circumstances
-in connection with such event. The Contractor has concluded that the contractual basis of the
-Subcontractor's claim is invalid on account of the fact that the Subcontractor's abidance by the Health
-and
-Safety regulations is both a contractual and legal obligation of the Subcontractor.
-Stuart
-Subject: Subcontractor's Obligations under Clause 12.5.3 of the Conditions of Subcontract Maintenance
-of Performance Security
-
-Dear Sir,
-The Contractor refers the Subcontractor to Interim Payment Certificate No. 51 which records the value
-of the
-Subcontract Works carried out up to the end of November 2017.
-The Contractor records that, up to the end of November 2017, Variation Orders and contra charges had
-been
-issued to the Subcontractor in amounts of AED 72,304,567.82 and AED (12,529,289.28) respectively. The
-issuance of these Variation Orders and contra charges has resulted in an adjustment to the Subcontract
-Price
-equal to AED 59,775,278.54. In other words, the Subcontract Price has been increased by an amount
-greater
-than the percentage specified in Schedule 1 [Subcontract Particulars] which is ten percent (10%).
-Pursuant to the provisions of Clause 12.5.3 of the Conditions of Subcontract, the Contractor directs the
-Subcontractor to provide an additional security so that the increased amount of security is the
-percentage of
-the increased Subcontract Price within fourteen (14) days of receipt of this direction.
-Subject: RE: Notice of Delay- Bottom Last Panel for Car Park Link Bridge (CPLB)
-Dear Sir,
-Further to the Subcontractor's letter reference (1), please find attached the response received from the
-Other Subcontractor Gulf Precast Company LLC (Gulf Precast) in respect of the alleged misalignment of
-the concrete slab edge of the CPLB.
-Gulf Precast refutes the Subcontractor's claim and confirms that the slab edges of the CPLB were
-executed
-
-within the permitted tolerance limits. Gulf Precast further affirms that the concrete slab was executed
-more than fourteen months ago and therefore is surprised about the Subcontractor's delayed allegation
-that the edge is 'out of tolerance'. The Contractor concurs with Gulf Precast and confirms that it will not
-accept any liability vis-a-vis any delay incurred by the Subcontractor in the completion of the CPLB
-derived
-from its late notification of this issue.
-For the record, the Contractor regrets the Subcontractor's lack of cooperative approach in respect of
-notifying the parties in advance, coordinating with Other Subcontractors, producing the sketches
-requested by the Contractor and/or assisting in proposing a technical solution to this problem.
-Notwithstanding the above and further to the joint survey undertaken between the Contractor, the
-Subcontractor and Gulf Precast, the Subcontractor is requested to consult with Gulf Precast and assist
-the
-Contractor in finding a satisfactory solution to this issue.
+We are in receipt of your Request for Variation (RFVO) referenced above and respond as follows;
+Your RFVO makes reference to the response given to RFI-10736, and purports this to be the reasoning
+for the variation request. Your RFVO states:
+On 2 February 2016, TCAJV received response to RF/-10736 in which the Engineer hos noted that the
+requirement of the fire resistance direction should come from the top and bottom side of the
+suspended ceiling. With this new requirement, a fire rated ceiling fixed wall to wall with secondary
+steel supports ore required instead of the hanging ceiling system".
+We record the actual three queries raised in RFI-10736 along with the relevant responses;
+Question 1 - "Please note that the Fire-Rated Ceiling System {GYB-04} cannot apply for sloped ceiling
+areas (following slope in floor level/ramp) as there is no fire-rating test and certification available for
+such ceiling (Refer to Attached Letter from Supplier {Gypsemna). Kindly advice how to proceed on those
+locations.
+Answer 1 - "An engineering judgement combined with test reports for a horizontal shaft wall assembly
+noting requisite resilience from both sides (top and bottom) would suffice in this context.
+Question 2 - "For some areas IFC dwgs. only mentioned the item as '2 hour fire-rated ceiling' but do
+not specify type of ceiling system I material to be used. Kindly specify. (Refer attach. 01 & 02).
+Answer 2- "Reference attached ASK-2800 (RFI-10736} (4 sheets) wherein the makeup of the two hour
+rated corridor ceiling/stair soffit is explained. Reference attached ASK-2800 (RF/-10736} {4 sheets)
+wherein the makeup of the one hour rated gypsum lid serving as stair soffit is explained.
+Question 3 - "For ceilings marked as 'Gypsum Assembly', 'Gypsum Floor Assembly' and 'Gypsum Lid'
+on IFC drgs, the fire-rating duration and direction of fire attack is not specified. Thus clarify the
+difference of each item and provide the specification requirements accordingly. Also provide updated
+IFC drgs. (Refer attach. 03 & 04} Answer 3 - "Reference attached ASK-2800 (RF/-10736 {4 sheets)
+wherein the makeup of the gypsum
+floor assembly (non-load bearing) is explained.
+It is evident from the above that the Contractor appears to have misinterpreted the response to RFI10736 and has not demonstrated where any Variation has been introduced in these responses.
+The Contractors statement that there is a new requirement in relation to the fire resistance direction
+above egress passageways is incorrect. The IFC Drawings define the two hour rated ceiling
+requirement in such areas as horizontal shaft wall assemblies supported from wall to wall. Reference
+Drawing No. MTC-A-62-TB-L_-_-_-_-00-640(00).
+Moreover, the Engineer records that the Contractor's obligation to comply with all fire code
+requirements in areas including emergency exit/egress passageways is unchanged. In areas such as
+these exit/egress passageways, the implementation of the suspended ceiling detail would not be
+compliant and the use of the 2-hour shaft wall detail shown on IFC details is required to be fo llowed.
+In light of the above, your request for Variation is denied.
+Finally, it has come to our attention that these works are not proceeding at site, despite all technical
+clarifications being addressed. Please be advised that any delays will be the Contractors responsibility.
 Yours faithfully,

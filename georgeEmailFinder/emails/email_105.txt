@@ -1,91 +1,21 @@
-Subject: Briefing Packs Neutral Document Record Sheets
+Subject Processor Swing Arm Test- Request for Information RFI/0401/15440
 Dear Sir,
-Generated Between OS February 2018 to 07 March 2018
-We enclose herewith revised Briefing Packs Sketches and CMIR as a record of the change management
-workshops held between OS February 2018 to 07 March 2018 for your preparation of additional or
-modified
-drawings and specification and instruction necessary for the execution of the Works.
-Kindly note that some of the signed document dates may vary from the cut-off date due to the time lag
-between actual signatures and upload into shared file transfer protocol server.
-For clarity and avoidance of doubt:
-• The attached neutral sketches and other documents illustrate further development of, and potentially
-additional changes than those provided in the original sketches as initially instructed by the Engineer's
-Briefing Pack. For practical purposes and/or where ever practicable, the changes are identified by
-clouding
-the relevant parts ofthe neutral sketches.
-• Other than reflecting the Employer's proposed Variation in relation to the current Contractor
-coordination
-of the Works, the Contractor's signature on the attached neutral documents does not imply any
-warranty
-or design responsibility with respect of the proposed Employer Variation.
-• The Employer shall be responsible for ensuring that the participating Consultants have exercised the
-necessary skill, care and judgement and are suitably qualified professionals who are competent to carry
-out their assigned duties and are delegated the necessary authorities by the Engineer to act on behalf of
-the Employer.
-• The Employer retains the responsibility for the design, compliance with codes/applicable laws and the
-relevant Governmental Authority approvals.
-• The proposed Variation shall be deemed to be on hold pending the Engineer's instruction and
-additional
-or revised IFC Drawings to implement pursuant to the Variation provisions under the Contract.
-• The neutral sketches or other documents are not Shop Drawings {or any other Contractor's
-Document).
-Such Contractor documents shall be developed pursuant a subsequent Engineer's instruction and
-revised
-IFC Drawings and/or specification. The Contractor's preparation of Shop Drawings shall be a sole
-discretion of the Contractor.
-Kindly issue a further instruction and revised drawings and/or specification for the implementation as a
+Reference is made to request for information (1) wherein the Contractor sought clarification on the
+testing
+requirements for the swing arm bearings installed by the Subcontractor J&H Emirates LLC.
+Firstly, the Contractor notes that the above-referenced request for information was submitted on 26
+November 2017 and responded by the Design Consultant (KPF) on 18 December 2017; however, it was
+received by the Contractor on 12 March 2018, i.e. it took the Engineer almost three months to return
+KPF's response. Considering that moneys are being withheld against the related non-conformance
+report,
+the Contractor expresses its dissatisfaction with the Engineer's unreasonable delay in forwarding the
+responded request for information.
+Secondly, the Contractor regrets that the response issued by KPF does not fully address the clarification
+sought by the Contractor and the Subcontractor via request for information (1). Hence, the Contractor
 
-confirmed Variation Order to minimize delays arising from the proposed Variations.
-Thank you.
-Subject: Briefing Packs Change Management Team
-Dear Sir,
-The Contractor confirms receipt of Engineer's letter ref (1) and once again records its disappointment
-with
-the contents therein.
-The Engineer has stated in letter ref (1) that "The Engineers position remains that only the personnel
-instructed through the relevant Engineer's Instructions are compensable by way of timesheet approval."
-In
-response to this statement, the Contractor directs the Engineer to Engineer's Instruction (EI) no 323
-which
-only states that "You are hereby instructed, pursuant to Clause 20.1.1 (a) of the Conditions of Contract_
-to
-appoint and implement competent and sufficient resources to address the completion of all design
-items .... . " (emphasis added).
-The Engineer's instruction does not clearly define which personnel are instructed to be utilised but
-merely
-states that competent and sufficient resources are to be implemented. Following receipt of El no 323,
-the
-Contractor complied with the instruction and ensured that competent and sufficient resources were
-deployed to assist the Employer's Design Consultants in concluding the design.
-Furthermore, the Engineer will acknowledge that usually during any design development process (which
-the briefing pack process ultimately was); the presence of commercial and planning resources would
-always be required . The Engineer issued the agreed briefing pack I design information development
-process via letter ref (7) which stated that "Commercial team[s] to be involved [n the Change Team
-Management reviews." Therefore, it is clearly evident from this statement that the Engineer understood
-and acknowledged that, commercial and planning resources would be required, as part of the briefing
-pack process.
-Therefore based on the foregoing, the Contractor once again asserts that the Contractor having
-complied
-with the instruction of the Engineer is now being deprived of its entitlement under the Contract. The
-Contractor, pursuant to clause 11.4, therefore insists that the Engineer assess the final value of the
-Variation Order in a fair manner, taking into account all relevant circumstances but paying particular
-regard to the non-obligation of the Contractor under the Contract in relation to assisting the Employer
-to
-complete its design.
-Subject:Request of Consignment Clearance Authorisation (CCA) / Duty Exemption Letter to Abu Dhabi
-Customs Authorities for Center Space Chandeliers with Steel Accessories, Fixing Devices, Support and
-
-Restrain Members and Structural Steel Frames Chandeliers and its accessories under Bill of Lading No:
-KS-1802
-Dear Sir,
-Pursuant to the Engineer’s Instruction No 119/119a we kindly request the Employer to issue a
-Consignment Clearance Authorization (CCA) Duty Exemption Letter to Abu Dhabi Custom Authorities for
-the Imported Material’s in connection with the delivery of the Center Space Chandeliers.
-Please find attached herewith for your reference, the summary providing details required for the
-delivery of the shipped materials.
-We have just received the attached shipping documentation from our Subcontractor and we are mindful
-that the shipment is scheduled to arrive at Jebel Ali Port on 26th March 2018, thus we respectfully
-request you to process the requisite documentation in order to obtain the necessary exemption letter
-from the Employer and to facilitate the release of the shipment from the port.
-
+reiterates its demand that the Engineer and/or the Design Consultant advise whether the laboratory test
+can be undertaken applying a reduced load value in accordance with the design load and instead of the
+static load value included in the catalogue.
+In view of the delays already incurred in closing this issue, the Contractor politely requests the Engineer
+responds as soon as practicably possible.
 Yours faithfully,

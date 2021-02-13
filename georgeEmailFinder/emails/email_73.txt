@@ -1,57 +1,27 @@
+Subject:
 
-Subject: Reply letter- Non-Conformance Installation of Frameless Glass Screen, Glass Fins
+Subcontractor's Direct Communication with Employer and Engineer
+
 Dear Sir,
-and Associated Works
-We acknowledge receipt of your letter referenced in (9} above regarding your reply to TCA JV letter
-referenced (5}.
-However, kindly note that the tolerance of the glass fabrication/installation is 1mm, where the As-built
-is
-showing the fins' locations deviated from the models. At the time of installation most of the shop
-drawings for
-this area were code 3, which makes any BIM codes void as models should be updated to follow code 3
-comments.
-As you were aware that only approved and coordinated shop drawings are to be used for fabrication
-and any
-site installation. Therefore you went ahead with manufacturing and installation at your own risk.
-The Engineer's letter that was conveyed to you through TCA JV letter referenced (5} above, clearly
-observed
-in his report that your site installation is different as compared to the shop drawings, thus making shop
-drawings and models obsolete, until AGCA proceed to the remedial works.
-The continuous negligence of not following the approved shop drawings on site installations is the basis
-of this
-non-conformance.
-In addition, please note that at the attached study which is represents the comparison between the
-working
-points from the model and the IFC, the X values most of them are matching or within tolerance however
-the
-site as-built was wrongly installed which led AGCA to rectify. You are hereby reminded of your
-obligations as set out under the Subcontract which include, Subcontract
-Clause 16.1.1 provides that you are obliged to progress the Subcontract Works with due expedition and
-without delay, and should neither delay nor adversely affect the performance of TCAJV or Other
-Subcontractors.
-Moreover, Subcontract, Clause 16.6.1 provides that:
-((If the Subcontractor fails to comply with the approved Subcontract Programme, the Subcontractor
-shall
-without limitation indemnify and hold the Contractor harmless against and from the costs, losses and
-expenses
-( ... ) incurred by the Contractor in connection with the Subcontractor's delays {"Contractor Delay
-Costs").
-Contractor Delay Costs incurred by the Contractor shall be quantified by the Contractor at the time of
-such
+With reference to the above subject, we write to notify you that it has come to our attention that your
+personnel has on numerous occasions engaged in direct communication with the Employer and/or the
+Engineer without our attendance and knowledge. These direct communications without our knowledge
+are hampering our efforts to ensure a coherent flow of information between the Parties. Please be
+informed that you should diligently, at all times, follow the Project’s Protocol in regards to
+communication.
+This type of behavior is totally unacceptable and we inform you that all the communications regarding
+the Subcontract should either be conducted directly through us or include our personnel regardless of
+the importance of communication. Please note that such direct communications between you and the
+Employer and/or the Engineer on any issue related to the Subcontract is considered a breach of the
+Subcontract Agreement pursuant to 14.9.3 [Subcontractor’s Personnel] and 9.18.1 [Independent
+Subcontractor] which state that “The Subcontractor shall act as an independent contractor in
+performing the Subcontract Works, maintaining complete control over its employees and all Subsubcontractors and shall in no case represent, or be the agent of, the Contractor or act in the
+Contractor’s name without the prior written consent of the Contractor”.
 
-losses and claimed under clause 10.3 {Subcontractor's Claims). These costs and losses shall be
-recoverable by
-the Contractor against the Subcontractor as compensation for the losses suffered by the Contractor as a
-result
-of the Subcontractor's delay or non-compliance with the approved Subcontract Programme and
-irrespective of
-whether or not the Subcontractor's delay or non-compliance results in the Contractor incurring liability
-for
-delay damages to the Employer under the Contract."
-It is noted that any delays, costs, loses and/or expenses incurred by us and/or Other Subcontractor Is
-arising as
-a result of the above delays shall be at your risk and recovered from your account in accordance with
-the
-Subcontract clauses 10.3, 16.6.1 and other relevant clauses.
-This is for your utmost attention and immediate action.
+In line with the aforementioned conditions, you are hereby reminded to strictly adhere to the
+Subcontract's communication protocol and refrain from making such direct communication to the
+Employer and/or their representatives in the future.
+Moreover, we hereby hold you liable for any cost and/or time impact that is incurred by us due to these
+direct communications of your representatives with the Employer and/or the Engineer.
+This matter requires your utmost compliance and adherence.
 Yours faithfully,

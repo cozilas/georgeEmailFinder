@@ -1,33 +1,22 @@
-Subject: Delay Notice No. 1023: Engineer's Late and Overdue Response to the
+Stuart Matthews
+Subject Roof Site Hose Testing Requirements
 Dear Sir,
-Contractor's Various Test Inspection Requests for Interface Verification Tests
-(IVT)
-In the period between 12 December 2017 and 6 February 2018, the Contractor submitted ten (10) Test
-Inspection Requests ('TIR') for Interface Verification Tests ('IVT') for various interfaces of the Airport
-Operational System ('AOS') Package, for the Engineer's review and approval, in the manner shown in
-Annex A hereto.
-Article 1.3 of Specification Section 013300 'Submittal Procedures' governs the processing t ime by which
-the Engineer is contractually obligated to review and respond to the Contractor's submittals. Therefore,
-on the basis that the TIRs are at Rev. 00 and Rev. 01, then these ought to have been responded to by the
-Engineer within 21 and 14 calendar days, in the period between 26 December 2017 and 27 February
-2018.
-However, Annex A illustrates that the Engineer exceeded and continues to exceed the review period for
-an initial submittal and a first re-submittal review expressly stipulated in the Contract, by upwards of 76
-calendar days.
-The Engineer's failure to respond to the TIRs for IVT for testing of the AOS in a timely manner and in any
-event, within the review times expressly detailed in the Contract, has prevented and is continuing to
-prevent the Contractor from completing the Interface Verification Tests for the AOS Package. Therefore,
-the Contractor urges the Engineer to expedite the review of the noted TIRs and issue the response and
-associated status code without any further undue delay.
-The Contractor therefore contends that the foregoing constitutes a breach of Contract and/or an act of
+We write with reference to the above correspondence (1) wherein the Contractor is requesting to
+provide them with the test locations for all roof cladding types.
+The Engineer reiterates its position conveyed via correspondence (2) that specification section MTC-401074101_07 Roof Cladding Package clause 5.8.1 imposes no obligation on the Engineer to provide to the
+Contractor the test locations in advance of the completion of the works.
+The Contractor is required to offer completed works in accordance with the Contract that are ready to
+be
+tested for the site hose testing, together with the information regarding the future test dates and
+locations and a log indicating the status of SOR/MIR/WIR/MIR that should be presented by the
+Contractor and for obtaining satisfactory approvals before the hose testing. In supporting progress the
+Engineer may choose indicative locations a week in advance in order for the Contractor to be prepared,
+while the exact location of the joints to be tested will be selected by the Engineer on the actual day of
+the
+test.
+It is the Contractor's responsibility to provide completed works in accordance with the Contract, ensure
+that the tests comply with the project specification and comply with MTC-401-074101_07 Roof Cladding
+Package section 5, item 5.8 as well its Contractual obligations under clause 17 of the Condition of
+Contract.
 
-prevention on the part of the Employer's Personnel. Therefore, in accordance with Conditions of
-Contract
-Sub-Clauses 16.5.2 and 27 .1.1, the Contractor hereby notifies the Engineer of its entitlement to claim:
-(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
-(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
-the alternative, damages for breach of Contract.
-Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
-in
-due course pursuant to Conditions of Contract Sub-Clause 27.1.S(a), (b) and (c).
-Yours faithfully,
+Yours faithfully,

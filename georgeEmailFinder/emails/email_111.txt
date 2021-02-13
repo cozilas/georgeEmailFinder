@@ -1,78 +1,55 @@
-Subject: Notice of Delay for Sub-Subcontractor Performance CAL REV AMI)
-Dear Sir.
-In reference to the above mentioned subject you are hereby notified pursuant to Conditions of
-Subcontract issued during Tender and embodied in the above LOA - Appendix B- item 8 subclause
-12.10.1 for the failure of your Sub-Subcontractor AI Reyami to fulfil their commitment to
-fabricate the Arches 9 to 12 and PG 5 & 6 Cruciform works as per the agreed schedules.
-We refer you the delivery dates comparison of AI Reyami (Refer Attachment -1) which we have
-prepared as acquired from email received from you or on agreed dates during fabrication
-meetings (Refer Attachment -2) implicating the aforementioned delays. Please be advised that
-agreed delivery dates considered in delay calculations is from your schedules in which we
-considered that there are no more issues holding you to complete the fabrication and delivery of
-these elements on the site.
-Further to the above delay analysis from previous deliveries. please find below remarks for the due and
-to
-become due deliveries as indicated above on items 5 to 7 whereas;
-S:.ARCH 12 Transitions- this elements was already due since 25 July 2015 but till date 25 August 2014 no
-
-delivery was received from esc which is delaying the erection schedule due to the
-lack of manpower of your Sub-Subcontractor to fabricate this elements.
-6. ARCH 13 Transitions - Delay in the above ARCH 12 elements will automatically delay the fabrication of
-this
-ARCH 13 elements as per the fabrication schedule sequence.
-7. PG-6 Cruciform - This element must be delivered to site on 10 Sept. 2014 in order not to delay
-erection. But due to the current incapacity of AI Reyami to fabricate because of
-lack of manpower you have decided to complete this element using your other
-Sub-Subcontractor Tiger Steel. As a consequence of your decision, shifting of
-material from AI Reyami to Tiger Steel factory consume a lot of time which greatly
-impact the fabrication of this element. You are reminded that this major fabrication
-delay will impact the completion date of PG 6 and accordingly SG 56 erection.
-Delay in the secondary girder erection has direct effect to the de-propping of first
-zone.
-Referring to the above delays due the poor performance of your Sub-subcontractor relating to its
-incapability to provide adequate manpower to achieve their fabrication and delivery
-commitments, you are hereby instructed to take the necessary action pursuant to Conditions of
-Subcontract embodied in the above LOA -sub-clause 12.10.2 wherein;
-12. I 0.2 The Subcontractor shall, upon receipt of the notice referred to above in clause 12. I 0. I, ensure
-that
-the Sub-subcontractor's performance is immediately rectified.
-More over to the above presented previous and upcoming delays due to your Sub-subcontractors
-poor performance which lead to your failure to fulfil your commitment for the timely delivery of the
-above Erection Segments you are required pursuant to Clause 16.4.1 (b) of the Conditions of
-Subcontract, to submit a revised recovery programme and supporting report describing the
-revised methods which you propose to adopt in order to expedite progress and complete the
-Sub-Contract Works within the Sub-Contract Time for Completion.
-You are required to submit this revised recovery programme and supporting report within seven
-(7) days of this request. in addition to all required submittals for construction activities at
-site/factory, method statements, shop drawings and WIRs, in order to avoid further delays to the
-Project.
-Please note that in accordance with Clause 16.4.4 the provision of a revised programme and
-supporting report is a "condition precedent" to the Sub-Contractor's entitlement to continue to be
-paid for the performance of the Sub-Contract Works.
-In view of the above, you are advised to take immediate steps to recover these delays. You will
-be held responsible for any and all Contractor's Delay Costs and Contractor's Delay Damages
-that may be inc urred by us due to the above stated delays, in line with the Subcontract Clauses
-16.6.1 and 16.6.2 respectively.
-Subject: Notice of Delay due to Poor Sub-Subcontractor Performance
+Subject: Delay in Submission of As-built Drawings
 Dear Sir,
+Further to our letter ref. MTB/TCA/MOSART/L/000511 dated 17-Jan-18, regarding as-built drawing
+schedule, we regret to note that your as-built drawing submission schedule is yet to be received.
+In the absence of your response, with reference to the Target As-built Drawing Schedule Rev 02.1 issued
+to yourselves under above mentioned TCAJV letter, please be reminded that the scheduled dates are
+overdue.
+Moreover, it has been observed that your submission of as-built drawings of Pier 4 & Pier 3 have
+currently become critical for the Project Handing Over.
+As per the Programme Rev. 10.4 and Project Close-out Forecasting Principle including As-built BIM
+Model submission and approval durations, final As-built Drawing submissions may not exceed the
+following latest dates for each stage of the building completion:
+• Pier 4 -- 03 May 2018,
 
-We write to you with regards to our constant concerns pertaining to your capability to manage your
-SubSubcontractor
-for the works package of Fire Stopping {CHRONICLE).
-Further to our aforementioned letter references, we are once again forced to place on our record of
-your
-poor performance for the relevant activities. {See Appendix 1) Your failure to manage your
-Subcontractor
-and that of its inadequate labour resources and engineering issues are completely unacceptable and will
-no longer be entertained. The extent of outstanding works to be completed by your Fire Stopping
-Specialist Subcontractor is extensive.
-The consequences of the highlighted outstanding activities hereunder Appendix-1 have immense impact
-on the Consultant approval of inspections and subsequent delays of the room handovers and ceilings
-closure.
-Therefore and for the record, all costs incurred by us with regards to the secondment of additional
-labour
-resources to supplement your insufficient workforce will be for your account and in strict accordance
-with
-that of Clause 10.3 {Contractors Claims) of the Subcontractor Agreement between us. The same will be
-subject to 15% Overhead & Profit I Administration Charges.
+• Pier 3 -- 21 Jun 2018,
+• Pier 1 -- 12 Aug 2018,
+• Pier 2 -- 21 Sep 2018,
+• CP -- 16 Jan 2019 .
+Since the submission and approval of the handing over documentation is mandatory for obtaining the
+taking over certificate for each completion stage of the project, you are required to take the following
+necessary actions with immediate effect:
+a) Provide mitigation plan (revised forecast dates) for all delayed as-built drawings.
+b) Provide revised submission plan for all balance as-built drawings in line with planned construction
+completion dates.
+c) Submit all balance as-built drawings for approval in an expeditious manner.
+d) Resubmit any Code 3 or Code 4 as-built drawings if applicable.
+Subject NAFFCO Continuous Ongoing Lack of Performance - Response to the Engineer's
+Dear Sir,
+In response to your letter {1) above, we hereby acknowledge receipt of the letter {2) confirming the
+Contractor's commitment to achieving the 30 June 2019 substantial completion date in accordance
+with the Target Programme to completion Rev 10.4. We reiterate that the Engineer has rejected the
+Contractor's assertion that this programme is 'accelerated' in numerous previous correspondence.
+The Contractor in the above correspondence (1) has stated "when assessed against the update of the
+Rev 10.4 Programme as of 01 January 2018, there is no slippage in the final completion date of 30 June
+2019, caused by the alleged delays in NAFFCO's performance."
+We hereby record our observations against the planned progress of fire protection activities against
+the Target Programme to Completion Rev 10.4.
+As of 01 February 2018, the Contractor has failed to make any progress on several Fire Protection
+System activities such as Fire Pipe Installation, Pressure Testing of Fire Pipes, Sprinklers Installation,
+Fire Hose Cabinet Installation and Gaseous Suppression System Installation. We further observed that
+many of the above delayed activities total float values have dropped below 30 Days as per the
+Contractor critical activity definition in Rev 10.4.
+We also record that the primary cause of these delays is the lack of coordination, delay in material
+procurement and the shortage of resources from the Contractor and its Subcontractors as highlighted
+during the weekly meetings.
+Subject CSCEC- China State Acceleration Claim- Engineer's Interim Assessment
+Dear Sir,
+Please find attached the Engineer's letter (1) dated 13th March 2018 reference MTC-CMA-TCA-0401LTR09153 wherein the Engineer provides a report for an Interim Assessment of CSCEC's Acceleration Costs,
+and in relation to CSCEC's acceleration efforts that were related to the steel roof structure for the
+Central
+
+Processor in the period from March 2015 to November 2015.
+Accordingly, CSCEC is herewith requested to respond to the Engineer's Interim Assessment of CSCEC's
+Acceleration Costs.
 Yours faithfully,

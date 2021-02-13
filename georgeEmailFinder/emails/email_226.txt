@@ -1,20 +1,14 @@
-Subject: Contractor's Claim: Compensation for the Employer's breach of Contract
+Stuart Matthews
+Subject Increase in Rev-0 Shop Drawings Due to the Engineer's Comments on SCR Room's
 Dear Sir,
-The Contractor, pursuant to Sub-Clause 27.1.1 [Contractor's Claims] of the Conditions of Contract,
-hereby submits a Contractor's claim for compensation due to a breach of Contract by the Employer.
-The event or circumstance giving rise to the claim is as follows:
-The Contractor refers to the Specification Section 013115 [Coordination with Tenant Areas] Article
-1.5.(C), which states that: "To keep continuity within the MTB Construction Phase, the Tenant
-
-Contractors shall use the Contractor's major subcontractors including but not limited to; all Systems {IT,
-PA, Security and etc.}, Electrical, Plumbing, HVAC, and Waterproofing as based on unit rates from the
-BOQ. These various subcontractors shall be directly contracted to the respective Tenant Contractors"
-(emphasis added). The Contractor has been notified by our Electrical Subcontractor, through its letter
-reference: (1) above, that the electrical installation in the arcade retail circulation area was NOT carried
-out by our Electrical Subcontractor. We consider this as a breach of Specification Section 013115, and as
-such a clear breach of Contract by the Employer.
-In view of this breach, the Contractor hereby submits our claim for compensation, which is based on the
-Contractor's lost profits and lost overhead, which has been calculated based on unit rates in the BOQ
-and the quantities as per our Electrical Subcontractor's proposal to carry out the electrical installation in
-the arcade retail circulation area.
-Yours faithfully,
+We refer to your correspondence referenced as (1) above in relation to shop drawing 401-BD-T-14-GE0.00-TW-SD-123 Rev.01 and 401-BD-T-14-GE-0.00-TW-SD-123 Rev.01 and note the Engineer's
+comments were returned to the Contractor on the 12 November 2017.
+The Engineer notes the provided comments resulted from the Contractor's non-compliance since it
+only submitted a typical backbone rack view and fiber connection details which is insufficient due to
+the SCR's not being typical.
+Furthermore, the Engineer notes it has been 80 days since the comments were received by the
+Contractor on the 12 November 2017 which should have provided sufficient time to produce and
+submit the required shop drawings to date.
+Any delays which may incur as a result of the Contractor's inaction shall be solely attributable to the
+Contractor.
+Yours faithfully

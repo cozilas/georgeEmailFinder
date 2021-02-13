@@ -1,81 +1,20 @@
-Subject Use of Aluminum Composite Panels (ACP}
-Dear Sir,
-It has been established that there are significant differences between the con.figuration of the ACP
-assemblies and the original test data provided by the Contractor. These differences include but not
-limited to, variations in the cavity width of the assemblies and the jointing arrangement between
-panels.
-The use of ACP and associated assemblies fall under the Curtain Walling Specification (074201) which is
-a
-performance specification. Therefore, it is the Contractor's responsibility to demonstrate such
+Subject:
 
-assemblies meet the requirements of the International Building Code (IBC} 2006, which forms the basis
-of the Fire Strategy for MTB.
-Section 1407.10.4 of the 2006 version ofthe IBC requires metal composite materials containing plastic to
-be tested to NFPA 285 Standard Fire Test Method for Evaluation of Fire Propagation Characteristics of
-Exterior Non Load Bearing Wall Bearing Assemblies Containing Combustible Components.
-Please provide evidence you have met your contractual obligations with respect to the fire performance
-of such assemblies. This evidence shall include but not limited to:
-• Identification of the various different configurations of assemblies involving the use of ACP.
-• Fire test data from an accredited testing house which demonstrates such configurations do not
-adversely affect the overall fire performance of the assemblies in comparison to the criteria
-detailed in NFPA 285.
-Subject Snagging de-snagging Through Zutec
-Dear Sir,
-In response to your letter (1), the three week Zutec trial for snagging and de-snagging was concluded
-on 07 April 2018, after which the hard copy formats that were running in parallel to Zutec were to be
-discontinued. Zutec has been officially operational as the single system for recording
-snagging/desnagging
-starting 08 April 2018.
-Whilst you previously supplied the room areas details to enable Zutec be setup for snagging and
-desnagging,
-it recently transpired that some building area information was missing and this requires your
-action and update. You are currently identifying these areas and in the interim, snag/de-snag hard
-copies have been accepted and processed by the Engineer to avoid any delays.
-You provided details for the missing areas in Piers 1 and 2 Gatehouses entrance walls and cladding
-which has now been uploaded to Zutec. Please review the rest of the Piers and the CP for any other
-areas and systems omitted from Zutec and provide your updates as required to ensure the Zutec
-system is fully updated and useable for snagging and de-snagging.
-Subject Inspection Following Ceiling Panel Fall Incident
-Dear Sir,
-We write with reference to the Contractor's recent incident where a previously installed ceiling panel
-became dislodged and fell 25 meters, landing in close proximity to personnel operating at level 2 of the
-CP Area of the MTB.
-The Engineer and the Employer are yet to receive any progress updates as to the agreed and required
-reinspection
-of each installed ceiling panel that was detailed in post incident meetings and to be
-conducted as a matter of priority.
-The Engineer requires the Contractor to provide the following overdue information for the ceiling panels
-and the inspection hatches:
+Notice to Correct: Bumper Guard at Central Space, L0 Arrival Area
 
-• A specific strategy detailing the re-inspections and what they will entail, as well as confirmation
-of the re-testing criteria, and method.
-• It was also suggested that the removal of the polythene and the required cleaning of these
-panels will be done simultaneously, please confirm.
-• Program scheduling the start and completion of each section, including inspection milestones.
-• Prevention measures to avoid any further disturbance of panels and inspection hatches.
-• Detail the WIR process and communication to the Engineer.
-• Contractor's point of contact who will be leading this inspection activity. The Contractor is required to
-respond with all the information requested within 3 working days upon
-receipt of this letter.
-Subject: Project Director- Absenteeism
 Dear Sir,
-Further to the Principals Meeting of 24 April 2018, the Contractor records the absence of the
-Subcontractor's Project Director Mr. Nicholas Galati from said meeting. This absence was without prior
-notification and is of further concern since Mr. Galati is also the Subcontractor's appointed
-representative.
-The failure to attend the aforementioned meeting and a number of high level management meetings
-over
-the last few months has been noted by the Principals and for the avoidance of doubt is entirely
-unacceptable without prior notification, explanation and delegation of authority pursuant to Clause
-12.8.6
-Conditions of Subcontract.
-Notwithstanding the above, the Subcontractor is to advise the Contractor forthwith when Mr.Galati will
-return to resume his duties and obligations under the Subcontract.
-However, should Mr Galati be unable to perform his duties and obligations under the Subcontract,
-which
-include representation at high level management meetings, the Subcontractor pursuant to Clause 12.8
-of
-the Conditions of Subcontract shall confirm in writing a suitable replacement for due consideration by
-the
-Contractor.
+With reference to the above subject please be informed that the Bumper Guard installed by you at L0
+Arrival Area has been incorrectly placed at a level lower than the specified one and is not matching with
+the approved level as per the attached shopdrawings. Therefore, we hereby instruct you pursuant to
+Clauses 11.3 [Instructions of the Contractor] and 22.1 [Notice to Correct] to proceed immediately and
+take action to rectify the aforementioned accordingly.
+In view of the above, please be informed that any delays, costs, losses and/or expenses and the like
+incurred by us and/or Other Sub-Contractors arising as a result of your failure to complete the
+aforementioned activities will be solely your responsibility pursuant but not limited to Clauses 10.3
+[Contractor’s Claims], 12.12 [Other Contractors and Other Subcontractors] and 16.6.1 [Delay Damages].
+As mentioned above, all associated costs will be backcharged from your account according to the
+Conditions of the Subcontract Agreement
+Finally, this Notice to Correct requires your response within seven (7) days of receipt of this letter.
+Bumper guard by LM is installed at a level lower than required and affecting stone and skirting
+completion.
 Yours faithfully,

@@ -1,44 +1,9 @@
-
-Subject: Concurrent Delay
-Dear Mr. Matthews,
-I write in response to reference (1 ).
-The definition of "Concurrent Delay" in the Contract is clear. The Contractor's interpretation of the
-definition is strained and illogical. The definition does not state that both events must be on the
-critical path, nor that the effects of both events must start and/or end at the same time. Where the
-effects of the events start at different times and overlap, it is highly unlikely that the effects will end
-at exactly the same time. There is no logical reason why the effects must do so in order that the
-period of overlap be regarded as a concurrent delay. Had the Parties intended that the effects must
-be critical and start and/or end at the same time, they would have said so in the definition.
-There is no reason to believe that the Parties adopted the treatment of concurrent delay set out in
-the 2002 edition of the SCL Protocol. The Contractor's reliance on the Protocol for present purposes
-is somewhat disingenuous. The Contractor previously stated, when it suited the Contractor to take a
-contrary position, that:
-"In relation to the SCL Protocol, whilst the Protocol outlines its position in relation to the impact of
-concurrent delay on the assessment and award of extension of time and the recovery of any time
-related costs, it also does not define a specific methodology to adopt for the identification and
-quantification of any such concurrent delay.
-Furthermore, neither the AACE International or the SCL Protocol are defined under the Contract and
-reference to such documents by the Engineer simply clouds the issue as neither document gives
-guidance which can be applied to projects of the scale and magnitude of the Midfield Terminal
-Project." (reference 2)
-That text is clear. The Contractor's statement in paragraph (2) of reference (1) that the Employer's
-previous reference to that text was "taken out of contexf' is irrelevant.
-The Employer has not sought to, and does not need to, align any definition of concurrent delay in
-the Abu Dhabi Government Contract (there is none) with the definition in the Contract.
-The Employer reiterates that the English case law is irrelevant to the UAE jurisdiction. In any event,
-it is extremely difficult to reconcile the English decisions with each other, and with decisions from
-other jurisdictions such as Scotland, because each case was concerned with specific issues which
-did not require the judges to express views on concurrent delay as a whole.
-ADAC relies on ADAC's and the Engineer's previous correspondence on this matter. Where ADAC
-has not addressed in this letter any particular issue raised by the Contractor in reference (1 ), that
-should not be taken to indicate that the Employer accepts or agrees with the particular issue in
-question.
-Yours sincerely,
-Subject: Concurrent Delay
+Subject: Payment Guarantee
 Dear Sir,
-We write in response to your letter reference 1. We have responded to any new points raised in your
-letter (reference 1) in our response to the Employer's letter (reference 2).
-The Contractor continues to rely upon its letter reference (3), which well states the Contractor's
-
-position.
-Yours faithfully,
+We refer to the Advance Payment Guarantee issued on behalf of M/s J & H Emirates LLC in respect of
+the above contract and confirm reduction of the value for the following guarantee:
+1. Advance Payment Guarantee no. 123020375070-XF to be reduced by
+AED 2,526,079.00 (AED Two Million Five Hundred Twenty Six Thousand Seventy Nine
+Only) and new value of Advance Payment Guarantee to read as AED 60,173,921.00 (AED Sixty Million
+One Hundred Seventy Three Thousand Nine Hundred Twenty One Only).
+Best regards,

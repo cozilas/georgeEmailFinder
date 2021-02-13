@@ -1,71 +1,13 @@
 Dear Sir,
-We refer to the above and the scope defined for the Concrete Screed Works for the Midfield Terminal
-Building Project in the signed Subcontract Agreement dated 30 December 2014 with reference
-MTB/TCA/PPAINTIN G/L/000007.
-
-We have reviewed our current needs and accordingly we are issue this Variation No. 1 to the Concrete
-Screed Works Package for Abu Dhabi International Airport- Midfield Terminal Building Project. Descope
-works under this Variation is detailed in the enclosed "Scope of Descope Works" (Attachment 1),
-Descoped Amount is included at "Time Cost Report Sheet" (Attachment 2.1), Revised Contract Amount
-is updated at "Adjusted Contract Price" (Attachment 2.2), as well as "Variation Details" (Attachment 3)
-are enclosed. The terms and conditions of the aforesaid Subcontract Agreement shall also apply to this
-Variation No.1 for Descope Works of 100,000m2 of 70mm thick Screed to Floors.
-Note: In order to confirm this variation order, please sign and return, (1) this original letter and (2) the
-attached duplicate original Time/Cost Record and Adjusted Contract Price Sheets for our signature, in
-which fully signed copy will be forwarded to you, then Contract Price will be adjusted accordingly.
-On behalf of the TCA JV,
-Subject: Omission of Works as per Cl-00310 under Clauses 22.2.4 and 20
-Dear Sir,
-We refer to the Notices to Correct, identified above, and issued as mentioned ('Notice'). The Notices
-required you to make good and remedy the failures identified in the Notices, no later than seven (7)
-days after the date of the Notice. You have failed to make good and remedy the failures. On account of
-such failure, we now have the right to give notice to you terminating the Subcontract (under Clause
-22.2.2(b)), or omit section(s) of the Subcontract Works (under Clause 22.2.4).
-We hereby confirm and notify you that we have elected to initially omit the sections of Subcontract
-Works as per our letter referenced in (1) above and as identified in Schedules 1 to this Notice, and we
-expressly reserve the right to subsequently notify of further omissions of sections of the Subcontract
-Works, on account of your failure to comply with the Final Notice identified above.
-We will shortly issue you with a Variation Order for the omission of the sections of Subcontract Works
-identified herein however please be advised, that the preclusion against the instruction of omitted work
-to another contractor does not apply to any work omitted under Clause 22.2.4, following the issuance of
-a Notice to Correct. We confirm that, in accordance with Clause 22.2.4, the provisions of Clause 22.3 and
-22.5 sha ll apply to the omitted sections.
-This notice and the omission of sections of the Subcontract Works are without prejudice to all of our
-other rights under the Contract and at law, including our right to instruct further subsequent omissions.
-Additionally, please be advised that the following Packages are still within your scope of works therefore
-AGCA must continue with their execution without any further delay
-Dear Sir,
-We write in response to your letter reference {1) rejecting our claim for damages for breach of contract
-for instructing the omission of works for the purposes of giving that work to another contractor(s).
-
-As we have previously explained, it is considered a breach of contract for the Engineer to omit works to
-give to other contractors.1 You attempt to excuse the Employer from this rule by referring to the
-definition of "Variation" in Clause 1.1, i.e ., that a Variation includes "a) the addition, omission or
-substitution of any work or any part thereof' . It appears that you read this provision as permitting the
-Engineer to instruct the omission of work for whatever reason it sees fit, including to give to other
-contractors. This interpretation is inconsistent with industry understandings of the language, which
-considers that this clause only relates to genuine omissions, and not omissions in order for the Employer
-to contract that work elsewhere.
-We note that Clause 22.2.4 states that where the Employer descopes the Contractor's work for cause,
-the Engineer:
-[M]ay instruct another contractor to carry out such omitted work and the Contractor shall have not
-claim for loss of profit or contribution to overheads which it would have earned but for such omission. [.
-. .]. The Employer's right to omit a section(s) pursuant to this clause 22.2.4 shall be without prejudice to
-the Employer's right any time to omit any part or section(s) of the Works pursuant to clause 20.1 (Right
-to Vary) but shall not be subject to any restrictions on giving of such omitted work to another contractor
-any time." Such a provision would have been unnecessary if the Contract provided the Employer the
-right to omit works to give to other contractors. It further demonstrates that the Parties knew how to
-expressly provide the Employer this right when they intended to do so. Indeed, if the Employer could
-omit works for whatever reason, Clause 22.2.4's grant of authority to omit works for cause would be
-entirely redundant for the authority already conferred under Clause 1.1; even more, the Engineer could
-avoid the Contractor's procedural protections afforded by Clause 22.2.2 by instructing a simple omission
-under Clause 1.1.
-You also dispute the proper remedy for this breach. Under UAE law, at the very least, the remedy for
-such a breach is the contractor's lost profits and lost overheads. Against this, you refer to BOQ, Schedule
-6, Preamble 12 to claim that "[t]he Contractor shall not be entitled to payment for profit and overheads
-on the value of any omitted works." For the same reasons explained above, the words "omission" within
-Preamble 12 does not extend to this scenario and, thus, Preamble 12 is simply not relevant.
-The Engineer is requested to confirm that its letter reference (1) is its "fair determination" within
-meaning of Clause 11.4.1. If it was not such a determination, the Contractor requests that it issue such
-determination within 14 days of receipt of this letter as required by Clause 11.4.1.
+Further to our letter referenced (1) above, you are hereby instructed pursuant to Clause 11.3
+[Instructions of the Contractor] to install the Check-in Islands solid surfaces with all related components
+and canopies in the same manner as described in the abovementioned letter (prior to stone installation
+works), for islands C-03-04-05-06-011-012-013 and 014 accordingly.
+We hereby reiterate and confirm that you shall be indemnified against any damage caused by other
+Subcontractors; however, you shall remain responsible for the care, custody, safekeeping and protection
+of each part of your Subcontract Works in accordance to Subcontract Agreement Clause 24.2
+[Subcontractor’s Care of the Subcontract Works].
+Notwithstanding the above, pursuant to Clause 16.2 [Subcontract Time for Completion] you are required
+to take such actions as are necessary to complete the works within the respective Times for Completion
+specified by the Subcontract Programme as per Clause 16.3 [Subcontract Programme].
 Yours faithfully,

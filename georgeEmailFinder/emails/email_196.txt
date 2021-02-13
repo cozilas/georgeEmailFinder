@@ -1,61 +1,26 @@
-Subject Subcontractor's Application for an Extension of Time No. 1 and No. 2 - Preliminary Assessment
-and Outstanding Information
-Dear Sirs,
-Further to the receipt of letter references (1) to {3), please find below additional information required to
-enable the Contractor's assessment of the Subcontractor's applications for an extension of time.
-In respect of Extension of Time No. 1 (EOT-1) for the period from 14 July 2013 to 05 March 2015
-submitted via the Subcontractor's letter reference (1):
-a. Please note that the 20 nos. XER file of the 20 nos. window used in the Subcontractor's claim
-submission are corrupted and were imported into Primavera P6 with errors. Notwithstanding this,
-the Contractor proceeded with its analysis and is currently verifying the as-built information in
-these 20 nos. file using the imported data. For the sake of accuracy and in order to expedite the
-Contractor's assessment, the Subcontractor's is kindly requested to provide a set of fresh copies
-of these XER files.
-b. The initial review of these 20 nos. file shows that the analysed programmes are progress updates
-done on rev.-05 of the Subcontractor's baseline programme. Please confirm that these monthly
-progress updates, together with its monthly reports, have been submitted to the Contractor.
-c. The Subcontractor included in attachment 1.2 to EOT-1 a summary table of its window analysis.
-The Contractor notes that the completion dates provided in the fifth column of this table do not
-match with the completion dates in the 20 nos. XER file provided with its EOT-1 submission.
-Please clarify.
-d. The Subcontractor provided delay fragnet programmes for three delay events in Primavera P6
-under attachments 1.3A, 1.3B and 1.3C to its EOT-1 claim. Please provide the XER files of these
-delay fragnet programmes.
-
-In relation to Extension of Time No. 2 (EOT-2) for the period from 06 March 2015 to 22 December 2016
-submitted via the Subcontractor's letter references (2) and (3):
-a. The Contractor notes that the Subcontractor used rev.-05 of its baseline for its application for
-EOT-1. Further, the Subcontractor submitted, via its transmittal reference 13040-GPC-PD-HWTCAJVMTB-0282 dated 26 April 2015, an accelerated programme based on the Contractor'sProgramme Rev.6.2; however, rev.-01, rev.-02 and rev.-03 baseline programmes were attached
-to the Subcontractor's EOT-2 application. It is not clear which programme revision has been used
-by the Subcontractor for analysing the delay events of its EOT-2. Please clarify.
-b. The Subcontractor enclosed under Appendix I of its EOT-2 submission an 'as-built programme' as
-of 22 December 2016 prepared on rev.-02 of its baseline. This 'as-built programme' was
-submitted in pdf format. Please provide the corresponding XER file.
-c. The Subcontractor used three windows in its EOT-2 submission, viz:
-Window 1-from 14 July 2013 to OS March 2015
-Window 2- from 06 March 2015 to 31 December 2015
-Window 3- from 01 January 2016 to 22 December 2016
-The Subcontractor submitted the relevant delay analysis programmes under Appendices M, Nand
-0 of its EOT-2 application. These delay analysis programmes were also submitted in pdf format.
-Please provide the corresponding XER files.
-d. The Subcontractor included 32 delay events in its EOT-2 submission. Please note that:
-For delay event nos. 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 24, 27, 28, 29, 30, 31 and 32, only
-cost details have been submitted, i.e. no information has been provided thus far to assess
-the time entitlement in respect of these delay events.
-For delay event nos. 3, 5, 7, 8, 20, 21 and 22, only 'summary programmes' in pdf format
-have been submitted. Please note that these 'summary programmes' may not provide
-sufficient level of information vis-a-vis the Subcontractor's time entitlements.
-For delay event nos. 1, 2, 4, 6, 10, 23, 25 and 26, the Subcontractor submitted a
-'fragmented programme' of delay fragnets prepared in Primavera P6. This 'fragmented
-programme' was submitted in pdf format only. Please provide the corresponding XER file(s)
-to enable further review of these delay events.
-In summary, the Contractor understands that the Subcontractor used rev.-05 and rev.-02 of its baseline
-programme for its EOT-1 and EOT-2 submissions respectively. The Contractor would have expected that
-the Subcontractor had used for its EOT-2 submission progress updates on either rev.-05 of its baseline or
-the accelerated programme dated April 2015. Please clarify this.
-Please be kindly requested to furnish the Contractor with both the above requested clarifications and
-additional documents thus enabling it to continue with its assessment of the Subcontractor's
-entitlements. Please further note, that this letter is not, of itself, to be considered as an admission of any
-entitlement to an extension of time and/or additional payment, nor does it constitute a waiver of any of
-the terms of the Subcontract.
+Subject: Delay Notice No. 1013 - Engineer's Failure to Instruct IFC Drawings for the
+Dear Sir
+Common Use Self Service Kiosk Cameras and Data Points
+On 25 September 2017, the Contractor issued a Variation Order Request, under the cover of letter ref:
+MTBITCAIAECOMILI11561, dated 24 September 2017. In reference to the Employer's Design
+Consultant's
+response to RFI/0401115005 on 13 September 2017, the Contractor averred that the "the information,
+comments, clarifications and/or instruction contained therein constitute a Variation". Although the
+response to RFI/0401115005 proposed additional cameras, data points and switch ports in the Common
+Use Self Service (CUSS) kiosks, the Engineer has yet to incorporate the changes into IFC Drawings and
+instruct pursuant to CC-C 20.1.1(a).
+In relation thereto, the Contractor records that to date, the design information still remains outstanding.
+Therefore, the Engineer is urged to issue the revised design and accompanying Instruction to allow the
+CUSS works to progress.
+The Contractor contends that the Engineer's I Employer's Design Consultant's continued failure to
+address
+this matter constitutes a breach of Contract or an act of prevention on the part of the Employer's
+Personnel. Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the
+Contractor hereby notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
+the alternative, damages for breach of Contract.
+Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
+in
+due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

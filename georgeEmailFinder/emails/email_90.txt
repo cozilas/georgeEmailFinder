@@ -1,18 +1,208 @@
+Subject:Recovery of Overhead, Profit and Attendance due to the Omission of
+Other Contractors -- Request for a Determination Pursuant to Clause 11.4
+Dear Sir,
+
+Works to Give to
+
+We write in response to your rejection of our claims for damages resulting from the Employer’s breach
+of the Contract through the Engineer’s omission of works for the purposes of awarding that work to
+other contractors (references 1,2,3, 7).
+The Employer has breached the Contract through:
+1.
+The omission of the Defined Provisional Sum for Items 4/P/1/M, N, 0 & P, involving Stakeholder
+and Retail Spaces (reference 6).
+2.
+The omission of the provisional sum for the hotel fit out (reference 5); and
+3.
+The omission of the beam seating (reference 4).
+In all three cases, the work is required for a fully functional airport. Therefore, in all three cases, the
+Engineer has omitted these works in order to give the same, or substantially similar, work to another
+contractor.
+The Engineer has rejected each of the Contractor’s claims for lost overhead and profit resulting from the
+Employer’s breeches. Therefore, the Contractor respectfully requests that the Engineer issue a
+determination on this matter within 14 days of receipt of this letter as required by Clause 11.4.1.
+
+Given the protracted correspondence on this issue, the Contractor will restate its position below so that
+its position is stated in a single document.
+
+Basis of the Claim under the Contract:
+The original terms of the Contract were included within the request for tender. As the Employer has
+recently summarised: “The Contract is a bespoke contract that was heavily negotiated by the Employer
+and the Contractor. While the parties did negotiate some terms of the Contract, the operative
+provisions at issue were unchanged during the negotiations.
+The Contract defined a scope of work which the Contractor was to perform for a lump sum price. The
+Contract requires that the Contractor complete that full scope of the Works, and the Employer agreed
+to compensate the Contractor to complete the Works. Thus, the Contractor not only has the obligation,
+but also the right, to complete the Works and receive the Contract Price.
+As is typical in construction contracts, the Contract contemplates that the Employer might want to omit
+certain items from the Project. To that end, Clause 1.1 [Definitions] defines a “Variation” to include "a)
+the addition, omission or substitution of any work or any part thereof". Further, Clause 11.3.1
+[Instructions of the Engineer] empowers the Engineer to issue the Contractor “instructions and
+additional or modified Specification or Drawings which may be necessary for the execution of the Works
+… all in accordance with the Contract” and Clause 20.1.1 [Right to Vary] authorises the Engineer to
+instruct Variations.
+This language cannot reasonably be read to permit the Employer to de-scope work in order to award
+that work to another contractor. Rather, consistent with the contractual arrangement, the Engineer
+may only instruct the genuine omission of items. If the Engineer’s rights were unfettered, the Employer
+could take advantage of cost reductions by awarding work to other contractors while leaving the
+Contractor saddled with items of work for which there were cost escalations.
+The parties recognised as much. For example, Clause 22.2.4 [Termination by employer for Contractor
+Default] states that where the Employer de-scopes the Contractor's work for cause, the Engineer:
+[M]ay instruct another contractor to carry out such omitted work and the Contractor shall have not
+claim for loss of profit or contribution to overheads which it would have earned but for such omission.
+[...]. The Employer's right to omit a section(s) pursuant to this clause 22.2.4 shall be without prejudice to
+the Employer's right any time to omit any part or section(s) of the Works pursuant to clause 20.1 (Right
+to Vary) but shall not be subject to any restrictions on giving of such omitted work to another contractor
+any time.
+
+Such a provision would have been unnecessary if the Contract provided the Employer the unfettered
+right to omit works to give to other contractors. Indeed, if the Employer could omit works for whatever
+reason, Clause 22.2.4's grant of authority to omit works for cause would be entirely redundant with the
+authority conferred under Clause 20.1.1; it would also permit the Engineer to avoid the Contractor's
+procedural protections afforded by Clause 22.2.2 by instructing a simple omission.
+This plain reading of the Contract is reinforced by Articles 246 and 265 of the UAE Civil Code. Article 246
+provides:
+(1) The contract must be performed in accordance with its contents, and in a manner consistent with
+the requirements of good faith.
+(2) The contract shall not be restricted to an obligation upon the contracting party to do which is
+[expressly] contained in it, but shall also embrace that which is appurtenant to it by virtue of law,
+custom, and the nature of the disposition.
+Further, Article 265 provides that:
+[I]f there is scope for interpretation of the contract, an enquiry shall be made into mutual intentions of
+the parties without stopping at the literal meaning of the words, and guidance may be sought in so
+doing from the nature of the transaction, and the trust and confidence which should exist between the
+parties in accordance with the custom current in dealing
+In this case, the Engineer’s instruction to omit works to give to others is inconsistent with the
+contractual relationship: it unjustly deprives the Contractor the right to earn a profit on the full scope of
+its work. Also, as will be explained below, it is industry practice to read such clauses as prohibiting the
+Engineer from omitting works to give to other contractors
+Response to Engineer’s Arguments
+The Engineer claims that three provisions of the Contract permit it to omit work for any purpose
+whatsoever, including to award to other contractors:
+a) The definition of Variation in Clause 1.1;
+b) The definition of “Defined Provisional Sum” found in Clause 1.1; and
+c) The BOQ preambles.
+None of these provisions support the Engineer’s position.
+a) The definition of “Variation” only permits genuine omissions:
+
+The Engineer asserts that because the definition of “Variation” includes the word “omission”, the
+Employer is free to omit works for whatever reason without consequence. (References 1,2,3,7.) This is
+not what the word “omission” means.
+Every single commentary, and every court that has interpreted such language, has come to the
+conclusion that "a provision giving the owner or his [engineer] a power to make omissions only
+contemplates genuine omissions, that is, works which it is intended should not be carried out at all".
+For example, Al Sanhouri, states in his commentary:
+The Employer must […] not omit the works from the contractor after having promised him to undertake
+such works for a lawful cause. [This is because the Employer] is not allowed to unilaterally go back on
+his consent with respect to the contract except within the limits and pursuant to the conditions
+stipulated by law.
+In Carr v JA Berriman Pty Ltd, the contract contained a clause saying that: "The Architect may in his
+absolute discretion, and from to time, issue .... written instructions or written directions ... in regard to
+the ... omission ... of any work.'" In holding that it was a breach of contract for the architect to invoke
+this clause to omit works to give to other contractors, the High Court in Australia reasoned:
+The clause is a common and useful clause, the obvious purpose of which - so far as it is relevant to the
+present case - is to enable the architect to direct additions to, or substitutions in, or omissions from, the
+building as planned, which may turn out, in his opinion, to be desirable in the course of the performance
+of the contract. The words quoted from it would authorise the architect (doubtless within certain limits,
+which were discussed in R v Peto (1826) 1 Y & J 37; 48 E.R. 577 to direct that particular items of work
+included in the plans and specifications shall not be carried out. But they do not, in my opinion,
+authorise him to say that particular items so included shall be carried out not by the builder within
+whom the contract is made but by some other builder or contractor. The words used do not, in their
+natural meaning, extend so far, and a power in the architect to hand over at will any part of the contract
+to another contractor would be a most unreasonable power, which very clear words would be required
+to confer. (Emphasis added.)
+Similarly, in Gallagher v. Hirsh, the contract provided that: "Should the [employer] at any time during
+the progress of the said building request any alteration, deviation, additions or omissions from the said
+contract he shall be at liberty to do so." In finding that the employer breached the contract in omitting
+this work to award to another contractor, the Appellate Division in New York State held that:
+The words are, 'additions or omissions from the said contract,' evidently meaning additions to or
+omissions from the work to be done under said contract, which clearly negatives the idea that they were
+intended to mean that the [employer] should have the right to omit the work from the plaintiffs
+contract, in order to give the contract to another to do the same thing. (Emphasis added.)
+
+More recently, the High Court of Hong Kong Special Administrative Region Court of First Instance
+construed a variation provision that permitted the instruction of the “addition, omission or alteration of
+work items required to complete the Project.” Holding that “it would require clear language to support
+a construction” that the employer was permitted to exclude works entirely that were required to
+complete the project, the court found that the language was not sufficiently clear to permit the
+employer to descope works for purposes of awarding that work to other contractors.
+While the Contractor appreciates that these authorities are not from UAE courts, the authorities are
+persuasive because they interpreted the very English-language terms used in the Contract. Moreover,
+they evidence the industry standard in construction contracts. This is a mega-project in which the
+Employer solicited tenders from international construction firms. Certainly, the Employer should have
+been familiar with the terms it was proposing and the fact that they had a settled meaning in the
+industry. Such industry custom and practice is, as a matter of UAE, directly relevant to the
+interpretation of a contract.
+
+b) The definition of “Defined Provisional Sum” only contemplates genuine omissions
+With respect to the omissions of the provisional sum claims, the Engineer asserts that the definition of
+"Defined Provisional Sum" permits the Employer to omit such items for purposes of instructing other
+contractors. (Reference 1,2, and 7.) The Engineer relies upon the definition of "Defined Provisional
+Sum", which is, "a sum included in the Contract Price ... for the execution of any part of the Works ...
+which sum may be used, in whole or in part, to not at all, on the instructions of the Engineer."
+Again, authorities are in agreement that this language does not permit the Engineer to omit Defined
+Provisional Sums in order to award that work to other contractors. To the contrary:
+Provisional sum work has been treated as definitive and not contingent, so that its omission under a
+power to vary, if intended to have the work done by another Contractor, has been held to be outside
+the power and in breach of contract entitling the Contractor to damages.
+For example, in Hydro Holdings, the contract included a provisional sum for a nominated subcontractor
+but the employer directly awarded that work to another contractor. In holding that the employer's
+omission of provisional sum work to reallocate to another contractor constituted a breach of contract,
+the Court held that, based on “common sense and business morality”:
+Under the terms of most contracts, an employer who exercises a power to omit work must genuinely
+require the work not to be done at all, and cannot exercise such a power with a view to having the work
+carried out by someone else.
+
+Similarly, in Amec Building Limited v. Cadmus Investments Co Limited, the employer omitted work
+relating to a provisional sum and later awarded it to a third party. The court noted that the contract
+provided the architect "the power ... in his sole discretion to withdraw any work from provisional sums
+for whatever reason if he considers it in the best interests of the contract or the employer so to do."
+Despite this, the court affirmed the award of lost profits for the omission of provisional sum work to give
+to another contractor.
+While the Contractor appreciates that this Contract is governed by UAE law, these authorities: (a)
+directly opine on the language used in the Contract; and (b) establish that there is an industry practice
+and that practice is relevant to the interpretation of the Contract as a matter of UAE law.
+c) BOQ, Schedule 6, Preamble 12 is not relevant
+The Engineer relies upon BOQ, Schedule 6, Preamble 12 which states that "[t]he Contractor shall not be
+entitled to payment for profit and overheads on the value of any omitted works." (References 1,2,3.)
+This reliance too is misplaced.
+First, this clause is inapplicable because the Contractor is seeking damages for a breach of contract and
+not for an omissions. As Emden's Commentary notes, "if an omission takes away work in order to have
+it carried out by another contractor, it seems unlikely this will be a variation, but will be a breach of
+contract." As such, this clause is not relevant and does not exculpate the Employer from paying the
+Contractor what is due as a matter of law. Second, for the same reasons explained above, the words
+"omission" within Preamble 12 does not extend to this scenario and, thus, Preamble 12 is simply not
+relevant.
+*
+*
+*
+Based upon the above, the Contractor cannot concur with the Engineer’s position. Accordingly, the
+Contractor requests that the Engineer render a determination within meaning of Clause 11.4.1 with the
+impartiality and competency required by the Contract.
+For the avoidance of doubt, the Contractor is separately claiming for the costs of extra coordination, the
+provision of materials to other contractors, and the delay and/or disruption to its work caused by the
+other contractors.
 Subject:Store yard - Unsecured East Airfield Near ATCC
 Dear Sir,
 We are in receipt of a notification from the Employer regarding the lack of security measures at the
-store yard areas as per the subject matter. Accordingly, we would like to inform you that certain actions
-have to be taken by you to safeguard the store yards and ensure that all HSE procedures are being
-followed at all times.
-In light of the above, you are hereby instructed pursuant to Clause 11.3 [Instructions of the Contractor]
-to use all safety measures at the store yards by taking all necessary actions and deploying all required
-resources i.e. security to be allocated on a twenty-four (24) hour basis and fencing to be placed at the
-perimeter of the store yards.
+store yard areas as per the subject matter. Please note that as per Clause 4.1.1 of Schedule 22 [4.1.1
+Security of the Subcontractor Works (clause 12.14.3 (d))], you are solely responsible for the safety
+obligations related to your Subcontract works. Furthermore, Clause 5.4 under Schedule 22 [Security of
+
+the Site (clause 12.28)] states that “The Subcontractor shall provide security of his lay-down area,
+offices, workshops and storage facilities as per the conditions mentioned under Facilities Responsibility
+Matrix (Appendix “K”)”. Accordingly, be informed that the safeguard of the store yards which will ensure
+that all HSE procedures are being followed at all times is your responsibility.
+Consequently, after you have been requested to provide the required security measures numerous
+times and since you have failed to do so, we hereby inform you that we have taken all necessary
+measures on your behalf to safeguard your store yards and laydown areas . Hence, please be informed
+that all required resources have been deployed and security on a twenty-four (24) hour basis has been
+allocated at the areas as shown in the enclosure (marked with orange colour). Specifically, two (2)
+Security checkpoints with all the required facilities have been successfully established and four (4)
+security officers during dayshift and four (4) during nightshift, total eight (8) security officers have been
+deployed at the lay down area near ATCC since 7th April 2018 at 18:00 hrs.
 Additionally, please be informed that further action must be taken to improve the following matters:
 •
-Security guards to be placed as mentioned above;
-
-•
 All routes/pathways have to be properly segregated; currently, there is no proper segregation.
 Please do the needful;
 •
@@ -33,5 +223,5 @@ Assign emergency personnel and ensure that their contact numbers are displayed a
 “Emergency Contacts” in case they are needed at any given time.
 In light of the above information, you are informed that you are required to comply at all times with the
 Project’s procedures and all of the HSE processes in place.
-This is for your information and further action.
+This is for your information, records and further action.
 Yours faithfully,

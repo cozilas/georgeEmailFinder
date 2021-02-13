@@ -1,0 +1,127 @@
+Subject: Schematic design for Suspended Glass Structure
+Dear Sir,
+We refer to your letter LTR-02038 and advise that the Suspended Glass Structure is a Defined Provisional
+Sum item (B ill 4/E).
+The Contract requires the Engineer to issue his instructions for this Defined Provisional Sum item by no
+later than the time " ... contemplated by the information release dates set out in the Bill of Quantities ...
+"being
+NTC + 365 days, approx .. 16 August 2013.
+Such instructions should be given under an Engineer's Instruction, or Variation Order, and include the
+approved supply and install tender for the selected subcontractor, the necessary designed Drawings,
+Specifications, agreed commercial terms and whatsoever required to enable us to place a subcontract
+with the selected tenderer.
+The Contract does not define this DPS item as a Contractor supplied item or as Contractor designed
+item. The Contract Documents include a 'Design Report Vol 3 of 4, Book 19 of 24- Light and
+WaterConcept
+Design and Proposal' as prepared by Carpenter I Lowings Architecture & Design {CLAD), in
+which CLAD clearly state that the design is theirs and that Arup have assessed it for impact on
+surrounding structures and seismic conditions. There is no Specification for this DPS item in the Contract
+Documents.
+Accordingly, we are unable to accept the supply of or any design liability for this item and accordingly
+we shall not be pursuing the requests included in your referenced letter.
+We respectfully request the Engineer to follow the agreed procedures for DPS Items and issue a full
+package as summarized above that enables us to place a subcontract with the selected tenderer.
+In the meantime, we will assist you where possible with the Employer's selected tenderers in workshops
+on matters related to buildability, access, programme, etc., but not in matters of design.
+In conclusion we will adhere to the Engineer's Instruction in due course to enter in to 'supply and install'
+subcontract with the Employer's selected tenderer on the basis stated above.
+
+Subject: Inconsistent Engineer's Review Comments Face Recognition (FR) System Low Level Design
+Submittal
+Dear Sir,
+With reference to Engineer's action code 3 'Revise and Resubmit' in respect of 'Low Level Design
+Document {LLD) - Face Recognition System (FR)', please be advise that comments forming the basis of
+this action are not justified and contrary to the design and configuration of the FR System as set out in
+Engineer's Instruction 294 ref. {2) above.
+Moreover, the Engineer ought to be aware that the submitted LLD for FR System is consistent with the
+design deviations expressly agreed with the Employer and recorded in Engineer's instruction ref. (2)
+above.
+A copy of the Employer approved design deviations as instructed in El-294 inclusive of Section 6 of
+ATLAS Letter AST/TCAJV/TV/TD/0031 dated 4 February 2015 regarding 'Response to Technical
+Compliance' is attached for your reference. With specific reference to Specification Sec. 272050
+paragraph 2.11.B 'Computer and Server Equipment' the Employer agreed the following deviations:
+"For point related to specific hardware redundancy and location inside MCR's; onlv LPR & FR supplied
+subsystem will be rock mounted servers in SCR's as per Manufacturer's solution and system architecture
+requirements recommendations for system performance and accuracy aspects." (Added emphasis).
+Moreover this concept of FR severs in the SCR has already been approved in the FR NICD and SCR
+Cabinet Layout Shop drawings. However, contrary to the above provisions the Engineer's comments in
+the FR LLD included without
+limitation the following:
+"Page 9 of 52. Jpsotek VIS108FR-R-POE also known as the "Face Recognition Data Processing Units (FR
+DPU)", are installed with Cognitec FaceVacs FR software in the SCR." and "lpsotek VI SFRDB-RC servers,
+also known as the "FR Database {FRO 8} servers", are installed with Cognitec FaceVacs FR software and
+lpsotek V/Suite VA software in the SCR."
+"Contractor to move all servers to MCR or Data Center, reflect this in the document and resubmit.
+Contractor to add load distribution on MCR and Data Center for the servers. Contractor to ensure to
+update related documents if this impact approved SCR/MCR shop drawings." (Added emphasis)
+These comments will effectively change the agreed FR system design in respect of the placement and
+connectivity of the FR OPUs & FR DB Servers. As a result Atlas has stopped all further progress of these
+Works until the above contemplated changes are addressed in a reasonable and rational manner. For
+clarity and avoidance of doubt, such changes would result in below mentioned abortive works and
+various impacts as follows:
+a) Re-Design of MCR/DC Internal cabling Infrastructure including related MEP and SCN works to
+support the equipment in the new location
+b) Update & Re-submit all the approved Shop Drawings and NICD Document.
+c) Procure; Install & Commission additional support infrastructure equipment
+d) The following activities as per Program rev 10.2 will be delayed( not limited to. ):
+Therefore, the Engineer is requested to urgently re-consider its comments forthwith and/or to further
+elaborate upon the basis of the requested changes. Moreover, the above referenced Engineer actions
+
+constitute a Variation which are not in the form of, or have been previously instructed in writing. To the
+extent the above changes are required, you are requested pursuant to clause 20.1.4 (b) please issue
+revised Drawings and/or Specification and an Engineer's Variation Order pursuant to clause 11.3.3 and
+20.1.1 (a), respectively.
+We reserve our rights to all additional costs and delays caused by the Engineer's disruptive comments.
+Subject: Approval of Fire Life Safety Design and House of Expertise Responsibilities
+Dear Sir,
+We refer to your letters reference (11) and (12) above, and the copy of ADAC letter reference (10)
+enclosed as part of your letter (12).
+Sequence of Submittal Approvals
+In respect of your query regarding the sequence of Submittal reviews and approval, kindly review and
+return our submittals in the order in which the Submittals are submitted for approval. · We will alert
+you in the event we require a different prioritization of the Submittals.
+Clause 12.1.6 (k)
+In respect of your comments regarding Clause 12.1.6 (k), be advised that failing to obtain an
+Employer's Permit is a design error beyond the scope a Design Error capable of being identified by
+Experience Contractor practices. All changes required to rectify such design errors are beyond the
+capabilities of an Experienced Contractor. You are well aware that such capabilities are within the
+reach of highly specialized fire and life safety consultancies. Please refer again to our self-explanatory
+letter reference (8) above.
+We note that in respect of giving notices, the matter of compliance with Applicable Law was raised
+during tendering whereby ADAC confirmed to the bidders via Tender Bulletin 18, RFC-3319 to "Price in
+accordance with the Employer's design. Any changes due to design code requirements will be
+coordinated and discussed with the successful Tenderer." This should put to rest any doubts regarding
+the reservation of our rights considering the absurd
+allegations that 3 rd party HOE is a Contractor responsibility considering that the ADCD Permit for the
+Works has yet to be approved and your unjustified comments regarding our obligations to scrutinize
+numerous and unjustified reissuances of Fire Strategy Reports. The Tender Bulletins are expressly
+incorporated into the Contract to clarify and resolve discrepancies
+in the scope of the MTB Works. This was agreed between the TCA JV and ADAC to set limits to on the
+physical scope Works and to establish accountability for further changes thereto.
+You are well aware that the strategy report is the basis of the Employer's design and it has no use to
+us until it is developed into designs and constructible IFC documents capable of being implemented
+for the execution of the Works (i.e. steps 1 to 3 in the ADCD six-step process).
+We note you have not yet confirmed if the strategy report revisions 11 will be the last. Such
+confirmation would be a true indicator of ADCD's approval of the design and would signal our ability
+to proceed with the IFC documents without risk of unjustified retributions and allegations of failure to
+comply with Applicable Laws.
+Responsibility for HOE
+We disagree with your conclusion regarding the responsibility for engaging the third party HOE
+Consultant as specified in the ADAC/ADCD agreed six-step process. Your statement referring to (10)
+
+as confirming agreement by us to such process and MOU is not true.
+The aforementioned ADAC letter confirms ADAC's compliance with ADAC's own agreement towards
+ADCD and acknowledges ADAC's responsibility for doing so. It confirms and vindicates our numerous
+objections that we are not party to the six-step process agreement and numerous notices that the
+processes described in the ADAC/ADCD agreement relate to ADAC responsibility approval processes.
+ADAC is so lely responsible for fulfilling the agreements is makes with any Governmental Authority,
+including in this instance ADCD.
+Therefore, ADAC's appointment of AON as a 3 rd Party HOE Consultant to comply with the terms of its
+own agreement with ADCD in order to satisfy its own obligations for ADCD Permit for the Works in
+compliance with fire and life safety codes is ADAC's sole responsibility including the consequences
+arising there from. Please be advised that we are appointing our own independent consultant to ensure
+that the Works
+conforms to ADCD authorized documents and approvals.
+We refuse any responsibility or accountability for the Third Party retained by ADAC and will respond to
+ADAC's claim for the 3rd party HOE costs in due course.
+Yours faithfully,

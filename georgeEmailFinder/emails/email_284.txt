@@ -1,0 +1,48 @@
+Subject The Contractor Presentation of 'Concurrent Delay' dated 18 January 2017
+Dear Sir,
+Following the Contractor Presentation of 'concurrent delay' made to the Employer and the Engineer
+on Wednesday 18 January 2017 we wish to record the following points ahead of any formal
+submission by the Contractor.
+The Contractor's Time Impact Analysis (TIA) Methodology outlined at the meeting is not accepted by
+the Engineer due to the following:
+a. The Contractor's Methodology is unnecessarily complicated compared to the traditional and
+widely recognized Window analysis technique and it does not conform to any recognized method
+of delay analysis by any practice such as the SCL or AACE International.
+b. It was not made clear by the Contractor why it is necessary to extract the data from Primavera to
+MS Excel and then to MS Access and then back to Primavera. Primavera is the approved
+programming software and is capable of performing all the required analysis. It is the Engineer's
+opinion that this chosen approach by the Contractor unnecessarily increases the risk of errors
+occurring and confuses the analysis.
+c. The Contractor has introduced new Milestones and Constraints to the baseline programme for
+the CSP and Piers without the approval from the Engineer. Contractually this is non-compliant
+and currently not accepted.
+d. The Contractor has deleted many activities without the agreement and approval of the Engineer,
+again this is contractually non-compliant and currently not accepted.
+e. The Contractor has disregarded the Contractor delays that exist in and evidenced within the
+records of correspondences / minutes of meetings etc.
+f. The Contractor stated "there are some concurrent delays" but failed to demonstrate how this
+was calculated and did not provide an explanation why the concurrency analysis, which is
+required as part of its TIA submissions, is not yet finalized.
+g. The Contractors independent third party expert appears to have simply agreed with the
+Contractors analysis and has not submitted an independent report on the matter of Concurrency.
+Further to the meeting and in regard to the Contractor's CDA Submission date 27 August 2015, the
+contention of the Contractor stated in Para 5.28 and 5.29 that;
+''The results of the analysis for each delay event in each monthly delay analysis period are
+classified into 3 categories. This will, the Contractor hopes~ assist the Engineer to reach a
+speedy determination of the financial implications of the delays to section of the Work",
+[emphasis addedt does not provide any such assistance whatsoever to the Engineer due to the
+fact that the Contractor has failed to demonstrate any 'culpable delay' or 'unallocated delay' as
+asserted, in its CDA submission.
+We trust this is a true and accurate record of the presentation and we note for record purposes that
+
+the new approach adopted by the Contractor in this presentation to evidence the existence or not of
+any concurrent delays differs significantly from the previous approach adopted in the previously
+submitted Consolidated Delay Analyses where no concurrent delays due to the Contractor have been
+evidenced and is contrary to the current approach the Contractor has presented in identifying
+areas/periods during the course of the Works where the Contractor was culpable for some of the
+delays. Although the above points will need to be addressed, the Engineer welcomes the principle of
+admitting the Contractor own delays within the analysis which is what is required under the Contract
+and as a pre-requisite before any compensation can be finalized . This presentation supports the
+Engineer's stand that all previously submitted CDAs are not in compliance with the Contract
+requirements.
+Yours faithfully,

@@ -1,0 +1,133 @@
+
+Subject: Delay Notice No. 1031 - Settlement of Manholes and Pipelines along the
+Dear Sir,
+Perimeter of the Main Terminal Building- Unforeseeable Physical Conditions
+The Contractor writes with reference to the Geotechnical Report undertaken by Robert Bird, in relation
+to
+the settlement of the manholes and pipelines, issued under letter ref: (6) following receipt of the NCRs
+(1),
+(2) and {4), as well as refers to the Contractor's previous letter ref: {3) and Engineer's letter ref: {5).
+The content of the Geotechnical Report is self-explanatory. As previously advised under letter ref: {6), it
+is
+evidently clear that the settlement of the manholes and pipes is not attributable to the Contractor, with
+the Geotechnical Report stating conclusively that inter alia " ... a review of the project specification
+requirements, testing of backfill material, RFI documents and field testing records concluded that TCA JV
+has met the requirements as set out by the project and agreed with the client's representatives"
+The physical conditions that have contributed in causing settlement of the manholes and pipelines could
+
+not have reasonably been foreseen. Accordingly we hereby give the Engineer notice of the same
+pursuant
+to Clause 12.18.2 Conditions of Contract. It is also clear that whichever of the four strategies advised of
+in
+the Geotechnical Report are selected by the Engineer as being the adopted method for remedying the
+settled manholes and pipework, will impact upon the Contractor's ability to achieve Milestones MS09A1
+(Pier 2 Taking Over), MS09A2 (Pier 3 Taking Over), MS09A3 {Pier 1 Taking Over), and MS09A4 {Pier 4
+Taking Over), plus Milestones MS09B {Substantial Completion) and MS10 (Completion of NOTP).
+Therefore in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
+hereby
+notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(b) (iii); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Sub-Clause 12.18
+'Unforeseeable Physical Conditions'.
+Subject Contractor's Interim Claim for Disruption
+Dear Sir,
+We write with reference to correspondence (1) wherein the Contractor has submitted an interim claim
+for alleged Disruption and Acceleration.
+The Engineer has undertaken an initial review of the submitted claim and has identified that the claim is
+not fully detailed or substantiated.
+Furthermore, we note that the Contractor's claim submission is a "Global Claim" consisting of
+summarized values without any details and substantiating data, contemporary records and no
+demonstration of cause and effect to support any entitlement to additional Cost.
+Moreover, we note that the Contractor has included in its claim a forecast for disruption to be incurred.
+These costs shall not be the subject of the Engineer's assessment and are rejected given that only costs
+actually incurred should be included in the claim submission.
+Additionally, we reject the Contractor's contention that as per the UAE law causation is presumed and
+requires no proof. The Contractor's interpretation of the law is irrelevant with the Contractor's
+obligation under the Contract.
+The Contractor's submission fails to distinguish between the claimed costs under different claim
+submissions. The Contractor shall clarify which submissions are superseded by the current claim in order
+to avoid "double dipping".
+The Engineer has identified the following (but not limited to) deficiencies which the Contractor is
+required to address in order to enable us to diligently assess the submitted claim:
+Deficiencies of the claim submission
+1. The Contractor has failed to evidence a causal link between the alleged events which have caused
+the disruption and the Employer's culpability;
+2. The Contractor has failed to evidence a causal link between the alleged events which have caused
+the disruption and the associated cost claimed to have been incurred by the Contractor; 3. The
+Contractor has failed to provide evidence that it has issued notifications in accordance with the
+
+Contract regarding the alleged disruption events;
+4. The Contractor has failed to provide evidence of the mitigation measures it has implemented to
+avoid any disruption;
+In addition to the above deficiencies, the Engineer has also the following observations:
+Observations
+1. Item 2.2.1 of the Contractor's claim states - "On the basis of delay to the progress of the Works
+(which the Engineer wrongly attributed to the Contractor), the Engineer instructed Contractor to
+expedite progress on various occasions." This statement is general and cannot be responded to. The
+Contractor is to submit details and substantiation regarding the alleged delays which have wrongly
+been attributed to the Contractor;
+2. Item 2.2.3 of the Contractor's claim states - "These implied instructions constitute Variations for
+which the Contractor is entitled to a valuation under Clause 16.4.3 and 20.3." The Contractor is to
+submit details of "these implied instructions" and evidence the reasons they are to be valued as
+Variations;
+3. Please explain the statement in Item 2.3.2 of the Contractor's claim regarding an "accumulation of
+the "Costs" that it incurred for each individual Variation."
+4. The Contractor stated that the Employer/Engineer has failed to coordinate the works with Other
+Contractors. Clauses 12.11 and 12.12 of the Conditions of Contract impose an obligation on the
+Contractor - not the Employer- regarding the coordination with Other Contractors. The Contractor is
+deemed to have accounted for this coordination in its Contract Price.
+5. The Contractor claimed that the IFC design information and Variations have been issued in a
+deficient manner and the Engineer has been deficient in administrating the Contract. The Contractor
+is required to provide details of the design information and Variations which have been issued in a
+deficient manner and evidence how they directly caused the Contractor to be disrupted.
+6. Item 2.3.13 of the Contractor's claim states - "The Contractor does not contend that every single
+change arose out of matters for which the Employer is responsible. But the bulk of them did". This is
+a general statement which lacks any substantiation to support it. The Contractor is to explain what is
+meant by "bulk" and provides specific details to evidence that the events to which it refers had an
+actual disruptive impact.
+7. The Contractor provides single sided arguments, i.e. reference is made to its own correspondence
+without referencing the received Engineer's responses.
+8. The claim lacks any demonstration of an incurred loss, i.e. it is a globalized evaluation method.
+In light of the above, the Engineer contends that the Contractor has not demonstrated an entitlement to
+additional cost at this stage as it has failed to establish causality and culpability of the events which
+allegedly has caused disruption.
+MTC
+Subject:
+Dear Sir,
+
+Notice of Delay - BIM Delays - EDI Submission
+
+With reference to the above subject and further to the official correspondences referenced herein (in
+addition to the numerous emails sent to you), we raise our concerns regarding your failure to fulfil your
+contractual obligations in relation to the execution of BIM deliverables in a timely manner.
+Upon reviewing your current status it is evident that the following shortfalls persist:
+You have failed to provide a Track Table and planned dates of submission for your scope of
+LOD400 tagged models, refer to email reminders enclosed.
+You have failed to provide a QA/QC check list proposal, following the request forwarded to you
+in the above correspondence (3).
+You have failed to provide a sample for LOD400 tagged model.
+You have failed to provide a sample for As-Built LOD500 model.
+You have failed to respond and action our requirements forwarded to you via letter ref. (3) and
+ref. (4).
+You have failed to provide a workflow illustration of how to export native format files into DGN
+format.
+You have failed to provide IFC compliance certification; confirming that the software used for
+modelling is compliant with the IFC 2*3 format.
+You are hereby immediately required to complete the above actions and comply with your contractual
+obligations by referring to:
+Schedule 12 (Specifications) Section 019800 [Building Information Modelling (BIM)], Section
+013300 [Submittal Procedures], Section 013113 [Contractor’s Work Coordination Responsibility], Section
+017700 [Project Close Out], and Section 019500 [Requirements for Facilities Management and
+Maintenance].
+BIM Implementation Plan - Sub-Contractors Participation Requirements.
+Be reminded that in the event you fail to demonstrate your full compliance towards the above within
+twenty one (21) days from the receipt of this letter, MTB TCAJV will proceed with the required actions
+on your behalf and will back charge you accordingly. Our BIM department have provided a breakdown
+of projected costs based on the resourcing requirements necessary to undertake the aforementioned
+tasks (see enclosure B).
+In addition to the above, you shall be held responsible for any loss, damages and/or extra expense
+TCAJV and/or other affected trades may incur as a result of your delays in the completion of your BIM
+obligations. This includes but is not limited to the costs for TCAJV BIM Team's services incurred in
+assisting, supporting, educating and even rendering your scope of work on your behalf, so as not to
+hinder the BIM coordination process.
+Yours truly,

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613168125 source:c:\users\cozilas\desktop\hw10\ex2\georgeemailfinder\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<vector>
+

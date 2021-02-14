@@ -1,15 +1,37 @@
+Subject:SAA8 Sub-Clause 2.26, E-Notice No. – E0001 – Delays to SMIS Maps – Confirmation of 2D/2.5D
+Dear Sir,
+We write in connection with the above mentioned subject and notify you pursuant to Sub-Clause 2.26 of
+the Settlement Agreement and Amendment No. 8 that this event may cause delay to the Works and
+therefore we seek your swift resolution to avoid any future disruption or delay pertaining to this matter.
+Further to the above correspondence as well as email communications dated 23 April 2018 and 14 May
+2018 as well as the Live Demonstration held in April 2018.
+The email dated 23 April 2018 documents an agreement in a meeting where the Police and stakeholders
+will review and approve the maps in SMIS (2.5 D and 2 D) as well as the alarm configurable items to be
+approved.
+In a follow up email dated 14 May 2018 we expressed our need to understand if we have to proceed
+implementing on SMIS standard 2D or 2D isometric maps.
 
-Subject:Re: Water Spill on top of grouted stone flooring tiles- CP Level 3.0
+Our last correspondence reference (1) we once again requested the Employer to confirm with which
+option we should proceed. However, to date we have not received any response, guidance, decision or
+instruction regarding this issue.
+You are hereby informed that as per programme the SMIS ISAT test is scheduled for 21 October 2018,
+however this cannot take place as the MAPS, an integral part of the test, has not yet been developed
+due to the afore mentioned delay in response to our request to either proceed with option 2D or 2.5D.
+Pursuant to Conditions of Contract Clause 9.10.3, we [again] hereby request that the Engineer issue us
+with the requested information together with an accompanying Engineer’s Instruction; failing which the
+Works are likely to be delayed and/or disrupted.
+As noted, the resultant delay and/or disruption is likely to impact upon engineering and procurement,
+BIM modelling and construction, due to our inability to proceed absent receipt of the requisite
+Instruction.
+Please note that the amount of delay and/or disruption cannot be particularised as the time (not least
+due to the fact that the Contractor does not know when the Engineer will issue the requested
+information) but the Contractor will keep the Engineer informed or any delay and/or disruption should
+these materialise.
+We reserve our rights under the Contract to an extension to the Time for Completion and additional
+Costs arising from the above described event.
 
-Dear Sir/Madam,
-We are in receipt of your letter referenced (1) wherein you have informed us about the incident
-showing the water flood on grouted stone flooring tiles at CP Level 3.0. After reviewing the evidence
-submitted with your letter we note that the stone as shown in the pictures and video is not protected
-properly. As per your Subcontract obligations, you failed to take all appropriate actions to protect your
-works using the blue sheets under the plywood.
-Furthermore, you are reminded of your obligations under Subcontract Clauses 15.6.2 [Passing of risk
-and title], 24.2.1 and 24.2.2 [Subcontractor’s Care of the Subcontract Works] to protect your works until
-ownership transfers to the Employer upon Taking over Certificate in accordance with Subcontract Clause
-18 [Contractor’s Taking Over].
-This is for your information and further action.
+Your further guidance, decision and/or instruction is required by no later than 08 November 2018 at the
+very latest; failing which the Works are likely to be delayed and/or disrupted.
+We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
+extension to the Time for Completion and additional Costs arising from the above described event.
 Yours faithfully,

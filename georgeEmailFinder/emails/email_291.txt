@@ -1,44 +1,54 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0165
-Delays due to Damages to Fire Protection Sprinklers at CP Level L3.0 – L3.1 Sector 5.14B Escalator
-caused by the Employer’s Fit-Out Contractor (DEPA) - Request for Engineer’s Instruction / Variation
-Order
-Dear Sirs,
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0172 [Update to E-Notice No. 0122]
+Delays to Completion of the Works due to a Further Change in Requirements to the Material to be
+applied to the Surface of Precast Planters and Seating
+
+Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-Annex A records delays attributable to damage caused by the Employer’s Other Contractor (DEPA) to
-previously installed Fire Protection Sprinklers at CP Level L3.0 – L3.1 Sector 5.14B Escalator, which
-requires rectification and as such requires an Engineer’s Instruction (EI) and Variation Order (VO) in
-order for us to do so.
+The matters described in Annex A concern delays to the Works due to further changes subsequent to ENotice No. 0122 (issued vide letter ref: 1), i.e. the further change in requirements to the material to be
+applied to the surface of the precast concrete planters and seating throughout the MTB.
 Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 2 October 2019 we received letter reference MTB/PCEJV/TCAJV/L/05590, dated 22 September 2019,
-from the Mechanical Works subcontractor (M/s PCE JV), enclosing a letter from their subcontractor,
-NAFFCO dated 14 September 2019, notifying us of additional “time implications” and “associated
-additional costs” due to damage caused by the Employer’s Fit-Out Contractor (M/s DEPA) to their
-previously installed Fire Protection Sprinklers at CP Level L3.0 – L3.1 Sector 5.14B Escalator.
-Despite the sprinklers having been installed, inspected and handed over vide the WIR process, PCE JV /
-NAFFCO advised that the damage occurred while DEPA was dismantling their pipes at CP L3.0 North
-Lounge. A copy of PCE JV’s ‘Notification’ and accompanying letter from NAFFCO [attaching a series of
-photographs evidencing the damage to the previously installed sprinklers] is attached for reference.
-In view of the above and the content of the attached letter, it is evidently clear that the events and
-circumstances cited herein are not of our doing or responsibility, and any rectification / remedial works
-necessarily required to re-install and re-test the damaged sprinklers will invariably delay us.
-We therefore inform you that in order for us to undertake the rectification works to the damaged
-sprinklers noted above, we will require a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
-down strict guidelines to follow in the event that additional works are required and we therefore
-request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
+On 21 August 2019 we submitted E-Notice No. 0122 via letter ref: (1), notifying you of the delays and
+disruption to the Works consequent upon the protracted delays in the selection and approval by you of
+a material to be applied to the surface of all precast concrete planters and seating throughout the MTB.
+The information recorded within the content of and attachments to E-Notice No. 0122 shows that
+application trials of eleven (11) different types of sealer first commenced in January 2019 and then
+subsequently culminated in the submission of hydrophobic coating sealer (‘A-Z Ultra Sealer for Precast
+Planters’) by way of MS/0401/A/1756 Rev. 00, which was approved by you on 9 July 2019.
+However, following completion of the Mock-up and after numerous comments, discussions and site
+visits, you have since instructed us to change the material from hydrophobic coating sealer (‘A-Z Ultra
+Sealer for Precast Planters’) to ‘Durathane Matt’ paint by Jotun. Specifically, within your e-mail dated 20
+October 2019 [at 1:35pm] (copy attached) you state:
+“An inspection has taken place at gate B16 about the Planter paint proposals.
+Please proceed with the Oil based paint (Jotun), in parallel be sure to complete the official
+documentation to capture this change …” [Bold and underlined for emphasis]
+It is for this reason that we issue this E-Notice, to inform you that your instructed change is exactly that,
+a change, and accordingly will cause further delays and disruption to our Works.
+All of the technical details in support of the ‘Durathane Matt’ paint were submitted for your approval via
+Material Submittal (MS) No. MS/0401/A/1786 Rev. 00 on 7 November 2019. We note that at the date of
+this E-Notice (which is 11 November 2019), MS/0401/A/1786 has not yet been responded to.
+While acknowledging that the additional cost of the material application to the planters is deemed to be
+included within SAA8, however, the additional time associated with both the initial delay subject to ENotice No. 0122 and now this further delay subject to this E-Notice No. 0172, cannot possibly be
+construed as forming part of the ‘included circumstances’ per Clause 1.7.4 of SAA8, particularly in view
+of the fact that the material you require to be applied to the planters and seating has changed.
+Resultant Impact
+The further change in requirements to the material to be applied to the surface of the precast concrete
+planters and seating throughout the MTB described within this E-Notice No. 0172 will cause delay and
 
-Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
-our previously handed-over MEP services installation by the Employer’s Other Contractors.
+disruption to our Works. We once more draw attention to the fact that there are circa 470 precast
+planters located within the Terminal Building and the delays to the application of the paint will
+invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
+potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
 Yours faithfully,

@@ -1,19 +1,23 @@
 
 Dear Sir,
+The Engineer's Assistant acknowledge the receipt of Contractors letter in reference 2) confirming that
+the incorporation of the changes in the as-built drawings shall have no cost and time impact to the
+Employer.
+In response to your letter in reference 3) above, the Engineer's Assistant provides clarification to your
+queries, as follows:
 
-Reference is made to the Engineer's Assistant's letters items 3 and 4 and the reminders items 1 and 2
-regarding the direction under clause 13.2.1 of the General Conditions to submit quotations for the
-modifications to the Employer's Requirements.
+1) The chainages to the west direction from Msheireb (Msheireb - Al Aziziyah) will be positive and to the
+East direction from Ms_!:leireb (Msheireb - Ras Abu Abud) will negativi:::_
+2)
+The coordinate of zero point at Msheireb for Gold Line UG is E231201.8639; N392221.4784. The
+zero point of left track is a perpendicular projection of the zero point from right track.
 
-The Contractor confirms that the letters are all request on the same subject matter which is the
-modification of the allowable voltage drop.
+3)
+The coordinates at the interface of Ras Abu Abud Station with Blue Line are E235679.2
+12; N391873.145 Km -8-952.065 right track, and E235666 .750; N391861.583 Km-8-956.427 left track.
+Regarding the as-built track alignment from MMHKT, the Engineer's Assistant reminds the Contractor on
+its contract al obligations to interface with the Systems Wide Contractor to get all the required
+information in a timely a d professional manner to proceed with the design and construction activities,
+as per Employer's Require ents in Vol.4, Clause 24.4
 
-The allowable voltage drop which is currently 2.5% in accordance with the Kahramaa specification,
-which has now been extended to 6% for lighting loads and 8% for any other loads in accordance with
-BS7671 and IEC 60364-5-52. The Contractor confirms that this new requirement has been incorporated
-into the MEP designs currently included in the Tender documents for the MEP Provisional Sums
-packages.
-
-The Contractor trusts that this clarifies the current situation.
-
-Yours faithfully,
+Yours faithfully,

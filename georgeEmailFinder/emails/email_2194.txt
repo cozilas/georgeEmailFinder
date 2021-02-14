@@ -1,17 +1,22 @@
-
-Dear Sir,
+Dear Sir,
 This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
-both price and any potential time impact in relation to a Variation proposed by the Engineer regarding
-work under the contract.
+both price and any potential time impact for a proposed Variation in relation to a proposed amendment
+to the Scope requirements associated with Tunnel Segment Repair, as referenced in Volume 7, SubClause 13.3.3.15 c).
 
-The Variation as proposed:
-Currently the allowable Voltage Drop (VD)- from the Station Power Substation (SPS) 33kV/415V
-transformer secondary winding to the final load - is 2.5% in accordance with the Kahramaa specification
-in "Regulations for the Installation of Electrical Wiring, Electrical Equipment and Air Conditioning
-Equipment" sub-Clause 604.
+The above referenced Employer's Requirement is deleted in its entirety and amended as follows :
+Categories of segment defects are defined as minor, medium and major, as shown in the table below:
+i-
 
-The change intends to extend the allowable VD limit to 6% for the lighting loads and 8% for any other
-load in accordance with BS7671 and IEC 60364-5-52, and the Kahramaa - Qatar Rail (QR) agreement that
-the latter i.e. QR is responsible for the power distribution network downstream the Bulk Power Substatr
-ns (BPS).
+Minor defects can be accepted without repair.
+
+iiMedium defects can be repaired only after the detailed method statement has been given a
+SONO from the Engineer. This does not release the Contractor from his obligations to satisfy the
+Employer's Requirements, including but not limited to Volume 7, Clause 12.3.1.1 Precast concrete
+segmental linings shall be of waterproofing class 1.
+iiiWhere a major defect occurs prior to the final placement of the relevant segment in the tunnel
+it shall be rejected.
+iv-
+
+All defects in the segment which will be in contact with the gasket shall be repaired.
+
 Yours faithfully,

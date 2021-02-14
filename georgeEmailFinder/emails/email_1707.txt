@@ -1,41 +1,55 @@
 
 Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute
+a variation. The nature and extent of the variation is provided below. The fo l owi ng Employer's Requi
+rement:
 
-This is a direction under Sub-Clause 13.2.1for the Contractor to submit a quotation for the Variation
-proposed by the Engineer.
+Volume 6, Section 13, Figure E1: Station Power Systems Block Diagram - Scope Demarcation to be
+deleted.
 
-The Variation as proposed is presented in the enclosed presentation. This represents the current
-scheme that has beenjointly discussed and agreed with the Contractor .
+Volume 6, Section 13, Sub-section 13.3.4.4 (f}: Stand-by Diesel Generators - to be deleted.
 
-The following is a non-exhaustive list of requirements:
-The Emergency Escape Stairwell including the Fireman's Lift Pop Up from Al Sadd Street is to be moved
-towards the Entrance Shelter No.1a nd if possible merged with the Entrance Shelter itself.
+Volume 6, Section 14 (Electrical & Mechanical Room Requirements) - are to be amended to remove
+Diesel Generators and Tanks as follows:
 
-Provide an additional 3m wide fire- protected escape tunnel to run alongside the station box to be
-connected to the relocated Emergency Escape Sta irwell and Fireman's Lift Pop Up as above.
+Figure E.1: Station Power Systems Block Diagram - Scope Demarcation - to be added.
 
-The height and spacing of the remaining ventilation shafts along Al Sadd street is to be optimised in
-order to minimize visual impact on the surrounding environment.
-
-The final location of the aforementioned structures is to be also optimised so as to minimise impact on
-underground utilities.
+Diesel Generators and Tanks are deleted from the metro stations as Qatar Rail's multiple redundancies
+in the power supply system are by means of two Station Power Supply Substations (SPS) at either site of
+a metro station. At this level there is 100% SPS redundancy. If SPS 1 fails, SPS 2 can provide the full load.
+The room allocation for the Diesel Generators (70 m2) is to remain for Systems use. The room allocation
+for
+Diesel Tanks (30 m2) is to be utilized by the Civil Works Contractors.
 Dear Sir,
-This is an instruction under Sub-Clause 13.1.1to initiate a variation. The nature and extent of the
-variation is provided below:
 
-The Variation as proposed is presented in the enclosed presentation. This represents the current
-scheme that has been jointly discussed and agreed with the Contractor.
-The following is a non-exhaustive list of requirements:
+N/A
 
-The Emergency Escape Stairwell including the Fireman's Lift Pop Up from Al Sadd Street is to be moved
-towards the Entrance Shelter No.1and if possible merged with the Entrance Shelter itself.
-Provide an additional 3m wide fire-protected escape tunnel to run alongside the station box to be
-connected to the relocated Emergency Escape Stairwell and Fireman's Lift Pop Up as above.
-The height and spacing of the remaining ventilation shafts along Al Sadd Street Is to be optimized in
-order to minimize visual impact on the surrounding environment.
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the var iation is provided below.
 
-The final location of the aforementioned structures is to be also optimized so as to minimize impact on
-underground utilities.
-The present Instruction is not canceling the Contractor's obligation to submit the correspondi ng
-quotation as requested in the Engineer's Direction referenced above.
+The followi ng Employer's Requirement:
+
+Volume 6, Employer's Requirements - Section 13, Item 13.3.3.12 Elevators, Escalators and Autowalks a) Design Philosophy (iii).
+
+Autowalks shall be provided for the horizontal movement of passengers in the pedestrian tunnels,
+where people need to walk long distances. Autowalks shall be provided for pedestrian bridges exceeding
+40m length and that lead to station's remote entrances.
+
+is amended as follows:
+
+Autowalks shall be provided for the horizontal movement of passengers in the pedestrian tunnels,
+where people need to walk long distances. Autowalks shall be provided for pedestrian bridges and
+underpasses exceeding 100m length that lead to station's remote entrances. For bridges and
+underpasses between 40m and 100m in length the Contractor shall consider the maximum walking
+distance to the station, the catchment area of the station and the passenger numbers when deciding if
+an autowalk is required, and if there is not a requirement for an autowalk the contractor shall make
+passive provisions in the bridge/underpass structure to allow for the future installation of an autowalk.
+The runoff at either end of an autowalk shall be 6m, and if two or more autowalks are used in a
+structure the distance between them shall be minimum 12m .
+Volume 6, Employer's Requirements - Section 13, Item 13.3.3.12 Elevators, Escalators and Autowalks e) Autowalks (i).
+A complete set of autowaks shall be provided to serve both directions and their length shall vary
+between 18 to 30m. is amended as follows:
+A complete set of autowaks shall be provided to serve both directions and their length shall vary
+between 18 to 50m.
 Yours faithfully,

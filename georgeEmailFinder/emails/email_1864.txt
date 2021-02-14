@@ -1,18 +1,104 @@
+
 Dear Sir,
 
-Reference is made to the Engineer’s letters items 3) and 4) and the reminders items 1) and 2) regarding
-the direction under clause 13.2.1 of the General Conditions to submit quotations for the modifications
-to the Employer’s Requirements.
+With the above referenced letter, the Engineer’s Assistant expressed its concern “…over Contractor’s
+performance in relation to issues affecting environmental management delivery on the Gold Line Metro
+Project, and states that the current performance levels are not in line with the Employer’s Requirements
+on a project of this significance”. The Engineer’s Assistant has also highlighted five major issues of
+concern with the inclusion of key points there in.
+The Contractor is of the opinion that the conclusion drawn is not reflective of actually and suspects that
+it arises from incomplete information. The Contractor provides the following comments as the five
+issues raised for the Engineer’s Assistant’s further considerations.
 
-The contractor confirms that the letters are all request on the same subject matter which is the
-modification of the allowable voltage drop.
+1. Quality & Lateness of Environmental Documents submitted by JV to PMC for review
+Bullet points 1, 2 & 3:
+To facilitate investigation and rectification, the specific documents need to be identified. Alternatively a
+workshop could be held to review and report.
+Bullet point 4:
 
-The allowable voltage drop which is currently 2.5% in accordance with the Kahramaa specification,
-which has now been extended to 6% for lighting loads and 8% for any other loads in accordance with
-BS7671 and IEC 60364-5-52. The Contractor confirms that this new requirement has been incorporated
-into the MEP designs currently included in the Tender documents for the MEP Provisional Sums
-packages.
+Management plans, dewatering reports and permits have been standardized and agreed with the
+Engineer’s Assistant as regards specific text to be incorporated. The objective was to make the
+submission process quicker and more effective. This explains “cut and paste”.
+Bullet point 5:
+Environmental management plans, permits and reports are submitted in a timely manner. A detailed
+table with all environmental submissions is included every month within the Contractor’s Monthly
+Environmental Report. A list with all Contractor’s environmental submissions within the period of 1st of
+May 2015 until 31st July 2015 is attached with this letter.
+2. Lack of comprehensive monitoring program and lack of adequate and timely monitoring at
+construction sites. Additionally, lack of timely mitigation actions when monitoring results showing noncompliance MoE permit limits and Employer’s Requirements
+Bullet points 1 & 2:
+The MoE dewatering permits have dictated the environmental monitoring program in terms of
+frequency and parameters with which the Contactor is in full compliance. Samples are collected weekly
+or bi-weekly (as required by each permit) from every site on agreed days, while Inspection & Test
+Requests (IREs) are raised in a timely manner. For further clarification of these issues, the Contractor has
+submitted the “Locations of Dewatering Sampling – M006-GDB-EMS-SCH-00011” on the locations and
+dates of water sampling.
+If improvements are required the Contractor shall attend to all specific observations identified by the
+Engineer’s Assistant.
+Bullet points 3 & 4:
+The Contactor has submitted several proposals for a Noise Monitoring Program within the Noise
+Baseline Monitoring Report (M006-GDB-EMS-RPT-00011) since December 2014 without managing to
+establish an approval from the Engineer’s Assistant. Eventually, the proposed noise monitoring program
+has been removed from the Revision 4 of this report in order to achieve a “C-SONO”. In order to resolve
+the lack of consensus the Contractor suggests a workshop is arranged with the Engineers assistant.
+As the Engineer’s Assistant is aware, the requirements for noise monitoring are contradictory, The
+existing background noise levels already exceed the Qatari limits set within Annex 3/5 of the 2005
+executive by-Law. In the meantime and until the noise monitoring program is agreed, the Contractor will
+continually perform at least one 24hr noise measurement at each construction site.
+Regarding vibrations, the monitoring program is part of the “Method Statement for Monitoring &
+Instrumentation– M006-GDB-ENG-MES-00004” which is under “C-SONO”. In order to facilitate further
+improvements please provide specific concerns for the Contractors attention
+All measurements are notified with the necessary IREs.
+Bullet point 5:
+Air quality or dust measurements are being conducted monthly at each site. The baseline air quality
+monitoring program (M006-GDB-EMS-SCH-00007) is under “C-SONO”.
 
-The Contractor trusts that this clarifies the current situation.
+All the above measurements are documented within the dedicated Air Quality, Dewatering, Noise or
+Instrumentation & Monitoring Monthly Reports that are being submitted by the Contractor.
+Necessary mitigation measures are detailed within the monthly reports, and are implemented by the
+individual construction sites.
+
+3. Lack of full compliance with MoE Permits, CEMP-QR requirements, EIA requirements and
+recommendations from MoE, including failure to notify MoE in a timely manner on changes by the
+Contractor, which affect permitting
+Bullet point 1:
+The necessary environmental permits have been submitted to, or are already issued by MoE. The
+Contactor as part of its Environmental Management System has been assessing the compliance with all
+environmental permits, in order for necessary actions to be identified. All assessment documents are
+notified to the Engineer’s Assistant.
+Bullet point 2:
+All notifications to MoE are drafted by the Contractor, submitted to the Engineer’s Assistant and issued
+by the Employer to MoE. Please elaborate on the inconsistencies observed in the notifications to the
+MoE to enable investigation and rectification.
+As regards timely notifications to MoE, construction works evolve such that some required notifications
+may become outdated. The Contractor will focus more on providing timely notifications.
+Bullet point 3:
+Site works evolve quickly and these evolutions can lead to the necessity of requesting new permit(s) and
+this should not be considered as lack of permit for completing these works but a revision to an existing
+one.
+Considering the works that have been completed before the issuance of the MoE permit e.g. grouting,
+please be reminded that the requirement for requesting an environmental permit from MoE for the
+grouting works has been included in the Employer’s Permitting Manual Rev. 4 issued on November 2014
+i.e. after the commencement of the grouting works on site.
+
+4. Lack of timely procurement of competent environmental sub-contractors, monitoring equipment and
+waste handling equipment and containers for waste segregation
+The Contractor has awarded waste management to Seashore Engineering & Contracting Works. This
+subcontractor has been approved (please refer to M006-GDB-COM-SAR-00050).
+The Contractor acknowledges the need for improving waste management and is currently evaluating the
+existing subcontractor’s performance as well as reviewing alternative capable subcontractors.
+
+5. Lack of effective and sustainable waste management and recycling program for Construction Sites
+The purpose on the actions mentioned for the item four above is to generally improve and make more
+efficient the waste management and recycling program. This will also contribute to the avoidance of
+inadvertently caused errors.
+The Contractor does not agree with the Engineer’s Assistant note that the GSAS score related to these
+criteria are affected since waste tracking numbers are traceable, Recycling is being carried out and
+waste management practices are in place.
+Waste is managed in accordance with “Construction Waste Management Plan – M006-GDB-EMS-PLN00007” while Contractor’s Environmental Department supervises and coordinates waste management in
+the project. Monthly waste management data is included within Contractor’s Monthly Environmental
+Reports and this data is utilized (when relevant) for submissions to GORD for the GSAS Construction
+Standard to proceed.
+Following the above mentioned we remain at your availability for further cooperation.
 
 Yours faithfully,

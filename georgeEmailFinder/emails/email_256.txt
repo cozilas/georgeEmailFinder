@@ -1,17 +1,18 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0181
-Abu Dhabi Municipality (ADM) Inspections
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0182
+Delays to numerous Acceptance Test Procedures (ATP) and Commissioning Inspection Requests (CIR) Electrical, HVAC, Plumbing, Fire Fighting, BMS etc
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern delays consequent upon ADM’s inspections of the plumbing
-installations to the Central Process Area, specifically associated with a change to their inspection criteria.
+The matters described in Annex A concern unreasonable delays on the part of CxA (the Employer’s
+Commissioning Consultant), to review, confirm and approve as necessary, substantial numbers of
+submitted ATPs and CIRs pertaining to numerous items of Electrical and Mechanical equipment.
 Potential Impact
-Delays and disruption due to the events and circumstances outlined in Annex A (ADM inspections), will,
-if allowed to continue, knock on and delay plumbing NOCs which is an essential requisite in enabling us
-obtain the Building Completion Certificate (BCC). This is critical to the achievement of Milestone MS09B.
-Any delay to Milestone MS09B may prevent us achieving Substantial Completion (Milestone MS09C).
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+impacting on completion of testing and commissioning. This will invariably impact on our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
@@ -20,25 +21,46 @@ Nevertheless, we hereby reserve all our rights under the provisions of the Condi
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-You are undoubtedly aware that ADM Plumbing Inspections are continuing to be undertaken on site. In
-order to do so, the ADM inspector is relying on a significant number of approved as-built drawings.
-On 13 November 2019, a site inspection meeting was held in ADAC’s offices, attended by ADM’s
-plumbing inspector, as well as attended by representatives from AECOM, TCA JV and PCE JV, in order to
-discuss ADM’s inspections of the plumbing installations to the Central Process Area (CPA). However, it
-was during this meeting that the ADM inspector advised that he was limiting his inspections to just 10
-as-built drawings per day. Bearing in mind that only one (1) ADM inspector is undertaking inspections,
-then it is estimated that it will take him until 16 April 2020 to inspect the plumbing installations to the
-entire CPA.
-This is an unnecessarily protracted period of time, which if ADM are allowed to continue in this manner,
-will knock on and delay plumbing NOCs which is an essential requisite in enabling us obtain the Building
-Completion Certificate (BCC). This is critical to the achievement of Milestone MS09B. Moreover, any
-delay to Milestone MS09B may prevent us from achieving Substantial Completion (Milestone MS09C).
-We therefore request your urgent action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+We write to notify you of appreciable concerns we have in relation to the protracted amount of time the
+Employer’s Commissioning Consultant (CxA) is taking to review our testing and commissioning
+documents, primarily numerous Acceptance Test Procedures (ATP) and Commissioning Inspection
+Requests (CIR), pertaining to various Electrical, HVAC, Plumbing, Fire Fighting and BMS equipment.
+As at Week 49 (i.e. 3 December 2019), we note there are 2,088 nos. of ATPs and CIRs currently in the
+possession of CxA, many of which have been in their possession for over two weeks. To illustrate this,
+we herewith provide the following status reports showing (the delays to CxA’s review of (1) our
+Mechanical ATPs and CIRs (refer to Figure 2); and (2) our Electrical ATPs and CIRs (refer to Figure 2).
+Figure 1 - Mechanical ATPs and CIRs in CxA’s possession
+as at Week 49 (3 December 2019)
+Figure 2 - Electrical ATPs and CIRs in CxA’s possession
+as at Week 49 (3 December 2019)
+The information recorded in Figure 1 and Figure 2, in terms of the overall numbers of Electrical and
+Mechanical ATPs and CIRs currently in the possession of CxA, is summarised in Table 1 below:
+Table 1
+Description
+ATP
+CIR
+Totals
+Electrical (LV, ELV)
+441
+960
+1,401
+Mechanical (HVAC, Plumping, Fire Fighting, BMS)
+525
+162
+687
+TOTAL: 966
+1,122 2,088
+This shows that 2,088 nos. of ATPs and CIRs are still with CxA, which at this stage of the Project is
+unacceptable and notwithstanding our observation that CxA do not have sufficient resources to review
+them, but will have major ramifications on our ability to complete testing and commissioning.
+What is particularly disconcerting is that not only have the review of our T&C documents been ongoing
+for a period of 1, 2 or more weeks, but the number of pending ATPs and WIRs appear to be increasing
+on a regular basis. This is a matter that is otherwise wholly avoidable. Therefore given the dependency
 
-This may take the form of urging the Employer to insist that ADM inspections are undertaken by more
-than one inspector or that the 10 drawing limit is removed or a combination of both. Either way, kindly
-ensure that such matters are actioned immediately upon receipt of this e-notice.
-Subject:Consolidated Delay Analysis for events between 2 May 2019 and 1 August 2019 (TIA No.2- Post
-SAA8)
+that our testing and commissioning has on CxA’s review of the ATPs and CIRs, we urge you to take
+immediate and appropriate action as necessary including the involvement of the Employer, to insist that
+CxA increase its resources and immediately clears the backlog of impending reviews.
+Meanwhile, the various delays and acts of prevention outlined herein, is delaying and disrupting the
+completion of our testing and commissioning. This will invariably knock on and impact our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

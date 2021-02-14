@@ -1,33 +1,64 @@
-
 Dear Sir,
-
 This is a direction under Sub-Clause 13.2.1of the General Conditions of Contract for the Contractor to
-submit a quotation regarding both saving in price and any potential time impact for a Variation
-proposed by the Engineer regarding the Work under the contract.
-
-The Variation as proposed:
-
-To remove the requirement for the provision of water wall features to be installed at all stations and
-maintaining the tiling as suitable termination of wall finishes. The change omits I adds the following in
-connection with Architectural Branding Manuals as enclosed herewith.
-
+submit a quotation for both time and cost impact for 'Removal of Raised Floor in Energy Sub- system
+Rooms' (namely TPS,SPS, MVLV, ACDCScada, UPS Battery room, Room in lieu of DG Room) as outlined
+below;
+1)
+The Employer's Requirements Volume 6, Sub-Clause 14.3. 'General Technical Room
+Requirements' the Sub-clauses 14.3.1.1.g.i) currently states that;
 •
-Omission of water pump, pipes, fittings and other equipment specified in the water features for
-waterwalls
-•
-Omission of water troughs including all associated background and pebbles. To be filled
-with concrete.
-•
-
-Addition of linear lighting above the retained pearlescent wall tiles:
+14.3.1.1.g.i) The rooms for Energy, Signalling and Telecom/IT shall be provided with a raised
+floor, i.e. for signalling and telecommunications a complete portable assembly of modular floor panels
+on an elevated support system to . accommodate electrical and mechanical services.
+The above Employer's Requirements is now modified as;
 
 •
 
-Addition of terrazzo floor finishes for omitted water basin area and other affected floor areas
+14.3.1.1.g.i)
+
+The rooms for Signaling and Telecom/IT shall be provided with a raised floor,
+
+i.e. for signaling and telecommunications a complete portable assemb ly of modular floor panels on an
+elevated support system to accommodate electrical and mechanical services.
+
+2)
+Delete the following Sub-clauses of the Employer's Requirements,Volume 6,Sub-Clause 14.3.
+'General Technical Room Requirements' ;
+•
+14.3.2.2.b.vii) Raised Access Flooring: The raised floor shall be a stable structure that withstands
+the weight imposed by the installed equipment and cases. The installable space beneath the raised floor
+surface shall be at least 400mm - 800mm high. In any case the bending radii of the installed cables shall
+be kept.
+Accomplishing a Vision
 
 •
+14.3.2.3.d) The room shall be provided with a raised floor for cable installations. For more
+details please refer to the chapter "Cable Routing, Installation and Mounting".
 
-Stepped surface at the edge along escalator is replaced by single sloped surface.
+3)
+Appendix 1:Generic I- Type Underground Stations of the Employer's Requirements, Volume 6,
+Sub-Clause 14.3. 'General Technical Room Requirements' currently indicates that;
 
-The Contractor shall submit the quotation within 14 days of this direction.
+•
+Raised floor required 'Yes' to items 54, 55, 68, 69, 86, 87, 88, 89 and 93 Modify the above
+Appendix 1:'Generic I-Type Underground Stations' as;
+•
+
+Raised floor required 'No' to items 54, 55, 68, 69, 86, 87, 88, 89 and 93
+
+4)
+Appendix 2: Generic X -Type Underground Stations of the Employer's Requirements, Volume 6,
+Sub-Clause 14.3. 'General Technical Room Requirements' currently indicates that;
+
+•
+Raised floor required 'Yes' to items 82 to 85, 91,92, 117 to 123, 150, 172, 173, 184 and 185
+Modify the above Appendix 2: 'Generic X -Type Underground Stations' as;
+•
+
+Raised floor required 'No' to items 82 to 85, 91,92, 117 to 123, 150, 172, 173, 184 and 185
+
+Referring to Engineer's Assistant's letter reference 1), the Engineer notes that the Contractor has already
+agreed to accommodate these changes with the Systems Contractor. The Contractor is required to
+submit the quotation for any saving in favour of the Employer within 14 days of this direction.
+
 Yours faithfully,

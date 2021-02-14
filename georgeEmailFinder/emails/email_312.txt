@@ -1,76 +1,47 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0159
-
-Security System (Security Access Control and Video Surveillance System) – Snagging, De-snagging and
-Defects Management
-Unreasonable Snagging and De-Snagging Comments Uploaded to ZUTEC
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0161
+Delays due to the Replacement of Damaged Cat 6 Cables at Central Processor L2.0 Sector 5.22D and
+5.27A caused by Employer’s Fit-Out Contractor (DEPA)
+- Request for Engineer’s Instruction / Variation Order
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern delays to the Works due to unreasonable snagging items
-being uploaded to ZUTEC associated with non-existent Security Systems elements (Security Access
-Control System – ‘SACS’ and Video Surveillance System – ‘VSS’) snags and unnecessary ‘duplications.’
+Annex A records delays attributable to damages caused by the Employer’s Other Contractor (DEPA) to
+previously installed IT/ SCS Cables at CP L2.0 Sector 5.22D & 5.27A, which require rectification and as
+such requires an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
 Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-impacting on MS06A and MS06B. This will invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-We write to notify you of appreciable concerns we have in relation to multiple unfounded comments
-being uploaded by you on the ZUTEC system; primarily issued in relation to purported ‘snags’ raised
-against the Security Systems (Security Access Control System – ‘SACS’ and Video Surveillance System –
-‘VSS’) in various rooms when in fact no elements have been installed by us and as such do not warrant
-uploading to ZUTEC. This unreasonable practice has to cease forthwith but in the meantime continues
-to have major ramifications on Room Completion, Snagging, De-Snagging and Defects Management.
-As we are sure you appreciate, the ZUTEC system is completely ‘fluid’ and changing daily. However, at
-the date of preparing this E-Notice, there are approximately 168,000 snags uploaded to the ZUTEC
-system, out of which, approximately 5,560 concerns the Security Systems. Unfortunately, out of these,
-you have erroneously identified 750 individual ‘snags’ allegedly relating to the SACS & VSS in rooms that
-do not have any elements installed within them as per IFC and approved SD. This in itself causes
-immense problems in so far as we are forced to unnecessarily close out a ‘snag’ on the ZUTEC system
-that in reality does not actually exist. Very simply, once such a ‘snag’ has been entered onto ZUTEC, in
-order to clear this [even though it does not exist] we have to provide a ‘clearance sheet’ to mark the
-room areas as “Security System for this room area is Not Applicable (N/A)”, as well as attach extracts
-from both the corresponding Shop Drawing and IFC Drawing in order to prove that there are no Security
-Systems trades within that particular room / area.
-Not only does this take up unnecessary administrative time given that it takes at least 30 minutes to
-review, identify and upload the relevant supporting information to ZUTEC, but also affects our defects /
-snagging team on site in terms of them having to inspect then re-inspect areas and rooms which would
-not be necessary but for your unreasonable practice of erroneously identifying alleged defects or snags
-that do not exist. This is a matter that is otherwise wholly avoidable, especially at such a late stage of
-the Project.
+On 24 July 2019 we received letter reference BND/MTB/HO/2019/1970 [also dated 24 July 2019] from
+the specialist Information Technology subcontractor (M/s BOND) notifying us of “delay” to their IT / SCS
+installations due to damage caused by the Employer’s Fit-Out Contractor (M/s DEPA) to previously
+installed and terminated 2 nos. Cat 6 Cables at CP Level L2.0 Sectors 5.22D and 5.27A.
+Despite the cables having been installed, inspected and handed over vide the WIR process, BOND
+informs us that the damage occurred while DEPA were ‘chipping’ the completed screed located in the
+above noted areas, and moreover, DEPA’s works are still ongoing, therefore, as BOND states, there is
+every likelihood that further damage will be found. A copy of BOND’s letter (‘Notice of Delay’) is
+attached for reference; the photos attached thereto clearly evidencing the damaged cables.
+Meanwhile, BOND further advise that the approximate length of the damaged Cat 6 Cables is 150 m,
+and requires total replacement, along with related termination, labelling, testing and commissioning and
 
-What is particularly disconcerting is that the number of incorrect snags/de-snags in ‘N/A room areas’
-uploaded by you to ZUTEC seems to be increasing on a regular basis. Therefore, we urge you to take
-immediate and appropriate action and avoid uploading any further similar ‘N/A’ snags/de-snags.
-In addition to the foregoing, our ability to close out snagging and complete rooms is being further
-hindered by numerous unnecessary duplicated items being uploaded to ZUTEC by you, which for
-example consists of the same Security System element installed at the same location, which despite
-being identical are nevertheless being uploaded with a different reference number.
-Examples of this unnecessary duplication include the following:
-•
-“18 - Documentation Fail- Provide Code-2 comment sheet” and “18 - Documentation Fail - Final
-punch list to be done and provide the appropriate document” – in reality is the same defect description
-with same document to be attached, both with different snag IDs; and
-•
-“18 - Documentation Fail - Final fix inspection to be done and provide the code 2 comment
-sheet.” with snag number 00042846 and “18 - Documentation Fail - Final punch list to be done and
-provide the appropriate document” with snag number 00042849 both raised for the same room “C-L202585-FOOD & BEVERAGE” on the same date.
-In view of the high volume of snagging items that need to be closed and actioned, and the current acts
-of prevention outlined above that is impacting and continues to impact on our ability to expedite room
-completions and conclude our Works throughout the MTB, we urge you to immediately desist from
-raising unnecessary snags and uploading the same on the ZUTEC system. As outline above, this is wholly
-avoidance and is unnecessarily delaying us for which you hold you entirely culpable.
-Resultant Impact
-Meanwhile, the various delays and acts of prevention on your part outlined herein is undeniably causing
-delay and disruption to completion of our Works and is continuing to prevent achievement of Milestone
-MS06A and Milestone MS06B. This will invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+inspection; this is notwithstanding the difficulties and access requirements faced by BOND in performing
+such works at this [late] stage of the project close out of IT / SCS works.
+In view of the above and the content of the attached letter, it is evidently clear that the events and
+circumstances cited herein are not of our doing or responsibility, and any rectification / remedial works
+necessarily required to re-install and re-test the damaged cables will invariably delay us.
+We therefore inform you in order for us to undertake the rectification works to the damaged cables
+noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
+down strict guidelines to follow in the event that additional works are required and we therefore
+request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
+Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
+our previously handed-over MEP services installation by the Employer’s Other Contractors.
 Yours faithfully,

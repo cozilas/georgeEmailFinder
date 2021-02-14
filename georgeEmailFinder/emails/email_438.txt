@@ -1,101 +1,23 @@
 
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0087
-Unreasonable Code 3 Comments issued in response to 7 WIRs to Gatehouses GH01, GH02, GH47, GH48
-and GH49 – Installation of Hollow Metal Doors
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0093
+Painting to Gatehouse Steelwork
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
-may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
-The Event(s):
-During the first quarter of 2019 we have been submitting numerous Work Inspection Requests (WIR)
-requesting the final inspection and approval of the installation of circa 1,550 doors to various levels and
-areas of Central Processor and Piers 1, 2, 3 and 4. These include without limitation, a series of seven (7)
-
-WIRs submitted on or about 20 April 2019 in respect of twelve (12) Hollow Metal Doors and Hardware
-to Gatehouses GH01, GH02, GH47, GH48 and GH49, in the manner shown in Annex A.
-However, following your inspection of the noted doors on 27 April 2019, we note that the responses to
-all seven WIRs contain a series of unreasonable Status Code 3 comments – despite the Doors and Door
-Hardware subject to these WIRs being fully compliant. The information recorded in Table 1 below for
-example, records the particular comments in question, alongside which we have provided a response
-justifying exactly why the inspectors’ comments are unreasonable,and / or are rebutted.
-Table 1
-WIR NUMBER CMA COMMENTS
-TCA JV RESPONSE
-WIR-FIN-60187
-WIR-FIN-60192
-WIR-FIN-60195
-WIR-FIN-60212
-WIR-FIN-60219
-WIR-FIN-60228
-WIR-FIN-60237 A
-“Observed many scratches & rust in door panel and Door frame, to be Repaint”. All paint items have been agreed that they will be addressed as snags.
-B
-“Door Closer is not functioning properly”.
-You are kindly requested to indicate the
-Code and/or Specification Clause providing explanation and the reasons why this closer does not meet
-the project requirements ‘properly’, as per your assertions. This comment is ambiguous and without
-basis; and cannot be accepted.
-C
-“Cylinder to comply with Master key approved schedule and fail safe and fail secure
-doors”. Cylinders are fully compliant with the approved material submittal and Project requirements.
-Cylinders have nothing to do with the Master Keying as the cylinder only houses the cylinder core. The
-Master Keying schedule has nothing to do with the FAIL SAFE or FAIL SECURE Door Hardware.
-This comment is invalid and has no basis.
-D
-“Fire rated door subject to Profire final approval, contractor fully responsible to rectify
-any comments given by Profire”.
-You are kindly requested to specify the exact comments as
-stated from PROFIRE? This seems to be an unsubstantiated general comment. We will only rectify valid
-comments by PROFIRE or by CMA.
-E
-“Coordinate with floor finish under the door panel area”.
-This is a general and an
-unsubstantiated comment. An example of a more specific comment would be to specify if the Door
-clashes with the flooring for example? Or is the undercut on the door not compliant with the code
-requirement? This comment is ambiguous in nature as has no relevance to the opening of the door.
-F
-“Final approval subject to snagging and De-snagging acceptances”.
-This comment
-is accepted.
-G
-“Final acceptance subjected to ADAC/KPF Approval of top coat paint”. What is the
-reference for the comment? Final paint repair Method Statement and Benchmarks are approved. This is
-another general unsubstantiated comment. All Final Paint is part of the Snag process. This comment
-cannot be accepted.
-H
-“All sealant damages to be rectified prior to snagging”. This
-is
-another
-general
-comment without providing specifics and is without basis. Please specify any actual damage indicating
-location at each opening. Please indicate if any actual damage occurred. As stated above, any general
-comment will not be accepted.
-I
-“Coordinate with other trades”. This comment is ambiguous and without basis. This is
-another general comment that is considered invalid.
-The above comments listed in Table 1 are without doubt, unreasonable and are indicative of general
-comments that in our view reflect the opinion of the inspector as opposed to specific comments. This
-
-has already been communicated to you by way of our e-mail dated 28 April 2019 [at 11:31am]. We
-therefore urge you to withdraw the comments and annotate each WIR Status Code 2 or higher.
-It is important to stress that the above comments are not just limited to the sample of the doors listed
-hereto. There are potentially 100’s of WIR’s with similar comments. We have so far received 990 WIRs
-endorsed Status Code 3; all of which require us to comb through each WIR to determine the exact
-quantity of doors affected. The ramifications of which cannot be under-estimated.
+may cause delay and disruption to the Works, and seek your swift resolution of the same.
+The Event:
+During the Weekly Progress Meeting held on 15 May 2019 we informed you that the specialist paint
+[intumescent and cementitious fire proof spray paint] that was originally used to coat the exposed
+steelwork to the Gatehouses is no longer manufactured. We contend that this is an unforeseeable
+matter beyond our control that has arisen as a direct result of the prolongation of the Works.
 Potential Impact:
-Meanwhile, the unreasonable Status Code 3 responses issued against each of the various WIRs listed in
-Table 1 and Annex A hereto, will continue to delay and disrupt the Works; and prevent us from
-completing the Works to 12 doors to Gatehouses GH01, GH02, GH47, GH48 and GH49 to Level L2.0.
-Acts of prevention such as this, will, at this stage, prevent us from obtaining the Building Completion
-Certificate (BCC) and handover for ORAT. This is critical is us achieving completion of Milestone MS09B.
-Consequently, the more you unduly prolong the approval of any doors and door hardware and subject
-them to unnecessary and unreasonable Status Code 3 comments such as those indicated in Table 1
-above, the more likely this will prevent us from achieving Substantial Completion.
+If you require us to not only procure a suitable alternative paint system, have it approved, then re-coat
+the structural steelwork to each of the Gatehouses, especially at this late stage of the Project, then this
+is likely to have a major impact on our ability to achieve Milestones MS09B and MS09C.
+It is for this reason that we hereby submit this E-Notice No. 0093.
 Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
-specifically, we urge you to retract the Status Code 3 comments issued in response to the seven (7) WIRs
-noted herein in Annex A and Table 1, and re-issue all 7 WIR responses Status Code 2 or above Kindly
+We therefore request your prompt action, decision or further instruction as may be applicable to resolve
+the matters referenced herein in order to mitigate such delay and/or disruption to the Works. Kindly
 ensure that such matters are resolved within ten (10) days from the date of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.

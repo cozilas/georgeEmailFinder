@@ -1,43 +1,24 @@
+
 Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a
+variation. The nature and extent of the variation is provided below.
 
-The Contractor refers to the Engineer's Assistant's letter at reference 2 instructing the Contractor
-suspend the design of "Alignment of Tunnel sections at Al Rayyan to Doha Zoo" and "Alignment of
-Tunnel sections at Al Rayyan to Muaither' (the "suspended works").
+The following Empl oyer's Requirements are ame nded as follows: Volume 6, Sub-Clause 13.3.3.6 a) (i)
+Each station shall have a microprocessor based lighting control system that allows for controlling
+individual and groups of lighti fixtures by single or multiple devices.
+is amended to:..
+Each station shall have a BACS based lighting control system that allows for controlling individual and
+groups of lighting fixtures.
+·
 
-The Contractor responded via reference 1 confirming "we have complied with your instruction and
-suspended design development on ...the tunnels as of the 21 July 2015 ...Ground investigation works for
-the tunnels which had commenced has also been placed on hold as of 21 July 2015."
+Volume 6,Sub-Clause 13.3.3.6 a) (iv) - to be deleted. Volume 6,Sub-Clause 13.3.3.6 b) (iv) - to be deleted.
+Volume 6, Sub-Clause 13.3.3.7 a)
 
-The suspension of the tunnels' designs has continued to the present day. Unfortunately, from 11
-October 2015 , the suspension of the tunnels' designs is placing the Contractor in delay in completing
-the design of each of the 2 tunnel Sections by their contracted 31 July 2017 Time for Completion dates.
-The aforementioned 11 October 2015 longstop date for resumption of the tunnels' designs is based
-upon the current "Programme" (i.e. the Contractor's approved CMP Revision B.00.05, dated 31
-December 2014) which, until the Engineer accepts a revised Programme, has to be used pursuant to
-General Condition ("GC") 8.3.3U) of Volume 3 of the Contract, for measuring and reporting progress and
-assessing delays and extensions of time. The aforementioned date of 11 October 2015 is based upon the
-following assumptions:
-(1) the geotechnical investigations , when resumed, will not require any changes to the design based
-upon
+Lighting Control system shall consist of factory preassembled lighting control cabinets, KNX buses,
+control devises and system interfaces, programmable control button stations, master server and router
+systems, and graphical system control and software.
+is amended to:
+Lighting Control system shall consist of power relays installed in the Distribution Boards (DBs).
 
-the geotechnical information contained within the Contract and, (2) the lifting of the suspension will
-not involve any changes in alignment of the tunnels.
-
-The Contractor is therefore now of the opinion that the Engineer's Assistant's suspens ion instruction for
-the suspended works entitles the Contractor to receive extension(s} to the affected Time(s} for
-Completion pursuant to GC 8.4.1{b} and GC 8.9.1(a} for any delays incurred and to receive additional
-payment as an addition to the Contract Price for all additional costs and losses reasonably incurred
-pursuant to GC 8.9.1{b}.
-
-Accordingly, this letter serves (1} as the Contractor's "Extension" Notice pursuant to GC 8.4.2 and GC
-8.9.1(a} that the Contractor is entitled to extension(s} to the relevant Time(s} for as a result of the
-suspended works, (2) as the Contractor's "Cost" Notice pursuant to GC 8.9.1(b} that the Contractor
-believes that it is entitled to reimbursement of all additional costs and losses reasonably incurred due to
-the suspended works and, (3) as the Contractor 's "Claim" Notice for the suspended works pursuant to
-GC 20. 1.2.
-
-Please rest assured however that notwithstanding the above, the Contractor will endeavour, in
-accordance with its contractual obligations, to mitigate any delays and additional costs incurred due to
-the suspended works.
-
-Yours faithfully,
+of the BACS human machine interface (HMI). Yours faithfully,

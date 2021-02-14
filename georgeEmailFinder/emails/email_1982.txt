@@ -1,16 +1,52 @@
+
 Dear Sir,
+Pursuant to Sub-Clause 13.2.1, the Engineer's Assistant directs the Contractor to submit a quotation,
+providing a detailed breakdown of cost savings for which the Contractor would carry out the proposed
+Variation. The quotation is to be based upon the following Engineer's Instruction, which is currently
+under review for process and issue to the Contractor .
 
-Engineer's Assistant notes Contractor's continuous failure to timely fulfil its contractual obligations as
-requested in the letters referenced 1 and 4.
+Details of the Instruction under review are:
 
-The fact that Engineer's Instruction No.89 was issued, does not release the Contractor from respecting
-the provisions of Sub Clause 13.2.1 of Volume 3 of the General Conditions of the Contract. Currently
-Contractor is more than 200 days delayed with this request which is unacceptable.
+""The Employers Requirements Volume 6 Section 11, Design Specifications Sub-Clause 4.6.25 b)
+currently state that:
 
-Moreover the information required in the letter referenced 5 is overdue since 21 March 2016.
+"Based on these calculations, the minimum clear width of such passageways , whether elevated or
+underground, shall be no less than 10 m. This does not include areas of low mobility near to vertical
+surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
+deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
 
-Therefo e the Engineer's Assistant is hereby requesting the Contractor to submit the requested
-information with no urther delay.
-·
+Volume 6 Section 11, Design Specifications Sub-Clause 4.6.25 b) is now amended:
+To reflect an optimization outcome where the minimum clear width of passageways whether elevated
+or underground is reduced to 6.80 metres. (excluding event stations)
+
+The potential minimum width allowable at each station is as shown in Attachment A, Summary
+Presentation of Required Passageway Widths, attached to this Instruction. Contractor is to note that:
+
+•
+
+This does not include for finishes which should be assumed as +1.0m
+
+•
+
+Width of passageway is the clear width between the two (2) clad facades of the passageway
+
+•
+Width of walkway is the usable width of the walkway between the two (2) travellators or the
+travellators and the wall - depending upon layout.
+
+Stations, where the minimum width has already been agreed with Other parties or where design and
+construction may have advanced to the stage where reverting minimum width is no longer feasible,
+shall be considered on a case by case basis.
+
+Contractor is instructed to implement the requirements to ensure the best possible optimization in
+design and installation is carried out.""
+
+In support of the above detail, the Engineer's Assistant also includes the document referenced as
+Attachment A Key Plans for Width of Passageways along with a specific Table as extracted from
+Attachment A
+
+The Engineer's Assistant requires Contractor to review the above details, ensure that the appropriate
+requirements are being implemented into current design outcomes and to submit the detailed cost
+savings breakdown within fourteen (14) days of this direction.
 
 Yours faithfully,

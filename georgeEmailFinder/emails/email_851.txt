@@ -1,81 +1,51 @@
-Subject: Submitted Likely Delay Notices Evidence of Compliance with the Contract PwrovisioRs
+Subject:Subcontractor Time-Related Costs
 Dear Sir,
-We understand, from recent discussions and meetings with the Employer and: the Engineer, that the
-current position of the Engineer is that the Contractor's extension of time (f07!) claim for EOT 2 is "time
-barred", albeit to date the Engineer has failed to issue a determination on the Contractor's claim despite
-the requirements of Clause 27.1.8. The Engineer is reminded that we have issued successive claims for
-EOT post Heads of Agreement during the past three years, which we most recently updated via
-Consolidated Time Impact Analysis No. 9 (submitted under cover of our letter ref:
-MTB/TCA/AECOM/L/011969 dated 20 November 2017) (TIA ~o .9). The Engineer is extremely late in
-rendering its determination with respect to the Contractor's claim, including providing its "detailed
-comments" as required by Clause 27.1.6 of the Contract. The Engineer should have issued its
-determination by 18 December 2017 for TIANo 9, which is still outstanding as of the date of this letter.
-Given the significance of the Engineer's current position (which we have only recently been made aware
-of), we are obliged to respond to correct the Engineer's stance.
-(1) It is unclear what the Engineer means by time barred
-As a threshold matter, it is unclear what the Engineer means by the Contractor's claim being "time
-barred." In recent correspondence (e.g., refer~nce 3), the Engineer appears to confuse and conflate two
-separate sets of contractual requirements.
-As clearly indicated in the table above, the Contract specifies that only non-compliance with Clause 27
-.1.1
-" bars" a claim (provided that such bars are enforceable as a matter of UAE law, which they are not as
-explained below). Otherwise, the Contract provides that the Contractor's claims are only limited (if at
-all)
-to the extent that the Employer can prove that the Contractor's failure "prevented or prejudiced proper
-investigation of the claim."
-Clause 16.5.2 does not change this. Clause 16.5.2 provides that:
-"If the Contractor considers itself to be entitled to an extension of the Time for Completion,
-the Contractor shall give notice to the Engineer in accordance with clause 27.1 (Contractor's
-Claims) and, if applicable, comply with the provisions set out in clause 27.2 (Time Impact
-Analysis). Compliance with the notice requirements of clause 27.1 (Contractor's Claims) and
-clause 27.2 (Time Impact Analysis) shall be conditions precedent to the Contractor's
-entitlement to an extension of the Time for Completion. When determining each extension of
-the Time for Completion under clause 27.1 (Contractor's Claims), the Engineer shall review
-previous determinations and may increase, but not shall decrease, the total extension of the
-Time for Completion."
-The terms "notice requirements" and "condition precedent" are general, vague and undefined. In
-contrast, clause 27.1.9 speaks precisely to this issue.
-1 Accordingly, these terms are defined and limited by
-clause 27.1.9. This interpretation is rendered unavoidable by the fact that clause 16.5.2 refers to the
-requirements of clause 27.1, which includes clause 27.1.9. This means that clause 16.5.2 does not
+We refer to the various submissions that you have made to us following our request for details of the
+indirect time related costs that you allege you have incurred and/or forecast that you will incur in the
+execution and completion of your Subcontract Works.
+As noted in the related correspondence and workshops, our requests for such details followed the
+direction given to us by the Engineer regarding the Subcontractors’ Cost element of our Main Contract
+claim(s) for additional payment of Prolongation Cost as a result of critical delay to the Main Contract
+Works. In this regard you will no doubt appreciate that whilst we have requested (and you have
+provided us with) your alleged indirect time related costs over the period [date] to [date] , this period is
+merely the period within which isolated days and/or periods of delay (culpable, excusable or
+compensable) may occur and should not be construed as attaching liability to the Employer or to us
+and/or any entitlement to you in respect of the extension of the Subcontract Time for Completion
+and/or adjustment of the Subcontract Price. For the avoidance of any doubt, we do not consider the
+cost submissions requested by us and subsequently provided by you as constituting claims made in
 
-supersede clause 27 .1.9, but rather, incorporates its requirements.
-As such, clause 16.5.2 must mean that, other than non-compliance with clause 27.1.1, an extension of
-time determination must consider any prevention or prejudice to the Employer resulting from the
-Contractor's non-compliance with clauses 27.1 and 27.2. That means the requirements in clauses 27.1.5
-and 27.2 are not "time bars". Any other reading would create an unavoidable conflict between two
-provisions of the Contract. This is not the proper way to construe a legal instrument.
-Construct1on ~~arabtec MIDFIELD TERMINAL CONTRACTOR
-TCA Joint Venture
-The Contractor notes that Clause 27.1.1 provides that the Contractor shall give notice to the Engineer
-whenever it becomes aware, or should become aware, of an event giving rise to a claim. The Contract
-does not mandate that the notice be of any specific form other than meeting the requirements of Clause
-9.4.1. This means that general correspondence, RFis and other forms of communication suffice?
-Given the above, we assume that the Engineer's comment relates only to the Contractor's noncompliance
-with Clause 27.1.1. If this assumption is not correct, then the Engineer's position is contradicted by the
-plain terms of the Contract.
-{2) Claims cannot be strictly time barred as a matter of UAE law
-As the Engineer is well aware, the "Contract shall be governed by and construed in accordance with the
-laws of the Emirate of Abu Dhabi and the federal law of the United Arab Emirates as applied in the
-Emirate
-of Abu Dhabi."4 It is widely recognized that UAE law does not blindly permit the application of
-contractual
-time bars. To the contrary:
-1. Prescription periods in the UAE law are mandatory provisions of law for which parties cannot
-contract around;
-2. The Employer cannot rely upon time bars where it has actual or constructive notice of the
-event giving rise to the Contractor's claim; and
-3. The Employer cannot rely upon time bars when it has not strictly complied with the Contract
-itself or has impeded the Contractor's performance of its contractual obligations.
-Appendix A elucidates these points at greater length. As is clear, the Engineer cannot invoke Clause 27
-.1.1
-to deny the Contractor's just claims as a matter of UAE law.
-The Engineer is required to administer the Contract according to its terms. This includes the governing
-law
-clause. Thus, the Employer (via the Engineer's conduct) is in breach of the Contract if the Engineer fails
-to
-apply the Contract in the manner required by UAE law.
-In light of (a) the Engineer's current position; and (b) its failure to provide an assessment, to date, of the
-Contractor's EOT 2 claim, we would request the Engineer to consider the points elucidated in this letter
-and respond accordingly.
+accordance with the Subcontract; indeed the Subcontract provisions regarding Subcontractor claims are
+clear and your related obligations will not be waived and must be complied with fully for you to attain
+any entitlement.
+Notwithstanding the status of your submissions, we have reviewed the costs and related details that you
+and all other subcontractors have provided to us with the objective of ensuring that the Subcontractors’
+Cost element of our Main Contract Prolongation Cost claim(s) shall comprise solely of time related costs
+that are fully supported with evidence that a cost has been or will be incurred. In this regard we have
+prepared the enclosed General Comments and Specific Comments so that you may recognise the
+deficiencies in your submission, which we hereby direct you (pursuant to Sub-Clause 16.5.9 of the
+Conditions of Subcontract) to rectify.
+Please note that this letter, the General Comments and Specific Comments concern the quantum (i.e.
+cost) element of our Main Contract Prolongation Cost claim(s) relating to the extension of the Main
+Contract Time for Completion that we claim was caused by events which under the Main Contract are at
+the risk and responsibility of the Employer. Any stand-alone claim that you may elect to make under
+your Subcontract should however also take cognisance of the enclosed comments and include all
+supporting documents required in accordance with the Conditions of Subcontract, including but not
+limited to:
+
+(i)
+a copy of the timely notices (Sub-Clause 27.1.1 and 27.1.3);
+(ii)
+contemporary records (Sub-Clause 27.1.4);
+(iii)
+the fully detailed claim with full supporting particulars (Sub-Clause 27.1.5); and
+(iv)
+a Time Impact Analysis “using a methodology acceptable to the Contractor [and] demonstrating
+the effect and consequences of the events and periods of delay relied upon by the Subcontractor in its
+claim” (Sub-Clause 27.2.1).
+Suffice to say that your prompt and complete cooperation in this matter is to our mutual benefit and
+that any extension of the Subcontract Time for Completion and additional payment to you of any
+compensable delay shall be subject to you always having complied fully with all of your related
+obligations under the Subcontract.
+To the extent that any aspect of this letter and/or the enclosures (General Comments and Specific
+Comments) is unclear to you, we would be pleased to meet with you and discuss your queries.
 Yours faithfully,

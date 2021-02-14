@@ -1,73 +1,110 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0170
-Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting Finalisation of
-Snagging, De-Snagging and T&C Activities to L2.0
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0153
+
+Engineer’s Response to RFI/0401/17066 – SACS and Door Hardware Changes to Door No ‘L000397.01’ due to omission of Door ‘L00-0397.02’ – Request for Engineer’s Instruction (RFEI) / Variation
+Order (VO)
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern delays to the processing of re-entry permit / NOCs and
-activities of Others affecting finalisation of snagging, de-snagging and T&C activities to Level L2.0
+Your response to RFI/0401/17066 detailed in Annex A represents a change in design and scope and
+requires a valid EI and VO in order for us to integrate the same into the Works.
 Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
+Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Specifically we urge you to review and respond to Contractor’s Material submittals without further
-undue delay. Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-In the period between 17 October 2019 and 31 October 2019, we submitted various Re-Entry Permits /
-NOCs, requesting permission to re-enter various Duty Free and F&B Outlets to Level L2.0 to allow us to
-complete various Works, such as snagging, des-snagging and testing and commissioning activities. These
-Permits or NOCs include the following 26 nos. of RDD Form 15s summarised in Table 1 below:
-Table 1
-Sr. No. NOC No.
-Rev
-Room No.
-Description
-Date Request Issued
-[TCA JV to CMA]
-Response Due Response Received
-Reply Overdue By
-[calendar days]
-1
-RDD-489
-0
-2091 Isolator , LOTO & install MCCB 17-Oct-19
-20-Oct-19
-The information recorded in Table 1 shows the NOC reference number, the revision, the description of
-works and room number, plus the date the request for an NOC was made, and when the response to
-our request for access was due; the latter being based on a nominal three-day turn-around time. In
-other words, approval is traditionally granted within three (3) days from our request being issued.
+On 28 April 2019, we raised RFI/0401/17066 [dated 23 April 2019]
+‘Omission of Door
+Added in Bulletin 157 for EMD Room’:
+“The attached extract from Bulletin 157 architectural IFC drawing MTC-A-02-TB-L0.0-5.27-00.427 shows
+a second door added for the emergency distribution room at the time when the blower coil serving the
+room was installed in the same location as per the mechanical IFC and approved shop drawing …”
+“We note that the blower coil is already installed and the adjacent wall is occupied with electrical
+services as shown in the attached site photo”.
+Simply put while Door Ref: L00-0397.02 (serving the Emergency Distribution Room to Level L0.0 in
+Sector 5.27) was indicated on Architectural IFC Drawing No: MTC-A-02-TB-L0.0-5.27-00.427, it is not
+reflected upon Mechanical IFC Drawings No: MTC-M-02-TB-L0.0-5.27-00.001 (refer to Figure 1 and 2
+below for a detailed comparison between both drawings); rather a ‘blower coil is already installed and
+the adjacent wall is occupied with electrical services’ (the photo included at Figure 3 refers).
+Figure 1 - Architectural IFC Drawing No: MTC-A-02-TB-L0.0-5.27-00.427 Figure 2 – Mechanical IFC
+Drawing No: MTC-M-02-TB-L0.0-5.27-0.001
+Figure 3 – Photo showing status of as-installed
+equipment to Room 397
+Accordingly, we asked that you clarify and confirm whether Door Ref: ‘L00-0397.02 was required or not
+given that there is already a second door ‘L00-0397.01’ within the same room. Although the Abu Dhabi
+Electricity Wiring Regulations states that in such circumstances a second door is not required, we
+nevertheless sought your further clarification and confirmation of the same; as follows:
+“… the note in the attached extract from the Abu Dhabi Electricity Wiring Regulations states that a
+second door is required for personnel if a switchroom is greater than 6m in length. Since the subject
+room is an EMD room and not a switchroom, please confirm that the code does not apply in this case
+and therefore the second door for the room is not required”
 
-However, the information recorded in Table 1 further records that at the cut-off date associated with
-the preparation of this Notice (i.e. 4 November 2019), while only 1 out of the 26 NOC requests listed
-therein have been responded to, the response was issued 9 days late. This also demonstrates that for
-the remaining 25 NOC requests, the responses are exceeding and by all accounts continuing to exceed
-the three day turn-around response time by periods of upwards of 15 calendar days late.
-This is unacceptable, particularly at this stage of the Project. This is made worse by the fact that not
-only have we previously written to you on matters such as this by way of our letter ref (2) but we have
-issued various reminders to you, including e-mails dated 20, 26 and 30 October 2019 (copies attached)
-but these have been overlooked and the status of the overdue NOC requests remain.
-The purpose of this E-notice is two-fold: Firstly, we wish to notify you of appreciable concerns we have
-in relation to the NOC process, specifically a failure on your to process our requests for re-entry
-promptly and issue the approved NOCs in an timely manner, and Secondly the invariable impact that
-this failure has on our ability to complete the snagging, des-snagging and testing and commissioning
-activities, amongst other things; and accordingly urge you to ensure that the responsible third-party (i.e.
-Employer’s Tenants) responds to the requested NOC issuance in a prompt and timely manner.
-Potential Impact:
-Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
-Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
-Consequently, the more we are prevented from working due to the combined effects of the above, the
-more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
-specifically, we urge you assist with the prompt processing of our Re-Entry Permits allowing us access as
-well as urging the Employer’s Other Contractor to work with us so as not to delay our Works. Kindly
-ensure that such matters are resolved immediately from the date of receipt of this Notice.
+We requested a response to RFI/0401/17066 by 4 May 2019. However, you failed to reply until 40
+calendar days later on 13 June 2019. Notwithstanding the prolonged period in responding, as in its reply
+to RFI/0401/17066, the Employer’s Design Consultant (KPF) confirmed the following
+“As reviewed by ADAC, we have no objection to the contractor interpretation of the Electrical Code
+requirements for EMD room in terms of a second door need. Note: Contractor to secure/ensure
+approval from relevant authorities and AHJ (including but no limited to ADDC).”
+Accordingly we were referred to two sketches attached thereto enumerated as ‘ASK-4073 (RFI-17066)
+Sheet 1 of 2 and Sheet 2 of 2’; consisting of: (1) a marked up / clouded IFC Drawing; and (2), a partial
+extract of a revised Door Schedule. We note that both the marked up / clouded IFC Drawing (an extract
+of which is reproduced in Figure 4) and the partial revised Door Schedule, both confirmed the omission
+of Door ref: ‘L00-0397.02’. The latter is essential in so far as it not only confirmed the omission of the
+door but also provided confirmation of the final technical requirements of Door ref: ‘L00-0397.01’.
+Notably however, some of these requirements (i.e. the door hardware and SACS type and associated
+works have changed). Refer to the comparison provided in Table 1 hereinafter.
+Figure 4 – Extract of ASK-4073 (RFI-17066)
+Sheet 1 of 2 (Door ‘L00-0397.02’ removed)
+Table 1 – Changes in Technical Requirements to Door ‘L00-0397.01’
+Item Description
+Original Scope
+Detailed in EI-681D
+[Door Schedule]Revised Scope
+Revised Door Schedule ‘ASK-4073 (RFI-17066)
+Sheet 02 of 02’ [attached to RFI-17066 response]
+1
+Door Hardware 811-2 815-2
+2
+SACS 0
+2A
+All of the above changes were explained in KPFs response to RFI/0401/17066, wherein KPF confirmed
+that it had “no objection” for the second door to EMD room (Door #L0.0-0397.02) to be omitted,
+“provided that associated SACS 2A is transferred to the other door (door #L0.0-0397.01).”
+In the same manner, the Employer concurred with KPF’s response but advised the following:
+“Contractor to secure/ensure approval from relevant authorities. Engineer to confirm/ensure that the
+Contractor has coordinated with all services prior to WIR sign-off. Confirmation to be stated in the
+WIR.”
+In view of the foregoing, such changes will result in us having to undertake the following activities or
+processes, which will involve the coordination of numerous subcontractors:
+•
+Associated abortive works due to the omission of Door ref: ‘L0.0-0397.02’;
+•
+Installation of Card Reader to Door ‘L0.0-0397.01’;
+•
+Changes to the Door’s Hardware;
+•
+Installation of electrified Door Hardware to Door ‘L0.0-0397.01’;
+•
+Installation of additional conduits; and
+•
+Re-wiring to match the new SACS ‘2A’ configuration of Door ‘L0.0-0397.01’;
+On this basis, it is clear that given your response to RFI/0401/17066, the omission of Door ‘L0.0-0397.02’
+as well as the changes to Door ‘L0.0-0397.01’ involving the SACS and Door Hardware and related works
+to EMD Emergency Distribution Room Level 0.0 Sector 5.27, reflected upon the revised Door Schedule
+appended thereto, represents a change. However, given that SAA8 laid down strict guidelines to follow
+if additional works are required [and in this instance you appear to have ignored those obligations], then
+this change will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require us to
+proceed with integrating the revised scope into the Works.
+
+We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
+as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
+is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
+the additional time and/or costs impacts have been agreed between us beforehand.
 Yours faithfully,

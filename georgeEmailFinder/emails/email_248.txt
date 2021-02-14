@@ -1,72 +1,17 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0186
-Damages Caused by Employer’s Other Contractor (BW Interiors) to Previously Installed Ceiling Panels at
-Level 1.0 Sector 5.19B Room 423 [Due to Water Leakages] – Request for Engineer’s Instruction /
-Variation Order
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The information comprehensively described in Annex A hereto records events associated with delays
-attributable to damages caused by the Employer’s Other Contractor (BW Interiors) to our previously
-installed ceiling panels located at Level 1.0 Sector 5.19B Room 423; this will require rectification and
-accordingly will require an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
-
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We herewith enclose a series of photographs and videos (appended hereto at Annexe B and C) that
-collectively serve to evidence damage having been caused to our previously installed ceiling panels
-(Figure 1 refers) adjacent to the X-Ray Machines at Level 1.0 Sector 5.19B Room 423 (Figure 2 refers).
-Unfortunately despite our ceiling panels at Level 1.0 Sector 5.19B Room 423 having been installed,
-inspected and handed over by us through the WIR process, they have subsequently been damaged due
-to water leakages attributable to the activities of the Employer’s Other Contractor (BW Interiors) while
-they were executing water leak tests for waterproofing works at the Tenant area, located at Food &
-Beverages area Room 334 Level 2.0 Sector 5.19B, which is above Room 423 Level 1.0 Sector 5.19B.
-Figure 1 – Damaged Ceiling Panels Level 1.0 Sector 5.19B Room 423
-Figure 2 - Location of damaged ceiling panels at Level 1.0 Sector 5.19B Room 423
-As stated above the water leakages were caused during the waterproofing works (Tenant Works) being
-undertaken by the Employer’s Other Contractor (BW Interiors) to the Food & Beverage area Room 334
-Level 2.0 Sector 5.19B as shown in the location marked-up in Figure 3 below. Specifically, BW Interiors
-applied an ‘Acrylic modified cementitious waterproofing coating’ to the floor and around our previously
-installed pipes at Room 334 Level 2.0 Sector 5.19B (Figure 3 and Figure 4 refers). Following completion
-of the application and during the water-test of the ‘cementitious waterproofing’ by BW Interiors, the
-water that was discharged on the floor for the water-test, penetrated the ‘cementitious waterproofing
-coating’ material and consequently the concrete slab below. The penetration of the water through the
-floor slab was a result of an incorrect application of the ‘Acrylic modified cementitious waterproofing
-coating’ to the floor, between and around the pipes by BW Interiors.
-Figure 3 - Room 334 Level 2.0 Sector 5.19B Food & Beverage area
-Figure 4 – Room 334 Level 2.0 Sector 5.19B Food & Beverage area
-(Tenant Works by BW Interiors)
-The penetrated water travelled through the concrete floor slab from Room 334 Level 2.0 Sector 5.19B,
-through the water pipes (Figure 5 refers) and reached Room 423 Level 1.0 below, causing damages to
-our previously installed ceilings in the manner shown in Figure 1 above.
-Figure 5 – Soffit of Slab (this is the concrete slab below ‘Room 334 Level 2.0
-Sector 5.19B’ which is above ‘Room 423 Level 1.0 Sector 5.19B’)
-In support of the foregoing events, we provide the following attachments:
-1.
-Annex A: This narrative providing a ‘Description of the Event’;
-
-2.
-Annex B: ‘Photos / Images Reference’; and
-3.
-Annex C: ‘CD with Videos of the water leakage’.
-We wish to put on record that the foregoing events are not of our doing or responsibility, and any
-rectification / remedial works necessarily required to procure and re-install the damaged ceiling panels
-adjacent to the escalators at Room 423 Level 1.0 Sector 5.19B, at this stage will invariably delay us.
-We therefore inform you in order for us to undertake the rectification works to the damaged services
-noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
-down strict guidelines to follow in the event that additional works are required and we therefore
-request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
-Furthermore, we request you to whatever action is necessary to prevent any further occurrence of
-damages to our previously handed-over MEP services installation by the Employer’s Other Contractor.
+Subject:Engineer’s Delays – SCRs’ Energization in CP and Pier 2
+Dear Sir,
+We write with reference to your letter (1) in which you allege that we have delayed the SCRs’
+energization activities in the CP and Pier 2 locations.
+We refute your allegations and refer you to the delays we have suffered resulting from late approval of
+our Form 4 submissions, which is outside of control and the MTA Contractor’s (L&T) late completion in
+those locations.
+We have proactively engaged in interface meetings with L&T, however L&T’s late completion in those
+areas has impacted us heavily.
+However, facing all of these third-party delaying matters, we confirm that through our significant efforts
+and close site supervision, all SCRs’ were energized by 28 March 2019.
+We acknowledge the wiring rectification and MEP works works which have run in parallel with the
+delays of and L&T works in CP GHs and the dysfunctional Form 4 submissions approval process.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for such factors as those outlined above for which we are not culpable.
 Yours faithfully,

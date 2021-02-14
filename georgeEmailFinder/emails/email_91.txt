@@ -1,23 +1,83 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0252
 
-Subject Overdue Payment
-Dear Sir,
-We write with reference to correspondence (1) wherein the Contractor alleged that the Employer is in
-breach of his obligations with regard to overdue payments
-• We refute this and advise the Contractor as follows:
-The Contractor is well aware that since the Effective Date of the Settlement Agreement and
-Amendment No.8 {SAA8) and until today, they have failed to adhere to the prerequisites for payment.
-The Contractor remains non-compliant with Clause 2.21.1 of SAA8 according to which the Contractor
-should have demonstrated within sixty {60) Days from the date of the execution of SAA8 that they
-have either reached settlement of all the Subcontractors' claims referred in Appendix A of the
-Agreement or that it has issued a determination. Notwithstanding the above, and following various
-Employer's concessions in order to assist the Contractor's cash flow the Engineer has been certifying
-payments accordingly.
-In addition, and according to Sub-Clause 6.4 of Schedule 11 of the Conditions of Contract, the
-Minimum Payable Amount is identified as AED 20,000,000. The Contractor has been advised that the
-assessed value from November 2019 and to date fell under this Minimum Payable Amount. The
-Engineer's Payment Certificates referred to in correspondence (1) have been certified as a result of
-further concessions from the Employer.
-In light of the above, it is evident that the Employer is not in breach of Contract, and we advise that
-the Employer has the right to reconsider these previous concessions in future payments until such
-time that the Contractor fully complies with their contractual obligations which they are in breach of.
+Unreasonable Code 4 Comments issued in Response to MS/0401/L/0157-01 associated with the
+Actuator Butterfly Valve
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters discussed in Annex A concern delays associated with your unreasonable Code 4 comments
+issued in response to MS/0401/L/0157-01 associated with the Actuator Butterfly Valve be installed on
+the feeding water lines to the external water tanks in Pump houses C and D.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+On 8 March 2020, we submitted MS/0401/L/0157 Rev. 01 seeking your approval of the ‘Actuator
+Butterfly Valve’ which will be installed on the feeding water lines to the water tanks in Pump Houses C
+and D, in the manner shown in Table 1 below:
+Table 1
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+8-Mar-20
+MS/0401/L/0157
+01
+Actuator Butterfly Valve22-Mar-20
+18-Mar-20
+4
+Following which, we received your response on 18 March 2020, which contained what we contend are a
+series of unreasonable comments, despite the Actuator Butterfly Valve to MS/0401/L/0157 Rev. 01,
+being compliant. The information recorded in the snapshot shown below indicates your resultant Status
+Code 4 (Rejected) comments annotated thereupon (Figure 1 refers).
+Figure 1
+The information recorded in Table 2 below, records the particular comments in question, alongside we
+have provided a response justifying why we believe those comments are unreasonable.
+Table 2
+Item Engineer Comments
+Contractor’s Response
+Code 4 Comments on Material Submittal No: MS/0401/L/0157-Rev. 01
+1
+“No samples provided in this submission. Contractor to comply [with] Div. 01 spec
+requirement” Please note that the requirements provided as per Division-01 of the Specification are
+overall general and not specific.
+
+In addition, no sample is required to be submitted with the valve specification. Nevertheless, you have
+also confirmed the same via your email received on 2 September 2019 [Monday 1:46 PM] attached to
+Annex B hereto, wherein you stated that:
+“The contractor can proceed with the technical submission and submit the sample at a later stage when
+made available. At least 1 sample need to be provided and kept for record if the MS attains Code 2”.
+2
+“Why material description changed Code -4” After numerous discussions with you / ADAC,
+we have agreed that MS/0401/L/0157-Rev. 01 would be resubmitted to obtain the approval for the
+actuator only (valves have been approved previously).
+This has been confirmed by us via our email sent to you on 9 March 20 [Monday 6:07 PM] attached to
+Annex C hereto, wherein we have confirmed our oral agreement stating that:
+“Further to our discussion and agreement we have resubmitted only the actuator for motorized butter
+fly valve with following ref no [MS/0401/L/0157 Rev.01] , kindly inform with your team to review and
+approved accordingly”.
+In addition to the above, it is worth noting that the proposed brand referenced in MS/0401/L/0157 Rev.
+01, of the electrical actuated butterfly valves to be installed on the feeding water lines to the external
+water tanks in Pump houses C and D, is manufactured by M/S Oventrop. We put on record that the
+same product has been approved for other applications in the Project.
+In view of the foregoing, we hereby inform you that your unreasonable Status Code 4 comments issued
+in response to MS/0401/L/0157-Rev. 01, particularly at this stage of the Project will invariably delay
+procurement and installation of the Actuator Butterfly Valves. This will consequently delay the testing
+and commission and associated inspections of these materials, and may delay the Time for Completion.
+Accordingly, we urge you to consider re-coding MS/0401/L/0157 Rev. 01 by return in order to avoid any
+further unnecessary delays. Please note that any delays incurred to date and/or which may be incurred
+by us as a result of your unnecessarily coding the noted material submittal Status Code 4, shall be at
+your risk.
 Yours faithfully,

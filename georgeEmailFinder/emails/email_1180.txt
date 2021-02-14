@@ -1,42 +1,23 @@
-
-Subject: RE: Subcontract Obligation pursuant to Specification Section 019800 Building Information
-Modelling (BIM)
 Dear Sir,
-The Contractor confirms receipt of the Subcontractor's letter reference {1) which responds to a letter
-sent
-by the Contractor in June 2016 {2).
-The Contractor wishes to clarify that the purpose of its letter reference (2) was to obtain a status update
-and delivery plan from the Subcontractor in respect of its BIM submissions. The Contractor notes that
-that
-the Subcontractor's formal update has been received almost nineteen months after the request was
-made
-and therefore some of the comments made by the Subcontractor are outdated. Notwithstanding this,
-the
-Contractor responds in seriatim as follows:
-1. The Contractor confirms that both model and data already provided cover the requirements set out
-in the Specification 019800; however, the Subcontractor shall further elaborate a detailed
-explanation of its approach in a brief report.
-2. See item 1.
-3. See item 1.
-4. See item 1.
-5. The Subcontractor shall prepare a more detailed and comprehensive report which shall include
-specific paragraphs, workflows and figures whereby the work process for the different Levels of
-Development (LODs) is exactly portrayed. The Subcontractor has provided a brief explanation thus
-far which is insufficient to fully understand the development process.
-6. The red line marked drawings shall be extracted from the updated LOD 400 model (i.e. Level of
-Development completed to fabrication and assembly conditions). This way of proceeding is in
-accordance with the CAD standards included in the BIM Implementation Plan which specify that site
-
-updates will be incorporated to the drawings in red colour. The Subcontractor's brief explanation on
-why the red line marked drawings shall not be incorporated into the LOD 400 is insufficient and
-therefore the Contractor requests that the Subcontractor prepares a detailed and comprehensive
-report whereby its red line marked drawings strategy is described.
-The contractor confirms that the subcontractor has submitted an updated proposal for a QA/QC
-checklist which is currently under the Engineer’s review; once this assessment is completed, the
-contractor will forward the engineer’s feedback / comments to the subcontractor
-The contractor refutes the subcontractor’s statement that BIM modeling is not related to drafting
-standard and therefore it is not possible and not required to implement the CAD manual into the
-models. To be clear, the subcontractor shall explain how all required drawings will be extracted from the
-model or, in other works, how the CAD manual requirements (appendices of the BIM implementation
-plan) will be executed.
-Yours faithfully
+As advised to the Subcontractor in previous occasions, the Contractor is currently consulting with the
+Employer in an endeavour to reach agreement on the valuation of Variations associated with the
+Subcontractor's package. In order to enable this process of consultation to conclude in a satisfactory
+manner for all parties, the Contractor requires the Subcontractor's cooperation in respect of the
+submission of outstanding Requests for Variation Orders (RFVOs) with full supporting particulars.
+Moreover, the Subcontractor is required to expedite the preparation of all RFVOs which have not yet
+been submitted to date. Failure to provide the necessary information will prejudice both the
+Subcontractor's entitlement and the Contractor's ability to evaluate these Variations to the satisfaction
+of all parties.
+In respect of outstanding particulars, the Contractor reiterates its request that the Subcontractor
+submits the connection quantities (as per both Contract and latest bulletin drawings) and accordingly
+updates the take-off sheet provided by the Contractor via the minutes of meeting held on 10 December
+2017. Further, the Subcontractor is again requested to provide the Contractor with the 'Gatehouses out
+of Tolerance Report' which has been referred to by the Subcontractor's management in previous
+instances and may enable the parties to reach agreement on this matter.
+The Subcontractor is requested to submit the abovementioned information within fou rteen (14) days of
+this notice. The Contractor is committed to working with the Subcontractor to satisfactory resolve its
+Variation account; however, should the Subcontractor fail to provide the necessary supporting
+information as required by both the Subcontract and international Best Practice for projects of this scale
+and complexity within the requested timeframes, the Contractor will proceed with its fair and
+reasonable determination in due course.
+Yours faithfully,

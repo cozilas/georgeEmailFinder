@@ -1,35 +1,31 @@
-Subject: Post Heads of Agreement Concurrency Review up to 1 January 2017
-Dear Sir,
-Further to recent discussions between representatives of the Contractor and the Employer I Engineer,
-the
-Contractor herewith provides proposed timetables for the preparation of a detailed concurrency review
-for the period between 5 March 2015 and 1 January 2017. These are attached hereto.
-In order to undertake the concurrency review exercise in parallel with the preparation of the revised TIA
-submissions (also requested by the Employer I Engineer), the Contractor proposes the adoption of a
-'Windows' form of delay analysis to establish the existence of any concurrent Contractor (i.e. culpable)
-delay in the period between 5 March 2015 and 1 January 2017.
-The 'Windows' methodology will utilize 'Cleaned Up' versions for the Contractor's monthly updates a
-predefined
-time slice periods.
-The 'Windows' methodology establishes the progressed status of the works at the start of the time slice
-period and then the progressed s.tatus of the works at the conclusion of the time slice period.
-Once the status of the works at the start and conclusion of the time slice period has been established
-then
-. the programmes can be investigated to identify those specific activities giving rise to critical delay to
-the
-various Project Milestone during the time slice period.
-This process will establish which part'r' is responsible for the critical delay, and in so doing, will also
-identify, what if any period of critical delay is deemed to be a Contractor concurrent culpable delay.
-It should be noted that accuracy of such a Concurrency review is governed by the duration of the time
-slice periods. The greater the time slice periods the less accurate the conclusions will be.
-The Contractor has provided 3 time slice option for consideration, these being 1 month, 2 month and
-
-3 month time slice periods.
-Based upon the provided timetables, the concurrency review exercise will be complete as follows;
-1 month Time Slice periods- 8 October 2017;
-2 month Time Slice periods- 23 July 2017; and
-3 month Time Slice periods- 25 June 2017;
-The three options and associated timetables are provided for the Employers I Engineer's consideration
-and the Contractor requests the Employer I Engineer to confirm which time slice period is to be adopted
-so the exercise can commence.
+Subject: · Concurrent Delay for EOT 1
+Dear Mr. Matthews,
+Further to the Engineer's letter ref: MTC-CMA-TCA-0401-L TR-08570 dated 22 November 2017
+(reference (2) above), we write to respond to the Contractor's position on the legal interpretation of
+"Concurrent Delay", which was addressed in part II of the Contractor's letter noted as (1) above.
+The other issues raised by the Contractor in reference (1) have been addressed by the Engineer in
+reference (2) and will not be repeated here.
+1. Form of Contract
+a) For the avoidance of doubt, the Contract is not derived from the Abu Dhabi Government's
+Standard Form of Contract. The Contract is a bespoke contract that was heavily negotiated
+by the Employer and the Contractor.
+2. UAE Law
+a) The Contractor refers to a regime under UAE law whereby costs are apportioned where
+both the Employer and the Contractor cause loss, under reference to Articles 290 and 291
+Subject: · Concurrent Delay for EOT 1 of the UAE Civil Code.
+b) These articles are irrelevant. As the Contractor has stated itself\ this position under the
+Civil Code is not mandatory and the terms of the Contract agreed by the Parties will
+prevail. The raising by the Contractor of this issue in its letter is a complete irrelevance.
+3. Definition of Concurrent Delay and Industry Practice
+a) The definition of "Concurrent Delay" in the Contract speaks for itself. The fact that the
+definition is similar to that of "true concurrent delay" as used in the SCL Protocol is neither
+here nor there. The Protocol has no legal force whatsoever in England, far less in the
+UAE. The Protocol cannot override the terms of the parties' contrace.
+b) In any event, the Protocol recognizes that it only provides guidance on concurrency:
+c) The fact that the Protocol states that true concurrent delay as defined in the Protocol is a
+rare occurrence is irrelevant4
+. Based on a true construction of the definition in the Contract,
+Concurrent Delay either has occurred or it has not. The Contractor has failed in its
+obligation to demonstrate that it has not occurred.5
+4. Do Both Delays Have to Impact the Critical Path?
 Yours faithfully,

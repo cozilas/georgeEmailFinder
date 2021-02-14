@@ -1,21 +1,15 @@
 Dear Sir,
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a
-variation. The nature and extent of the variation is provided below.
 
-Contractor is instructed to include, as a new addition, the following requirements within Volume 5 SubClause 2.2.7.4
+The Contractor refers hereby to the revised Engineer's Instruction (E.1.) no.86 regarding changes in the
+design of the entrance 1.2 at Bin Mahmoud Station as detailed in the Engineer's letter reference 1).
 
-Volume 5, Sub-Clause 2.2.7.4
-Lot 2.2 Bin Mahmoud station, entrance 1.2 (Refer to attached SAP drawing CP0_ 14_74061 Rev V6_0)
-shall allow for a soft panel to enable a 6.8m wide underpass and to extend past the entrance to the
-corner of Qatari Bin Al Fujaah Sreet and to Al Khaleej Road in accordance with drawing no. CP0_
-14_74061, Rev V6_0.
-•
-Contractor shall design and fix the reinforcement in the station walls through which additional
-entrances may pass so that part of the wall can be safely removed without losing structural reliability.
+The Contractor records that the revised E.I. no.86 makes reference "to attached SAP drawing CP0_
+14_74061 Rev VB_ O)" and informs the Engineer's Assistant that only the PDF format of the SAP V8_0
+for Bin Mahmoud Station was received with letter reference 1).
 
-•
-The design of the rooms, columns, MEP services and architectural finishes shall take into
-account the position of future entrance locations so that the passenger flow through these future
-entrances is not obstructed.
+Further to the above, the Contractor kindly requests the Engineer's Assistant to provide the Station Area
+Planning Baseline drawings V8_0 for Bin Mahmoud Station in CAD format. Upon receipt thereof, the
+Contractor will proceed with the implementation of the revised E.Ino.86 in the design.
+
+We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

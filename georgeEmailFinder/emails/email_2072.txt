@@ -1,16 +1,59 @@
-
 Dear Sir,
-This is an instruction under Sub-Clause 3.3.1 regarding the execution of the work under the Contract.
-The following Employer's Requirement:
-Volume 7, Sub-Clause 13.3.3.10 a)
-Specificat ions for all temporary and permanent fasteners and cast-in fixings shall be provided. All
-permanent Inserts shall be stainless steel.
 
-is rel axed as follows:
+N/A
 
-Specifications for all temporary and permanent fasteners and cast-in fixings shall be provided. All
-permanent Inserts shall be stainless steel, Polyam ide or Glass Fiber Sockets.
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the var iation is provided below.
 
-The above has been technically agreed in the Engineering escalation meeting held on 28 January 2015.
-The time and cost saving to the Employer will be discussed and agreed at a later date.
+The followi ng Employer's Requirement:
+
+Volume 6, Employer's Requirements - Section 13, Item 13.3.3.12 Elevators, Escalators and Autowalks a) Design Philosophy (iii).
+
+Autowalks shall be provided for the horizontal movement of passengers in the pedestrian tunnels,
+where people need to walk long distances. Autowalks shall be provided for pedestrian bridges exceeding
+40m length and that lead to station's remote entrances.
+
+is amended as follows:
+
+Autowalks shall be provided for the horizontal movement of passengers in the pedestrian tunnels,
+where people need to walk long distances. Autowalks shall be provided for pedestrian bridges and
+underpasses exceeding 100m length that lead to station's remote entrances. For bridges and
+underpasses between 40m and 100m in length the Contractor shall consider the maximum walking
+distance to the station, the catchment area of the station and the passenger numbers when deciding if
+an autowalk is required, and if there is not a requirement for an autowalk the contractor shall make
+passive provisions in the bridge/underpass structure to allow for the future installation of an autowalk.
+The runoff at either end of an autowalk shall be 6m, and if two or more autowalks are used in a
+structure the distance between them shall be minimum 12m .
+Volume 6, Employer's Requirements - Section 13, Item 13.3.3.12 Elevators, Escalators and Autowalks e) Autowalks (i).
+
+A complete set of autowaks shall be provided to serve both directions and their length shall vary
+between 18 to 30m. is amended as follows:
+A complete set of autowaks shall be provided to serve both directions and their length shall vary
+between 18 to 50m.
+Dear Sir,
+
+The Contractor acknowledges receipt of the Engineer’s letter of reference 3) and of the subsequent
+reminders of letter references 2) and 1) and takes issue with the Engineer’s Assistant assertion of a cost
+saving entitlement in connection with the implementation of the RFC of reference 4).
+
+Pursuant to the RFC of reference 4), the use of plastic guide rods and shear dowels present a reduced
+likelihood of damage to the segments during erection due to the lower stiffness of the material.
+Moreover, stronger embedment and bonding properties along with higher resilience to sea water
+corrosion is achieved.
+
+It is the Contractor’s opinion therefore that Clause 13.3.3.10.a) of Volume 7 of the Contract in its original
+form was deficient and not fit for purpose as required by the Contract. The Contractor has merely
+rectified the said clause to reflect the current best industry practices. The Contractor refers to the
+extract below from page 33/35 of the Tunneling Journal of attachment 1) to this letter which is very
+telling in this regard:
+
+“As well as reducing or even eliminating steel from the main body of the segments, the authors also
+expect that steel bolts will become less and less common. Push-fit plastic dowels have already replaced
+steel bolts on the circumferential joint in many parts of the world, and there are projects where guiding
+rods have been used in place of steel bolts on the longitudinal joint. Bolts are often included in designs
+simply because they have always been used, without regard for whether they are actually required.”
+The Contractor therefore maintains that there is no cost saving entitlement by implementing the RFC of
+reference 4) for the reasons stated above. 1: Comparison of single metro tunnel to twin bore.
+Element Conventional twin bore Single tunnel
+
 Yours faithfully,

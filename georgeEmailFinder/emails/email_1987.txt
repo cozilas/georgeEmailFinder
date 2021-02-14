@@ -1,14 +1,39 @@
+
 Dear Sir,
-The Consultant is hereby instructed to proceed with the implementation of the Engineer's Instruction
-(E.1.) no.94 regarding changes in the location of the North-West remote entry at Doha Zoo Station as
-detailed in the enclosed Engineer's letter reference 1).
 
-We confirm that this instruction is given pursuant to Sub-Clause 4.6 [Variations and Adjustments] of the
-Agreement. Accordingly, you are requested to submit a proposal for this variation with details of any
-anticipated extension of the Time for Completion and/or a proposed adjustment of the Fee. Upon
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the variation is provided below.
 
-receipt thereof, we shall make a fair adjustment to the Fee in accordance with Sub-Clause 4.1 1
-[Valuation of Variations].
+The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
 
-We remain at your disposal for any further information and/or clarification.
+"Based on these calculations, the minimum clear width of such passageways, whether elevated or
+underground, shall be no less than 10 m. This does not include areas of low mobility near to vertical
+surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
+deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
+
+Volume 6, Sub-Clause 11.4.6.25 b) is now amended:
+To reflect an optimization outcome where the minimum clear width of passageways whether elevated
+or underground is reduced to 6.80 meters (excluding event stations).
+
+The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
+Required Passageway Widths, attached to this Instruction. Contractor is to note that:
+•
+
+This does not include for finishes which should be assumed as +1.0m
+
+•
+
+Width of passageway is the clear width between the two (2) clad facades of the passageway
+
+•
+Width of walkway is the usable width of the walkway between the two (2) travellators or the
+travellators and the wall - depending upon layout.
+Stations where the minimum width has already been agreed with Other parties or where design and
+construction may have advanced to the stage where reverting minimum width is no longer feasib le,
+shall be considered on a case by case basis.
+
+Contractor is instructed to implement the requirements to ensure the best possible optimization in
+design and installation is carried out and provide the response in accordance with Sub-Clause 13.1.1 of
+the Conditions of Contract.
+
 Yours faithfully,

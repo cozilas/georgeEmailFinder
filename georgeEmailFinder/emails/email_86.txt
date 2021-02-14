@@ -1,60 +1,103 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0253
-Overdue Response to Document Submittal DS/0401/15060 Rev. 00 associated with the Approval of the
-‘Method Statement for Demobilization Activities’ for the Passenger Boarding Bridges
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays caused by your failure to respond to Document
-Submittal DS/0401/15060 Rev. 00 within the review time(s) expressly stipulated in the Contract.
-Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-impacting on completion of testing and commissioning. This will invariably impact on our ability to
-achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0209
+Power Supply & Distribution Box/Consumer Unit serving Fibre Consolidation Points (FCP) to FIDS
+– Request for IFC Drawings & Engineer’s Instruction
+Dear Sir,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0209 (ref: 2) in which you aver inter
+alia that as the event was a known event prior to the effective date of SAA8 there is no entitlement to
+any additional time and / or cost, and our request for an Engineer’s Instruction is rejected.
+For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
+you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
+The facts of the matter remain as follows:
+•
+On 31 May 2017, we raised RFI/0401/14089 requesting updated small power layouts with
+power circuits for a number of items, including Dynamic Signs / FIDS and Fibre Consolidation Points
+(FCP).
+•
+As part of the reply received on 2 July 2017, the Employer’s Design Consultant [KPF] advised:
+“The Dynamic Signs that are to be connected to the 18 feeders available under [Bulletin] B227 are
+shown on the attached sketches” while “The power supply to the FCPs ... will be further detailed in the
+ongoing exercise that will be sent to the Contactor in due course for levels L0.0 and L2.0.”
+•
+On 7 August 2017, we received a Rev. 01 response to RFI/0401/14089, in which KPF advised us
+that “where ‘Future Provision’ is indicated … Contractor needs to install necessary containment to the
+Dynamic Sign Location,” while in relation to the Fibre Consolidation Points, KPF advised: “The power
+supply to the FCPs [for levels L0.0 and L2] ... is … detailed in the [attached] spreadsheet …”
+•
+The spreadsheet shows FCPs referring to ‘Future Provision (Bulletin 227.1 not issued)’; in other
+words, the requirements remained unclear and the electrical design was not yet available; hence it was
+reasonable to assume that details of the ‘power supply to the FCPs ... will be further detailed” as part of
+“the ongoing exercise” and would be issued in due course as part of Bulletin 227.1.
+However, Bulletin 227.1 was never issued.
+•
+On 5 September 2017 we advised you Power layouts were not included in the Rev. 01 response
+and urged you to “issue IFC documents immediately to allow us to proceed engineering …and
+procurement” and “FCP / outdoor access points …. are missing on the layouts …”
+•
+On 14 May 2018 you advised us the final load design of the distribution boards was closed in
+BP66; while the location of the FCP/outdoor access units were determined based on heat map studies.
+Again, you failed to provide the requisite IFC Drawings.
+•
+On 29 April 2018, we raised RFI/0401/16011 entitled ‘Requirement for Additional FCP Data
+points for Outdoor Wifi locations in Level 0.0’, in which we recorded that outdoor wi-fi access points had
+been provisioned in order to meet the wi-fi coverage requirements. We further recorded that there was
+currently no provision for the related data outlets shown on any of the IFC Drawings.
+•
+We advised: “In order to activate the Wifi access points, additional FCP data points along with
+related Power and FCP switch will be required to establish the network connectivity for the Wifi” and
+requested you provide us updated IFC Drawings showing the related FCP data outlets.
+•
+You responded on 22 May 2018. The response stated:
+The location of the supporting services for Wifi (power and data) is our responsibility.
+The location of the WiFi is our choice.
 
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-DESCRIPTION OF THE EVENT
-Introduction
-We write to notify you of our concern regarding your overdue response to our ‘Method Statement for
-Demobilisation Activities’ associated with the works of the Passenger Boarding Bridges (PBB).
-Notably, the PBBs and all associated works have been completed and in conjunction with the PBB
-Subcontractor (M/s ThyssenKrupp) have been handed over to you vide the Work Inspection Requests
-(WIR) process. However, having submitted Document Submittal No. DS/0401/15060 Rev. 00 on 10
-December 2019 seeking your approval of the ‘Method Statement for Demobilisation Activities’, we note
-that at the at the cut-off date of this Notice (7 April 2020), you failed to reply (see Table 1 below):
-Table 1 - DS/0401/15060 Rev. 00
-Item Date submitted Submittal Ref Rev
-Description of Contents Response due per Section
-013300 Response received
-Status Code
-Delay (Calendar Days)
-1
-10-Dec-19
-DS/0401/15060 00
-Method Statement for Demobilization Activities of TKAS
-Site Office
-Doc. Ref: MS-1093-DM-001
-31-Dec-19
-98 Days
-We remind you that Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the
-processing time by which you are contractually obligated to respond to our Submittals. On the basis
-that Document Submittal No DS/0401/15060 is at Rev. 00, then this ought to have been responded to by
-you, 21 calendar days later, i.e. on 31 December 2019. However, the information shown in Table 1
-shows that at the cut-off date associated with this Notice (i.e. 7 April 2020), you exceeded and at that
-point continued to exceed the review period expressly stipulated in the Contract by 98 calendar days.
-Any such delay, irrespective of duration, is wholly unacceptable, particularly at this stage of the Project.
-We further record that the PBB Subcontractor (M/s ThyssenKrupp) has written on this delaying event
-also via letter ref: (1), notifying us of their right to claim the time and/or cost impacts arising therefrom.
-Your delay in review and approval of the abovementioned submittal will impact our ability to achieve
-Substantial Completion.
-Our entitlement to an extension of time and financial compensation resulting from the aforementioned
-act(s) of prevention will apply irrespective of any alleged failure on our part [which is denied], to
-transmit submittals to you in a timely manner.
+Provision of power and data is our responsibility.
+Should a WiFi device require new power and data, we were to relocate and coordinate.
+•
+While we are clear about the requirements relating to the power and data provisions for the
+Wifi, the response completely overlooked what was being asked in relation to the power supply
+requirements for the additional FCPs; there was no mention whatsoever regarding the FCPs.
+Again, you failed to provide the requisite IFC Drawings.
+•
+The matter however fell silent until receipt of your e-mail dated 25 June 2019 issued in relation
+to the ‘External FIDS / IP65 Enclosure’, where you advised that “you are to follow the IFC …”
+•
+Following which, on 29 December 2020, you then wrote informing us that:
+“The delivery of the Wi-Fi and Security equipment (Cameras) functionality is to be treated separately
+from the external Signage Power (Bulletin 227 Rev 001) given the fact that the Contractor was fully
+aware that the FCP needed power to deliver the full functionality of the Security Cameras and Wi-Fi as
+per the DPS Specification which was never descoped.”
+•
+You have since repeated this exact same sentence in your letter ref: (1).
+As noted in our letter (ref: 2): we are fully aware the FCP needs power to deliver the full functionality of
+the Security Cameras and Wi-Fi. This is not the issue. The issue is the lack of IFC Drawings showing the
+power supply requirements for the additional FCPs located within the FIDS. As was clearly set out in
+letter ref: (2): Given the continued absence of us being provided any IFC Drawings, then how are we to
+know what those power requirements are in terms of cabling and consumer units etc.?
+It is patently clear that rather than address the issue and provide us the updated IFC Drawings, you have
+elected to ignore the evidence of fact described above or missed the crux of the issue entirely.
+Our position remains as set out in letter ref (2). we have no design liability under the Contract to design
+the power supply requirements for the FCP devices in the external signage, and urge you to liaise with
+the Employer’s Design Consultant, KPF, whose liability this is, and between you, provide us properly
+coordinated and fully detailed IFC Drawings reflecting the FCP power provisions under cover of an EI.
+However, despite our repeated requests, including without limitation, those raised on 31 May 2017, 5
+September 2017 and 29 April 2018 [described above], you have consistently failed to provide the IFC
+Drawings showing the power supply requirements for the additional FCPs located within the FIDS.
+It is because of these failures [acts of prevention] on your part and the part of the Employer’s Design
+Consultant that this issue cannot possibly be construed as forming part of the ‘Included Circumstances’
+per Clause 1.7.4 of SAA8. As previously stated in ref: (2); SAA8 cannot reasonably be interpreted as
+requiring us to absorb delays of unknown (possibly unlimited) duration occurring pre/post 4 September
+2018, particularly where the resolution of the matter causing the delay remains with the Employer / the
+Employer’s Personnel / the Consultants. We remind you that the Employer’s Design Consultant
+previously assured us in its Rev 00 and Rev. 01 responses to RFI/0401/14089 that the power supply to
+the FCPs would be “further detailed …in due course”, while the response to RFI/0401/16011 ignored our
+request to be provided with updated IFC Drawings showing the related FCP data outlets entirely.
+The continued failure on your / the Employer’s Design Consultant’s part to provide us with IFC Drawings
+in confirmation of the power supply cables and distribution box/consumer units serving the FCPs to the
+FIDS to Levels L0.00 and L2.0, is continuing to affect commissioning of the security cameras and Wi-Fi;
+and will invariably impact on our ability to obtain the Building Completion certificate (BCC). This is
+essential to achieving Milestone MS09B and will invariably impact MS09C (Substantial Completion).
+Consequently, and contrary to your assertion in letter ref: (1), our E-Notice No. 0209 does have merit.
+In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

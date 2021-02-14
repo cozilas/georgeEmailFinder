@@ -1,59 +1,76 @@
+Dear Sir,
+Further to the Client's letter reference 1), the Consultant is hereby instructed to proceed with the
+implementation in the design of the changes as described in the enclosed MSI ICD Register Group 2 and
+3 Classifications, as a result of the ongoing interfacing process with MSI and in order to ensure
+compliance with MSI functionalrequirements.
 
-Dear Sir,
+The design group changes are defined as follows:
 
-Further to the Engineer’s Instruction of reference 1) which ought to have been issued pursuant to
-General Condition (“GC”) 13.1.1 of Volume 3 of the Contract, the Contractor encloses herewith full
-particulars of its actual design costs related to the implementation of the Engineer’s Bulletin 1507/1.
+First Stage:
+Group 1 Design Changes - These changes will be incorporated in the DD2 Arc/Str/MEP deliverables
+which will be submitted according to the Design Programme issued on 23 November 2015 with letter
+reference M006- ATK-COM-LTR-00826.
 
-The relevant Fee Change Notice (FCN) 071 includes payment requests from Atkins on account of other
-design changes as well which are not relevant to the aforesaid instruction and hence no reference has
-been made herein. Each of those has been addressed by the Contractor under a separate cover already.
+Second Stage:
+Group 2 Design Changes - The design changes that affect the MEP pricing will be incorporated before
+the issuance of the MEP Tender Bulletin. The BIM models must be updated to include the Group 2
+Design changes, and the updated BIM model will be issued to the Architectural Branding Consultant on
+03 January 2016 to enable the start of the M3 design.
 
-As a direct consequence of this instruction to vary the works, the Contractor instructed Atkins to
-perform additional work and has received a notice for additional payment by Atkins on account of the
-additional design works entailed. Those can be summarized as per the following table:
+Third Stage:
+Group 3 Design Changes - These design changes will be incorporated upon the confirmation of the
+Engineer or the Client.
 
-FCN 071
-(Eng. Bulletin) Amount claimed by Atkins
-(QAR) ALYSJ JV Determination
-(QAR) Amount paid to date
-(QAR)
-Atkins Lead Design
+We confirm that this instruction is given pursuant to Sub-Clause 4.4 [Variations] of the Agreement.
+Accordingly, the Consultant is requested to submit a proposal for this variation pursuant to Sub-Clause
 
-426,834.00
+4.4.2. Upon receipt thereof, the Client shall make a fair adjustment to the Agreed Compensation in
+accordance with Sub-Clause
+4.4.1.
 
-Atkins MEP Design
+For the avoidance of doubt, the Consultant is reminded of its obligations under Sub-Clauses 4.4.4 - 4.4.7
+of the Agreement and is hereby informed that the urgent incorporation of these instructions to the
+design is of vital importance for the timely completion of the Works.
 
-17,216,686.89 11,356,465.67 8,924,989.55
+We remain at your disposal for any further information and/or clarificatio '
+Dear Sir,
 
-Atkins Total
+The Client refers to letter 1) whereby the Consultant requested a formal direction for a) the design of
+the concourse slab for Al Sadd Station in the FoH public toilets areas and b) incorporation of MSI
+requirements for openings at concourse slab .
 
-240,505.43
+Further to the above, the Client directs the Consultant as follows:
 
-240,505.43
+a)
+The Consultant is hereby instructed to make provisions (recesses) of 250mm depth in the
+concourse slab of Al Sadd Station for the drains in the FoH public toilets areas marked-up on the
+enclosed Public Facilities Floor Plan at Al Sadd concourse level, considering the drain locations from the
+signed-off ICD reference M006-GDB-ARC-ICD-00006 Rev.3.
 
-17,643,520.89 11,596,971.10 9,165,494.98
+Moreover, the Consultant is expected to optimize the width of these recesses in correlation with the
+drainage Design.
 
-Table 1) FCN071 (Eng. Bulletin): Amounts claimed by Atkins, ALYSJ JV Determination for the same and
-payments to date
+b)
+The Consultant is hereby instructed to incorporate in the design the two openings in the AlSadd
+concourse slab at gridlines T-2 and T-3 highlighted in blue on the enclosed layout, as a result of the
+ongoing interfacing process with MSI and in order to ensure compliance with MSI
+functionalrequirements.
 
-As detailed herein, the Contractor estimates that QAR 11,596,971.10 is a fair and reasonable
-compensation to Atkins against the originally claimed value of QAR 17,643,520.89 which was, at the
-Contractor’s opinion, overstated both in terms of the applicable staff rates and the respective time
-spent.
+In addition, the Consultant is informed that this instruction amends the size and location of the
+corresponding openings at gridlines T-2 and T-3 from MSl's ICD 00066 previously instructed by the Client
+under letter reference 2).
 
-The Contractor has enclosed as attachment 1) to this letter its determination of FCN 071.
+The Client confirms that this instruction is given pursuant to Sub-Clause 4.4 (Variations] of the
+Agreement. Accordingly, the Consultant is requested to submit a proposal for this variation pursuant to
+Sub-Clause 4.4.2. Upon receipt thereof, the Client shall make a fair adjustment to the Agreed
+Compensation in accordance with Sub-Clause 4.4. 1.
 
-Whilst noting that none of its aforementioned determination amounts have been agreed with Atkins as
-full and sole compensation with the entire balance being the subject of an ongoing dispute, the
-Contractor has nevertheless paid the amount of QAR 9,165,494.98 already, for which proof of payment
-in the form of electronic payment (wire transfer) documents has been enclosed as attachment 2).
+For the avoidance of doubt, the Consultant is reminded of its obligations under Sub-Clauses 4.4.4 - 4.4. 7
+of the Agreement and is hereby informed that the urgent incorporation of these instructions to the
+design is of vital importance for the timely completion of the Works.
 
-In any event, and whilst noting that the FCN 071 determination amount may be subject to further
-change, the Contractor kindly requests the Employer to proceed with an interim, on-account payment of
-its current determination value plus 12% for profits and overheads, in the net amount of QAR
-10,265,354.38.
-
-Such payment would be of invaluable assistance to the continued financing of the Project.
-
+Regarding the openings in the Al Sadd concourse slab at gridlines W-14 and W-15 marked-up on the
+layout enclosed in the Consultant's letter reference 1), the Consultant is informed that these changes
+were instructed by the Client under letter reference 2). No further amendment to these openings is
+currently foreseen.
 Yours faithfully,

@@ -1,46 +1,222 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0045
-Overdue Responses to the Contractor’s Material Submittals – Architectural, Civil, and MEP – as at 14
-February 2019
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described herein
-may cause delay [and/or disruption] to the Works, and accordingly seek your swift resolution of the
-same.
+Subject:Clause 27.1.5(a): Interim Particulars of the Basis of Claim
+Delay Notice No. 1127 – Delays to the Passenger Boarding Bridge Installation and
+Cladding of the Gatehouses and Fixed Link Bridges due to Employer’s Other Contractor (L&T)
+Dear Sir,
+Further to Delay Notice No. 1127 (letter ref: 3), the Contractor hereby submits fully detailed interim
+supporting particulars of the basis of claim in accordance with Conditions of Contract Sub-Clause
+27.1.5(a).
+1.0
+Basis of Claim
+Background
+1.1
+According to Conditions of Contract (CC) Clause 12.12 (‘Other Contractors’) and in particular,
+Sub-Clause 12.12.1, the Contractor agrees that its access to the Site of the Works is not exclusive and
+that Other Contractors may perform work on the Site concurrently with the Works.
+1.2
+Accordingly CC-12.12.2, places a contractual obligation upon the Contractor to ensure that it
+shall:
+“(a)
+cooperate with the Other Contractors to ensure the coordination of the work of the Other
+Contractors with the execution of the Works including timeframes, programmes and schedules for
+completion of the Works;
+(b)
+take such actions as are necessary to facilitate the works of Other Contractor, including
+providing Other Contractors with access to all essential services and amenities and any places where
+work is being carried out or materials are being prepared and stored; and
+(c)
+Take such actions as are necessary not to delay or disrupt any Other Contractor.
+1.3
+On this basis therefore, it is reasonable to assume the Employer has placed reciprocal
+contractual obligations upon its MTA Contractor to cooperate with the MTB Contractor and take such
+actions as are necessary to facilitate the works of the MTB Contractor, including providing the MTB
+Contractor with access to any places where work is being carried out; and to coordinate its works so as
+not to obstruct, disrupt or delay work being performed by the MTB Contractor.
+1.4
+In the event however, the MTB Contractor’s PBB and cladding installation works continue to be
+impacted, as a result of L&T’s failure to complete its works in a timely manner.
+1.5
+It is this that represents the basis of claim outlined below.
+Chronology of Delays
+Background
+1.6
+In addition to the cladding works of the MTB and Piers, the Roofing Works subcontractor
+‘Chadwick’ was required to install the external cladding to all Gatehouses and Fixed Link Bridges.
+However, prior to doing so, the Passenger Boarding Bridges had to be installed by ThyssenKrupp, which
+required access to the areas where the Employer’s Other Contractor (i.e. ‘L&T’) were undertaking
+ground works. All such dates were contained within the Rev. 10.4 Programme. In respect of the issues
+contained within this submission, the Contractor reproduces the associated Activities for Gatehouses 3,
+4, 19, 20 and 21 in Tables 1.1 to 1.10 hereunder:
 
-The Event(s):
-In the period between 8 November 2018 and 2 January 2019, the Contractor submitted 12 Material
-Submittals seeking the Engineer’s review and approval of the various Architectural, Civil, and MEP
-materials described and detailed therein (the information recorded in Annex A hereto refers).
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-the Engineer is contractually obligated to respond to the Contractor’s submittals. On the basis that each
-of the 12 Material Submittals listed in Annex A are shown to comprise Rev. 00 and Rev. 02 [plus Rev. 04],
-submittals, then these ought to have been responded to by the Engineer 21 and 7 calendar days later
-respectively, i.e. in the period between 5 December 2018 and 23 January 2019. However, the
-information recorded in Annex A hereto, also indicates that at the cut-off date associated with the
-preparation of this Notice (i.e. 14 February 2019), the Engineer exceeded, and in some instances, is
-continuing to exceed the review periods expressly stipulated in the Contract by upwards of 77 calendar
-days.
-The Contractor previously wrote on this matter albeit by e-mail on 28 January 2019 [timed at 12:56pm],
-advising the Employer / Engineer that the responses to its Material Submittals were overdue and
-requested the prompt review of the same, noting that “all approvals are critical”. While we appreciate
-the efforts that have been expended by the Employer/Engineer in assisting the approval process to
-some of these submittals in order for us to obtain a Status Code 2 or higher, many are late and still
-overdue.
-Potential Impact:
-The overdue responses to the Material Submittals listed in Annex A has, in some but not all instances,
-hampered our ability to procure, have delivered and subsequently install the affected materials. While
-in those instances where we have endeavoured to mitigate delay and / or proceeded to procure the
-noted materials, the lack of an approved material submittal will affect the final inspection of installed
-materials; this is because the Engineer can only sign-off and approve the associated Work Inspection
-Requests (WIR) if the material submittals are approved. Consequently, the continued delay in
-responding and approving each of the overdue Material Submittals described in Annex A, will invariably
-knock on, delaying the final WIR approval process of the associated Works and prevent us from
-achieving ‘Substantial Completion’.
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as may be applicable
-to resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs due to the event(s) and circumstances described herein.
+Table 1.1 – Gatehouse 3 PBB Installation
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DCPGHCDV145501120 GH03 - STR - PASSENGER BOARDING BRIDGE STAND 643 (3 PBB's)
+16/08/2018
+04/10/2018
+Table 1.2 – Gatehouse 3 External Cladding
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DCPGHEDV85532050 GH03 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
+BRIDGE 16/10/2018
+12/11/2018
+Table 1.3 – Gatehouse 4 PBB Installation
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DCPGHCDV145511120 GH04 - STR - PASSENGER BOARDING BRIDGE STAND 642 (3 PBB's)
+16/08/2018
+04/10/2018
+Table 1.4 – Gatehouse 4 External Cladding
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DCPGHEDV85532060 GH04 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
+BRIDGE 01/11/2018
+29/11/2018
+Table 1.5 – Gatehouse 19 PBB Installation
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DP2GHCDV142501610 GH19 - PASSENGER BOARDING BRIDGE STAND 627 (2 PBB's)
+15/08/2018
+18/09/2018
+Table 1.6 – Gatehouse 19 External Cladding
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DP2GHEDV82512420 GH19 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
+BRIDGE 19/09/2016
+03/11/2018
+Table 1.7 – Gatehouse 20 PBB Installation
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DCPGHCDV145531060 GH20 - STR - PASSENGER BOARDING BRIDGE STAND 626 CODE E (2
+PBB's) 01/09/2018
+01/10/2018
+Table 1.8 – Gatehouse 20 External Cladding
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DCPGHEDV85532090 GH20 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
+BRIDGE 16/10/2016
+16/12/2018
+Table 1.9 – Gatehouse 21 PBB Installation
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DP3GHCDV143501480 GH21 - PASSENGER BOARDING BRIDGE STAND 625 (2 PBB's)
+08/08/2018
+10/09/2018
+Table 1.10 – Gatehouse 21 External Cladding
+Item Activity ID
+Description
+Start Date
+Finish Date
+1
+DP3GHEDV83512340 GH21 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
+BRIDGE 10/08/2016
+17/09/2018
+1.7
+Based on the foregoing, access should have been provided to ThyssenKrupp between 8 August
+2018 and 1 September 2018, which would then allow Chadwick to commence external cladding works
+with completion between 17 September 2018 and 16 December 2018.
+1.8
+However, as a result of L&T’s delayed works, these dates could not be achieved.
+Chadwick Letter ref: 733
+1.9
+As a result of the delays caused by the Employer’s Other Contractor (L&T); on 5 September
+2018, the Contractor received letter ref: 1 from Chadwick. Therein, it was recorded that the five
+
+aforementioned Gatehouses (i.e. 3, 4, 19, 20 and 21) were “without passenger boarding bridge (PBB)
+due to restricted access and unsuitable ground conditions…”.
+1.10 In substantiating the foregoing, Chadwick attached the following five photographs for each of
+the affected Gatehouses, clearly evidencing the unsuitable ground conditions, thereby restricting access
+for ThyssenKrupp and Chadwick:
+Figure 1.1 – Gatehouse 3
+Figure 1.2 – Gatehouse 4
+Figure 1.3 – Gatehouse 19
+Figure 1.4 – Gatehouse 20
+Figure 1.5 – Gatehouse 21
+1.11 Furthermore, Chadwick expressed “major concern” as the duration of the Contractor’s works
+following access from L&T was 3.5 to 4 months.
+1.11.1 Chadwick’s concern is clearly justified when compared with the Rev. 10.4 Programme dates
+provided in Tables 1.1 to 1.10.
+Chadwick Letter ref: 736
+1.12 The Contractor received further correspondence from Chadwick on September 2018 (letter ref:
+2), which made reference to planned works for GH 19, 20 and 21, based on full L&T access dates, as
+follows:
+1.12.1 GH 19 and 21 by the end of August; and
+1.12.2 GH 20 by the end of September.
+1.13 However, despite these proposed access dates, Chadwick advised that access to GH19 remained
+unavailable, whilst only partial access was permitted at GH21.
+1.14 Based upon which, Chadwick notified that the failure to provide access will delay the Works.
+1.15 Therefore, the Engineer is urged to instruct L&T to complete its works forthwith and therefore
+allow access to both ThyssenKrupp and Chadwick to complete the PBB and cladding works in order to
+mitigate the ongoing delays.
+1.16 It is because of the disruption and delays being caused to the Contractor’s works that the
+Contractor was compelled to raise Delay Notice No. 1127 (letter ref: 2) on the basis that the MTA
+Contractor (L&T) has an obligation to take such action as is necessary to facilitate the works of the
+Contractor. As noted above, this includes inter alia completing the ground works to allow the
+Contractor to undertake Passenger Boarding Bridge installation and external cladding; and to coordinate
+its works so as not to obstruct, disrupt or delay work being performed by the Contractor.
+Impact of Delay
+1.17 The outstanding works noted above for which the MTA Contractor is responsible, has impacted
+and is for all intents continuing to impact on the Contractor’s ability to commence and therefore
+complete the following:
+1.17.1 Installation of Passenger Boarding Bridges; and
+1.17.2 External cladding of the Gatehouses and Fixed Link Bridges.
+1.18 The Engineer is therefore urged to forthwith instruct the Employer’s Other [MTA] Contractor
+(L&T) to complete its works without further undue delay.
+These Interim Particulars
+1.19 At the date of preparing these Interim Particulars (which is 30 September 2018, the Contractor
+records that it has still not been afforded access to undertake its works in the affected areas. The effects
+
+of delay have yet to be fully realised at present, and hence the various events and circumstances giving
+rise to this claim outlined above, are having a continuing effect on the Time for Completion.
+Summary
+1.20 The Contractor undertakes to review the event(s) and circumstances described herein, in order
+to assess the direct and consequential effects on the Time for Completion of the Works; the outcome of
+which will be submitted in due course, pursuant to Conditions of Contract Sub-Clause 27.2.1.
+2.0
+Date Basis of Claim is Discovered
+2.1
+The Contractor considers that the date the basis of claim was discovered is 5 September 2018,
+which represents the date at which the Contractor received letter ref: 1 advising of the delays, and when
+it became apparent that the various events outlined above, was delaying the Contractor’s works and
+give rise to an entitlement to an extension to the Time for Completion, and associated additional Costs.
+3.0
+Relevant Contract Provisions
+3.1
+The Contractor’s entitlement to an extension to the date for Completion of Milestones
+(principally Milestones 9 and 10, and any associated additional and/or abortive costs arises from:
+3.1.1 a breach of the Contract or act of prevention on the part of the Employer, the Employer’s
+Personnel, the Consultants or the Other Contractors pursuant to Sub-Clause 16.5.1 (c); and
+3.1.2 Contractor’s Claims pursuant to Sub-Clause 27.1.
+3.2
+The impact that this delaying event will have on the Clause 16.3 Programme (Rev. 6.2) will be
+determined by a Time Impact Analysis (TIA) pursuant to Conditions of Contract Clause 27.2.1.
+3.3
+In the meantime, further interim and / or final details of this claim will be provided in
+accordance with Sub-Clauses 27.1.5(b) and Sub-Clause 27.1.5(c).
 Yours faithfully,

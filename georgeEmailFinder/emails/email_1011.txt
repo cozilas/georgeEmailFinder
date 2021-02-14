@@ -1,40 +1,11 @@
-Subject:
-
-Notice of Delay - BIM Delays - EDI Submission
-
+Subject:Professional Services Agreement – Change In The Company Name From “LLH For Healthcare
+Management LLC” to “Response Plus Medical Services L.L.C.”
 Dear Sir,
-With reference to the above subject and further to the official correspondences referenced herein (in
-addition to the numerous emails sent to you), we raise our concerns regarding your failure to fulfil your
-contractual obligations in relation to the execution of BIM deliverables in a timely manner.
-Upon reviewing your current status it is evident that the following shortfalls persist:
-You have failed to provide a Track Table and planned dates of submission for your scope of
-LOD400 tagged models, refer to email reminders enclosed.
-You have failed to provide a QA/QC check list proposal, following the request forwarded to you
-in the above correspondence (3).
-You have failed to provide a sample for LOD400 tagged model.
-You have failed to provide a sample for As-Built LOD500 model.
-You have failed to respond and action our requirements forwarded to you via letter ref. (3) and
-ref. (4).
-You have failed to provide a workflow illustration of how to export native format files into DGN
-format.
-You have failed to provide IFC compliance certification; confirming that the software used for
-modelling is compliant with the IFC 2*3 format.
-
-You are hereby immediately required to complete the above actions and comply with your contractual
-obligations by referring to:
-Schedule 12 (Specifications) Section 019800 [Building Information Modelling (BIM)], Section
-013300 [Submittal Procedures], Section 013113 [Contractor’s Work Coordination Responsibility], Section
-017700 [Project Close Out], and Section 019500 [Requirements for Facilities Management and
-Maintenance].
-BIM Implementation Plan - Sub-Contractors Participation Requirements.
-Be reminded that in the event you fail to demonstrate your full compliance towards the above within
-twenty one (21) days from the receipt of this letter, MTB TCAJV will proceed with the required actions
-on your behalf and will back charge you accordingly. Our BIM department have provided a breakdown
-of projected costs based on the resourcing requirements necessary to undertake the aforementioned
-tasks (see enclosure B).
-In addition to the above, you shall be held responsible for any loss, damages and/or extra expense
-TCAJV and/or other affected trades may incur as a result of your delays in the completion of your BIM
-obligations. This includes but is not limited to the costs for TCAJV BIM Team's services incurred in
-assisting, supporting, educating and even rendering your scope of work on your behalf, so as not to
-hinder the BIM coordination process.
+We write in reply to your letter reference (2), whereby you have informed us about the change of your
+company name, as part of your international integration.
+We hereby give our consent for the change of your company name from M/S “LLH For Healthcare
+Management L.L.C.”, which is used under the Professional Services Agreement reference (1), to M/S
+“Response Plus Medical Services L.L.C.”, a company established under the laws of the Emirate of Abu
+Dhabi, United Arab Emirates, having its registered Trade License No. CN-1487005.
+All terms and conditions remain as per the original Professional Services Agreement referred above.
 Yours faithfully,

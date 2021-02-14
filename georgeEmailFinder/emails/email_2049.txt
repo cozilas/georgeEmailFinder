@@ -1,20 +1,38 @@
 
-Dear Sir,
+Dear sir
 
-Further to the direction of reference 1) issued pursuant to General Condition (“GC”) 13.2.1 of Volume 3
-of the Contract, the Contractor hereby notifies the Engineer’s Assistant that said direction requires
-further modification as follows.
+M006-QRC-PMT-LTR-00078 dated 24 March 2015
+MOOG-GDB-COM-LTR-02102 dated 17 August 2015
+M006-GDB-COM-LTR-02821 dated 5 January 2016
 
-In particular, Clause 14.3.4.3.b.iii) of Volume 6 of the Contract states that the Telecom Safety Police
-room shall be “located next to the Tel/IT Main Room”. The Contractor has developed its general
-arrangement designs in accordance with this clause and in-line with the equivalent requirement set
-forth in the MSI contract (as demonstrated via the ICF of attachment 1).
+Refer to the Instruction issued under reference M006-QRC-PMT -LTR-00078 dated 24 March 2015,
+which relates to the Variation of Employer's Requirements (ER) in respect of tunnel cross-passageway
+spacing.
 
-By swapping the Telecom Safety Police Room with the Tel/IT Third Parties Room, the former will no
-longer be located next to the Tel/IT Main Room. The Contractor therefore kindly requests the direction
-of reference 1) to be revised accordingly by incorporating the deletion of Clause 14.3.4.3.b.iii) of Volume
-6 of the Contract.
+Pursuant to Sub-Clauses 3.5 and 13.6.1, the Engineer will now proceed to agree or determine
+adjustments to the Contract Price and the Schedule of Payments resulting from this Variation.
 
-Following receipt of the revised direction the Contractor shall then proceed with its 13.2.1 valuation. We
-remain at your disposal for any further information and/or clarification.
+With reference to your letters M006-GDB-COM-LTR-02102 and M006-GDB-COM-LTR-02821 dated 17
+August 2015 and 5 January 2016 respectively, I propose for your consideration and agreement the
+Employer's entitlement to cost savings as set out in Appendix A
+
+Entitlement to time-based cost savings or savings associated with a reduction in construction risk have
+not been considered at this stage.
+In arriving at the proposed Employer's entitlement, the following points were among those considered:
+
+1.
+Any entitlement to cost savings should be based on the tendered schedule of rates for the
+provision of cross-passageways.
+2.
+The implementation of the 'Singapore Solution' was an Employer initiative instructed via the
+Engineer's letter of 24 March 2015. The instruction for the amendment of the ER relating to the spacing
+of cross- passageways constitutes a variation from your original submitted design solution and is not
+construed as Value Engineering under the Contract.
+3.
+The implementation of the 'Singapore Solution is predicated by a waiver from the Qatar Civil
+Defence
+(QCD) which was obtained by the Employer subsequent to your tender submission.
+
+No later than 14 days from receipt of this letter, please inform us whether or not the Contractor agrees
+with the assessment set out in Appendix A.
 Yours faithfully,

@@ -1,26 +1,23 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0200
-BHS – Floor Painting Directional Arrows – Level L1.0 Drive Isles
-Receipt of Etihad / ADAC Ops ‘Approved’ Drawings on 8 January 2020 – Request for Issued for
-Construction Drawings and Engineer’s Instruction/Variation Order
-Dear Sir,
-We refer to your letter ref: (1) entitled ‘Floor Markings at the BHS Areas (L1.0)’, which while on the face
-of it was not issued in direct response to our E-Notice No. 0200 (ref: 2), it nevertheless touches on the
-very issue subject to that notice; and you maintaining the position that “this issue was clarified … in June
-2016” and as it was “known” i.e. clarified, then it is considered by you to be captured in SAA8.
-For the reasons comprehensively set out in our letter ref: (2) we disagree; and it is clearly evident from
-your letter (1), that you have ignored the evidence of facts or missed the crux of the issue entirely.
-Firstly, how is it possible that we “should have” submitted Shop Drawings based upon responses to the
-RFIs listed in letter ref: (2) when the replies failed to provide any setting out details, or specific shapes,
-sizes or dimensions of the directional arrows to the BHS arrival and departure areas to Level L1.0?.
-Secondly, it was not until receipt of the Employer’s e-mail dated 8 January 2020 [3:43 PM] that we were
-finally provided with [signed] “approved drawings” of the BHS L1.0 Floor Marking Setting Out.
-Thirdly, when compared with the original IFC Drawing attached to our letter dated 23 November 2014
-(ref: MTB/TCA/AECOM/L/003309), shows a fundamental difference between the two Drawings. Hence
-the approved drawing issued on 8 January 2020 represents an unequivocal change in design and scope.
-Therefore we are entirely justified in requesting a formal EI / VO from you if you wish for this works to
-be implemented; the obligations placed upon you by SAA8 are explicit. We also maintain our rights to
-seek to recover any additional time and cost implications arising from this ‘act of prevention’.
-To this end, until such time you take the action required of you and issue us an EI / VO in accordance
-with the express requirements of SAA8, we are unable to proceed with implementing any changes to
-the Floor Markings at the BHS Areas (L1.0) and will maintain what is reflected in the existing IFC design.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0159
+Security System (Security Access Control and Video Surveillance System) – Snagging, De-snagging and
+Defects Management
+Unreasonable Snagging and De-Snagging Comments Uploaded to ZUTEC
+Dear Sirs,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0159 (ref: 2) in which you seemingly
+infer that we are somehow culpable for the matters detailed within our letter ref: (2), and that the
+“delays due to the unreasonable snagging and de-snagging comments is deemed to have no merit
+For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
+you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
+The facts are as follows: At the date of preparing our E-Notice, there were circa 5,560 snags uploaded to
+the ZUTEC system relating to the Security Systems, out of which you erroneously identified 750 ‘snags’
+allegedly relating to the SACS & VSS in rooms that do not have any elements installed in them. Hence we
+were forced to unnecessarily close out a ‘snag’ that in reality did not exist. Moreover, our ability to
+close out snagging has been further hindered by numerous unnecessary duplicated items being
+uploaded to ZUTEC, which for example consists of the same Security System element installed at the
+same location, which despite being identical were uploaded with a different reference number. These
+acts of prevention were entirely avoidable but have both delayed disrupted our progress.
+
+In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

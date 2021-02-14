@@ -1,37 +1,76 @@
-Subject:Engineer’s Notification of a Notice to Correct - Shortage of Manpower
-Dear Sir,
-We write with reference to your letter (1) regarding the concerns you have in respect of the recent
-reductions in the manpower numbers at site.
 
-Whereas your focus is on negative manpower variances, we are disappointed that you have made no
-reference to the positive variances to the indirect supervision manpower for Anel of 432, for PCEJV of 28
-and for Al Ghurair showing an increase of 80. These additions have improved the productivity and focus
-of the manpower at site due to closer supervision and work front direction.
-Furthermore, to compensate the negative variances of Anel and PCEJV, we have deployed 796 skilled
-labourers to assist them, mitigating potential delays and maintaining the planned progress.
-We reiterate our comments made in our previous letter (2) that the planned resource levels submitted
-by us are a best assessment at the time of programming and there will be natural fluctuations due to
-sickness, rest days and the daily changing demands of the programme.
-Regretfully, there remains a domestic issue between PCEJV and NAFFCO over the valuation of their
-account, which has resulted in a reduction of manpower at site on the date of your count, however our
-own increased labour compensates for this.
-We disagree with your statement: ‘We remind the Contractor that they are in delay and have not
-evidenced any entitlement to any extension to the Time for Completion.’
-Your statement is entirely misguided, and we maintain that we are currently entitled to an extension to
-the Time for Completion of Milestone MS09C of ‘at least’ 320 calendar days, in respect of TIA No. 3 –
-Post SAA8, in respect of the events cited therein, revising the Completion of MS09C to 15 September
-2020.
-To date, we have submitted 3 fully supported claims for entitlement to an extension to the Time for
-Completion:
-1.
-TIA No. 1 – Post SAA8, namely ‘Consolidated Delay Analysis for Events between 4 September
-2018 and 1 May 2019’ submitted under cover of letter ref: (3); and
-2.
-TIA No. 2 – Post SAA8, namely ‘Consolidated Delay Analysis for Events between 2 May 2019 and
-1 August 2019’ submitted under cover of letter ref: (4).
-3.
-TIA No. 3 – Post SAA8, namely ‘Consolidated Delay Analysis for Events between 2 August 2019
-and 1 October 2019’ submitted under cover of letter ref: (5).
-We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
-obligations within the shortest possible time, without compromising on safety and quality.
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 211
+Engineer’s Late and Overdue Responses to As-Built Door Schedules for Piers and Central Processor
+[issued vide 6 As-Built Submittals]
+Dear Sir
+Pursuant to the Sub-Clause 2.26 of Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
+may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays caused by your failure to respond to various As-Built
+Door Schedule Submittals within the review times expressly stipulated in the Contract.
+Potential Impact
+
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+In the period between 22 December 2019 and 7 January 2020, we submitted the following 6 Nos. AsBuilt Door Schedule Submittals containing a corresponding number [6 Nos] of Door Schedule documents
+for your review and approval, in the manner and on the dates recorded in Table 1 below.
+Table 1
+Item Date submitted Submittal Ref Rev
+Description of Contents Response due per Section
+013300 Response received
+Status Code
+Delay (Calendar Days)
+1
+22-Dec-19
+DS/0401/14899 01
+Door Schedule for P3 As-Built 05-Jan-20
+29 Days
+2
+22-Dec-19
+DS/0401/15114 00
+Door Schedule for P2 As-Built 12-Jan-20
+22 Days
+3
+26-Dec-19
+DS/0401/15131 00
+Door Schedule for P1 As-Built 16-Jan-20
+18 Days
+4
+06-Jan-20
+DS/0401/15177 00
+Door Schedule for CP below Level 2.0 As-Built 27-Jan20
+7 Days
+5
+07-Jan-20
+DS/0401/15190 00
+Door Schedule for CP Level 2.0 and above As-Built
+28-Jan-20
+6 Days
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our submittals. On the basis that each of the As-Built Door
+Schedule Submittals listed in Table 1 are shown to at Rev. 00 and Rev. 01, then these ought to have
+been responded to by you 21 and 14 calendar days later. However, Table 1 shows that at the cut-off
+date associated with this E-Notice (which is 03 February 2020), you exceeded, and at that point
+continued to exceed the review periods expressly stipulated in the Contract. The summary included in
+Table 1 shows for example, that your responses to Submittal DS/0401/14899 and DS/0401/15114 are
+late and overdue by upwards of 29 and 22 calendar days respectively.
+Any such delay is wholly unacceptable, particularly at this stage of the Project. In which respect we
+remind you that Slide No. 5 of the Chairman Meeting & Walk dated 20 November 2019 expressly states:
+‘All Parties must adapt a fast track programme approach. All reviews of contractual documents,
+submittals and drawings must be reviewed and returned within 7 days or less.’
+We should also add that all our rights and entitlements to recover the associated additional time and
+costs resulting from the aforementioned act(s) of prevention on your part will apply irrespective of any
+alleged failure on our part [which is denied], to transmit submittals to you in a timely manner.
+The more you prolong the review and approval of the Door Schedule Submittals listed in Table 1, the
+more likely this will impact our ability to complete the remaining Works and / or testing and
+commissioning, which will in time, invariably impact our ability to achieve Substantial Completion.
 Yours faithfully,

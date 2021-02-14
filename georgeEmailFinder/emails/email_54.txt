@@ -1,17 +1,16 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0275
-Delays to our Mechanical Commissioning Activities due to Obstructions by the Employer’s Other
-Contractor (M/s Cloisall) located at L2.0 Downtown Arcade
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0281
+Access Barrier at ATRS Smart Lane 16 Screening Area L2.0
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The events described in Annex A hereto, concern acts of prevention on the part of the Engineer /
-Employer’s Other Contractor delaying completion of our Mechanical Commissioning Activities to L2.0
-Downtown Arcade.
+The matters described in Annex A concern acts of prevention on your / the Employer’s part, associated
+with pending confirmation of the access barrier requirements at ATRS Smart Lane 16 screening area
+L2.0.
 Potential Impact
-Acts of prevention on the part of others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
@@ -19,39 +18,44 @@ Kindly ensure that such matters are actioned immediately upon receipt of this e-
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
-DESCRIPTION OF THE EVENT
+Description of the Event
 Background
-By way of our e-mail dated 18 March 2020 [1:51 PM] we notified you that we were forced to suspend
-our Mechanical Commissioning Activities to AHU-CS-LB.1-09 to the L2.0 Downtown Arcade as a
-consequence of a “major accessibility issue” concerning the Variable Air Volume (VAV) system, owing to
-the works of the Employer’s Other Contractor (Cloisall) obstructing the ceiling access door location with
-their containment / supports; thus the VA is not accessible. The photographs attached to our e-mail
-refers (see Figure 1 below):
+At a site walk on 11 February 2020 involving us, you and the Employer, you informed us that a
+separation was required at the ‘Smart Lane 16 Search Table’; the objective of which was to prevent
+passengers entering the screening area while accessing the search table to collect their luggage (Figure 1
+refers):
 
-Figure 1
-Various discussions have taken place since then in order to try to resolve matters; this is reflected in our
-further e-mail dated 25 March 2020 [4:17 PM], including considering relocating the access door and
-related works in lieu of removing the conduits; albeit it was evident that some of the conduits would
-need relocating.
-However, it soon transpired that further problems were encountered; where it was found that Cloisall
-had installed low level conduits that were in fact blocking the existing ceiling access doors [as shown in
-Figure 1 above] and must be relocated. Our further e-mail dated 25 March 2020 [Wednesday 4:34 PM]
-refers.
-Despite informing you that we are prevented from completing our MCA works due to Cloisall’s actions
-and/or activities, as described above either in person or via our numerous emails (copies attached to
-Annex B hereto for your information), we put on record, that to date, there has not been any resolution
-to this issue. As a result, this act of prevention on the part of yourselves and / or the Employer’s Other
-Contractor has both delayed and disrupted the progress of our Works and is preventing us from
-completing Commissioning.
-Accordingly we maintain all our rights under the provision of Conditions of Contract Sub-Clauses 16.5.2
-and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time for
-Completion and the associated costs arising from the acts of prevention on your part / the Employer’s
-Other Contractor.
-We therefore request your urgent action to resolve the matters noted above in order to mitigate delay
-and/or disruption to the Works. This may take the form of instructing the Employer’s Other Contractor
-to urgently complete their works and also relocate their conduits; thereby enabling us to complete our
-Commissioning.
-Meanwhile, the noted delay will invariably knock on and impact upon our ability to achieve Milestone
-MS09B. Similarly, this has the potential to prevent us from achieving Substantial Completion (i.e.
-Milestone
+We put on record that the separation was specified to be provided by ‘Others’ and it was not under our
+scope of works, as per the fit-out requirements and the approved Shop Drawing No: 401-MHA-SS-01-205.22-M-SD-007 (Figure 2 refers). Specifically, the comments annotated upon Shop Drawing No: 401MHA-SS-01-20-5.22-M-SD-007 clearly indicates that the “infills and partitions are by others”.
+Figure 1
+Figure 2 – Shop Drawing No: 401-MHA-SS-01-20-5.22-M-SD-007
+Our letter ref: (1) was issued due to the fact that between February and May 2020, no action has been
+taken by ‘Others’ in regards to closing the gap at the concerned area and no further information or
+interface details were provided by you. We note that this issue has caused numerous delays to our
+works located at Smart Lane 16, since we have not been able to finalize the works associated with the
+PBSS equipment, including the locations of the bottle liquid scanner (BLS) and locations of the ion
+scanner and cable routing; and moreover, we have been prevented from completing the relevant AsBuilt Drawings.
+On 31 May 2020 (letter ref: 2), you responded to letter ref: (1), attaching email correspondence
+between you and the Employer (ADAC), confirming the Employer’s decision to select ‘Option 1’ out of
+the two (2) options associated with the final location of the BLS and the ion scanner, discussed during
+the site walk in February 2020 (refer to Figure 3 below). While in another e-mail the Employer states
+that a “glass partition to fill the gap” will be added at a later stage. Finally, in your letter ref: (2) you
+requested us to “coordinate the power and data outlet required for the BLS and ETD equipment and
+proceed accordingly.”
+Figure 3
+However, matters have continued such that at the date of preparing this E-Notice No. 0281 (i.e. 18 June
+2020), the resolution of this issue – initially discussed with you on 11 February 2002 – still remains
+outstanding. This is in excess of four months ago. The continued failure on your / the Employer’s part
+to provide us with necessary IFC Drawings in confirmation of the requirements for closing the gap
+between the ‘Smart Lane 16 Search Table’ and the opposite wall remains on-going and as such
+continues to prevent us from finalizing the locations of the PBSS equipment installations described
+above.
+It is because of the continued acts of prevention on your part and the part of the Employer that we raise
+this E-Notice No. 0281, to notify you that such delays will impact on our ability to achieve Substantial
+Completion. Any delays to completion of our Works at this juncture of the Project, will prevent us
+obtaining the Building Completion Certificate (BCC), which is critical in us achieving completion of
+Milestone MS09B and will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+We therefore urge you to resolve this matter forthwith and issue us the IFC Drawings and accompanying
+EI in confirmation of closing the gap between ‘Smart Lane 16 Search Table’ and wall; all as outlined
+above.
 Yours faithfully,

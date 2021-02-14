@@ -1,87 +1,22 @@
-Subject: Value Engineering Item MEP-19 (HVAC Hydronic ABS Piping) Realization of MEP 19 Value
-Engineering Item
+Subject: Value Engineering Item Arch-91 Omit Adjustable Top Hats Sections at Main Roof
 Dear Sir,
-We refer to Engineer's letter ref. MTC-CMA-TCA-0401-LTR-01353 dated 08 April 2014 and respond as
-follows.
-Suitability of ABS/ERW Hybrid
-We maintain that the ABS pipe is an ill-considered material for the Hydronic piping system in
-combination
-with the steel pipe. Notwithstanding Consultant's language focusing on the "installation, operation and
-maintenance in accordance with manufacturer's recommendations", it appears that such language is
-designed to shift attention to the Product and workmanship without addressing the actual design of the
-pipe system or the likely consequences of using such Product, which in our opinion is not fit for its
-intended purpose.
-Such remarks are not acceptable and they will not absolve the Consultant from future liability by shifting
-the focus to the Product, Product manufacturer warranties and Contractor Warranties. We hereby
-reiterate on the basis of 2 professional consultant reports that the Product is not fit for its intended
-purpose.
-Provision of Suitable Value Engineering Item Design
-There is no doubt that both Parties intended to implement Value Engineering Item (VEl) MEP-19.
-However, the Employer did not fulfill its obligation by providing a suitable design. We reiterate that
-Conditions of Contract Clause 9.7.1:
-"For the avoidance of doubt, the design of Value Engineering Items and Provisional Value
-Engineering Items shall be the responsibility of the Employer."
-Therefore, the Engineer's statement that the Employer intends "to retain the system as designed and
-specified," incorrectly implies that the Employer delivered a hybrid piping system design. This is not the
-case as the Engineer did not issue any Drawings that reflect a redesigned hybrid chilled water piping
-system.
-Therefore, the first premise of your letter does not hold; the Employer through its Engineer and/or
-Consultants should have provided a responsible design including undertaking the liability for the fitness
-for purpose. This is a fundamental condition of Contract in order to realize the so called "intentions" of
-VEl MEP-19. Providing a Specification that sets out various types of Materials does not deflect the
-responsibly for the selection of combinations of Materials and Products or the design of such hybrid
-system onto the Contractor. This remains an Employer responsibility.
-The Employer is required to develop and deliver a constructible and a fit for purpose design of the VEl;
-not
-merely to reissue a Specification that includes multiple Product/Material descriptions. Merely adding a
-Product type in a Specification does not constitute responsibility for design. In fact the IFC Drawing
-design
-was not changed at all. As such the VEl design cannot be deemed as having been delivered or realized. In
-the light of the above, the Engineer's remark that the Contractor "should not be reverting to the base
-contract works" is inconsistent; since the design was never changed. Only a properly detailed IFC
-
-Drawings showing the hybrid system piping details may be deemed a constructible design.
-However, we do agree with the Engineer on the principle that the Contractor "is not entitled to make
-unilateral decisions in relation to changing ... the work." This is solely the right of the Employer. What we
-attempted to express is that we have to revert to the intents of the original Contract because the
-Employer never fulfilled the design intents by issuing a VEl design of the hybrid piping system in
-accordance with the Employer's responsibility pursuant to Clause 9.7.1 in the first instance.
-Achievement of Value Engineering Saving (MEP 19)
-In respect of the Tender Bulletin references, it appears the Engineer failed to acknowledge that Tender
-Bulletins are incorporated into the Contract and are established at a higher order of precedence than
-the
-Specifications and Drawings in Clause 9.6.1. The Contract Definitions establish the following:
-"Tender Bulletin means the tender bulletins numbered 1-26 inclusive issued to the
-Contractor during the tender period but only such relevant parts as are required to clarify
-any inconsistency, ambiguity or discrepancy, if any, in or between the Drawings and/or
-Specification; "
-We refer you to our letter ref. MTB/TCA/AECOM/L/001561 dated 2 March 2014 which, provided a
-transcription of the Employer's responses to Tender Bulletin No. 5 RFC no. 70 dated 23 May 2011 and
-Tender Bulletin No. 9 RFC no. 68 dated 20 June 2011 {both related Specification 232113 pipes), whereby
-the Employer confirmed "Per Specification, either ERW or Seamless is acceptable" and "Either [ERW or
-Seamless] is acceptable," respectively.
-Semantics notwithstanding, the seamless and ERW pipes were accepted by the Employer as equal. The
-Tender Bulletins cited above predate any Value Engineering Item initiatives which commenced in early
-2012.
-Actual Installation on Site
-We kindly ask the Engineer to consider the Contract terms that establish the Employer's reliance on the
-Contractor pursuant Condition of Contract Clause 8.1.1:
-" ... whilst the Employer may have appointed... an Engineer or other Consultants, in
-connection with the management of the Works, the Employer is and will at all times be
-looking to and shall be reliant upon the Contractor's professional expertise, skill, care and
-judgment in relation to all matters concerning the execution and completion of the
-Works ... " For the reasons provided here above, we will not install any Works that as an Experienced
-Contractor we
-deem to be unfit for its intended purpose. The Engineer should consider that the Consultant refrained
-from providing revised IFC Drawings for the hybrid design and to uphold the obligations under the
-Contract for the establishment of a responsible design, we believe the matter of ABS piping should be
-closed on its own merits.
-In summary, the commercial and technical principles underlying this Value Engineering Item do not
-support a Value Engineering cost reduction as no ABS pipes were implemented in the IFC Drawings and
-ERW and Seamless are equally allowable under the base Contract document (i.e. before Value
-Engineering Items) as confirmed by the Employer in the Tender Bulletins referenced above. Therefore,
-the Employer is not entitled to any Value Engineering Item saving for MEP 19.
-In respect of Value Engineering Proposals intended to contribute to the Provisional Value Engineering
-Savings target, please be reminded that achieving Provisional Value Engineer Savings is a joint
-responsibility of the Parties and may be considered outside the specific issues of VEl MEP-19.
+We write to advise the Engineer that Value Engineering Item Arch-91 savings have not been realized.
+Please be advised that the IFC Drawings were reissued as originally provided (i.e. by retaining the top
+hats). As such the Value Engineer Item savings were not realized as intended.
+The Value Engineering Item description states the following;
+' .. Omit the adjustable top hat sections at main roof. Rotate the structural metal deck on main roof by
+90 degrees and use deeper metal deck section to maintain overall roof build up height. No impact on
+form and curvature of roof profile is accepted ... '
+Given the minimum radii of 16m (N-S direction) and 448m (E-W direction) and the purlin geometry, it
+appears that it was not possible to maintain the original double curvature/warping of the roof. We
+therefore conclude that the Employer requires the top hats in order to maintain the original shape of
+the roof.
+Based on our own investigations, it became abundantly clear that a facetted profile cannot be
+overcome by modifications to the supporting structure of the roof. This conclusion is supported by
+our specialty Subcontractor M/s Chadwick SEC (LLC) as per the enclosed hereto letter ref. ADIA-NG0039 dated 17 July 2013.
+Furthermore, Arch-91 was proposed solely on the basis of omitting the top hats as defined for the
+Value Engineering Item. Clearly this was not achievable without reverting to the top hat such than
+" ... No impact on form and curvature of the roof profile."
+Having reinstated the top hats, we respectfully request that the proposed Value Engineering Item
+savings for Arch-91 be returned to the Contractor.
 Yours faithfully,

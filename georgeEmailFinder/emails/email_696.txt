@@ -1,9 +1,77 @@
 Subject:
 
-Re: Chase up temporary works site instruction
+Rejection of the ROM Ref: 0401-PCE-ROM-0039
+Duct Supports, issued via MTB-PCEJV-TCAJV-G-TN-02590
 
-Dear Sir,
-This a response to your letter referenced (1) above, to inform you that the issue discussed in your letter
-has been addressed via our letter referenced (2) above.
-This is for your information and records.
+Dear Sir,
+With reference to the above subject and the above correspondences, we have noticed a drastic increase
+of inflated and invalid cost submissions for alleged variations. On the contrary, we have also noticed that
+no action has been taken for the valid and instructed variations for which negative values are yet to be
+submitted. At this critical stage of the project, we express our absolute dissatisfaction on this
+unprofessional action.
+As an example, we refer to your transmittal ref: 1) with the Rough Order Estimate ref; 0401-PCE-ROM0039 estimated for AED 41,625,982.29, where you have attempted to include the possible cost of
+excessively ordered, wasted and or damaged HVAC ducts, supports, accessories etc. We believe that
+any potential additional costs to PCEJV related to the above HVAC ducts were due to its own failures to
+manage the procurement and execution procedures in line with the Subcontract Agreement. Please
+refer to the following explanations provided under different sub-headings for the related scenarios.
+Unapproved HVAC Shop Drawings
+The inclined narrative section of the ref; 1) ROM submission is mainly based on PCEJV’s self-motivated
+letter ref: 6) above, which it expressed your intention to seek a Contractor’s Instruction for any abortive
+works to be aroused due to the design changes and/or the rejection of shop drawings. However, the
+letter has disregarded to comment on TCAJV’s immediate response through the letter ref: 5) above.
+Though it was commented in the letter ref; 6), PCEJV neither instigated any notifications nor sought the
+Contractor’s written confirmation, pursuant to the Sub Clause 20.1.4, before the implementation of
+those abortive works as a variation.
+TCAJV is amazed to receive the above ROM for this alleged variation for which the most contiguous and
+related correspondence, ref: 2) above, is also long-standing down to May 2014. PCEJV is hereby
+requested to refer all the timeworn correspondences, including the letters ref: 2) to 9) above,
+communicated with PCEJV with regards to the delayed resubmissions of Code-3 & Code-4 shop drawings
+and inadequate coordination of mechanical services with the BIM models.
+Therefore, on the above basis, we hereby reject your attempt to demonstrate any entitlement to an
+extension of Subcontract Time for Completion or any adjustment to the Subcontract Price, pursuant to
+
+the sub-clause 16.5 and the sub-clause 21.2 of the Conditions of Subcontract respectively, to be claimed
+as expressed in the PCEJV’s letters ref; 6) and 1).
+Air Leakage Testing for HVAC ducts
+In addition to the above futile issue developed by PCEJV and with regards to the unapproved HVAC shop
+drawings, you have also attempted desperately, to integrate the above professed variation with the
+concerns alarmed, with regards to the Air Leakage Testing of the HVAC duct works, through the PCEJV
+letters ref; 13) & 10) above. We remind you that the assertions mentioned in those letters have already
+been strongly rejected, with necessary details, by the Contractor as well as the Engineer, through the
+letters ref: 11) & 12) above.
+We hereby reiterate our position that there was no amendment required for item 3.9B2; the field
+quality control system of the Specification section 233113, even if the required standards for the HVAC
+Duct were revised during the Value Engineering exercises in order to introduce the DW/144 standards. It
+should be noted that the requirement to carry out the Air Leakage tests was not omitted intentionally
+and it was required to carry the precedence over the other requirements specified by the DW/144
+standards.
+Therefore, in line with the Specification, it is obligatory for the Subcontractor to perform the Air Leakage
+Testing of the HVAC duct works. Further, we highlight items 4.2.23, 4.2.29 and 4.2.36 of the Scope of
+Subcontract Works and item G1 of the Responsibility Matrix of the Subcontract Agreement, where it
+confirms the requirement of the Air Leakage Testing of the HVAC duct works. We also bring to your
+attention item D59 of the sequence of works in the method statement; MS-1093-306 Rev 0 dated 25
+November 2013 submitted for the installation of HVAC ducts, accessories, Air leak test, insulation &
+cleanliness, where it was assured by PCEJV, before it changed its opinion irrationally, to execute Air
+Leakage tests for the HVAC duct works under the Subcontract Agreement.
+While PCEJV is appreciated for the understanding of their right to reverse its position, however, aborting
+the issue from the year of 2014 and performing the above scope of work, has left us with no choice but
+to express our displeasure on your efforts to incorporate the same matter inappropriately to any
+potential additional costs of HVAC ducts at this stage.
+With that in mind, we hereby reject your attempt to demonstrate any entitlement to an extension of
+Subcontract Time for Completion or any adjustment to the Subcontract Price, pursuant to the sub-clause
+16.5 and the sub-clause 21.2 of the Conditions of Subcontract respectively, to be claimed as expressed
+in the PCEJV’s letters ref; 10) and 1).
+Poor Quality of the HVAC Ducts
+TCAJV is of the opinion that any possible HVAC ducts, its supports, accessories excessively ordered or
+wasted or damaged, might be linked to the poor quality of the facilities, fabrication, storage and
+protection for the HVAC duct works maintained by PCEJV since the early stage of the project. Please
+refer to letters ref: 14) to 20) where TCAJV raised its concerns and NCRs on the same matter.
+Therefore, we hereby summarize that the PCEJV has no entitlement for an extension of Subcontract
+Time for Completion or any adjustment to the Subcontract Price, pursuant to the sub-clause 16.5 and
+
+the sub-clause 21.2 of the Conditions of Subcontract respectively, to be claimed as alarmed in the Rough
+Order Estimate Ref: 0401-PCE-ROM-0039.
+We hereby request PCEJV to refrain from submitting such unfair variations which lead not only to
+wasting valuable time and efforts of both parties at this critical stage, but also damage the important
+relationship required to the commercial close-out the Subcontract package effectively.
 Yours faithfully,

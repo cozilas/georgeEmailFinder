@@ -1,59 +1,35 @@
-Subject :
-
-Re: Delay in CP L4.0 North and South Skylights – Outstanding Works by Other Trades
-
+Subject: BIM Progress - Notice of Delay
 Dear Sir,
-We write in response to your letter with ref. CL0/0401/MTB-CEILING/CONT/11545/18 pertaining your
-statement that certain activities have been allegedly preventing access to your works and we hereby
-respond as follows:
-1.
-Your Statement:
-“Scaffolding erected for wooden partition.”[sic]
-Our Response:
-This is an incorrect and a misleading statement. This wooden partition belongs to the Pier 2 Area and is
-not related to the aforementioned works in the Central Processor which you have been instructed to
-proceed (See Attachment -1).
-2.
-Your Statement:
-“Storage material by other trades.”[sic]
-Our Response:
-This is an incorrect statement. Please note that the storage has been arranged by you in the
-aforementioned area and caused blockage to your own team while carrying out your works. Therefore,
-as seen in the enclosed email, it was your own materials (Attachment-2). It is also worth mentioning
-that as a gesture of good will, our site team assisted you to remove the materials. However, you did not
-take any action for two (2) days and have ignored our notifications to proceed with the erection of your
-scaffolding. Consequently, M/s China State erected their scaffolding to proceed with the Skylight
-painting works.
-In order to make it perfectly clear and correct such inaccurate allegation of “delay by others” in the
-future, you are required to properly review and discuss with your own project team before
-communicating with us.
-You are hereby reminded to coordinate your works with the Contractor and other Subcontractors
-pursuant to Subcontract Clauses 12.11 [Cooperation] and 12.12 [Other Contractors and Other
-Subcontractors].
-3.
-Your Statement:
-“Flooring works ongoing.”[sic]
-Our Response:
-This is another misleading statement and denial of your own commitments. Once again, you are hereby
-reminded to coordinate your works with other Subcontractors as per Subcontract Clauses 12.11
-[Cooperation] and 12.12 [Other Contractors and Other Subcontractors] including the flooring
-Subcontractor. Your intention to use other Subcontractor’s work as an excuse for your own delays is not
-accepted and is actually caused by your lack of manpower and inadequate supervision, as elaborately
-discussed in previous correspondences.
-Conclusion:
-In light of the above, in the event whereby you consider that delays are caused on site due to the
-unsubstantiated allegations provided in your letter, it is your Contractual right to inform us accordingly.
-Nevertheless, you are informed that it is a prerequisite of the Subcontract Agreement, that all alleged
-delays have to be substantiated as per the provisions provided thereunder. Therefore, in order for us to
-evaluate any alleged delays, you are requested to provide details demonstrating how these delays are
-affecting your Programme of Works by providing supporting evidence and delay analysis. Moreover,
+Mr. Nicholas Galati, Project Director
+AUH.06.10.0401
+Midfield Terminal Building- General Contractor
+We refer to above subject and referenced letters (1 and 2), please find our responses below:
+• We have noticed in your reply (1) that you have ignored the main objective of our letter (2) that was
+highlighted through four clear points and requirements, and instead you expanded in showcasing the
+day to
+day correspondences which forms the common conducts in the industry, where in fact all the events
+that
+were mentioned in your letter were originally done to help and support an accurate final BIM
+deliverable.
+• All your comments received via letter 1 are considered part of coordination requirements and models
+development; refer to BIM Implementation Plan pages 2 and 3 of 8 in the contract, as well as to clause
+K.3
+point 6 in the EDI.
+• We reiterate that the requested deliverables in points 2 and 4 that witnessed your delivery delays
+listed in
+our letter {2) are still required to be actioned by Chadwick, and that they are not affected by the
+changes
+highlighted in your letter 1.
+• Your delay in providing the LOD400 models was highlighted back in November 2016, (ref. 4), where
+the
+models submission was and still falling way behind the submission of the related shop drawings which is
+contradicting with the project specifications. An example of this delay is the central processor's infill and
+wrapper models which are not submitted up to this date.
 
-pursuant to Clause 27.2 [Time Impact Analysis], a detailed Time Impact Analysis for each alleged delay
-event has to be provided, showing what effect each event has had on the programme and
-demonstrating the Critical Activities and Concurrent Delays.
-Therefore, we hereby remind you that any delays, costs, losses and/or expenses and the like incurred by
-us and/or Other Sub-Contractors arising as a result of your failure to complete the aforementioned
-activities will be solely your responsibility including but not limited to Clauses 12.12 [Other Contractors
-and Other Subcontractors] and 16.6.1 [Delay Damages].
-This is for your records and immediate action.
+• The Data Drops which were requested via letter 3 are also still required to be actioned by Chadwick,
+and
+that they are not affected by the changes highlighted in in your letter 1.
+• In addition to the above, you are reminded to ensure full commitment to the submission dates of the
+LOD500 as-built BIM models in order to avoid further delays.
+Your action regarding the above is urgently required.
 Yours faithfully,

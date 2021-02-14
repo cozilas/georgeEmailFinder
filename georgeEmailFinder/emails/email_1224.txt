@@ -1,31 +1,87 @@
-Subject: Alleged Delay in OC/MCR UPS rooms due to Contractor and Other Trades
+Subject: Wording for Engineers Instruction Related t o Briefing Packs
 Dear Sir;
-We acknowledge receipt of the above referenced letter and comment as follows:
-Again we find ourselves having to reply to what can only be described as a nonsensical, unnecessary and
-erroneous piece of correspondence.
-Nothing in this letter substantiates any delays on the project and serves only to waste the time and
-resources of not only the staff ofTCAJV but also ANEL's.
-Following receipt of this letter TCAJV Area Construction Manager Sinan Sezer and representatives from
-ANEL and PCEJV walked the areas mentioned within your letter, where it was found that ANEL are
-experiencing no such hold ups as described within your spurious letter. Our Area Construction Manager
-then had to take time from his busy schedule to provide comments against the fallacious photos (most
-of which are pointless and show nothing of value), These comments are attached to this letter
-(Appendix 1). It has become apparent in the recently received correspondence that a decision to issue
-letters in quantity rather than quality and such frivolity will not be tolerated. Any Delay Notices from
-ANEL must include the following (but not limited to) information before the delay claim will be
-considered, with the same in strict accordance with clause 16.5 [Extension of Time for Subcontract
-Completion]
-1. Detailed description of the change/delay and the quantities related (if any)
-2. Reference to the relevant Activity reference on the latest applicable programme.
-3. Estimated Duration of Delay and Cost Impact (If any)
-4. Time Impact analysis performed to quantify the impact of delay with critical path.
-5. Photos with commentary to substantiate the delays.
-6. Related correspondence, drawings or specs applicable.
-7. An updated delay register (this should capture all delays incurred).
-8. Details of the mitigation measures taken adopted to overcome/minimise the Impact of delay.
-If this information is not contained within the Notice then it shall be rejected until such delays can be
-substantiated.
+3 0 1-iAY Z016
+We have received your letter referenced MTB-ANEL-TCA-l -3268 dated 1st May 2016 and respond as
+follows:
+Whilst we acknowledge your concerns pertaining to briefing packs and your assessment that the same
+does not form part of your Subcontract Agreement, we write to confirm that this is not an opinion we
+share. The Briefing Pack change is that of a variation to your contract and as such is to be valued in
+accordance with the Subcontract Conditions.
+In response to your letter we shall respond to the points raised respectively:
+Item 1 - The subcontract documents indicate what design responsibility lies with ANEL. Any Briefing
+Packs
+which impact systems designed by ANEl must be checked and accepted by ANEL for full compliance. If
+the
+sketches do not conform to design intent then this needs raising by ANEL
+Item Z - The briefing packs mechanism was created to shortcut and subsequently increase the progress
+of
+design works, the completed Shop Drawings & Co-Ordination thereof would be officially transmitted to
+ARUP whereas they would take complete ownership of the design and subsequently publish the drawing
+utilizing their own title block ultimately creating an IFC drawing.
+Item 3 -The issue of signed off sketches by the Engineer has already been discussed previously.
+Item 4- ANEL should write to TCA on this issue separately with substantiation for issuance to the
+Engineer
+for comments, We would also reiterate that prelims are time related and at the time of writing we are
+still within the original contract period. Your statement pertaining to 5th March 2015 is therefore
+irrelevant.
+Item 5 - Our satance remains as previously communicated, however your concerns will be issued to the
+employer for hid determination in the matter. Item 6 -Your comments are noted and we await
+determination by the employer for his determination in
+the matter (Subcontract Agreement Clause 11.4 [Deternination]}.
+Item 7 - Critical equipment needs to be procured from signed off sketches as such items are not affected
 
-We trust this clarifies our position on the matter; however should you have any questions or discover
-any relevant substantiation then we will be happy to investigate the matter further.
+by coordination. Should ANEL have any specific concerns in relation to t his point then you can issue a
+letter reffering to the isolated incident for forwarding to the Engineer.
+Item 8 - Noted, see point 7.
+Item 9-Noted.
+Item 10-Any Claim that is persued by ANEL will include a time impact analysis" showing what e~ect each
+event has had on the programme. This exercise will show the effects of the briefing packs and therefore
+show the reasonable time incurred. As a matter of course such impacts should be notified and as such a
+determination to halt the works should be given by the employer. There is agreement with the Em Ioyer
+to
+pay for abortive works if the same is incurred through change brought about through Briefing Packs,
+hence
+significant delays by Briefing Packs should be minimal.
+Item 11-See point 10.
+Item 12 - Briefing Packs are changes to your scope of works and shall therefore be valued in strict
+accordance with the Sub-Contract Clauses/Conditions.
+Item 13 - It is not the business of TVA or ANEL to question the internal procedures of the Client.
+We would take this opportunity however to remind you of your obligation under the Subcontract to not
+delay, defer or suspend any works associated with the works_ For ease of Reference Clause 20.3
+(Variation
+Procedure)- Sub-Clause 20.3.11;
+Clause 20.3/ Sub-Clause 20.3.11
+'The Subcontractor shall not be entitled to defer, delay or suspend the carrying out of the Subcontract
+Works (including any aspects and/or elements of the Subcontract Works which may be affected by the
+Value Engineering proposal or proposed variation) whilst the Contractor considers and/or parties discuss
+and endeavor to agree the Sub-Contractors Proposal'.
+In this instance you are required to implement whatever mitigation measures that are necessary to
+recover delays to Briefing Pack changes, be it procurement or construction activities and a like upon
+which
+you are culpable. Such mitigation measures that you should consider is that of air freight however the
+same is by no way limited to just this. For ease of reference;
+Clause 16.4.1- Recovery of Delays
+Then the Contractor may instruct the Subcontractor to submit under Clause 16.3 (Subcontract
+Programme),
+a revised recovery programme (complying with all the requirements of a Subcontract Programme set
+out in
+Clause 16.3 {Subcontract Programme) and supporting report describing the revised methods which the
+Subcontractor proposes to adopt in order to expedite progress and complete within the Subcontract
+Time
+for Completion. These revised methods may include increases In the working hours and/or in the
+numbers of Subcontractor's Personnel · and/or goods and/or measures to expedite progress. The
+Subcontractor shall submit such revised Subcontract Programme and supporting report within seven {7)
+Days of the Contractors instruction. The Contractor may, acting reasonably, if it considers the
+Subcontractor's proposals to be insufficient or inappropriate, instruct the Subcontractor to make such
+amendments and modifications to the revised Subcontract Programme and supporting report as it
+considers reasonably necessary and the Subcontractor shall make and comply with any such
+amendments
+and/or modifications.'
+All costs incurred by us with regards to your failure to adhere to your contractual obligations under the
+
+contract will be for your account and in accordance with Clause 10.3.1 of the Subcontract Agreement.
+We trust you find the aforementioned self-explanatory and you will carry out the necessary as a matter
+of
+urgency. If you seek further clarification as to the content of this letter, please do not hesitate to contact
+the undersigned.
 Yours faithfully,

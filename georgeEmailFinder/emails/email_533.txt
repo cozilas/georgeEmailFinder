@@ -1,40 +1,20 @@
-
-Subject As-Built Drawing Submissions
+Subject Recovery of Overhead, Profit and Attendance due to the Omission of Defined
+Provisional Sum for Hotel Fit Out
+Cross Ref.
 Dear Sir,
-We refer to our recent discussions regarding the quality of your submitted as-built documentation. The
-'as-built' drawing files indicate that the drawings in their native format are not in compliance with ADAC
-CAD Manual Rev 4.
-In order for you to understand the severity of this non-compliance, we have attached examples of the
-issues identified. Although these are findings from our cursory review, it is likely that these
-noncompliant
-practices will be more widespread across all packages and so you will need to validate with
-your subcontractors.
-In summary, the main issues are:
-1. The CAD file received should be a bound drawing with all the xrefs contained in it.
-2. TCA-JV's dwg is an exploded version hence the inconsistencies in the layers, dimensions, colors,
-text styles etc.
-3. There is no consistency in how the trade drawings (steel, concrete, and also architecture) are
-
-formatted.
-We also note that t he verification stamp is required to have an actual date of submission inserted as
-part
-of your approved verification stamp.
-We have also checked on the dimensions and positioning of major structural openings, and found t hat
-t here are discrepancies between information on your 'as-built' drawings and the actual site survey
-coordinates. This disparity in the information presented indicates that your information management
-procedures may be inadequate.
-In terms of how you prepare 'as-built' drawings we would again remind you that your deliberate failure
-to use the project BIM as the repository of Project information will only result in further uncoordinated
-and therefore rejected submittals. It is again suggested that you review and revise your procedure to
-improve the quality and accuracy of your project records.
-You have also been reminded of your obligation under Specification Section 01 33 00 to formally provide
-a submittal register with the proposed submittal dates for your 'as-built' drawings. This request remains
-open with you.
-Whilst you have maintained that you are validating the quality control of submitted documentation, it is
-clearly evident that your system has failed in the preparation and review of 'as-built' documentation.
-For the avoidance of doubt and to curtail any potential deflection of your responsibility, the Engineer's
-review of your submittals does not relieve you of your obligations to comply under the Contract in the
-preparation, accuracy and quality of the Works.
-In summary, your 'as-built' drawings are not in compliance with the Contract requirements nor the
-works on site and we have therefore rejected these 'as-built' submittals.
+(1} MTB/TCA/AECOM/L/011852 dated OS November 2017
+(2) MTC-CMA-TCA-0401-LTR-08073 dated 22 October 2017
+We write with reference to correspondence (1} regarding the recovery of Overhead, Profit and
+Attendance due to the Omission of the Defined Provisional Sum for Hotel Fit Out.
+The Engineer reiterates its contractual position conveyed to the Contractor vide correspondence (2).
+Furthermore the Contractor is referred to Clause 9.5 (Schedule 1, Contract Particula rs) wherein is
+provided that the Contract shall be governed by and construed in accordance with the laws of the
+Emirate of Abu Dhabi and the federa l laws of the United Arab Emirates.
+We note the Contractor's request for a meeting to discuss "the dispute" and we record that the
+Contractor has not submitted a Claim in accordance with the Contract regarding this matter and also, in
+the last paragraph of correspondence (1), the Contractor erroneously refers to letter (ref.
+MTB/TCA/ AECOM/L/011503) which is not related to the Omission of the Defined Provisional Sum for
+the
+Hotel Fit Out.
+In light of the above, the Engineer believes the requirements of the Contract are explicit.
 Yours faithfully,

@@ -1,58 +1,19 @@
+
 Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a
+variation. The nature and extent of the variation is provided below.
 
-Further to the Engineer's Instruction of reference 4) issued pursuant to General Condition ("GC") 13.1.1
-of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to the varied
-scope, quantities and direct costs in accordance with its GC 13.2.2 obligations.
+•
+Design and construction of a third pedestrian entrance at grade including related MEP,
+Architectural Finishes and Utility diversions at Qatar National Museum (QNM) Station. The pedestrian
+entrance will be situated on the QNM side of the station as per the attached drawing 'Metro
+Underground Connection Option-3a - Optimized'.
 
-The Contractor's detailed valuation of this variation is enclosed as attachment 1 to this letter and further
-summarized in table 1) below. Further supporting particulars in relationto the Contractor's pricing
-methodology can be found in attachments 2, 3 and 4 .
+•
 
-S/N
+Amend the Employer's Requirements, Volume 5, Sub-Clause 2.2.4.2 as follows:
 
-Additional Works
-
-Amounts (QR)
-
-1)
-
-Earthworks
-
-2)
-
-Concrete Works1,048,438.27
-
-3)
-
-Design Works 1,928,737.80
-
-611,051 .30
-
-4)
-
-KONE Works
-
-Total(QR)
-
-TBC
-
-3,588,227.37
-
-Table 1) Summary of El82 Valuation
-
-ALYSJ
-joint venture
-
-The main repercuss ion of changing Volume 6, Section 13, Items 13.3.3.12.a.(iii) and 13.3.3.12.e.(i) via
-letter reference 4) is an overall increase to the travellators ' length which has modified the respective
-subways' base slab profiles resulting to additional concrete and earthwork quantities.
-
-The evaluation of additional costs associated with the enlarged travellators and ancillary equipment is
-currently ongoing and shall be made available to the Engineer's Assistant for review immediately upon
-receipt of the same by Mis Kone.
-
-The interim adjustment of the Contract Price is therefore of the net amount of QR 3,588,227 .37. The
-Contractor reserves its rights to recover any time related costs in connect ion to this Variation which
-shall be addressed under a separate cover.
-
+"Design and construction work of the Pedestrian Entrance to the Corniche and National Museum is in
+this Contract's scope of work".
 Yours faithfully,

@@ -1,65 +1,53 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0114
-ADDC Rejection of Electrical Design - Requirement to Change Protection Rating of SMDBs to IP54 Request for Engineer’s Instruction / Variation Order
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0116
+Delays to Glazing and 3rd Fix installation due to activities of the Employer’s Other Contractor’s Works
+(DEPA - Lifting Frame for Material Shifting)
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
-may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
-The Event(s):
-In the period between 28 March 2019 and 10 July 2019, the Abu Dhabi Distribution Company (ADDC)
-undertook a series of inspections of the internal wiring of the electrical installations to various areas of
-the Main Terminal Building, including without limitation the inspections shown in Table 1 below.
-Table 1
-Item Inspection Date Case ID ADDC Comments
-1
-28-Mar-19
-6299172077 ‘electrical closet must be dedicated and
-isolated by fire/water proofed wall.
-2
-10-Jul-19
-8725504329 ‘SMDB must be minimum IP54 rated at the plant room area as
-per the ADAC agreement’
-However, in both cases, the electrical installations have been rejected by ADDC for the reasons that
-include those identified and reproduced in Table 1 above, which primarily relate to the requirement for
-the affected SMDBs [i.e. those listed below] to have an Ingress Protection (IP) rating of IP54 .
-1.
-SMDB reference no. FS-MDP-CLP7-L3.4-1;
-2.
-SMDB reference no FS-MDP-CLP7-L3.4-2; and
-3.
-SMDB reference no NE-DP-CLP3-L1.0-EV1
-We remind you that we have constructed the works in accordance with the IFC Drawings reflecting a
-design for which the Employer’s Design Consultant [KPF] is unequivocally responsible for, not us.
-However, it is clear there is a fundamental variance and disparity between the IFC Design [which we
-have constructed the works in accordance with] and the applicable codes and regulations governing the
-electrical design [for which the Employer’s Design Consultant, KPF, is responsible for] and against which
-ADDC is inspecting the works; hence the reason for its rejection of the electrical installations.
-Therefore in order for us to address the ADDC rejected comments detailed in the referenced Case IDs
-summarised in Table 1 and ensure that the electrical installations comply with the requirements of
-ADDC, we will require a valid Engineer’s Instruction (EI) and a Variation Order (VO) in order to do so.
-SAA8 laid down mandatory procedures to be followed if additional works are required consequently an
-EI and VO are needed for us to proceed with the aforementioned changes to the noted SMDBs.
-We therefore take this opportunity in reminding you of the provisions of Clauses 2.29 to 2.31 of
-Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted above and will continue to proceed in
-accordance with the existing IFC design to the extent we are able to. We trust this is clear.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+For the reasons described in Annex A, our Works to the North Corridor between Levels L3.0 and L3.1
+have been ‘on-hold’ since 6 April 2019 due to the activities of an Employer’s Other Contractor (DEPA).
 Potential Impact:
-
-ADDC’s rejection of the electrical installations in respect of the above noted Case IDs is preventing the
-completion of the ADDC inspection process, which will knock on and delay energisation of critical areas
-of the Project, and will invariably impact on our ability to hand over the affected areas. If the matter
-continues and is not addressed, then this will impact our ability to achieve Milestone MS09B.
-Moreover, this will invariably continue to knock on and delay achievement of Milestone MS09C.
+Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
+Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
+Consequently, the more we are prevented from working due to the combined effects of the above, the
+more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
 Action Required:
-It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
-decision or further instruction as may be applicable to resolve the matters referenced herein in order to
-mitigate such delay and/or disruption to the Works. This includes for example:
-1.
-Issuing such Instruction as necessary for us to instigate the required changes into the Works.
-Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
+
+ANNEX A
+Description of the Event
+On 6 April 2019 [5:58pm] we wrote albeit via e-mail, informing you that we were intending on closing
+the opening within the partition wall to the North Corridor at Level L3.1, but had received advance
+notification that a gantry was required to be installed by the Employer’s Other Contractor (DEPA) for the
+purpose of shifting materials from Level L3.0 to L3.1 (the following photograph attached to our e-mail
+reproduced at Figure 1 below refers). We advised you that if the opening was to be maintained, then
+this would warrant an instruction formally instructing us to place our affected works ‘on hold’ and
+requested the same from you; otherwise we would proceed as planned and close the opening.
+Figure 1
+On 7 April 2019 [12:25pm] we issued a further e-mail responding to your email of the same date [7 April
+2019 11:34am], informing you that we were ready to proceed with all works associated with the closure
+of the opening but it had been “requested by yourself … to hold our installation couple of days since you
+intend to notify us officially to hold this opening”. However, no official response from you was issued
+and since 7 April 2019 we have been prevented from completion of our Works.
+We have since e-mailed you again on 3 July 2019 [1:48pm] notifying you that our Works (28 nos. of
+Glass Wall Lining, 5 nos. Valance Glass, 5 nos. Light Box, 5 nos. Equipment Band, EPDM, and other civil
+works) continue to remain ‘on hold’ [since 6 April 2019] due to the presence of DEPA’s gantry – the
+following photograph and marked up drawing attached to our e-mail shown in Figure 2 refers.
+Figure 2
+Within our e-mail [of 3 July 2019] we also requested that you advise us “when DEPA will remove their
+lifting frame for material shifting so we can complete glazing and 3rd fix installation”?
+However, at the date of writing [25 July 2019] the situation remains unchanged, and our Works to the
+North Corridor at Level L3.1 remain ‘on-hold’ (the following photograph at Figure 3 below refers).
+Figure 2
+Resultant Impact:
+It is therefore clear that our ability to complete our Works to the area indicated are being delayed by
+acts of prevention on the part of the Employer and / or the Employer’s Other Contractor. If matters
+continue, then this will invariably knock on and impact upon our ability to achieve Milestone MS09B;
+and similarly, may prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
 Yours faithfully,

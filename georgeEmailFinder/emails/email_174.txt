@@ -1,23 +1,33 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0159
-Security System (Security Access Control and Video Surveillance System) – Snagging, De-snagging and
-Defects Management
-Unreasonable Snagging and De-Snagging Comments Uploaded to ZUTEC
-Dear Sirs,
-We refer to your letter ref: (1) following issuance of E-Notice No. 0159 (ref: 2) in which you seemingly
-infer that we are somehow culpable for the matters detailed within our letter ref: (2), and that the
-“delays due to the unreasonable snagging and de-snagging comments is deemed to have no merit
+
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0178
+Engineer's Response to RFI/0401/17385 – Introduction of Power Assistance to Hollow Metal Doors
+Reference Nos. 88-T-B20-0124.01 and 88-T-B20-0124.02 – Request for Engineer’s Instruction (RFEI) /
+Variation Order (VO)
+Dear Sir,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0178 (ref: 2) in which you aver inter
+alia that as the event was a known even prior to the effective date of SAA8 there is no entitlement to
+any additional time and / or cost, and our request for an Engineer’s Instruction is rejected.
 For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
 you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
-The facts are as follows: At the date of preparing our E-Notice, there were circa 5,560 snags uploaded to
-the ZUTEC system relating to the Security Systems, out of which you erroneously identified 750 ‘snags’
-allegedly relating to the SACS & VSS in rooms that do not have any elements installed in them. Hence we
-were forced to unnecessarily close out a ‘snag’ that in reality did not exist. Moreover, our ability to
-close out snagging has been further hindered by numerous unnecessary duplicated items being
-uploaded to ZUTEC, which for example consists of the same Security System element installed at the
-same location, which despite being identical were uploaded with a different reference number. These
-acts of prevention were entirely avoidable but have both delayed disrupted our progress.
-
-In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
+The facts of the matter remain as follows:
+•
+On 21 August 2019, we raised RFI/0401/17385 requesting clarification as to whether two doors,
+i.e. Doors ‘88-T-B20-0124.01’ and ‘88-T-B20-0124.02’ require power assistance or not.
+•
+You took 9 calendar days longer than the reply required by date stipulated therein to respond.
+•
+Attached to the response to RFI/0401/17385 was a sketch, prepared by KPF, consisting of a
+partial extract of a revised Door Schedule, changing the specific provision of power supplies for Doors
+‘88-T-B20-0124.01’ and ‘88-T-B20-0124.02’ from ‘Not Required (“N”)’ to ‘Required (“Y”)’.
+•
+It is clear that the response to RFI/0401/17385 represents an attempt to vary the existing design
+and scope of Works; hence why we requested an Engineer’s Instruction / Variation Order from you
+seeking formal confirmation of the change. This is on the basis that SAA8 laid down express guidelines
+for you to follow if any changes are required to be implemented into the Works.
+Hence this does not fall under the provisions of SAA8 Clause 2.24.2.1, as alluded to by you nor can it be
+construed as such. Moreover, the provisions of Clause 1.7.4 ‘Included Circumstances’ do not apply
+either as your response to the other RFI cited in our letter ref: (2) failed to address our original query.
+In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
 for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

@@ -1,22 +1,128 @@
 Subject:
-
-Contra-charges for Surveyor’s Incorrect Setting-out
-
 Dear Sir,
-With reference to the report received from our SWRO Plant Project in Jebel Ali, it was reported by our
-management team on-site, that incorrect marks have been provided for the opening on the parapet wall
-GL 1-1 by your surveyor.
 
-As a consequence of the incorrect setting-out by your surveyor, we are now forced to take rectification
-measures to break and re-construct the wall and the opening of the parapet wall GL 1-1, as indicated in
-Figure 1 below.
+Notice of Claim: Change of sequence of works for Intermediate and Top Slabs at Shaft A
+
+With reference to the above subject, we write to inform you about the change in the sequence of works
+for the suspended slabs at Intermediate and Top Slabs at Shaft A level -28.15mm, which has caused
+excusable and compensable delays as described below. For the sake of clarity, we provide the
+chronology of events regarding this issue, as follows:
+As per your request, we have submitted our quotation ref: ADMC-ARCHO-DMSTN-SW-QTE-0113_R5
+dated 16 July 2020, enclosed to Annex A hereto, for the construction of the Intermediate and Top Slabs
+at Shaft A and other structures at EL. 51M. Subsequent to which, our quotation was accepted via the
+issuance of Variation Order (VO) No. 2, attached to Annex B hereto.
+For the avoidance of doubt, we note that the pricing of our quotation was based on drawing ref: DS2331-02-ST-DRD-0076_6 dated 12 May 2020, also attached to Annex A hereto, an extract of which is
+provided in Figure 1 below.
 Figure 1
 
-Please note that this has also greatly delayed our site progress and productivity which will require the
-equivalent time and effort to correct the damages that has been done.
-Therefore, please be informed that the cost for all rectification works such as breaking the concrete,
-cutting the reinforcement and placing a new one, and repairing the broken edges, shall be recorded and
-deducted from your monthly invoice.
-We trust you find the aforementioned self-explanatory, and appropriate steps will be taken, in order to
-avoid reoccurrence of such events in the future.
+As shown in Figure 1 above, there is an isolation joint which would be constructed with filler boards. We
+put on record, that the isolation joint is not under our scope of works. It is also noted that during our
+discussions prior to the submission of our quotation, it was confirmed by you that the casting of the
+south slab would be a one-time cast. In the same manner, the same execution of a one-time cast, would
+also have been applied to the north slab.
+Accordingly, we have priced our quotation and allowed in our prices resources for the sequence of
+works based on our discussions and the drawings as a one-time cast for the south slab, as well as, for
+the north slab. In Table 1 below, we have listed the sequence of works for the casting of the south slab,
+based on the original programme of works as per our quotation. We note that the same durations apply
+to the north slab:
+Table 1 – South Slab
+Sr. No Description
+Duration (working days)
+1
+Reinforcement of steel rebar for all the Beams (2B15, 2B16, 2B17, 2B8, 2B4,2B2, 2B7 2b14, 2B1
+and 2B6) at level -28.15m
+8
+2
+Reinforcement of Slab at level -28.15m
+3
+Formwork for all the Beams and slabs- 28.15m 8
+4
+Casting of Beam and Slab -28.15m
+1
+Total 17*
+*the same duration applies for the north slab
+Notwithstanding, after the commencement of the abovementioned works, the slabs’ joints for both
+slabs (north and south) changed from isolation joint to a construction joint. Essentially, this means that
+the one-time casting for each slab which was initially planned to be constructed, would not be possible
+to be executed anymore. As a result of this, the casting sequence for the south and north slab had
+changed from a one-time cast, to two different castings for each respective slab. For this reason, the
+actual sequence of works for the castings has resulted as follows:
+Table 2 – Actual Plan for South Slab
+Sr. No Description
+Duration (working days)
+1
+Reinforcement of steel rebar for the Beams at level -28.15m 2B15, 2B16, 2B17, 2B8, 2B4,2B2
+and 2B7
+20
+2
+Reinforcement of Slab at level -28.15m
+3
+Formwork - 28.15m
+3
+4
+Technical Specification -28.15m3
+5
+Casting of Beam and Slab -28.15m
+1
+6
+De-shuttering -28.15m 1
+7
+Repairing -28.15m
+1
+8
+Reinforcement of Beam 2b14, 2B1, and 2B6 -28.15m
+8
+9
+Cantilever Beam 2B6 and 2B13 -28.15m 2
+Total 39*
+*the same duration applies for the north slab
+As you can see in Table 1 above, even though originally it was planned to complete the reinforcement,
+formwork, and casting of all beams (2B15, 2B16, 2B17, 2B8, 2B4,2B2, 2B7 2b14, 2B1 and 2B6) for each
+slab i.e. south or north slabs within 8 days, however, the sequence of works has changed and the works
+
+were completed within 39 days for each slab as shown in Table 2 above. This means that the works for
+each slab were delayed by 22 days (39 days – 17 days = 22 days).
+We note that 12 out of 22 days are considered Subcontractor’s delays due to the couplers rectification
+works, thus the remaining 10 days for each slab are considered Contractor’s delays. Therefore, 20 days
+for both slabs (north and south) are the Contractor’s delays and are a result of the change of the casting
+sequence as discussed above.
+We note that, the prices provided in our Subcontract rates are inclusive for ‘Time’ and ‘Activity’ (Tasks)
+related manpower and have not been segregated in different/separate unit rates, such as direct or
+indirect (preliminaries) rates/costs.
+The allowance included in our rates for the time-related manpower is for the site engineers, safety
+officers, site coordinators, supervisors, storekeepers, foremen, logistics officers, etc., and it is in effect,
+the manpower required for the duration of the project.
+On the other hand, the activity-related manpower is simply the technicians, skilled workers, unskilled
+workers, etc. We put on record that, it has been mutually agreed between us, that in the event of a lack
+of available work-fronts, due to disruption of works or change in the sequence of works or any other
+delays which are not our responsibility, then the activity-related manpower would be used by you for
+works elsewhere on the Project. It has also been agreed, that the activity-related manpower, which is
+essentially the direct cost would be compensated by you. We confirm that this practice in on-going, and
+it has been implemented successfully to date.
+However, all of the time-related manpower (indirect cost) such as site engineers, safety officers,
+foremen, site coordinators, storekeepers, etc. remain idle for prolonged periods of time due to events
+which we are not responsible as mentioned above, resulting in massive losses to our company. As a
+result, we now find ourselves having incurred substantial unforeseen costs due to the abovementioned
+delays, disruptions, and the prolonged time, in the middle of this deep financial crisis currently ongoing
+in the UAE. We note that this expenditure could reasonably have been avoided, had the disruptions,
+change in sequences and/or changes in designs, etc. had not incurred.
+Therefore, since our activities are prolonged due to the aforesaid events, we kindly request that the
+additional cost incurred for the time-related manpower, is also compensated by you.
+For this reason, we have prepared the total cost of the time-related manpower (indirect cost) for the 20
+days of excusable and compensable delays which is summarized in Table 3 below, and attached in Annex
+C hereto. This indirect cost includes the site staff such as foremen, safety officers, site engineers, etc., as
+shown in Table 3 below:
+
+Table 3 – Time-related manpower (Indirect Cost)
+
+As shown in Table 3 above, the total daily cost for the Time-related manpower (Indirect Cost) is AED
+9,450.00. Consequently, the total prolonged cost incurred for the total duration of the 20 days, is AED
+189,000.00 (20 days x AED 9,450.00).
+
+In view of the foregoing, we put on record that the cost of AED 189,000.00 and the 20 days of delays
+discussed above are excusable and compensable and shall be claimed by us.
+In view of the foregoing, we maintain our rights and entitlements under the provision of the Subcontract
+Clause to an extension to the Time for Completion and any associated costs as per Clauses 7.2
+[Extension of Time for Completion], 9.1 [Variations of Subcontract Works],11.1 [Notices] and 11.2
+[Claims], arising from the events and circumstances described above.
 Yours faithfully,

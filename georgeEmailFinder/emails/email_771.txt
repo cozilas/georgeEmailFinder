@@ -1,121 +1,33 @@
-Subject:
 
-Re: Closing of Arch Cladding Joint
+Subject:Re: EOT & Prolongation Costs Assessment
 
 Dear Sir,
-We are in receipt of your letter reference (4) in response to our submitted RFVO reference (3)
-(attachment 5), regarding the subject matter. We hereby provide our response below, including the
-history of events.
-Before proceeding with the detailed history of events, we kindly note that the responsibility of the
-Design and Value Engineering (VE) remains solely with the Engineer/Employer. In the case of Arch
-Cladding, our responsibility after being provided with the VE reference Arch 19 “Cladding to Main
-Arches” (attachment 2) was to take the design indicated in the mentioned VE and produce/design a
-system to meet the requirements provided to us, in which we have done so.
-Please note that with the VE, you have replaced the Contract requirement of the material to be used in
-all centre space main arches and backstays, from GRC claddings to composite aluminium panels.
-Moreover, the VE introduced a new system to support the composite aluminium panels on as a
-secondary steel support system.
-It is an undisputed fact that, all Contract documents and drawings show open joints i.e. 8mm, 12mm and
-25mm, to all centre space main arches and backstays. It is also a fact that there is no reference in the
-Contract for any closed joints in the arch claddings. With the introduction of the aforementioned VE you
-clearly stated “[…] Maintain profiles, joint spacing and joint dimensions as shown on Tender Documents
-[…]”. Consequently, this shows an intention to keep the joints open as per the Contract requirements
-while changing the cladding material from GRC to aluminium.
-After the introduction of the VE in August 2016, we submitted RFI referenced (1) above (attachment 3),
-advising that it is not possible to fix the cladding due to the narrow 8mm gap at the typical joints, as per
-your design. We suggested increasing the joint from 8mm to 15m to enable the fixing. Also with this RFI
-we submitted details for the system design as per the system illustrated in the VE and suggested to
-simplify the system connection details. You disagreed with our suggestion, by stating that “the joints
-that the contractor is looking to amend in width track from the main arches to the arch landing buttress
-cladding. As such, an 8mm joint must be maintained”.
-
-In October 2016 we submitted another RFI referenced (2) above (attachment 4), providing further
-details about the system submitted previously via RFI referenced (1) (attachment 3), requesting to check
-and confirm your acceptance. You responded to our queries by “confirming the 15mm joint along the
-long dimension between the bullnose and the flat panels at the metal composite panels”. You also
-attached sketches with details clearly stating and illustrating the following regarding the joint closure:
-•
-“joints have to be sealed with structural silicone of the same colour as the MCP cladding of the
-arches”;
-•
-“Joint on all axis must be closed”;
-•
-“75mm closed joint here”;
-•
-“Seal this joint to prevent views into the panel void”;
-•
-“Seal this 10mm joint”;
-•
-“All joints between arch cladding panels must be closed;
-•
-“All joints must be closed preventing views into the panel void and preventing light spill into this
-panel void (arches are uplit by chandeliers)”.
-In light of the above, it is a factual and undisputed fact that this change from open joints to sealed joints
-in the arch cladding, which was introduced during after the execution of the post-cContract (after the
-Contract signing) stage, is a Variation to the Contract requirements, since it was never indicated in any
-of the Contract documents.
-Moreover, the purpose of the Engineer to seal the joints in the arch cladding is due to aesthetical
-reasons. Numerous times during after the execution of the post-Contract stage, you have expressed
-your intention and your opinion that the joints have to be sealed to prevent light spill into the panel void
-by the chandeliers. This is clearly stated in KPF’s letter ref. KPF-AECOM-2132-LTR-1224 dated 14th May
-2018 submitted via your letter referenced (4) above (attachment 1) where it states that “With the
-arches and backstays up-lit by chandeliers, there will be instances where the fixation maybe visible to
-public view […]”. In addition to this, the issue with the arches being lit up by the chandeliers was also
-previously stated in email correspondences from KPF’s representatives (attachment 7). We also note
-that the light source from the chandeliers has never changed and has always been the same since the
-Tender stage (prior the execution of the Contract), with the open joints requirements in the Arch
-Cladding works. In view of the aforementioned, it is obvious that this new requirement is due to
-aesthetical reasons, which are realized and introduced during after the execution of thepost- Contract
-stage.
-Therefore, as per our comments described herein and the below facts:
-i.
-The Contract requirements for the arch cladding clearly shows open joints;
-ii.
-A new cladding system has been introduced by you, duringafter the execution of the Contract
-via the VE and after it was realised that the closed joints are required to hide the framing system.
-You are hereby requested to make a determination to issue a Variation Order, in accordance with your
-obligations under the Conditions of Contract Clause 11.4.1, which set out “…the Engineer shall make a
-fair determination strictly in accordance with these Conditions, taking due regard of all relevant
-circumstances but paying particular regard to the rights and obligations of the Parties as set out in the
-Contract.”.
-However, as per your letter reference (4), you indicated that the changes described herein, do not
-constitute a Variation. Please be advised that the comments forming the basis of this action are not
-justified and are contrary to the Contract requirements.
-
-As a result, we express our disagreement responding to your comment made in your letter reference (4)
-wherein you stated that “The requirement to seal joints originated from the Contractor increasing the
-width of the joints along the short edge of the flat panels to facilitate fixation (which is Contractor's
-design)”. It is also noted that you were obliged under the Contract, to have incorporated this new
-requirement within the overall design, during prior the execution of the pre-cContract stage and to
-deliver in a timely manner "Issued for Tender/Construction" documents strictly according to your intents
-to prevent the light spill into the panel voids by the chandeliers.
-Additionally, your comment in your letter referenced (4), where you have requested the “Contractor to
-proceed as per the approved shop drawings from 07 Marchh, 2017 with all the joints (8, 12, 15 & 25mm)
-shown sealed”, is disregarded. This is due to the fact that the shopdrawings you are referring to, which
-are ref. 401-AG-A-08-20-0.00-ST41-SD-012 REV02, 401-AG-A-08-20-0.00-ST41-SD-005 REV02 etc.
-(attachment 8), are issued subsequently (in February 2017) from the aforementioned RFIs.
-Nevertheless, for the record we would like to comment and highlight that complying to your comments
-in the shop drawings, does not change the fact that the change from the IFC design intent is a variation
-that requires an Engineers Instruction (EI) to be implemented. It is worth mentioning that you have
-been rejecting our shopdrawings until we demonstrated sealed joints. Thus, such approaches to make
-changes to the IFC design intent through code 3 comments in the shop drawings without issuing an EI
-and a Variation Order, is not acceptable.
-In regards to your comment “[…] contractor has chosen to fold the panel edges at the bull nose panels
-[…]”, we note that this statement is baseless since folding of panel edges is a common fabrication
-practice for all composite panel systems to prevent buckling and to hide the core material visually. In
-addition to that, the folded edges have been indicated in IFC Drawing ref. A22-511_rev.01 (attachment
-6). There is no reference to any welded edges in the IFC set of documents. Also, it needs to be
-mentioned that welded edges are not possible with composite panel systems. Since the metal thickness
-in aluminum composite panels is very less (0.5mm alum + 3mm mineral core + 0.5mm alum), it is not
-possible to weld the edges. If there was a requirement for this kind of edge finish, the GRC should have
-been substituted with solid sheet aluminum panels, not composite aluminum panels.
-In light of the foregoing, Wwe hereby provide a notice of claim pursuant to Clause 27.1 [Contractor’s
-Claims] for the adjustment of the Contract Price. We reiterate that the Design responsibility and all
-value engineered options, as per the Contract, fully lie with the Engineer/Employer. Failing to undertake
-the Engineer’s duties as set out in the Contract has delayed the progress of the Works and will continue
-to do so, thus, resulting in delays to the Time for Completion and an increase to the Contract Price.
-We respectfully request you to issue an Engineer’s instruction as a formal Variation Order to avoid
-further delays and additional costs arising as a result of the unnecessary time required to seek further
-clarifications and/or confirmations mandated by Conditions of Contract Clauses 20.1.4, 20.1.5 and
-20.3.1 [Variations and Adjustments].
+Further to your letter referenced (3) above, which is in response to our letter reference (2), we hereby
+set out our response accordingly.
+The Emden Formula is based upon using ‘actual’ audited accounts from a contractor’s head office. The
+head office percentage is calculated by dividing the total overhead cost of a contractor’s organisation as
+a whole by the total amount of turnover in the audited accounts. In consideration of this, we only
+requested you to present your audited accounts as evidence, because it is unilaterally stated in your
+cost submissions that you are relying upon the Emden Formula.
+Further, you have stated that our following statement ignores the overhead percentage explicitly set out
+in Annexure 1, Schedule 1 of the Subcontract Agreement:
+“In the absence of actual cost information, the use of an uplift percentage substantiated by audited
+financial accounts may be appropriate.”
+We refute your position on this point and confirm that the intention of this statement was to merely
+indicate what would be required by way of evidence if you believed you were entitled to head office
+overheads over and above the percentage stated in the Subcontract Agreement.
+As you have not provided any evidence to the contrary, our preliminary assessment, issued via letter
+reference (1), calculates the potential head office overhead costs using the 7% expressed as ‘overheads’
+within Annexure 1 of the Subcontract Agreement against the applicable prolongation costs. The
+principle behind this percentage uplift is linked to the same approach currently being adopted by the
+Engineer and the Employer against our potential head office overhead claims. Notwithstanding this, in
+the event this principle is not maintained by the Engineer and the Employer, then we reserve our rights
+to reassess your claim for additional head office overheads.
+You are reminded that the Subcontract Agreement expressly excludes ‘profit’ for any claim for
+additional Costs and subsequent adjustment of the Subcontract Price. For further clarity on this point,
+we refer you to the definition of Costs under Clause 1.1 [Definitions] of the Conditions of Subcontract.
+For the avoidance of doubt, our additional comments above are without prejudice and as such are to be
+used independently to the assessment of the prolongation Cost submission and EOT which will follow
+once you have submitted full particulars etc. as described in our aforementioned letters above and the
+further letters referenced therein.
 Yours faithfully,

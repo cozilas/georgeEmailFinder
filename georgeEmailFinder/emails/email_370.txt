@@ -1,126 +1,45 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0115
-Delays to Installation of Displays due to Other Contractor (Info Booths)
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Table 1 to Annex A lists various IFC Drawings showing the intended location of numerous Information
-Booths that have not yet been installed by the Employer’s Other Contractor (TAV Technologies).
-Without these, we are prevented from completing the associated information Displays.
+Subject Milestones MS06A and MS06B
+Dear Sir,
+We write with reference to correspondence (1) regarding the alleged completion of Milestones
+MS06A and MS06B and we refute the content of the Contractor's letter in its entirety.
+The culpability of the Contractor for their failure to achieve the above Milestones has been recorded
+since December 2018 via correspondence (3) to (11) wherein the re levant reports and records have
+been enclosed along with photographs of the respective rooms which clearly demonstrate the
+Contractor's failure to achieve these Milestones on 31 December 2018 (MS06A) and 28 .February 2019
+(MS06B). For the record, both Milestones remain unachieved until the date of this letter.
+The definition and requirements of the above Milestones are clear and the contention of the
+Contractor that only snags remain and there are sufficient work fronts is incorrect. According to the
+definition of the Milestones, they are to be considered complete when all areas are inspected and
+accepted by the Engineer in order to allow undisturbed and uninterrupted access for build-out/fit-out
+by Other Contractors. Therefore, completion of the work is not a matter of opinion, but it is a matter
+of fulfilling the contractual requirement.
+As per 23 June 2019 the following remain outstanding:
+• Room Completion Stage 1-528/538 rooms
+The Contractor continues to misreport the completion status of the rooms, and despite notification
+issued by the Engineer, when Zutec is the Project's acceptable and formal method for the recording of
+completion. Due to the Contractor's inaction with respect to implementing corrective measures to
+ensure the accuracy of their reporting, an NCR has been raised on this and which to date remains
+open {NCR1040} .
+The Contractor appears to attempt in correspondence {1} to convolute the issue by referring to
+alleged Employer's delays in responding to RFis, review of As-Built Drawings etc. despite the
+magnitude of Project records (see attached} which clearly shows that the Contractor is the only
+culpable Party for all delays associated with their failure to achieve MS06A and MS06B. Furthermore,
+and with reference to the slide attached to the Contractor's presentation which refers to the
+Milestones as being "partially achieved", we advise that there is no Contract clause which defines the
+"partial" completion of Milestones.
+The Contractor by failing to achieve MS06A and MS06B has prevented and continues to prevent the
+undisturbed and uninterrupted access of the Employer's Fit Out Contractors. To date, the Contractor
+has submitted numerous re-entry NOCs in order to proceed to the rooms which were supposed to be
+completed (see attached log). For the record, there are currently 127 rooms for which, the Contractor
+has not submitted snagging. requests. Furthermore, there are 6,306 snag items pendingfor 411 rooms
+for which the Contractor has submitted the relevant snagging requests (see attached).
+Moreover, we advise that the Employer has not taken possession as alleged by the Contractor and the
+Contractor's request for a Taking Over Certificate for these rooms does not align with the Contract
+provisions and is therefore rejected. It is the Contractor's obligation to provide access to these areas
 
-Potential Impact
-Acts of prevention on the part of others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-Table 1 below lists various IFC Drawings which show the intended location of numerous ‘Information
-Booths’ that have not yet been installed by the Employer’s Other Contractor (TAV Technologies).
-Consequently, unless and until these booths are installed, then we are unable to install the ‘Displays’ at
-inter alia the Disruptive Flights Counter, Information Booths and Information Desk to CP Level L2.0.
-Table 1
-Area Reporting Category
-Level Sector / Zone Room Name Room Shop
-Drawing
-Reference
-CP
-CP L2.0 & Above
-L2.0
-5.12A Disruptive Flights Counter
-88.C.L20.0707.03.AS
-401-STA-FC-01-20-5.12A-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.12A Disruptive Flights Counter
-88.C.L20.0707.03.AS
-401-STA-FC-01-20-5.12A-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.27B Disruptive Flights Counter
-88.C.L20.0709.03.AS
-401-STA-FC-01-20-5.27B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.27B Disruptive Flights Counter
-88.C.L20.0709.03.AS
-401-STA-FC-01-20-5.27B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.12D Info Booth
-88.C.L20.0926.03.AS 401-STA-FC-0120-5.12D-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.12D Info Booth
-88.C.L20.0926.03.AS 401-STA-FC-0120-5.12D-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.18B Info Booth
-88.C.L20.0713.03.AS 401-STA-FC-0120-5.18B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.18B Info Booth
-88.C.L20.0713.03.AS 401-STA-FC-0120-5.18B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.19B Information Desk
-88.C.L20.0691.03.AS 401STA-FC-01-20-5.19B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.19B Information Desk
-88.C.L20.0691.03.AS 401STA-FC-01-20-5.19B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.18D Info Booth
-88.C.L20.0712.03.LS
-401-STA-FC-0120-5.18D-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.18D Info Booth
-88.C.L20.0712.03.LS
-401-STA-FC-0120-5.18D-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.23C Information Desk
-88.C.L20.0686.03.AS 401STA-FC-01-20-5.23C-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.23C Information Desk
-88.C.L20.0686.03.AS 401STA-FC-01-20-5.23C-FI-SD-001
-
-CP
-CP L2.0 & Above
-L2.0
-5.24B Information Desk
-88.C.L20.0684.03.AS 401STA-FC-01-20-5.24B-FI-SD-001
-CP
-CP L2.0 & Above
-L2.0
-5.24B Information Desk
-88.C.L20.0684.03.AS 401STA-FC-01-20-5.24B-FI-SD-001
-Resultant Impact:
-It is therefore clear that our ability to complete the installation of ‘Displays’ and associated works to the
-areas indicated in the IFC Drawings referenced in Table 1 are being delayed by acts of prevention on the
-part of the Employer and / or the Employer’s Other Contractor. If matters continue, then this will have
-wider ramifications; not only on installations but will also impact Testing and Commissioning which will
-invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
-potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+under MS06A, MS06B and also to coordinate with the Fit-Out Contractors {Section 01 31 15
+Specifications) and Clause 12.11.1 (b) Conditions of Contract.
+In light of the above, we reiterate that Milestones MS06A and MS06B remain unachieved and delay
+damages pursuant to Clause 16.6 of the Conditions of Contract remain applicable. We hereby reserve
+the Employer's rights under Clause 10.3 for any further delays to the Project.
 Yours faithfully,

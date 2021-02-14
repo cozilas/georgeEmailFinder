@@ -1,16 +1,93 @@
-Subject BMS Server Redundancy I Virtualization
-Cross Ref (1) MTG-TCA-AECOM-l-010657 dated 16 May 2017
-Dear Sir,
-The Engineer writes in relation to the Contractors above referenced letter (1) and all other associated
+STORMS 10 – 13 JANUARY 2020: SUMMARY OF CAUSE & IMPACT OF FLOODING
 
-correspondence, regarding BMS Server redundancy and virtualization.
-The Contractor is requested to provide a ROM proposal in accordance with Clause 20.1.1(b) of the
-Conditions of Contract and an associated Time Impact Analysis (TIA) for the proposed recommended
-BMS redundancy based on the following options:
-Option 1 - Virtualized environment utilizing the infrastructure provided by the Contractors ICT
-Subcontractor (TAV IT).
-Option 2- Additional hardware server to be utilized as a redundant node.
-The Contractor is requested to provide the above ROM options and related TIA's at the soonest
-opportunity so as to enable the Employer tG make the necessary informed decision in relation to
-additional BMS Server redundancy.
+The storm:
+During the night of 10/11 January and during the following 36 hours the region suffered high winds and
+intense bursts of rain. The rainfall has been recorded in social media as having been at record levels –
+data is being checked from Government metrological sources in support of this.
+More storms are expected during the evening and night of 14/15 January 2020.
+Water entered the building at LB 01 & 02 levels and rose to heights of up to 500mm above finished floor
+levels.
+Not only did surface water enter under door openings but more importantly, due to surcharges on the
+storm-water network, pipework inside the building that had been capped was placed under so much
+pressure that solvent-welded joints failed and caps were blown off. (see below for more detail).There is
+video evidence of various joints and open-ended pipes running at full bore under pressure, inundating
+the building with many cases of water cascading down through electrical switchgear and ELV racks.
+Site took immediate action to isolate and power down electrical items as well as forming dams where
+possible to stop water progressing throughout the building.
+However, without power it was not possible to run sump pumps or to bring in temporary electrical
+pumps from the external works. Some diesel pumps and ducted fans providing some air were installed
+but the pumps’ use had to be limited due to levels of dangerous fumes and particulates within the
+enclosed buildings.
+The impact on site:
+Through pumping and manual mopping water levels have been reduced to isolated ponds within plant
+rooms, escalator/travellator and lift pits. Mud and other detritus is being removed.
+Air movers, heaters and dehumidifiers are being sourced so that the building can be dried out before
+any assessment is made on the extent of the damage.
+With power and ELV systems unavailable parts of the testing and commissioning/cause and effect
+procedures will be delayed. In addition there is extensive damage to soft-cored fire and security doors
+and screens that may have to be replaced. Similarly there will be damage to electrical and ELV controls
+systems, parts of which may have to be replaced.
+Consideration will need to be given to the programme impact of long lead procurement periods of many
+of the items that may need to be replaced.
+Why so much water?
+The storm water system over the whole airport development is currently connected to an evaporation
+pond located to the West of the development. This pond is clearly too small to accept the volumes of
+water gathered over the area of the development and as it filled and overflowed, surface water had
+nowhere to go and started to collect in low points.
+The sewer system for the MTB project relies upon two lifting stations, one at each end of Piers 1 & 4
+(landside area). There is also a grease interceptor located at adjacent Pier 1 to the North landside. These
+three elements comprise rooms with a significant cross sectional area and are up to eight metres deep
+below ground level: at the time of the incident these ‘rooms’ had no permanent lid/roof. Surface water
+was therefore able to enter these voids and whilst they have small sump pumps within them, these
+were not designed to handle large volumes of water. As a result the approximately 250mm diameter
+sewer pipes at the end of the MTB runs were subjected to water at an eight metre pressure head: water
+entered the building at this pressure, blew end caps and caused joints to fail leading to a number of
+direct sources of pressurised surface water into the building at LB02 and 01 levels.
+Contractual action:
+CAR and Contractor’s plant and equipment insurers have been notified and a meeting was held of site
+on 13 January with the Employer’s CAR policy loss adjuster Cunningham Lyndsey. A meeting was held
+with all impacted subcontractors on 13 January to ensure all are aligned in terms of the next action and
+
+a central reporting line through the JV. Records are being collated on a common drive on the project
+server.
+A letter has been drafted to record the event and to position the JV with claims for extension of time
+and costs.
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0192
+Severe Rainstorm from 10 to 12 January 2020 – Flooding and Damage to Main Terminal
+Building – Basement Levels LB2 and LB1
+Dear Sir
+As you are aware, the UAE, and specifically the Abu Dhabi Midfield Airport Terminal Building suffered
+exceptionally inclement weather between 10 and 12 January 2020, to such extent that the conditions
+prevailing on Site at the time caused extensive flooding and resultant damage in Levels LB2 and LB1.
+The entire Main Terminal Building’s storm water network connects to the Evaporation Pond [system was
+designed and constructed by Others] located to the West of the MTB development through a system of
+water lines. There are two inlets but notably no outlets and therefore no means by which excessive
+water can be discharged from the Pond in the event of an emergency. It was because of inherent design
+problems with both the Pond and storm water network [the Pond is too small to accept the volumes of
+water gathered over the area of the development] that caused the Pond to become completely filled
+during the rainstorms. This in turn caused: the Pond to overflow and flood the immediate landside
+areas. This also caused the ‘backing up’ of storm water through the water lines; and the two lifting
+stations and grease interceptor pit [inherent aspects of the sewer network] to flood also. This then
+caused the pipes to be under pressure (no gravity system) causing the water to be discharged back into
+the MTB causing extensive flooding of Basement Levels LB2 and LB1.
+The flooding of the Basement has caused significant damage to amongst other things, Lift, Elevator and
+Travellator (LET) equipment and associated works. Accordingly, while we are still in the process of
+assessing all of the damage caused, we enclose a preliminary report on the impact caused by the
+resultant flooding on the ‘LB1 and LB2 LET equipment, 10 – 12 January 2020’, for your information.
+This evidences significant damage caused to amongst other things: elevator pits; equipment rooms;
+motors; drives; elevator cabins; electrical equipment and related works; plus wall/floor finishes. This
+will result in critical delay [and additional cost] associated with procuring and installing replacement
+equipment, testing and commissioning the same, not to mention the extra time and costs associated
+with pumping out and then subsequently drying, cleaning up and making good the affected areas.
+To conclude therefore, it is our contention that the various events and circumstances outlined above
+constitutes acts of prevention and/or breach of Contract on the part of the Employer and / or the
+Employer’s Personnel and / or the Consultants, and accordingly we hereby give you notice, pursuant to
+Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

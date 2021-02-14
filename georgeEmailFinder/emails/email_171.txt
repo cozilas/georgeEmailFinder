@@ -1,33 +1,21 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0178
-Engineer's Response to RFI/0401/17385 – Introduction of Power Assistance to Hollow Metal Doors
-Reference Nos. 88-T-B20-0124.01 and 88-T-B20-0124.02 – Request for Engineer’s Instruction (RFEI) /
-Variation Order (VO)
+Subject Notice to Correct- Shortage of Manpower (Bond & Chadwick)
 Dear Sir,
-We refer to your letter ref: (1) following issuance of E-Notice No. 0178 (ref: 2) in which you aver inter
-alia that as the event was a known even prior to the effective date of SAA8 there is no entitlement to
-any additional time and / or cost, and our request for an Engineer’s Instruction is rejected.
-For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
-you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
-The facts of the matter remain as follows:
-•
-On 21 August 2019, we raised RFI/0401/17385 requesting clarification as to whether two doors,
-i.e. Doors ‘88-T-B20-0124.01’ and ‘88-T-B20-0124.02’ require power assistance or not.
-•
-You took 9 calendar days longer than the reply required by date stipulated therein to respond.
-•
-Attached to the response to RFI/0401/17385 was a sketch, prepared by KPF, consisting of a
-partial extract of a revised Door Schedule, changing the specific provision of power supplies for Doors
-‘88-T-B20-0124.01’ and ‘88-T-B20-0124.02’ from ‘Not Required (“N”)’ to ‘Required (“Y”)’.
-•
-It is clear that the response to RFI/0401/17385 represents an attempt to vary the existing design
-and scope of Works; hence why we requested an Engineer’s Instruction / Variation Order from you
-seeking formal confirmation of the change. This is on the basis that SAA8 laid down express guidelines
-for you to follow if any changes are required to be implemented into the Works.
-Hence this does not fall under the provisions of SAA8 Clause 2.24.2.1, as alluded to by you nor can it be
-construed as such. Moreover, the provisions of Clause 1.7.4 ‘Included Circumstances’ do not apply
-either as your response to the other RFI cited in our letter ref: (2) failed to address our original query.
-In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs arising from the event described in letter ref: (2).
+We write with reference to correspondence (1) wherein the Engineer issued a Notice to Correct
+pursuant to Clause 12.9.6 of the Conditions of Contract regarding the shortage in manpower with
+respect to ANEL, PCEJV (NAFFCO), Jangho and Mosart.
+We record that to date the Contractor has failed to effectively manage the above Subcontractors and
+implement appropriate measures to ensure that the required manpower is in place. Furthermore,
+another Subcontractor (Bond) has demobilized their resources from site on 18 January 2020 and to
+date there has been no progress in relation to the SCN works. Bond's absence from site has affected
+not only the physical works but also the As-Builts submission {1271 As-Built Drawings pending to be
+submitted). We also note that for the past 3 weeks there have been no WIRs submitted for the
+inspection of the completed installations.
+In addition to the above, Chadwick is also lacking in resources and although we note that the
+Contractor has supported their Subcontractor with their own resources for the physical works, the
+Engineer raises concern as to the Contractor's plan to ensure there are no delays or issues with the
+provision of Close-out Documentation, Test Certification, As-Builts and Warranties should Chadwick
+completely demobilise from the Project.
+In light of the above, the Notice pursuant to Clause 12.9.6 of the Conditions of Contract remains and
+we request that the Contractor implements immediate measures to rectify this issue and ensure that
+their Subcontractors retain the required levels of resources at all time on site.
 Yours faithfully,

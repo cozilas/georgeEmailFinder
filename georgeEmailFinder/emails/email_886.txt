@@ -1,17 +1,22 @@
-Subject: Project Director- Absenteeism
+Subject Use of Aluminum Composite Panels (ACP}
 Dear Sir,
-Further to the Principals Meeting of 24 April 2018, the Contractor records the absence of the
-Subcontractor's Project Director Mr. Nicholas Galati from said meeting. This absence was without prior
-notification and is of further concern since Mr. Galati is also the Subcontractor's appointed
-representative.
-The failure to attend the aforementioned meeting and a number of high level management meetings
-over the last few months has been noted by the Principals and for the avoidance of doubt is entirely
-unacceptable without prior notification, explanation and delegation of authority pursuant to Clause
-12.8.6 Conditions of Subcontract.
-Notwithstanding the above, the Subcontractor is to advise the Contractor forthwith when Mr.Galati will
-return to resume his duties and obligations under the Subcontract.
-However, should Mr Galati be unable to perform his duties and obligations under the Subcontract,
-which include representation at high level management meetings, the Subcontractor pursuant to Clause
-12.8 of the Conditions of Subcontract shall confirm in writing a suitable replacement for due
-consideration by the Contractor.
+It has been established that there are significant differences between the con.figuration of the ACP
+assemblies and the original test data provided by the Contractor. These differences include but not
+limited to, variations in the cavity width of the assemblies and the jointing arrangement between
+panels.
+The use of ACP and associated assemblies fall under the Curtain Walling Specification (074201) which is
+a
+performance specification. Therefore, it is the Contractor's responsibility to demonstrate such
+assemblies meet the requirements of the International Building Code (IBC} 2006, which forms the basis
+of the Fire Strategy for MTB.
+Section 1407.10.4 of the 2006 version ofthe IBC requires metal composite materials containing plastic to
+be tested to NFPA 285 Standard Fire Test Method for Evaluation of Fire Propagation Characteristics of
+
+Exterior Non Load Bearing Wall Bearing Assemblies Containing Combustible Components.
+Please provide evidence you have met your contractual obligations with respect to the fire performance
+of such assemblies. This evidence shall include but not limited to:
+• Identification of the various different configurations of assemblies involving the use of ACP.
+• Fire test data from an accredited testing house which demonstrates such configurations do not
+adversely affect the overall fire performance of the assemblies in comparison to the criteria
+detailed in NFPA 285.
 Yours faithfully,

@@ -1,75 +1,48 @@
 
-Dear sir
-This is a direction under Sub-Clause 13.2.1 where the Contractor is required to submit a detailed priced
-quotation and a separate programme for time impacts regarding the design development and
-construction of the above mentioned service tunnel.
-
-Design Scope:
-•
-Detailed design of the service tunnel (independent of Qatar Rail pedestrian underpass) in full
-coordination with all existing utilities I infrastructure.
-•
-Detailed design of utility diversions I protections including wider utility bridges encompassing
-Qatar Rail pedestrian underpass and proposed service tunnel.
-•
-Interface requirements with the pedestrian underpass tunnel which is already under the
-Contractor's scope.
-
-Construction scope:
-•
-Construction of service tunnel (independent of Qatar Rail pedestrian underpass) including but
-not limited to excavation, utility diversions I protections, tunnel structure, backfilling, reinstatement of
-
-roads and pavements. Extent of service tunnel highlighted in yellow on the attached drawing no. A2-ARTN-01 .
-•
-Proposed chilled water , power, ELV, telecommunications lines and accessories, servicing
-Aspire Zone Foundation (AZF) Phase 2 - Part 2, are excluded from the scope or work.
-•
-
-MEP works and Architectural Finishes are excluded from the scope or work.
-
-Contractor is required to provide a detailed breakdown of the priced quotation as stated hereunder:
-
-•
-
-Detailed design cost for civil/structural works;
-
-•
-Construction cost for civil I structural works; including permitting, approvals, TOC and As-built
-drawings.
-•
-
-Detailed design cost of required Utility Diversions I protections;
-
-•
-
-Utility Diversion I protection work;
-
-•
-Detailed design and construction of any other relevant works deemed necessary by the
-Contractor. The Contractor shall submit the quotation within 14 days from receipt of this direction.
 Dear Sir,
-The Engineer's Assistant refers to the above letter whereby the Contractor was required to submit a
-quotation and programme for time impacts (if any) regarding the design development and construction
-of the above mentioned service tunnel.
 
-The Contractor is required to include the following scope/requirements in addition to what was
-previously requested:
+This is an instruction under Sub-Clause 13.1.1 to initiate a variation. The nature and extent of the
+variation is outlined below.
+Volume 7, Sub-Clause 13.3.3.15 c)
 
-•
-The standalone service tunnel shall extend from valve chamber to valve chamber. All works
-necessary for a standalone functional service tunnel including but not limited to architectural finishes,
-MEP works, engineering services, civil, infrastructure. utilities, general drainage pump and sump
-system, small power socket and emergency lighting works.
-•
+Sub-Clause 13.3.3.15 c) is deleted in its entirety and replaced with the following:
+Sub-Clause 13.3.3.15 Repair of Segments.
 
-Optimised tunnel size of 3.80m wide x 2.5m high (internal clear dimension).
+c)
+Categories of segment defects are defined as minor, medium and major, as shown in the table
+below:
 
-•
+"Minor"
 
-Provide detailed breakdown for the cost of both MEP and Architectural finishes works .
+"Medium"
 
-Due to he urgency of this request the Engineer's Assistant requires the Contractor to submit the
-response within s ven (7) days from receipt of this letter.
+"Major"
 
+Broken edge < 5mm Air holes < Bmm
+Crack width < 0.15mm Crack depth < 20mm No need for repair Broken edge 5mm to 25mm Air holes
+Bmm to 14mm
+Crack width 0.15mm to 0.20mm Crack depth < 20mm
+
+Surface depression < 20mm Can be repaired
+0.20mm Crack depth > 20mm
+
+Broken edge > 25mm Air holes > 14mm Crack width >
+
+Surface depression > 20mm Will be rejected
+i-
+
+Minor defects can be accepted without repair.
+
+iiMedium defects can be repaired only after the detailed method statement has been given a
+SONO from the Engineer. This does not release the Contractor from his obligations to satisfy the
+Employer's Requirements, including but not limited to Volume 7, Clause 12.3.1.1 Precast concrete
+segmental linings shall be of waterproofing class 1.
+iiiWhere a major defect occurs prior to the final placement of the relevant segment in the tunnel
+it will be rejected.
+iv-
+
+All Segment defects that are in contact with the gasket must be repaired.
+
+Contractor is required to provide a detailed written cost assessment of any potential impact as
+subsequence of this Engineer's Instruction.
 Yours faithfully,

@@ -1,15 +1,115 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0206
+Engineer’s Response to RFI/0401/17631 Rev. 0 – Additional Works (Gaskets) Introduced to
+overcome a Design Deficiency (Gaps) between GRC Inclined Surfaces and ACP Opaque Bridges located at
+Level 0.1 to Sectors 5.11, 5.16, 5.21, 5.26 - Request for Engineer’s Instruction (EI) / Variation Order (VO)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Your response to RFI/0401/17631 detailed in Annex A hereto, represents a change in design and scope
+and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 14 October 2019 [12:15 PM] you e-mailed us (copy attached hereto), attaching a 9 page schedule
+entitled ‘L10 and below Interface Tracker’, detailing a total of 100 items pertaining to the ceiling
+installations to various areas of Levels L0.0 / L0.1 identified by you / ADAC during various inspections.
+The ‘L10 and below Interface Tracker’ included a corresponding number of comments made by you /
+ADAC in relation to previously completed ceiling works to Levels L0.0 and L0.1 and requested us to
 
-Subject:Engineer’s Delays – SCRs’ Energization in CP and Pier 2
-Dear Sir,
-We write with reference to your letter (1) in which you state that we failed to achieve Milestone MS9C
-by 31 October 2019, making reference to the delays to the SCRs’ energization activities in the CP and
-Pier 2 locations.
-With our letter (3), we have already responded to your letter (2) in full on the subject. Therefore, we see
-no merit in unnecessarily repeating what we have already confirmed to you in writing previously.
-Our position is clear, and we refer you to the delays we have suffered resulting from late approval of our
-Form 4 submissions, which is outside of control, together with the MTA Contractor’s (L&T) late
-completion in those locations.
-We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
-obligations within the shortest possible time, without compromising on safety and quality, but will not
-be held responsible for such factors as those outlined above for which we are not culpable.
+include your comments “onto the Master tracker before publishing” so that they can be addressed by us
+as part of the general snagging process being undertaken at present. Notably, items ‘78’ and ‘79’ (Figure
+1 refers) made reference to exposed MEP pipes and conduits [at opaque ceilings] (which we note were
+installed as per the original design / IFC Drawings) , located between the Glass Reinforced Concrete
+(GRC) inclined surface and the Aluminium Composite Panels (ACP) Opaque Bridges (Figure 2 refers)
+located at the Circulation Area North Level 0.1 Sectors 5.11, 5.16, 5.21 and 5.26.
+Figure 1 – Items 78 and 79 listed on the ‘L10 and below Interface Tracker’
+Figure 2 – Exposed MEP pipes and conduits
+Subsequent to receipt of the ‘L10 and below Interface Tracker’ and in particular items 78 and 79, we
+raised RFI/0401/17631 on 28 November 2019, requesting further clarification in relation to your
+comments about the exposed MEP pipes and conduits (as indicated in Figure 1 and Figure 2 above).
+Specifically, we notified you of the existence of the exposed services passing from the GRC panels to the
+Opaque Bridges, in the manner shown in Figure 3 below, as well as advised you of suggestions as to how
+to resolve the matter with the use of gaskets similar to that used in other locations (Figure 4):
+Figure 3 - RFI/0401/17631
+Figure 4 – Example of Gaskets installed in other locations
+Appended to RFI/0401/17631 were the following attachments:
+•
+IFC Drawing No: MTC A 41 TB __ L0.1 _.__ 00.011 08, highlighting (in yellow) the exact locations
+of the gaps between the GRC inclined surface and the ACP Opaque Bridges at Level 0.1 Sectors 5.11,
+5.16, 5.21, 5.26;
+•
+Shop Drawings Ref Nos: 401-JH-A-02-20-5.00-CWPR-SD-303, 401-JH-A-02-20-5.00-CWPR-SD304, 401-JH-A-08-20-0.00-CWPR-SD-130, providing sections, layouts and ceiling plans, highlighting (in
+yellow) the exact locations of the gaps between the GRC inclined surface and the ACP Opaque Bridges at
+Level 0.1 Sectors 5.11, 5.16, 5.21, 5.26;
+•
+An actual photo taken on site of one of the gaps between the GRC inclined surface and the ACP
+Opaque Bridge showing the exposed MEP pipes and conduits (Figure 2 refers); and
+•
+A photo example of Gaskets which have been installed in other locations (Figure 4 refers).
+We requested a response to RFI/0401/17631 by 8 December 2019. However, you failed to reply until 11
+calendar days later on 19 December 2019. Notwithstanding the prolonged period in responding, the
+Employer’s Design Consultant (KFP) advised us of the following (refer to Figure 5):
+Figure 5
+Firstly we object to KPF’s statement that we are adopting such measure to “rectify [the Contractor’s’
+defects”. This is not a Contractor defect. Moreover, we have not “deviated” from approved Shop
+Drawings. Our Shop Drawings are based on IFC Drawings; and consequently the Works are based on IFC
+Drawings also. This is a deficiency in the design for which the Employer’s Design Consultant is liable for,
+not us. We have simply offered a potential solution to overcome the noted deficiency.
+Secondly, KPF’s response (reproduced in Figure 5 above) has confirmed necessary changes to the Works
+for the installation of gaskets to close the gaps between the GRC inclined surface and the ACP Opaque
+Bridges, in order to hide the exposed MEP pipes and conduits by requesting us to:
+“… use concertina gasket to close the gap between the GRC and ACP opaque bridge cladding to hide
+exposed containments. Colour of gasket shall be RAL-9006 …” and requested us to provide “coordinated
+shop drawings showing fixing details and all interfaces with adjacent works for review before proceeding
+on site…”
+
+However, what is particularly disconcerting is on the one hand KPF are surreptitiously introducing
+change to the Works and insisting for example that the additional gaskets have to be a certain colour
+and that we have to provide “coordinated shop drawings showing fixing details”, yet on the other hand,
+they are expecting us to absorb the associated additional time and cost, and that the changes “shall
+have no increased cost or programme impact to the client”. This work is additional and is a change.
+Therefore if such works are to be undertaken, then we will incur additional time associated with the
+preparation and approval of Shop Drawings, plus additional time in undertaking procuring the gaskets
+and installing them on site. There is also the direct cost associated with the procurement and
+installation of the additional gaskets utilising additional labour, plant and access scaffolding etc.; which
+will involve return visits to previously completed work/areas. Plus there are the costs of delay.
+Therefore for KPF to expect us to absorb the costs and time for all of that is totally unacceptable.
+In this regard, we put on record that the approved Shop Drawings, do not indicate any gaskets to be
+installed between the GRC inclined surface and the ACP Opaque Bridges located at Level 0.1 Sectors
+5.11, 5.16, 5.21, 5.26; e.g. Shop Drawing ref: 401-JH-A-03-20-5.00-CWP-SD-074 (Figure 6 refers).
+Figure 6 – Partial Extract from Shop Drawing No: 401-JH-A-03-20-5.00-CWP-SD-074
+We also draw attention to the fact that given the design it is physically impossible to place the pipes /
+conduits / containment other than were they are. As per the Employer’s Design Consultant’s design, the
+pipes / conduits / containments crossing from the Internal Long Span Structure (ILSS) to the Departure
+Access Structure (DAS) Bridge, can only cross by penetrating below the concrete beam as per IFC
+Drawing No: MTC-S-08-TB-L2.0-5.00-50.872-V03 (Figure 7 refers). Hence it cannot be argued that this is
+a coordination issue, it is a problem inherent in the design for which KPF are responsible.
+Figure 7 - IFC Drawing No: MTC-S-08-TB-L2.0-5.00-50.872-V03
+We cannot emphasise enough that we are not the designers for this Project, the Employer’s Design
+Consultant is. Consequently, we accept no liability or responsibility for any inconsistencies in the
+Design; this remains with the Employer’s Design Consultant. In this regard, we put on record that the
+Works have been constructed by us based on IFC Drawings and the approved Shop Drawings.
+In summary therefore, it is evidently clear that your/KPF’s response to RFI/0401/17631 instructing us “…
+to use concertina gasket to close the gap between the GRC and ACP opaque bridge cladding to hide
+exposed containments…” [to overcome the noted design deficiency] represents a change.
+We further remind you that SAA8 laid down strict guidelines to follow if additional works are required
+and this change / additional variations works will warrant a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+Accordingly the express provisions of Clauses 2.29 to 2.31 of SAA8 are patently clear: We are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

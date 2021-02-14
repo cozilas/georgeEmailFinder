@@ -1,6 +1,36 @@
-Subject:Re: Incident Reports; Damages to installed works
+Subject:Re: Clarification – VAT Calculation for PC
 Dear Sir,
-We are in receipt of your letters referenced (1 to 3) above, in which you informed us about the incidents
-regarding damages by others and the removal of a baseplate from its location by others. We therefore,
-inform you that our position regarding these matters, is as stated in our letter referenced (4) above.
+We refer to your letter referenced (1) above, where you have made comments regarding the VAT
+calculation for the payment certificates and hereby inform you the following:
+With reference to Article 26 of the Decree-Law and to the Real estate Guide VATGRE1 (Clause 12.3
+Retention Payment Pages 28-29, enclosed herewith), the date of supply for retention shall be triggered
+at the earliest of:
+•
+•
+•
+
+The time the retention payment has been made;
+The issuance of a tax invoice in relation to the retention; or
+12 months from the date the work has been signed off as complete (e.g. certified).
+
+In view of the above, the calculation for the VAT in the Payment Certificate must be as follows:
+Total Value Of work done
+Less-Retention @ 5%
+Total Amount Excluding VAT
+Vat @ 5%
+Total Amount Including Vat
+
+:
+:
+:
+:
+:
+
+1,360,565
+(68,028.25)
+1,292,536.75
+64,626.84
+1.357.163.59
+
+This is for your information and records.
 Yours faithfully,

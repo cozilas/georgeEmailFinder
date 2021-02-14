@@ -1,70 +1,24 @@
-Subject Maintenance Concerns during Construction Stage
+Subject:Subsidence Rectification Programme – CIPP Lining to Sewer Pipeline
+Delayed Receipt of Instructions for Pier 4 Scope of Works
 Dear Sir,
-We write with reference to correspondence (1) regarding the poor maintenance of the MEP
-equipment and highlight the following concerns that require an urgent action by the Contractor:
-1. It is evident that there is no clearly defined transfer of responsibility within the TCAJV's
-organization namely between the FM team and the construction teams for maintenance. This
-has resulted in situations where the ownership/ responsibility for the maintenance activities
-appears to have been unclear to both teams and, as a consequence, the maintenance has
-been missed.
-The Contractor is therefore requested to provide an outline document detailing
-responsibilities by area/system and forward the same to the Engineer. The Contractor is to
-also clarify where maintenance has been missed what impact this could have on the
-respective system's warranty (s).
-2. There is an ongoing reliance on "manual" operation of commissioned plant and equipment,
-and this places the equipment at risk as many of the automatic protection features do not
-function correctly when the equipment is over-ridden. The Contractor shall generate a
-detailed plan for re-instatement of automatic control with immediate effect. Where
-equipment is to be retained in a non-operational state, this should be achieved via correct
-isolation using automatic control systems that are provided for this purpose.
-3. As many examples have been recorded of poor maintenance (e.g. CHW Flushing, Equipment
-Failures, AHU/HVAC Equipment Condition, etc.), we note that this raises concern regarding
-the condition of the equipment and systems at handover and the associated warranties. The
-required rectification and inspection of these equipment generates an unwarranted drain of
-TCAJV, Employer's/Engineer's and CXA's resources which does not support the drive towards
-project completion. As we are moving towards the final stages of the Project, we still note
-widespread concerns with maintenance and the subsequent performance reduction may
-impact the completion of the Project. All of the issues raised relating to maintenance require
-a corrective action ranging from cleaning or site repair to replacement of damaged
-equipment. With the current project delays, these impacts could not be entertained [refer to
-the attached document].
-4. As many areas are moving towards completion and many of the final finishes are being
-installed, we advise that these finishes generally require specific environmental conditions to
-avoid damage and/or loss of warranties. The observed maintenance failures relating to the
-HVAC system operation increases the probability of issues relating to finishes manifesting. We
-recommend an immediate review of the TCAJV's plan for implementation of the HVAC system
-operation within the building and would advise that the current conditions within the building
-are clearly out with the requirements of these finishes.
-5. An urgent refresh of the maintenance plans should be undertaken to align the transfer of
-responsibility (identified in Point 1 above) with the requirements for ongoing operation and
-maintenance in the increasingly completed environments. This plan should clearly identify:
-a. Definition of the procedures/pre-requisites for handover of responsibility
-b. Responsibility for maintenance defined by system/area, including organization charts
-with names/roles
+We refer to your letter ref: (1) the content of your subsequent e-mail ref: (2) and letter ref: (3).
+Your letter ref: (1) instructed is to procure the CIPP relining system and on the basis of this instruction
+we directed Applusvelosi to order the material. This has a very limited shelf life of six months. Your
+letter also directed us to undertake the re-lining to Pier 4 yet the full scope of works including grouting,
+together with the preferred sequence of works, at that point (i.e. 8 May 2019) had yet to finalized and
+agreed
+We have since agreed between us to grout under the pipes before lining despite your earlier e-mail (ref:
+2) suggesting otherwise. However, you have only just issued letter ref: (3) enclosing EI No. 773B that
 
-c. Equipment schedules with current status (e.g. run/not run/etc.)
-d. PPM Schedules relating to equipment schedules
-e. Reactive and preventive maintenance procedures and identified teams' responsibilities
-f. Sample reports for formal maintenance reports and also reactive and preventive
-maintenance reports
-g. Details of transfer of responsibility for permit approval/permit process
-6. At present, the maintenance procedures that have been produced have been done separately
-for each of the main sub-contractors (PCEJV and ANEL). We suggest that the Contractor
-immediately generates a single holistic maintenance document that will allow for the overall
-management of the process and integration of maintenance activities with the ongoing
-commissioning and construction works. This single plan should include maintenance for all
-plant and equipment, regardless of sub-contractor or supplier and should cover not only the
-MEP equipment i.e. to include for LET, BHS and various Airport related Systems etc.
-The above concerns with maintenance have been an issue of discussion in all recent Risk Committee
-Meetings and at these meetings, it is understood that the Contractor agrees with the above concerns,
-however an action is yet to be taken to remedy this situation.
-The above is not an exhaustive list and there are further issues related to maintenance that would
-need to be considered. The Contractor is requested to immediately proceed with the required actions
-in order to rectify the above and set up a meeting with your construction, commissioning, and FM
-Teams along with the Employer, the Engineer and CxA representatives in order to provide a clear way
-forward regarding how these issues and concerns will be resolved before the rest of the building
-reaches the same level of completion of Pier 4.
-We note that any delays associated with the above concerns shall be solely attributable to the
-Contractor and we hereby reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of
-Contract for any damages the Employer may incur.
-Yours faithfully
+instructs the full scope of sewer and storm water rectification works, albeit again limited to Pier 4, which
+is ten weeks after we were first instructed to order the CIPP lining system for the Project.
+Not only are we concerned about the delay in issuing instructions and the effect this will have on the
+sewer rectification works to Pier 4, but we are also concerned that if you similarly delay issuing us
+instructions defining the scope of rectification works for the remaining piers, then not only will this
+further prolong the rectification works generally, but we run the risk that the CIPP materials ordered for
+Piers 1 to 3 will become scrap given their limited shelf life. As explained to you during the Risk
+Management Meeting on 14 July 2019, we are also concerned about the sequence in which the work is
+required to be undertaken and maintain that it is better to reline the pipeline first and then grout as the
+unlined pipe is more prone to damage due to an upheave in pressure because of the grouting. Hence we
+will not accept any responsibility for any resultant damage caused to the sewer pipeline.
+Yours faithfully,

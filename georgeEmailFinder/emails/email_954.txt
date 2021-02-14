@@ -1,17 +1,196 @@
+Subject:
 
-Subject: Clause Z7.1.5(b): Further Interim Claims Period: 1st to 31st March 2018
+Extension to the Subcontract Time for Completion & Prolongation Cost Claims
+
 Dear Sir,
-The Contractor refers to the detailed interim supporting particulars of claim in respect of the delay
-claims
-identified in ref: 1, and pursuant to Conditions ,of Contract Sub-Clause 27.1.5(b), herewith provides
-details
-of those interim claims that had an on-going effect upon the Time for Completion of the Works in the
-period from 1st to 31st March 2018 (refer to Annex A hereto). However, as recorded within inter alia
-our
-letter ref: (2), it is not currently possible for us to advise for example the accumulated delay claimed. We
-will nevertheless undertake to do so as part of the consolidated Time Impact Analysis (TIA) process.
-Meanwhile, further interim and I or final details of the delay claims listed in Annex A hereto will be
-provided wherever possible in accordance with Conditions of Contract Sub-Clause 27.1.5(b) and
-SubClause
-27.1.5(c).
-Yours faithfully
+We hereby write with reference to Chadwick Technology L.L.C. letters referred to above, and in
+particular, to letter reference ADIA-NG-0390 dated 21 February 2018 entitled “Extension to the
+Subcontract Time for Completion & Prolongation Cost Claim – Submission no. 4” wherein Chadwick
+
+claim for an Extension of Time (EoT) of 1,230 days to the Works along with financial compensation in
+amount of AED 149,253,815 for interim prolongation costs associated with alleged delay events up to
+28th September 2017.
+In Chadwick’s narrative, Chadwick contends that it was prevented from starting the roofing works at the
+north‐west section of the Main Roof (gridline RP5 to RP0) in line with the original plan of the approved
+Subcontract Programme. Chadwick also contends that it was the Contractor’s failure to provide access
+to the steel structures in accordance with Appendix 5.A of Schedule 10 and the approved Subcontract
+Programme, and failure to complete the necessary steel purlin modifications to kitchen exhaust towers,
+specifically at gridlines RP5‐RP4, and the Contractor’s subsequent instruction to withhold decking works
+at gridline RP2‐RP0, all at the Main Roof. This, Chadwick claims, resulted in 1,230 days critical delay as of
+the cut‐off date of 28th September 2017.
+Chadwick follows by stating in the Executive Summary of its claim that it incurred critical delay and
+disruption to its Subcontract Time for Completion and its Subcontract Programme as a result of these
+delay events and is therefore entitled to an extension of the Subcontract Time for Completion,
+additional Costs, Loss and Expense and the right to Adjustment to the Subcontract Price. The claim
+submission relies on these delay events affecting the Central Processor (CP) Area, with the main driver
+of delay being the delayed access to the CP’s Main Roof.
+Moreover, Chadwick asserts and considers in its claim submission that the delayed access to the Central
+Processor (CP) Area is a Contractor Culpable Event. Chadwick further contends it was the Contractor
+who failed in its’ obligation to provide access to the Subcontractor in accordance with Schedule 10 and
+the approved Baseline Rev. 1 Subcontract Programme and Clause 10.1.
+TCA-JV hereby notes that Chadwick’s previous Extension of Time (ADIA-NG-0355 dated (3rd September
+2017) was for 1,040 days with interim prolongation costs claimed AED 126,903,815.00 for delay events
+up to 29th June 2017 and anticipated the Completion Date with the requested extension of time as 11th
+August 2018.
+It is TCA-JV’s view that Chadwick Technology has failed in its various claim submissions to prove its
+compliance with the Subcontract's contractual requirements as listed below. Should Chadwick believe
+that this is not the case then TCA-JV welcome a response from Chadwick setting out the facts and
+demonstrating that Chadwick has complied with its necessary obligations under the Subcontract.
+Notwithstanding the foregoing, and on a without prejudice basis, TCA-JV herewith comment below on
+the substantive issues in relation to the claims submitted;
+EoT Claim Comments;
+We hereby note the following comments on your claim for extension of time that renders it incomplete,
+non-compliant and currently unacceptable, and request that Chadwick to revise its’ submission in light
+of the said comments:
+Chadwick’s Programme used in the Delay Analysis:
+The delay analysis was conducted on a programme other than the approved baseline programme, and
+other than the programme which was amended by Chadwick and based on their request and later on
+
+agreed by TCA-JV to correct the scheduling anomalies that were present on Chadwick’s baseline
+programme as per Appendices.
+The subcontract allows for Schedule changes provided that a compelling reason for such change is
+present and justifiable (such as an incorrect links, or other major flaws), and conditions the approval of
+such changes by the second party in order to accept the use of such changed programme. Instead,
+Chadwick’s approach in its current delay analysis is to keep introducing changes to the programme logic,
+durations and dates across each claim window in a compounded manner, which is not an acceptable
+practice, neither industry wise or contractually.
+Developing a claim on a programme that is constantly changing logic at each time window without any
+support as to why a logic change was introduced in a claim-window (which is what Chadwick has
+conducted), and without prior consent from TCA-JV, renders Chadwick’s delay analysis to be noncredible. It lacks a common base with its’ previous analysis windows and subsequently renders the
+outcome to be invalid.
+We also note Chadwick’s failure to follow TCA-JV’s revised programme under the HoA Agreement
+(Revision 6 Programme) when Chadwick was instructed to do so (please refer to JV’s letter 17th March
+2015 reference MTB/TCA/CHADWICK/L/000205) and Chadwick’s failure to provide a revised programme
+of its own that copes with an updated project delivery strategy which was instructed by the Employer
+and fully communicated across the entire project, and which was followed by all parties concerned.
+This particular case shall be viewed in line with the contractual sub-clauses 16.3.5 and 16.5.9.
+Periods and Method used to conduct Chadwick’s Time Impact Analysis:
+The delay analysis was conducted on time windows of ‘three months’ which is larger than the
+contractually stipulated ‘monthly’ intervals for interim claims, which, in addition for not being
+contractually compliant, does not serve as a good representation to the overall performance of the
+project as a whole during the claimed window(s).
+It is also noted that the “FRAGNETS” used to describe the delay event is assuming the effects stretching
+into unsubstantiated and assumed ‘future dates’ and thus creating an overly prospective impact that is
+not being supported or proven to be of the factual case.
+Despite Chadwick’s submission dates of these interim claims well beyond and after the delay fragnets, in
+addition to the above, TCA-JV notes that the data records in Chadwick’s claim windows are not aligned
+with the data records that Chadwick has reported / communicated in its weekly or monthly reports
+under the same periods.
+We also note other anomalies with Chadwick’s claim programme data and the progress trackers
+Chadwick is reporting to the project team. In this regard, Chadwick is instructed to correct the duration
+of its claim windows to fit the contractual stipulated time, and to employ the correct ‘Time Impact
+Analysis’ approach, while maintaining to use the correct data records in its analysis programs as to avoid
+to over-delay or stretch delay events.
+Events used in Chadwick’s Claim:
+
+Chadwick’s submitted extension of time, claims compensation for the entire project, whilst its analysis is
+based on a fractional analysis that is restricted to a limited event namely ‘access delays’ in the ‘Central
+Processor Roof Cladding’ areas only, whilst overlooking other events in the same area, and other events
+that occurred in other project areas such as the Piers, Gatehouses, Wrappers, Infills and Skylights. In this
+regard, such an abstract partial event claim made into a time window is deemed partial, incomplete and
+unacceptable.
+TCA-JV’s records indicate that other events in the Central Processor area, either Employer related, or
+Subcontractor culpable related, were overlooked while certainly having an effect on the overall progress
+and completion of the works. These events need to be incorporated into Chadwick’s analysis in order to
+comprehensively allow TCA-JV to assess Chadwick’s entitlement for time and cost compensation.
+Moreover, we also note that whilst the Central Processor areas were part of the initial Critical Path of
+Chadwick’s approved baseline programme, other delays in other areas that happen to form a larger
+percentage of the project workload rendered these areas to be critical as well, and by Chadwick
+overlooking these events, their respective effects from its analysis is unacceptable as it deems the
+outcome of Chadwick’s analysis to be limited, restricted, partial and incomplete.
+Accordingly, Chadwick’s delay analysis needs to be revised and resubmitted as to include all known
+events that affected all of the project areas of Chadwick’s scope of works, and caused by all parties, be it
+Chadwick delays, Employer delays (Bulletins and Briefing Packs), Main Contractor delays, and/or other
+Subcontractor delays. This is required in order to establish the net time and cost entitlement in a fair
+and reasonable way to allow the parties to concentrate its efforts to draw to a net entitlement and fair
+determination.
+Chadwick’s Mitigation and Concurrency:
+Chadwick’s extension of time requests and the associated delay analysis did not include any
+consideration towards establishing mitigation measures, and it has failed to demonstrate concurrent
+delays caused by Chadwick, despite both requirements being part of Chadwick’s contractual
+requirement (refer you subcontract clauses and Particularly the Specification of “Program Project
+Control Requirements”.)
+
+Chadwick’s Mapping Notices against Delay Events:
+Chadwick should accompany its’ time impact analysis submission with a detailed schedule of the delay
+notifications that it has issued along with an allocation of the notification toward the event presented in
+its’ EoT Submission. In addition, Chadwick needs to attach physical copies of the notifications
+themselves to the submission.
+Establishing Entitlement - The Relationship between Extension of Time and Prolongation Costs:
+It is noted that entitlement to an extension of time does not automatically entitle the Subcontractor to
+prolongation costs incurred due to the additional time required to complete the Works. The Subcontract
+
+does not provide a direct link between an entitlement to an extension of time and the entitlement to
+compensation for the additional time spent in completing the Works.
+Despite this, Chadwick asserts an entitlement to additional payment for its prolongation and disruption
+costs, pursuant to Clauses 16.5 [Extension of Subcontract Time for Completion] and 27.1
+[Subcontractor's Claims]. These clauses do not, in fact, create any basis or grounds for additional
+payment for prolongation and disruption costs as alleged. Clause 27.1 is a procedural clause concerning
+the notification and submission of claims, and as such, Chadwick has so far, failed to establish any bona
+fide basis or grounds for its claim. Accordingly, Chadwick must establish an entitlement to claim
+additional payment for prolongation and disruption costs (or any other additional payment) by specific
+reference to the Subcontract giving rise to an entitlement to an additional payment.
+Upon review of Chadwick’s prolongation costs (ADIA-NG-0363 Dated 30.Sep.17) the costs submitted
+should be actually incurred and calculated during the periods when the delaying events impacted the
+progress of the Works, and under the various different locations of your works on site, not over the
+extended duration at the end of the subcontract period. Accordingly, Chadwick’s entitlement to
+additional or increased costs must be clearly linked to the actual delay event, in specifically affected
+areas of the works on-site, and to the period where the actual delay was experienced.
+Chadwick is thereby required to separate its resources and associated costs under prolongation to be
+apportioned into the following sections of its scope of works, this to further compliment the individual
+areas of its works which were, or may have been effected by different delaying events (not just relative
+to Central Processor).
+a.
+b.
+c.
+d.
+
+Central Processor
+Piers & Gatehouses
+Wrappers & Infill
+Skylights
+
+Upon review of Chadwick’s Staff Costs, Chadwick is further required to separate its staff resources and
+associated costs under prolongation to be apportioned under the following criteria headings;
+1.
+2.
+3.
+4.
+5.
+
+Indirect Staff
+Direct Staff
+Core Staff
+Location Staff
+Task Staff
+
+(considered as prolongation)
+(not considered as prolongation, i.e. – production related staff)
+(general staff related to all the works & activities – full scope)
+(specific to separate locations or sections of scope on site ‘a to d’)
+(specific to individual tasks in separate locations on site)
+
+In relation to the following heads of claim (1 & 2 below) which were submitted by Chadwick as separate
+claimed amounts, these costs have not been substantiated in any format or quantitative manner.
+Therefore, the JV cannot adequately assess these costs for there is currently nothing available to review
+or assess. These costs are global and have no substantiated information provided to them to
+demonstrate how they were calculated or justified as actual costs/claims incurred with relative
+substantiation. Chadwick is to provide further substantiation in relation to these heads of claim if any
+real assessment is to be carried out.
+1.
+2.
+
+Disruption Costs
+Escalation Costs
+
+Chadwick’s claim fails to apply and link any purported costs to the periods where excusable and
+compensable delays were actually experienced, instead referring to the total overrun period beyond the
+Time for Completion (extended completion dates).
+Once Chadwick establishes adequate entitlement to prolongation costs by virtue of an excusable and
+compensable delay event, it is required to demonstrate that it actually suffered loss and/or expense
+under such an event at the time the event occurred and under the specific location or section of works
+on site.
+For the avoidance of doubt, the above is not, of itself to be considered as an admission of any
+entitlement to an extension of the Time for Completion and/or payment of additional Costs, nor does it
+constitute a waiver of any of the terms of the Subcontract.
+Yours faithfully,

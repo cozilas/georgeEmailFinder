@@ -1,23 +1,11 @@
-
 Dear Sir,
-The Engineer's Assistant acknowledge the receipt of Contractors letter in reference 2) confirming that
-the incorporation of the changes in the as-built drawings shall have no cost and time impact to the
-Employer.
-In response to your letter in reference 3) above, the Engineer's Assistant provides clarification to your
-queries, as follows:
 
-1) The chainages to the west direction from Msheireb (Msheireb - Al Aziziyah) will be positive and to the
-East direction from Ms_!:leireb (Msheireb - Ras Abu Abud) will negativi:::_
-2)
-The coordinate of zero point at Msheireb for Gold Line UG is E231201.8639; N392221.4784. The
-zero point of left track is a perpendicular projection of the zero point from right track.
-
-3)
-The coordinates at the interface of Ras Abu Abud Station with Blue Line are E235679.2
-12; N391873.145 Km -8-952.065 right track, and E235666 .750; N391861.583 Km-8-956.427 left track.
-Regarding the as-built track alignment from MMHKT, the Engineer's Assistant reminds the Contractor on
-its contract al obligations to interface with the Systems Wide Contractor to get all the required
-information in a timely a d professional manner to proceed with the design and construction activities,
-as per Employer's Require ents in Vol.4, Clause 24.4
+The Contractor refers to letter reference 1) whereby the Engineer's Assistant has requested a quotation
+for recalculation of metro chainage in accordance with the new alignment baseline for incorporation in
+the as-built drawings. The Contractor has assessed the information provided by the Engineer's Assistant
+and hereby confirms that the incorporation of the changes in the as-built drawings shall have no cost
+and time impact to the Employer. However if the recalculation are to be incorporated before the as-built
+stage such as shop drawings, Issued for construction drawings, etc, then the Contractor reserves its
+rights under the Contract.
 
 Yours faithfully,

@@ -1,17 +1,21 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0184
-Engineer’s Unreasonable Snagging Comments regarding Sprinkler Installation at Pier 4 Sector 4.14C–
-Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate Variation / Change
-into Works
+
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0186
+Damages Caused by Employer’s Other Contractor (BW Interiors) to Previously Installed Ceiling Panels at
+Level 1.0 Sector 5.19B Room 423 [Due to Water Leakages] – Request for Engineer’s Instruction /
+Variation Order
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters discussed in Annex A hereto, concern delays associated with the receipt of unreasonable
-snagging comments associated with the Sprinklers installation located at Pier 4 Sector 4.14C.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+The information comprehensively described in Annex A hereto records events associated with delays
+attributable to damages caused by the Employer’s Other Contractor (BW Interiors) to our previously
+installed ceiling panels located at Level 1.0 Sector 5.19B Room 423; this will require rectification and
+accordingly will require an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
+
+Potential Impact
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
@@ -20,58 +24,49 @@ Meanwhile, we hereby reserve all our rights under the provisions of the Conditio
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-We write to notify you of our concern in relation to the following unfounded comment received from
-you via the ZUTEC system with Snag ID 211199 in the manner shown in Table 1 below, in relation to the
-sprinklers installation located at Pier 4 [above Level L3 ceiling] allegedly not being “…compliant…”
-Table 1
-Snag ID Date Active /
-Passive Level Room /
-Area System Defect
-Category
-Defect Description
-211199 24-Nov-19
-Passive L20
-SUBZONE-5E Sprinklers
-24 - Non-compliance with
-applicable standard/s “Installation of sprinklers is not compliant for the void area. Sprinklers are
-installed to a portion of the void space above Level 3 ceiling, central circular area above plant rooms and
-HVAC installation.”
-As noted, you allege that the “installation of sprinklers is not compliant for the void area [and that
-these] Sprinklers are installed to a portion of the void space above Level 3 ceiling, central circular area
-above plant rooms and HVAC installation”. Accordingly we have taken the liberty of attaching a marked
-up copy of the approved Shop Drawing No. 401-EF-F-02-31-4.14C-FF-SD-001 indicating the current IFC
-design pertaining to the sprinkler requirements to the noted areas which for ease of reference have
-been identified as ‘Void Space A’ and ‘Void Space B’ in the manner illustrated in Figure 1 below:
+We herewith enclose a series of photographs and videos (appended hereto at Annexe B and C) that
+collectively serve to evidence damage having been caused to our previously installed ceiling panels
+(Figure 1 refers) adjacent to the X-Ray Machines at Level 1.0 Sector 5.19B Room 423 (Figure 2 refers).
+Unfortunately despite our ceiling panels at Level 1.0 Sector 5.19B Room 423 having been installed,
+inspected and handed over by us through the WIR process, they have subsequently been damaged due
+to water leakages attributable to the activities of the Employer’s Other Contractor (BW Interiors) while
+they were executing water leak tests for waterproofing works at the Tenant area, located at Food &
+Beverages area Room 334 Level 2.0 Sector 5.19B, which is above Room 423 Level 1.0 Sector 5.19B.
+Figure 1 – Damaged Ceiling Panels Level 1.0 Sector 5.19B Room 423
+Figure 2 - Location of damaged ceiling panels at Level 1.0 Sector 5.19B Room 423
+As stated above the water leakages were caused during the waterproofing works (Tenant Works) being
+undertaken by the Employer’s Other Contractor (BW Interiors) to the Food & Beverage area Room 334
+Level 2.0 Sector 5.19B as shown in the location marked-up in Figure 3 below. Specifically, BW Interiors
+applied an ‘Acrylic modified cementitious waterproofing coating’ to the floor and around our previously
+installed pipes at Room 334 Level 2.0 Sector 5.19B (Figure 3 and Figure 4 refers). Following completion
+of the application and during the water-test of the ‘cementitious waterproofing’ by BW Interiors, the
+water that was discharged on the floor for the water-test, penetrated the ‘cementitious waterproofing
+coating’ material and consequently the concrete slab below. The penetration of the water through the
+floor slab was a result of an incorrect application of the ‘Acrylic modified cementitious waterproofing
+coating’ to the floor, between and around the pipes by BW Interiors.
+Figure 3 - Room 334 Level 2.0 Sector 5.19B Food & Beverage area
+Figure 4 – Room 334 Level 2.0 Sector 5.19B Food & Beverage area
+(Tenant Works by BW Interiors)
+The penetrated water travelled through the concrete floor slab from Room 334 Level 2.0 Sector 5.19B,
+through the water pipes (Figure 5 refers) and reached Room 423 Level 1.0 below, causing damages to
+our previously installed ceilings in the manner shown in Figure 1 above.
+Figure 5 – Soffit of Slab (this is the concrete slab below ‘Room 334 Level 2.0
+Sector 5.19B’ which is above ‘Room 423 Level 1.0 Sector 5.19B’)
+In support of the foregoing events, we provide the following attachments:
+1.
+Annex A: This narrative providing a ‘Description of the Event’;
 
-Figure 1 - Extract of Shop Drawing No: 401-EF-F-02-31-4.14C-FF-SD-001
-indicates current IFC design requirements to void areas
-In this regard, we note that the Works associated with the installation of the sprinkler system located at
-the area of L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C, have been completed based on the IFC
-Drawings prepared by the Employer’s Design Consultant and issued by you. As mentioned above, the
-shopdrawing (Figure 1 refers) representing the IFC scope has also been approved by you.
-It is evidently clear that the sprinkler system shown in Figure 1 has been constructed in accordance with
-the approved Design. Hence, your statement suggesting that the “Installation of sprinklers is not
-compliant for the void area” is erroneous and cannot be accepted and is refuted accordingly.
-Given the approved Design, there is no requirement to install a Sprinkler System to ‘Void Space A’ as
-shown in Figure 1 above. For this reason we have responded to your comment via ZUTEC as follows:
-“Noted. Commented Void area is above the non-combustible room areas (staircase, ELV, SCR, Lift,
-Electrical closet) and same was approved without sprinklers. Refer [to] code 1 shop drawing 401-EF-F02-31-4.14C-FF-SD-001 rec-02 CODE 1 attached.”
-Furthermore, we note that the Works discussed herein for the Sprinkler System installed at the area of
-L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C, have been approved and handed over by us
-through Work Inspection Requests (WIR) and Works Completion Inspections (MCI). Consequently, you
-had every opportunity to raise any concern in relation to the installation of the Sprinkler System to this
-area prior to the handing over of the Works, but you failed to do so.
-In summary therefore, any further requirement to install an additional Sprinkler System to the area of
-L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C represents a change to the IFC Design.
-As you know, SAA8 laid down strict guidelines to follow if additional works are required and this appears
-to have been ignored. Hence this change will warrant a valid Engineer’s Instruction (EI) and a Variation
-Order (VO) if you require us to proceed with integrating the revised scope into the Works.
-We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
-Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with the express
-requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
-continue to proceed in accordance with the existing IFC design to the extent we are able to.
+2.
+Annex B: ‘Photos / Images Reference’; and
+3.
+Annex C: ‘CD with Videos of the water leakage’.
+We wish to put on record that the foregoing events are not of our doing or responsibility, and any
+rectification / remedial works necessarily required to procure and re-install the damaged ceiling panels
+adjacent to the escalators at Room 423 Level 1.0 Sector 5.19B, at this stage will invariably delay us.
+We therefore inform you in order for us to undertake the rectification works to the damaged services
+noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
+down strict guidelines to follow in the event that additional works are required and we therefore
+request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
+Furthermore, we request you to whatever action is necessary to prevent any further occurrence of
+damages to our previously handed-over MEP services installation by the Employer’s Other Contractor.
 Yours faithfully,

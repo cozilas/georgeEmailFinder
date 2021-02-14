@@ -1,24 +1,42 @@
 
 Dear Sir,
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a
-variation. The nature and extent of the variation is provided below.
 
-The following Empl oyer's Requirements are ame nded as follows: Volume 6, Sub-Clause 13.3.3.6 a) (i)
-Each station shall have a microprocessor based lighting control system that allows for controlling
-individual and groups of lighti fixtures by single or multiple devices.
-is amended to:..
-Each station shall have a BACS based lighting control system that allows for controlling individual and
-groups of lighting fixtures.
-·
+The Engineer's Assistant makes reference and records that MEP Design subm issions received to-date
+from the Contractor have not included BACS Design Submissions. The BACS Design is included within
+Contractor's scope obligations and is a major part of the MEP systems.
 
-Volume 6,Sub-Clause 13.3.3.6 a) (iv) - to be deleted. Volume 6,Sub-Clause 13.3.3.6 b) (iv) - to be deleted.
-Volume 6, Sub-Clause 13.3.3.7 a)
+Each MEP design submittal or groups of design submittals must be accompanied by a BACS Design
+Submissions which shall include, as a minimum, the following:
 
-Lighting Control system shall consist of factory preassembled lighting control cabinets, KNX buses,
-control devises and system interfaces, programmable control button stations, master server and router
-systems, and graphical system control and software.
-is amended to:
-Lighting Control system shall consist of power relays installed in the Distribution Boards (DBs).
+•
 
-of the BACS human machine interface (HMI). Yours faithfully,
+A BACS report;
+
+•
+
+A Functionality report;
+
+•
+
+A Sequence of operations report;
+
+•
+
+A Set of schematics;
+
+•
+
+BACS Topology;
+
+•
+
+BACS Lay-out;
+
+•
+
+BACS 10 list;
+
+The Con ractor is required to provide within one week after the receipt of this letter a complete BACS
+Design S bmission schedule for all locations, such as station, stabling and emergency exit shaft.
+
+Yours faithfully,

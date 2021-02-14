@@ -1,14 +1,47 @@
-Subject: Shop Drawings Submitted with References not Recognized by the Engineer
+Subject: Inconsistent Engineer's Review Comments Face Recognition (FR) System Low Level Design
+Submittal
 Dear Sir,
-We refer to your above transmittals and note that, rev1s1on clouds must be noted with references
-recognized by the Engineer which are Els, Bulletins, BPs etc. Subcontractor shall not add Contractors
-references on the shop drawings revision cloud which in certain particular cases referred above.
-In any specific case if the Subcontractor is not sure of the references to be added, you are advised to
-contact with TCAJV Engineering Department prior to proceeding.
-As of today all shop drawings that are submitted without references recognized by the Engineer are not
-rejected by TCAJV to facilitate the progress of works at site. That said should these drawings get rejected
-by the Engineer due to reasons mentioned above it shall not be TCAJV's responsibility to facilitate
-recoding of these drawings. The Subcontractor shall resubmit those drawings with proper revision cloud
-references and seak Engineers approval.
-This is for your information and further action,
+With reference to Engineer's action code 3 'Revise and Resubmit' in respect of 'Low Level Design
+Document {LLD) - Face Recognition System (FR)', please be advise that comments forming the basis of
+this action are not justified and contrary to the design and configuration of the FR System as set out in
+Engineer's Instruction 294 ref. {2) above.
+Moreover, the Engineer ought to be aware that the submitted LLD for FR System is consistent with the
+design deviations expressly agreed with the Employer and recorded in Engineer's instruction ref. (2)
+above.
+A copy of the Employer approved design deviations as instructed in El-294 inclusive of Section 6 of
+ATLAS Letter AST/TCAJV/TV/TD/0031 dated 4 February 2015 regarding 'Response to Technical
+Compliance' is attached for your reference. With specific reference to Specification Sec. 272050
+paragraph 2.11.B 'Computer and Server Equipment' the Employer agreed the following deviations:
+"For point related to specific hardware redundancy and location inside MCR's; onlv LPR & FR supplied
+subsystem will be rock mounted servers in SCR's as per Manufacturer's solution and system architecture
+requirements recommendations for system performance and accuracy aspects." (Added emphasis).
+Moreover this concept of FR severs in the SCR has already been approved in the FR NICD and SCR
+Cabinet Layout Shop drawings. However, contrary to the above provisions the Engineer's comments in
+the FR LLD included without
+limitation the following:
+"Page 9 of 52. Jpsotek VIS108FR-R-POE also known as the "Face Recognition Data Processing Units (FR
+DPU)", are installed with Cognitec FaceVacs FR software in the SCR." and "lpsotek VI SFRDB-RC servers,
+also known as the "FR Database {FRO 8} servers", are installed with Cognitec FaceVacs FR software and
+lpsotek V/Suite VA software in the SCR."
+"Contractor to move all servers to MCR or Data Center, reflect this in the document and resubmit.
+Contractor to add load distribution on MCR and Data Center for the servers. Contractor to ensure to
+update related documents if this impact approved SCR/MCR shop drawings." (Added emphasis)
+These comments will effectively change the agreed FR system design in respect of the placement and
+connectivity of the FR OPUs & FR DB Servers. As a result Atlas has stopped all further progress of these
+Works until the above contemplated changes are addressed in a reasonable and rational manner. For
+clarity and avoidance of doubt, such changes would result in below mentioned abortive works and
+various impacts as follows:
+a) Re-Design of MCR/DC Internal cabling Infrastructure including related MEP and SCN works to
+support the equipment in the new location
+b) Update & Re-submit all the approved Shop Drawings and NICD Document.
+c) Procure; Install & Commission additional support infrastructure equipment
+d) The following activities as per Program rev 10.2 will be delayed( not limited to. ):
+Therefore, the Engineer is requested to urgently re-consider its comments forthwith and/or to further
+elaborate upon the basis of the requested changes. Moreover, the above referenced Engineer actions
+constitute a Variation which are not in the form of, or have been previously instructed in writing. To the
+extent the above changes are required, you are requested pursuant to clause 20.1.4 (b) please issue
+revised Drawings and/or Specification and an Engineer's Variation Order pursuant to clause 11.3.3 and
+20.1.1 (a), respectively.
+
+We reserve our rights to all additional costs and delays caused by the Engineer's disruptive comments.
 Yours faithfully,

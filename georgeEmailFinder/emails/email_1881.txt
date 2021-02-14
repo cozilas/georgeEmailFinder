@@ -1,99 +1,63 @@
 
 Dear Sir,
 
-The Contractor refers to the Engineer's Assistant's ("EA") letter at reference 1 (received on 15 July 2015)
-in which the EA responds to the Contractor's letter at reference 2 concerning the EA's "reminder" at
-reference 3 "to include STKID 1, STKID 2, and STKID 3 milestones for AL Azizayah station ...in master
-Programme update ...." (emphasis added) .
+Following recent discussions it has come to our attention that the Contract is open to different
+interpretations as to the Contractor's obligations in issuing Notices to the Engineer when the Contractor
+is in receipt of an Engineer's Instruction ("El") which the Contractor believes constitutes a Variation
+under General Condition ("GC") 13 ("Variations and Adjustments").
 
-Within reference 1, the EA refers to the Contract's Volume 3, Appendix 2, Annexure 1 (Options Table)
-and states (referring to footnote 3 of the Options Table): " Option KITO date to be agreed means that
-the Engineer will determine a fair adjustment to the affected KITO dates and the corresponding Time for
-Completion due to the Works being instructed before the Trigger Date ..." The EA then argues that
-"Activation of this Option includes the omission of the Railway Facility Structure (RFS). Volume 5
-Appendix F provides for STKID.01, STKID.02 and STKID.03 for the RFS at Al Aziziyah ...the Contract allows
-for the Engineer to determine a fair adjustment of (these) affected KITO dates, as Al Aziziyah RFS is
-being omitted and Al Aziziyah Station is being added."
+One interpretation is that the Contract requires the Contractor to issue Notice(s) and provide further
+particulars, under each and all of the following General Conditions of Contract:
 
-The Contractor responds as follows.
+1.
+A Notice (hereinafter referred to as the "Variation Notice") must be provided by the Contractor
+within 14 days of receipt of the El, pursuant to GC 3.3.3, if the Contractor believes the El constitutes a
+Variation or, if the El may create an Entitlement to the Contractor ("Entitlement" is defined under GC
+1.1.6.6 as being, inter alia, a right to an extension of time under GC 8.4 and a right to any adjustment to
+the Contract Price). The Contractor is then obliged, pursuant to GC 3.3.4, to provide the Engineer with
+details of any anticipated extension of the Time for Completion and/or a proposed adjustment of the
+Contract Price within 28 days from the aforementioned Variation Notice.
 
-The Contract's original scope of Works for Al Aziziyah Station consists of the design only of the Station,
-nothing more. For this Station Section, the only agreed Time for Completion is STKID.DE (via Volume 5
-Appendix F) which has a contractually agreed date of completion of 31 July 2016 . STKID.DE is defined
-within Volume 5 Appendix F Item C2 as "Complete design (DC1 + DC2) of the station box and related
-structures."
+2.
+Should the Variation Notice involve a considered entitlement to an extension of time, the
+Contractor is also compelled to provide a Notice (hereinafter referred to as the "Extension of Time
+Notice") of such considered entitlement to the Engineer, pursuant to GC 8.4.2. The Extension of Time
+Notice must be provided within 14 days of when the Contractor knew or should have known of the facts
+or basis of such entitlement. The Contractor is then obliged, pursuant to GC 8.4.4, to provide to the
+Engineer, within 28 days of the Extension of Time Notice, a Time Impact Analysis for any alleged
+adjustment of the Time for Completion.
 
-In lieu of a Station construction at Al Aziziyah, the Employer originally required only the design and
-construction of a Railway Facility Structure ("RFS") at Al Aziziyah. To this end, the Contract reflects this
-agreed original scope of Works. Volume 5, item 2.2.14.2 describes the scope of the RFS works:
+ALYSJ
+joint venture
 
-" The Contractor shall allow for the design and construction of the RFS . . .only at Vil/aggio (as an
-alternative
-to Villaggio station box) whose functions shall include but are limited to:
+3.
+Furthermore, pursuant to GC 20.1.2, should the Contractor consider itself to be entitled to any
+extension of the Time for Completion and/or any additional payment under any other General
+Condition, the Contractor is also required to give a Notice to the Engineer (hereinafter referred to as the
+"Claim Notice") describing the event or circumstance giving rise to the claim. The Contractor is then
+obliged, pursuant to GC 20 .1.6, to provide the Engineer within 28 days of the Claim Notice, its detailed
+claim supporting the basis of the claim and of the extension of time and/or additional payment claimed.
+The aforementioned requirements of GC
+20.1 are reinforced by GC 20.1.11 which states that the requirements of GC 20.1 are in addition to those
+of any other General Condition " which may apply to a claim."
 
-a)
+Another interpretation is that the Contract only requires the Contractor to issue a Variation Notice (and
+further particulars within 28 days of the Notice) and, if relevant, an Extension of Time Notice (and a
+Time Impact Analysis within 28 days of the Notice). In other words, a Claim Notice is not be required to
+be issued within 14 days of the Contractor's receipt of the El, i.e.a Claim Notice is not be required to be
+issued at the same time as the Variation Notice and the Extension of Time Notices are issued . Such a
 
-Recovery of the TBMs;
+Claim Notice would only be required following the Contractor's submission of the further particulars
+pursuant to GC 3.3.4 and the Time Impact Analysis pursuant to GC 8.4.4 (if relevant) and the Engineer's
+subsequent disagreement that the El is a Variation or the Engineer's disagreement of the Contractor's
+entitlement to and/or the applied quantum of an extension to the Time for Completion and/or
+adjustment to the Contract Price due to the alleged Variation.
 
-b)
-Permanent Emergency Exit from overrun tunnels between Sports City Station Rail Facilities
-Structure Villaggio;
-c)
-Permanent Tunnel ventilation, cooling, and all other tunnel MEP function for the overrun
-tunnels, and
-d)
-Includes all provisions for the construction of the contiguous Villaggio station at a later date
-without impacting the operation of the Gold Line" (emphasis added).
+It is important that there is clarity in the communication on such matters and on reflection the
+Contractor considers this is more efficiently achieved by the latter. The Contractor would therefore like
+to propose to the Employer/Engineer that the latter interpretation is to be employed for any Els that are
+to be issued in the future. The Contractor therefore respectfully requests the Employer's written
+agreement to the employment of the latter interpretation of the Contract reducing unnecessary
+contractual correspondence for an El that is believed to be a Variation by the Contractor.
 
-From this description of the RFS' functions, the RFS is clearly a wholly different scope of works to the
-design and construction of a full station box and its associated fit-out, hence the above (emphasized)
-wording used by the Employer within its drafting of item 2.2.14.2 i.e. that only an RFS is to be designed
-and constructed and that it is viewed as an alternative to a Station box. The attached drawing of the RFS
-(Attachment 1) included with Volume 11 of the Contract also demonstrates the very limited nature and
-scope of the RFS works when compared with that of a full station box and its associated fit-out.
-
-For the agreed scope of works for the RFS (which, as noted, are significantly less and different in nature
-than that of a full station box and its fit-out), the agreed Time(s) for Completion (via Volume 5,Appendix
-F, item C1) are STKID.01 (31 January 2017), STKID.02 (30 April 2017), STKID.03 (31 October 2017) and
-STTO (31
-August 2018). Consequently , the scope of RFS works required to be completed by these contractually
-agreed Time(s) for Completion are significantly less and different in nature than the combined Option 1
-and part Option 5 works (for a full station box construction and associated fit-out at Al Aziziyah) which
-the EA now states (within references 1and 3) are to be completed by exactly the same dates.
-
-The aforementioned footnote 3 (of Volume 3, Appendix 2, Annexure 1 (Options Table)) quoted by the
-EA in support of its argument refers to the Engineer determining "a fair adjustment to the affected KITO
-dates and the corresponding Time for Completion due to the Works being instructed before the Trigger
-Date ..." (emphasis added). The EA then refers to the affected KITO dates as being the RFS KITO dates
-because the RFS works have been omitted whilst exercising Option 1 & Part Option 5.
-
-However, the Contractor believes that the EA is incorrect in making this statement for the following
-reasons.
-
-Firstly, other than the original STKID.DE milestone for Al Aziziyah Station (which is for design only and is
-not for the construction completion requirements of STKID 01, 02 and 03), there are no original Al
-Aziziyah Station KITO dates to be affected by the exercise of Options 1 and 5. If there are no KITO dates
-to be affected by the exercise of Options 1 and 5, there can be no Engineer's determination (via
-footnote 3 of the Volume 3, Appendix 2, Annexure 1 Options Table) of a fair adjustment to such nonexistent "affected" KITO dates.
-
-Secondly, Options 1 and 5, as written in the Contract, do not refer within their descriptions to the
-omission of the RFS and so it cannot be correctly stated by the EA with contractual authority that the
-"affected KITO dates" referred to within footnote 3 with respect to Options 1 and 5 are the original RFS
-KITO dates.
-
-Thirdly, the RFS works and their corresponding KITO dates (which represent the completion
-requirements of the particular nature and limited extent of the RFS works) have been omitted in their
-entirety via Engineer's Instruction ("El") Nr 003. As the entire RFS works have been omitted, the
-particular RFS KITO dates have also been omitted as they can no longer apply in any way to works
-
-omitted in their entirety. Accordingly, the omitted KITO dates cannot be validly retained and "adjusted"
-by any means under the terms of the Contract to apply
-to works of a totally different nature and extent, namely to a station box and fit-out which have been
-instructed by the Engineer in lieu of the original RFS.
-
-In conclusion, the Contractor believes that it is not contractually compelled "to comply" with the EA's
-letter at reference 3. However, as stated within reference 2, for programme monitoring purposes, the
-Contractor will insert milestones (which are not Time(s) for Completion under the Contract) with dates
-the same as the STKID dates for the other stations, as requested by the EA
-The contractor would be pleased to meet and discuss the matter further to assist with resolution.
 Yours faithfully,

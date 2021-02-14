@@ -1,28 +1,34 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0029 [Post SAA8]
-Overdue Review of MEP Shop Drawings [31 October 2018] – Update
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0030 [Post SAA8]
+Material Submittals Pending with AECOM [30 October 2018] - Update
 Dear Sir
-This letter serves as an update to E-Notice No. 0029 issued by way of our letter ref: (1).
-By way of reminder: our letter ref: (1) notified you of potential delays consequent upon your belated
-responses to a total of 773 Shop Drawings detailed on the pdf summaries attached thereto; namely:
-1.
-Schedule 1 consisted on 196 nos. of ‘Plumbing Mechanical Shop Drawings; and
-2.
-Schedule 2 consisted of 577 nos. of ‘Open Electrical Shop Drawings’.
-Specifically, we recorded that at or around the date our notice was prepared (31 October 2018), you
-exceeded the review periods expressly stipulated within Article 1.3 of Specification Section 013300
-‘Submittal Procedures’ for the majority the noted submittals; hence the issuance of our E-Notice.
-We have since reviewed each of the same Shop Drawings [773] and accompanying Submittals [276] that
-were subject to E-Notice No. 0029 and herewith attach an update of the status of the various
-Mechanical, Electrical, PAVA, Fire Alarm, and Fire Protection Shop Drawings at Annex A and B hereto.
+This letter serves as an update to E-Notice No. 0030 issued by way of our e-mail ref: (1).
+By way of reminder: In the period between 22 April 2018 and 22 October 2018, we submitted twenty
+four (24) Material Submittals requesting your review and approval of various MEP and Architectural
+materials referenced therein. Details of each of these material submittals and the specific dates and
+manner in which they were issued to you, and that were reflected in the list attached to our E-Notice
+No. 0030 issued via ref: (1), have been reproduced in the summary attached at Annex A hereto.
+The information recorded in Annex A hereto, indicates that at the date of preparing E-Notice No. 0030
+(ref: 1), i.e. 30 October 2018 you exceeded the review periods for the majority of the material submittals
+expressly stipulated in Article 1.3 of Specification Section 013300 ‘Submittal Procedures’; hence the
+issuance of our E-Notice. Notably the responses to 4 out of those 24 Material Submittals were
+incorrectly shown to be ‘pending’ when in fact they were not (items 14, 18, 19 and 23). Out of these,
+two Submittals were in fact received on time (items 14 and 19). This has now been corrected.
+We have since reviewed the same Material Submittals that were subject to E-Notice No. 0030 and
+herewith attach an update of the same schedule at Annex B, reflecting the position as at 9 June 2019.
+However, this indicates that in respect of the 20 Material Submittals that were in fact overdue at the
+time, you continued to exceed the review periods expressly stated in the Contract for 19 of those for
+periods of up to 137 calendar days; albeit your response to item 20 is still shown to be outstanding.
+We further record that although some of the Material Submittals listed in Annex A were submitted and
+responded to prior to the ‘Effective Date’ included in SAA8 (i.e. before 4 September 2018), there were
+some Submittals (i.e. MS/0401/C/0861 [item 9], MS/0401/A/1679 [item 21], MS/0401/S/0418 [item 24])
+which despite being issued prior to SAA8, failed to be responded to until afterwards. This cannot
+possibly be construed as forming part of or ‘Included Circumstances’ (per Clause 1.7.4 of SAA8) and will
+be included within any forthcoming Time Impact Analysis, albeit in recognition of the Effective Date
+included in SAA8, any delays will be analysed from 4 September 2018 onwards.
 
-Annex B represents a comprehensive list of ‘Full Details of Overdue Responses to MPE Shop Drawing
-Submittals subject to EN-0029, updated to 29 May 2019’; while Annex B provides a ‘Summary of
-Overdue Responses to Shop Drawing Submittals subject to EN-0029, updated to 29 May 2019.
-However, Annexes A and B shows that you actually exceeded the review periods expressly stipulated in
-the Contract in relation to 243 out of the 276 Submittals, by upwards of 151 calendar days.
-In conclusion therefore, it is clear that any ‘lateness’ in responding to our Shop Drawing Submittals
-constitutes an act of prevention and/or breach of Contract and accordingly, we hereby give you notice
-pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 of our right to claim:
+In the meantime, it is clear that any ‘lateness’ in responding to the Material Submittals subject to our
+earlier E-Notice constitutes an act of prevention and/or breach of Contract and accordingly, we give you
+notice pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 of our right to claim:
 (i)
 An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
 (ii)

@@ -1,66 +1,59 @@
-Subject The Contractor's Presentation of "Concurrent Delay" dated 18 January 2017
-Dear Sir,
-We write in response to the above referenced correspondence (1) with regard to the Contractor's
-Presentation of "Concurrent Delay" dated 18 January 2017.
-The Engineer reiterates the contractual requirement for the Contractor to provide an analysis that
-demonstrates concurrent delay. Thus, the Contractor's statement that, "the concurrent delay
-assessment methodology was done so purely out of courtesy to the Employer" has no contractual basis
-and is wholly disregarded by the Engineer.
-The Heads of Agreement (HoA) dated OS March 2015, clearly states that the Contractor's Claim for Cost
-shall be evaluated and agreed in accordance with the provisions of the Construction Contract,
-specifically in this regard, Clauses 16.5.1 (a) to (c), 21.2.1 Conditions of Contract and 1.3.7 of the Project
-Control Requirements. As you are aware, until or unless the Contractor complies with its contractual
-obligations, it is not entitled to any compensation whatsoever for prolongation costs under the HoA.
-The Contractor states that "it was anticipating providing such presentation to representatives of the
-Employer only and was not anticipating the attendance of the Engineer". The relevance of this comment
-is not clear. Regardless of whether or not the presence of the Engineer was anticipated should not affect
-the Contractor presentation in anyway. The Contractor is aware that the Engineer is authorized to
-administer the contract and as such the attendance of the Engineer would surely not be unexpected at
-all meetings that, at a minimum, relate to contractual or commercial issues.
-The Engineer disagrees with the Contractor's opinion that the points raised via correspondence (2) do
-not represent a true and accurate record of the Contractor's presentation and comments as follows:
-The Contractor implies that there is no connection between Time Impact Analysis and concurrent delay
-and asserts that the purpose of the presentation was to present the methodology adopted for the
-assessment of the concurrent delay.
-According to the Contract, and in particular, Clauses 16.5.4, 21.2.2, 27.1, 27.2.2 of the Conditions of
-Contract and Clause 1.3.7 of the Program Project Control Requirements, concurrent delay is expressly
-linked to and part of the Contractor's Time Impact Analysis (TIA).
-Further, during the meeting referred to above, the Employer representatives when commenting on the
-Contractor's methodology of Delay Analysis, made specific comments to the Time Impact Analysis and
-the Contractor at no time during the meeting raised any objections in this regard.
-The Engineer's opinion that the TIA methodology presented was confusing and complicated remains
-unchanged. The Contractor's TIA methodology as presented was complicated and confusing. Your
-representative spent some time in trying to explain the process of extracting data from Primervera and
-then importing it into EXCEL and then exporting to MS Access in order to analyse and modify the data
-and then reverse the process to capture it in Primavera. This is per se; unquestionably complicated by
-any measure.
-The Contractor's statement that "there was no reason to issue any supporting TIA submission pursuant
 
-to Clause 27 of the Conditions of Contract", is not aligned with the terms of the HoA. It has been
-recorded on numerous occasions in previous correspondence that according to Clause 23 of the Heads
-of Agreement, the Contractor's Claims shall be evaluated and agreed in accordance with the
-Construction Contract. Again, within the contents of this letter, the relevant contract clauses relat ing to
-evaluation are restated.
-Notwithstanding the Contractor alleges that its Consolidated Submission on 27 August 2015 was
-provided "to assist in the successful conclusion of the financial negotiations in relation to the Heads of
-Agreement", the dates referred to in this correspondence especially in relation to the Piers, are not
-aligned with the HoA dates and indicate different completion dates than the dates stated in the HoA
-(Appendix 1). The Contractor's submission was in fact seeking an extension of time to Milestones 9A and
-9B.
-Within its submission of 27 August 2015, the Contractor added fifty (50) new milestones to the
-approved
-Baseline programme, without prior approval by the Engineer. As you are aware, this unapproved
-practice causes the logic of the programme to be altered and corrupts the original programme logic.
-These same comments were also highlighted during the presentation by both the Engineer and the
-Employer.
-In relation to the Contractor's comments pertaining to the independent third party, it is fact that this
-'party' is employed and accountable to the Contractor and by definition is not 'independent'.
-The Engineer reiterates the statement made in correspondence (2) relating to the Contractor's failure to
-finalize the analysis of Contractor concurrent delay. The Contractor is aware, of its contractual
-obligation, when substantiating its claim to an extension of time and associated additional Cost, it must
-as part of such substantiation include an analysis of Contractor concurrent delay. Until and unless this
-requirement is complied with in accordance with the contract, the Contractor's entitlement for
-compensation for prolongation cannot be evaluated.
-Therefore, the Contractor is urged to address the issues raised above in order to comply with its
-obligations under the Contract.
-Yours faithfully
+Dear Sir,
+We write with reference to correspondence {1) wherein the Contractor provided its position regarding
+its non-compliance with the Heads of Agreement {HOA) and the Contractual requirement to provide a
+concurrency analysis. The Engineer maintains the position conveyed to the Contractor for the past two
+years and reference is made to correspondence {3) to (9) above.
+The Contractor's assertion that an assessment of Concurrent Delays is not relevant to EOTl is
+fundamentally incorrect as per the following:
+
+Clause 3 of the HOA states "The Employer hereby agrees to reimburse the Contractor's Costs for the full
+period of extensions to the Times for Completion of the Contract Milestones in Schedule 16 (Milestones)
+to the Extended Date's stipulated in Appendix 1 hereto, such Costs to be substantiated as set out in
+these
+Heads of Agreement"
+The Contractor in letter (1) provides its opinion regarding the meaning ofthe above Clause, however the
+wording of the Clause is unambiguous and clear reference is made to the manner upon which the Cost is
+to be substantiated, i.e. "as set out in these Heads of Agreement". The Contractor's opinion is not
+supported by any provision in the HOA. In addition to Clause 3 above, Clause 23 of the HOA provides
+"The Contractor's Claims for Costs shall be
+evaluated and agreed in accordance with the provisions of the Construction Contract. All Contractors'
+Claims for Costs shall be notified (to the extent that this has not yet been done), particularized and
+substantiated and approved or disapproved in accordance with Clause 27 of the Construction Contract".
+The above Clause expresses the clear intent of the Parties for Clause 27 of the Conditions of Contract to
+govern the manner by which Cost mentioned in the HOA is to submitted, assessed and substantiated.
+Despite the Contractor's recent resubmission of Cost related to the HOA {6}, the concurrency analysis
+remains outstanding for a circa two years and as per the Contractor's admission vide correspondence {2}
+the Contractor is not willing to submit it and remains in breach of Contract.
+Clause 27.2.1 of the Conditions of Contract requires the Contractor to submit a time impact analysis,
+using a methodology which is acceptable to the Employer, demonstrating the effect and consequences
+of the events and periods of delay relied upon by the Contractor in its claims (a Time Impact Analysis}.
+The Contractor's TIAs submitted to date are not compliant with the Contract and do not include the
+mitigation measures being adopted by the Contractor and a concurrency analysis.
+The assessment of concurrency forms part of the Time Impact Analysis submission. The Contractor is
+required to demonstrate that there are no concurrent delays caused by the Contractor as a condition
+precedent to compensation for delays in accordance with the Program Project Control Requirements
+{Clause 1.3.7, Contract, Schedule 12}.
+The Contractor's attempt to introduce ambiguity to the prov1s1ons of the HOA and the Contract
+provisions indicates bad faith as it misrepresents the clear intent of the HOA. It is notable that the
+Contractor in order to support its current position, has changed its opinion regarding the SCL Delay and
+Disruption Protocol ("SCL Protocol"}. The Contractor in correspondence (2} was adamant that the
+following is applicable:
+"Furthermore, neither the AACE International nor the SCL Protocol are defined under the Contract and
+reference to such documents by the Engineer simply clouds the issue as neither document gives
+guidance
+which can be applied to projects of the scale and magnitude of the Midfield Terminal Project".
+The Contractor appears to disregard the above statement in a futile attempt to justify that it is not in
+breach of its binding contractual obligations. The Engineer maintains that the provision of a concurrency
+analysis is a mandatory requirement and not discretionary. The Contractor's submissions in relation to
+the HOA fail to provide an analysis that demonstrates that no concurrent delays has been caused by the
+Contractor. The Contractor is aware of what is required to be included in a TIA submission since 2013 as
+demonstrated in correspondence {8}.
+This position has been formally communicated via the Employer's correspondence {9} in response to the
+Contractor's letter {10} on the same subject.
+With regard to the legal issues raised in the Contractor's letter (lL it is our understanding that the
+Employer is writing separately to the Contractor in order to address them.
+In light of the above, the Contractor is requested to fully address the issues raised by the Engineer and
+provide a contractually compliant concurrency analysis.
+
+Yours faithfully,

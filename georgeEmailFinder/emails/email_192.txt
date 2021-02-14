@@ -1,345 +1,110 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0210
-Unreasonable Code 3 comments issued in reply to Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001
-Rev 04 & Rev. 05 and RFI/0401/17425 – Failure to Resolve Design issues – Mechanical HVAC Ductwork
-to Hotel Building L3.4
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0213
+Engineer’s Unreasonable Comments Annotated on NCR-01159 to Carry out Full Surveys for all installed
+HVAC Cladding at Level 1.0 Pier 1– Request for Engineer’s Instruction (EI) and Variation Order (VO) in
+order to integrate Change into Works
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern on-going delays to the Time for Completion of the Works due
-to successive unreasonable Status Code 3 comments issued in response to Shop Drawing No: 401-EF-M02-34-5.32B-AC-SD-001 Rev 04 and Rev. 05 and RFI/0401/17425 (Hotel Ductwork to L3.4).
+The matters described in Annex A hereto, concern delays associated with the receipt of unreasonable
+comments endorsed on NCR-01159 ref: (1), associated with installed HVAC Claddings located at Level
+1.0 Pier 1 and the requirement for us to carry out “a site-wide report with programme for rectification”.
 Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
-
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-SDS/0401/M/0957-05
-On 5 December 2018 we issued Shop Drawing Submittal No. SDS/0401/M/0957-05 requesting your
-approval of Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 04, relating to the ‘Mechanical
-Duct Layout L3.4 (Hotel/Offices/Lounges Level) Sector 5.32B’ in the manner shown in Table 1 below.
+We have appreciable concerns in relation to unreasonable comments annotated on Non-Conformance
+Report (NCR) No: MTC-CMA-0401-CM-NCR-01159 received on 20 November 2019 (Table 1 below), in
+relation to the requirement for us to carry out a “site vide report with programme for rectification”.
 Table 1
-Date Submitted Submittal Ref No:
-Rev
-Description of Contents Response due per Section
-013300 Response Received
-Status Code
-Response Overdue By
-05-Dec-18
-SDS/0401/M/0957
-05
-Shop Drawing No:
-401-EF-M-02-34-5.32B-AC-SD-001 Rev 04, ‘Mechanical Duct Layout L3.4 12-Dec-18
-02-Jan-19
-3
-21 days
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our Submittals. On the basis that Shop Drawing Submittal
-No: SDS/0401/M/0957 is at Rev. 05, then this should have been responded to by you 7 calendar days
-later, i.e. on 12 December 2018. However, Table 1 above shows that you exceeded the contract review
-period for responding to our Submittal by 21 calendar days, i.e. 2 January 2019.
-Irrespective, we received a Status Code 3 response to SDS/0401/M/0957-05 together with a series of
-comments annotated upon Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 04. These include
-amongst other things, the following comments in relation to the ductwork (Figure 1 refers).
-Figure 1– Status Code 3 Comments
-Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001-Rev 04
-It is disappointing to note that the Employer’s Design Consultant had maintained its position as per its
-previous response to SDS/0401/M/0957-04 / Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev
-03 [issued on 12 August 2018 and responded to on 16 August 2018, and has elected to overlook or
-ignore what was previously discussed and agreed at the Briefing Pack 10 design meetings. .
-RFI/0401/17425-00
-On 3 September 2019, we raised RFI/0401/17425-00 (‘Comment on Shop Drawing – Ductwork Route at
-Hotel Building L3.4’), enclosing a series of attachments (consisting of e-mails, a BP 10 sketch plus our
-own sketch layout), in which we advised you of a series of concerns in relation to the Employer’s Design
-Consultant’s [KPF] comments endorsed on Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 04 –
-primarily relating to the provision of access for cleaning of horizontal ducts as well as comments on the
-ductwork blocking the access walkway (refer to the extract in Figure 1 above):
-As noted, the Employer’s Design Consultant’s [KPF] comments clearly demonstrate that he had either
-overlooked or otherwise ignored the fact that the duct route show upon the Shop Drawing had
-previously been agreed at previous BP 10 design meetings involving both the Employer’s Design
-Consultant [KPF] and yourselves in early 2018, albeit for reasons that remain unclear, the Employer’s
-Design Consultant [KPF] had not signed the BP10 sketch {attached thereto). By the same token, KPF had
-overlooked or ignored more recent discussions, where, it was agreed by all parties, including the Design
-Consultant [KPF] to adopt the solutions agreed in 2018 with the exception of certain lights:
+NCR ID Date Issued
+Date Received Location
+Description
+Defect Description
+MTC-CMA-0401-CM-NCR-01159 18-Nov-19
+20-Nov-19
+Level 1.0, Pier 1 HVAC Cladding Quality
+“During site visits, CMA has observed non-compliant installed cladding as demonstrated in
+attached site photos, which is not acceptable. The Contractor needs to take necessary corrective action
+of these observations, as part of CAPA. Contractor to provide a site wide report with programme for
+rectification.
+•NCR not accepted for P1; refer to attached site photos, the contractor has not fully addressed the CMA
+concerns
+•This NCR has been previously partially accepted for P4 & P4 GHs
+•NCR is still open […]
+• […] Partially closed for P4 & P4 GHs.
+• The Contractor to address the cases for all other areas included in the NCR and shall apply for final
+close-out.”
 
-For the avoidance of any doubt, RFI/0401/17425-00 is worded as follows:
-‘Referring to the Design Consultant code-3 comments on drawing 401-EF-M-02-34-5.32B-AC-SD-001
-[Rev. 03], in which the Consultant highlighted that that the duct routing is obstructing the maintenance
-access and is blocking the lighting fixtures placed on the Hotel roof. The Contractor notes that the
-current duct route was agreed with both the Design Consultant and the Engineer back in February 2018
-following a series of meetings and workshops (See attached emails).
-The Contractor further issued a revised BP-10 sketch (See attached) which was signed by the Contractor
-and the Engineer; however, it was not signed by the Design Consultant which led to these comments
-being raised again by the Design Consultant although the solution was agreed.
-The Contractor recently, studied and explored other options with the Design Consultant to resolve the
-clashes, for example shifting the 5 lighting fixtures obstructed by the duct to above the duct but the
-results were not satisfactory to both the Contractor and the Designer.
-It was later agreed by all parties to adopt the solutions agreed in 2018 with the exception that the 5
-lights will be kept in horizontal position and not to be rotated 90 degrees as advised earlier. The
-Contractor was also requested to raise an RFI to document these changes.’
-As noted, attached to RFI/0401/17425-00 were various e-mails, a BP10 sketch plus a sketch layout.
-Copies of the e-mails are provided hereto at Annex B. These confirm numerous discussions and site
-visits that were conducted to resolve the previous concerns associated with the access to the ducts and
-duct-related works. By way of specific example our email sent to you on 28 February 2018 [Tuesday 4:10
-PM], confirmed the resolution of the issues regarding the accessibility of the ducts for maintenance and
-the clashes of the ductwork with the lighting fixtures. In our email we also included a sketch providing a
-3D snapshot demonstrating the actions which have been taken to resolve the issues of the ductworks
-located at Hotel Building L3.4 Sector 5.32B (reproduced in Figure 2 below):
-Figure 2
-As noted in the comments to Figure 2 above, the ducts have been rerouted side by side and the catwalk
-to the specific area below the arch has been omitted. Furthermore “5 pieces of U1C lighting fixtures
-have been rotated vertically to accommodate the fixtures between the duct and balustrade with the
-light direction towards the louver. KPF also confirmed that the rest of U1C lighting fixtures will continue
-facing the ceiling but the lighting will be directed towards the louver”.
-Also attached to RFI RFI/0401/17425 is a revised BP-10 sketch issued and signed by you and ourselves
-(Figure 3 refers), after the matters in relation to the purported accessibility issues to the ducts and the
-clashes of the ductwork with the lighting fixtures had been resolved. However, as noted above, the
-sketch was not signed by KPF, which has since led to KPF rejecting Shop Drawing No: 401-EF-M-02-345.32B-AC-SD-001 Rev 03 and providing the Code 3 comments described above, despite the design issues
-having previously been discussed and agreed – with the full knowledge of KPF.
-Figure 3
-We concluded RFI/0401/17425-00 by asking you / the Employer’s Design Consultant [KPF] to
-1.
-Confirm acceptance to the current duct routing as shown on the shop drawing; and
-2.
-Confirm acceptance to shift the 5 lighting fixtures as marked on attached sketch.
-We requested a response to RFI/0401/17425-00 by 8 September 2019. However you failed to reply until
-circa seven weeks later on 21 October 2019. Unfortunately, rather than the Employer’s Design
-Consultant [KPF] address what was being requested, KPF’s response stated the following:
-‘The attached RFI should have been submitted as Field Modification Request to the CMA and dealt with
-by CMA. We have given our comments at ADAC's request to assist the project but have no responsibility
-for the measures the JV adopt to rectify their defects and have no requirement to update IFC for any
+The requirement for us to “… provide a site wide report with programme for rectification…” has been
+triggered due to a combination of various issues, some of which occurred after the Heating Ventilation
+Air Conditioning (HVAC) Cladding works had been completed. This is acknowledged by us within NCR01159 wherein we stated the following under the ‘Proposed Corrective Action’ (Figure 1 refers):
+Figure 1
+As noted in the comments recorded under the heading ‘Investigative and Root Cause Analysis’ (refer to
+Figure 1 above), the “Duct cladding damages… [and] workmanship related issues [are alleged to have]
+resulted from poor coordination of S/C [Subcontractors] and lack of supervision of site workforce”.
+Further to which, and under the heading ‘Proposed Corrective Action’ it was confirmed that “Following
+the action done in Pier 4 which was previously accepted by CMA, Pier 1 and related gatehouses have
+been rectified in line with the advance site verification with CMA dated 16-Nov-19. This is for partial
+closure for Pier 1 and related gatehouses only, remaining areas shall be applied separately later”.
+In instances such as this, as well as other instances where there is evidence to suggest that poor quality
+and workmanship has occurred in our works due to, for example, coordination issues and/or supervision
+from our part, then it goes without saying that upon identification of the cause and extent of damages
+caused and/or the reasons for any non-conformance, then the damage and non-conformance will be
+remedied and rectified immediately, as has been successfully proven previously. Accordingly, you will
+be requested to close out any such NCRs following completion of any associated remedial measures.
+However, your request for us to undertake “a site wide report with programme rectification…” of all the
+areas where HVAC cladding has been installed based on a single NCR regarding the quality of a limited
+amount of cladding to one isolated location, is taking matters too far; and your request and expectation
+for us to do this at this stage of the Project, is not only excessive and unreasonable, but unnecessary.
+This is due to the fact that all of completed works to these areas are currently undergoing inspections.
+Amongst other things, you have not taken cognisance of the myriad works/areas that are currently
+being inspected [not just those noted above] and there is a distinct failure on your part to consider the
+effects, ramifications as well as the practicalities involved if such unreasonable requests become
+common place.
+This issue as well as other similar issues in relation to NCRs that have been raised for specific matters
+associated with the quality of our installed works and / or alleged non-conformances have been
+discussed numerous times between us. Specifically, we have advised you that the processes specified
+by the Contract associated with investigating whether the works are compliant or not, are currently
+ongoing. This is established via the Work Inspection Requests (WIR), Commissioning Inspection
+Requests (CIR), snagging, de-snagging, preparation of punch-lists and final handing over, all of which are
+currently being carried out. Therefore, any quality issues, damages and / or poor workmanship in
+relation to the installation of the HVAC cladding, will be found, examined and rectified.
+Consequently, it is not practical at this stage of the Project [where all parties including yourself, should
+be focussed on expediting and not hindering completion] to ask a full “site wide report” if you observed
+a minor amount of damage to some HVAC cladding to a discrete, limited area of the Works.
+Moreover, full site wide surveys / reports of this nature will require the allocation of a vast amount of
+resources and will necessitate complicated coordination and permits from numerous other trades, and /
+or other contractors [particularly at this stage of the Project, when as stated above, the focus should be
+on completion], while inspections (i.e. WIR, CIR, snagging, de-snagging, punch-lists) are currently being
+carried-out as per the Contract requirements for the same works. Therefore, we strongly advise and
+reiterate that this is unnecessary, excessive and will only delay the Time for Completion of the Works.
+We are also given to understand that further NCRs are continuing to be issued by you conveying similar
+requirements to those described above. This will simply exacerbate matters further still.
 
-responses to these RFIs. The response to this RFI shall not set a precedent for requests from the
-Contractor to deviate from the approved shop drawings and the CMA should review for similar
-situations on site. The changes proposed by the Contractor shall have no increased cost or programme
-impact to the client: This RFI is not a simple issue. CMA have assumed design responsibility for changes
-to the ducting on the roof without getting technical input from the design team.
-We have given our technical comments below at ADAC's request to assist the project. The Contractor is
-seeking to retain the parallel HVAC duct installations on the hotel roof which are contrary to the KPF
-issued IFC where the HVAC ducts are double stacked. The impacts of the proposed layout include: Access to maintain the KEF and SEF in the fan rooms on the hotel roof is blocked. -An Egress route from
-half of the hotel roof is blocked –Access to the proposed additional grease trap is not possible due to the
-lack of a co-ordinated services installation on the hotel roof. - The modified duct routing results in light
-fittings being moved which has an adverse impact on the lighting design. Arup have previously raised
-this issue with ADAC, CMA and KPF in June 2019. In light of the comments above, we cannot support
-the change as directed by CMA. We would recommend that ADAC reject this change.’
-Accordingly, we make the following comments:
-1.
-The ‘measures’ reflected within the content of and attachments to RFI/0401/17425-00 were not
-made to overcome our “defects”. These reflect a deficiency in the design and we simply were recording
-what had been suggested and agreed at the time to overcome the same.
-2.
-We further note that having previously been subject to the discussions outlined above, KPF are
-now seemingly absolving themselves of any liability for involvement with and resolution of, a particular
-issue that is after all a deficiency in their design / design coordination issue. Simply, it is KPF’s problem
-and they are stepping aside rather than assist with resolving it.
-3.
-While the matters subject to RFI/0401/17425 are ‘contrary to the IFC design’, the Employer’s
-Design Consultant is reminded that it is because of inconsistencies in the IFC Design and poorly
-coordinated design issues such as this, that the Briefing Pack ‘design development’ process was
-instigated [at the behest of KPF / Engineer / Employer] in order to seek our assistance in trying to
-resolve both the inconsistences in the design as well as design changes. This matter was discussed in
-the design development meetings for Briefing Pack 10. Within RFI/0401/17425 we were simply
-providing a backdrop and recording what occurred [and what was agreed to] previously and how the
-latest KPF’s comments endorsed on Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 03 are
-entirely contrary to what the parties discussed and agreed during the BP-10 design meetings, and
-sought further advice on the matter.
-However, rather than take ownership and properly addressing a valid design issue, it is clear from the
-above comments that KPF are ‘side stepping’ the issue, in particular we note:
-1.
-KPF’s statement that the matters subject to RFI/0401/17425-00 should have been submitted as
-a Field Modification Request (FMR) to the CMA for the CMA to be dealt with by CMA (CMA for the CMA
-to be dealt with by CMA);
-2.
-KPF’s statement that “CMA have assumed design responsibility for the changes in the ducting”
-at the Hotel Building Level L3.4 Sector 5.32B [which we believe is not the case at all]; and
-3.
-KPF advising that it cannot support the change [identified in RFI/0401/17425-00] as directed by
-CMA and a recommendation that ADAC reject this change [in design and scope].
-With these statements, it is clear that KPF is undeniably aware of the numerous discussions, meetings
-and resultant agreements mentioned above to resolve these issues, which they consider have taken
-place without their direct involvement. Thus, it is evident that KPF is unwilling to take ownership and
-address this matter, which in its view, you [the Engineer] and ADAC, have assumed responsibility for.
-Nevertheless, ADAC’s response annotated on the RFI/0401/17425 reply, referred to an unreferenced /
-unnumbered 2 page attachment appended thereto that purports to record various matters subject to a
-
-site visit conducted on 13 October 2019 between us (TCA JV), you (CMA) and ADAC, “to find the most
-probable solutions to the Contractor’s requested confirmations in this RFI [RFI/0401/17425].”
-We note however, rather than just limiting this ‘to the Contractor’s requested confirmations in this RFI
-[RFI/0401/17425]’, ADAC have sought to use this as an opportunity in commenting on issues that are
-out with the scope of the RFI [mechanical] and comment on architectural issues also.
-Notwithstanding, we have taken the liberty of providing a response alongside each ADAC comment,
-elaborating on the actions which have been undertaken by us since the RFI response was received, as a
-means of demonstrating the address / resolution of each issue (refer to Table 2 below). Please note that
-copies of the various e-mail correspondences referenced below are included at Annex C hereto.
-Table 2
-CMA COMMENTS
-TCA JV RESPONSE
-1. “RFI Item 1 – Acceptance of the current duct routing
-In general, given the structural constraints, the duct routing is acceptable. However, not all services
-were adequately coordinated. The CMA needs to work with the Contractor to resolve the following
-items: We note that the ducts’ route has been accepted by ADAC, “given the structural constraints” as
-noted in your comments. Furthermore, we confirm that we have been working closely with you (the
-Engineer) and have addressed all your/ADAC’s concerns raised in RFI/0401/17425, associated with the
-ductwork located at the Hotel Building Level L3.4 Sector 5.32B.
-a. Issue 1 – The grease trap and associated access door is not accessible (see highlighted in the
-screenshot below). The 800x300 smoke duct blocks the AD as it drops down to pass under the arch.
-Also, the drain is not accessible from the guardrail side that KEF duct.
-• Action –Contractor to rotate and/or relocate the grease trap to make it accessible from the catwalk.
-‘a’– ‘Issue 1’ – Following, your/ADAC’s comment in relation to the grease traps’ accessibility
-issues, we have taken actions to address these issues and have informed you accordingly via our email
-dated 17 December 2019 [5:00 PM] attached at Annex C, wherein we confirmed the following:
-“Further to the response to RFI-17425 and as directed by ADAC in their response to Item 1 - Issue 1, the
-Contractor has rotated the grease trap and the access door at the kitchen extract duct (See attached
-photo and the below red line marking)”.
-Furthermore, in regards to the accessibility issues to the ducts, mentioned in your comments we have
-informed you via our email dated 5 January 2020 [Sunday 10:19 AM] attached to Annex C hereto, that
-the access to the ducts for inspection and maintenance of the grease traps at the discussed area is
-congested, however, it is in fact accessible as shown in Figure A below.
-
-Figure A
-Additionally, in our email dated 5 January 2020 [Sunday 10:19 AM] we have also informed you that we
-have tested the grease traps’ slope by pouring a small amount of water and found that the water is in
-fact reaching towards the drain points properly. In addition during the maintenance we were able to
-place a tray underneath the drain point to remove the grease/oil. Consequently, it is apparent that there
-are no issues with the grease trap accessibility or functionality (Figure B refers).
-Figure B
-
-b. Issue 2 – Fan rooms have access constraints to be addressed by the Contractor and CMA (see
-highlighted in the screen shot below). The head height in area 1 is low and requires appropriate
-marking/padding and/or shifting. If shifted, coordinate with Issue 1 above. In addition, the duct supports
-in this area constitute a tripping hazard and need an appropriate crossing (e.g., low-rise catwalk). There
-is no apparent access to the fan room door in area 2, and needs an appropriate crossing over the duct.
-• Action –Contractor to agree appropriate solutions for access ‘b’ – ‘Issue 2’ (Fan rooms have access
-constraints to be addressed by the Contractor and CMA). This is another issue that is not relevant to the
-mechanical issues discussed in the RFI and cannot be considered to form part of the discussions
-associated with the re-coding of the mechanical Shop Drawing ref: 401-EF-M-02-34-5.32B-AC-SD-001Rev05, also discussed in this E-Notice. For clarity, we note that the issues raised by ADAC to the RFI also
-shown at the left hand side herewith in Table 2, are related to architectural issues and not mechanical
-issues and therefore must be dealt with separately.
-c. Issue 3 – Single egress route. As discussed with the design team, the routing of the duct in this space is
-acceptable, if the maximum travel distance is no more than 23 meters.
-• Action –Contractor to agree appropriate solutions for egress with the CMA, as part of the Contractor’s
-work coordination.
-We acknowledge your statement that “the routing of the duct in this space is
-acceptable, if the maximum travel distance is no more than 23 meters”. However, the issue with the
-travel distance has been addressed and we have informed you, via our email dated 5 January 2020
-[Sunday, 3:26 PM] attached to Annex D hereto. In our email we explained that based on the IFC Design
-provided by you in relation to the egress route of the ducts, the distance to the escape ladders to the
-North and West of the ducts is nevertheless designed to be more than 23 meters.
-This is explained further in our aforementioned email enclosed to Annex D, wherein we explained that
-the duct obstructing the egress path has no impact on the travel distance to reach the egress ladders.
-We also provided you with two (2) snapshots, namely ‘Case 1’ and ‘Case 2’, explaining and
-demonstrating the egress route to the North and West.
-As indicated in our aforementioned email, the best case scenario regarding the travel distance from the
-point where the ducts are located to the egress ladder, is around 33-35 meters. We reiterate that this
-travel distance is in accordance with the IFC Design. This is presented in the snapshot ‘Case 1’ in our
-email (reproduced in Figure C) below.
-Figure C
-As stated in our email ‘Case 1’ (Figure C), the travel distance from where the duct is located to the North
-egress ladder, is 34.37m (more than 23m).
-In addition, snapshot ‘Case 2’ (reproduced in Figure D), indicates that the travel distance from where the
-ducts are located to the West egress ladder is 33.65 meters (more than 23m).
-Figure D
-Consequently, as stated above and in our email, the ducts obstructing the path have no impact on the
-travel distance. Moreover, the travel distance by the Design, is nevertheless more than 23 meters. For
-these reasons, your comment that “the maximum travel distance is no more than 23 meters”, cannot be
-accepted and are invalid.
-Notwithstanding, if you wish to instigate any change in relation to the egress route to the ducts, then
-this will require the issuance of new IFC Drawings and a Variation Order; this is after the additional time
-and/or costs impacts have been agreed between us beforehand as per SAA8.
-2. RFI Item 2 – Acceptance of shifting the 5 lighting fixtures as marked in the RFI
-1. In general, the proposal is acceptable. However, final location needs to be coordinated during
-commissioning of the lights and duct rectifications noted above in Item 1.
-
-• Action –Contractor to ensure proper light installation (placement, lux levels, etc.), and finalize
-coordination during commissioning.
-
-We acknowledge that the five (5) lighting fixtures have been accepted by you and confirm that a
-“proper light installation (placement, lux levels, etc.)” and finalization of “coordination during
-commissioning” has been ensured.
-3. Item 3 – Coordination of other issues noted from site walk
-1. Access ladder to the L3.4 Roof area. The two hoop ladders fitted on the west side of the hotel may
-constrain firefighter’s access (with equipment) to this area and will need to be agreed with ADAC fire.
-The ladder on the east side is under an NCR with the CMA and needs to be resolved (and agreed with
-ADAC fire).
-• Action –Contractor to agree appropriate solutions for ladder (as noted above) with the CMA, as part of
-the Contractor’s work coordination.
-2. General catwalk provisions in the area to provide adequate (safe) access and support for equipment
-and maintenance personnel movement.
-• Action –Contractor to agree appropriate solutions with the CMA, as part of the Contractor’s work
-coordination.” Item 3 discussed by ADAC to RFI/0401/17425, namely “coordination of other issues
-noted from site walk”, is exactly that, other issues, which are not relevant to the mechanical issues
-discussed in the RFI and cannot be considered to form part of the discussions associated with the recoding of the mechanical Shop Drawing ref: 401-EF-M-02-34-5.32B-AC-SD-001-Rev05, also discussed in
-this E-Notice. For clarity, we note that the issues raised by ADAC to the RFI also shown at the left hand
-side herewith in Table 2, are related to architectural issues and not mechanical issues and therefore
-must be dealt with separately.
-SDS/0401/M/0957-06
-Further to which, on 12 January 2020, we submitted Shop Drawing Submittal No. SDS/0401/M/0957-06
-requesting approval of Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 05, ‘Mechanical Duct
-Layout L3.4 (Hotel/Offices/Lounges Level) Sector 5.32B’ as shown in Table 3 below.
-Table 3
-Date Submitted Submittal Ref No:
-Rev
-Description of Contents Response due per Section
-013300 Response Received
-Status Code
-Response Overdue By
-12-Jan-20
-SDS/0401/M/0957
-06
-Shop Drawing No:
-401-EF-M-02-34-5.32B-AC-SD-001 Rev 05, ‘Mechanical Duct Layout L3.4 19-Dec-19
-23-Jan-20
-3
-4 days
-Again, when viewed against the contractually obligated response times per Article 1.3 of Specification
-Section 013300 ‘Submittal Procedures’, then Table 3 shows that you exceeded the contract review
-period in respect of Shop Drawing Submittal No: SDS/0401/M/0957-06 by 4 calendar days. Any delay to
-any submittal, irrespective of the duration, is unacceptable, particularly at this stage of the Project.
-We further record that the Code 3 response to SDS/0401/M/0957-05 was accompanied by a series of
-comments annotated upon Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 05. These include
-amongst other things, the following comments in relation to the ductwork (Figure 4 refers).
-Figure 4 – Further Status Code 3 Comments
-Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001-Rev 05
-Although we reminded you of the content of RFI/0401/17425 [by a note endorsed on Drawing No: 401EF-M-02-34-5.32B-AC-SD-001 Rev 05 issued vide SDS/0401/M/0957-06 on 12 January 2020], we are
-again disappointed that the Design Consultant has maintained its position as per its previous responses
-to Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 03 and Rev. 4, submitted vide
-
-SDS/0401/M/0957 Rev. 4 and Rev. 5 (described above), and has ignored any previous agreement we
-reached with those involved, and the very crux of the matter that was subject to RFI/0401/17425.
-At the risk of being repetitive, we advised you that the current duct route was agreed with both the
-Design Consultant and the Engineer back in February 2018 ….[and while we] issued a revised BP-10
-sketch … it was not signed by the Design Consultant ….although the solution was agreed.” “It was later
-agreed by all parties to adopt the solutions agreed in 2018 ….” We simply wanted confirmation that this
-was indeed the case; and moreover we complied with the request to document this via an RFI. However,
-having done so and rather than properly address this, or offer an alternative solution, the Employer’s
-Design Consultant has referred us back to fact the ductwork is blocking access.
-Once again it is extremely disconcerting to note that rather than assist us and resolve what is after all a
-design issue, the Design Consultant has elected to maintain its position and similarly elected to ignore
-the content of RFI/0401/17425, and ignored the history of events associated with this matter.
-However, despite us providing detailed clarifications and explaining the measures taken to address all
-your / ADAC’s / KPF’s concerns in regards to the accessibility to the ducts and ductwork installed at the
-Hotel Building to Level 3.4, and despite us requesting that Shop Drawing No: 401-EF-M-02-34-5.32B-ACSD-001-Rev05 be recoded, including a request made via email on 26 January 2020 [8:48 AM] copy
-attached at Annex E, you / KPF have failed to do so – hence the issuance of this E-Notice.
-In view of the foregoing, this issue is not being addressed; despite our sincere requests for resolution –
-neither by you as the Engineer for the Project, nor the Employer’s Design Consultant. Therefore, in view
-of the events and circumstances outlined above, we maintain that the Status Code 3 comments issued in
-response to Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001-Rev 05, are unreasonable and
-inapplicable, and we urge you to immediately re-code it to a minimum of Status Code 2.
-Consequently, until such time as you do so re-code Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD001-Rev 05, we are prevented from completing the remaining Works and / or testing and
-commissioning, which will in time, invariably impact our ability to achieve Substantial Completion.
-Despite this event having it origins in 2018 [as noted above], we wish to make it clear that its cannot
-possibly be construed as forming part of or ‘Included Circumstances’ (per Clause 1.7.4 of SAA8) and will
-be included within any forthcoming Time Impact Analysis, albeit in recognition of the Effective Date
-included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8 cannot reasonably
-be interpreted as requiring the Contractor to absorb delays of unknown (possibly unlimited) duration
-occurring pre/post 4 September 2018, particularly where the resolution of the matter causing the delay
-lies with the Employer. We contend therefore that under the circumstances the responsibility, under
-the Contract (as amended by SAA8), for such delays lies with the Employer.
+For the avoidance of doubt, we reiterate that if damages are found into the works which we are liable /
+accountable for during the WIR/CIR/snags etc. inspections, then we will allocate resources for the
+rectification of all non-compliance and will ensure adherence to the target schedule for completion.
+Therefore, we would argue that we are under no obligation to carry-out independent surveys for each
+location where HVAC cladding has been installed as requested in your NCR comments. Nonetheless, if
+you insist us to do so, then this will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
+In which case, as you know, SAA8 laid down strict guidelines to follow if additional works are required
+and this appears to have been ignored. Hence this will warrant a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with independent surveys into the Works.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you issue us the necessary Instruction / VO, we are unable to proceed
+with implementing such investigations etc., noted above and will continue to proceed in accordance
+with the current WIR, CIR, snagging, de-snagging, punch-list processes and final handing over.
 Yours faithfully,

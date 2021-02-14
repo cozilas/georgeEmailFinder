@@ -1,7 +1,7 @@
 Dear Sir,
 
 Further to the latest discussions between Client and Consultant, the Client encloses herewith the revised
-SAP drawings received by the CPO on 27 August 2015 for Al Aziziyah Station.
+SAP drawings received by the CPO on 27 August 2015 for Bin Mahmoud Station.
 
 The Consultant is hereby instructed to take all the necessary actions in order to ensure the integration
 of these SAP requirements in the DD2 design submittals.
@@ -9,8 +9,9 @@ of these SAP requirements in the DD2 design submittals.
 We confirm that this instruction is given pursuant to Sub-Clause 4.6 [Variations and Adjustments] of the
 Agreement. Accordingly, you are requested to submit a proposal for this variation with details of any
 anticipated extension of the Time for Completion and/or a proposed adjustment of the Fee. Upon
-receipt thereof, we shall make a fair adjustment to the Fee in accordance with Sub-Clause 4.11
-[Valuation of Variat ions].
 
-We remain at your disposal for any further information and/or clarification.
+receipt thereof, we shall make a fair adjustment to the Fee in accordance with Sub-Clause 4.11
+[Valuation of Variations].
+
+We remain at your disposalfor any further information and/or clarification.
 Yours faithfully,

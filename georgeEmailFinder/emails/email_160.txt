@@ -1,21 +1,29 @@
+Subject:
 
-Subject Delay Notice- Failure to Complete Airport Pulse Solution
+Suspension of Works
+
 Dear Sir,
-We write with reference to correspondence (1) above, for which the Contractor's response is still
-awaited. As you are aware, the requirement for the Airport Pulse System Solution provided by the
-AOS Subcontractor to comply with the Resource Management System Specification (Section 274250,
-Clause 2.4AA (1-2) is an essential functionality required for the daily airport operations.
-This required functionality was originally scheduled to be delivered in accordance with the
-Contractor's Rev 11.2 Schedule. An NCR was issued (2) on 18 February 2019 which to date remains
-open. In response to the open NCR, the Contractor stated that the required functionality was
-scheduled to be delivered during Q2 2019. However, as of 13 February 2020, there is no clarity
-when the Airport Pulse solution will be completed .
-To avoid further delays, the Contractor is advised to take immediate steps in completing this
-important system interface. The Contractor is also required to provide a completion schedule
-through implementation and into a production environment. This shall include for full testing and
-commissioning according to the established Project test procedures, and for Performance Testing
-with the other Airport-wide Systems. The schedule shall be provided within 7 days from the date of
-receipt of this letter.
-We reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of Contract for all delays
-which may be caused to the Project as a result of the Contractor's inaction and non-compliance.
-Yours faithfully
+We acknowledge the receipt of your above referenced email (2), wherein you indicate your intention to
+suspend the work at site from Monday the 24 February 2020 (citing delayed payment as justification).
+Please note that your email does not constitute a formal Suspension Notice nor does it comply with the
+General Conditions of the Sub-contract Agreement (GCSA), namely Sub-clause 23.1.1 [Subcontractor's
+Entitlement to Suspend Work]. As a result of your failure to comply with the abovementioned conditions
+(providing only 4 days’ notice), we hereby reject the content of your email.
+Conversely, we take this opportunity to remind you of your obligations as set out under the Subcontract
+- Clause 8.1.2 [Subcontractors Obligations]. Moreover, Subcontract Clause 16.1.1 [Commencement of
+Subcontract Works] provides that you are obliged to progress the Subcontract Works with due
+expedition and without delay, and should neither delay nor adversely affect the performance of TCAJV
+or other subcontractors. Therefore, any illegitimate suspension will be considered an abandonment of
+working activities and may result in TCAJV enacting the mechanisms within the Subcontract Agreement,
+namely under Sub-clause 22.1 [Notice to Correct]. Please note that any delays, costs, losses and/or
+expenses incurred by us and/or Other Subcontractor/s arising as a result of your inaction, shall be
+recovered from your account in accordance with Subcontract clauses 10.3 [Contractor’s Claims], 16.6.1
+[Delay Damages].
+Your email also makes reference to your Prolongation Claim, in which you acknowledge falls short of our
+procedural requirements. Our previously issued correspondence referenced above (1), clearly states our
+position on your submission, highlighting its clear deficiencies - primarily noting a distinct absence of the
+required substantiation and necessary supporting particulars. Once we are in receipt of the
+aforementioned documentation we will undertake a comprehensive assessment of your entitlement.
+Please be informed that Executive Management are currently reviewing your payments and will advise
+on the intended date of payment in due course – we appreciate your continued patience.
+Yours faithfully,

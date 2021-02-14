@@ -1,169 +1,27 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0232
-Site Memo 03261 and Response to RFI/0401/17088 – Cooling Requirements to Lift Machine
-Rooms – Request for IFC Drawings and Engineer’s Instruction
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays associated with the Employer’s / Employer’s Design
-Consultant’s insistence that we instigate change to the existing design to 10 nos. of Lift Machine Rooms
-to Level L0.0, L1.0 and L2.0, in order to maintain specific operating and environmental conditions. This
-represents a change to our scope of Works, and will require the provision of revised IFC Drawings and an
-accompanying Engineer’s Instruction/Variation Order for us to integrate such change into the Works.
-Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-(1)
-Site Memo 03261
-On 7 April 2019, we received Site Memo (SM) No. MTC-CMA-0401-QC-MEM-03261 [dated 4 April 2019]
-prepared by CMA, pertaining to the ‘LET – Air Conditions in the Lift Machine Room’ worded as follows:
-‘During the WIR inspections, CMA noted that ELV-05-127 & 128 lift was functioning without proper
-cooling system in the lift machine room. As per EN-81-1-1998 +A3 - Section 6.3, the air-condition
-equipment is required to maintain the necessary cooling system. Same was recommended by the
-manufacturer also. Present environment in the lift machine room does not comply with the EN-81-1
-code requirements.
-The temperature inside the machine room was bit high when compared to the outside area at the time
-of the inspection.
-Requirements:
-Contractor to provide necessary cooling system as required to maintain the temperature.
-Contractor to investigate at site and provide the details of the lift machine rooms / controller
-rooms that require the air-conditioning system.
-Contractor to check and necessary actions within 2 weeks from the receipt of this site memo.
-This direction is for implementation.’
-Attached to Site Memo 03261 were the following:
-1.
-Work Inspection Request (WIR) No: WIR-LET-0359-01
-
-2.
-Specification Section 142100 (‘Elevators’); and
-3.
-Material Submittal No: MS/0401/LET//0041 Rev. 2 (‘Traction Elevators’)
-Initial response:
-We responded to Site Memo 03261 on or about 16 June 2019, informing you to “Refer to attached RFI17088 request to close out the Site Memo.” [Details pertaining to RFI-17088 are described below].
-You replied on or around 18 June 2019 and directed us to “provide the necessary ventilation as per RFI.
-[i.e. as per Response to RFI/0401/17088] …. Acceptance of OTIS of the same. Kindly note that the heat
-dissipation shall be more once system gets into operation. This is JV issue not OTIS.”
-Secondary response
-We issued a later response on 26 November 2019, in which we referred you to “attached response copy
-and e-mails showing the accepted required temperature.”
-You replied on or about 19 December 2019, stating: “Closed SM but is now referred to NCR.”
-(2)
-RFI-17088
-Meanwhile, on 5 May 2019, we raised Request for Information (RFI) No: RFI/0401/17088 Rev. 00 (ref: 2)
-seeking further clarification of the ‘Cooling Requirements for Lift Machine Rooms.’
-‘With reference to the attached site memo ref. 3216 where the Engineer had raised concerns with
-regards to the lack of a cooling system for the lift machine rooms of lift ELV-05-127 & 128, we note that
-the mechanical IFC does not show any cooling equipment serving this room. The Contractor had further
-investigated other lift machine rooms and found that the mechanical IFCs do not show cooling
-equipment for the lift machine rooms listed in the attached table.’
-Attached thereto was:
-1.
-A partial extract of IFC Drawing No: MTC-M-02-TB-L0.1-5.12-00.001 (Figure 1); and
-2.
-A schedule of ‘Lift Machine Rooms without Cooling System/Equipment’ (Figure 2).
-Figure 1
-Figure 2
-
-We requested a response to RFI/0401/17088 Rev. 00 by 8 May 2019. However, you failed to reply until
-12 June 2019. Nevertheless, it is interesting to note that the Employer’s Design Consultant (KPF) stated:
-“We do not agree with the statement in the CMA Site Memo that states "as per EN-81-1-1998 +A3Section 6.3, the air condition equipment is required to maintain the necessary cooling system". EN-811-1998 does not state air-conditioning is required for machine room. It only states in section 6.3.6 Ventilation, that the machine rooms shall be suitably ventilated. The control rooms must be maintained
-within the operating range specified by the equipment manufacturer (roughly 1 0-40deg C) with
-controlled humidity. Code does not require a specific method of how to achieve this. RFI indicates room
-temperature was a "bit high" - which may mean the room was within the operating limits, there is no
-requirement that the machine room be maintained within "comfortable standards".”
-Clearly, the Employer’s Design Consultant (KPF) disagreed entirely with the comments detailed in Site
-Memo 03261 and in short advised you that contrary to your assertion, no air-condition equipment is in
-fact required within the noted lift machine rooms “to maintain the necessary cooling …” and similar
-there is no requirement that the machine rooms are to be maintained within “comfortable standards.”
-That said, the Employer’s Design Consultant (KPF) further advised of the following:
-“Further, Elevators 05-98 and 05-99 are subject to RFI-9213. In this RFI response KPF "took no objection
-to JV proposed Elevator Control room" locations and the JV was to include Mechanical Ventilation for
-the control room.
-As noted on MTC-A-07-TB-L_-_-_-_-00-289 this is a "Contractor Proposed Variation" and the Contractor
-should provide the necessary cooling services for the elevators if necessary as per required temperature.
-
-The remaining 6 elevator groups in the list (05-129, 05-127/128, 05-66/67 05-27/28/111, 37/38/112 and
-05-76/77) are all provided with heat vent openings on the top of the shaft as outlined on MTC-A-07-TBL_-_-_-_-00-001 and the corresponding elevator section drawings. Heat from the lift machines are
-rejected into the shaft and dissipate via the top of the shaft. We would take no exception to the
-Contractor providing cooling to these machine rooms to accommodate the equipment selected by the
-Elevator Manufacturer and new requirement for cooling at this stage. The Contractor is reminded of
-their responsibility to verify that their proposed equipment selections, such as elevators, are
-coordinated with the IFC design. CMA to clarify temperature in related machine rooms.’”
-Your response to RFI/0401/17088 Rev. 00 on the other hand, advised us of the following:
-“MEP heat loads were mentioned / provided in the A07 summary sheet. Heat release load/lift was
-provided in OTIS GAD. Contractor should have co-ordinated & dealt accordingly on such requirements
-at engineering stage itself. However, it is contractor responsibility to ensure their system functionality &
-performance are complied with the MTB requirements & operations at their own accord ....”
-(3)
-TCA JV letter L/014925, dated 21 October 2019
-For the reasons comprehensively recorded in our letter (ref: 3) we disagree entirely with both your and
-the Employer’s Design Consultant’s response to RFI/0401/17088 Rev. 00. While we acknowledged that
-the cooling requirements to Lift Machine Rooms to Elevators 05-98 and 05-99 (cited therein – subject to
-RFI/0401/9213) would be addressed separately on the basis they are Service Elevators and are subject
-to a Contractor Proposed Variation, we reminded you of the obligations under the Contract of both
-ourselves and the Employer in relation to the cooling requirements to the remaining Passenger Lifts.
-Specification Section 142100 (‘Elevators’) requires us to provide equipment suitable for operating in an
-environmental temperature range of between 5 and 40°C. Furthermore, our obligation to provide
-cooling is limited to providing under cab units in locations indicated on the IFC Design Documents.
-Further, due to fire regulations we are obliged to smoke seal the Lift Machine Rooms from the shafts.
-Therefore, heat cannot be “rejected” into the lift shafts as stated by the Employer's Design Consultant.
-Therefore, we rightfully objected to the insinuation that we are somehow responsible for the resolution
-of this issue and advised that we have provided both you and the Employer's Design Consultant with the
-relevant technical documentation to ensure you are both fully aware of any impact the lift machinery
-may have on the immediate environment. It is the Employer's Design Consultant’s obligation to ensure
-its design is adequate to provide appropriate environmental conditions to the noted lift machine rooms;
-and while we recognise that it is the Employer’s responsibility to provide us with an adequate HVAC
-design, we have simply brought the design deficiency to your attention in order to resolve the matter.
-We concluded our letter ref: (3) by asking that you provide us the necessary IFC Design Information and
-an Engineer's Instruction to enable us to provide a proposal associated with ‘providing cooling to these
-machine rooms to accommodate the equipment … and new requirement for cooling; but in the
-meantime, informed you that you would be held accountable for any delays associated with your / the
-Employer’s / Employer’s Design Consultant’s failure to provide us with an adequate mechanical design.
-(4)
-CMA letter LTR-11195, dated 20 January 2020
-However, in your response dated 20 January 2020 (ref: 4) you advised us that it was our responsibility to
-provide the necessary ventilation to all the Machine Rooms as per the attached rooms list [pursuant to
-Specification Section 142100 Item 1.16 C, item 2.5 AS G, and BS EN 81 Clause 6.3.6], and maintained that
-“in order to gain the required environmental temperature range depending on the heat dissipation from
-the equipment selected, the Elevator Manufacturer should provide the expected heat dissipation and
-[we] the Contractor should estimate the cooling load required for the listed rooms accordingly.”
-Accordingly, you objected to our request for an Engineer's Instruction and advised us that any delays
-resulting from our purported “reluctance” to proceed with the works will remain our responsibility, and
-insisted upon us providing a proposal for the required ventilation in these rooms “at the earliest.”
-
-For the reasons previously described in our letter ref: (3), we reject your position and maintain that any
-requirement for us to provide any additional equipment and / provide cooling to the machine rooms to
-accommodate the “a new requirement for cooling” is additional to the design and our scope of Works.
-(5)
-NCR-01527
-Meanwhile however, on 18 January 2020, we received Non-Conformance Report (NCR) No: MTC-CMA0401-CM-NCR-01517 [dated 7 January 2020] (ref: 5), advising us of a purported non-conformance of the
-‘Ventilation and Cooling in the Lift Machine and Controller Rooms’ in the manner shown in Figure 3.
-Figure 3
-The accompanying schedule (Annex A) provides details of 10 Lift Machine and Controller affected by this
-issue (an extract of which is reproduced in Figure 4 below). [Note: Figure 3 states there are 17 rooms
-affected. This is incorrect. The ‘No. of Units’ is shown to total 17, but there are only 10 rooms listed]:
-Figure 4
-In summary, a combination of the information detailed Site Memo 03261, RFI/0401/17088 Rev. 00 and
-NCR-01517 shows that the Machine Rooms subject to Figure 4 above, are to be “suitably ventilated” to
-ensure compliance with the requirements of EN81-1:1998 + A3:2009 and 6.3.6 EN81.1; and that the
-operating and environmental conditions for the same are to be maintained between 5 and 40°C.
-As noted in our letter dated 21 October 2019 (ref: 3), the technical accuracy of the Site Memo raised by
-you, is your own internal matter to resolve with the Employer’s Design Consultant; we have constructed
-the Lift Machine Rooms in accordance with the Employer’s / Employer’s Design Consultant’s IFC Design
-Drawings. If you and / or the Employer’s Design Consultant are desirous of implementing changes to the
-Lift Machine Rooms to ensure certain operating and environmental conditions are to be achieved, then
-the requirements of SAA8 are clear; you must instruct us. If you require changes that are out of the
-current design, which the comments annotated on Site Memo 03261, RFI/0401/17088 Rev. 00 and NCR01517 reflect, then you must provide us with properly coordinated and fully detailed revised IFC
-Drawings reflecting that change in requirements under an Engineer’s Instruction / Variation Order.
-Meanwhile, until such time as you provide us with revised IFC Drawings indicating the change in design,
-we will continue to proceed in accordance with the existing IFC design to the extent we are able to.
+Subject:CONVID-19 (Coronavirus) – Further UAE Authorities’ Guidelines
+Dear Sirs,
+We refer to our letter ref: (1) that served to notify you about the developing situation in respect of the
+exceptional epidemic levels of Coronavirus CONVID-19.
+The circumstances with CONVD19 are rapidly developing on a daily basis and for that reason, the UAE
+Authorities are continuously announcing and declaring measures and guidelines which must be taken in
+place by the public to cope with the pandemic.
+Some of the latest guidelines that have been announced by the UAE Authorities on 23 March 2020
+[Monday 2:42 AM] have been enclosed hereto for your reference, attention and further guidelines.
+Specifically, the Emirates New Agency Guidelines inter alia “… has called upon the public to stay home
+unless it is absolutely necessary to get essential supplies, such as food and medicine, or perform
+essential jobs…”. The announcement amongst other things continues by stating that “… the Ministry of
+Interior and the National Emergency and Crisis and Disasters Management Authority urged UAE citizens,
+residents, visitors and all those living in the nation, to comply with the instructions and guidelines issued
+by competent health and security authorities, primarily limiting social contacts and avoiding crowded
+places to ensure their safety and wellbeing”. Involve
+Considering the vast number of people i.e. labour, staff, subcontractors, etc. actively engaged in the
+project, we feel that it is incumbent upon us to seek your further and immediate guidance to ensure
+that we are following best practice and have not missed any opportunity to minimise the risk to the
+labour force, all staff working on this Project, and to the general population of the UAE.
+In light of the prevailing situation in the UAE, we kindly request you to advise and/or issue us an
+instruction on the way forward taking into consideration the measures announced by the UAE
+Authorities as explained above and attached hereto and more significantly the overall impact that these
+measures are likely to have to the completion of the Project.
+Meanwhile, we reiterate that we remain fully committed to you / ADAC, the Project and to completing
+our obligations within the shortest possible time, without compromising on safety and quality.
 Yours faithfully,

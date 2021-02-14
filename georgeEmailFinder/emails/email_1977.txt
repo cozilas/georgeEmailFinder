@@ -1,56 +1,38 @@
-
 Dear Sir,
 
-Further to the Engineer’s Instruction of reference 6) issued pursuant to General Condition (“GC”) 13.1.1
-of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to the varied
-scope, quantities and direct costs in accordance with its GC 13.2.2 obligations.
+t-- ..
 
-The largest savings component arising out of this Variation is the reduction in Architectural Front of
-House Finishes, which is accounted for in the ongoing tender of the Provisional Sums Architectural
-Works Package and amounts to circa 30,000,000.00 QAR based on the Contractor’s current price
-estimates.
+This is an instruction under Sub-Clause 13.1.1of the General Conditions of Contract to initiate a
+variation. The nature and extent of the variation is provided below:
 
-The Contractor’s detailed valuation of this variation is enclosed as attachment 1 to this letter with
-further supporting particulars in relation to its pricing methodology to be found in attachments 2, 3 and
-4.
+•
 
-The results of the Contractor’s evaluation are summarized as follows:
+Implementation of new chainage at as-built design stage only;
 
-SN
+•
+Implementation of new alignment layer in as-built BIM models and corresponding as-built
+drawings;
+•
 
-DESCRIPTION
+Upcoming as-built survey and wriggle alignment to be submitted with new chainage;
 
-Amount (QAR)
+•
 
-A.
+Develop chainage correction table to be certified by DVE;
 
-EARTHWORKS (4,340,153.19)
+•
+All documentation required for handover process to receive a chainage correction page to
+enable end user to recalculate from old to new chainage;
+•
 
-B
+Executed as-built surveys to receive a chainage correction page and to be re-submitted.
 
-CONCRETE WORKS
+Note that all previous instructions and correspondence (listed above) related to this matter are to be
+reviewed and aligned with this instruction.
+There will be no effect on the Contract Price or the Completion Date with the issue of this instruction
 
-(10,882,295.42)
+!
 
-C
+onfirmed by the Contractor under letter reference 2).
 
-ARCHITECTURAL FINISHES TO BOH
-
-D
-
-DESIGN FEE CHANGE
-
-TOTAL
-
-1,238,409.30
-
-8,049,960.41
-
-(5,934,078.90)
-Table 1: Summary of Valuation
-
-The adjustment of the Contract Price is of the net amount of minus QAR 5,934,078.90. The Contractor
-reserves its rights to recover any time related costs in connection to this Variation which shall be
-addressed under a separate cover.
-
-Yours faithfully,
+Yours faithfully,

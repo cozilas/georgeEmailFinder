@@ -1,11 +1,10 @@
 Dear Sir,
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a
-variation.The nature and extent of the variation is provided below.
 
-Delete the Empl oyer's Requi rement Volume 6. Sub-Clause 13.2.4. 1 (c)
+The Contractor refers to letters referenced 1 & 2 above and notes that the UPS/Battery ventilation rates
+are governed by item S/N 148 of Appendix F of Engineer's Instruction 138. As such the relaxation of the
+Ventilation Requirements for UPS & Battery rooms being changed from 12 ale per hour to 6 ale per hour
+would have no cost benefit for the Employer. If the Contractor chooses to implement S/N 148 from the
+Optimization list, and the Employer would like to increase/decrease the requirements for Ventilation
+then the Contractor will address accordingly.
 
-"At each station the Contractor shall provide a single cooled water storage buffer tank with a minimum
-capacity of 70m3 for the I-type stations and 140 m3 for the X-type stations to serve the AHU's in the
-event of power loss of the chilled water source".
 Yours faithfully,

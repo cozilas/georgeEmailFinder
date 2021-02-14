@@ -1,13 +1,62 @@
-Subject Engineer's Instruction No. 786- Proposal -Outstanding Door Issues
+Subject: Special Airport Systems Documentation Status Misreporting - Principles'
 Dear Sir,
-We write with reference to correspondence (1) and (3) wherein the Contractor has provided their
-response with regard to the Engineer's correspondence (2).
-We refer to Annex -A (attached with correspondence 1) wherein it contains the delay notices issued
-to date by the Contractor with regard to this issue and we refute their contents in their entirety. The
-Contractor is referred to the table below listing the Contractor's notices and the respective Engineer's
-responses. The Engineer retains and reiterates the position conveyed via our referenced
-correspondence listed below.
-We also note that only 41 doors from the listed 407 doors include changes which require an
-Engineer's Instruction to be issued. In this respect the Contractor shall refer to the attached Door
-Schedules with the Engineer's remarks.
+Meeting Contractor's Presentation (Slide no.23)
+In response to your letter reference 1) above, whereby you highlight a number of discrepancies
+reported within our presentation {Slide no.23) of the Principles Meeting dated 18 September 2019,
+we would like to confirm the following:
+In particular you have referenced certain Special Airport Systems documentation, which you assert
+were either returned to the TCA JV without any delays, were never received from TCA JV, or were
+received within a lesser period than reported by TCA JV. To eradicate any discrepancies on this
+matter, we have double checked our records against each referenced document and can confirm the
+following:
+1. The Engineer confirmed that the following documents were replied too prior to the cut-off date
+reflected in Slide no. 23 (i.e. before 18 September 2019):
+• Spare Parts Video wall (ref: STE/0401/SS/0010): Rev02 was submitted to CMA on 23 June 2019
+and returned back on 18 September 2019 ( Rev02 review cycle : 87 days ); the transmittal has
+been returned as Code-2 without any further technical comments, so TCA JV requested receding
+to Code-1 through an email sent on 21 September 2019. CMA issued code-1 on 27
+October 2019;
+
+• Spare Parts LRP (ref: 0401-Atlas-STE-MTB-SS-0007): Rev01 was submitted to CMA on 09 July
+2019 and returned back on 18 September 2019 ( Rev01 review cycle : 71 days ); the transmittal
+was returned as Code-2 without any further technical comments, so TCA JV requested receding
+to Code-1 through email sent on 21-09-2019. CMA issued code-1 by on 20 October
+2019.
+• Spare Parts LAN (ref: 0401-Atlas-STE-MTB-SS-0010): Rev02 has been submitted to CMA on 10
+July 2019 and returned back on 18 September 2019 (Rev 02 review cycle: 70 days);
+• Spare Parts Intercom & Barrier & Maintenance Manual Lan (ref: MTB-ATLAS-TCAJV-T-01586)this
+combined two different deliverables together; 1) Spare Parts Intercom & Barrier (MTBATLASTCAJV-T-02129) submitted to CMA on 22 July 2019 and returned back on 18 September
+2019 ( Rev 0 review cycle : 58 days ). As the transmittal was returned as Code-2 without any
+Subject:Engineer’s Notification of Delay to Milestone MS09C
+Dear Sir,
+We refer to your letter (1) above, which not only purports to serve as a Notice of Delay to Milestone
+MS09C, but erroneously states that “to date, the Contractor has failed to evidence any entitlement to
+additional time beyond 31 October 2019.”
+We remind you that to date, we have submitted the following consolidated Delay Analyses:
+1.
+TIA No. 1 – Post SAA8, namely ‘Consolidated Delay Analysis for Events between 4 September
+2018 and 1 May 2019’ submitted under cover of letter ref: (2); and
+2.
+TIA No. 2 – Post SAA8, namely ‘Consolidated Delay Analysis for Events between 2 May 2019 and
+1 August 2019’ submitted under cover of letter ref: (3).
+In TIA No. 1 – Post SAA8 we demonstrated entitlement of 158 calendar day extension to Milestone
+MS09C; while in TIA No. 2 – Post SAA8 we demonstrated a total of 320 calendar days’ extension to
+Milestone MS09C, extending the date for completion from 31 October 2019 to 15 September 2020.
+We further record that at the date of letter ref: (1) you were not only in receipt of letter ref: (2) but had
+also received letter ref: (3); therefore to say that we have failed to evidence any entitlement to
+additional time beyond 31 October 2019 is grossly incorrect.
+Moreover, we also wish to remind you that TIA No. 2 utilised a cut-off date of 1 August 2019. Since
+then, not only do many of the delaying events analysed therein have a continuing effect on Milestone
+MS09, but the grounds for entitlement to further extensions to Milestone MS09C are continuing also.
+This is evidenced by the fact that since 1 August 2019, we have been compelled to raise a further 41
+notices of delays. These have been raised as a consequence of various acts of prevention on the part of
+the Employer, the Employer’s Personnel, the Consultants or Other Contractors, not to mention the
+introduction of further changes to the Works ‘by stealth’ by the Employer’s Design Consultant via his
+response to various RFIs. The detail contained in our notices is testament to this evidence of fact.
+In view of the above, we reiterate that your purported Notice of Delay to Milestone MS09C is entirely
+misguided and maintain that we are currently entitled to an extension to the Time for Completion of
+Milestone MS09C of ‘at least’ 320 calendar days. Further TIAs will be submitted in due course.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for such factors as those outlined above for which we are not culpable.
 Yours faithfully,

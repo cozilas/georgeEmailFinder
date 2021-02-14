@@ -1,315 +1,215 @@
-
-Subject: The Contractor's Presentation of 'Concurrent Delay' dated 18 January 2017
+Subject: · Concurrent Delay for EOT 1
 Dear Sir,
-The Contractor writes with reference to the receipt on 31 January 2017, of the Engineer's letter dated
-30
-January 2017 (reference MTC-CMA-TCA-0401-LTR-06737), regarding the Contractor's Presentation of
-'Concurrent Delay' made to the Employer and the Engineer on 18 January 2017.
-Prior to addressing the issues raised therein, the Contractor wishes to reiterate its position in relation to
-the purported requirement to assess any concurrent delay under the Heads of Agreement.
-Point 3 of the Heads of Agreement expressly states that the Employer "agrees to reimburse the
-Contractor's Costs for the full period of extensions of Time" [emphasis added], thereby unequivocally
-negating any requirement to establish any concurrent delay for the period up to 5 March 2015.
-Nevertheless, the presentation by the Contractor of the Contractor's concurrent delay conclusion and
-subsequent presentation on its concurrent delay assessment methodology was done so purely out of
-courtesy to the Employer following a direct request by the Employer for the Contractor to do so.
-With this in mind, the Contractor was anticipating providing such presentation to representatives of the
-Employer only, and was not anticipating the attendance of the Engineer. It transpired that the Engineer
-was invited to attend by the Employer but the Contractor was given to understand that such attendance
+(1) MTC-CMA-0401-LTR-07700 dated 5 July 2017
+(2) MTB/TCA/AECOM/L/010852 dated 15 June 2017
+(3) MTC-CMA-401-LTR-07745 dated 12 July 2017
+(4) MTC-CMA-TCA-0401-LTR-07698 dated 09 July 2017
+(5) MTB/TCA/ AECOM/L/010114 dated 12 February 2017
+(6) MTB/TCA/AECOM/l/05552 dated 26 August 2015
+The Engineer has variously written that the Contractor has breached its contractual obligation to provide
+an assessment of Concurrent Delay as part of its Time Impact Analyses (TIAs). (E.g., references 1, 3, 4.)
+As
+previously explained, and repeated here, this is untrue. (Reference 2.) The Contractor's submissions are
+contractually compliant. This letter explains, once again, why there were no Concurrent Delays with
+respect to the period covered by the Heads of Agreement (HOA), referred to as EOT 1.
+I. CONCURRENT DELAY IS IRRELEVANT WITH RESPECT TO EOT 1
+As a threshold matter, an assessment of Concurrent Delay is not relevant to EOT 1. As we explained in
+previous correspondence (references 2, 5), HOA Clause 3 explicitly provided that "[t]he Employer hereby
+agrees to reimburse the Contractor's Costs for the full period of the extensions to the Times for
+Completion of the Contra.ct Milestones" (emphasis added). As explained in previous correspondence
+(reference 2), any suggestion that the Contractor now has to prove that there was no Concurrent Delay
+would render this language meaningless. The question of entitlement to recover Costs, including
+subissues
+like Concurrent Delay, has already been resolved.
+In letter (reference 1), the Engineer attempts to justify its interpretation of the HOA. The Engineer starts
+with the proposition that Clause 3 of the HOA is "qualified by the requirement to substantiate these
+costs
+as set out in the HOA." Clauses 8 and 23 require the Contractor to substantiate the costs that it is
+claiming. This means, for example, that the Contractor must provide proof of the costs that it has
+incurred. The Contractor has satisfied this obligation through its various Cost Submissions.
+However, the Engineer goes further and insists that, in addition, the Contractor must show a lack of
+Concurrent Delay as part of this "substantiation". Recognising that the "demonstration that there are no
+concurrent delays" is at least, in part, included within the "JV's showing its entitlement to a claim" the
+Engineer notes that it is nevertheless "also a material constituent of TCA JV's evidence to support its
+claim" {emphasis added). In other words, the Engineer considers that an assessment of Concurrent
+Delay both speaks to the issue of entitlement and substantiation. As explained below, this clearly
+strained and
+untenable position fails as a sound matter of contractual interpretation.
+The Program Project Controls Requirements document confirms the Contractor's position that
+entitlement to Costs for the "full period of the extensions of Times for Completion" essentially resolves
+the
+issue of Concurrent Delay. Paragraph 1.3.7 of the Program Project Controls Requirements document
+(Extension of Time Programme) directly ties the assessment of Concurrent Delay in the TIA submissions
+to
+the overarching issue of entitlement to compensation for prolongation: Concurrent Delay would "render
+the extension of time non-compensable". As the Engineer asserts, "any assessment of concurrent delay
+(sic) is linked to the Time Impact Analysis." (Reference 3.) It follows that by recognising entitlement to
 
-was to be in an observational capacity only. Hence it is with great surprise and disappointment to find
-that the Engineer has chosen to enter into correspondence on this matter.
-Furthermore, whilst the Contractor was only too willing to provide both the Employer and Engineer a
-detailed presentation on the methodology adopted to assess the concurrent delay, at a subsequent
-meeting arranged on 19 January 2017, the Engineer was afforded the same opportunity to present a
-similar detailed presentation regarding its own methodology adopted to assess the concurrent delay.
-In the event however, the Engineer's 'presentation' was limited to providing a very simplistic overview
-of
-the methods adopted by him to assess the Contractor's concurrent delay, and when pressed further by
-the Employer to present this assessment in more detail, the Engineer refused. ·
-Notwithstanding this, the Contractor herewith provides the following detailed response to each point
-raised by the Engineer in his letter dated 30January 2017 (ref: MTC-CMA-TCA-0401-LTR-06737):
-The second paragraph of the Engineer's letter states:
-"The Contractor's Time Impact Analysis (TIA} Methodology outlined at the meeting is not accepted by
-the Engineer'
-With reference to the above statement, the Contractor responds as follows:
-It is unclear the context in which the Engineer makes reference to 'Time Impact Analysis (TIA)
-Methodology'. The presentation provided by the Contractor on 18 January 2017 addressed only the
-methodology adopted to assess concurrent delay and NO reference was made in the presentation to
-any Time Impact Analysis (TIA) Methodology.
-Furthermore, reference within the Contract Documents to a TIA is done so only in relation to the
-establishment of an Extension of Time, and whilst the Contract Documents do state the requirement
-for the Contractor to demonstrate the existence, or otherwise, of concurrent delays that are the
-responsibility of the Contractor, the Contract Documents do not define the methodology which should
-be adopted for such an assessment, or how such an assessment should be presented.
-As such, the Engineer's reference to 'Time Impact Analysis (TIA) Methodology' is not a true and
-accurate record of the Contractor's presentation as, for the reasons stated above, no reference was
-made to the TIA methodology within the presentation given by the Contractor.
-Under Item (a) of the Engineer's letter it states:
-"The Contractor's Methodology is unnecessarily complicated compared to the traditional and widely
-recognized Window analysis technique and it does not conform to any recognized method of delay
-analysis by any practice such as the SCL or AACE International."
-The Contractor responds to Item (a) as follows:
-The Contractor does not agree that the methodology adopted is 'unnecessarily complicated'. In fact,
-the methodology has been presented to others who found the methodology easy to follow and easily
-understandable. The fact the method seems complicated is a direct consequence of the complex
-nature of the Project, the approved Clause 16.3 Contract Programme and magnitude of change
-instructed by the Engineer, which continues to this date.
-In addition, at no stage of the presentation or subsequent discussions between the Contractor,
-Employer and the Engineer, was the topic of the SCL Protocol or the AACE International raised. As
-such, any reference to such documents in the Engineer's letter does not represent a true and accurate
-record of the Contractor's presentation.
-However, during the subsequent discussions between the Contractor, Employer and the Engineer, the
-Contractor was asked if the methodology presented had been used successfully on other projects. The
-Contractor stated that the same methodology had been used successfully on a number of major
-projects such as the new Doha International Airport, the Dubai Mall, and recently on the Dubai Parks
-and Resort development in Dubai.
-With reference to the 'Window analysis technique' raised in the Engineer's statement, the Contractor
+prolongation costs for the "full period of extensions to the Times for Completion" in HOA Clause 3, the
+parties necessarily dealt with the predecessor question of Concurrent Delay, agreeing that there is no
+Concurrent Delay and the full period of the extension of time is compensable. That is separate to the
+question of substantiation of Costs. It is within that context, and with that understanding, that HOA
+Clause
+3 must be read.
+The Engineer also asserts that entering into the HOA does not change the position that the Contractor is
+not entitled to any additional cost arising from a Concurrent Delay as set forth in COC Clause 21.2.2
+(Adjustments to the Contract Price) because the Employer has not waived that requirement in
+accordance
+with COC Clause 9.1.2 (No Waiver). This argument is wrong. HOA Clause 2 awards an extension of time.
+The Engineer does not contest that this was a valid award, the effect of which is that the Employer
+waived
+liquidated damages under the original contractual Times for Completion for the period of that
+extension.
+The Engineer does not challenge that this waiver was effective because of Clause 9.1.2. By the same
+token, HOA Clause 3 awards costs for the full period of time. Clause 3 does not run afoul of COC Clause
+9.1.2 either.
+The Engineer's arguments further ignore the overarching context of the HOA and, in particular, HOA
+Clause 3. The HOA was intended to settle claims with HOA Clause 3 addressing the Contractor's
+prolongation claims.1 It would be inconsistent with this purpose to suggest that the Parties left a key
+issue unresolved, such as Concurrent Delay that could reduce (under the Engineer's current assessment)
+the Contractor's entitlement to nil. The Contractor obviously would not have agreed to such a level of
+uncertainty.
+It is thus apparent that the Engineer is either trying to ignore the words "full period of the extensions of
+Times for Completion" or trying to override what was agreed in HOA Clause 3 with HOA Clauses 8 and
+23.
+Neither result is permissible under UAE law. As elaborated further below, rules of contract
+interpretation
+in the UAE require that words in a contract "should be given effect rather than ignored"2 and that,
+clauses
+in contracts should be read to avoid creating conflicts between them.3 Given that the Engineer's
+interpretation involves ignoring words and creates unavoidable conflicts, it is clearly wrong. II. THE
+CONTRACTOR'S LEGAL INTERPRETATION OF CONCURRENT DELAY
+The Contract is largely derived from the Abu Dhabi government's standard form contract, which, in turn,
+is
+a heavily modified 1999 FIDIC Red Book.
+Under the Contract, the Contractor is entitled to an extension of time and Cost for all "critical delays"
+that
+are the result of Employer-delay events.4 However, there are rare circumstances where both the
+Employer and Contractor-risk events may both be simultaneously responsible for the same critical
+delays.
+Recognising this, with respect to claims for extensions of time, COC Clause 16.5.4 provides that:
+Where there is Concurrent Delay, the Contractor shall be entitled, ... to an extension of
+the Time for Completion. 5
+With respect to the Contractor's claims for time-related Costs, COC Clause 21.2.2 provides that:
+[T]he Contractor shall not be entitled to any additional cost ... by reason of ... any cause
+of delay which, whilst it would otherwise give rise to such an entitlement, is a Concurrent
 
-accepts it is one of a number of recognised delay analysis techniques, but is generally a prospective
-form of delay analysis used to establish extensions of time by contractor's, and is not the preferred
-method of delay analysis defined within the Contract Documents.
-In relation to the AACE International Recommended Practice for Forensic Schedule Analysis, reference
-is made within the document to the 'Identification and Quantification of Concurrent Delays', but the
-document does not go on to define a specific method of analysis which should be adopted to identify
-and quantify such concurrent delays. In fact, the document recommends the review of an 'As-built
-Critical Path' to identify any concurrent delays.
-By definition, an 'As-built Critical Path' can only be truly established once ALL works are complete. As
-the Midfield Terminal Project remains on-going concern, no true 'As-built Critical Path' can be
-established and, as such, the practice defined under the AACE International cannot be applied.
-In relation to the SCL Protocol, whilst the Protocol outlines its position in relation to the impact of
-concurrent delay on the assessment and award of extension of time and the recovery of any time
-related costs, it also does not define a specific methodology to adopt for the identification and
-quantification of any such concurrent delay.
-Furthermore, neither the AACE International or the SCL Protocol are defined under the Contract and
-reference to such documents by the Engineer simply clouds the issue as neither document gives
-guidance which can be applied to projects of the scale and magnitude of the Midfield Terminal
-Project.
-Under Item (b) of the Engineer's letter it states:
-"It was not made clear by the Contractor why it is necessary to extract the data from Primavera to MS
-Excel and then to MS Access and then back to Primavera. Primavera is the approved programming
-software and is capable of performing all the required analysis. It is the Engineer's opinion that this
-chosen approach by the Contractor unnecessarily increases the risk of errors occurring and confuses
-the analysis."
-The Contractor responds to Item (b) as follows:
-As with many statements made in the Engineer's letter, this statement is wholly inaccurate and, again,
-does not represent a true and accurate record of the Contractor's presentation.
-In fact, during the presentation the Contractor went to great length to explain the reasons why the
-data was extracted from Primavera and analysed in MS Access.
-Furthermore, at numerous stages throughout the Contractor's presentation, reference was made back
-to the relevant Primavera programme activities to demonstrate that at any given stage, the data
-analysis undertaken within MS Access was accurately modelling the data contained within the
-corresponding Primavera analysis programme.
-In the presentation, the Contractor also made reference to the numerous artificial constraints and the
-use of numerous Project Calendars within the Primavera programmes which would, in fact, render any
-data filtered and identified directly within the Primavera programmes in relation to delay (negative
-float value) inaccurate.
-Under Item (c) of the Engineer's letter it states:
-"The Contractor has introduced new Milestones and Constraints to the baseline programme for the
-CSP and Piers without the approval from the Engineer. Contractually this is non-compliant and
-currently not accepted."
-The Contractor responds to Item (c) as follows:
-Under the Heads of Agreement signed on 5 March 2015, the Contractor had already been granted an
-Extension of Time to 31 July 2017, a period of 310 calendar days.
-As such, there was no reason to issue any supporting TIA submission pursuant to Clause 27 of the
-Conditions of Contract.
-As stated within the cover letter of the Contractor's Consolidated Submission dated 27 August 2015,
-
-the submission was provided to assist in the successful conclusion of the financial negotiations in
-relation to the Heads of Agreement, and was not a submission seeking an Extension of Time as this
-was already awarded prior to the submission of the Contractor's Consolidated Submission dated 27
-August 2015.
-Subsequent to the signing of the Heads of Agreement, the Engineer issued numerous correspondence
-defining the level of detailed substantiation required to assess the costs associated with the Heads of
-Agreement.
-In relation to time related costs, such as Prolongation and Acceleration I mitigation, the Engineer,
-through a series of correspondence, requested such cost substantiation include the location where
-the costs were actually allocated (CPA or Piers) be identified.
-As such, to conform to the request of the Engineer, additional monitoring milestones for both the CPA
-and Piers were added to the analysis programmes to assist in the cost substantiation and allocation.
-Under Item (d) of the Engineer's letter it states:
-"The Contractor has deleted many activities without the agreement and approval of the Engineer,
-again this is contractually non-compliant and currently not accepted."
-The Contractor responds to Item (d) as follows:
-At no stage within the Contractor's presentation of 'Concurrent Delay' was any reference made to
-deleting activities from the programme schedule. This is yet another failure of the Engineer to
-accurately record the details of the presentation.
-In fact, the Contractor explained that removing the data from the Primavera schedule and analysing
-within MS Access allowed changes to be made to the data without affecting the integrity of the
-submitted Primavera schedules for which limited 'undo' facilities are available when changes are
-made to the programme schedule.
-The Contractor's presentation of 'Concurrent Delay' further went on the detail the process used to
-identify certain activities which did not warrant further consideration with in the individual monthly
-analysis periods that could be eliminated, not deleted, from the extensive list of programme activities
-requiring further investigation within the individual monthly analysis periods to assess whether they
-be Employer or Concurrent Contractor delays.
-Under Item (e) of the Engineer's letter it states:
-"The Contractor has disregarded the Contractor delays that exist in and evidenced within the records of
-correspondences I minutes of meetings etc."
-The Contractor responds to Item (e) as follows:
-During the Contractor's presentation of 'Concurrent Delay' the Contractor went to great length to
-explain that once a certain number of pre-defined criteria had eliminated activities from the extensive
-listing of activities to review during each individual analysis period, the remaining activities were then
-reviewed against the contemporaneous site documentation to establish liability for the individual
-activity delay, thus establishing if the delay be Employer or Concurrent Contractor delays.
-As stated during the Contractor's presentation the documents reviewed as part of the concurrency
-assessment included, but were not limited to:
-Correspondence between the Employer and Contractor;
-Correspondence between the Engineer and Contractor;
-Correspondence between Subcontractors and the Contractor;
-Engineer's Instructions;
-Engineer's Bulletins revising IFC Drawings;
-Minutes of Meetings between various parties;
-Requests for Information (RFI's)
-Shop Drawing Submissions;
-Material Submissions;
-
-Method Statements;
-Variation Orders;
-Requests for Variation Orders;
-NCR's;
-Inspection Requests;
-Contractor Instructions; and
-Verbal Instructions.
-As such, the Engineer's inference that the Contractor did not take cognizance of contemporaneous
-site documentation is untrue and the statement made by the Engineer is not a true and accurate
-record of the Contractor's presentation.
-Under Item (f) of the Engineer's letter it states:
-"The Contractor stated "there are some concurrent delays" but failed to demonstrate how this was
-calculated and did not provide an explanation why the concurrency analysis, which is required as part
-of its TIA submissions, is not yet finalized."
-The Contractor responds to Item (f) as follows:
-During the Contractor's presentation of 'Concurrent Delay', the Contractor went to great length to
-explain the specific methodology used to establish the cause, and the extent of concurrent delays for
-the month of April 2014.
-Therefore, for the Engineer to state that the Contractor 'failed to demonstrate how this was
-calculated' is a further demonstration of the inaccurate recording of the Contractor's presentation by
-the Engineer.
-The Engineer goes on to state in his letter that the Contractor 'did not provide an explanation why the
-concurrency analysis, which is required as part of its TIA submissions, is not yet finalized."
-It can only be assumed that the TIA submissions referenced by the Engineer relate to those
-submissions issued by the Contractor in the period after the signing of the Heads of Agreement.
-The Contractor's presentation and all the subsequent discussions related to the period up to the
-signing of the Heads of Agreement, and there were no discussions in respect of the period subsequent
-to the signing of the Heads of Agreement.
-As such, the Contractor was neither requested to, nor provided, any explanation to the concurrency
-analysis for those TIA submissions issued after the signing of the Heads of Agreement.
-Under Item (g) of the Engineer's letter it states:
-"The Contractor's independent third party expert appears to have simply agreed with the Contractor's
-analysis and has not submitted an independent report on the matter of Concurrency"
-The Contractor responds to Item (g) as follows:
-The Contractor's independent third party expert is exactly that, independent.
-The Engineer has not been privy to the numerous and lengthy discussions between the Contractor and
-the independent third party expert, neither has the Engineer been privy to the numerous and lengthy
-discussions between the independent third party expert and the Employer.
-As such, the statement made by the Engineer is extremely un-professional and the Contractor
-requests such a statement be formally withdrawn.
-The Engineer's letter goes on to make reference to the Contractor's Consolidated Delay Analysis
-Submission dated 27 August 2015, specifically paragraph 5.28 and 5.29, as follows:
-"The results of the analysis for each delay event in each monthly delay analysis period are classified
-into 3 categories. This will, the Contractor hopes assist the Engineer to reach a speedy determination of
-the financial implications of the delays to section of the Work'~ [emphasis added] does not provide any
-such assistance whatsoever to the Engineer due to the fact that the Contractor has failed to
-demonstrate any 'culpable delay' or 'unallocated delay' as asserted, in its CDA submission."
-The Contractor responds to the above as follows:
-
-The extract provided by the Engineer is only an extract from paragraph 5.28.
-In reality what the Contractor's Consolidated Delay Analysis Submission dated 27 August 2015
-demonstrates, is that upon the conclusion of the analysis there were no critical 'culpable delays' or
-critical 'unallocated delays'.
-Furthermore, as the terms of the Heads of Agreement already grant an extension of time and does not
-require any assessment of concurrency, then reference to any delay other than the dominant critical
-delay is irrelevant.
-With reference to the concluding paragraph of the Engineer's letter, the Contractor wishes to break the
-Engineer's statement into individual elements and respond to each.
-The Engineer opens the final paragraph of its letter by stating:
-"We trust this is a true and accurate record of the presentation"
-The Contractor responds as follows:
-The Contractor strongly rejects this statement.
-It is clearly evident from the Contractor's responses herein that the information provided under the
-Engineer's letter is far from a "true and accurate record of the presentation".
-The Engineer continues the final paragraph of its letter by stating:
-"we note for record purposes that the new approach adopted by the Contractor in this presentation to
-evidence the existence or not of any concurrent delays differs significantly from the previous approach
-adopted in the previously submitted Consolidated Delay Analyses where no concurrent delays due to
-the Contractor have been evidenced and is contrary to the current approach the Contractor has
-presented in identifying areas/periods during the course of the Works where the Contractor was
-culpable for some of the delays."
-The Contractor responds as follows:
-As previously stated, the Contractor's presentation was given out of courtesy at the request of the
-Employer to provide the findings of an internal assessment of concurrent delay undertaken by the
-Contractor in the event of any future dispute in relation to the Heads of Agreement.
-Whist t he conclusions of the concurrency review and the methodology behind the concurrency review
-have been presented to the Employer and Engineer, it is not the intention at this time to issue the
-detailed report to either the Engineer or Employer for future comment.
-The Contractor's previously stated position remains that point 3 of the Heads of Agreement clearly
-states that the Employer "agrees to reimburse the Contractor's Costs for the full period of extensions
-of Time" [emphasis added], therefore, negating any requirement to establish any concurrent delay for
-the period up to 5 March 2015.
-As such, there was no need in the submission issued in support of the Heads of Agreement to provide
-any form of concurrency analysis.
-In relation to those TIA submissions issued for delays occurring after the signing of the Heads of
-Agreement, the Contractor has demonstrated within the provided analysis programmes that there is
-no further critical delay attributable to the Contractor's own progress of t he works.
-This can be evidenced by comparing the Heads of Agreement Milestone Completion dates in the
-'Progressed' analysis programme with the preceding 'Impacted' analysis programmes.
-Furthermore, for clarity, in the '6th Post Heads of Agreement Consolidated Delay Analysis for Events
-between 2 January 2016 and 1 April 2016' the Contractor states within the narrative that:
-"in accordance with the Programme Project Control Requirements, Clause 1.3. 7, the Contractor
-confirms no concurrent delays caused by the Contractor were identified within the delay
-analysis"
-Following the review of the Contractor's TIA submissions for delays occurring after the signing of the
-Heads of Agreement by the independent third party expert, it has been suggested a more
-comprehensive assessment of concurrent delay is required.
-
-The Contractor intends to adopt the methodology presented to the Employer and Engineer to identify
-and assess any concurrent delays for future TIA submissions.
-The Engineer then continues the final paragraph of its letter by stating:
-"the Engineer welcomes the principle of admitting the Contractor own delays within the analysis which
-is what is required under the Contract and as a pre-requisite before any compensation can be
-finalized"
-The Contractor further responds as follows:
-The Contractor has never denied the existence of its own delays during the execution of the Project
-works. However, as stated at the outset, on the basis of the previously reference point 3 of the Heads
-of Agreement document, the existence, or otherwise, of any Contractor delay in the period up to the
-signing of the Heads of Agreement is deemed irrelevant as 'full' time and costs have been granted
-under the Heads of Agreement.
-For those TIA submissions issued in support of delay events after the signing of the Heads of
-Agreement, whilst the Contractor has identified sub-critical delays which may be attributed to the
-Contractor, the Contract does not state that the identification of the 'Contractor's own' delays is a
-pre-requisite, but the identification of any 'Concurrent Delay' caused by the Contractor is a prerequisite.
-Therefore, such delays should meet the definition of 'Concurrent Delay' under the Contract
-which defines 'Concurrent Delay' as:
-"the occurrence of two or more delay events at the same time, one an event within clause
-16.5.1{a) to (c), and the other not falling within those sub-paragraphs, the effects of which are
-felt at the same time" [emphasis added].
-It is the Contractor's current position that any Contractor delay identified within the TIA's issued in
-support of delay events after the signing of the Heads of Agreement do not conform to the definition
-of 'Concurrent Delay' as defined under the contract.
-Furthermore, the identification of any 'Concurrent Delay' caused by the Contractor is only a prerequisite
-for financial compensation. This should not prevent the Engineer from making an assessment
-of any Extension of Time for which the Contractor is required.
-The terms of the Heads of Agreement, it does in fact set the precedent for awarding an Extension of
-Time in advance of any agreement of the associated costs.
-The Engineer concludes the final paragraph of its letter by stating:
-"This presentation supports the Engineer's stand that all previously submitted CDAs are not in
-compliance with the Contract requirements"
-The Contractor responds as follows:
-The Contractor again states, as it has done in numerous previous correspondence on this issue, that all
-its submitted Consolidated Delay Analysis (CDAs) are in compliance with the Contract and the
-Engineer continues to make global references to the Contract without providing his detailed
-interpretation of the relevant Contract clauses.
-What the presentation did demonstrate, however, is that should the Engineer not agree with the
-Contractor's submitted position in relation to an Extension of Time entitlement and Concurrent Delay,
-it has been provided with more than sufficient information to make its own assessment and
-recommendation, which to date it has failed to do so.
-The Contractor believes the above to be self-explanatory and that it fully addresses each of the points
-raised by the Engineer within its letter dated 30 January 2017 (ref: MTC-CMA-TCA-0401-LTR-06737}.
-As the above proves, it is unfortunate that the Engineer has found it necessary to present a misguided
-view of the meeting held on 18 January 2017 amongst others, and is again urged to focus his attention
+Delay.6
+This liability scheme, i.e., an extension of time but no Costs for Concurrent Delay, is found in England
+and
+represents a departure from UAE law, which apportions costs in the event the Contractor and the
+Employer both cause the loss.7 (We note that this position under UAE law is not mandatory and that the
+Parties, through their adoption of COC Clauses 1.1, 16.5.4 and 21.2.2, contracted for the use of a
+different
+approach.)
+In turn, the Contract narrowly defines "Concurrent Delay" as:
+[T]he occurrence of two or more delay events at the same time, one an event within
+clause 16.5.1(a) to (c), and the other not falling within those sub-paragraphs, the effects
+of which are felt at the same time (emphasis added).8
+This definition is taken directly from the industry definition of "true concurrent delay" as defined in
+industry publications such as the SCL Delay and Disruption Protocol ("SCL Protocol"):9
+Contract, Clause 1.1 SCL Protocol
+"the occurrence of two or more delay events at the "the occurrence of two or more delay events at the
+same time, one an event within clause 16.5.l(a) to same time, one an Employer Risk Event, the other a
+(c) [i.e., an Employer risk event], and the other not Contractor Risk Event, and the effects of which are
+falling within those sub-paragraphs [i.e., a felt at the same time."
+Contractor risk event], the effects of which are felt
+at the same time." This is the narrowest industry definition of concurrent delay. Commentators have
+described that a finding
+of concurrent delay under this definition is a "rare occurrence"10 or an "exceptional factual"
+situation.11 It
+is thus apparent that the Parties intended to adopt a very narrow definition for this concept.
+Applying the contractual definitions as supplemented by industry practice, the following applies:
+(1) Both delays must impact the critical path: considering that COC Sub-Clause 16.5.1 refers to critical
+delay to the Works,12 the reference in the same Sub-Clause to "the other [delay} not falling within those
+sub-paragraphs" must mean events of the same. character (i.e. critical). If it were any other way, one
+critical and one non-critical delay, then the latter could not be said to produce any comparable "effect"
 on
-reviewing the Contractor's various CDAs submitted to date, which the Contractor maintains is of
-sufficient
+the completion of the Works and, therefore, would not fit within the purpose of the Clause as described
+above.
+This is also the construction industry's understanding of this language. Industry understandings of terms
+are given great weight under UAE law. UAE Civil Code provides "[t]hat which is known by custom is
+equivalent to o stipulated condition"13 and "[t]he common usages of people shall have probative force
+and
+shall be abided by."14 Reliance on the industry's understanding of this language is especially probative
+here because COC Clause 1.1 (Concurrent Delay) was taken almost verbatim from an industry definition
+demonstrating the Parties' intent to incorporate this agreed industry position into the Contract.
+According to the industry's understanding, only critical activities are relevant for purposes of concurrent
+delay and, especially, true concurrent delay. For example, according to the SCL Protocol:
+For concurrent delay to exist, each of the Employer Risk Event and the Contractor Risk Event must
+be an effective cause of Delay to Completion (i.e. the delays must both affect the critical path)
+(emphasis added).15
+This makes sense. Broadly speaking, the Contra~t and law seek to assign the causes of, and therefore
+liability for the consequences of, project duration overruns as between the Contractor and the
+Employer.
 
-detail to enable the Engineer to award interim Extensions of Time [emphasis added].
+There is no project duration overrun where there is delay to activities that are not on the critical path.
+Delay to such sub-critical activities (i.e. activities off the critical path) will not result in the completion
+date
+being later than it otherwise would have been 16 or, in other words, project duration overrun. Delay to
+sub-critical activities, therefore, cannot be said to be the cause of the Contractor's incurrence of extra
+costs for prolongation. Take an example from this project. The Employer was late by 88 days in issuing
+IFCs. (Reference 6.) This
+delay meant that the Contractor was in turn delayed in commencing work on the shop drawings for
+concrete works. These shop drawings were required to procure materials and install concrete works.
+According to the original programme, the Contractor was also late by 26 days in awarding the
+subcontract
+to its steelworks subcontractor. (Reference 6.) However, the 88-day delay to concrete works created
+float for the appointment of the steelworks subcontractor. The Contractor's appointment of the
+steelworks subcontractor was well within the float created by that Employer-caused delay and
+accordingly
+was not critical. Therefore, the timing of the steelwork subcontractor's appointment did not cause delay
+to completion. From the above, it is clear that delay events which affect activities that are not on the
+critical path (i.e.
+sub-critical events) so do not delay completion of Milestone 9B and, therefore, cannot be a Concurrent
+Delay.17 (2) The "effects" of the delays must start and/or end at the same time: the definition of
+Concurrent Delay
+requires that the effects of the delay events are "felt at the same time." The word "same" means:
+"Identical: not different".18 This means the timing of the effects of a delay must not be different.
+From an industry perspective, at the very least, this means that both events must "result in the works
+being completed later than would otherwise have been the case" .19 Practically speaking, that situation
+can
+occur only if the effects of the two events start or end at the same time. If one event leads to a critical
+delay that is felt first in time, a second event whose effects are felt second in time cannot result in the
+works being completed later than would otherwise have been the case. The delay effects of the second
+event are sub-critical. The exception is where, viewed retrospectively, the effects of that second event
+cease at the same time as the effects of the first event, in which case from the point when the effects of
+the second event commenced, the two events are simultaneously resulting in the works being
+completed
+later than would otherwise have been the case. Conversely, if the effects of that second event cease
+after
+the effects of the first event cease, the two effects are not "felt at the same time". Instead, in that
+scenario, there is no Concurrent Delay, but rather the first event is causing critical delay until its effects
+cease and then the second event causes critical delay until its effects cease.
+(3) The delay events must occur at "at the same time": if the effects of the delay events are felt at the
+same time (as defined above), then we further assess whether the delay events occurred "at the same
+time". This is a factual question.
+Ill. A lACK OF CONCURRENT DELAY HAS BEEN DEMONSTRATED
+Time impact analyses, by their very nature, provide an assessment of Concurrent Delay.
+In TIAs, delay events are introduced into the analysis in strict chronological format. For complex
+projects,
+such as this one, the delay events are usually introduced collectively in particular periods/windows (so,
+for
+example, all events which arose in April 2015, would be inserted into the then current (host) programme
+
+for analysis). The events are inserted into the analysis in the form of fragnets, and the collective impact
+of
+the introduced events is modelled. ·
+To determine if any of the events in the period/window is critical, the programmer determines if the
+introduction of delay events for a period/window produced an incremental delay to the completion date
+that was identified in the host programme before the introduction of the delay events. If the completion
+date moves, then an event in that period was critical. In that case, a further analysis must be done to
+determine which of the events entered for that month is (or are) critical. However, if the completion
+date
+does not move, then none of the events entered for that period are critical.
+On the basis of this, the Contractor has determined, and certified in its TIAs, that only Employer-culpable
+events have driven the critical path for EOT1. IV. CONCLUSION
+For the above reasons, in the period covered by the HOA (i.e., EOT 1), there is no critical delay caused by
+the Contractor, there is no Concurrent Delay and the Contractor has not failed to demonstrate that
+there
+are no Concurrent Delays caused by the Cor~tractor. The Contractor is therefore entitled to its
+substantiated costs for the full period of the extensions to the Times for Completion of the Contract
+Milestones in the HOA. The Contractor asks the Engineer to accordingly issue his determination
+regarding
+the Contractor's claim for prolongation in the EOT 1 period.
 Yours faithfully,

@@ -1,31 +1,24 @@
-Subject:
-
+Subject:Coring of Waterproofed Manholes
 Dear Sir,
-
-Re: Request for Engineer's Instruction [RFEI/0401/0704]
-New Doors Introduced at Pier 1 in Room 1644 & Pier 4 in Room 1722
-
-We are in receipt of your letter referenced (2) above, wherein you rejected our letter referenced (1)
-requesting you to issue an Engineer’s Instruction, regarding the new doors introduced via
-RFI/0401/15691 reply dated 5th March 2018, at Pier 1 in Room 1644 & Pier 4 in Room 1722.
-Please note that we refute the content of your letter referenced (2) and inform you that the 2 nr door
-openings were never included on the IFC Door Schedule. Further to this, a symbol for a door on a
-drawing does not determine the size, type, hardware set, or security type required for proper pricing
-and construction, which could also simply be an access panel. Furthermore, the RFI response includes a
-snippet of a Door Schedule (revision 32) that has never been issued to us formally or by any other
-means.
-Even though, we were able to utilize some spare doors and frames, we still have hardware and security
-monitoring (DPS) that was added in the RFI response. This is a design change and an Engineer’s
-Instruction along with updated IFC drawings are required not only for us to build, but also for us to
-request WIR’s and allow for Testing and Commissioning. Testing and Commissioning cannot be
-completed without approved WIR’s. WIR’s cannot be approved without an instruction and correct IFC
-documents. Therefore, these changes constitute a Variation under the Contract and require an
-Engineer’s Instruction.
-Additionally, you are kindly reminded that e-notice “SAA8 Sub-Clause 2.26, E-Notice No. – E0007 –
-Discrepancies between Door Schedule Rev 31, SACS, Data and Power Provisions” and other
-correspondence have been submitted previously, informing you about the aforementioned door issues.
-Your prompt action, guidance, decision or further instruction is required, failing which the works are
-likely to be delayed and/or disrupted.
-We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
-extension of the Time for Completion and additional Costs arising from the above described event.
-Yours faithfully,
+Further to the above mentioned subject the Contractor wishes to clarify and further requests the
+Engineer as per the below.
+In response to our email the Engineer referred to their correspondence reference (1) stating that in
+accordance with Specification Section 071326 the waterproofing of the manhole structure is an element
+for which the Contractor is responsible for in terms of the selection, design and warranties in terms of
+application.
+However, we are not entirely in agreement with this as we are not responsible for the selection and
+design of the waterproofing system and details. We are responsible to provide all labour, Materials,
+Contractor’s Equipment and Plant to fully execute the requirements to furnish, deliver, and install the
+Works as expressly described in the Drawings and Specifications, or implied therefrom, and in
+accordance with the Contract pursuant to the above-mentioned Specification Section.
+We also do not deny that the rectification and integrity of the said waterproofing falls under our scope,
+but due to the nature of the work (rectification of existing work compromised by core drilling) we are
+not responsible for the methodology of the reinstatement works and requested you in our email
+reference (2) to provide this including maintaining details of the waterproofing to ensure the integrity of
+it.
+Once again we request the Engineer to provide us with further details, decisions, directions and
+instructions pursuant to Clause 11.3 (Instructions of the Engineer) of the Conditions of Contract to
+provide us with a practical methodology to implement these rectification works.
+In the absence of the above requested instruction we are unable to proceed with the works and we will
+not be held responsible for any delays as a consequence.
+Yours faithfully

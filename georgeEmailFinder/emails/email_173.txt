@@ -1,34 +1,9 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0187
-Engineer’s Responses to RFI/0401/17445 Rev. 00 and Rev. 01 – Changes to External S10 Lights SettingOut / Coordinates located at Landscape / Planters Area L0.0 – Request for Engineer’s Instruction (EI) /
-Variation Order (VO)
-Dear Sirs,
-We refer to your letter ref: (1) following issuance of E-Notice No. 0187 (ref: 2) in which you aver that we
-are somehow culpable for the matters detailed in our letter ref: (2), and that [pursuant to SAA8 Clause
-2.24.2.1] the “Contractor … has no entitlement to any additional time and / or cost”
-For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
-you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
-The facts of the matter remain as follows:
-•
-You took 48 calendar days longer than the reply required by date to reply to RFI/0401/17445.
-•
-The original response failed to address the matter which the RFI was raised for in the first place;
-i.e. the provision and/or confirmation of the setting-out/coordinates of the S10 Lighting Fixtures.
-•
-You then issued us a Rev. 1 response to RFI/0401/17445 a further 36 calendar days later.
-•
-When the Rev. 1 response to RFI/0401/17445 was eventually received, it was found that the S10
-lighting fixtures were to be relocated and distributed inside the landscape/planters area rather than on
-the edge of the planters, as shown on the IFC Drawings; i.e. the position had changed.
-•
-However, all of S10 Lighting Fixtures have already been procured, fabricated and delivered to
-site together with the 1.5 metre cable and the attached IP gland. Moreover, the installation of the
-conduits and pull boxes to the perimeter of the planters, have also been completed on site.
-•
-Your Rev. 1 response to RFI/0401/17445 attempts to vary the design and requires an Engineer’s
-Instruction (EI) and a Variation Order in order for us to integrate this change into the Works.
-Hence this does not fall under the provisions of SAA8 Clause 2.24.2.1, nor can it be construed as such.
-In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs arising from the event described in letter ref: (2).
+Subject: Rectify billing cycle
+Dear sir
+In an effort to improve our services to our valued customers, this communication is to be considered as
+formal notice to rectify our billing cycle. The billing cycle has been changed to month end starting May
+2018. Henceforward, all rental agreements will be extended until month end instead of 30 days and
+payments will be collected accordingly. This will not affect your monthly rental amounts in any way,
+except that your renewal will be on the 1st of every month and you will be receiving renewal
+notification email accordingly
 Yours faithfully,

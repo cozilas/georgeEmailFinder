@@ -1,53 +1,43 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0167
-Delays caused due to the Engineer’s Failure to proceed with Snagging Inspections for works associated
-to all disciplines (MEP, Civil, Finishes etc.)
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays consequent on your failure to proceed with multiple
-snagging inspections, for works associated with all disciplines (MEP, Civil, Finishes, etc.).
-Potential Impact
-Delays and disruption due to the events and circumstances outlined in Annex A, particularly at this stage
-of the Project, will, if allowed to continue, invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We write to notify you of appreciable concerns we have with respect to your delays to proceed with
-snagging inspections for works associated to all disciplines (MEP, Civil, Finishes, etc.). Specifically, once a
-room or area is completed, we are submitting a Work Inspection Request (WIR) requesting the final
-inspection and approval of the works for each respective discipline. However, significant delays are
-being observed from each of your respective team/disciplines required to proceed with the snagging
-inspections. Consequently, numerous snagging inspections remain open in ZUTEC; an extract of which is
-attached for information hereto. This shows that at the cut-off date associated with the preparation of
-this Notice (i.e. 31 October 2019), there were 41 inspections outstanding for various disciplines, albeit
-the total number of snags to be inspected amount to 1,400 nos. in total.
-It is for this reason we are raising this E-Notice, to notify you regarding your failure to proceed with the
-inspections and request your prompt action to resolve the matter in order to mitigate such delay and/or
-disruption to the Works. Moreover, while we appreciate ZUTEC is a live system and changes on a daily
-basis, it is imperative any delays on your part / your teams’ part are mitigated in full; otherwise we
-envisage the delays proceeding with snagging inspections will only worsen.
-Consequently, any delay to inspections has to cease forthwith, but in the meantime the effects of delay
-continues to have major ramifications on Room Completion, Snagging and De-Snagging and Defects
-Management. We therefore urge you to proceed with the snagging inspections. This will enable us to
-close the snagging inspections on ZUTEC system including those listed in the attached schedule. This is a
-matter that is wholly avoidable, especially at such a late stage of the Project and is unnecessarily
-delaying us for which we hold you entirely culpable. Considering the volume of inspections needed to be
-
-actioned by you then any acts of prevention on your part will only continue to impact on our ability to
-expedite room completions and conclude our Works throughout the MTB.
-Resultant Impact
-Meanwhile, the various delays and acts of prevention on your part outlined herein, is undeniably
-causing delay and disruption to completion of our Works. Although we consider that MS06B has been
-achieved, to the extent that it is not, which is denied, then the effects of delay associated with the
-matters identified above, will impact upon achievement of Milestone MS06B as well as Milestone
-MS06A. If matters continue then this will invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0098 – Update No. 2
+Delays to the Time for Completion of the Works due to Delays to Receipt of Subsidence
+Works Instructions and Subsidence to Other Areas of the MTB
+Dear Sir
+We refer to our initial Delay Notice No. 0098 issued by way of letter ref: (1), our letter ref: (2) and our
+Update [No. 1 to Delay Notice No. 0098] issued by way of letter ref: (3) and write as follows:
+With reference to the numerous subsidence related Engineer’s Instructions (EI) issued by you to date
+reflected in the schedule attached at Annex A, and in consideration of the delayed, protracted and
+piecemeal manner in which the design of the soil rectification works is being issued to us, then the
+effects of delay arising therefrom will invariably continue to impact upon the Time for Completion.
+The information recorded in Annex A shows that so far you have been responsible in issuing a total of
+twenty-one (21) separate EIs over a period of four months. These consist of eight (8) ‘core’ EIs (i.e. EI
+Nos. 773, 774, 775, 776, 778, 779, 780 and 781). For example, while EI No. 773 was issued on 12 June
+2019, EI No. 781 was not issued until circa two months later i.e. on 15 August 2019. However, we
+further record that each of these eight (8) core EIs have been revised at least once (i.e. EI Nos. 773A,
+774A, 775A, 776A, 778A, 779A, 780A and 781A). However, two EIs have been revised twice (i.e. EI Nos.
+774B and 775B), while one EI has been revised three times (i.e. 773C). Furthermore, the most recent
+revisions for EI No. 775, 776, 780, and 781 have only just been released i.e. mid-October 2019.
+Therefore, not only has the design been issued in a piecemeal fashion over a prolonged period of time
+but the design has been revised on a number of occasions. Accordingly we comment as follows:
+1.
+The late and piecemeal release of the design and subsequent changes to the design of the soil
+rectification works has prevented us from carrying out the works in a timely manner.
+2.
+This has been exacerbated by the fact that the number of grouting points has been subject to
+continuous change, specifically the substantial reduction in grouting points (refer to inter alia Slide No.
+14 of the Chairman’s Meeting & Walk – 06 November 2019; copy attached).
+3.
+The fact that the Employer’s Design Consultant (KPF) has continually changed his design and
+reduced the number of grouting points gives us concern that KPF does not understand the root cause of
+the subsidence. Consequently, this does not give us confidence in his design.
+4.
+For example, in the first version of his design, KPF showed grouting beneath the earthing pits,
+whereas in the latest design these grouting points have been removed. To the extent that these
+earthing pits settle, we will have no responsibility for any direct or consequential losses.
+In addition to the forgoing, and whilst we are clearly not responsible in any way for either the original
+design nor the instructed remediation solutions, we are concerned at the seemingly arbitrary
+delineation between areas being remediated and those that are not. It is our contention that the whole
+of the site has a similar geological composition and accordingly we hereby absolve ourselves from any
+responsibility for any future subsidence that may occur in areas both remediated and un-remediated or
+indeed from any subsidence related issues at the boundary between such areas where, for example
+differential settlement may occur.
 Yours faithfully,

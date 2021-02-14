@@ -1,70 +1,19 @@
-Subject Contractor's Claims Notices
+Subject Delay Notification - MTB External Works
 Dear Sir,
-This has reference to correspondence (1) above, regarding the Contractor's submitted Delay Notices
-and we note that to date we have not received any Time Impact Analyses (TIA's) in order to enable us
-to assess the Contractors' allegations with respect to the alleged delays. We note that without the
-contractually required TIA's for each of the submitted delay notices, and as you are aware, there can
-be no demonstration of the contractual validity of the alleged Employer caused delay events.
-In respect of the above, we summarise in Table 1 below the Contractor's relevant obligations in
-relation to notification and provision of further particulars and information in relation to the prevailing
-Conditions of Contract.
-TABLE 1
-Clause Reference
-27.1.1
-27.1.5
-Description
-Notify the Engineer of an event giving rise to
-an entitlement to any extension of the Time
-for Completion, reimbursement of
-additional Costs, an adjustment to the
-
-Contract Price and or any other costs or
-damages.
-Provide a fully detailed claim including full
-supporting particulars of any extension of
-the Time for Completion, reimbursement of
-additional Costs, an adjustment to the
-Contract Price and or any other costs or
-damages, to which he may consider himself
-entitled in order that such submission may
-be investigated at the time.
-Timescale
-Within 28 days after the
-Contractor becoming aware, or
-should have been aware, of
-such event having first arisen.
-Within 42 days, or such other
-reasonable time as may be
-approved by the Engineer, after
-notification submitted to the
-Engineer
-27.1.5 (b) For ongoing issues, provide interim At intervals of not more than
-particulars of any extension of the Time for monthly.
-Completion, reimbursement of additional
-Costs, an adjustment to the Contract Price
-and or any other costs or damages to which
-he may consider himself entitled.
-27.1.5 (c) For ongoing issues, provide final particulars Within not more than 14 days
-of any extension of the Time for from the end of the effects
-Completion, reimbursement of additional resulting from the event.
-costs, an adjustment to the Contract Price
-and or any other costs or damages to which
-he may consider himself entitled
-27.2.1 Prepare and provide to the Engineer a time Within 28 days after submitting
-impact analysis, demonstrating the effect a claim request, as per 27.1.1
-and consequences of the events and periods
-of delay relied upon.
-In light of the above, we do not consider that the Contractor has complied with their Contract
-obligations in relation to the provision of further particulars and information for any of their submitted
-notices and request that the Contractor comply with the Contract in this regard.
-Further, you are once again reminded that for each separate notified event, the Contractor must
-provide a singular Time Impact Analysis strictly in accordance with the requirements of the Contract,
-to demonstrate the impact, if any, on the Programme's Critical Path at the time of the event or
-circumstance giving rise to a claim in the Contractor's opinion. This must then be followed by a fully
-detailed claim in accordance with the requirements of the Contract, as stated above. The same has
-been requested in correspondence (1) but no action was evidenced.
-Moreover, and in order to avoid any future misunderstanding, we wish to re-confirm that the previous
-unacceptable practice by the Contractor of providing 'Consolidated Delay Analyses' and global claims
-is contrary to the requirements of the contract and will not be accepted.
-
-Yours faithfully,
+We write to record the Contractor's failure to progress the MTB external works in order to meet the
+target completion date of 28 Jun 2019 as per the baseline Programme Rev 11.2.
+The Engineer has repetitively highlighted the MTB external works lack of progress, however, the
+Contractor has not implemented any measures to mitigate their delays. The graph below
+demonstrates the overall negative variance as of 25 May 2019.
+The lack of management and coordination is evident as shown in the attached DAS external works KPI.
+There has been no progress evidenced for over a month and no actions have been taken to recover
+such delays.
+The Contractor has been requested to submit their recovery plan, and detail how they intend to
+complete the external works, and especially without interrupting ORAT trails. This plan was due on 02
+June 2019.
+We reserve the Employers' rights pursuant to Clause 10.3 of the Conditions of Contract for any delays
+which may be caused to the operational trials (ORAT) and to the Project as a result of the Contractors'
+inactions.
+The Contractor is therefore requested to submit a recovery plan for the completion of the MTB
+external works within one week upon receipt of this letter.
+Yours faithfully,

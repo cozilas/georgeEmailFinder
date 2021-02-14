@@ -1,36 +1,74 @@
-Subject: Concurrent Delay
-Dear Mr. Matthews,
-I write in response to reference (1 ).
-The definition of "Concurrent Delay" in the Contract is clear. The Contractor's interpretation of the
-definition is strained and illogical. The definition does not state that both events must be on the
-critical path, nor that the effects of both events must start and/or end at the same time. Where the
-effects of the events start at different times and overlap, it is highly unlikely that the effects will end
-at exactly the same time. There is no logical reason why the effects must do so in order that the
-period of overlap be regarded as a concurrent delay. Had the Parties intended that the effects must
-be critical and start and/or end at the same time, they would have said so in the definition.
-There is no reason to believe that the Parties adopted the treatment of concurrent delay set out in
-the 2002 edition of the SCL Protocol. The Contractor's reliance on the Protocol for present purposes
-is somewhat disingenuous. The Contractor previously stated, when it suited the Contractor to take a
-contrary position, that:
-"In relation to the SCL Protocol, whilst the Protocol outlines its position in relation to the impact of
-concurrent delay on the assessment and award of extension of time and the recovery of any time
-related costs, it also does not define a specific methodology to adopt for the identification and
-quantification of any such concurrent delay.
-Furthermore, neither the AACE International or the SCL Protocol are defined under the Contract and
-reference to such documents by the Engineer simply clouds the issue as neither document gives
-guidance which can be applied to projects of the scale and magnitude of the Midfield Terminal
-Project." (reference 2)
-That text is clear. The Contractor's statement in paragraph (2) of reference (1) that the Employer's
-previous reference to that text was "taken out of contexf' is irrelevant.
-The Employer has not sought to, and does not need to, align any definition of concurrent delay in
-the Abu Dhabi Government Contract (there is none) with the definition in the Contract.
-The Employer reiterates that the English case law is irrelevant to the UAE jurisdiction. In any event,
-it is extremely difficult to reconcile the English decisions with each other, and with decisions from
-other jurisdictions such as Scotland, because each case was concerned with specific issues which
-did not require the judges to express views on concurrent delay as a whole.
-ADAC relies on ADAC's and the Engineer's previous correspondence on this matter. Where ADAC
+Subject Removal and Replacement of the Subcontractors Representative
+Dear Sir;
+We refer to our letter ref {2) dated 25th Sept 2017 which is written as a response to your letter Ref {1)
+dated 13th Sept
 
-has not addressed in this letter any particular issue raised by the Contractor in reference (1 ), that
-should not be taken to indicate that the Employer accepts or agrees with the particular issue in
-question.
+2017 regarding removal and replacement of the Subcontractors representative and update its content
+with the
+reference to your allegations with the followings;
+We once again would like to repeat that our disagreement to your allegations had been discussed in the
+principle meeting held on 23rd Aug 2017 and agreed by your principles to provide necessary proofs,
+justifications, substantiation for all those allegations. However we have not seen any detail, reference
+and/or any project criteria being the ground of your following allegations except some email
+correspondences for the first item.
+Obstructive actions/behaviors that hinders the Progress of the Contract Works The list of Project
+Activities/Objectives hindered due to such actions/behaviors The list of Contractor's instructions that
+the Subcontractor has shown excessive reluctance Particular cases and its consequences where the
+Subcontractor has failed to comply with its contractual obligations as a result of the above
+The cases in those emails have been properly responded within the content of our letter dated 25th Sep
+2017 and the subjects are all timely acted and resolved without causing any disturbance to site
+progresses. On the other hand we pursue our contractual rights for all those cases where we incur
+additional costs and loses through our variation submissions and kindly request your assistance for the
+early determination with sufficient compensation.
+In conclusion once again; Day to day email communications are utilised as obstructive behaviour
+whereas it is the requirement of Sub-Contract Clause 12.11.3 {Cooperation) to report any defects or
+non-conformities to the Contractor in good and sufficient time to enable the Contractor to procure the
+rectification of such works without causing any delay or disruption to the Subcontractor.
+12.11.2 If any part or parts of the Subcontract Works are dependent for their support or execution upon
+work being carried out by any Other Contractors or Other Subcontractors, the Subcontractor shall either
+monitor the carrying out of such work or inspect such work and report any defects or non-conformities
+to the Contractor v in good and sufficient time to enable the Contractor to procure the rectification of
+such works without causing disruption to the subcontractor. Those communications are escalated to a
+level of dispute creating confusion in contractual, commercial and technical issues rather than proper
+regard to the Sub-Contract provoking the communicators Contractor's improper representations in
+those communication not using reasonable endeavors such as to convene formal meetings for amicable
+resolutions for such conflicts in accordance with SubContract Clause 10.2 (Contractor's Personnel)
+10.2 Contractor's Personnel: The Contractor shall use reasonable endeavors to ensure that the
+Employer's
+Personnel, the Contractor's Personnel, the Consultants, Other Contractors and Other Subcontractors on
+the Site:
+a) cooperate with the Subcontractor under clause 12.11 (Cooperation); and
+b) take actions similar to those which the Subcontractor is required to take under clauses 12.14.3(a) to
+12.14.3(c), and under clause 12.24 (Protection of the Environment).
+The Subcontractor has not objected to any of Contractor's instruction however have drawn the
+Contractor's attention to the ambiguities and/or discrepancies that might jeopardize the performance of
+the Subcontractor that eventually would have adverse effect on the project.
+The Subcontractor do not accept to bear the consequences of such inappropriate and inconvenient
+decisions of any of Contractor's Personal and/or Representatives instructing the Subcontractor to
+undertake the obligations of other subcontractor involved in the Project enforced to carry out works out
+of its scope defined under Sub-Contract. Therefore the Subcontractor record Contractor's breach of
+SubContract Clause 9.20.1
+9.20.1 Any amendments to the terms and conditions of the Subcontract shall only be effective if in
+writing
+
+and signed by a duly authorized representative of each Party. Any amendments to the scope of the
+Subcontract
+Works shall be subject to the provisions of clause 20 (Variations and Adjustments).
+Subcontractor Representative had only met with the Employer in meetings at where Contractor
+requested his attendance together with Contractor Representatives. He has never met the Employer
+bypassing the Contractor.
+Once again the above is not the position of Anel's representative but its Anel's position itself and hold
+the Contractor
+culpable for all such inappropriate and inconvenient decisions, its failure to comply with the Subcontract
+Clause 9.20.1
+and Clause 10.2 (Contractor's Personnel) . The Subcontractor reserves its rights for all cost and losses
+that might arise
+due to its consequences in accordance with Sub-Contract Clauses 9.10.4, Clause 16.5 (Extension of
+Subcontract Time
+for Completion), Clause 21.2 (Adjustment to the Subcontract Price, Clause 24.3.1, Item (g) (Contractor's
+Risks), Clause
+27.1 (Subcontractor's Claim)
+We hereby would draw your attention and record that our clarifications have not been responded by
+your side till date
+therefore your allegation are deemed to be totally refuted and closed.
 Yours faithfully,

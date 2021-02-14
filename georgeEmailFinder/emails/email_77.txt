@@ -1,49 +1,124 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 265 [post-SAA8]
-Radioactive Isotope Sources for Walkthrough Metal Detectors and RadSeekers
-Dear Sir
-We refer to our Site Acceptance Test Procedures – RadSeeker, submitted vide the Document Submittals
-referenced at (1) to (3) above, as well as our letter ref: (4) and request you to provide us the Radioactive
-Isotope Sources for the Walkthrough Metal Detector and RadSeeker SAT (Site Acceptance Test)
-activities.
-Federal Authority for Nuclear Regulations (FANR) restricts the provision and usage of such equipment
-(radiation sources). Nevertheless, during the FAT conducted on 20 October 2016 in MTB Wing F Test
-Lab; Employer has provided two of the required radiation sources; Caesium 137 and Californium 252.
-Similarly, the same is required for the SAT activities for the Passenger Baggage Screening Systems (PBSS)
-equipment. The request has already been communicated to the Employer and the Engineer through
-HBSS/PBSS weekly progress meetings, and included in the approved Site Acceptance Test Procedure –
-RadSeeker per DS/0401/13644 Rev. 00 (ref: 3) as well as our letter ref: (4). However, we are unable to
-get a confirmed date for the delivery of the following requisite Radioactive Isotope Sources.
-•
-Caesium 137 (Cs-137)
-•
-Californium 252 (Cf-252)
-•
-Europium 152 (Eu-152) needs
-•
-Barium 133 (Ba-133)
-•
-Cobalt 57 (Co-57)
-Absent these sources we are unable to complete the commissioning of the 4 RadSeekers and 44 WTMDs
-(Walk Through Metal Detectors) due to the unavailability of the Radioactive Isotope Sources.
-We therefore require your immediate attention to this matter.
-Meanwhile, the failure to be provided a confirmed date for the delivery of the above Radioactive
-Isotope Sources constitutes an acts of prevention and/or breaches of Contract on the part of the
-Employer and / or the Employer’s Personnel and / or the Consultants, and as such we accordingly give
-you notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0260
+Unreasonable Status Code 3 comments issued in response to Six out of Fourteen Shop Drawings
+submitted vide SDS/0401/C/0383-01 – Depth of Grout Points above the Diaphragm Wall for Pier 2 –
+Failure to Re-Code Shop Drawings
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to the Time for Completion of the Works due to the
+unreasonable Code 3 comments issued in response to six out of fourteen Shop Drawings issued vide
+SDS/0401/C/0383-01 for Drilling Depth of Grout Points above the Diaphragm Wall for Pier 2; and your
+subsequent failure to re-code the affected Shop Drawings despite our request issued on 5 January 2020.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+Background
+In the period between 17 July 2019 and 27 November 2019, we submitted a total of one hundred and
+fifteen (115) Grouting Layout Shop Drawings [including revisions] under cover of a total of twenty-five
+(25) corresponding Shop Drawing Submittals, in the manner recorded in Annex A1 hereto.
 
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of contract.
-Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
-event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
-Although the genesis of this ‘event’ originated prior the ‘Effective Date’ included in SAA8 (4 September
-2018), this cannot possibly be construed as forming part of the ‘Included Circumstances’ (per Clause
-1.7.4 of SAA8) and will be included within any forthcoming Time Impact Analysis, albeit in recognition of
-the Effective Date included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8
-cannot reasonably be interpreted as requiring the Contractor to absorb delays of unknown (possibly
-unlimited) duration occurring pre/post 4 September 2018, particularly where the resolution of the
-matter causing the delay lies with the Employer. We contend therefore that under the circumstances
-the responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
+We remind you that Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the
+processing time by which you are contractually obligated to respond to our submittals. On the basis that
+each of the Shop Drawings Submittals set out in Annex A1 are shown to be between Rev. 00 and Rev. 2
+and higher, then they ought to have been responded to by you 21, 14 and 7 calendar days later. Even
+though all the submittals have been responded to, we note your responses were returned up to 57
+calendar days later than the review period expressly stipulated in Specification Section 013300.
+SDS/0401/C/0383 Rev-00
+The twenty-five (25) Submittals introduced above, included SDS/0401/C/0383 Rev-00 submitted on 15
+October 2019 requesting approval of fourteen (14) Shop Drawings, associated with the drilling depth of
+grout points above the diaphragm wall located at Pier 2, albeit of the Shop Drawings are entitled ‘Airside
+Civil Work Soil Improvements grouting Layout Plan For Sewer Manhole & Pipe at Pier 2’.
+All fourteen (14) Shop Drawings issued under SDS/0401/C/0383 Rev-00 were subsequently approved by
+you / NACO classified as Status Code-2 on 7 November 2019. It is important to stress at this juncture
+that no comments were made by you / NACO regarding the drilling depth of the grout points above the
+diaphragm wall. As a result, the works commenced on site and the drilling of the grout points was
+undertaken in accordance with the approved grout points reflected upon the approved Shop Drawings.
+SDS/0401/C/0383 Rev-01
+Further to which, we proceeded with updating our Shop Drawings taking cognisance of the omitted
+grout points around the crossing services and earth pits as agreed during our meetings / discussions
+based on Bulletin 262.2. These were submitted for your approval on 27 November 2019 vide Shop
+Drawing Submittal No. SDS/0401/C/0383 Rev. 01. You subsequently responded on 30 December 2019.
+However, out of the fourteen (14) Shop Drawings we submitted, eight (8) were returned Status Code 2,
+while the remaining six (6), were classified Status Code-3. The affected Shop Drawings are:
+1.
+Shop Drawing No. 401-JV-C-09-SR-8.00-TSEX-SD-018 Rev. 00
+2.
+Shop Drawing No. 401-JV-C-09-SR-8.21-TSEX-SD-001 Rev. 00
+3.
+Shop Drawing No. 401-JV-C-09-SR-8.21-TSEX-SD-002 Rev. 00
+4.
+Shop Drawing No. 401-JV-C-09-SR-8.21-TSEX-SD-003 Rev. 00
+5.
+Shop Drawing No. 401-JV-C-09-SR-8.22-TSEX-SD-001 Rev. 00
+6.
+Shop Drawing No. 401-JV-C-09-SR-8.50-TSEX-SD-006 Rev. 00
+We note that the above Shop Drawings had been rejected on the basis of the following comment
+annotated thereupon (reproduced in Figure 1 bellow) relating to the drilling depth on the top of the
+diaphragm wall.
+Figure 1 – Status Code 3 Comments Issued in Response to
+Shop Drawing Nos. 401-JV-C-09-SR-8.00-TSEX-SD-018 Rev. 00, 8.21-TSEX-SD-001 Rev. 00, 8.21-TSEX-SD002 Rev. 00, 8.21-TSEX-SD-003, Rev 00, 822-TSEX-SD-001 Rev.00 and 8.50-TSEX-SD-006 Rev. 00
+However, considering the fact that the exact same Drilling Depths listed as “Drilling Depth from Ground
+Level (+17.9m)” were previously included in all fourteen (14) of the Shop Drawings submitted to you
+vide SDS/0401/C/0383 Rev. 00 and had been approved Status Code 2, we consider the Status Code 3
+rejection comments reproduced in Figure 1 above, are unreasonable. Unfortunately, this issue has now
+developed into a more complex matter, since the drilling works have been completed on site by us,
+based on the ‘Drilling Depths’ previously approved by you / NACO as per SDS/0401/C/0383 Rev. 00.
+In addition, we also note that prior to issuing SDS/0401/C/0383 Rev 00 and SDS/0401/C/0383 Rev 01,
+we raised RFI/0401/17238 on 25 June 2019 seeking a clear direction from you / NACO regarding the
+located / clash point on top of the diaphragm wall, in the manner shown in Figure 2 below.
+Figure 2 – Submitted RFI/0401/17238
+
+We requested a response to RFI/0401/17238 by 2 July 2019. However, you failed to responded until 15
+calendar days later on 17 July 2019. Notwithstanding the prolonged period taken by you in providing a
+reply, the Employer’s Design Consultant (KFP) advised of the following (refer to Figure 3):
+Figure 3 – KPF’s Response to RFI/0401/17238
+Interestingly, none of the comments provided by KPF in response to RFI/0401/17238 reproduced in
+Figure 3, mentioned converting the grout points on top of the diaphragm wall, to be vertical; which has
+since been suggested in the Status Code 3 comments responding to SDS/0401/C/0383 Rev 01.
+We further record that attached to RFI/0401/17238 were a series of IFC Drawings which have been
+previously revised in many Bulletins, clearly indicating that the grout points shall be terminated 500mm
+above the pile caps and the existing structures; all of which have been followed to identify the required
+drilling depth on top of the diaphragm wall, since it is an existing underground structure.
+In addition, we would like to draw you attention, to the diaphragm wall which is located all around the
+perimeter of the Central Processor (CP) building, not only at Pier 2, and note that all shopdrawings for
+other Piers i.e. P3 and P4 have not been commented in the same manner as per your SDS/0401/C/0383
+Rev-01 comments, regarding the drilling depth on top of the diaphragm wall.
+Accordingly, the grout works to Pier 2 have been completed based on the approved Shop Drawings and
+after of circa two (2) months of construction works, most of the grout points have been completed.
+In view of the above, we remind you that it is the Employer’s Design Consultant responsibility to provide
+a clear direction in regards to any changes to the grout points type (either vertical or inclined), not the
+‘Contractor’ as alluded to in the Code 3 comments annotated on the 14 rejected Shop Drawings vide
+SDS/0401/C/0383 Rev-01 (see Figure 1) and in response to RFI/0401/17238 (see Figure 3 above).
+In this regard, and as advised many times previously, we reiterate that we are not the designers for this
+Project, the Employer’s Design Consultant is. Consequently, we accept no liability or responsibility for
+any inconsistencies in the Design; neither do we accept any responsibility for overcoming any
+inconsistencies in the Design; this remains firmly with the Employer’s Design Consultant.
+Therefore, in view of the events and circumstances outlined above and also explained within our email
+dated 5 January 2020 [Sunday 10:32 AM] a copy of which is attached at Annex A2 hereto, we maintain
+that the Status Code 3 comments annotated on six (6) out of the fourteen (14) Shop Drawings attached
+to the response to Shop Drawing Submittal No. SDS/0401/C/0383 Rev-01, are unreasonable. Despite
+urging you by way of our e-mail issued four months ago on 5 January 2020, to re-code the affected Shop
+Drawings, you failed to do so. In fact, you failed to provide any reply to our e-mail. Accordingly we urge
+you once again to immediately re-code the six Shop Drawings to a minimum of Status Code 2.
+However, in the event you wish to instigate changes to the grouting points and drilling depth on top of
+the diaphragm wall in the manner suggested in your response to SDS/0401/C/0383 Rev-01, you will
+need to issue an Engineer’s Instruction accompanied by revised IFC Drawings reflecting such change.
+This is on the basis that SAA8 laid down strict guidelines to follow if additional works are required and
+this change / additional variation works will warrant issuance of a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+Moreover, the express provisions of Clauses 2.29 to 2.31 of SAA8 are patently clear: We are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first.
+Therefore, until such time as you take the necessary action required of you in accordance with the
+provisions of SAA8 Clause 2.29, we are unable to proceed with implementing the changes noted above
+and will continue to proceed in accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

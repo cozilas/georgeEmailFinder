@@ -1,144 +1,215 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0131
-Unreasonable WIR Code 3 Comments Rejecting the Mock-up for XD1 Lighting Fixtures requesting
-changes to the Ceiling Roses and GI Boxes
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0135
+Engineer’s Response to RFI/0401/16984 – Multiple Changes to 17 Doors and Door Hardware Sets to
+Offices and Lounges to CP L2.1, L3.0, L3.1 and L3.2 – Request for Engineer’s Instruction (RFEI) and
+Variation Order (VO)
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern delays to the Works due to your unreasonable Status Code 3
-comments issued in response to WIR-ELEC-66175-Z, rejecting the Mock-up for Type XD1 Lighting
-Fixtures and insisting upon unfounded changes to the Ceiling Roses [regarding the IP Rating].
+The matters described in Annex A concern delays to completion of the Works due to multiple changes to
+the Door Hardware sets and other technical requirements to 17 doors introduced through workshops
+and the response to RFI/0401/16984, that require a valid EI and VO for us to proceed.
 Potential Impact
-
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-In or about August 2019, we submitted Work Inspection Request (WIR) Ref: ELEC-66175-Z requesting
-the final inspection and approval for the Mock-up installation of Lighting Fixture Type XD1 at CSP L0.0
-External area 5.26 D. You returned WIR Ref: ELEC-66175-Z classified Status Code 3 ‘Revise & Resubmit’
-on 21 August 2019; the primary basis of which is reflected by the following comment:
-‘The installation of the GI boxes with the related ceiling roses is not complying with the IP rating
-requirements for the external installations, the Contractor to rectify this installation and to reflect any
-changes in an approved RLM drawings [sic] prior resubmitting this WIR.’
-For the reasons outlined as follows, it is our contention that this comment [and hence the Status Code 3
-rejection of WIR ref ELEC-66175-Z] is not only unreasonable but totally unfounded.
-The installation detail of Lighting Fixture Type XD1 [as shown on inter alia Shop Drawing No: 401-AN-E07-GE-0.00-LT-SD-110] consists of various components; including without limitation the following:
-1.
-Lighting Fixture Type XD1; and
-2.
-Ceiling Rose.
-In relation to the Lighting Fixture Type XD1, we acknowledge that as per Specification Section 265120
-(‘Architectural Front of House Lighting’) the IP [Ingress Protection] requirement for the ‘Ceiling recessed
-fixed downlight’ (Lighting Fixture Type XD1) is shown to be ‘IP66’, which essentially means that the Type
-XD1 Lighting Fixture is weatherproof (i.e. watertight, waterproof and dustproof). However, Specification
-Section 265120 fails to provide any information that defines the Ceiling Rose IP rating; neither does it
-provide information or any cross references in support of any requirement for the Ceiling Rose to be IP
-rated. If you had any concern on the IP rating of the Ceiling Rose, or you wished to instigate changes to
-the Installation Detail of Lighting Fixture Type XD1, then you had every opportunity in advising us prior
-to releasing the response to WIR ref ELEC-66175-Z on 21 August 2019. One such opportunity was in
-response to the Ceiling Rose Material Submittals.
-Specifically, on 21 January 2014 we issued Material Submittal No. MS/0401/E/0097 Rev. 00 seeking your
-review and approval of the Ceiling Rose; which you responded to on 17 February 2014 albeit endorsed
-Status Code 4 ‘rejected’; on the grounds the material was to match the raceway material. This was
-subsequently followed by the submission on 7 April 2014 of a revised submittal, namely Material
-Submittal No. MS/0401/E/0123 Rev. 00, which was returned Status Code 2 on 30 April 2014. Details
-pertaining to the submission and responses to both submittals are shown in Table 1 below.
-This demonstrates to us that you had every opportunity to raise any concerns on the Ceiling Rose IP
-rating in 2014; not only on one occasion, but on two separate occasions but you failed to do so.
-Table 1
-Submittal Ref Rev.
-Description
-Submission Date
-Response Due Date
-Response
-Received
-Status
-MS/0401/E/0097
-00
-Ceiling Rose
-21-Jan-14
-11-Feb-14
-17-Feb-14
-Code 4
-‘Rejected’
 
-MS/0401/E/0123
-00
-Ceiling Rose
-07-Apr-14
-28-Apr-14
-30-Apr-14
-Code 2
-‘Exceptions as Noted. Revise & Resubmit for Record’
-As noted in Table 1, you responded to MS/0401/E/0123 on 30 April 2014 classifying our revised
-Submittal for the Ceiling Rose as Status Code 2 together the following comment [emphasis added]:
-“Code 2 - We take no exceptions to proposed material. Comply [with Abu Dhabi Wiring Regulations]
-ADWR regulations and install as per approved shopdrawing details. Ceiling Rose where exposed to view
-should be white (RAL9016).”
-Our shop drawing for the installation of Lighting Fixture Type XD1 i.e. Shop Drawing No: 401-AN-E-07GE-0.00-LT-SD-110 Rev 01, was issued to you on 8 August 2018 vide Shop Drawing Submittal Ref:
-SDS/0401/E/1099 Rev. 01, which you returned Status Code 2 on 20 August 2018 (refer to Table 2).
-Table 2
-Submittal Ref Rev.
-Description
-Submission Date
-Response Due Date
+ANNEX A
+Description of the Event
+As you are aware, during the early part of this year, a series of workshops were held in order to resolve
+various discrepancies in design documents issued by you relating to doors, door hardware and
+associated systems. However, it was during these workshops, when discussing the Employer’s
+requirements that we were informed that the technical information/requirements to numerous doors
+had changed compared to previously issued information. We have already written to you on this,
+including amongst others, our letter ref MTB/TCA/AECOM/L/014536, dated 8 July 2019 (ref: 1).
+As part of the process of seeking your confirmation of the agreements made during these workshops,
+we raised RFI/0401/16984 Rev. 00 on 27 March 2019 in the manner shown in Table 1 below, having
+identified changes in functionality to 17 nos. of [outstanding] doors to the Offices and Lounges. In order
+to assist you with confirming such change, we attached a comprehensive schedule listing all 17 nos. of
+doors identifying the changes to each, together with a series of [revised] Hardware Sets.
+Table 1
+Date Submitted RFI Ref: Rev
+Description of Contents Reply Req’d By Date
 Response
 Received
-Status
-SDS/0401/E/1099
-01
-Shop Drawing No: 401-AN-E-07-GE-0.00-LT-SD-110 Rev. 01
-‘Typical Lighting Detail Plan Lighting Fixture Type L2C, Xd1, Xl1, Xl3 Sheet 110’ 08-Aug-18
-22-Aug18
-20-Aug-18
-Code 2 ‘Exceptions as Noted. Revise & Resubmit for Record’
-As per the approved Shop Drawing, the installation of XD1 Lights (IP rated) shows the Ceiling Roses, GI
-Boxes and Driver Ballasts (refer to Figure 1 below) [all of which are non IP rated devices] mounted to the
-lighting tray, with no comments annotated thereupon concerning the IP rating of the devices.
-Figure 1 – Installation detail of Lighting Fixture Type XD1
-Extract from Shop Drawing No. 401-AN-E-07-GE-0.00-LT-SD-110 Rev. 01
-We proceeded to “install ... [Lighting Fixture Type XD1, Ceiling Roses, GI Boxes and Driver Ballasts] … as
-per approved shopdrawing details” in their intended locations on site in accordance with your
-comments issued in reply to SDS/0401/E/1099 Rev. 01. Given that the lighting detail complies with the
-Contract requirements based on the Design information supplied by you (i.e. IFC Drawings and
-Specifications), and Material and Shop Drawings Submittals approved by you, we are appreciably
-perturbed to now be informed that “the related ceiling roses is [allegedly] not complying with the IP
-rating requirements for external installations…”; and that you require them to be ‘rectified’.
-Your Status Code 3 commented response to (WIR) Ref: ELEC-66175-Z was issued on 21 August 2019. This
-is one year after you approved Shop Drawing No: 401-AN-E-07-GE-0.00-LT-SD-110 Rev. 01 (Table 2
-refers), and five+ years after you approved MS/0401/E/0123 Rev. 00 (refer to Table 1).
-In view of the various circumstances summarised above, your comments are not only mistimed, but
-unreasonable and without merit. You have also failed to take cognisance of the ramifications on the
-project if you insist on instigating any changes – particularly at such a late stage of the Project.
-Specifically, should you require IP rated requirements, then all of the Ceiling Roses [of which there are
-100s] will have to be replaced with IP rated boxes with terminal blocks inside. In addition, all of the
-Driver Ballasts will have to be encased in IP rated boxes to ensure consistency. In this regard we note
-that the ‘Dimming & Type’ of the Driver Ballasts as per Specification Section 265120, is identified to be
-‘Dali and remote’ respectively. Hence, the Ballasts will also have to be replaced as per your requests
-and must be separated/remote from the rest of the devices as indicated in the Specification.
-Consequently, we record that your comments affect hundreds of installed Ceiling Roses, GI boxes and
-Driver Ballasts at numerous locations in the Project, all of which would require replacing. This is
-notwithstanding the immense amount of disruption that would be caused to completed works.
-In order for us to undertake and instigate changes such as those noted herein, we will require fully
-coordinated revised IFC Drawings encapsulating the changes introduced in your WIR response, and
+Overdue By
+27-Mar-19
+RFI/0401/16984
+00
+17 nos. Outstanding Door Workshop for Offices and
+Lounges
+CP, Level L2.1, L3.0, L3.1 and L3.2
+09-Apr-19
+18-Apr-19
+9 days
+Despite us requesting that you reply to RFI/0401/16984 Rev. 00 by 9 April 2019, you failed to respond
+until 9 calendar days later i.e. on 18 April 2019 (see Table 1 above). Moreover, notwithstanding the fact
+that 2 out of the 17 doors were deleted and the remaining 15 doors were due to be re-fabricated due to
+the changes introduced during the earlier workshops, we are perturbed to note that within your
+response to RFI/0401/16984 Rev. 00 you have yet again sought to introduce changes; these represent
+wholescale changes that fundamentally alter the door, fire rating and door hardware sets.
+Indeed, your response to RFI/0401/16984 reads as follows:
+“…. The 17 doors will have an updated hardware sets as per the workshop notes based on coordination
+of smoke extraction and door functionality [requirements]. Refer to the attached mark-up for additional
+notes – Design coordination.”
+As noted, attached to your response was a marked up version of the schedule mentioned above,
+reflecting the ‘additional notes’ i.e. the further revisions required to all 17 doors (Table 2 refers):
+
+Table 2
+Item Door Workshop Remarks [as recorded in the schedule attached to RFI/0401/16984] KPF
+Comments [annotated on the schedule attached to the RFI/0401/16984 response]
+1
+88-C-L30-0770.02
+Door confirmed deleted Noted
+2
+88-C-L30-0131.01
+Changes to HW Set 815-1 from HW Set 411A-4. Re-fabrication is
+required. Clear height to be coordinated with the Ceiling height Agreed to the updated/coordinated
+hardware set. Change in height, HW set
+3
+88-C-L30-0136.01
+Door confirmed deleted Noted
+4
+88-T-L30-0341.01
+Changes confirmed. Door type changed to DL-1 from DL-3, with
+modified HW Set 411A-4. Handing is RHR. Re-fabrication is required. Clear height to be coordinated with
+the ceiling height.
+Agreed to the updated/coordinated hardware set. Change in door type, width,
+height, handing, power assist from No to Yes; HW configuration changes (exit device changes to push
+pull bars, maglock, power operator config, sensor added)
+5
+88-C-L30-2557.01
+Changes confirmed with modified HW Set 411A-3. Handing is LHR. Refabrication is required. Clear height to be coordinated with the ceiling elevation on site. Agreed to the
+
+updated/coordinated hardware set. Change in handing, power assist from No to Yes; HW configuration
+changed (power operator config, sensor added)
+6
+88-C-L30-2562.01
+Changes confirmed. Door type changed to DL-1 from DL-3 with modified
+HW SET 411A-4. Door handing is LHR. Re-fabrication is required. Clear height to be coordinated with the
+ceiling elevation on site.Agreed to the updated/coordinated hardware set. Change in door type, width
+handing, power assist from NO to YES; HW configuration changed (exit device changed to push pull bars,
+maglog, power operator config, sensor added)
+7
+88-T-L31-0155.03
+Changes confirmed with modified HW SET 423-5. Door handing is RHRA.
+Re-fabrication is required. Clear height to be coordinated with the ceiling elevation on site.
+Agree
+for change. Changed in power assist from NO to YES; HW configuration changed (power operator config,
+sensor, magnetic lock added)
+8
+88-T-L31-0212.01
+Changes confirmed with modified HW Set 411A-3. Door handing is RH.
+Re-fabrication is required. Clear height to be coordinated with the ceiling height.Agreed
+to
+the
+updated/coordinated hardware set. Changed in power assist from NO to YES; HW configuration changed
+(power operator config, sensor added)
+9
+88-C-L32-0016.01
+Changes confirmed with modified HW Set 411A-3. Door handing is LHR.
+Re-fabrication is required. Clear height to be coordinated with the ceiling height.Agreed
+to
+the
+updated/coordinated hardware set. Changed in power assist from NO to YES; HW configuration changed
+(power, operator config, sensor added)
+10
+88-T-L32-0017.01
+Changes confirmed with modified HW Set 411A-3. Door handing is LHR.
+Re-fabrication is required. Clear height to be coordinated with the ceiling height.Agreed
+to
+the
+updated/coordinated hardware set. Changed to power assist from NO to YES; HW configuration
+changed (power operator config, sensor added)
+11
+88-C-L30-0173.03
+Changes confirmed with modified HW Set 323C-1. Door handing is
+LHRA. Re-fabrication is required. Clear height to be coordinated with the ceiling elevation on site.
+Agreed to the updated/coordinated hardware set. Introduced new HW set (HW was never been
+used before). DEED reconfigured, cylinder and core, auto flushbolt, dust proof, coordinator, surface
+closer, PTV, silencers added
+12
+88-C-L30-0178.01
+Changes confirmed with modified HW Set 323C-1. Door handing is
+RHRA. Re-fabrication is required. Clear height to be coordinated with the ceiling elevation on site.
+Agreed to the updated/coordinated hardware set. Introduced new HW set (HW was never been
+used before). DEED reconfigured, cylinder and core, auto flushbolt, dust proof, coordinator, surface
+closer, PTV, silencers added
+13
+88-C-L30-0184.01
+Changes confirmed with modified HW SET 323C-1. Door handing is
+LHRA. Re-fabrication is required. Clear height to be coordinated with the ceiling elevation on site.
+Agreed to the updated/coordinated hardware set. Introduced new HW set (HW was never been
+used before). DEED reconfigured, cylinder and core, auto flushbolt, dust proof, coordinator, surface
+closer, PTV, silencers added
+14
+88-C-L30-0189.01
+Changes confirmed wit modified HW Set 323C-1. Door handing is RHRA.
+Re-fabrication is required. Clear height to be coordinated with the ceiling elevation on site.
+Agreed
+to the updated/coordinated hardware set. Introduced new HW set (HW was never been used before).
+DEED reconfigured, cylinder and core, auto flushbolt, dust proof, coordinator, surface closer, PTV,
+silencers added
+15
+88-C-L30-0495.01
+Changes confirmed with modified HW Set 323C-2. Door handing is
+RHRA. Re-fabrication is required. Clear height to be coordinated with the ceiling on site. Agreed to the
+updated/coordinated hardware set. Introduced new HW set (HW was never been used before). DEED
+reconfigured, cylinder and core, auto flushbolt, dust proof, coordinator, surface closer, PTV, silencers
+added
+
+16
+88-C-L21-0051.01
+Changes confirmed with modified HW Set 411A-3. Door handing is RHR.
+Fire Alarm is required. Re-fabrication is required. Clear height to be coordinated with the ceiling
+elevation on site.
+Agreed to the updated/coordinated hardware set. Changed in fire alarm from
+NO to YES, power assist from NO to YES; HW configuration changed (power operator config, sensor
+added)
+17
+88-C-L30-0112.01
+Changes confirmed with modified HW Set 411A-3. Door handing is RHR.
+Fire alarm is required. Re-fabrication is required. Clear height to be coordinated with the ceiling
+elevation on site.
+Agreed to the updated/coordinated hardware set. Changed in height, fire alarm
+from NO to YES, power assist from NO to YES; handing to be LHR per BP 50
+In summary, out of 17 Doors:
+•
+2 Doors – Deleted
+•
+15 Doors – Re-fabrication/new doors required; out of which:
+o
+9 Doors – Changes on HW set on Door Operator per requirement of the Engineer on Smoke
+extraction on Building offices 2 changes on Door Type, from DL-3 to DL-1)
+o
+6 Doors – Changes on HW set due to Hardware functionality into the door.
+In order for us to undertake and instigate changes such as those noted above, we will require fully
+coordinated revised IFC Drawings encapsulating the changes introduced in your RFI response, and
 further remind you that SAA8 laid down mandatory procedures to be followed if additional works are
 required, in so far as an EI and VO are needed for us to proceed with the aforementioned changes.
-
-The provisions of Clauses 2.29 to 2.31 of SAA8’ pertaining to Variations are clear; we are not to proceed
+The provisions of Clauses 2.29 to 2.31 of SAA8 pertaining to Variations are clear; we are not to proceed
 with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
 respect, it is your obligation to issue this Record first if you wish to instigate change; this is only after the
 additional time and/or costs impacts have been agreed between us beforehand.
 Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
 we are unable to proceed with implementing the changes noted above and will continue to proceed in
 accordance with the existing IFC design to the extent we are able to. We trust this is clear.
-Meanwhile, give the unreasonable nature of your Status Code 3 comments issued in response to WIR
-Ref: ELEC-66175-Z, we request that you immediately re-code it to a minimum of Status Code 2.
+We once again take this opportunity in reminding you that the responsibility under the Contract for the
+design of doors and the integration of those parts of the Works which are intrinsically linked to the
+doors, including hardware, security access control system, power supply and the like, lies with the
+Employer. Our responsibility is to follow with due diligence the Drawings and Specifications, and it is our
+position that we have discharged, and continue to discharge, this obligation with the necessary
+expertise, care and skill that could reasonably be expected from an experienced contractor.
+Potential Impact:
+We note that the foregoing events and/or circumstances may delay completion of the works and your /
+Employer’s Design Consultant’s requirements to introduce fundamental changes to the doors and door
+hardware sets, such as those outlined above, particularly at such a late stage of the Project, will
+invariably impact on our ability to obtain the Building Completion certificate (BCC)
+This is essential to achieving Milestone MS09B and may impact MS09C (Substantial Completion).
 Yours faithfully,

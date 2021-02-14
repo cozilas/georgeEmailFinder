@@ -1,222 +1,125 @@
-Subject:Clause 27.1.5(a): Interim Particulars of the Basis of Claim
-Delay Notice No. 1127 – Delays to the Passenger Boarding Bridge Installation and
-Cladding of the Gatehouses and Fixed Link Bridges due to Employer’s Other Contractor (L&T)
+Subject:
+Sector 5.18 & 5.23
+
+Letter of Justification of Concrete Lid Slab under Escalators and Stairs at CP L2.0
+
 Dear Sir,
-Further to Delay Notice No. 1127 (letter ref: 3), the Contractor hereby submits fully detailed interim
-supporting particulars of the basis of claim in accordance with Conditions of Contract Sub-Clause
-27.1.5(a).
-1.0
-Basis of Claim
-Background
-1.1
-According to Conditions of Contract (CC) Clause 12.12 (‘Other Contractors’) and in particular,
-Sub-Clause 12.12.1, the Contractor agrees that its access to the Site of the Works is not exclusive and
-that Other Contractors may perform work on the Site concurrently with the Works.
-1.2
-Accordingly CC-12.12.2, places a contractual obligation upon the Contractor to ensure that it
-shall:
-“(a)
-cooperate with the Other Contractors to ensure the coordination of the work of the Other
-Contractors with the execution of the Works including timeframes, programmes and schedules for
-completion of the Works;
-(b)
-take such actions as are necessary to facilitate the works of Other Contractor, including
-providing Other Contractors with access to all essential services and amenities and any places where
-work is being carried out or materials are being prepared and stored; and
-(c)
-Take such actions as are necessary not to delay or disrupt any Other Contractor.
-1.3
-On this basis therefore, it is reasonable to assume the Employer has placed reciprocal
-contractual obligations upon its MTA Contractor to cooperate with the MTB Contractor and take such
-actions as are necessary to facilitate the works of the MTB Contractor, including providing the MTB
-Contractor with access to any places where work is being carried out; and to coordinate its works so as
-not to obstruct, disrupt or delay work being performed by the MTB Contractor.
-1.4
-In the event however, the MTB Contractor’s PBB and cladding installation works continue to be
-impacted, as a result of L&T’s failure to complete its works in a timely manner.
-1.5
-It is this that represents the basis of claim outlined below.
-Chronology of Delays
-Background
-1.6
-In addition to the cladding works of the MTB and Piers, the Roofing Works subcontractor
-‘Chadwick’ was required to install the external cladding to all Gatehouses and Fixed Link Bridges.
-However, prior to doing so, the Passenger Boarding Bridges had to be installed by ThyssenKrupp, which
-required access to the areas where the Employer’s Other Contractor (i.e. ‘L&T’) were undertaking
-ground works. All such dates were contained within the Rev. 10.4 Programme. In respect of the issues
-contained within this submission, the Contractor reproduces the associated Activities for Gatehouses 3,
-4, 19, 20 and 21 in Tables 1.1 to 1.10 hereunder:
+With reference to the above subject and the emails enclosed herewith requesting us to provide further
+explanation on the matter; we hereby provide the history of events associated with the works as per the
+subject matter:
+•
+Based on the Design as per IFC Drawings series ‘G’, the works for fire compartmentation under
+the escalators and stairs at CP L2.0 Sector 5.18 & 5.23, consist of a 2-hour fire resistance rating. The IFC
+Drawings however, do not specify the type of material or system to be used for the 2-hour fire
+resistance rating (i.e if it is a lid system with gypsum or concrete or any other material or any other
+system);
+•
+As a result, due to the inefficiencies in the Design and the incomplete information provided to
+us in the Contract, we raised the RFI referenced (1), requesting more clarity in regards to the 2-hour fire
+resistance rating to be constructed, at the mentioned locations;
+•
+Specifically, with RFI 7941 we requested clarity on:
+(i)
+how the drywalls under the escalators and stairs will be structurally supported on the top; and
+(ii)
+what are the exact compartmentation requirements within the drywalls under the escalators
+and stairs.
+•
+In accordance with the Fire Strategy Report [Volume 3 of 4 DESIGN REPORTS Book 20 of 24], a 2hour fire resistance rated system must be constructed under the escalators and stairs. As stated above,
+the IFC drawings do not provide details in regards to the system and material to be used. Therefore, the
+mentioned RFI was raised to provide more clarity on the Design. In the said RFI, we also requested the
+Engineer to issue IFC drawings based on the requirements accordingly;
+•
+The Engineer responded to the RFI indicating a 2-hour fire resistance rated gypsum lid system,
+with steel structural framing, as shown in the drawing ‘ASK 1782’, attached in RFI 7941 (also enclosed
+herewith). Please note that the system shown in the drawing ‘ASK 1782’ has never been issued to us as
+an official Engineer’s Instruction (EI). Also, the Engineer responded to our comments about the
+structural support on top of the drywalls by clarifying that the drywalls must be extended to the
+underside of the fire rated ceiling below the escalators;
+•
+We note that RFI 7941 was issued and was responded incorporating information only for the
+escalators and stairs at CP L2.0 Sector 5.23. We also note that the escalators and stairs at CP L2.0 CP
 
-Table 1.1 – Gatehouse 3 PBB Installation
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DCPGHCDV145501120 GH03 - STR - PASSENGER BOARDING BRIDGE STAND 643 (3 PBB's)
-16/08/2018
-04/10/2018
-Table 1.2 – Gatehouse 3 External Cladding
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DCPGHEDV85532050 GH03 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
-BRIDGE 16/10/2018
-12/11/2018
-Table 1.3 – Gatehouse 4 PBB Installation
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DCPGHCDV145511120 GH04 - STR - PASSENGER BOARDING BRIDGE STAND 642 (3 PBB's)
-16/08/2018
-04/10/2018
-Table 1.4 – Gatehouse 4 External Cladding
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DCPGHEDV85532060 GH04 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
-BRIDGE 01/11/2018
-29/11/2018
-Table 1.5 – Gatehouse 19 PBB Installation
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DP2GHCDV142501610 GH19 - PASSENGER BOARDING BRIDGE STAND 627 (2 PBB's)
-15/08/2018
-18/09/2018
-Table 1.6 – Gatehouse 19 External Cladding
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DP2GHEDV82512420 GH19 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
-BRIDGE 19/09/2016
-03/11/2018
-Table 1.7 – Gatehouse 20 PBB Installation
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DCPGHCDV145531060 GH20 - STR - PASSENGER BOARDING BRIDGE STAND 626 CODE E (2
-PBB's) 01/09/2018
-01/10/2018
-Table 1.8 – Gatehouse 20 External Cladding
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DCPGHEDV85532090 GH20 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
-BRIDGE 16/10/2016
-16/12/2018
-Table 1.9 – Gatehouse 21 PBB Installation
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DP3GHCDV143501480 GH21 - PASSENGER BOARDING BRIDGE STAND 625 (2 PBB's)
-08/08/2018
-10/09/2018
-Table 1.10 – Gatehouse 21 External Cladding
-Item Activity ID
-Description
-Start Date
-Finish Date
-1
-DP3GHEDV83512340 GH21 - STR - EXTERNAL CLADDING ACP TO GATEHOUSE & FIXED LINK
-BRIDGE 10/08/2016
-17/09/2018
-1.7
-Based on the foregoing, access should have been provided to ThyssenKrupp between 8 August
-2018 and 1 September 2018, which would then allow Chadwick to commence external cladding works
-with completion between 17 September 2018 and 16 December 2018.
-1.8
-However, as a result of L&T’s delayed works, these dates could not be achieved.
-Chadwick Letter ref: 733
-1.9
-As a result of the delays caused by the Employer’s Other Contractor (L&T); on 5 September
-2018, the Contractor received letter ref: 1 from Chadwick. Therein, it was recorded that the five
+Sector 5.18 have similar function with the escalators and stairs of Sector 5.23. However, the Engineer
+did not specify in its RFI response about the requirements of the 2-hour fire resistance rating at Sector
+5.18;
+•
+Subsequently to the RFI response, we had meetings for Briefing Pack (BP) 12 and 16, where we
+discussed the requirements for the 2-hour fire resistance rated system and we requested further
+clarification for the system required at Sector 5.18;
+•
+During the BPs mentioned above, we were provided with sketches ‘ASK 3184 BP 16 (Sheet 02 of
+03)’ enclosed herewith, which also show a 2-hour fire rated lid system under the escalator and stairs at
+sector 5.18, but did not provide any information on the material to be used;
+•
+It is a common practice between the parties during the BPs, to jointly sign sketches which are
+then subsequently used for implementation of the works on site. In this case during BP 12 and 16, we
+did not sign any sketch. As per the Engineer’s explanation during the meeting, a new Bulletin would be
+issued, providing an Engineer’s Instruction for these works accordingly;
+•
+We put on record that Bulletin 218 (B218) which was issued after the BPs 12 and 16, did not
+include any drawings or further information as previously informed by the Engineer, for the 2-hour fire
+rated lid system. We enclosed herewith, the Minutes of Meeting of 3rd November 2016, where this
+issue was discussed and as seen in item 40, the Engineer stated that “-all other outstanding arch
+sketches mentioned in the above list dated 160816 (except the 3 nos Gas and downstand) will be issued
+in a new bulletin”. Please note that the sketches mentioned by the Engineer in the above MoM, are yet
+to be received.
+•
+In addition, please note that the Design of the Glass Reinforced Concrete (GRC) Arrival tunnel
+shown in IFC drawing ref ‘MTC A 07 TB L 00. 456.00’ from Level 3 to Level 1, does not indicate any
+structural support for the GRC tunnel, apart from the structural slab on level 2. As per the IFC Drawings,
+we note that the only support for the GRC’s structural load (which is significantly heavy), would be from
+the lid system to be constructed, under the escalator and stairs. Therefore, it is an undisputed fact that a
+lid system incorporated by gypsum material, would not have been sufficient to take the structural load
+of the GRC tunnel;
+•
+For the reasons stated above, we had further meetings with the Employer, where it was agreed
+to proceed with a 2-hour fire rated concrete instead of a gypsum material in both locations at CP L2.0
+Sector 5.18 and 5.23. The main reasons which a decision was taken by the parties to proceed with a
+concrete solution, for the 2-hour fire rated lid system instead of gypsum as initially discussed in RFI
+7941, are the following:
+(i)
+due to the significant heavy load of the GRC arrival tunnel which would be supported by the
+concrete lid system under the escalators and stairs;
+(ii)
+the works have been expedited using concrete instead of gypsum since concrete can be
+constructed faster; and
+(iii)
+the MEP services can be hanged from the concrete lid system but not from a gypsum lid system.
+•
+In light of the aforementioned, it has been jointly agreed with the Employer, to proceed with the
+works of a 2-hour fire resistance rated concrete lid system in both locations at CP L2.0 Sector 5.18 &
+5.23;
+•
+Consequently, the shopdrawings for the ‘General Arrangement’, ‘MEP’ and ‘Structural works’
+have been submitted incorporating the 2-hour fire resistance rated concrete lid for approval, which has
+been constructed. However, the comments received by the Engineer and the Engineer’s Design
+Consultant for the shopdrawings of ‘General Arrangement’ and ‘Structural works’ have been code 3. The
+Engineer’s reason providing code 3 for the aforementioned submitted shopdrawings ref
+‘SDS/0401/S/4092-00 & SDS/0401/S/4096-00’, has been due to the Engineer’s response in RFI 7941,
+requesting a 2-hour fire rated gypsum system. However, the Engineer has not taken into consideration
 
-aforementioned Gatehouses (i.e. 3, 4, 19, 20 and 21) were “without passenger boarding bridge (PBB)
-due to restricted access and unsuitable ground conditions…”.
-1.10 In substantiating the foregoing, Chadwick attached the following five photographs for each of
-the affected Gatehouses, clearly evidencing the unsuitable ground conditions, thereby restricting access
-for ThyssenKrupp and Chadwick:
-Figure 1.1 – Gatehouse 3
-Figure 1.2 – Gatehouse 4
-Figure 1.3 – Gatehouse 19
-Figure 1.4 – Gatehouse 20
-Figure 1.5 – Gatehouse 21
-1.11 Furthermore, Chadwick expressed “major concern” as the duration of the Contractor’s works
-following access from L&T was 3.5 to 4 months.
-1.11.1 Chadwick’s concern is clearly justified when compared with the Rev. 10.4 Programme dates
-provided in Tables 1.1 to 1.10.
-Chadwick Letter ref: 736
-1.12 The Contractor received further correspondence from Chadwick on September 2018 (letter ref:
-2), which made reference to planned works for GH 19, 20 and 21, based on full L&T access dates, as
-follows:
-1.12.1 GH 19 and 21 by the end of August; and
-1.12.2 GH 20 by the end of September.
-1.13 However, despite these proposed access dates, Chadwick advised that access to GH19 remained
-unavailable, whilst only partial access was permitted at GH21.
-1.14 Based upon which, Chadwick notified that the failure to provide access will delay the Works.
-1.15 Therefore, the Engineer is urged to instruct L&T to complete its works forthwith and therefore
-allow access to both ThyssenKrupp and Chadwick to complete the PBB and cladding works in order to
-mitigate the ongoing delays.
-1.16 It is because of the disruption and delays being caused to the Contractor’s works that the
-Contractor was compelled to raise Delay Notice No. 1127 (letter ref: 2) on the basis that the MTA
-Contractor (L&T) has an obligation to take such action as is necessary to facilitate the works of the
-Contractor. As noted above, this includes inter alia completing the ground works to allow the
-Contractor to undertake Passenger Boarding Bridge installation and external cladding; and to coordinate
-its works so as not to obstruct, disrupt or delay work being performed by the Contractor.
-Impact of Delay
-1.17 The outstanding works noted above for which the MTA Contractor is responsible, has impacted
-and is for all intents continuing to impact on the Contractor’s ability to commence and therefore
-complete the following:
-1.17.1 Installation of Passenger Boarding Bridges; and
-1.17.2 External cladding of the Gatehouses and Fixed Link Bridges.
-1.18 The Engineer is therefore urged to forthwith instruct the Employer’s Other [MTA] Contractor
-(L&T) to complete its works without further undue delay.
-These Interim Particulars
-1.19 At the date of preparing these Interim Particulars (which is 30 September 2018, the Contractor
-records that it has still not been afforded access to undertake its works in the affected areas. The effects
-
-of delay have yet to be fully realised at present, and hence the various events and circumstances giving
-rise to this claim outlined above, are having a continuing effect on the Time for Completion.
-Summary
-1.20 The Contractor undertakes to review the event(s) and circumstances described herein, in order
-to assess the direct and consequential effects on the Time for Completion of the Works; the outcome of
-which will be submitted in due course, pursuant to Conditions of Contract Sub-Clause 27.2.1.
-2.0
-Date Basis of Claim is Discovered
-2.1
-The Contractor considers that the date the basis of claim was discovered is 5 September 2018,
-which represents the date at which the Contractor received letter ref: 1 advising of the delays, and when
-it became apparent that the various events outlined above, was delaying the Contractor’s works and
-give rise to an entitlement to an extension to the Time for Completion, and associated additional Costs.
-3.0
-Relevant Contract Provisions
-3.1
-The Contractor’s entitlement to an extension to the date for Completion of Milestones
-(principally Milestones 9 and 10, and any associated additional and/or abortive costs arises from:
-3.1.1 a breach of the Contract or act of prevention on the part of the Employer, the Employer’s
-Personnel, the Consultants or the Other Contractors pursuant to Sub-Clause 16.5.1 (c); and
-3.1.2 Contractor’s Claims pursuant to Sub-Clause 27.1.
-3.2
-The impact that this delaying event will have on the Clause 16.3 Programme (Rev. 6.2) will be
-determined by a Time Impact Analysis (TIA) pursuant to Conditions of Contract Clause 27.2.1.
-3.3
-In the meantime, further interim and / or final details of this claim will be provided in
-accordance with Sub-Clauses 27.1.5(b) and Sub-Clause 27.1.5(c).
+that the RFI response requesting a 2-hour fire rated gypsum lid was superseded and replaced by a 2hour fire rated concrete lid, after the subsequent discussions with the Contractor and the Employer;
+•
+It is worth mentioning that, the ‘MEP’ shopdrawings which incorporate the 2-hour fire rated
+concrete lid constructed, have received code 2. Also, our structural calculations submitted via
+DS/0401/11842 for the 2-hour fire rated concrete lid for the locations discussed herein, have also
+received code 2;
+•
+All of the above, have been discussed numerous times and have been agreed with the Employer
+prior to implementation;
+•
+Currently, there are numerous open Work Inspection Requests (WIRs) and NCR-01011 which are
+required to be closed so that we can finalize the works.
+In view of the above and the fact that the events discussed herein have been previously agreed with the
+Employer and consequently the Engineer, we kindly request you to re-code the shop-drawings, enclosed
+in the list herewith.
+Additionally, we wish to confirm that the events and circumstances discussed herein are deemed to be
+known events that occurred prior to the ‘Amendment Effective Date’ included within Settlement
+Agreement and Amendment No. 8 (SAA8), i.e. 4 September 2018; and accordingly are considered to be
+subject to SAA8 Sub-Clause 1.7.2 (‘Contractor’s Settled Claims’) and/or Sub-Clause 1.7.4 (Included
+Circumstances’).
+In view of the above and your request to provide further explanation on the history of events, we trust
+you find the aforementioned self-explanatory and will carry out the necessary action as a matter of
+urgency.
 Yours faithfully,

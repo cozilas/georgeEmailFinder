@@ -1,21 +1,40 @@
-Subject:
+Subject As-Built Drawing Submissions
 
-Notice to Correct – Non-Designation of a Project Manager
-
-Dear Sir,
-Further to our enclosed emails and other numerous correspondences, this is to officially put on record
-that you have not been providing a full time Project Manager as per your Subcontract obligations.
-It has been observed that during the regular working hours, there is no designated Project Manager on
-site to act on your behalf as per Schedule 0 (Scope of Subcontract Works) Clause 4.2.12 A [General
-Services & Builders Work] of the Subcontract. Please note that your mentioned failure is a general
-breach of the Subcontract Agreement. Your failure to comply with the Conditions of the Subcontract is
-unacceptable and you are strictly reminded to fully comply with your Subcontract obligations at all
-times.
-In view of the above, we hereby instruct you under Subcontract Clause 22.1 [Notice to Correct] to
-immediately designate a Project Manager on site and take all necessary measures to prevent any similar
-future events.
-
-As noted in our enclosed email, in the event you are unable to provide a full time Project Manager, we
-will take all necessary actions on your behalf and backcharge you accordingly.
-This is for your immediate action.
+Dear Sir,
+With reference to the above subject the Engineer rejects the Contractor's claim that the Engineer's
+letter
+(2) failed to address the fundamental issues related to the Contractor's management of the As-Built
+drawings.
+The Engineer's numerous correspondences extending to 2014 highlighted the Contractor's requirements
+for As-Built drawings, particularly compliance with the Division 1 Specification requirements including
+AutoCAD layering, Geographical Information Systems (GIS) and other requirements within Division 1.
+The Engineer has repeatedly urged the Contractor to prepare accordingly to avoid delays in the As-Built
+drawing submission and approvals.
+In (6) the Engineer highlighted numerous examples in which the Contractor did not properly develop,
+coordinate or validate the Red-Line drawings prior to submission to the Engineer. In (5) the Engineer
+highlighted that the Contractor was not complying with his As-Built drawing procedure and sought to
+collaborate with you to streamline the process. This included validation of the As-Built drawing
+procedure based upon a successful site trial in Plant Room LB2.
+In (3) the Engineer expressed our concerns regarding the Contractor's failed attempts to produce
+accurate Red-Line and As-Built drawings and highlighted your lack of resources and planning required to
+adequately manage the process. As highlighted in (2), the As-Built drawings submitted by the Contractor
+in October and November 2016 were rejected by the Engineer as it was determined that the submission
+was not complying with the actual built environment, CADD Manual rev.04 requirements or the As-Built
+procedure.
+The Contractor ought to have undertaken an in-house review of all Red-Line and As-Built drawings for
+accuracy, completeness and procedural compliance prior to submission to the Engineer, however, you
+neglected to do so. The Engineer does not accept responsibility for continued failings in this regard and
+will hold the Contractor fully accountable for all delays in As-Built drawing submission and acceptance.
+It is also apparent that the Engineer's concerns related to the Contractor's unwillingness to use BIM as a
+repository of project information to coordinate and verify the Red-Line and As-Built drawings continues
+to be ignored by the Contractor to the detriment of the As-Built drawing process.
+Notwithstanding the most recent attempts to correctly prepare the As-Built drawings, the Contractor's
+workshop dated 30 November 2016 proposed further changes to the As-Built procedure. The draft
+revision of the As-Built procedure was informally shared with the Engineer on OS December 2016 and
+comments were provided for inclusion in the official submission of the document. The revised
+procedure was submitted for review on 28 December 2016 and approved with Code 2 Status by the
+Engineer on the 03 January 2017.
+The Contractor is again reminded of your obligation under Specification Section 01 33 00 to formally
+provide a submittal register with the proposed submittal dates for your As- Built drawings. This request
+remains open with you since December 2014 but has not been fulfilled.
 Yours faithfully,

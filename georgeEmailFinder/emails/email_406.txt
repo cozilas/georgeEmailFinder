@@ -1,52 +1,82 @@
-Subject P4 Interim Maintenance Concerns
-Dear Sir,
-We write with reference to the Site Observation Report (1) and NCR (2) regarding the poor
-maintenance of the MEP equipment. We note that a series of meetings took place (refer to attached
-MOM) as well as site visits to discuss the issues with the Contractor's FM Team. It is very critical that
-the Contractor takes actions expeditiously and whilst the identified issues are still at an early stage
-(concerns circa 6% of the building) and before the remaining 94% is turned over to operations.
-As you can see from the attached report, the Engineer has pointed out several important issues.
-When we questioned the issues in the report during the meetings as well as at site reviews at the FMC
-Office, the below listed concerns have been raised:
-1. BMS as witnessed at the FM's BMS station on 28 May 2019 is showing many errors. Many
-sensors have faulty readings. Some are not communicating at all- many FCUs and VAVs. This
-is a serious concern. PCE/Siemens has noted these faults but have not returned back with
-answers or the required corrections until now.
-2. The Contractor's FM Team has been internally documenting and communicating many issues
-such as the ones pointed out in the SOR as early as October 2018, however, the Contractor
-has not implemented any actions in order to rectify the issues. The Contractor needs to make
-sure that proper and timely action is taken for the corrections by its Subcontractors. The
-Engineer has taken some samples of these "FM Site Observation Reports" (please refer to the
-attachment) during our meetings but the Contractor needs to share the entirety of these
-reports along with an action plan.
-3. The Engineer also found that the BMS workstation in the FMC Room does not have the full
-license as the one in the FCC. For example, the set points are not visible to the FM operators
-available 24/7 at the BMS Station. This will create issues in the monitoring of the system.
-4. Although the building received BCC and is deemed as ready for full automation on 15 March
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0103
+Engineer’s Response to RFI/0401/16957 - Hardware Installation to Doors with Different Floor
+Levels: Request for Engineer’s Instruction / Variation Order
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
+may cause delay and/or disruption to the Works; hence we seek your swift resolution of the same.
+The Event(s):
+On 19 March 2019 we submitted RFI/0401/16957, together with a list of 55 nos. doors/openings to
+various areas of the MTB informing you that we are prevented from installing the remaining door
+hardware (specifically stops / thresholds / gasketing) due to differences in floor levels between the
+respective rooms, requesting further clarification and resolution of what is in effect a design /IFC issue.
+We further advised you that the difference in levels presented building code violations also.
+Notwithstanding the fact that we requested a reply by 27 March 2019 and you failed to do so until one
+month later on 29 April 2019, your response to RFI/0401/16957 not only failed to address the issues
+raised by us, but introduced changes to the design and scope of Works by requesting the provision of
+entirely new landings to 3 out of the 55 doors/openings as per the list appended thereto.
+Furthermore, your response also stated that: “It is the Contractor’s responsibility to coordinate the
+hardware installation with the other trades and submit coordinated shop drawings for review”.
+We wish to put on record that your request for us to coordinate the hardware installation with other
+trades, is incorrect, misleading and is deviating from the main issue, which is the floor level/elevation
 
-2019, your FM team obtained the BMS password from PCE on May 1, i.e. six and a half weeks
-later.
-5. Some rooms are reported to be over-cooled such as the SCRs and electrical rooms. Physical
-temperature readings have been recorded as low as 17 or 18 degrees whereas the set point
-for the equipment is 22 or 23 degrees. It is not surprising that there is condensation in some
-rooms due to temperature fluctuations such as these.
-6. Leak Detection System (LDS) panels in Gate Houses are reported to be not communicating
-with the BMS. LDS is your only defense if your CD pump malfunctions. If LDS is not working
-the Contractor is to explain how will it monitor the potential water leaks in SCRs? Such leaks
-can be very costly to the IT equipment inside the racks below.
-7. The Observation Report/NCRs also points to the existence of dirty ducts. Until the snagging
-and de-snagging of the building is complete, more dust is expected to be generated as could
-be evidenced from presence of dust in the air within Pier 4. The same is more pronounced in
-other piers and will ultimately have a negative impact on the previously approved duct
-cleaning process and a series of duct cleaning validation process should be adopted by the
-Contractor to meet the Project's Specification requirements.
-The above list is not exhaustive and there are further issues that are also related to maintenance. The
-Contractor is therefore requested to immediately proceed with the required actions in order to rectify
-the above and set up a meeting with your construction, commissioning, and FM Teams along with the
-Employer, the Engineer and CxA representatives in order to provide a clear way forward regarding
-hpw these issues and concerns will be resolved before the r~~t of the building reaches the same level
-of completeness as in Pier 4.
-We note that any delays associated with the above concerns shall be solely attributable to the
-Contractor and we hereby reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of
-Contract.
+differences at the door/openings mentioned above. This design defect is not related to the doors or
+doors hardware, but it is related to the floor elevation differences. Therefore, it is the variance in floor
+levels that is preventing us from completing the installation of the final door hardware and not the
+coordination with other trades or any other issues related to the doors and/or door hardware.
+As stated above the differences of the floor elevation at the door openings, reflect a deficiency in the
+existing design / IFC – we have constructed the Works in accordance with that design / IFC Drawings.
+However, as noted in RFI/0401/16957 any variance in floor elevations at a door opening is a violation of
+IBC 2006 code for this Project; this being the applicable code on this Project. Issue #17 of the Fire
+Strategy Report supports this and clearly indicates IBC 2006 as being the applicable code for ‘Doors’ and
+also ‘Means of Egress’. The Fire Strategy Report under the Section of ‘Means of Egress’ states:
+“A continuous and unobstructed path of vertical and horizontal egress travel from any occupied portion
+of a building or structure to an area of safety”.
+Furthermore, IBC 2006 Section 1008.1.4 [Floor Elevation] states the following:
+“There shall be a floor or landing on each side of a door. Such floor or landing shall be at the same
+elevation on each side of the door. Landings shall be level except for exterior landings, which are
+permitted to have a slope not to exceed 0.25 unit vertical in 12 units horizontal (2-percent slope)”.
+We note that the design of the doors, landings and structure is not within our scope of works. It
+remains with the Employer’s Design Consultant. Therefore, since the structural levels have been
+approved and the relevant WIRs have been raised and approved for the affected floor elevations at the
+areas of the door openings noted above, then the coordination issues you allegedly raised in your
+response regarding the door hardware cannot be accepted and are irrelevant to this instance.
+We refute your comment that “Hardware on the list can be installed”. We made it patently clear in
+RFI/0401/16957 that we are unable to install the remaining hardware (specifically stops / thresholds /
+gasketing) due to the direct effect that the variance in floor levels have on this particular hardware.
+Your attention is therefore drawn to the attached photos (refer to Annex A hereto) which illustrate the
+problem. It is this that we sought your assistance yet you failed to do so, despite our request. This is
+delaying installation of the remaining hardware and will invariably impact on completion.
+Furthermore, as noted above also, the response to RFI/0401/16957 attempts to introduce changes to
+the existing IFC design by requesting the provision of a landing. This requires a valid EI and a VO.
+We also put on record, that many of the Status Code 3 comments annotated within the WIR responses
+described in our Delay Notice No. 0087 , relate to the floor level differences discussed within this ENotice No. 0103. We therefore reiterate that such comments are without doubt unreasonable and for
+the reasons set out and herein and our Delay Notice No. 0087 are without merit .
+The SAA8 laid down strict guidelines to follow if additional works are required. However, on the face of
+it, you failed to honour those obligations and an EI and VO are needed for us to proceed with the
+required landings. We also suggest that a survey is undertaken to determine the extent of change as
+there may be more doors/openings than those listed in RFI/0401/16957, with a floor difference.
+We therefore, take this opportunity in reminding you of the provisions of Clause 2.29 to Clause 2.31 of
+SAA8 pertaining to Variations, in so far as we are not to proceed with any Variation until a Variation
+Order and a Time/Cost Record have been issued first. In which respect, it is your obligation to issue this
+Time/Cost Record first if you wish to instigate change; this is only after the additional time and/or costs
+impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above. We trust this is clear.
+Potential Impact:
+We note that the foregoing events and/or circumstances are undeniably delaying the installation of the
+door hardware. Consequently, any requirement for additional works, in this case (1) the installation of
+
+landings and/or (2) changes to the door hardware which may need to be re-ordered and installed, (3) a
+survey to determine the project wide affect, at such a late stage of the Project, is very likely to impact
+upon our ability to achieve Milestone MS9C (Substantial Completion).
+Action Required:
+It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

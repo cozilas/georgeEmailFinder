@@ -1,99 +1,13 @@
-
-Dear Sir,
-This is a direction under Sub-Clause 13.2.1for the Contractor to submit a quotation (both as to price and
-any possible delay) for the Variation "Swapping Room Size Requirements for the Telecom Safety Police
-and Tel/IT Third Parties Room" as outlined below;
-1)
-The Employer's Requirements Volume 6, Sub-Clause 14.3.4 'Telecom', the Sub-clause
-14.3.4.3.b.i) currently states that;
-•
-One room "Telecom Safety Police" - operated and maintained by Police and Fire Brigade with a
-room size of minimum 12m2•
-The above Employer's Requirementsis now modified as;
-
-•
-One room "Telecom Safety Police" - operated and mainta ined by Police and Fire Brigade with a
-room size of minimum 30m2•
-
-2)
-
-The Employer's Requirements Volume 6, Sub-Clause 14.3.4 'Telecom', the Sub-clause
-
-14.3.4.3.c.i) currently states that;
-
-•
-One room 'Tel/IT Third Parties' - operated and maintained by Third Parties (e.g. Public Mobile
-Providers Qtel & Vodafone, Suppliers of video advertisement etc.) with a room size of minimum 1Sm2•
-The above Employer's Requirements is now modified as;
-•
-One room 'Tel/IT Third Parties' - operated and maintained by Third Parties (e.g. Public Mobile
-Providers Qtel & Vodafone, Suppliers of video advertisement etc.) with a room size of minimum 12m2
-3)
-Appendix 1:Generic I- Type Underground Stations of the Employer's Requirements, Volume 6,
-Sub-Clause 14.3. 'General Technical Room Requirements' currently indicates that;
-•
-
-Minimum space required for items 36 and 38 are 30m2 and 12m2 respectively.
-
-Modify the above Appendix 1:'Generic I-Type Underground Stations' as;
-•
-
-Minimum space required for items 36 and 38 are 12m2 and 30m2 respectively.
-
-4)
-Appendix 2: Generic X -Type Underground Stations of the Employer's Requirements, Volume 6,
-Sub-Clause 14.3. 'General Technical Room Requirements' currently indicates that;
-•
-
-Minimum space required for items 154 and 156 are 30m2 and 12m2 respectively.
-
-Modify the above Appendix 1:'Generic I-Type Underground Stations' as;
-•
-Minimum space required for items 154 and 156 are 12m2 and 30m2 respectively. The
-Contractor is required to submit the quotation within 5 days of this direction.
 Dear Sir,
 
-The Contractor refers to the Engineer’s Assistant’s letters reference 1) and 2) in connection to the
-interface process vis-a-vis the main incomer telecommunication fiber optic backbone requirement for
-third party operators such as Ooredoo, Vodafone and QAF. For the avoidance of doubt, and with
-reference to the correspondence exchanged thus far, the Contractor sets out its position as follows:
+Further to Engineer’s Assistant letter of reference 2) and the direction of reference 5) issued pursuant to
+General Condition (“GC”) 13.2.1 of Volume 3 of the Contract, the Contractor hereby notifies the
+Engineer’s Assistant that there are no direct construction costs involved.
 
-The Contractor notes that the Engineer’s Assistant’s reference to clauses 14.3.4.2 (c) and 14.3.4.5 (b) of
-Volume 6 of the Contract within letter reference 1) is out of context. Both the aforesaid clauses impose
-the requirement of 30% spare space within the Telecom / IT rooms and are wholly irrelevant to the
-number and / or size of the telecommunication sleeves to the station box. Consequently, the Engineer’s
-Assistant conclusion within letter reference 1) that by following option 2 with eight (8) sleeves of
-100mm or 150mm each would “allow the Contractor….to comply with the Employer’s Requirements” is
-void.
+The Contractor notes however that the relevant quotations for additional design costs are currently
+expected from its design consultants which once received and valued accordingly shall be forwarded to
+the Engineer’s Assistant for review.
 
-The Contractor further contests the Engineer’s Assistant’s assertion within the closing paragraph of
-letter reference 2). The Contractor has provided ample evidence to the Engineer’s Assistant as to the
-extent of conflicting information that was received from the three (3) different Interfacing Parties and
-considers that it has encountered significant difficulties in obtaining the necessary information pursuant
-to Clause 24.4.4 of Volume 4 of the Contract.
-Following receipt of the Contractor’s letter reference 3), and after having reviewed the matter
-thoroughly, the Engineer’s Assistant has directed the Contractor via letter reference 2) to provide three
-(3) sleeves to the station box, 150mm diameter each. It is therefore incorrect to suggest within letter
-reference 2) that “notwithstanding Engineer’s Assistants recommendation, Contractor retains all risks
-associated with his interface obligations”.
+We remain at your disposal for any further information and/or clarification.
 
-The Contractor’s position is that the Engineer’s Assistant’s “recommendation” within letter reference 2)
-is in fact a direction as to the “required action” pursuant to Clause 24.4.4 of Volume 4 of the Contract
-and the associated risk lies with the Employer and not the Contractor. As a matter of fact, the
-Contractor has already incorporated the aforementioned direction of letter reference 2) in its design
-prior to the receipt of letter reference 1) which proposed an alternative “recommendation” i.e. the socalled option 2.
-
-To help prevent this issue from developing into a delay and / or disruptive event to the progress of the
-Works, the Contractor respectfully requests the Engineer's Assistant's conclusive direction pursuant to
-Clause 24.4.4 of Volume 4 of the Contract as soon as practically possible. The implementation of any
-alternative direction which renders the Engineer’s Assistant’s previous direction of letter reference 2)
-obsolete would clearly constitute a Variation and upon receipt of the Engineer’s Instruction, the
-Contractor shall proceed in accordance with the provisions of Clause 13 [Variations and Adjustments] of
-Volume 3 of the Contract.
-
-Unless otherwise instructed, the Contractor considers that it has fully complied with its interface
-obligations in addition to the associated Employer’s Requirements and shall proceed with its MEP space
-proofing design development and coordination of MEP services on the basis of the direction of letter
-reference 2).
-
-Yours faithfully,
+Yours faithfully,

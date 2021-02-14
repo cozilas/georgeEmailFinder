@@ -1,12 +1,57 @@
 
 Dear Sir,
 
-The Engineer's Assistant's letter reference M006-LBE-ENG-LTR-00359 does not constitute an instruction
-under the Contract. It is an opinion expressed by the Engineer's Assistant as Option 3 offers the
-Employer an optimized design which meets the Employer's Requirements, offering a reduced number of
-cross passages and significant associated reduction in risk.
+Following receipt of the Contractor's letter M006-GDB-ENG-LTR-00178 dated 15 January 2015, the
+Engineer Assistant wishes to refer you to Sub - clause 2.1.2 b) of Volume 5 of Condition of the Contract
+where it highlights that underground and above ground ancillary structures including ventilation shafts,
+plant rooms are part of the Scope of Work under the Contract.
 
-The above referenced Engineer's Assistant's letter requested the timely submission of the Contractor's
-relevant optimized design associated with this package of works. Contractor is requested to submit the
-relevant optimized design without further delay.
+A Traction Power Supply (TPS) in the Emergency Exit Shaft at Al Sharq is required as per Sub-clause
+14.3.2.3 of Volume 6. It will be necessary to consider a space reservation in the tunnel section for TPS.
+
+The Contractor is requested to submit a Design for the Emergency Exit Shaft at Al Sharq which is
+compliant with the Employer Requirements as per the Condition of the Contract. We require a
+submission from you by 15 February 2015.
+
+Your attention is drawn to the contractual milestone dates that apply to this structure namely STKID.06
+and the conditions attached to achieving compliance with these date
+
+The Engineer's Assistant refers to the Contractor's letter reference M006-GDB-ENG-LTR-0
+
+G1 v
+
+which the Contractor expressed his disagreement in relation to the Employer's Requirements for t e
+provision of Traction Power Supply and related infrastructure at Emergency Exit, Sharq Village, as
+stipulated in:
+
+Volume 6 - Employer's Requirements - Design Specifications, Sub-clauses 14.1.1, 14.1.2 and 14.3.2.3.
+Volume 8 - Employer's Requirements - Tender Drawings, UIP Emergency Exit & TPS Building, Sharq
+Village, drawing reference M006-QRC-UIF-DWG-YEEESHQ-00-21004.
+In his defense, the Contractor cites Volume 9 - Employer's Requir.ements - Employer's Investigations,
+Employer Report No. 1.2.1.5, asserting that there is no contractual requirement for the provision of
+Traction Power Supply through the Emergency Exit at Sharq Village. The Engineer refutes the
+Contractor's assertion as Volume 9, Employer's Investigations is accompanied with the following
+disclaimers:
+
+Volume 9, Clause 1- Employer's Investigation
+
+1.1.1 The Employer provides in this Volume 9 the product of additional investigations that are made
+available to the Contractor on an 'information only ' basis to afford completeness of available
+information.
+1.1.2 It is noted emphatically that any interpretation, conclusion or reliance placed on this
+information by the Contractor or arising therefrom shall be entirely at the Contractor's risk. The
+Employer does not warrant the completeness or correctness of this information, either directly or by
+inference, and it shall be entirely for the Contractor to formulate his own interpretation and prove
+assumptions. This shall remain entirely at the Contractor 's risk.
+It is our understanding that due to the distance between Ras Bu Abboud Station and Qatar National
+Museum that there is a necessity for an "inter station" structure. Such a structure is also shown in
+Volume 8 - Employers Requirements - Tender Drawings, reference M006-QRC-UIF-DWG-YEEESHQ- 0021004 - UIP Emergency Exit & TPS Building, Sharq Village, as noted above.
+
+Further, we wish to highlight that your reference to various reports related to power and water demand
+are not valid as they relate to an older project configuration when the distance between Ras Bu Abboud
+and Qatar National Museum was much shorter than it is now.
+The element of design related to the provision of TPS associated structures is now in delay and we
+respectfully request that the Contractor progress this item of design in a timely manner to meet Master
+Programme scheduled dates.
+
 Yours faithfully,

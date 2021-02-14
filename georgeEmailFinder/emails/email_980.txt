@@ -1,23 +1,21 @@
-Subject: Payment for Commissioning Works- TCA JV's Comment
+Subject RE: Additional Cost for Revision of Model Due to RC Wall Interface Detail &
 Dear Sir,
-We acknowledge receipt of the above Invoice and we would comment as follows.
-Please be informed we have certified your payment in relation to Commissioning Works for Room 7 to
-10
-with a total of 395 hours (see enclosed email). Subsequently, the Supervision for Installation works have
-been agreed to be excluded as per our meeting dated 09 January 2018 accordingly.
-Nevertheless, we have received additional Invoice from you with ref: DB 900150 dated 27 Jan 2018 (see
-enclosed Invoice) claiming for extra cost on top of the abovementioned 395 hours (see enclosed
-Invoice).
-We would remind you that the daily rate for Commissioning Works of AED 4,400/Day (see enclosed
-Agreement) is subject to a limit as indicated in the LPO (see enclosed LPO), whereby we have allowed a
-
-limit of approximate 10 hours for you to complete the commissioning works in each room, we consider
-M/S Cummins, as a specialist in the industry has the ability to plan and achieve the said target
-accordingly.
-Consequently, we regret to inform you that we are unable to accept any claim beyond this limit and the
-above Invoice with the amount of AED 36,960 is hereby rejected.
-Whilst writing, we would request you to obtain an access card from our HR Department for each of your
-Commissioning staff in order to enable our assessment inline with your daily rate claim as per our
-Agreement. We believe this shall benefit both parties to avoid any future dispute in this regard.
-Should you have queries, please do not hesitate to discuss further.
+Setting Out Issue Item-Planter (PS 24.1 & 24.2)
+The Contractor confirms receipt of letter reference (1) wherein the Subcontractor requests an additional
+payment of AED 8,400.00 in respect of the content of request for information {2). To be clear:
+This request for information {RFI) was submitted in order to propose a solution to the constructability
+issues being encountered by the Subcontractor to complete the planters' precast concrete cladding on
+corners with small radius.
+The Contractor notes that the Subcontractor's submission {1) does not provide any details in respect of
+the level of development achieved on its BIM model when the RFI response was received. Neither does
+this submission explain how the Subcontractor's BIM model was aborted considering that the precast
+geometry of the planters remained unchanged.
+Notwithstanding the above, please be reminded that the provisions of Clause 4.2.38 of Schedule 0
+[Scope
+of Subcontract Works] state that the Subcontractor 'is to allow for all design changes of a 'minor'
+nature'.
+The Contractor believes that the model update claimed by the Subcontractor derives from its request to
+slightly update the detail of the corners to facilitate the constructabifity of the planters and, moreover, it
+is of a minor nature. The Contractor is of the opinion that, unless demonstrated otherwise, the
+Subcontractor should not be compensated for the model update included in its submission {1).
 Yours faithfully,

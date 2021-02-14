@@ -1,19 +1,74 @@
-Dear Sir,
-With reference to the Subcontractor's letter reference: (1) above, please be advised that, the Contractor
-accepts the Subcontractor's request and will make a direct payment to the Subcontractor's services
-consultant, "ELV International Engineering Consultancy", subject to the followings:
-• The total amount, which the Contractor would directly pay to the Subcontractor's services
-consultant, shall be deducted from the amount certified by the Contractor for payment to the
-Subcontractor, in Payment Certificate No.49.
-• The Subcontractor shall remain responsible for the payments to all of its services consultants and
-the Sub-subcontractors, and shall arrange to make all due payments to its other services consultants
-and the Sub-subcontractors. Moreover, the Subcontractor shall provide the Contractor with
-reasonable evidence of such payments, in accordance with Sub-Clause 21.3 [Payments to
-Subsubcontractors],
-prior to the submission of the next Statement.
-Please be advised that, the aforementioned direct payment by the Contractor to ELV International
-Engineering Consultancy is not intended to create, and shall not create, any contractual relationship or
-other relationship whether reliance based, or otherwise, between the Contractor and ELV International
-Engineering Consultancy.
+Subject: Delay Notice No. Delay Notice No. 998- Glass Screen System - Handrails
+Dear Sir
+On 29 January 2015, the Contractor issued RFEI/0401/0181 under cover of letter ref:
+MTB/TCA/AECOM/L/003857, dated 27 January 2015, in relation to the 'Glass Balustrade System BAL-05'.
+Based upon IFC Drawings and RFI/0401/6131 (received on 17 November 2014), the Contractor noted
+structural inadequacies in respect of the handrails and therefore requested revised IFC Drawings to
+overcome the deficient design.
+A response was received from the Engineer on 22 March 2015, under cover of letter ref: MTC-CMA-TCA0401-LTR-03371, dated 18 March 2015. Therein, the inadequacies were accepted and the thickness of
+patches on both sides of the glass was increased and the material of the pad between the metal and
+glass
+was revised. In the covering letter, the Engineer noted that the response constituted a Variation to the
+Works for which an Engineer's Instruction would be prepared and issued. This was never received.
+However, in the meantime El No. 286A was received on 15 February 2015 under cover of letter ref:
+MTCCMATCA-0401-LTR-03158, dated 11 February 2015. This instructed the increase of post sizes to the
+internal glazing, in accordance with the 'Performance Requirements' at Part 1.4 of Specification Section
+084126, following issues raised in RFI/0401/6660. The Contractor notes that despite subsequent issues,
+this infers that the Employer's Design Consultant is responsible for the handrail design and associated
+works.
+Based on the changes thus far, on 8 June 2015, the Contractor commenced Material Submittals via
+MS/0401/A/0736 for 'Fittings for Glass Screen, Glass Balustrade, Glass Lift and Enclosure'. However, due
+to unreasonable comments and consequent rejections by the Employer's Design Consultant, these were
+not approved until 24 February 2016, under MS/0401/A/0967 Rev. 00.
+In the meantime, the Contractor had commenced submission of Calculations AG-CA-TB-A-069 Rev. 0,
+under cover of SDS/0401/A/1793 Rev. 0, on 6 October 2015. However, in the Employer's Design
+Consultant's initial response on 27 October 2015, a Code 3 'Revise and Resubmit' was provided. The
+basis
+of which seemed to question the Employer's design set out within the Engineer's response to
+RFEI/0401/0181 (letter ref: LTR-03371).
+Therefore, SDS/0401/A/1793 Rev. 01 was submitted on 30 May 2016 (incorporating Calculation AG-CATBA069 Rev. 1), following changes made to glazing tables and braces. However, on 9 June 2016, a Code 3
+response was again provided. The Employer's Design Consultant advised that changes should be made
+to
+the connections of the plates under the handrails. However, as this inferred acceptance of a deficient
+design, an instruction pursuant to CC-C 20.1.1(a) would be required.
+Nevertheless, on 19 July 2016, SDS/0401/1793 Rev. 02 was submitted on 19 July 2016 (incorporating
+Calculation AG-CA-TB-A-069 Rev. 2), addressing comments made on the previous submission. In addition
 
-Yours faithfully,
+to the Engineer providing a response 50 calendar days late, the Calculation was again returned with a
+Code 3 'Revise and Resubmit'. The Employer's Design Consultant advised that the plate under the
+handrail
+that connects the handrail to the bracket was not working and several changes were proposed.
+Furthermore, it was erroneously opined that the design of this connection was the Contractor's
+responsibility. However, the Engineer is reminded that that this design is based upon El No. 268A.
+Therefore, responsibility of the design cannot now be shifted to the Contractor.
+Furthermore, if the Contractor was to undertake the design, it is not entirely clear why the Employer's
+Design Consultant would choose to review, comment and code structural calculations when 3'd party
+testing of the design would suffice.
+Based on the foregoing, 3'd party testing was undertaken which found that the current design was
+structurally adequate. The results of the 3'd party test were provided within SDS/0401/A/1793 Rev. 03
+(incorporating Calculation AG-CA-TB-A-069 Rev. 3).
+However, on 14 September 2017, a Code 3 response was once again received. This introduced further
+structural parameters without basis. Consequent on the unreasonable comments and rejection,
+numerous
+emails were exchanged with the Employer, commencing 11 October 2017, in which the Contractor
+sought
+a comprehensive list of deliverables that the Employer's Design Consultant was expecting to find in the
+handrail tests. The 3'd party testing company would be advised accordingly, in order to mitigate ongoing
+delays, caused by the unnecessary reviews and rejections.
+This exchange of emails continued until January 2018. Following which, on 15 February 2018, the
+Contractor submitted SDS/0401/A/1793 Rev. 4 (incorporating Calculation AG-CA-TB-A-069 Rev. 4),
+which
+addressed all deliverables and comments raised by the Employer's Design Consultant.
+A response has not yet been received.
+The Contractor contends that the Engineer's I Employer's Design Consultant's continued unnecessary
+reviews and failure to approve Submittals constitutes a breach of Contract or an act of prevention on
+the
+part of the Employer's Personnel. Therefore, in accordance with Conditions of Contract Sub-Clauses
+16.5.2
+and 27.1.1, the Contractor hereby notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
+the alternative, damages for breach of Contract. Interim and I or final details of the Time impacts and
+adjustment to the Contract Price, will be provided in
+due course pursuant to Conditions of Contract Sub-Clause 27.1.S(a), (b) and (c).
+Yours faithfully,

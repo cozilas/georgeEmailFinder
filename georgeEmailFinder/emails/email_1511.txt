@@ -1,15 +1,80 @@
-Dear Sir,
 
-Further to the latest discussions between Client and Consultant, the Client encloses herewith the revised
-SAP drawings received by the CPO on 19 August 2015 for Ras Bu Abboud $tation.
+Dear Sirs,
 
-The Consultant is hereby instructed to take all the necessary actions in order to ensure the integration
-of these SAP requirements in the DD2 design submittals.
+Further to the Contractor's December 2015 Claim Nr 034 monthly update issued under cover of
+reference 3, the Contractor confirms, in accordance with General Condition ("GC") 20.1.6(b) of Volume 3
+of the Contract, that the following updated additional costs in relation to Claim Nr 034 have been
+incurred by the Contractor over the past month. Accordingly, the Contractor provides this January 2016
+monthly update to Claim Nr 034.
 
-We confirm that this instruction is given pursuant to Sub-Clause 4.4 [Variations] of the Agreement. In
-case this change has an impact to the design, the Consultant is requested to subm it a proposal for this
-variation pursuant to Sub-Clause 4.4.2. Upon receipt thereof, the Client shall make a fair adjustment to
-the Agreed Compensat ion in accordance with Sub-Clause 4.4.1.
+The Contractor confirms that no additional cost information from others in relation to Claim 034 has
+been received over the past month.
 
-We remain at your disposal for any further information and/or clarification.
-Yours faithfully,
+However, the Contractor's financing costs and overheads and profit "(OHP") upon same, has increased
+since the Claim's initial interim submission on 26 November 2015 as no payment has been made to the
+Contractor.
+
+Claim 034's Financial January 2016 update is therefore as follows:
+
+Finance costs have now been incurred over a period of 3 months since the commencement of the
+Claim/Delay Event. Therefore, the totalfinance costs to date are:
+
+(QAR 22,309,325.00 (design costs) + QAR 5,314,214.00 (construction value) + QAR 13,131,637.00
+(prolongation costs) + QAR 5,298,173.00 (OHP @ 13% of the sum of all the preceding figures)) x 3/12
+months x 4.25% pa (finance rate) = QAR 489,317.00.
+
+OHP upon this finance cost are: OAR 489,317.00 x 13% (OHP rate) = QAR 63,611.00. Therefore, total
+finance costs and OHP upon same to date are calculated as follows:
+QAR 489,317.00 (finance costs to 31 January 2016) + QAR 63,611.00 (OHP upon finance costs) = OAR
+552,928.00.
+
+This provides a January 2016 updated Financial Summary for Claim 034 as follows:
+
+FINANCIAL SUMMARY:
+
+Description of CostNalue (Claimed to Date)
+Qatari Riyals
+Contractor's Lead Designer's (Civils) Variation Costs &
+Contractor's MEP Designer's Variation Costs
+22,309,325.00
+
+Contractor's Architectural Finishes Designer's Variation Costs
+TBC
+Contractor's Vertical Horizontal Transportation Subcontractor's Variation Costs (for Design)
+TBC
+Contractor's Design Verification Engineer's Costs for Lump Sum Works
+TBC
+
+Contractor's Design Verification Engineer's Costs for Provisional Sum Works
+TBC
+Contractor's Variation Construction Works Value (Lump Sum Works)
+5,314,214.00
+Contractor's Architectural Finishes Subcontractor's Variation Construction Works Value (Provisional Sum
+Works)
+TBC
+Contractor's MEP Subcontractor's Variation Construction Works Value (Provisional Sum Works)
+TBC
+Contractor's Vertical Horizontal Transportation Subcontractor's Variation Construction Works Value
+(Provisional Sum Works)
+TBC
+Contractor's & Subcontractors' Prolongation Costs and Losses
+
+13,131,637.00
+
+Contractor's Overheads & Profit (13%)
+5,298,173.00
+
+Contractor's Finance Costs (including OHP on same)
+552,928.00
+
+Total Claim (to Date)
+
+46,606,277.00
+
+Accordingly , Claim Nr 034's revised and claimed value to date is QAR 46,606,277.00
+
+As the Claim Event giving rise to this Claim has a continuing effect and the Contractor is still collating
+further particulars, the Contractor shall be submitting further interim Claim submissions with respect to
+the Claim Event giving rise to Claim Nr 034 at monthly intervals as required by GC 20 .1.6(b).
+
+Yours faithfully,

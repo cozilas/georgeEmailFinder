@@ -1,17 +1,38 @@
-Subject: Notice to Improve Subcontractors Performance
+Subject: Compensation related to De-Scope of Beam Seating
 Dear Sir,
-We hereby write to raise our concerns at your current performance in carrying out the Works. In
-particular we highlight the following issues.
-• Lack of onsite Site Management- We have raised this issue with you on numerous occasions and again
-raise our concern that the Works are being managed remotely.
-• Inexperienced Site Staff - The present site engineers are failing to supervise the works in accordance
-with the current requirements. Your site labour force is reliant on the Contractor's guidance.
-• Lack of Planning- Despite previously requesting the Subcontractor in late 2017, as yet you have failed
-to provide a clear and trackable completion plan which can be followed.
-• QA/QC- WIR progress is insufficient due to the lack of QA/QC management
-Therefore, we hereby serve notice on the Subcontractor to rectify its performance with immediate
-effect.
-You are hereby instructed to submit your action plan to address the above concerns within seven (7)
-days of receipt of this letter.
-
-Yours faithfully,
+We write in response to your letter reference {1) rejecting our claim for damages for breach of contract
+for instructing the omission of works for the purposes of giving that work to another contractor(s).
+As we have previously explained, it is considered a breach of contract for the Engineer to omit works to
+give to other contractors1(Union Supreme Court Case No 226/JY28 (noting that abusive omissions of
+works were considered a breach of contract) You attempt to excuse the Employer from this rule by
+referring to the definition of "Variation" in Clause 1.1, i.e ., that a Variation includes "a) the addition,
+omission or substitution of any work or any part thereof' . It appears that you read this provision as
+permitting the
+Engineer to instruct the omission of work for whatever reason it sees fit, including to give to other
+contractors. This interpretation is inconsistent with industry understandings of the language, which
+considers that this clause only relates to genuine omissions, and not omissions in order for the Employer
+to contract that work elsewhere.
+We note that Clause 22.2.4 states that where the Employer descopes the Contractor's work for cause,
+the Engineer:
+[M]ay instruct another contractor to carry out such omitted work and the Contractor shall have not
+claim for loss of profit or contribution to overheads which it would have earned but for such omission. [.
+. .]. The Employer's right to omit a section(s) pursuant to this clause 22.2.4 shall be without prejudice to
+the Employer's right any time to omit any part or section(s) of the Works pursuant to clause 20.1 (Right
+to Vary) but shall not be subject to any restrictions on giving of such omitted work to another contractor
+any time."
+Such a provision would have been unnecessary if the Contract provided the Employer the right to omit
+works to give to other contractors. It further demonstrates that the Parties knew how to expressly
+provide the Employer this right when they intended to do so. Indeed, if the Employer could omit works
+for whatever reason, Clause 22.2.4's grant of authority to omit works for cause would be entirely
+redundant for the authority already conferred under Clause 1.1; even more, the Engineer could avoid
+the Contractor's procedural protections afforded by Clause 22.2.2 by instructing a simple omission
+under Clause 1.1.
+You also dispute the proper remedy for this breach. Under UAE law, at the very least, the remedy for
+such a breach is the contractor's lost profits and lost overheads. Against this, you refer to BOQ, Schedule
+6, Preamble 12 to claim that "[t]he Contractor shall not be entitled to payment for profit and overheads
+on the value of any omitted works." For the same reasons explained above, the words "omission" within
+Preamble 12 does not extend to this scenario and, thus, Preamble 12 is simply not relevant.
+The Engineer is requested to confirm that its letter reference (1) is its "fair determination" within
+meaning of Clause 11.4.1. If it was not such a determination, the Contractor requests that it issue such
+determination within 14 days of receipt of this letter as required by Clause 11.4.1.
+Yours faithfully

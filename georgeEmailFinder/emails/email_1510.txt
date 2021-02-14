@@ -1,117 +1,82 @@
+Dear Sirs,
 
-Dear Sir,
+Further to the Contractor's initial interim Claim Nr 034 submission issued under cover of reference 1, the
+Contractor confirms, in accordance with Sub-Clause 20.1.6(b) of the General Conditions of Contract
+(Volume 3), that the following updated additional costs in relation to Claim Nr 034 have been incurred
+by the Contractor over the past month. Accordingly, the Contractor provides this December 2015
+monthly update to Claim Nr 034.
 
-The Contractor refers to letter reference 1) with regards to the Station Area Planning. To date, the
-Contractor has attended numerous SAP coordination workshops with CPO/QR/PMC as outlined below:
+The Contractor confirms that no additional cost information from others in relation to Claim 034 has
+been received over the past month.
 
-Al Sadd - 08 July 2015
-Qatar National Museum Station - 12 July 2015 Joaan Station
-- 26 July 2015 Al Sudan Station - 26 July 2015
-Sport City Station
+However,the Contractor's financing costs and overheads and profit "(OHP") upon same, has increased
+since the Claim's initial interim submission on 26 November 2015 as no payment has been made to the
+Contractor .
 
-- 12 July 2015 Ras Bu Abboud Station
+Claim 034's Financial December 2015 update is therefore as follows:
 
-- 26 July 2015
+Finance costs have now been incurred over a period of 2 months since the commencement of the
+Claim/Delay Event. Therefore, the total finance costs to date are:
 
-Bin Mahmoud Station - 26 July 2015
-Al Waab Station- 30 July 2015
-Souq Waqif Station
+(QAR 22,309,325.00 (design costs) + QAR 5,314,214.00 (construction value) + QAR 13,131,637.00
+(prolongation costs) + QAR 4,607,325.00 (OHP @ 13% of the sum of all the preceding figures)) x 2/12
+months x 4.25% pa (finance rate) = OAR 321,318.00.
 
-- 30 July 2015
+OHP upon this finance cost are: QAR 321 ,318.00 x 13% (OHP rate) = QAR 41 ,771.00.
 
-Al Aziziyah Station
+Therefore, total finance costs and OHP upon same to date are calculated as follows :
 
-- 30 July 2015
+QAR 321,318.00 (finance costs to 31 December 2015) + QAR 41,771.00 (OHP upon finance costs) = QAR
+363,089 .00.
 
-During these workshops the Contractor presented to CPO, Employer and Engineer the extent to which
-design changes can be made to accommodate the latest SAP layouts which were issued in May 2015 :
+This provides a December 2015 updated Financial Summary for Claim 034 as follows:
 
-1.
-At the workshop of 30 July 2015 the Contractor was advised that the revised SAP drawings for Al
-Sadd Station would be issued in the following week.
-2.
-The Contractor received comments from CPO and PMC regarding its presentations on 26 and 30
-July 2015 on 04 and 16 August 2015.
-3.
+FINANCIAL SUMMARY:
 
-The Contractor organized a workshop on 18 August 2015 to address these comments.
+Description of Cost/Value (Claimed to Date)
+Qatari Riyals
+Contractor 's Lead Designer's (Civils) Variation Costs &
+Contractor 's MEP Designer's Variation Costs
+22,309,325.00
+Contractor's Architectural Finishes Designer's Variation Costs
 
-4.
-. At the same workshop, the Contractor was asked to clarify a few more issues for Bin
-Mahmoud, Souq Waqif and Joaan Stations.
-5.
-The Contractor committed that these outstanding issues would be addressed at the meeting of
-23 and 29 August 2015 .
-6.
-It was the general consensus that the remaining issues were not difficult to resolve with the
-exception of the Joaan Station wherein CPO is of opinion that the vent shafts should be relocated to
-other side of the road.
+TBC
 
-On 01 September 2015, the Employer submitted to the Contractor, by means of an informal email under
-reference MOOO-QRC-INFM-010596 - CP0_ 15_04534 SAP for Gold Line Underground Stations, the
-following SAP drawings:
+Contractor's Vertical Horizontal Transportation Subcontractor's Variation Costs (for Design)
 
-ALYSJ
-joint venture
+TBC
 
-Sect
-Document No.
-Title
-Ver
-Status
-Date
+Contractor 's Design Verificat ion Engineer's Costs for Lump Sum Works TBC
+Contractor's Design Verification Engineer's Costs for Provisional Sum Works
+Contractor's Variation Construction Works Value (Lump Sum Works)
 
-1
-CP0_14_74001 Ras Bu Abboud Station Area Planning Key Plan
-V9_0
-Baseline V1
-27-Aug-15
+TBC
 
-2
-CP0_ 14_74021 Qatar National Museum Station Area Planning Key Plan
-V13_0
+5,314,214.00
 
-Baseline V1
-19-Aug-15
-3
-CP0_14_74121 Al Sudan Station Area Planning Key Plan
-V15_0
-Baseline V1
-23-Aug-15
+Contractor's Architectural Finishes Subcontractor's Variation Construction Works Value (Provisional Sum
+Works) TBC
+Contractor 's MEP Subcontractor's Variation Construction Works Value (Provisional Sum Works) TBC
+Contractor's Vertical Horizontal Transportation Subcontractor's Variation Construction Works Value
+(Provisional Sum Works)
+TBC
+Contractor's & Subcontractors' Prolongation Costs and Losses
 
-4
-CP0_14_74061 Bin Mahmoud Station Area Planning Key Plan
-V7 0
-Baseline V1
-27-Aug-15
+13,131,637.00
 
-5
-CP0_14_74161 Sport City Station Area Planning Key Plan
-V8_0
-Baseline V 1
-23-Aug-15
-6
-CP0_14_74201 Al Aziziyah Station Area Planning Station Area Key Plan
-V11 0
-Baseline V1
-23-Aug-15
+Contractor's Overheads & Profit (13%) 4,607,325.00
+Contractor's Finance Costs (including OHP on same)
+Total Claim (to Date)
 
-In addition, the Contractor has obtained informal SAP drawings for the Al Sadd and Al Waab Stations
-from CPO.
+45,725,590.00
 
-Time is of essence and therefore, notwithstanding the absence of formal issuance of the SAP drawings
-from the Engineer under the relevant instruction, the Contractor will proceed with the detailed design in
-order to mitigate further delay. On this this note, the Contractor urges the Engineer and the Employer to
-assist in obtaining the SAP drawings for the remaining stations (Souq Waqif and Joaan) as soon as
-possible.
+363,089.00
 
-The implementation of SAP requirements , which must be formally instructed, constitute a Variation and
-upon receipt of the Engineer's instruction, the Contractor shall proceed in accordance with the
-provisions of Clause 13 [Variations and Adjustments] of Volume 3 - Conditions of Contract.
+Accordingly , Claim Nr 034's revised and claimed value to date is QAR 45,725,590.00.
 
-In this respect, the Engineer is kindly requested to obtain the Employer's written confirmation of its
-agreement to implement the revised SAP drawings and instruct accordingly in order to avoid and/or
-minimize abortive design.
+As the event giving rise to this Claim has a continuing effect and the Contractor is still collating further
+particulars, the Contractor shall be submitting further interim Claim submissions with respect to the
+event giving rise to Claim Nr 034 at monthly intervals as required by Sub-Clause/General Condition 20
+.1.6(b) of the General Conditions of Contract.
 
-We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

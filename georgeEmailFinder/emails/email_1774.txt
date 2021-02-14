@@ -1,89 +1,23 @@
-
 Dear Sir,
 
-The Contractor is in receipt of the Engineer’s Assistant’s letter reference 1) in response to its request in
-letter reference 2) regarding the payment of outstanding amounts of Overheads, Management and
-Attendance (OMA) Costs.
+Further to Engineer’s letter reference 1), pursuant to Contract Volume 2 Annex 9.1.10 Pricing Document
+H Material Price Fluctuation, the Contractor is hereby submitting its Analysis for the Material Cost
+Adjustment on the Milestones achieved from Jan’16 to Jun’16 (certified from IPC 20 to IPC 25).
 
-The Contractor cannot accept the Engineer’s Assistant’s statement that “the balance for [OMA]
-following payment of all instructed pro-rata amounts, will be made at the time of completion of the
-project” as this would be devastating to the Contractor’s Cashflow and, the Contractor believes, is a
-misinterpretation of the Contract. The Engineer’s Assistant’s attention is drawn to the relevant excerpt
-from Volume 2 sub clause 9.1.2.9 m) i) reproduced here:
+The Material Cost Adjustment Analysis is done by considering the following:
 
-“The lump sums entered for Contractor's Overheads, Management Costs and Attendances on
-Provisional Sums shall be paid on a prorata basis with expenditure of the Provisional Sum. The
-Contractor will receive full value of the lump sums entered regardless of any increase or decrease of the
-Provisional Sum.”
+1)
 
-The Contractor’s understanding of the foregoing is that a proportion of the fixed lump sums for OMA
-shall be paid in the same proportion as the Provisional Sum is expended; in other words, the Contractor
-should be receiving, for example, 25% of the lump sum for OMA related to MEP works (D.2.a, D.2.b and
-D.2.c in the Volume 2 Schedules) when 25% of the MEP works corresponding to the Provisional Sum
-have been executed.
+Raw Material Prices published by Ashghal.
 
-Contrasting this is the fact that the although the Utility Diversions have been largely completed as
-excavations draw to a close, the corresponding OMA (D.3.a, D.3.b and D.3.c) has been paid to the tune
+2)
+Provisional Raw Material prices (last published) if, the Material Prices are not published by
+Ashghal.
+3)
 
-of only QAR 3.09 Million of a total of QAR 68.36 Million, equaling only 4.5% of the total to be expended.
-This is clearly not in accordance with the principle of a pro-rata expenditure of a lump sum.
+Diesel (International) Prices as per WOQOD Letters.
 
-% Work Done Progress Total OH,M and A
-(Contract)
-Lumpsum
-
-Value as % Lumpsum
-
-Value Certified
-
-(@ 8 %) Balance OH,M and A
-Settlement Proposal
-(IPA 33)
-(1)
-
-(2)
-
-(3) = (1) x (2)
-
-(4)
-
-(5) = (3) – (4)
-
-Architectural (LS)
-
-6%
-
-229,070,000.00 14,664,058.48 5,108,446.62
-
-9,555,611.86
-
-MEP (LS)
-
-23%
-
-173,754,000.00 40,347,471.50 37,015,686.73 3,331,784.77
-
-Utility (LS)
-
-59%
-
-68,360,000.00 40,369,405.63 3,090,533.49
-
-Total
-
-471,184,000.00 95,380,935.61 45,214,666.84 50,166,268.77
-
-37,278,872.15
-
-The Contractor hereby makes a proposal to settle the differential amount of Overheads, Management
-and Attendance (OMA) for all the Provisional Sum (PS) works progress which is certified up to IPA 32.
-For the all the PS works progress till IPA 32, the Contractor has claimed 8% for OMA which is not
-comparable to the OMA costs incurred by the Contractor on the PS works.
-
-The Contractor therefore requests the Engineer’s Assistant to kindly certify the differential amount of
-Overheads, Management and Attendance (OMA) for all the Provisional Sum works progress which is
-
-certified up to IPA 32. This is conservatively estimated by the Contractor at being QAR 50.16 Million and
-included in IPA 33.
+The Contractor is submitting the Material Cost Adjustment on an interim basis pending finalization of
+the indices.
 
 Yours faithfully,

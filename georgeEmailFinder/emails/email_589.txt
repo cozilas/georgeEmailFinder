@@ -1,27 +1,216 @@
-Subject:SAA8 Sub-Clause 2.26, E-Notice No. – E0013 – Layout for the Installation of EMIS servers and
-access dates for installation of Master Intercom Station
-
+Subject:Notice of Delay – Slow Progress, non-performance and Undeliverable Recovery
+Plans as of 11th December 2018
 Dear Sir,
-The Contractor writes with reference to the delays incurred for the provision of drawings showing the
-room layout for the relocation of the EMIS from the AMC to the Facility Management Control Room in
-Pier 3 as per the EI 759 referenced (2) above.
-We hereby notify you pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8
-that this event may cause delay to the Works and therefore we seek your swift resolution to avoid any
-future disruption or delay pertaining to this matter.
-Specifically, with our letter referenced (1) above, we have requested confirmation regarding issues with
-the layout and also requested to be given an access date for installation works. Subsequently, with EI
-759 you have relocated the EMIS from the AMC to the Facility Management Control Room in Pier 3 and
-confirmed that the Elevator Master Intercom shall remain in the AMC room. However, to date, there is
-no feedback from the Engineer regarding the aforementioned. Therefore, we kindly request you to
-provide the following:
 
-•
-Please provide a room layout for the EMIS servers which are shifted from the AMC to the Facility
-Management Control Room in Pier 3;
+We write this notice to record our utmost concern regarding your slow rates of progress and your failure
+to take remedial actions to correct the same, which has lead to irrecoverable delays causing a major risk
+to the successful completion of the MTB Project.
+We repeat, that it is of paramount importance that you counter this adverse situation by recognising the
+key concerns relayed to you throughout this notice and advise on rectification measures within (7 days)
+of receiving this letter, which should include:
+1.
+A "Detailed Mitigation and recovery Plan" with supporting a report as per Subcontract Clause
+16.4.1 [Recovery of Delays];
+2.
+Ensure that all Engineering requirements (Shop Dwgs, Field Changes, As-Builts, BIM etc.) are
+satisfied;
+3.
+Complete all outstanding Mock-up works;
+4.
+Provide a clear and structured strategy for managing all outstanding procurement and
+fabrication processes;
+5.
+As part of the recovery plan, demonstrate how your installation teams will achieve the current
+programme requirements (Rev.11);
+6.
+Demonstrate that you have a clear and structured strategy for the closing-out of all outstanding
+inspections (WIR’s);
+7.
+Provide a detailed schedule for the submission of all outstanding claims and variations;
+Within the context of the above listed measures, the following sections denote the status of your works
+as of 11th December 2018 and accounts for the delays that you will need to address and through your
+proposed mitigation measures.
+
+A - AGC's delayed Engineering Works - Rectification measures required
+A.1) Shop Drawings and As-Built drawing Development
+Based on our records (refer to attachment 1), your shop drawings are approaching completion (17nr
+awaiting approval from TCAJV and/or ADAC). However, your As-Built submissions are significantly
+lacking in progress. As of the end of November 2018, you were scheduled to submit 562nr as-built
+drawings whereas your actual submissions amount to 126nr (22% of the target) of which only 4nr have
+been approved with 122nr at Code-3 status (rejected). These drawings have primarily been rejected for
+non-compliance with the required CAD standards – for example, 106nr have been rejected for red line
+marking.
+We draw your attention to the above correspondence (4) which clearly states our engineering
+department’s submission dates. Due to the extent of the outstanding works we request you to outline a
+clear mitigation plan regarding the above to ensure these dates are achieved.
+
+A.2) Field Change Requests / Issues
+
+The TCAJV Engineering Team have also raised significant concerns regarding the quality of your
+engineering works and delayed response to onsite developments resulting in a significant increase in
+Field Change Requests. We note that you have raised 58nr RFI’s for field change requests to date – these
+requests have begun to sharply increase now that the inspections and WIR process has commenced.
+We advise you to continue to mitigate and recover your as-built drawing activities; including improving
+the quality/output of your current resources to ensure these delays are recovered.
+
+A.3) Status Building Information Modelling (BIM)
+Further to our correspondence above (6), we draw your attention to your continued poor performance
+in relation to your BIM obligations. Our records show (refer to attachment 2) that 11nr LOD 500 models
+are now delayed beyond the submission dates, marked as ‘delayed by AGC’ on the attachment. In
+addition to the above 8nr models have also been returned to you due to non-compliance (code 3’s - to
+be resubmitted).
+Your inactivity with regards to these models is now reaching a critical state and their absence is also
+preventing other Subcontractors from proceeding with their coordination models and consequently
+their onsite works. This situation has seen little improvement despite the recurrent notices, repeated
+calls and email reminders to propose a recovery plan for the above delays.
+As we have done previously, we reserve our rights to deploy additional BIM resources to aid you in
+recovering the long-overdue BIM models, taking into consideration that the additional resources shall
+work in tandem with your team and you will be back-charged for these resources accordingly. Be
+reminded that this this will not alleviate you from your responsibility towards providing necessary
+resources to recover from the poor status of progress of the models submission, particularly those that
+are still unresolved to date and/or require resubmission.
+
+A.4) Submittal and Approval of Mock-ups
+Our records indicate that as of 30th November 2018, 12 out of the specified 36 mock-ups remain
+incomplete (see attachment 3). Given that these mock-ups and their approval are precursors to the
+undertaking of the actual site construction of the permanent fixtures - you are therefore placing the
+project at risk by delaying these works. Therefore, we instruct you to assign an accountable and
+responsible team to liaise with our construction department to foresee the resolution of any mock-up
+residual issues. Given this state, we are left with no other option but to reserve our right to back charge
+any costs, losses or expenses that may be attributed to this long overdue and critically delayed project
+deliverable.
+
+B. Delays to Work Orders and Fabrication
+B.1 Work Orders
+According to our records there are still a significant number of missing and/or corrective work orders
+pending which require immediate issuance (see attachment 4).
+
+Glass Work Orders
+As of 30th November there still remains 1923sqm of glass orders pending issuance. This is made up of
+1658sqm required for gatehouses and 264sqm for the CP area; these delays are now causing significant
+disruption to other Subcontractors in the completion of their works and having a detrimental impact in
+the completion of the project in its entirety.
+Our engineering team has also raised their significant concerns surrounding the GRR Work Orders for
+the replacement of glass which has been damaged, lost and/or misplaced. We therefore instruct you to
+take immediate action in the identification and scheduling of all outstanding material requirements
+required to complete the project.
+Other Work Orders
+Following the recent progress meetings and site visits with your management team, it is evident that
+there still remains a confusion over the location and order status of work orders concerning first and
+third fix items (equipment bands etc). We therefore request you to submit a full schedule of these items
+listing each work package and the current status of these items. This schedule should detail the current
+status, inclusive of quantities, order dates and expected delivery.
+
+B.2 Material order, Fabrication and Delivery
+Our records show that there are still significant quantities of glass awaiting delivery. Out of the 54,215
+pcs of glass only 46,360 pcs (86%) have been delivered which is extremely disconcerting considering the
+current stage of the project and impending milestones as per your level 3 Programme.
+The remaining 7,855 pcs of glass yet to be delivered can be classified into the following statuses:
 •
-Please provide access date for the installation of Master Intercom Station in the AMC room.
-Your further guidance, decision and/or instruction is required at the earliest; failing which the Works are
-likely to be delayed and/or disrupted.
-We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
-extension to the Time for Completion and additional Costs arising from the above described event.
+•
+•
+•
+•
+
+Under Production – 21.49%
+Dispatched – 9.66%
+Located at the AGC Factory (Bonding/Painting etc) – 52.81%
+No Work Order issued – 5.87%
+GRR with no work order issued – 10.17%
+
+Our records (see attachment XX) highlights the poor performance demonstrated by your glass suppliers
+in particular, between the months of August and November 2018.
+Golden Glass
+In this period Golden Glass dispatched total 1119sqm of glass (only) which puts their monthly output
+average at 280sqm. We also note that Golden Glass achieved less than 100sqm of dispatched glass in 3
+out of the previous 4 months.
+AVIC
+In this period AVIC dispatched a total of 701sqm of glass (only), which makes their monthly average
+175sqm. Similarly to Golden Glass, AVIC achieved less than 100sqm of dispatched glass in 3 out of the 4
+previous months.
+CSG
+
+CSG received only 562sqm of work orders; however they have taken an average of 196 days to deliver
+each order.
+The above provides an indication of glass status; however, you are instructed to provide detailed
+schedules of all outstanding materials as highlighted above in section B1. For example, and as you are
+well aware, the installation of the equipment bands is critical to the completion of the MEP works
+packages, any further delays will significantly impact upon the Cause & Effect stage of the project.
+The Engineer further reiterates our concerns with regards to the management of the fabrication and
+delivery processes (see enclosed letter XX – dated 4th December 2018), whereby the Engineer cites the
+late discovery of incorrectly sized glass and broken/misplaced units as a major risk to the project. Your
+failure to manage this process is unacceptable – remedial measures to prevent future occurrence
+regarding the above should be clearly detailed in your forthcoming Action Plan. Your immediate
+response addressing all of the issues stated in the mentioned Engineer’s is required.
+
+C. AGC's Failure to Plan the works and report Status
+Our records indicate that you are failing to provide us with the detailed procurement and installation
+schedule (to be updated on a weekly basis) as agreed in the Memorandum of Understanding (3). As
+agreed, the plan should detail how you plan to achieve the agreed target package dates. As highlighted
+above, we instruct you to provide us with a detailed mitigation plan demonstrating proposed measures
+to overcome any loss of progress.
+Your failure to provide accurate and comprehensive reports prevents us from understanding the current
+status of works, jeopardizing our ability to pursue our rights to Claims and prevents any tangible
+assessment of delays. In addition, the applicable claims method for Time Impact Analysis (Clause 27.2) is
+dependent in its mechanics on the provision of accurate monthly updates.
+Accordingly, we notify you that we reserve our rights to remove all future payments related to planning
+and progress monitoring from your on-account payments until you demonstrate an improvement in this
+regard (i.e. planning and progress reporting).
+
+D. On Site Construction and Installation Delays
+As you are well aware, the Memorandum of Understanding (MoU) signed by you in the above
+correspondence (3) details integral package target dates for completion which you have either failed
+and/or failing to achieve. The progress statuses listed below demonstrates the approximate % of glass
+installed in each area.
+INSERT ORKUN FIGURE HERE
+Area – MOU Date – Current % of installed glass
+As is clearly evident from the above, you are failing to achieve the agreed package target dates. For
+example, Pier 4 was due for completion by XX but as of today’s date you have only achieved X% of the
+total installation. Furthermore, and of greater concern is that the above figures indicate installed glass
+
+and do not take into consideration any alignment works or snagging. Section E will further highlight the
+importance of incorporating a structured WIR approval process into your mitigation plan.
+Your deployment of mitigation measures, such as those suggested and listed in the first page of this
+notice is imperative to recover from the above-mentioned status and achieve compliance with your
+contractual obligations. Please be reminded that the signed MoU clearly states that you will be liable for
+all costs related to the default associated with missed target dates and we will reserve our right to
+recover these costs from you accordingly.
+
+E. WIR Completion Delays and Progress
+According to our current records you are failing to achieve a reasonable rate of progress in regards to
+the completion of WIR’s. This is a major concern due to the extent of the outstanding WIR’s and those
+that are currently reaching Code 2 status. There are approximately 1000nr WIR’s to be submitted in
+relation to your works package; to date you have only submitted 101nr (10%), of which only 24nr have
+reached Code 2 status (2%).
+Your inability to manage the above process in a structured and comprehensive manner is extremely
+disconcerting. The above has also been noted by the Engineer in recent progress meetings and further
+stressed in their enclosed correspondence. We therefore request that your mitigation plan details a
+clear strategy on how the attainment of Code 2’s will be achieved in line with programme requirements.
+
+F. Failure to substantiate entitlement for claims and variations
+Further to our previous correspondence and meetings on site you have consistently failed to submit
+commercial documentation in line with your contractual obligations. Moreover, the requirement as set
+out in the MoU clearly states you shall support us with regards to substantiating our claims for time or
+cost impacts against the Employer and/or any other Subcontractor. Despite assurances that you would
+provide support in this regard, we are yet to see an improvement in the quantity and quality of the
+submissions.
+To date we have received a total of 10nr RFVO submissions of which 6nr are still under assessment as
+we require further substantiation. According to our records there are 48nr outstanding RFVO’s awaiting
+submission with a further 9nr for the Glass Wall Lining awaiting re-submission in the required RFVO
+submission format.
+Our variations team state that the quality of your submissions must be improved in order for these to be
+assessed. Please ensure your submissions comply with our RFVO procedure, inclusive of all required
+substantiation (quantification sheets, marked- drawings, 3nr quotations for new rates etc.) to ensure no
+further delays are incurred as a result of your failure to comply with your contractual obligations.
+We reiterate once again that the absence of supporting particulars and substantiation is a failure of your
+Subcontract obligations and remind you of your contractual obligations in this regard pursuant to
+subcontract clauses 10.3.3(c) [Contractor’s Claims], 27.1.3, 27.1.4 [Subcontractor’s Claims], and other
+relevant clauses.
+
+In summary, from the information provided above we are issuing this notice pursuant to Subcontract
+Clauses 12.11 [Cooperation], 16.6 [Delay Damages], 22.1 [Notice to Correct] for the above referenced
+delays. We reiterate that all associated delays, costs, losses and/or expenses incurred by the Contractor
+and/or other Subcontractors as a result of the above shall be recovered from you in accordance with the
+Subcontract clauses 10.3, and 16.6.1 in addition to other relevant Subcontract Clauses.
+This is for your information and immediate action.
 Yours faithfully,

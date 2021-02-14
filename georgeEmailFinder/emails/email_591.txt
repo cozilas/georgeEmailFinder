@@ -1,17 +1,31 @@
-Subject:Re: Notice of Delay; TCAJV Target Programme to Completion Rev.10.4; Outstanding Preceding
-Works by Other
+Subject:
+
 Dear Sir,
-We are in receipt of your letter referenced (1) above in which you are alleging that you have suffered
-delays due to obstructions by others. This is to confirm that the issues raised in your mentioned letter
-have been discussed and resolved during our meeting and confirmed by you via an email, enclosed
-herewith. Therefore, we confirm that there are enough available work-fronts to proceed with your
-works.
-As discussed in previous correspondences, we once again reiterate that you are required to increase
-your manpower to meet the requirements of the project. Specifically, the number of manpower has
-been insufficient for a considerable amount of time, considering the volume of works on site. You are
-required to have enough manpower to be able to coordinate the works on site with our construction
-team.
-We always remain available to assist you by all possible means to progress in all areas satisfactorily and
-ensure that the target programme dates are met throughout the project.
-This is for your information and necessary action.
+
+Re: Request for Engineer's Instruction [RFEI/0401/0704]
+New Doors Introduced at Pier 1 in Room 1644 & Pier 4 in Room 1722
+
+We are in receipt of your letter referenced (2) above, wherein you rejected our letter referenced (1)
+requesting you to issue an Engineer’s Instruction, regarding the new doors introduced via
+RFI/0401/15691 reply dated 5th March 2018, at Pier 1 in Room 1644 & Pier 4 in Room 1722.
+Please note that we refute the content of your letter referenced (2) and inform you that the 2 nr door
+openings were never included on the IFC Door Schedule. Further to this, a symbol for a door on a
+drawing does not determine the size, type, hardware set, or security type required for proper pricing
+and construction, which could also simply be an access panel. Furthermore, the RFI response includes a
+snippet of a Door Schedule (revision 32) that has never been issued to us formally or by any other
+means.
+Even though, we were able to utilize some spare doors and frames, we still have hardware and security
+monitoring (DPS) that was added in the RFI response. This is a design change and an Engineer’s
+Instruction along with updated IFC drawings are required not only for us to build, but also for us to
+request WIR’s and allow for Testing and Commissioning. Testing and Commissioning cannot be
+completed without approved WIR’s. WIR’s cannot be approved without an instruction and correct IFC
+documents. Therefore, these changes constitute a Variation under the Contract and require an
+Engineer’s Instruction.
+Additionally, you are kindly reminded that e-notice “SAA8 Sub-Clause 2.26, E-Notice No. – E0007 –
+Discrepancies between Door Schedule Rev 31, SACS, Data and Power Provisions” and other
+correspondence have been submitted previously, informing you about the aforementioned door issues.
+Your prompt action, guidance, decision or further instruction is required, failing which the works are
+likely to be delayed and/or disrupted.
+We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
+extension of the Time for Completion and additional Costs arising from the above described event.
 Yours faithfully,

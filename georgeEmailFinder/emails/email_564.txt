@@ -1,36 +1,61 @@
-Subject:Re: Clarification – VAT Calculation for PC
+Subject: WMS Neglect To Finalize An Edi As Basic Version, To Include Bim Activities In
+Their Program And To Submit Appropriate Models For Coordination
 Dear Sir,
-We refer to your letter referenced (1) above, where you have made comments regarding the VAT
-calculation for the payment certificates and hereby inform you the following:
-With reference to Article 26 of the Decree-Law and to the Real estate Guide VATGRE1 (Clause 12.3
-Retention Payment Pages 28-29, enclosed herewith), the date of supply for retention shall be triggered
-at the earliest of:
-•
-•
-•
+We write with reference to the above subject and further to our numerous transmittals and emails but
+not limited to the below, we express our concerns regarding your failure to fulfil your Subcontract
+requirements in regards to BIM deliverables and implementation plan in a timely manner.
+Reference is made to herunder transmittals and project specification 019800, we would like to
+emphasize
+on the terms of your progress evaluation that should meet in full I compliance with:
+I. An agreed version of EDI as version 01 (with a sample model LOD 400, tagged & MTO), according
+to the BIM Implementation Plan (page 4, paragr.4):
+"The digital form of the 81M submissions, its contents (geometrical and alphanumeric), necessary file
+formats, software requirements, data , attributes, etc., will be provided to the Sub-Contractor after
 
-The time the retention payment has been made;
-The issuance of a tax invoice in relation to the retention; or
-12 months from the date the work has been signed off as complete (e.g. certified).
-
-In view of the above, the calculation for the VAT in the Payment Certificate must be as follows:
-Total Value Of work done
-Less-Retention @ 5%
-Total Amount Excluding VAT
-Vat @ 5%
-Total Amount Including Vat
-
-:
-:
-:
-:
-:
-
-1,360,565
-(68,028.25)
-1,292,536.75
-64,626.84
-1.357.163.59
-
-This is for your information and records.
+execution within an agreement outlined in an ED/ {Electronic Data Interface) procedure prior to the
+start of coordination or 8/M development.)"
+II. BIM activities (LOD300, 400, 500) to be included in your program.
+Ill. The models which are going to be evaluated (assessed) should be submitted with official
+transmittal. So far you have not provided appropriate models of steel platforms for coordination
+among other trades (TCAJV has been issued two clash reports INT-BIM-5560 & 5561). Moreover
+you have not submitted models of Linen Chutes.
+On top of that you have submitted shop drawings and still it is pending by your side the submission of
+models and after appropriate coordination period to become fully coordinated as LOD 400, kindly
+review
+the transmittaiiNT-BIM-3863; which you got since 5th August. In this document in item 6 it is mentioned
+that "The extraction of the 2D shop drawings and or fabrication drawings {for construction purposes)
+must
+be completed from the approved LOD 400 8/M model.".
+Therefore you are kindly urged to finalize the above prerequisites regarding the EDI finalization, the BIM
+activities, and the submission of models for the coordination among other trades within 10 days from
+receipt of this letter.
+List of reference transmittals and emails:
+A. INT-BIM-4163 {07 Sept 2014) EDI Assessment and finalization process
+B. INT-BIM-3897 {09 Aug 2014)
+c. INT-BIM-3863 {04 Aug 2014)
+D. INT-BIM-3746 {22 Jul 2014)
+E. INT-BI~-5108 {26 Jan 201S)
+F. 02 March 201S
+G. 08 February 201S
+H. OS May 2015
+I. OS May 201S
+K. 04 April 201S
+{1st attachment; 20140908 T-TCAJV-WMS-00138 {4163) {1 page)
+Evaluation with official transmittal
+{2nd attachment; 20140809 T-TCAJV-WMS-00105 {3897) (1 page)
+Process to extract shop and fabrication drawings
+(3'd attachment; 20140805 T-TCAJV-WMS-00099 {3863) {1 page)
+BIM Deliverables {models submitted with official transmittal)
+Progress evaluation of SCs. {4th attachment; 20140726 T-TCAJVWMS-00080 {3746) {1 page)
+EDI draft version 01.01 ofWMS Metal Industries LLC
+{Steel platforms etc)
+{sth attachment; 20150129 T-TCAJV-WMS-00307 {SlOB) {1 page)
+EDI FINALIZATION {Email Reminder) {1 page)
+WMS-EDI-RevOO-First Issue {6 pages)
+LINEN CHUTE {4 pages)
+WMS-New submittal for steel platform of leve1LB.2 {4 pages)
+MOMs of WMS Progress meeting No.22 {item 8.1.5)
+You are hereby advised that any delays to the Works due to your failure to comply, provide and finalize
+the EDI, to submit BIM activities and models for coordination according to BIM procedures and costs
+arising as a result of your delays, and to any affected trades shall be reimbursed from your account.
 Yours faithfully,

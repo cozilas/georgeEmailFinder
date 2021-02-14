@@ -1,41 +1,41 @@
-Subject: Briefing Packs Change Management Team
+Subject: Changes of Fire Rated Ceiling from a Hanging Ceiling System to a Fixed Wall-toWall
 Dear Sir,
-The Engineer's letter (1), issued in response to Contractor letter (2), has stated that "non-relevant"
-personnel is defined, by the Engineer, as Planners, Quantity Surveyors and Commercial resources. The
-Engineer has further gone on to state in letter (1) that the request and agreement for the briefing pack
-change management team was for technical resources only.
-At the outset, the Contractor would like to record its disappointment with the contents of Engineer's
+We are in receipt of your Request for Variation (RFVO) referenced above and respond as follows;
+Your RFVO makes reference to the response given to RFI-10736, and purports this to be the reasoning
+for the variation request. Your RFVO states:
+On 2 February 2016, TCAJV received response to RF/-10736 in which the Engineer hos noted that the
+requirement of the fire resistance direction should come from the top and bottom side of the
+suspended ceiling. With this new requirement, a fire rated ceiling fixed wall to wall with secondary
+steel supports ore required instead of the hanging ceiling system".
+We record the actual three queries raised in RFI-10736 along with the relevant responses;
+Question 1 - "Please note that the Fire-Rated Ceiling System {GYB-04} cannot apply for sloped ceiling
+areas (following slope in floor level/ramp) as there is no fire-rating test and certification available for
+such ceiling (Refer to Attached Letter from Supplier {Gypsemna). Kindly advice how to proceed on those
 
-letter (1), as well as the stance the Engineer has taken on this issue thus far. The Engineer is reminded
-that
-the participation of the Contractor in the briefing pack process was a voluntary process. The Contractor
-participated in good faith, in the interest of the progression of the Works and to assist the Employer in
-rectifying and completing the Employer's incomplete and uncoordinated design. The Engineer is aware
-that the participation of the Contractor in the briefing pack process is not an Employer entitlement
-under
-the Contract.
-The Engineer has referred to the proposal attached to Contractor letter (3) as the basis for the
-Engineer's
-rejection of the timesheets of the Planners, Quantity Surveyors and Commercial resources. The Engineer
-has however failed to recognise ROM ref (4) which formed part of the Contractor's proposal issued via
-letter (3) . The ROM ref (4) identified the requirement for Planners, Quantity Surveyors and Commercial
-resources .
-Furthermore, Engineer's Instruction (EI) no 323 states that "You are hereby instructed, pursuant to
-Clause
-20.1.1 (a) of the Conditions of Contract, to appoint and implement competent and sufficient resources
-to
-address the completion of all design items ...... ". Following receipt of El no 323, the Contractor complied
-with the instruction and ensured that competent and sufficient resources were deployed to assist the
-Employer's Design Consultants in concluding the design. These competent resources included but were
-not limited to: Technical staff, Planners, Quantity Surveyors and Commercial resources. The Contractor
-having complied with the instruction of the Engineer is now being deprived of its entitlement under the
-Contract. As previously mentioned in letter (2) all the time claimed by the Contractor is for actual hours
-spent by personnel of the Contractor (and its Subcontractors') who were directly involved in assisting
-the
-Employer's Design Consultants during the briefing pack process. The Contractor, pursuant to clause 11.4,
-insists that the Engineer assess the final value of the Variation
-Order in a fair manner, taking into account all relevant circumstances but paying particular regard to the
-obligation of the Contractor under the Contract in relation to assisting the Employer to complete its
-design.
-The Contractor looks forward to the speedy resolution of this issue.
+locations.
+Answer 1 - "An engineering judgement combined with test reports for a horizontal shaft wall assembly
+noting requisite resilience from both sides (top and bottom) would suffice in this context.
+Question 2 - "For some areas IFC dwgs. only mentioned the item as '2 hour fire-rated ceiling' but do
+not specify type of ceiling system I material to be used. Kindly specify. (Refer attach. 01 & 02).
+Answer 2- "Reference attached ASK-2800 (RFI-10736} (4 sheets) wherein the makeup of the two hour
+rated corridor ceiling/stair soffit is explained. Reference attached ASK-2800 (RF/-10736} {4 sheets)
+wherein the makeup of the one hour rated gypsum lid serving as stair soffit is explained.
+Question 3 - "For ceilings marked as 'Gypsum Assembly', 'Gypsum Floor Assembly' and 'Gypsum Lid'
+on IFC drgs, the fire-rating duration and direction of fire attack is not specified. Thus clarify the
+difference of each item and provide the specification requirements accordingly. Also provide updated
+IFC drgs. (Refer attach. 03 & 04} Answer 3 - "Reference attached ASK-2800 (RF/-10736 {4 sheets)
+wherein the makeup of the gypsum
+floor assembly (non-load bearing) is explained.
+It is evident from the above that the Contractor appears to have misinterpreted the response to RFI10736 and has not demonstrated where any Variation has been introduced in these responses.
+The Contractors statement that there is a new requirement in relation to the fire resistance direction
+above egress passageways is incorrect. The IFC Drawings define the two hour rated ceiling
+requirement in such areas as horizontal shaft wall assemblies supported from wall to wall. Reference
+Drawing No. MTC-A-62-TB-L_-_-_-_-00-640(00).
+Moreover, the Engineer records that the Contractor's obligation to comply with all fire code
+requirements in areas including emergency exit/egress passageways is unchanged. In areas such as
+these exit/egress passageways, the implementation of the suspended ceiling detail would not be
+compliant and the use of the 2-hour shaft wall detail shown on IFC details is required to be fo llowed.
+In light of the above, your request for Variation is denied.
+Finally, it has come to our attention that these works are not proceeding at site, despite all technical
+clarifications being addressed. Please be advised that any delays will be the Contractors responsibility.
 Yours faithfully,

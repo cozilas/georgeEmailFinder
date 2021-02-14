@@ -1,157 +1,55 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0209
-Power Supply & Distribution Box/Consumer Unit serving Fibre Consolidation Points (FCP) to FIDS
-– Request for IFC Drawings & Engineer’s Instruction
-Dear Sir,
-We refer to your letter ref: (1) following issuance of E-Notice No. 0209 (ref: 2) in which you contend that
-we ought to have been fully aware that the “FCP needed power to deliver the full functionality of the
-Security Cameras and Wi-Fi” and as the event was a known event prior to the Effective Date of SAA8,
-including your assertion that it constituted a ‘dispute, difference and controversy’, we are not entitled to
-any additional time and / or cost, and our request for an Engineer’s Instruction is rejected.
-For the reasons comprehensively set out in our letter ref: (2) and summarised herein, we disagree.
-As noted in our letter (ref: 2), and summarised in Annex A hereto, the fact that the FCP needs power to
-deliver functionality to the Security Cameras and Wi-Fi is not the issue; the absence of IFC Drawings
-showing what the specific power supply requirements for the additional FCPs located within the FIDS is.
-It is for this reason that we raised two RFIs [as well as a series of reminders], requesting information
-from you in support of the power supply requirements for the FCPs: firstly, because it is not shown on
-any IFC Drawing; and secondly, we are not the designers for the Project; the Employer’s Design
-Consultant is; it is not for us to guess or otherwise assume what those power supply requirements are.
-However, despite our repeated requests, including without limitation, those raised on 31 May 2017, 5
-September 2017 and 29 April 2018, we have not yet been provided the requisite information. For
-example, the Employer’s Design Consultant assured us in his Rev 00 response to RFI/0401/14089 that
-the power supply to the FCPs would be “further detailed …in due course”; while the attachment to the
-Rev. 01 response, clearly stated it would be subject to “future provision” (refer to Figure 1 below)
-leading us to conclude that it would be detailed at some, but yet indeterminate point in the future.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0264
+Damages to Previously Completed Works by the Employer’s Landscape Contractor
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The information described in Annex A hereto, records various damage having been caused to our
+completed Works by the Employer’s Landscape Contractor (M/s Al Barari) which will require
+rectification and as such will necessitate that you issue us an Engineer’s Instruction and Variation Order
+in order for us to do so.
+Potential Impact
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We wish to convey our appreciable concern regarding various damage that has recently been caused to
+our completed Works by the activities and / or actions of the Employer’s Landscape Contractor (M/s Al
+Barari).
+Below are a series of photographs which collectively serve to evidence the damage that has so far been
+caused to previously completed pedestrian walkways, gutter drains, tarmac, and block paving to various
+areas in the immediate proximity of the Terminal Building, as well as conduit / irrigation piping to at
+least three individual locations; all damage occurred to the L0.0 external landside area zone 3 (Figure 1
+to Figure 5 below, refers):
 Figure 1
-We then wrote again vide RFI/0401/16011 requesting updated IFC Drawings showing the related FCP
-data outlets. However, in its response, the Employer’s Design Consultant ignored our request entirely.
-It was therefore reasonable to conclude that in light of the previous Rev. 00 and Rev. 01 responses to
-RFI/0401/14089, that the power supply requirements to the FCPs was indeed a “future provision” but
-on the basis it had not been instructed, was not part of the MTB scope. We were led to believe this was
-your position also; particularly when you consider that the following quantities of Electrical Load
-Schedules, Shop Drawings and Electrical Work Inspection Requests (WIR) for the Signage have all been
-approved by you but are absent any comment whatsoever on the “future” power supplies to the FCPs:
-1.
-14 Electrical Load Schedules of external panels;
-2.
-35 Shop Drawings of external electrical services; and
-3.
-743 Electrical WIRs.
 
-Detailed particulars for each of the above approval mechanisms for Levels L0.0 and L2.0 are provided for
-information and reference in Annex B hereto (annotated as Annex B1, B2, and B3, respectively).
-However, in complete ignorance of the prevailing facts, you have since communicated your “position” in
-letter dated 29 December 2019 (ref: MTC-CMA-TCA-0401-LTR-11210), and again in letter ref: (1), stating
-that we ought to have been “aware that the FCP needed power to deliver the full functionality of the
-Security Cameras and Wi-Fi”, and inferring that we are somehow responsible for the design and the
-completion of that design where information is not shown on the Drawings. Firstly, this dismissive
-response conveys a distinct failure on your part to fully understand the issue at hand, i.e. understand
-the Employer’s power supply requirements for the FCPs to the FIDS. Secondly, your response conveys a
-failure on your part to manage the Employer’s Design Consultant to meet those requirements and
-rather than urge the Employer’s Design Consultant to provide the information necessarily required for
-us to undertake and complete this work, you have allowed the Employer’s Design Consultant to avoid
-any responsibility; and in failing to recognise what the issue is and taking firm action, you are effectively
-allowing the responsibility for the design, and the completion of that design, to be transferred to us. We
-are not the designer for the Project, the Employer’s Design Consultant is. It is his responsibility.
-Moreover, in light of the facts described in letter ref: (2) and summarised in Annex A hereto, we fail to
-see how you can deem this to be part of the ‘Included Circumstances’ as defined within Clause 1.7.4 of
-SAA8. Firstly, the Employer’s Design Consultant’s initial Rev. 0 response to RFI/0401/14089 advised us
-that the power supply to the FCPs would be “further detailed …in due course”. It was not. Secondly, the
-Rev. 01 response to RFI/0401/14089 referred to an attached schedule which expressly stated that the
-power supplies were subject to “Future Provision” and in particular Bulletin 227.1. This was never
-issued. Thirdly, the response to our further request via RFI/0401/16011 was ignored [the reference to
-the provision of power being our responsibility in fact relates to the Wi-Fi, not the FCPs to the FIDs].
-Therefore, while acknowledging that your Rev. 00 and Rev. 01 provided responses to RFI/0401/14089,
-and the provided response to RFI/0401/16011, were all issued in the period prior to the ‘Effective date’
-included in SAA7, they: (1) failed to address what was being requested at the time; and (2), in the case
-of RFI/0401/14089, the Rev. 00 and Rev. 01 responses, referred to further details being provided in “due
-course” and cited “future provision”. Therefore, as previously conveyed in ref: (2); SAA8 cannot
-reasonably be interpreted as requiring us to absorb delays of unknown (possibly unlimited) duration
-occurring both pre and post 4 September 2018, particularly where the resolution of the matter causing
-the delay remains with the Employer and / or the Employer’s Personnel and / or the Consultants.
-Moreover, while we may have been seeking information vide RFI/0401/14089 and RFI/0401/16011 in
-the period leading to SAA8, which the Employer’s Design Consultant said would be provided in “due
-course” or subject to “future provision”, this cannot reasonably be interpreted as being tantamount to a
-‘dispute, difference and controversy’ per Clause 1.7.4 of SAA8 (‘Included Circumstances’) highlighted by
-you in letter ref: (1). No ‘dispute’, ‘difference’ or ‘controversy’ existed on this issue prior to SAA8.
-What is clear however, is rather than urge the Employer’s Design Consultant to take proactive action,
-and address the matters required of it, in terms of providing us the requisite IFC Drawings showing the
-power supply requirements to the FCPs, you have consistently prevaricated and delayed matters also.
-The continued failure on your part and that of the Employer’s Design Consultant’s in issuing us the IFC
-Drawings in confirmation of the power supply cables and distribution box/consumer units for the FCPs
-to the FIDS to Levels L0.00 and L2.0, is continuing to affect commissioning of the security cameras and
-Wi-Fi. This will invariably impact on our ability to obtain the Building Completion Certificate (BCC). This is
-essential in achieving Milestone MS09B and will invariably impact MS09C (Substantial Completion).
-Consequently, and contrary to your assertion in letter ref: (1), our E-Notice No. 0209 does have merit.
-Moreover, in response to your further comment about E-Notice No. 0209 not forming part of any of the
-submitted TIAs, given that E-Notice No. 0209 was notified on 29 January 2020, then its falls outside of
-the period covered by our most recently submitted TIA (i.e. TIA No. 4 Post SAA8). The effects of delay
+We note that heavy equipment such as the truck shown in Figure 1 above, has been used by Al Barari on
+the existing pedestrian walkways and gutter drains, which we note has been designed to be used only by
+light-weight equipment. Moreover, as you can see from the photos, various oil leaks have also occurred
+which are clearly due to the actions and activities of Al Barari. The above photos also evidence sporadic
 
-associated with E-Notice No. 0209 will however be considered as part of TIA No. 5 – Post SAA8, which
-will cover delaying events occurring in the period from 2 December 2019 to 1 February 2020.
-In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs arising from the event described in letter ref: (2).
-Annex A
-Summary of the Salient Points described in E-Notice No. 0209
-The facts remain as follows:
-•
-On 31 May 2017, we raised RFI/0401/14089 requesting updated small power layouts with
-power circuits for a number of items, including Dynamic Signs / FIDS and Fibre Consolidation Points
-(FCP).
-•
-As part of the reply received on 2 July 2017, the Employer’s Design Consultant [KPF] advised:
-“The Dynamic Signs that are to be connected to the 18 feeders available under [Bulletin] B227 are
-shown on the attached sketches” while “The power supply to the FCPs ... will be further detailed in the
-ongoing exercise that will be sent to the Contactor in due course for levels L0.0 and L2.0.”
-•
-On 7 August 2017, we received a Rev. 01 response to RFI/0401/14089, in which KPF advised us
-that “where ‘Future Provision’ is indicated … Contractor needs to install necessary containment to the
-Dynamic Sign Location,” while in relation to the Fibre Consolidation Points, KPF advised: “The power
-supply to the FCPs [for levels L0.0 and L2] ... is … detailed in the [attached] spreadsheet …”
-•
-The spreadsheet shows FCPs referring to ‘Future Provision (Bulletin 227.1 not issued)’; in other
-words, the requirements remained unclear and the electrical design was not yet available; hence it was
-reasonable to assume that details of the ‘power supply to the FCPs ... will be further detailed” as part of
-“the ongoing exercise” and would be issued in due course as part of Bulletin 227.1.
-However, Bulletin 227.1 was never issued.
-•
-On 5 September 2017 we advised you Power layouts were not included in the Rev. 01 response
-and urged you to “issue IFC documents immediately to allow us to proceed engineering …and
-procurement” and “FCP / outdoor access points …. are missing on the layouts …”
-•
-On 14 May 2018 you advised us the final load design of the distribution boards was closed in
-BP66; while the location of the FCP/outdoor access units were determined based on heat map studies.
-Again, you failed to provide the requisite IFC Drawings.
-•
-On 29 April 2018, we raised RFI/0401/16011 entitled ‘Requirement for Additional FCP Data
-points for Outdoor Wifi locations in Level 0.0’, in which we recorded that outdoor wi-fi access points had
-been provisioned in order to meet the wi-fi coverage requirements. We further recorded that there was
-currently no provision for the related data outlets shown on any of the IFC Drawings.
-•
-We advised: “In order to activate the Wifi access points, additional FCP data points along with
-related Power and FCP switch will be required to establish the network connectivity for the Wifi” and
-requested you provide us updated IFC Drawings showing the related FCP data outlets.
-•
-You responded on 22 May 2018. The response stated:
-The location of the supporting services for Wifi (power and data) is our responsibility.
-The location of the WiFi is our choice.
-Provision of power and data is our responsibility.
-Should a WiFi device require new power and data, we were to relocate and coordinate.
-•
-While we are clear about the requirements relating to the power and data provisions for the
-Wifi, the response completely overlooked what was being asked in relation to the power supply
-requirements for the additional FCPs; there was no mention whatsoever regarding the FCPs.
-Again, you failed to provide the requisite IFC Drawings.
-•
-The matter however fell silent until receipt of your e-mail dated 25 June 2019 issued in relation
-to the ‘External FIDS / IP65 Enclosure’, where you advised that “you are to follow the IFC …”
-
-•
-Following which, on 29 December 2020, you then wrote informing us that:
-“The delivery of the Wi-Fi and Security equipment (Cameras) functionality is to be treated separately
-from the external Signage Power (Bulletin 227 Rev 001) given the fact that the Contractor was fully
-aware that the FCP needed power to deliver the full functionality of the Security Cameras and Wi-Fi as
-per the DPS Specification which was never descoped.”
-•
-You have since repeated this exact same sentence in your letter ref: (1).
+damage that has been caused to irrigation pipes and conduits, as well as an existing air valve. In which
+respect, we record that we received not prior notification from you or Al Al Barari as to their planned
+intentions, nor have we been requested by you / Al Barari to issue a No-Objection-Certificate (NOC),
+allowing them access to areas of the MTB Works; in short no attempt has been made by you as the
+Engineer for the Project, to instigate and carry out any coordination in and between ourselves and the
+Employer’s Landscape Contractor (M/s Al Barari).
+It is evidently clear that the resultant damages caused by Al Barari to our completed Works is not of our
+doing or responsibility, and any rectification / remedial works necessarily required, will invariably delay
+us.
+As you know, SAA8 laid down strict guidelines to follow in the event that additional works are required
+and on the basis that the necessary repairs to the pedestrian walkways, gutters, block paving, conduits
+etc., will put us to additional expense [and time] and we therefore request that you issue us a Variation
+Order / Engineer’s Instruction as necessarily required, in order for us to undertake the remedial work
+and be paid accordingly.
+We would also urge you to take whatever necessary action is required on your part to prevent any
+further occurrence of damages to our previously completed Works by the Employer’s Landscape
+Contractor.
 Yours faithfully,

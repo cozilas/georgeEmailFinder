@@ -1,7 +1,11 @@
-Dear sir
-This is an instruction under Sub-Clause 13.1.1of the General Conditions of Contract to amend Engineer's
-Instruction No.84, as referenced above.The nature and extent of the amendment relates to the deletion
-of Employer's Requirements, Volume 6, Sub-Clause 13.3.3.2 k) - Power Supply and Distribution Systems
-for Centralized Cooling Plant, as set out in Appendix A - "Centralized Cooling System".
+Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the Variation is provided below.
 
-Yours faithfully
+'A centralized cooling plant is to be constructed above Ras Bu Abboud Switchbox to serve the stations
+Souq Waqif, Qatar National Museum, Ras Bu Abboud and Ras Bu Abboud Stabling Yard'.
+Further, this instruction amends the Employer's Requirements as set out in the Appendix A - 'Centralized
+Cooling Plant'. The Contractor is also required to extract the information as appropriate from Qatar Cool
+Energy Transfer Station's Technical Guide (Appendix 8).
+
+Yours faithfully,

@@ -1,129 +1,104 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0152
-Engineer’s Request for MTB Contractor to Carry Out Excavations to Expose the MTA Contractor’s (L&T)
-Chilled Water Pipes at Entry to Pier 1 from IVC4
+Subject:Basement Water Leaks
 Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern potential delays to the completion of the Works associated
-with the rectification of the subsided MTA Contractor’s Main Chilled Water Pipes adjacent to Pier 1.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-Description of the Event
-Chronology:
-On 26 September 2019 [10:00 AM], you e-mailed us requesting assistance in exposing the main Chilled
-Water Pipelines at GH 02 - Pier 1 [undertaken by the Employer’s Other Contractor, i.e. the MTA
-Contractor, Larsen & Toubro or ‘L&T’], in order to determine whether there had been any movement in
+We refer to your letter (2) issued in response to the ‘Third Party Report Evaluation of the Current Leak
+Condition and Repair Methodology’ submitted under cover of our letter (2), as well as refer to your
+subsequent letter of reminder (3) in connection with the captioned matter and write as follows.
+Since your letter (2) was issued, a joint inspection was undertaken on 28 October 2019 to inspect the
+water leakages to the affected rooms in Basement Level LB.2. This was witnessed by representatives
+from ADAC, AECOM and the TCA JV. Following which a detailed report conveying the findings of that
+inspection were issued to you under our e-mail dated 31 October 2019 [17:38 PM] (copy attached).
+Following which, attached to a further e-mail dated 20 November 2019 [1:48 PM], we issued a similar
+report for Basement Level LB.1 reflecting a joint survey undertaken between ADAC, AECOM and the TCA
+JV on 20 November 2019 (a further copy of our e-mail and report is also attached hereto).
+With this in mind, and as requested under your letter (3) we herewith provide the following response to
+your letter (2) using the same approach and corresponding paragraph references / nomenclature.
+Para 2: You cite the ‘repeated and widespread distribution of observed leaks’ and allege that this is
+indicative of the waterproofing system having been compromised in multiple locations thus ‘allowing
+long term persistent ingress of groundwater.’ You also make a statement about the design life of the
+building and that the building structure was designed to be ‘water tight.’ The Main Terminal Building is
+still water tight. Moreover, while accepting there is some localised water leaks in limited numbers, we
+find your comments about the widespread leakages to be over-exaggerated; this is not reflected within
+the two reports for Basement Levels LB.1 and LB.2 issued under the above noted e-mails. Our e-mail
+dated 31 October 2019 expressly advised you that [following the injection of sealant by our specialist
+subcontractor] the water leakage has not only been rectified but is ‘under control’.
 
-the existing Chilled Water Pipelines (from the time of installation to the present date). We were further
-directed to assist you in identifying the routing of the Chilled Water lines, position of thrust blocks, and
-the location of entry to the basement, and “thereafter commence excavation to expose same.”
-This request was prompted by the fact that a joint, specifically a flange, connecting the incoming Chilled
-Water Pipes in the Basement of the Terminal Building show obvious signs of a failure and is leaking. The
-specific location of which is circled in red on the following sketch drawing (refer to Figure 1).
-Figure 1
-Our initial response dated 26 September 2019 [12:49 PM] advised you that we required an Engineer’s
-Instruction and information from the MTA Contractor (L&T) regarding their works in the affected area,
-in order to consider your request further; this in on the basis that the 1200 mm dia. Main Chilled Water
-Pipelines and Thrust Block had been constructed by the MTA Contractor (L&T) vide a separate contract
-with the Employer. While our works in the immediate area was limited to the final chilled water pipe
-connections maximum 2 metres from the pump room structure to the welded pipe joint and installing a
-450 mm dia. GRP Sewer Pipeline [crossing the trench diagonally to the underside of the Chilled Water
-Pipe line].
-In an further e-mail [timed at 1:27 PM], you provided us with copies of L&T’s IFC Drawings only and not
-the as-built or BIM information drawings, but you also said that “we need to carefully excavate and then
-hand dig around the pipes”; and confirmed you were “preparing the instruction” but in the meantime
-we were to requested to “commence asap.”
-In our subsequent e-mail dated 28 September 2019 [10:19 AM], we wrote as follows:
-“Having seen the area and reviewed the situation with our team, it is our opinion that to dig the ground
-away from above the pipe would be dangerous and therefore respectfully decline your request. The
-specialist contractor who laid the pipes should be contact for method statement on how to correct the
-leakage.”
-In your response issued on 29 September 2019 [11:30 AM], you maintained that our Project Director
-“had agreed to move ahead with this” and requested us to liaise as necessary and “confirm the same.”
-Meanwhile, we received a further e-mail from you on 29 September 2019 [8:10 AM] informing us that it
-was your understanding “that these [Chilled Water] pipes sit on your installed fill”; the inference clearly
-being that because of the issues regarding the backfill material [which you are sufficiently aware of but
-for brevity are not repeated here], we are purportedly culpable for and hence liable [which is denied].
-In our response [timed at 16:03 PM], we provided you with information and records to support the fact
-that the chilled water pipes were not laid on TCA JV installed backfill. We did however request for you
-to approach L&T for them to provide you their backfill records together with ground test records for the
-affected areas, and subject to us receiving the same, we offered to check both sets of information.
-At the date of writing, we have not yet received this information.
-We have however, received your letter dated 29 September 2019 (ref: 3) that endeavours to ‘instruct
-us’ pursuant to Clause 5 (‘Subsidence’) of SAA8 to expose L&T’s Chilled Water Pipes, as follows:
-“The Contractor is instructed to excavate the ground around the Chilled Water Pipes from the MTA
-chamber IVC4 to the entry point into Pier 1 near Gatehouse 2. The Contractor shall ensure that the
-excavation in the proximity of the live pipework is conducted by hand digging. The Contractor shall
-provide all required temporary works/traffic management and impose the highest level of safety
-controls when executing these works.
-Please ensure that levels are taken at the bottom and top of the thrust block and invert levels along the
-pipe to the interface with the building structure.”
-Additionally, we received a further e-mail from you on 29 September 2019 [6.28 PM] which on the one
-hand confirmed that you were in the process of gathering information [which we assume includes
+Para 3: As regards allegations of crystal salt deposits having been observed on the internal concrete
+walls, we confirm having found evidence of some minor crystal salt deposits only but maintain that this
+is not indicative of high salinity groundwater as alleged, but rather comes from dampness – attributable
+to the spillages and leaks that have occurred during testing and commissioning. This has since been
+addressed and the limited areas of affected walls have now been cleaned and made good.
+Para 4: There is no evidence or findings whatsoever to suggest that there is an ‘aggressive’ ingress of
+groundwater nor is the alleged corrosion of concrete and reinforcement likely to result in ‘significant’
+degradation of the structure. These statements are at best excessive and over the top and are not in
+keeping with the actual situation on site. All of the cracks have been repaired in accordance with the
+approved Method Statement and in keeping with the ‘Repair Methodology’ described above.
+Para 5: Your statement on ‘prolonged water ingress’ and the consequential effects such as purported
+‘environmental hazards …which can become airborne and spread throughout the building fabric’, is
+particularly excessive and ‘over the top’, especially considering the minor damage that has occurred.
+Para 6: As regards your comments as to whether we reassess our repair methodology and ‘explore
+whether a more effective / permanent rectification solution should be considered’, we can only repeat
+what we have stated above. We have rigidly followed the approved Method Statement as well as the
+recommendations described within the Third Party report and Repair Methodology described above.
+That said, we will nevertheless check with our specialist subcontractor to investigate if an alternative
+methodology can be adopted.
+Para 7: We find your comments in relation to alleged future loss of availability and functionality of the
+building due to entry of groundwater through the basement to be excessive and paints a picture of
+potential wholescale impacts on the design service life of the MTB. This is simply not true. We have
+already addressed the leakages and do not see this as being that critical as portrayed by you. .
+Para 8: It appears you are inferring that we have some way failed to properly inject the cracks. This is
+not true. We have undertaken the crack repairs in accordance with the recommendations of the Third
+Party and Repair Methodology and have kept injecting the cracks until the entire crack is filled.
+Para 9: As regards your comments regarding the resin and its ability to penetrate cracks up to 100
+microns, at the risk of being repetitive, we have utilised VANDEX resin material as recommended in the
+Third Party report and Repair Methodology.
+Para 10: We totally disagree with your statement that we have ‘failed to conduct regular a regular crack
+monitoring regime to identify and track crack locations and propagation’. We are undertaken regular
+inspections on a weekly basis and we are sharing our findings with all concerned parties i.e. ADAC and
+yourselves. To allege otherwise is simply not true. This also applies to your allegations that we have
+‘acted to the contrary and covered up and put out of reach many areas where ground water has since
+ingressed’. This statement is wholly unacceptable and completely misguided. We have not ‘covered’
+anything up. The floor, wall and ceiling finishes to both basements have been completed for some
+considerable time. Nevertheless, where any isolated water leaks have been found, we have removed
+any finishes or coverings and made good the affected areas; all of which are non-structural. Regarding
+water penetration manifesting itself in building ‘void area’, we assume you are referring to the
+travellator (future) void. Approximately 50mm of water had accumulated in a particularly discrete area
+over a long period of time which we have since removed, and injected the affected structure. The water
+ingress has since ceased but nevertheless we have installed a permanent access panel that will allow us
+to continue to monitor the situation. Furthermore, we have not found any evidence of ‘excessive’
+corrosion of exposed reinforcement steel, despite your allegation that you have, and we further deny
+that any of the cracks were not properly injected and/or was injected ‘haphazardly’.
+Para 11: For the reasons stated above, we do not believe it is necessary to strip back ‘all materials and
+finishes to get back to the structural elements’ to undertake crack mapping and inject the same. This is
+a major undertaking and wholly unnecessary. Also, we fail to see why when there are only minor
 
-obtaining essential information from L&T], but on the other hand, you urged us “to confirm that [we]
-are proceeding with the excavation to expose [the Chilled Water Pipes from the MTA chamber]”.
-We responded on 30 September 2019 [09:18 AM] and informed you that we are also gathering further
-information but despite requesting information from L&T and their subcontractor, they had yet to reply;
-and informed you that until all the facts are known, we would not be undertaking any excavations.
-Further to which however, we were compelled to issue a further e-mail on 30 September 2019 [10:06
-AM] advising you of the “significant risk that arises from inaction in the rectification of this fault”. Given
-its significance, and for the avoidance of doubt, the entire content of our email is reproduced below:
-“Upon investigation we have found site records that show these chilled water pipes, and in particular
-the thrust block that we consider to be the root cause of this joint failure, to have not been constructed
-in accordance with good practice or what we imagine may be the specification and that therefore the
-works of another contractor are at fault. Rectification of this joint failure must be carried out by a
-specialist and under the control of the contractor whose work is at fault.
-[We are] concerned that if this joint that is currently ‘weeping’ actually lets go and releases significant
-quantities of pressurised chilled water, then the airport building may be flooded through the
-consequentially failed puddle flange/sealed sleeve; adjacent infrastructure may subside due to water
-inundation; the main building will lose part (of) or all of its cooling.
-Please urgently instruct the responsible contractor to rectify this leak”
-In order to support the statement made in the opening paragraph of our e-mail, we herewith provide
-the following photograph taken at the time of L&T installing the Main Chilled Water Pipelines adjacent
-Pier 1, which somewhat alarmingly, evidences that pipes on the main feed were supported on pallets
-and oil drums during the construction of the external valve chamber (refer to Photo 1).
-Photo 1
-Photo 1 also indicates our 450 mm dia. sewer pipe between MH S1216 to S1217 [bottom right] which
-had already been installed at a shallow depth. Notably, the sewer pipe crosses below where the thrust
-block would later be installed by L&T and shows that the trench is not deep and the trench width is also
-narrow hence in our view, the risk of settlement to our sewer pipe at this point would also be minimal.
-Our Position:
-Although we continue to undertake further research associated with this matter, in addition to the poor
-construction methods adopted by L&T while constructing the Main Chilled Water pipeline evidenced
-above, we have reason to believe that there was a water leak during testing of these pipes and if the
-pipes were not fully emptied prior to the temporary fittings being removed, a large amount of water
-may have been allowed to penetrate the ground thus triggering the subsidence process of the soil.
-It could also be that poor backfill methods were employed by L&T underneath the thrust block and the
-material has started to settle naturally as confirmed during our extensive collapse settlement and creep
-tests from other areas around the site. The amount of collapse settlement should have been previously
-calculated by the Employer’s Design Consultant taking into account the weight and size of the thrust
-block and also the associated weight of the water in the pipes and allowed for in the design. If however,
-this has settled and water has also been allowed to penetrate the adjacent soil due to water leakage
-over time, then we have reason to believe this may well cause a sudden collapse as per the inundation
-test conducted at CP South.
-Moreover, notwithstanding that these works are works of an Other Contractor we are not prepared to
-remove any of the overburden from the pipes to undertake any investigative works [as ‘instructed’] due
-to the fact that the pipe is already stressed and under pressure. Hence any sudden change of support or
-downforce could be catastrophic and potentially a large volume of chilled water could be released
-causing serious injury or damage to personnel and / or property. This is a very high risk activity that
-needs input and direction from the specialists in this field; and is a risk we are unwilling to take.
-
-In view of this and given the fact the Main Chilled Water Pipelines and Thrust Block are the works of the
-Employer’s Other Contractor and not us, then we reiterate that we will not be undertaking the works
-‘instructed’ under your letter ref: (3); particularly as it falls outside of the scope of Clause 5 of SAA8.
-Meanwhile, it is because of the events and circumstances outlined above, that are at the risk of others,
-that we are compelled to raise this e-notice due to the inevitable delays to completion of our Works.
-Potential Impact:
-The delay in identifying a suitable methodology and then the subsequent rectification of the settled
-Main Chilled Water pipelines and Thrust Block by others, may severely our ability to achieve Milestone
-MS09B, and may also prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+localised leakages in limited numbers, why it would be necessary to require ‘all metal elements affixed
+to the concrete structure to be removed, stripped back to the base metal and re-galvanised.’ This is a
+completely over-the-top scenario and is not in keeping with the nominal localised leakages. If however
+you continue to insist that we strip back ‘all materials and finishes to get back to the structural
+elements’, then we insist that you define the requisite areas and issue an EI for us to do so.
+Para 12: Again we consider your statements along the lines of there being ‘widespread’ observations of
+corroded nots, bolts and washers, and evidence of ‘aggressive’ rusting to be extreme; so too is the
+suggestion that we engage a metallurgical test agency to conduct testing simply because you now allege
+the quality and suitability of previously approved fixings is ‘called into question’. This is simply
+ridiculous. We will continue to wire brush any affected fixings and apply galvafroid if necessary.
+Para 13: Your suggestion that we engage a specialist corrosion / concrete / petrographic specialist to
+‘further test the existing structure’ is particularly excessive, and is completely nonsensical; particularly
+given your suggestion that the specialist ‘provide an estimate of the current concrete design life.’
+However, as a gesture of good will, we will seek an expert’s opinion if deemed necessary.
+Para 14: For the reasons already outlined for para 11, we take great exception to your allegations that
+we have ‘covered up’ areas where dampness has occurred. This is not the case at all. We are also
+perturbed by the inference that we have not been open or transparent. As noted above in our
+comments alongside para 10, we continue to undertake regular inspections on a joint basis each and
+every week and we will continue to share our findings with both ADAC and yourselves. In which case,
+and as noted above, we herewith provide further copies of the findings and outcome of the previous
+inspections for Basement Levels LB.2 and LB.1 held on 28 October 2019 and 20 November 2019. You
+are kindly requested to sign where indicated in confirmation of the said findings inspected by you.
+Meanwhile, we continue to assure you as we have done in our e-mail dated 31 October 2019 [17:38 PM]
+that the water leakage is under control but notwithstanding we will closely monitor the situation and
+attend immediately in case of any visible dampness. This is similarly echoed in our e-mail dated 20
+November 2019 [1:48 PM], advising you that [in the case for Basement Level LB.1] our report shows that
+very few places have been affected and the majority of rooms are ‘clear’ of any dampness. That said
+any requisite rectification works to Basement Level LB.1 have been completed.
+Under the circumstances we trust you will release the sum of AED 500,000 currently being withheld
+against Non-Conformance Report (NCR) No. MTC-CMA-0401.CM-NCR-01356 dated 15 August 2019.
 Yours faithfully,

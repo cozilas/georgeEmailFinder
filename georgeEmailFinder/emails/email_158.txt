@@ -1,25 +1,81 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0220
+Damage to our installed Public Address and Voice Evacuation (PAVE) System at the CP Etihad Lounge as
+well as Various Retail Units caused by the Employer’s Fit-Out Contractor (DEPA) – Request for Engineer’s
+Instruction / Variation Order
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The various events identified in Annex A hereto records delays attributable to damage caused by the
+Employer’s Other Contractor (DEPA) to our previously installed PAVE works, which requires rectification
+and as such requires an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
+Potential Impact
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We are appreciably concerned about damage that has been caused to our previously installed Public
+Address and Voice Evacuation (PAVE) System (i.e. loud speakers, noise sensors, Loop Isolating Modules)
+to the CP Etihad Lounge as well as to various Retail Units. Unfortunately despite the PAVE system
+having been installed, inspected, and handed over by us via the Work Inspection Requests (WIR)
+process, this has subsequently been damaged as shown in Figure 1 [Etihad Lounge] and Figure 2 below
+[various Retail Units] to Level L2.0. This is directly attributable to the Employer’s Fit-out Contractor
+(DEPA).
+Figure 1 – Damage in Etihad Lounge
 
-Subject:Wire Joints in FDB Panels
-Dear Sir,
-We write with reference to your letter (1) in which you advise us of the discovery of wire joints inside an
-energized FDB panel at Pier 3, during an inspection.
-We take such an occurrence seriously and have held countless meetings with our Subcontractor (Anel)
-on the matter of wire joints and confirm that Anel site management has carried out a thorough internal
-investigation into why this deviation of workmanship took place.
-Anel has acknowledged the unacceptable practice and workmanship and the poor decision making
-taken by members of their installation team.
-Consequently, we assure you that Anel’s manpower is being managed closely by our site supervision and
-QA/QC team, to ensure that there is no repetition.
-This occurrence came about as a result of the requirement for repositioning [relocating] of Residual
-Current Circuit Breaker with Overcurrent Protection (RCBO) to meet the load balancing of the overall
-circuit. This re-work was instructed by you through Briefing Pack 20. Therefore, we do not concur with
-you that the RCBO internal wire jointing issues at this location and at other locations, is a major
-contributor to the Project’s delays.
-Subsequently, an inspection was carried out with you at the location where RCBOs with the noncompliant jointed wires have been replaced and the related NCR has been closed.
-Meanwhile, we continue to conduct daily onsite meetings with your team members as well as
-submitting weekly progress reports to you which detail the positive progress made week on week
-against the subject activities.
-We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
-obligations within the shortest possible time, without compromising on safety and quality, but will not
-be held responsible for such factors as those outlined above for which we are not culpable.
+Figure 2 – Damage in Various Retails Units
+
+Retail Unit 2024: PAVA Circuit No. 10.15-L2.0-110
+093-3
+
+Retail Unit 2064: PAVA Circuit No. 10.21-L2.0-
+
+Retail Unit 2064: PAVA Circuit No. 10.21-L2.0-093-5
+100
+
+Retail Unit 2643: PAVA Circuit No. 10.16-L2.0-
+
+Retail Unit 2643: PAVA Circuit No. 10.16-L2.0-100
+
+Please note that after we completed the installation, inspection, handover and prior to the Testing and
+Commissioning (T&C) of the PAVE System, DEPA commenced with the Employer’s Fit-out works at
+several Tenant areas to the CP Etihad Lounge. Evidently, despite our numerous requests and reminders,
+DEPA neglected the previously agreed and approved procedures identified in the method statement
+regarding any modifications to the Extra Low Voltage (ELV) system, and proceeded to temporarily
+remove our previously installed speakers, noise sensors and LIMs at the Tenant areas to the CP Etihad
+Lounge.
+Subsequent to the removal by DEPA of the aforementioned PAVE system and after the completion of
+the respective Tenants’ works, we now find that the PAVE equipment has been improperly reinstalled /
+refitted by DEPA. Consequently, due to DEPA’s poor workmanship and flagrant disregard of our Works,
+this has resulted in damage and incorrect re-installation of the PAVE systems (i.e. speakers, noise
+sensors and LIMs) as shown in Figure 1 and Figure 2 above as well as shown in Figure 3 below.
+Additionally, along with the damage caused to the equipment and the incorrect re-fitting / reinstallation of speakers (Figure 3 refers), DEPA’s poor workmanship also caused numerous loose
+connections (open circuits) encountered along the loop and incorrect terminations (short circuits), in the
+manner shown in Figure 1 and 2 above.
+Figure 3
+In view of the foregoing and due to the current state of the PAVE System, we have been and continue to
+be prevented from completing the Testing and Commissioning of the PBA Circuit Nos: 10.13-L2.0115/116, 10.13-L3.0-87/88, and 10.13-L3.0-12/13 which would be used at the Etihad Lounge, as well as
+preventing completion of the Testing and Commissioning to the Retail Unit circuits identified in Figure 2.
+As a consequence of which, our progress has been delayed and disrupted to the Etihad Lounge given
+that our resources had to be diverted in order to troubleshoot the matter (1 day) as well as undertake
+some initial rectification works (2-3 days), which could have been avoidable provided the correct
+procedures were respected. Note that similar levels of disruption have been encountered to date in the
+Retail Units.
+We wish to put on record that the foregoing events are not of our doing or responsibility, and any
+rectification / remedial works necessarily required at this stage, will invariably delay us. These acts of
+prevention were entirely avoidable and as a result they are both delaying and disrupting our progress.
+In order for us to complete the rectification works to the damaged works noted above, we will require a
+Variation Order (VO) / Engineer’s Instruction (EI) to enable us to do so and ensure we are appropriately
+reimbursed – both for the additional time, as well as the additional costs involved. In this regard, SAA8
+laid down strict guidelines to follow in the event that additional works are required and we therefore
+request you to issue us the necessary VO / EI for the requisite rectification works to be undertaken.
+Lastly, we urge you to take whatever action is necessary on your part to prevent any further occurrence
+of damage being caused to our previously handed-over Works by the Employer’s Other Contractors.
 Yours faithfully,

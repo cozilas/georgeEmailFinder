@@ -1,22 +1,25 @@
-Dear Sir,
-The Contractor refers to the Engineer's Instruction ("El") Nr 111 at reference 1 (received by the
-Contractor on 28 January 2016) which has been issued as a Variation Instruction pursuant to General
-Condition ("GC")
-13.1.1 of Volume 3 of the Contract.
 
-The Contractor is of the opinion that this Engineer's Variation Instruction may provide the Contractor
-with entitlement for additional payment for the resulting varied Works as an addition to the Contract
-Price pursuant to GC 13.6.1 and may provide the Contractor with entitlement to receive extension(s) to
-the affected Time(s) for Completion pursuant to GC 8.4.1(a) for any delays consequently incurred due to
-executing the varied Works.
+Dear Sir
 
-Accordingly, the Contractor hereby notifies the Engineer's Assistant of the Contractor's intention to
-claim for its possible entitlement (1) for additional payment due to El Nr 111 (notification pursuant to
-GC 20.1.2) and,
-(2) for any extensions to the affected Time(s) for Completion for any delays that may be incurred due to
-El Nr 111 (notification pursuant to GC 8.4.2 and GC 20.1.2).
+The contractor is writing with reference to the problems being encountered with the implementation of
+the new Q-PRO procedures, Ashgal’s new web based permit application system.
 
-Please rest assured however that notwithstanding the above, the Contractor will endeavour, in
-accordance with its contractual obligations, to mitigate any delays and additional costs incurred due to
-El Nr 111.
+The new system went live, and the old system would no longer accept any new permit applications,
+after the 1st week of October 2015. After 3 weeks of registration the Contractor was able to issue its
+first application for Bin Mahmoud station on the 5th November 2015. A further 8 applications have since
+been issued for other stations, the latest one on the 20th December 2015. To date no permits have been
+issued through the new online system.
+
+The ongoing situation is now causing delays to the commencement and completion of certain works on
+these stations.
+
+Accordingly this letter serves as the Contractor’s extension of time notice pursuant to General Condition
+(“GC”) 8.4.2 of Volume 3 of the Contract that the Contractor believes that it may be entitled to
+extension(s) to the Time(s) for Completion pursuant to GC 8.4.1(c) as a result of the delays and, as the
+Contractor’s “Claim” notice (for possible extensions of time and additional payment) pursuant to GC
+20.1.2.
+
+Please rest assured the notwithstanding the above the Contractor will endeavor to mitigate any delays
+and additional costs in accordance with its contractual obligations.
+
 Yours faithfully,

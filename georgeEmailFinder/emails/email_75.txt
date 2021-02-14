@@ -1,66 +1,30 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0263
-
-Delayed Access to Central Processor Retail Unit 2014 – Acts of Prevention on the part of Others –
-Delaying Completion of HVAC Testing and Commissioning Works
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 269 [post-SAA8]
+Delayed Confirmation of Required Grout Work Verification Boreholes to Pier 2
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A hereto, concern acts of prevention on the part of the Employer’s
-Other Contractor denying us access to Retail Unit 2014, which is delaying Testing and Commissioning
-Works.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Accordingly, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the delaying event described herein.
-ANNEX A
-Description of the Event
-On 1 April 2020, we submitted Re-Entry Permit / NOC RDD-1042, requesting re-entry / access to Central
-Processor (CP) Retail Unit (RU) 2014 to allow us to complete the Heat Ventilation Air Conditioning
-(HVAC) Testing and Commissioning (TC) Works. However, despite us raising RDD-1042 on 1 April 2020,
-it took you five (5) calendar days later, until 6 April 2020 to respond; which even allowing a nominal
-three-day turn-around time for you to process, meant it was returned two calendar days late (Table 1
-below, refers).
-Table 1
-NOC No.
-Rev
-Unit
-Description
-Date Request Issued
-[TCA JV to CMA]
-Response Due Response Received
-Reply Overdue By
-[calendar days]
-RDD-1042
-0
-2014 HVAC Testing and Commissioning
-01-Apr-20
-04-Apr-20
-06-Apr-20
-2 days
-Notwithstanding the late response, we further note that RDD-1042 had been returned back classified as
-“Rejected”, due to the Employer’s Tenant Contractor (M/s BWI) stating:
-“BWI Comments for RDD Permit: 1. BWI Storage area for tools and materials. No storekeeper and area is
-fully congested. Will approve once we are back on site”.
-We were informed of this by your e-mail dated 6 April 2020 [2:20 PM]. However, when we enquired as
-to when M/s BWI would be back on site, you informed vide e-mail also dated 6 April 2020 [6:02 PM],
-that the Employer’s Tenant Contractor “will be back at site in 20th of April” (refer to Figure 1). We then
-wrote to you again by way of a further e-mail dated 7 April 2020 [8.54 AM], giving you advance notice
-that this ‘event’ is “delaying our works” (copies of our various e-mail exchanges are attached at Annex B
-hereto):
-Figure 1
+On 7 April 2020 (ref: 1), we e-mailed the Employer’s Geotechnical Consultant (RHDHV) requesting their
+confirmation of the indicative locations of the remaining Verification Boreholes (VBH) to Pier 2 indicated
+on the attachment appended thereto. Following which, on 9 April 2020 (ref: 2), RHDHV responded and
 
-However, despite you advising us that the Employer’s Tenant Contractor would return on 20 April 2020,
-this failed to happen. In fact, at the date of drafting this E-Notice (6 May 2020), we have yet to be
-provided access to RU-2014 to complete our Works. This is ‘act of prevention’ is entirely beyond our
-control and responsibility and is preventing us from completing testing and commissioning; and is likely
-to prevent us obtaining the Building Completion Certificate (BCC). This is critical in us achieving
-completion of Milestone MS09B and will invariably prevent us from achieving Substantial Completion
-(i.e. Milestone MS09C).
+amongst other things requested confirmation of some missing grouting records. We complied and on
+13 April 2020 (ref: 3), forwarded a response from BAUER and accordingly requested “review and
+feedback.”
+However, despite issuing a succession of e-mails to RHDHV and you, requesting approval of the
+suggested VBH’s for remaining areas to Pier 2, including without limitation our e-mails dated 11 April
+2020 [8:24 AM], 26 April 2020 [10:11 AM], 7 May 2020 [9:10 AM], and 14 May 2020 [11:57 AM] (ref: 4),
+you failed to reply.
+In our last e-mail (ref: 4), made it patently clear that if you fail to reply [promptly] and provide
+confirmation / approval of the required VBH’s to Pier 2, we would have no option but to demobilize our
+geotechnical subcontractor company (Al Hai Mukkadam) in order to avoid incurring additional costs of
+idle time due to your failure to provide any further directives on the matter, despite our repeated
+requests that you do so.
+Once again however, despite our further request for “prompt actions and feedback”, you failed to reply.
+Therefore, in light of the successive acts of prevention described above, we hereby give you notice,
+pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

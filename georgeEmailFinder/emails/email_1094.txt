@@ -1,34 +1,26 @@
-Subject: Request for an Engineer's Instruction and Confirmation of Variation Order Pursuant to COC SubClause 20.1.4 (b) for Chilled Water System "Lay-up Chemical"
-
-Dear Sir,
-We enclose our Mechanical Subcontractor, PCEJV's letter reference: (1) above, whereby they have
-proposed two viable options for insertion of lay-up chemical into the MTB chilled water network in
-order
-to mitigate the risk of contamination.
-PCEJV highlighted the ongoing contamination issues in AHU coils due to the increased iron and
-suspended
-solids, resulted from the lower circulation velocity of chilled water in certain areas.
-This will ultimately lead to the formation of pipe slag and corrosion /rust chips, which would loose and
-break away from the pipe walls with time and/or once the circulation velocity is increased. Thereafter,
-these chips would be carried along with the water and deposited on the inlet side and the internal
-surfaces of the AHU coils, causing loss of flow rate, thereby decreasing the cooling efficiency.
-Please be advised that, the available mass flow rate in the MTB chilled water network is seventy-two
-percent (72%) of the system design volume. As such, the risk of contamination is increasing and will be
-Site wide if not managed.
-In light of the above, PCEJV has proposed following viable options to mitigate the above risk. The
-technical
-data for the lay-up chemical, which has been provided by PCEJV, is also enclosed herewith:
-1. Insertion of lay-up chemical, whilst continuing circulation, to assist with lower circulation and protect
-pipe I coils.
-2. Insertion of lay-up chemical and shutting down of the network upon Flushing I Commissioning works.
-Implementation of any of the above proposals is a Variation to our Scope of Works and as such, will
-have
-cost and time implications. In light of the above, we request that the Engineer will take one of the
-following actions immediately:
-1) Issue an Engineer's instruction and revised Specifications, etc. pursuant to Sub-Clause 20.1.1 (a)
-along with a formal Variation Order pursuant Sub-Clause 20.1.2 of the Conditions of Contract, if
-the Engineer requires one of the above proposals to be implemented; Or
-2) Propose any other suitable resolution to this issue and advise us accordingly. We trust the Engineer
-understands the criticality of the issue and will take necessary actions as a matter
-of urgency.
+Subject: Delay Notice No. 1013 - Engineer's Failure to Instruct IFC Drawings for the
+Dear Sir
+Common Use Self Service Kiosk Cameras and Data Points
+On 25 September 2017, the Contractor issued a Variation Order Request, under the cover of letter ref:
+MTBITCAIAECOMILI11561, dated 24 September 2017. In reference to the Employer's Design
+Consultant's
+response to RFI/0401115005 on 13 September 2017, the Contractor averred that the "the information,
+comments, clarifications and/or instruction contained therein constitute a Variation". Although the
+response to RFI/0401115005 proposed additional cameras, data points and switch ports in the Common
+Use Self Service (CUSS) kiosks, the Engineer has yet to incorporate the changes into IFC Drawings and
+instruct pursuant to CC-C 20.1.1(a).
+In relation thereto, the Contractor records that to date, the design information still remains outstanding.
+Therefore, the Engineer is urged to issue the revised design and accompanying Instruction to allow the
+CUSS works to progress.
+The Contractor contends that the Engineer's I Employer's Design Consultant's continued failure to
+address
+this matter constitutes a breach of Contract or an act of prevention on the part of the Employer's
+Personnel. Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the
+Contractor hereby notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
+the alternative, damages for breach of Contract.
+Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
+in
+due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

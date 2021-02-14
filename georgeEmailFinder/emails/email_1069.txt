@@ -1,68 +1,97 @@
-Subject:Notice of Likely Delay No. xxxx
-Variation Order Confirmation
-Dear Sir,
-With reference to your letter (_) above please be advised that the comments, clarifications and/or
-instructions contained therein constitute a Variation.
-The Engineer issued the following [list below the Engineer’s information which constitutes a Variation]:
-1.
-___
-2.
-___
-[Describe the changes by illustrating change from the original contract Documents in order to support
-the necessary confirmation that the new information constitutes a Variation; attach relevant documents
-as necessary to show the basis of entitlement]
-A.
-If the information provided is partial, incomplete or not capable of being implemented with
-immediate effect without further clarity and details then keep this part A, and delete part B, then
-continue to part C. If not, delete this part A and continue to Part B.
-The information provided in the document(s) outlined above which include comments, clarifications and
-/ or instructions are not complete or adequate. As a result such information does not constitute an
-instruction and revised or additional Drawings and/or revised or/additional Specification for the purpose
-of execution of Works. In addition the information is discrepant with previously issued Drawings and/or
-Specification Sections.
-You are requested to issue complete fully developed, coordinated and conformed Drawings and/or
-Specification Sections which clearly expresses the Employer’s requirements free of discrepancies or
-conflicts with previously issued Drawings and/or Specification Sections.
-Be reminded that the Engineer is solely responsible to resolve and rectify all errors, omissions,
-ambiguities, inconsistencies, discrepancies and any other inadequacies, defects or deficiencies in the
-Drawings and/or Specifications. Unreasonably refusing and/or taking any action contrary to the
-specified professional duties of the Engineer is a breach of Contract and an act of prevention.
-We are unable to undertake such changes without an instruction and revised Drawings and/or
-Specification in accordance with the Contract.
-B.
-If the information provided is complete and capable of being implemented with immediate
-effect
-but no formal Variation Order has been instructed, then use this part B, delete part A and continue to
-part C:
-In accordance with Conditions of Contract clause 20.1.4 (b), the Contractor is of the view that the
-Engineer has issued instructions constituting a Variation which are not in the form of or have not been
-confirmed in writing by the Engineer by way of a formal Variation Order.
-Also, please be advised that you have not resolved the Contractor notified errors, omissions,
-ambiguities, inconsistencies, discrepancies or other deficiencies in the Drawings and/or Specifications
-“by deferring to the order of precedence set out” in Conditions of Contract clause 9.6.1 as set out in
-Conditions of Contract clause 9.6.2.
-You are hereby requested to make a determination in accordance with your obligations under
-Conditions of Contract clause 11.4.1, which set out “…the Engineer shall make a fair determination
-strictly in accordance with these Conditions, taking due regard of all relevant circumstances but paying
 
-particular regard to the rights and obligations of the Parties as set out in the Contract.” (emphasis
-added)
-In this regard please take due regard of the Variation “test” in Conditions of Contract clause 9.6.2,
-which expressly sets out an exacting criteria and threshold for testing whether such Engineer’s
-instructions and/or clarifications constitute Variations or not. The Engineer is obliged to apply these
-provisions “strictly in accordance with these Conditions” since these provisions are provided specifically
-for this purpose.
-We are unable to undertake changes pursuant to informally revised drawings or sketches constituting a
-Variation without a formal Variation Order or a confirmation of same.
-C.
-Ending
-Please issue an Engineer’s instruction and revised Drawings and/or Specification as a Variation by means
-of a formal Variation Order to avoid further delays and additional costs arising as a result of abortive
-works and unnecessary time required to seek further clarifications or the confirmations mandated by
-Conditions of Contract clause 20.1.4, 20.1.5 and 20.3.1.
-Failing to undertake the Engineer’s duties as set out in the Contract has delayed the progress of the
-Works and will continue to do so thus resulting in delays to the Time for Completion and an increase to
-the Contract Price.
-Accordingly, we hereby notify you pursuant to CoC 9.10.3 that we intend to claim for an extension of the
-Time for Completion and the additional Cost implications.
+Subject:
+
+Commercial Disputes and Breach of Subcontract
+
+Dear Sir,
+We would like to emphasize on the above subject matter and further to our numerous meetings and
+emails, included but not limited to those referred herewith, you are hereby informed of your continuous
+failure to meet your contractual obligations and responsibilities and further failure to submit the
+required RFVO Submissions within the time frame. So far, we have experienced the following
+misconducts which could result to a breach of the Subcontract:
+•
+Despite our numerous requests, your commercial representative has never been fully mobilized
+on the Site since the commencement date of the Subcontract and due to this reason many issues have
+arisen. Please be informed that, your commercial representative is hard to reach and does not reply to
+emails in a timely manner. Kindly be notified that your representative is showing unprofessional
+behavior in the coordination and communication with our staff in many occasions. This is a failure of
+your Subcontract Obligations, pursuant to the provisions under Clause 12.11 [Cooperation] and 12.12
+[Other Contractors and Other Subcontractors] and particularly Clause 12.11.2, wherein “The
+Subcontractor shall be responsible for its construction activities on the Site, and shall coordinate its own
+activities with those of the Consultants and Other Subcontractors so as not to obstruct, disrupt or delay
+work being performed by the Consultants and Other Subcontractors”;
+•
+As mentioned in our letter reference MTB/TCA/CCM/L/000486 dated 3 January 2018, your
+direct communication with the Employer/Engineer without our knowledge is totally unacceptable and is
+considered a breach of the Subcontract pursuant to Subcontract Agreement 14.9.3 [Subcontractor’s
+Personnel] and 9.18.1 [Independent Subcontractor] which states that “The Subcontractor shall act as an
+independent contractor in performing the Subcontract Works, maintaining complete control over its
+employees and all Sub-subcontractors and shall in no case represent, or be the agent of, the Contractor
+or act in the Contractor’s name without the prior written consent of the Contractor”.
+•
+Furthermore, your intention to stop the works due to the foregoing has come to our attention.
+In the event whereby the aforementioned proves to be truthful and you indeed intend to stop the
+works, then you will have to substantiate your entitlement to suspend the Works according to the
+Subcontract Agreement Clause 23.1 [Subcontractor's Entitlement to Suspend Work]. Please note that if
+you fail to present legitimate reasons for suspending the works, then as per Clause 22.2 [Termination by
+Contractor for Subcontractor Default] you will be held fully responsible for breach of contract.
+Consequently, you will be held fully responsible for the consequences arising out of such potential
+breaches and the associated knock-on effects to the Contractor’s ability to administer its works under
+
+the Contract with the Employer. We put on record the effects that may arise out of potentially multiple
+breaches of the Subcontract provisions as per Clause 22.2.2 (c), (d), (f), (g) & (i) [Termination by
+Contractor for Subcontractor Default].
+Moreover, your attention is brought to Clauses 8 [Subcontractor’s Obligations], 8.1.1, 8.1.2, 8.1.3 and
+8.1.4 [Reliance upon Subcontractor] and specifically to Clause 8.1.3 which states the following:
+“The Subcontractor's duties, obligations and responsibilities under and in connection with the
+Subcontract, and the Subcontractor's liability to the Contractor for the consequences of any breach of
+the Subcontract, negligence or other default shall in no way be excused, waived, negated or diminished
+by:
+(a) any process of review, checking, inspection, examination, testing, monitoring or supervision which
+may be carried out by the Contractor, the Contractor's Personnel, the Contractor's Affiliates, other
+Consultants or any other persons appointed or authorized by the Contractor to carry out such tasks; or
+(b) any acknowledgement, encouragement, approval or consent, or any comment, proposal, request,
+notice, decision, direction, instruction or certificate which might be made, given or issued by the
+Contractor or any of the aforementioned persons during the carrying out or as a consequence of such
+tasks or on the recommendation or advice of the Subcontractor”.
+In addition to the above, you are reminded that you are obligated to continue with the works pursuant
+to the signed Collateral Warranty and Subcontract Clauses 12.9.3 [Subcontracting] and all relevant
+provisions under Clause 8 [Subcontractor May Not Terminate Or Discontinue] Schedule 7-Part 1
+[Subcontractor Collateral Warranty].
+Furthermore, please refer to the Conditions of Contract Clause 20.3.11 [Variation Procedure] which
+state “The Subcontractor shall not be entitled to defer, delay or suspend the carrying out of any of the
+Subcontract Works (including any aspects and/or elements of the Subcontract Works which may be
+affected by the Value Engineering Proposal or proposed Variation) whilst the Contractor considers
+and/or the Parties discuss and endeavor to agree the Subcontractors proposals.”
+In addition to the above, please be informed that an official issuance of Variation Orders for your
+submitted RFVO’s, is pending with the Engineer. In the meantime, in the absence of the issuance of the
+pending Variation Orders from the Engineer and as a gesture of good will, we have been certifying and
+releasing on-account payments, as shown below:
+The above figures clearly show that we have been assisting you financially by certifying more than what
+you have been actually applying for. Although your cumulative progress application on Variations is
+5,237,273 AED as of December 2017, we have made on-account payments as follows:
+•
+13,711,500 AED for Variations Orders; and
+•
+22,606,342.57 AED MOS related to Variations.
+The above amounts sum up to 36,317,842.57 AED in total for on-account payments for Variations.
+In addition to this, we did not reflect Engineer’s deductions on Variation MOS Payments in your
+payment certifications. As of today, we have not received any Variation Order from the Engineer
+regarding your outstanding RFVO’s. However, we have been issuing Variation Orders to you in order to
+support you financially. Despite the issuance of Variation Orders No. 4, 5, 6 and 7 from our side, we have
+not yet received the signed copies from you yet. You are well aware of the fact that the certification and
+subsequently the payment of a Variation Order is subject to approval and signature of the Variation
+Order from both Parties.
+
+Apart from the abovementioned failures by you, with reference to our letter MTB/TCA/CCM/L/000507
+dated 6 February 2018 and numerous correspondences and emails between the Parties, we write to
+inform you that despite our efforts, the Exchange Rate used in the Engineer’s Assessments for all RFVOs
+and consequently Variations Orders is determined as 4.30 AED/EUR by the Employer. We believe this is
+fair and reasonable based on the rate fluctuations of the concerned period.
+Consequently, be informed that any delays, costs, claims, losses and/or expenses and the like incurred
+by us and/or Other Sub-Contractors arising as a result of your failure to proceed with the works
+expeditiously and without delay will be solely your responsibility as per the Subcontract Agreement
+Clauses including but not limited to 10.3 [Contractors Claims], 12.12.4 [Other Contractors and other
+Subcontractors] and 16.6 [Delay Damages].
+This is for your immediate attention, compliance and further action.
 Yours faithfully,

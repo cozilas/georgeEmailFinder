@@ -1,16 +1,155 @@
-Subject SAA8 Sub-Clause 2.26: E-Notice No.0089 Overdue Responses to 728 Shop Drawings
-as at 2 May 2019 and SAA8 Sub-Clause 2.26: E-Notice No.0095 Overdue Responses
-Dear Sir,
-We write with reference to correspondence (1) and (2) regarding the potential delay to the Works as a
-result of alleged delays to the response of Shop Drawings.
-The Contractor is reminded that in order to avoid any potential delays, they are required to submit the
-drawings in a timely manner as per Clause 3.3. f of Section 01 33 00 of the Specifications otherwise
-there is no entitlement for any extension to the time for completion. We note that the majority of the
-submitted drawings are revision 2 and above which evidences the poor quality of these submissions
-and the inability of the Contractor to effectively address the Engineer's comments.
-The Contractor's assertion that the alleged delay to the review of the Shop Drawings will potentially
-have an impact to their ability to achieve Substantial Completion is unfounded and the Contractor is
-referred to its critical delays to the Project that have been notified to the Contractor by the Engineer.
-The Engineer reserves the Employer's rights pursuant to Clause 10.3 of the Conditions of Contract for
-any delays which may be incurred to the Project.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0107
+Engineer’s Responses to RFI Nos. 16346, 16794, 17087, 17158, 17056, 17157, and 17185 –
+Changes to Doors Hardware, Acoustic/Fire Ratings, SACS, Handing etc.: Request for Engineer’s
+Instruction / Variation Order
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
+may cause delay and/or disruption to the Works; hence we seek your swift resolution of the same.
+The Event(s):
+Between 30 July 2018 and 9 June 2019 we submitted the following seven (7) RFIs, requesting further
+clarification and resolution of what is in effect design related issues affecting a corresponding number of
+doors (7 nos.) to various areas and levels of the Main Terminal Building (Table 1 refers).
+Table 1
+Item Date Submitted RFI No. Door No.
+Description
+Date Reply Req’d By
+Date
+of
+Response
+Overdue
+By
+1
+30-Jul-18
+RFI/0401/16346
+88-C-L30-2478.01
+Discrepancy between Door
+Schedule and SACS Schedule 20-Aug-18
+27-Sep-18
+38
+2
+25-Mar-19
+RFI/0401/16974
+88-C-L01-0184.01
+Room # L01-0184 Changed
+Function to APM Switch GEAR Room
+15-Apr-19
+14-May-19
+29
+3
+02-May-19
+RFI/0401/17087
+88-P4-L10-1749.01
+Door Fire Rating Confirmation
+for Door no.P4-L10-1749.01
+23-May-19
+20-May-19
+-3
+4
+26-May-19
+RFI/0401/17158
+88-P2-L10-2395.01
+DOOR
+2395.01
+LOCATION
+16-Jun-19
+24-Jun-19
+8
+5
+22-Apr-19
+RFI/0401/17056
+88-C-L10-0113.01
+Room
+88.C.L10.0113.13.AS
+Designation
+13-May-19
+09-Jun-19
+27
+6
+26-May-19
+RFI/0401/17157
+88-C-L20-0603.01
+Level 2.0 , door 0603.01 16-Jun19
+12-Jun-19
+-4
+
+7
+9-Jun-19
+RFI/0401/17185
+88-C-L30-2375.01
+Clarification for the door no :
+2375 @ L3.0 Janitor closet
+30-Jun-19
+18-Jun-19
+-12
+Firstly, we wish to record that 4 out of the 7 RFIs identified in Table 1 above (items 1, 2, 4 and 5), were
+not responded by you within the times expressly required by us. At this stage of the Project, for you to
+take upwards of 38 calendar days to reply and respond to the various matters identified therein (as per
+Item 1, i.e. RFI/0401/16346), is wholly unacceptable and will invariably knock on and have a
+consequential impact on our progress and delay us; this delay was otherwise wholly avoidable.
+Secondly, we further record that although RFI/0401/16346 was submitted on 30 July 2018, i.e. prior to
+the ‘Effective Date’ included in SAA8 (4 September 2018), you failed to reply until 27 September 2018.
+This cannot possibly be construed as forming part of or ‘Included Circumstances’ (per Clause 1.7.4 of
+SAA8) and will be included within any forthcoming Time Impact Analysis, albeit in recognition of the
+Effective Date included in SAA8, any delays will be analysed from 4 September 2018 onwards.
+Furthermore, we wish to put on record that your responses to all seven (7) RFIs summarised in Table 1
+above, introduced substantial changes to our original scope of Works, including but not limited to
+changes to Doors, Doors Hardware, Fire/Acoustic Rating, SACS, Handing etc. Moreover, such changes
+will result in the following, involving coordination of numerous subcontractors and/or manufacturers:
+•
+Procurement and installation of new doors hardware;
+•
+Procurement and installation of new doors;
+•
+Installation of Door Control Units (DCUs) and wiring;
+•
+Installation of wiring to comply with the SACS changes introduced;
+•
+Doors may need to be shipped back to the manufacturer for fire rating labelling and fire rating
+compliance;
+•
+Changes to doors SACS; and
+•
+Changes to the Master Key Schedule.
+At Annex A hereto, we attach a comprehensive summary which compares the pre-RFI response (as
+shown on the previous Door Schedule and corresponding EI) and the changes that you are seeking to
+introduce through the responses to the RFIs listed in Table 1; in respect of all seven (7) doors. The
+changes between the two are clearly highlighted in yellow for ease of identification and reference.
+Kindly note the information recorded in table 1 and Annex A, is limited to seven (7) doors only. We are
+aware that other doors may also be affected and are now in the process of consolidating more issues in
+respect of more changes introduced via other Engineer’s RFI responses to other doors. Once we have
+determined the outcome of this further study, we will advise you accordingly in due course.
+In the meantime, as noted above, all seven (7) RFI responses attempt to introduce changes to the
+existing IFC design and will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
+It is become evidently clear that there are numerous unresolved issues owing to the lack of a final
+overall comprehensive and clear design with all the necessary information required by us to complete
+the door installation works. Notwithstanding the fact that you are aware that the majority of these
+works may have already been implemented based on an earlier version of the design, the pattern
+whereby you progressively revise and update the design appears to continue. This is unacceptable.
+SAA8 laid down mandatory procedures to be followed if additional works are required, and you have
+failed to follow these; an EI and VO are needed for us to proceed with the aforementioned changes.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above. We trust this is clear.
+
+Potential Impact:
+We note that the foregoing events and/or circumstances are undeniably delaying the installation of the
+doors, doors hardware and the other door related issues. While at present this notice is limited to seven
+(7) doors in particular, there are potentially other doors that will be affected also. In any event, your
+requirement to introduce fundamental changes to Doors, Doors Hardware, Fire/Acoustic Rating, SACS,
+Handing etc., at such a late stage of the Project, is very likely to have a direct impact upon our ability to
+achieve Milestone MS09B and similarly impact MS09C (Substantial Completion).
+Action Required:
+It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

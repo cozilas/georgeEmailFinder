@@ -1,20 +1,130 @@
-Subject:
+GUIDE-LINES
+SUBCONTRACTORS SUBMISSIONS OF COSTS FOR PROLONGATION, DISRUPTION, SPECIAL MEASURES
+AND SUCH LIKE
+Guidelines on Information Required for Cost Substantiation
+Prolongation and Disruption Costs
+The following sets out the minimal requirements for cost substantiation documents from TCA-JV’s
+Subcontractors, where further audits are to be carried out.
 
-Inspection Following Ceiling Fall Incident
+The Subcontractors need to provide, as a minimum, the following:
+1.
+Cost substantiation should be presented in a proper structure with supporting narrative and
+appendices which reflects the ‘cost sections/headings’ listed on the Subcontractors’ overall cost
+summary sheet (excel copy - cost spread monthly), where cost substantiation is provided on a month by
+month basis.
+2.
+The Subcontractor must provide the details of costs by reference to the resources deployed and
+invoices etc., to substantiate the actual costs of time related costs, i.e. prolongation costs.
+3.
+Detailed calculations for the additional costs must be provided in a spreadsheet format. Such
+spreadsheets should be consistent with the narrative in terms of titles and column headings (sample
+provided).
+4.
+Invoices should be individually referenced and cross-referenced back to secondary summary
+sheets which then correlates to the overall cost summary sheet, so that the reviewer may easily verify
+and track all costs.
+5. Tender and actual project organization charts.
+6. Proof of Subcontractor monthly reporting on claims and EoT’s (Extension of Time) related issues.
+7. Proof of Subcontractors monthly reporting on delay and disruption mitigation measures undertaken.
+8. Staff salary certificates should be provided for all staff claimed over the prolonged period, supported
+by timesheets and proof of site presence.
+9. Other staff and management supporting documents should include, but not be limited to the
+following:
+•
+design, engineering and consultancy invoices
+•
+salary certificates, timesheets, site clock-in records, site badges/ID’s
+•
+purchase orders and quotations
+•
+health insurance, visa costs, invoices
+•
+employee tenancy agreements
+•
+employee car rental agreements
+•
+employee general expenses
+10.
+Plant, equipment and tools provided on site are to be supported by timesheets and proof of site
+presence. Other plant, equipment and machinery and site running costs supporting documents should
+include, but not be limited to the following:
+•
+•
+•
+•
+•
+•
+•
 
-Dear Sir,
-Kindly find enclosed the Engineer’s letter referenced (1) above which is self-explanatory. Specifically, the
-Engineer’s letter is regarding an incident on site where a previously installed ceiling panel became
-dislodged and fell at level 1 of the CP area. For clarity and for the purpose of interpretation, “the
-Contractor” in the Engineer’s letter shall be read as “the Subcontractor”.
-In light of the above, you are instructed pursuant to Clause 11.3 [Instructions of the Contractor] to
-immediately take appropriate action and submit all required information and comply with the
-Engineer’s request accordingly.
-You are hereby advised to implement strict preventive measures in order to avoid such incidents in the
-future. Accordingly, any delays, costs, losses and/or expenses and the like incurred by us and/or Other
-Sub-Contractors arising as a result of the aforementioned issue, will be solely your responsibility
-including but not limited to Clauses 10.3 [Contractor’s Claims] and 12.12 [Other Contractors and Other
-Subcontractors] and shall be deducted/backcharged from your interim payments accordingly
-You are therefore required to reply with all the information requested within 3 working days upon
-receipt of this letter. This is for your utmost attention and immediate action.
+plant, equipment and machinery invoices
+scaffolding services agreements & invoices (labour hire)
+site running costs & invoices (back-charges listed separately)
+site delivery notes
+site office IT, furniture and office equipment invoices
+safety and HSE equipment invoices
+survey services agreements & invoices
+
+•
+diesel consumption reports which should match with equipment, plant & machinery lists
+•
+services, plant, equipment provided by TCA-JV should be listed separately
+•
+plant, machinery and equipment deprecation should be substantiated on a monthly basis
+separately (if not included in Company Overheads)
+11.
+Additional costs in relation to Employer variation orders or instructed varied works cannot be
+included in EoT cost submissions and these need to be allocated and dealt with separately under TCAJV’s V/O Department. Any ‘duplication’ of costs in relation to EoT and V/O cost submissions will be
+deducted accordingly. It will be each Subcontractor’s obligation to demonstrate that duplication of costs
+(EoT & Variations) has not occurred in this respect.
+12.
+Disruption costs (if any) related to ‘site labour disruption’ is required to be properly
+substantiated in accordance with the ‘Measured Mile’ approach, if deemed appropriate or similar
+justifiable means. These costs are not to be based on a theoretical calculation basis only. These costs
+require full substantiation of actual costs incurred with clear and supported records and documents.
+Disruption costs require further detailed substantiation and detailed site records to show where, when
+and how sections of the Subcontract Works were actually disrupted, and by which party.
+13.
+Acceleration costs (if any) is required to be properly substantiated. These costs are not to be
+based on a theoretical calculation only. These costs require full substantiation of actual costs incurred
+with clear and supported records and documents. Acceleration costs require further detailed
+substantiation and detailed site records to show where, when and how sections of the Subcontract
+Works were actually accelerated and how these measures have achieved their respective accelerated
+targets. Details of the formal instruction to accelerate which the Subcontractor should have received
+from TCA-JV or the Engineer/Employer should also be provided.
+14.
+Subcontractor’s Overhead costs is required to be properly substantiated, where auditable
+financial company reports can be provided for the previous 4 years to demonstrate the Subcontractor’s
+Overheads on a yearly % basis. Emden’s or Hudson’s Formulae are not to be used. An average %
+overhead calculation is to be shown (per year) for any year provided, which should not include Profit.
+Profit is excluded for EoT cost submission purposes. The overhead should be expressed as % for each
+year provided with the supporting company financial audit reports to demonstrate how that % was
+calculated for that given year. Alternatively, actual Company Overheads can be provided and
+substantiated for the project as a whole.
+15.
+Subcontractors cost documentation, substantiation and supporting files are to be provided on
+disc, in a structured manner which can be followed. PDF and Excel copies (cost calculation sheets) of all
+documents are to be clear and readable, copies which are unreadable or poorly scanned will be
+returned in full. Language needs to be in English (for all documents) and any translation required will be
+the Subcontractor’s responsibility to provide.
+16.
+Subcontractors are required to submit all substantiation of prolongation costs in a monthly
+breakdown format. Invoices and back up data needs to be allocated clearly to the month where the
+costs are actually incurred. This will identify the actual costs incurred in each respective month.
+17.
+All summary, primary and secondary calculation sheets (cost summary sheets) are to be
+provided in both PDF and Excel formats.
+
+18.
+All cost substantiation and supporting documentation is to be referred to and related to the Abu
+Dhabi Airport Project in some form, which clearly identifies that the cost data provided is related solely
+for the purpose of this project only.
+Conclusion:Subcontractors cost substantiation is to be provided in a ‘structured format’ and in a ‘properly organized
+manner’ professionally and clearly presented and easy to follow which reflects the sections and cost
+headings in the overall cost summary sheet (sample provided).
+This will enable TCA-JV and the Engineer’s Auditors to follow the costs in a constructive and organized
+manner. It is also imperative that every Subcontractor carries out its’ own ‘internal audits’ of its’ cost
+substantiation prior to submission.
+Important Notices:TCA-JV and the Engineer shall review the full submission upon receipt of a complete file with the
+required level of substantiation. Therefore, TCA-JV urges the Subcontractors to expedite its efforts and
+provide full details, cost substantiation and documents in line with the requirements set out.
 Yours faithfully,

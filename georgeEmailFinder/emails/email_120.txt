@@ -1,91 +1,49 @@
+Subject: Observation of subsidence in areas between gh01 and pqc pavement
+Dear Sir
+We have observed considerable subsidence to the finished works all around pier 1 area towards the pqc
+pavement, particularly to the block paving and kerbs, lamp masts, column surrounds and underground
+services entering the building. Please see enclosed visual records for the current situation.
+The gatehouse itself has not moved, as the pile foundations support it, however there are signs that the
+chilled water pipes seem to have slumped at the wall opening.
+We believe the cause of this subsidence being the impact of flood and inundation experienced during
+the heavy rainfall on 10 November 2019.
+Please note that there was no wet weather plan in place from the Other Contractor (L&T) and the
+rainwater was allowed to run off from the pqc apron and enter the previously excavated trench for mta
+stormwater line via the channel drain, which had not been blocked at the excavation zone. This started
+the process of material collapse and the settlement is continuing between gatehouses 1 and 3.
 
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0240
-External Electrical Distribution Boards ADDC Approval – Request for Provision of Type-Tested Enclosure
-or GRP Enclosure – Request for EI and VO
+Though this has been informed to the engineer and the employer during numerous sidewalks and
+meetings at the time, the issue seems to have been overlooked. We are continuing to monitor the
+settlement as it seems to have reached the other side of the gse road near the building where our
+services are located.
+We further continue to check all underground services for movement; remove and relay paving and
+make corrections to the column surrounds, whereas the other contractor (L&T) will also have to re-enter
+the area to remove and replace PQC concrete panels.
+This is for your information and further action in furnishing necessary guidance and instructions.
+Your faithfully
+Subject:Coronavirus (COVID-19) Pandemic – Update (Further Developments)
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters recorded in Annex A describe an attempt made by you at instigating changes to our existing
-scope associated with the ADDC Approval of External Electrical Distribution Boards which will require a
-valid Engineer’s Instruction and Variation Order in order for you to us to provide either a Type-Tested
-Enclosure or a GRP Enclosure. The decision as to which option is required needs to be determined by
-you.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 24 February 2020 [6:43 PM], we e-mailed our Electrical Subcontractor (ANEL) in connection with the
-‘External FDB ADDC Approval’ asking them to approach the manufacturer of the FDB (SCHNEIDER), for
-‘[an undertaking letter] and approach to ADDC for the approval of external FDB panels similar to
-attached block set approval processes was followed. Otherwise we are not able to close ADDC inspector
-comment’.
-ANEL replied on 25 February 2020 [8:22 AM] and advised us of the following:
-‘Schneider already discussed with ADDC and ADDC agreed with Schneider under the condition where
-ADAC needs to give acceptance as per the project specification approval
-Please find the attached conversation about it where AECOM accepted that installed material as per
-approved material. Hence ADAC need to provide letter to ADDC about this acceptance than it will be
-cleared
-Actually we assumed that this issue was closed last December. Anyhow this is the last situation and we
-are waiting ADAC/AECOM action on this’
-The above e-mails were forwarded to you on 25 February 2020 via our e-mail at 11:55 PM in which we
-advised that ‘actions with you please advise.’ However, you failed to respond prompting us to e-mail
-you again on 8 March 2020 at 1:56 PM. You replied on 8 March 2020 [5:10 pm] stating:
-‘We discussed the same with ADAC and ADDC last Thursday and the conclusion can be summarized as
-follows:
-1.
-The contractor to provide type test for the installed panels approved by ADDC based on the
-installed enclosure (to proof the panel suitability for outdoor applications as well as ADDC approval for
-
-such application (As that is not currently available, please start the process with ADDC noting that ADDC
-rep had taken couple of photos during the last rain where water had seeped inside the panels despite it
-should be rated for outdoor application).
-2.
-Alternatively, study the option of providing GRP enclosure and that can be presented to ADDC
-as plan B.’
-We make the following comments and observations in relation to the above:
-1.
-The FDB equipment have been approved
-2.
-Following approval, the first batch of FDBs were assembled and inspected as benchmark, and
-prior to shipping Factory Acceptance Tests were undertaken, the execution of which was witnessed and
-approved by you (the Engineer) and the Employer’s Design Consultant.
-However, you are now expecting us to decide whether we “provide a type test for the installed panels
-approved by ADDC based on the installed enclosure (to proof the panel suitability for outdoor
-applications as well as ADDC approval for such application)” or “Alternatively, study the option of
-providing GRP enclosure ….” This expectation on your part is unreasonable.
-We have already supplied and installed the FDB equipment that complies with the requirements of the
-Contract and complies with the requirement of the Employer. It is not for us to decide to provide a type
-test or a GRP enclosure. This decision is for you and Others to make, not us.
-The corrective action here is for you to approach the Employer and for the Employer to draft an
-undertaking letter to ADDC confirming that all external panels are fabricated /delivered / installed as per
-specified and accords to the IFC design, and that the FDB equipment was approved by the Employer.
-This will eliminate any ADDC’s comments and concerns.
-However, you are now requesting us to undertake to provide a type-tested enclosure or provide a GRP
-enclosure; both of which are additional to our existing scope. This represents an attempt at changing
-the existing IFC requirements and an attempt at varying our scope of Works without adopting the
-contractual mechanism for instigating any change in design, this will require the provision of revised IFC
-Drawings and an accompanying Engineer’s Instruction/Variation Order for us to integrate such change
-into the Works.
-We therefore take this further opportunity in reminding you of the provisions of Clause 2.29 to Clause
-2.31 of Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we
-are not to proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued
-first. In which respect, it is your obligation to issue this Record first if you wish to instigate change to the
-Project; this is only after the additional time and/or costs impacts have been agreed between us
-beforehand.
-Therefore given that SAA8 laid down strict guidelines to follow if additional works are required and it is
-patently clearly this has been ignored, then this change will warrant a valid Engineer’s Instruction (EI)
-and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
-Works.
-Meanwhile, until such time as you take the action required of you in accordance with the express
-requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
-continue to proceed in accordance with the existing IFC design to the extent we are able to.
+We refer to our previous letters ref: (1) and (2) in relation to the Coronavirus (COVID-19) Pandemic and
+the need for Social Distancing following the UAE Government’s Announcement on 23 March 2020.
+Given the rapidity by which the virus spreads, we are compelled to notify you of concerns we have in
+relation to a marked increase in the number of site operatives employed by us and our subcontractors
+on the MTB Project that have reported to the project clinic with symptoms similar to that of the COVID
+19 virus, and while they have been found to relate to other diagnoses; this still does not alleviate the
+fact that we are in a high risk environment.
+We are also aware that in one of the Labour Camps that is shared with other contractors, including TAV
+(albeit none of these TAV employees are working on this Project), a site operative in fact tested positive
+for the COVID 19 virus placing the TAV employees on this Project at greater risk of contracting the virus.
+In our letter ref: (1) we expressed concern about the circa 8,000 labourers employed on this Project who
+despite being housed in various camps in Abu Dhabi share these same camps with another circa 140,000
+labourers who work on other projects throughout the UAE. Given that both our labour force and the
+labour force of other projects share the same buildings and facilities within those labour camps, it is
+increasingly likely that not only will a person not employed on this Project who contracts COVID-19
+infect site personnel working on this project, but equally this applies vice versa; someone associated
+with this Project who contracts COVID-19 could potentially spread the disease to others employed
+elsewhere.
+While we do not want to appear alarmist, we are obligated to advise you of the increasing likelihood
+that our site labour and the MTB Project personnel in particular faces; notwithstanding the risk to the
+UAE in general, especially in light of the recent increase in the numbers of ‘suspicious’ Coronavirus
+(COVID-19) cases.
+We reiterate that we will continue to monitor the situation and keep you updated as matters develop.
 Yours faithfully,

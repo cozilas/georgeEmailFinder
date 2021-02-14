@@ -1,33 +1,86 @@
-Subject:Further Confirmed Coronavirus (COVID-19) Cases – Smiths Detection and AECOM – Impacting
-the PBSS and HBSS Testing & Commissioning
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0250
+Impact of UAE Government Edicts in relation to COVID-19 (Coronavirus)
+Extended Disinfection Programme and Travel Restrictions and the Continued Delaying and
+Disruptive Impact of the COVID-19 Pandemic on the Project
 Dear Sirs,
-We refer to our general letters ref: (1), (2) and (3) in relation to the Coronavirus (COVID-19) Pandemic,
-as well as our most recent letter ref: (4) advising you of a specific instance where a Subcontractor’s
-Engineer (working for OTIS) has been tested positive for the COVID-19 virus, and now write to advise
-you of the following:
-On 5 April 2020, it came to our attention that one of the Safety Officers working for one of our
-Subcontractors (Smiths Detection, who are responsible for the Hold Baggage Screening System (HBSS)
-and Passenger Baggage Screening System (PBSS)), has tested positive for the COVID-19 virus. As a
-consequence, Smith Detection’s site-based employees have been placed under quarantine for 14 days.
-This will subsequently impact the ongoing HBSS support and testing of PBSS equipment. There is also
-the possibility this may impact upon the Baggage Handling System (BHS) subcontractor (Crisplant).
+We refer to our letters to the Employer ref: (1) and (2) in which we sought guidance on the action to be
+taken in light of the rapidly evolving situation regarding the COVID-19 (Coronavirus) pandemic, as well as
+refer to our letter (ref: 3) notifying you of the ramifications of the same on the Project following the UAE
+Government edicts that has so far been issued on the matter; and write as follows:
+Since letter ref: (3) was issued, the UAE Authorities have issued a number of additional announcements
+relating to the COVID-19 (Coronavirus) pandemic. These include without limitation the following:
+•
+The announcement made by the Emirates News Agency (WAM) on 25 March 2020, of a National
+Disinfection Programme that began at 8pm on 26 March 2020 and ended at 6am on 29 March 2002;
 
-We have also been made aware that an AECOM employee, responsible for the QA / QC of the Lift,
-Escalator and Travelator (LET) installations, has also been tested positive for the COVID-19 virus. We
-have yet to be advised further on this and the ramifications this may have on the LET Works. As this is a
-serious issue health and safety issue potentially affecting our staff, our Subcontractors’ staff and the site
-operatives on the Project, we are concerned that we have not yet received correspondence from you
-and/or the Engineer with details of the incident. Can you please revert with details on this matter so
-that we can investigate the potential exposure of our staff, our Subcontractors’ staff and the site
-operatives.
-In our letters ref (1) to (3) we wrote to express our concern associated with the rapidity by which the
-virus is spreading and the implications on the Project given the close proximity and environment in
-which our site operatives as well as members of our staff, the Engineer’s staff and your own staff are
-working. It is therefore unfortunate that persons directly associated with this Project are now becoming
-infected with the COVID-19 virus and despite our best efforts to minimise such risk, the risk to us all is
-increasing.
-We will nevertheless continue to monitor the situation and keep you updated as matters develop. In
-your capacity of Employer, we once again request your guidance in how to best manage the current
-situation to minimise the risk of exposure to the virus to all working on the Project and indeed the
-greater public.
+•
+The subsequent announcement made on 4 April 2020 by Dubai’s Supreme Committee of Crisis
+and Disaster Management, extending the sterilisation programme to 24 hours a day and the intensified
+restrictions on the movement of people and vehicles. These measures came into effect at 8pm on
+Saturday 4 April 2020 for a period of two weeks; albeit such measures are subject to renewal; and
+•
+The introduction of a permit system late on the evening of Sunday 5 April 2020 by the Dubai
+Police associated with the restrictions on the movement of people and vehicles, which was initially
+aimed at persons working in ‘vital sectors’ but the permits are now required for ‘essential purposes’
+only.
+A combination of the impacts arising in consequence of the initial UAE Government edicts and the
+additional guidelines cited above associated with the extended disinfection programme and, travel
+restrictions, and the developing situation regarding the COVID-19 (Coronavirus) pandemic generally, is
+continuing to have a detrimental impact on our progress and that of our subcontractors and suppliers. It
+is for this reason that we write to you in order to provide a further update to our letter ref: (3) and at
+Annex A hereto have particularised the content of recent letters we have received from some of our
+principle subcontractor (i.e. SITA, PCE JV, BAUER and ANEL) notifying us as to how events are continuing
+to impact their performance and progress. Resultantly this continues to impact the Project as a whole.
+Accordingly, we notify you pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment
+No. 8 (‘SAA8’) that the various events and circumstances described in letters ref: (1) to (4) and detailed
+above, will invariably delay and disrupt the Works and critically delay the Time for Completion.
+ANNEX A
+Further Interim Particulars: Impact of UAE Authorities’ Announcements (COVID-19)
+The following provides an overview of some further feedback from some of our subcontractors of the
+extent to which matters associated with COVID-19 is affecting their progress and impacting the Works.
+Impact on Airport Operational Systems (SITA)
+The following are extracts taken from SITA letter dated 31 March 2020 (ref: MTB-SITA-TCAJV-AOS-L1380) entitled ‘COVID 19 Impact for SITA Performance team availability’, which states inter alia:
+‘… due to the current Corona Virus outbreak and resulting measures necessitated by the statutory
+bodies in order to control the spread of the infection, the progress of Phase 2 of the AOS Performance
+Testing is being adversely affected and disrupted.’
+‘The SITA PSE (Engineering) team was scheduled to arrive at MTB on 22nd March to initiate the Phase 2
+PT (Performance Test) work however, their visas were cancelled at the last minute with no information
+on the resumption of visa issuing process.’
+Additionally, SITA further notified us of the following:
+‘In order to mitigate .. delays and progress the work … SITA has requested remote access for the PSE
+(Engineering) team to the relevant Load Generator VMs and Servers.’
+Note that SITA is yet to receive the requested Load Generator VMs (Virtual Machines), that were
+requested on the 17th March 2020. Deadline for these VM provision was 24th March which is overdue
+and is already on critical path (meaning the delay is directly delaying the testing schedule). Additionally,
+ADAC/CMA/CxA are yet to finalize the scope of the Phase 2 PT, that should have been froze by now. As
+per the plan the documents should have been approved by 27th March 2020.
+For the … Internal SITA Testing on the MTB environment- SITA will need the team to be onsite. This is
+not possible to manage remotely considering the complexity of the tasks and co-ordination required.
+These activities are planned to start from 3rd week of April. If the current situation revolving around the
+travelling bans and visa issuance continues till the 09th April, the project plan stands to be impacted
+adversely.
+Impact on Mechanical Works (PCE JV)
+PCE JV’s letter dated 31 March 2020 (ref: MTB/PCEJV/TCAJV/L/05871) notifies us that:
+
+‘[PCE JV] anticipates that the required adjustments [requirements for sanitization and social distancing]
+will lead to reduced productivity and delays. This is a direct result of the requirement for work practices
+to have due regard to health and safety and the government regulations for the protection of all
+personnel who continue to work on site.’
+Impact on Subsidence Remediation (BAUER)
+BAUER’s letter dated 23 March 2020 (ref: AUH/20/AUH-1232/404/JG/mrr) is titled ‘COVID-19 - General
+Disruption to Construction Operation’ and notifies us of the follwing:
+‘… at this stage, various government departments and ministries (e.g. The Ministry of Health Prevention
+and, the Ministry of Interior) have issued a series of directives and protocols to be adopted … in order
+stem the potential spread of the disease …’.
+‘[These] …. include the restriction of traffic movement and transportation hours, limitations on public
+services and guidelines on self-isolation as well as quarantine requirements to be implemented to
+prevent the potential spread of the disease.’
+‘…, while we have been taking measures to mitigate any harmful impacts of the same on the progress of
+the Works, we are starting to feel the detrimental impact …’
+Impact on Electrical Installations (ANEL)
+We have received several letters from ANEL. These include without limitation two similar letters both
+dated 2 April 2020 (ref: MTB-ANEL-YCA-L-9414 and MTB-ANEL-YCA-L-9420), both of which advise of two
+personnel in particular who are prevented from working due to “recent pandemic related issues”.
+‘… subcontractors' personnel will not be able to work under these circumstances. His assigned Lighting
+Control System Commissioning activity will be adversely affected.’
 Yours faithfully,

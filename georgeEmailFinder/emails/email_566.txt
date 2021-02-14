@@ -1,11 +1,122 @@
-Subject:
-
-Reply: Back-charge Notification for Supply of Fordable Aluminium Podium
-
 Dear Sir,
-We acknowledge receipt of your query on the Back-charge Notification for the Supply of Fordable
-Aluminium Podium submitted vide letter referenced in (2) above.
-After our further review, we hereby confirm that the back-charge notice issued previously, is hereby
-retracted.
-This matter is hereby closed.
+
+We acknowledge receipt of your letter reference MTB-CCM-TCAJV-L01304 received on 09 December
+2019, which is in response to our letter reference MTB/TCA/CCM/L/000561 dated 09 July 2018. Further,
+we note your letter states that it provides updated cost particulars up to 30 September 2018 in relation
+to your interim extension of time claim and provides further clarifications against questions asked by
+TCA JV in previous meetings and emails. In consideration of this, we would like to comment as follows:
+We note that the particulars and attachments provided within the referenced letter above are those
+which were issued to Michael Delve via email on 08 December 2018 as an advance copy. TCA JV would
+like to confirm that they issued an immediate response (see attached) to this email on 09 December
+2018, which we have yet to receive a response too. Notwithstanding this, we would therefore (without
+prejudice) like to reiterate below the pertinent points from our email response, as well as additional
+feedback provided in our earlier emails to you regarding the same subject matters. For ease of
+reference we have used applicable subheadings:
+Compensable Periods
+CCM’s latest claim submission for additional prolongation costs (and all other previous submissions) is
+not aligned to CCM’s previously submitted delay analysis. Rather than apply the compensable days (ex.
+800 days between June 2015 to August 2018) to the applicable monthly costs, CCM cost submissions are
+
+claiming costs linked to 100% of time within the applicable periods i.e. 1188 days from June 2015 to
+August 2018.
+Accordingly, we recommend CCM to resubmit their claim submission together with the applicable
+compensable days against the relevant monthly costs. Typically, we would expect to see a schedule,
+which identifies CCM’s monthly costs, an average daily rate against each applicable month and the
+number of compensable days in that month. This would allow CCM to highlight what actual costs were
+incurred at the time of the compensable delay;
+Forecasted Costs
+We note that your latest claim submission still contains forecasted costs, namely 1) Period 01 July 2018
+to 15 August 2018, and 2) 01 October 2018 to 30 June 2019. This offers some confusion as CCM were
+instructed during the meeting held on 31 October 2018 and subsequent emails not to include any
+forecasted costs, as claim submissions should only include actual costs incurred.
+If CCM are simply including these costs to provide an estimated lookahead, then it would be more
+beneficial to submit such costs separately. The inclusion of forecasted costs within claim submissions
+only distorts the overall figures, particularly when both parties are trying to reach a commercial
+settlement.
+Discrepancies amongst Submissions and Actual Costs
+We note that CCM’s latest cost submission presents different actual costs against the same periods
+within previous submissions. This is by no means helpful given the time which has been expended
+reviewing and assessing the previous submissions. The following example shows the disparities
+between costs heads and amounts being claimed:
+
+Nr
+
+Cost Head
+Period: 04-Jul 15 to 11 May 16
+Period: 12 May 16 to 31 July 16
+Ref: Nick Toft’s email dated 28 Oct’18 – Actual Costs up to 30 June 2018 Ref: Letter 1304 dated 08 Dec’18 – Actual Cost up to 30 Sept’18
+Ref: Nick Toft’s email dated 28 Oct’18 – Actual
+Costs up to 30 June 2018
+Ref: Letter - 1304 dated 08 Dec’18 – Actual Cost up to 30 Sept’18
+1
+Staff Costs
+2,009,867.39 2,006,530.29 4,753,774.44 4,744,483.12
+2
+Labour Accommodation & Transportation
+75,941.49
+163,713,71
+1,010,104.98
+1,124,082.96
+In consideration of the above differences (and others which may exist), we would appreciate the
+following:
+•
+Justification as to why they have changed;
+•
+Exactly which costs have changed (month/day) within CCM’s costs schedules;
+•
+A list of additional records that have been provided to support the revised costs, including their
+location within the latest sub-folders;
+
+Additional Records
+Since our last meeting on 31 October 2018, we have issued several emails relating to our interim
+assessment confirming what information / clarifications were still outstanding. If CCM have now
+addressed these queries and provided any additional records to further support the previously assessed
+costs, we would appreciate a definitive list confirming what and where these records are located within
+the latest sub folders. This will ensure our assessment is not prolonged looking through records which
+have already been reviewed.
+Loss of Interest / Finance Charges
+CCM’s latest submission includes for 1) ‘loss of interest claim’ against retention; 2) loss of interest claim’
+against prelims not recovered from ‘on-holds’ works; 3) loss of interest claim against prolongation costs
+and 4) finance charges linked to a bank loan. However, it is the JV’s opinion that there is duplication in
+this approach, as they relate back to the same cost heads not recovered as a result of the delays on the
+project.
+Further, the applied interest rate of 16% is based upon a cash loan from a bank, which cannot be applied
+to the principle of gaining interest against money sat in an account. Similarly, the principle of applying
+16% against prelims not recovered is also not correct, as this is related to expenditure and not money
+which would have sat in an account gaining interest. With the exception of the finance charges related
+to the bank loan, the loss of interest claims do not prove that an actual loss has been incurred.
+In addition, CCM are claiming finance charges against a bank loan they had to take out due to alleged
+incurred costs estimated around circa AED26,000,000, which were not recovered under Subcontract
+Agreement prior to March 2017. While the supporting narrative provides a high-level breakdown of the
+related costs (ex. Prelims, mock-ups, head office overheads and procurement of materials) there are no
+further particulars to demonstrate and evidence why this money was due under the Subcontract. As
+mentioned previously in our meetings the JV needs to see a clear cause and effect link. A copy of CCM’s
+planned vs actual monthly cashflow would be helpful in this instance.
+Head Office Overhead Recovery
+CCM’s latest submission includes for 1) head office overheads that have been calculated through the
+Emden Formula, and 2) head office overheads that have been calculated by applying their contractual
+overhead percentage of 6% against their total costs for prolongation. However, such approach would
+be a duplication of head office overheads. If CCM believe this is not the case, then further clarification is
+required to demonstrate why both methods of calculations should be considered and why there is no
+duplication.
+Notwithstanding this, it is worthwhile noting at this point that the JV will not entertain any formula
+calculations as they are based upon theoretical loss and must be supported with sufficient evidence to
+prove loss of opportunity;
+Extended Warranties
+Setting aside the arbitrary calculation used to calculate the extended warranties, CCM are required to
+explain 1) why the Sub-Contract BoQ amounts have been 100% proportioned across various materials,
+knowing that these amounts include for other elements such as installation costs, head office overheads
+and profits, and risk etc; 2) the calculation takes into account 37 months of project delays, but CCM’s
+
+latest TIA is confirming 851 compensable days, which does not equate to 37 months; and 3) can you
+confirm the basis of the applied ‘Claim likelihood’ percentage?
+Labour Transportation, Accommodation & Food
+Such costs are typically task related and would not normally be considered part of a prolongation claim.
+TCA JV required CCM to provide justification (with supporting evidence) to demonstrate why such costs
+should be considered as part of their interim claim for prolongation costs.
+Staff
+The 13th month salary bonus as per Italian law must be supported with evidence, including but not
+limited to proof that the employee’s received this bonus.
+We look forward to your prompt response against the above. Should you have queries regarding any of
+the above, then please do not hesitate to contact us.
 Yours faithfully,

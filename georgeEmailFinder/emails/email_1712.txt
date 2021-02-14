@@ -1,92 +1,39 @@
 Dear Sir,
 
-The Contractor is in receipt of letter reference 1), which after careful consideration has not provided any
-evidence that the Contractor’s position with respect to the Architectural BoH and MEP scope of works
-within the Blue Line platform and associated equipment rooms of the Ras Bu Abboud station is in any
-way incorrect.
+The Contractor refers to the Engineer’s letter reference 1) wherein the Engineer requested the
+Contractor to provide further substantiation for the 80:20 split proposed via letter reference 2) for
+backfilling the sides and top of the Stations.
 
-The Engineer’s Assistant’s letter sets out in its first four numbered items its rebuttals to the Contractor’s
-points whereby the latter had demonstrated that it had obtained at various times confirmation that the
-Blue Line Works did not form part of its Contract. While the Contractor shall respond to these points one
-by one, the Contractor must question why, given the Engineer’s Assistant’s insistence that these works
-indeed form part of the Contract, the Engineer’s Assistant makes no reference to a Contract Document
-to demonstrate this alleged fact; it is clearly the Employer’s obligation to demonstrate that these works
-were contained within the Contract it has drafted and it has failed to do so.
+The Contractor has therefore analyzed the productivities of the backfilling on the sides and the top of
+the Stations on the basis of actual progress recorded for Sport City Switchbox.
 
-Now therefore, in connection with the subject letter, the Contractor responds as follows:
+The analysis is based on the activities 092G1070A1, -A2, -B1, -B2 and -C1 which correspond to the
+backfilling up to the roof level. The combined productivity of aforementioned activities is then
+compared to the activity 092G4070- which reflects the backfilling above roof level. The relevant extract
+from the CMP dated 13 April 2017 is enclosed in attachment 1) to this letter.
 
-The Contractor does not agree with the Engineer’s Assistant’s statement in Item no.1; in response to the
-first sentence, the Contractor notes that the RFI of reference 10) requested “confirmation of Qatar Rail’s
-Day 1 Operational and fit-out requirements” in relation to the Ras Bu Abboud station which consists of
-the entire fit-out requirement, namely that of architectural Back of House, MEP and Front of House
-works. In response to the second sentence, the Contractor hereby rejects the EA’s interpretation as to
-the relevance of the said RFI to the subject on the basis of both the Contractor’s interpretation of the
-term ‘fit-out’ above and the univocal intent conveyed by the Employer to the Contractor in directing the
+The results of the productivity analysis are summarized in the table below, the details of the calculation
+are enclosed in attachment 2) to this letter:
 
-Contractor to deliver “the complete fit-out for the whole of the concourse level and Gold Line Platform
-Level” thereby clearly excluding Blue Line Platform fit-out works.
+Backfilling level Productivity (m3/d)
+Up to Roof
 
-The Contractor does not agree with the Engineer’s Assistant’s statement in Item no.2. The Contractor
-reiterates its position against item no.1 vis-a-vis the relevance of item 8 of reference 8) to this matter.
-Furthermore, the Engineer’s Assistant’s response ignores the unequivocal statement of reference 6)
-which clarifies for both Al Sadd (where the scope has been clearly defined from the beginning) and Ras
-Bu Abboud, not to fit-out the Blue Line platforms.
+110
 
-The Engineer’s Assistant’s response to Item no.3 is incorrect: the Contractor wrote that it had received
-assurance from the Engineer’s Assistant on multiple occasions pursuant to the preceding two
-paragraphs, alluding therefore to references 5, 7 and 9. Furthermore, the referenced excerpt is out of
-context and clearly misleading: the last paragraph of letter reference 6) states: “Ras Bu Abboud: Fit-out
-double concourse throughout and slab over unused VT openings. Design but do not fit out Blue Line
-Platforms. All non-fit out situations will need to be cooled, ventilated and lit to basic NFPA escape
-criteria for evacuation (minimal occupancy).” Similarly to the Blue Line platform of Al Saad station, and
-pursuant to the Contract provisions and the Tender Clarification RTC/040/0856 the Contractor is indeed
-required to comply with the basic NFPA escape criteria:
+87%
 
-Clarification No. Reference:
-Employer’s Response
+Above Roof
 
-Tender Query issued by the Contractor: Contract Reference:
+728
 
-RTC/040/0856 Please update the description of Airport City North Station to reflect the new two
-platform arrangement and advise whether architectural finishing to the platform serving the Blue Line is
-to be provided as part of Design & Build Package 3
-Volume 5, Clause 2.2.1.1
-The Scope of
-Works for Airport City North Station Blue Line Platform will be the same as for Al Sadd C-Ring Station
-Blue Line Platform. Please refer to Volume 5, Section 2, Clause 2.2.8
+13%
 
-Engineer’s Assistant’s response concerning Item no.4 is singularly disingenuous. The Engineer’s Assistant
-has relied upon an, admittedly poor, description contained within the grand summary description of
-cost saving initiatives set forth via letter reference 5). The Contractor concedes that the sentence “OTE
-Duct for Blue Line Transfer Platform” ought to omit the word ‘Transfer’ for clarity. However, the Blue
-Line platform at Ras Bu Abboud is one that a Gold Line passenger might “transfer” to, the word being
-used as an adjective, the noun being “Platform”. The Engineer’s Assistant’s reading is contrived and
-ignores the fact that the area being referred to is stated to be a “platform” and therefore cannot be a
-reference to the transfer “level”.
+Cost Distribution
 
-In summary, the foregoing paragraphs amply demonstrate that the Engineer’s Assistant has not
-attempted to provide any valid contractual evidence that the contentious scope is included within the
-Contractor’s scope of Works, and has furthermore attempted to interpret the evidence provided by the
-Contractor in a tortuous manner which does not stand up to scrutiny.
+With an 87:13 weighting based on actual productivities the above analysis yields a split of the backfilling
+milestones in excess of the 80:20 split proposed by the Contractor via letter reference 2).
 
-With respect to the five (5) items in the second part of its letter reference 1), the Contractor
-understands these to represent an attempt by the Engineer’s Assistant to demonstrate that the
-Contractor was somehow aware of what currently seems to be the Employer’s intent, namely that the
-Contractor should proceed with the execution of the said works.
+The Contractor kindly requests the Engineer to review the Contractor’s proposal of reference 2) and
+provide comments at the earliest.
 
-The Contractor shall not provide itemized responses to counter what is plainly incorrect. None of the
-items referenced in the second part of this letter can be used to derive such inferences: all documents
-referenced by the Engineer’s Assistant are speculative and/or investigative reports based on
-assumptions, as clearly stated even within the excerpts quoted, and none are an instruction to execute
-the construction works. The party to execute the fit-out works is not identified, nor would a technical
-note prepared by the designer be a reasonable indication of who that party might be. The Contractor
-reiterates its statement that “it may be the Employer’s intent to instruct these works to the Contractor”
-and in the absence of any evidence to the contrary the Contractor does not consider that these works
-are included in the Gold Line Package.
-
-In conclusion, and whilst noting that it is currently progressing with part of these works in good faith,
-the Contractor nevertheless requires an instruction pursuant to Clause 13 of Volume 3 of the Contract to
-continue with these works within seven days of receipt of this letter, failing which these works will be
-stopped.
-
-Yours faithfully,
+Yours faithfully,

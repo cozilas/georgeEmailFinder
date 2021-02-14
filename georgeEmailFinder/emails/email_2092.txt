@@ -1,16 +1,46 @@
 
-Dear Sir,
-The Engineer's Assistant refers to the above listing of correspondence and specifically item 1) where the
-Contractor was instructed under Sub-Clause 13.1.1 of the Conditions of Contract, to submit a detailed
-assessment of the adjustment to the Contract Price based on the savings associated with a reduced
-number of Cross Passageways.
+Dear Sir,
 
-Subsequent follow up letters referenced in items 2) and 4) further emphasized Contractor's failure to
-recognize the Employer's Instruction for submission of a price adjustment due to the reduction in Cross
-Passageway requirements.
-As a consequence the Engineer's Assistant requires the Contractor to respond with an appropriate price
-saving adjustment, fully detailed and submitted by no later than Monday 27 July 2015.
-If Contractor fails to respond by the above submittal date, the Engineer will have no option but to
-consider the Employer's rights under the Contract to invoke sub-clause 3.5 and consider a fair
-determination taking due regard of all relevant circumstances
+The Contractor refers to letter reference 1) whereby the Engineer proposed for the Contractor's
+consideration and agreement the Employer's entitlement to cost savings in relation to the Variation of
+the Employer's Requirements in respect of tunnel cross passageway spacing.
+
+The Contractor acknowledges receipt of the Engineer's proposal pursuant to Sub-Clause 3.5 of the
+General Conditions of Contract.
+
+In this respect, the Contractor confirms that the Engineer's considerations that the cost savings should
+be based on the tendered schedule of rates for the provision of cross passageways.
+
+However, further to the review of the Engineer's proposal, the Contractor has identified a Contractor
+originated calculation error which must be corrected. This calculation error is related to item "Any
+testing and commissioning as deemed necessary in accordance with Employer's requirements (C8)
+(Revised Design)".
+
+In its submission under reference M006-GDB-COM-LTR-02821 dated 05 January 2016, the Contractor
+adjusted the value of this item only by reference to the revised total length of the cross passages and did
+not consider at all the total tunnel length per section. This error has now been corrected and the revised
+calculation is enclosed herewith for the Engineer's ratification.
+
+In addition to the above, the Contractor hereby records its disagreement with the following Engineer's
+considerations:
+
+1.
+"Entitlement to time-based cost savings or savings associated with a reduction in construction
+risk have not been considered at this stage. " The Contractor avers that since the cost savings are based
+on the tendered schedule of rates for the provision of cross passageways, such savings are included
+therein.
+-2:-The-contractoravers-thatihe Engineer's-calculation of he-abortive-design is erroneous:-The
+weighting of work associated to the cross passageways design cannot be calculated by reference to the
+length of the cross passageways. This way of calculation might be computationally correct, however, it is
+completely wrong from an engineering perspective.
+3. The Contractor notes the Engineer's adjustment to the cost of the Engineering Analysis Report to
+reflect the Contractor's valuation of ATKINS' rates. However, ATKINS has disputed the Contractor's
+
+valuation of rates. In the event that ATKINS receives an arbitration award confirming their rates, the
+Contractor reserves the right to claim the full amount from the Employer.
+Further to the above, the Engineer is kindly requested to taking into consideration the Contractor's
+arguments presented herein and revise its proposal pursuant to Sub-Clause 3.5 of the General
+Conditions of Contract accordingly.
+
+We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

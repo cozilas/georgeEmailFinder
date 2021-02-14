@@ -1,57 +1,69 @@
-Subject: Notice of Claim for RFI/0401/12251: Fire Rated Ceiling at Piers ll.O
-Dear Sir,
+Subject:
+Wall System
 
-With reference to the Engineer's response to RFI reference {1) above, please be advised that t he
-information, comments, clarifications and/or instructions (the Instruction) contained therein, constitute
-an instruction of a Variation.
-The changes to the fire rated ceiling and the lighting layouts is a Variation to the Works. The changes to
-the fire rated ceilings at Piers 1 to 4 at Ll.O have been initiated by the Engineer's responses to RFis
-reference {6) and (7) above.
-For this reason, the Contractor considers that the Engineer has issued an instruction constituting a
-Variation, which is not in the form of, or which has not been confirmed in writing by the Engineer by
-way
-of a formal Variation Order.
-The Contractor has requested, pursuant to Sub-Clause 20.1.4.(b) of the Conditions of Contract, the
-Engineer to provide a formal confirmation of Variation or issue an Engineer's instruction and revised
-Drawings and/or Specification pursuant to Sub-Clauses 11.3.3 and 20.1.1 (a), via its letters reference {2)
-to
-{5) above. However, the Engineer has, as of the date of this letter, failed to provide the necessary
-written
-confirmation or issue an Engineer's instruction and revised Drawings and/or Specification. Moreover,
-the
-Engineer has insisted, via its response to RFI reference {1), that the Contractor complies with the
-Instruction with no additional cost and/or schedule impact, notwithstanding the Contractor's contention
-that the Instruction constitutes a Variation.
-The Engineer's insistence that the Contractor complies with the Instruction amid its refusal to issue a
-formal Variation Order constitutes a breach of Sub-Clauses 11.1.1 [Engineer's Duties and Authority] and
-20.1 [Right to Vary] of the Conditions of Contract. Notwithstanding, unless and until the Contractor
-receives an instruction from the Engineer otherwise, the Contractor will proceed to implement the
-additional and/or varied works required by the Instruction. Nonetheless, the Contractor is only doing so
-under duress and maintains all of its rights with respect to this Variation, whether existing under the
-Contract or otherwise.
-Subject: Notice of Delay – Delivery and Installation of Bollards at BAS68 at level 00
-Dear Sir,
-As per the attached emails referenced in both (2) and (3) above, we hereby put on record our concerns
-over your failure to deliver all required materials for LBAS68 at level 00 by mid May 2018, which has also
-resulted in the delay of installation. This is mainly due to the shortage of resources, poor planning and
-inadequate coordination which is failure of your Subcontract obligations.
-In light of the above, you are hereby reminded of your obligations as set out under the Subcontract
-Clause 16.6.1 which provides that:
-•
-“If the Subcontractor fails to comply with the approved Subcontract Programme, the
-Subcontractor shall without limitation indemnify and hold the Contractor harmless against and from the
-costs, losses and expenses (...) incurred by the Contractor in connection with the Subcontractor’s delays
-("Contractor Delay Costs"). Contractor Delay Costs incurred by the Contractor shall be quantified by the
-Contractor at the time of such losses and claimed under clause 10.3 (Subcontractor's Claims). These
-costs and losses shall be recoverable by the Contractor against the Subcontractor as compensation for
-the losses suffered by the Contractor as a result of the Subcontractor's delay or non-compliance with the
+Changes of Fire Rated Ceiling from a Hanging Ceiling System to a Fixed Wall-to-
 
-approved Subcontract Programme and irrespective of whether or not the Subcontractor's delay or noncompliance results in the Contractor incurring liability for delay damages to the Employer under the
-Contract."
-Therefore you are hereby instructed to implement immediate mitigating measures within 7 days of
-receipt of this letter. Failure to do so will result in us appointing a third party to execute the aforesaid
-works on your behalf and back charge you in accordance with the Conditions of the Subcontract.
-It is noted that any delays, costs, loses and/or expenses incurred by us and/or Other Subcontractor/s
-arising as a result of the above delays shall be at your risk and will be recovered from your account in
-accordance with the Subcontract clauses 10.3, 16.6.1 and other relevant clauses.
+Dear Sir,
+In continuation to our meetings regarding the above subject matter and our letter referenced (1) above,
+we place on record that there has not been any official response to our mentioned letter and the matter
+is still currently ongoing without a resolution. Therefore, to provide clarity on this matter, we have
+summarised the main points of our letter referenced (1), in an effort to resolve this matter to enable us
+to proceed with the works without delay. The detailed history of events has already been provided via
+
+our letter reference (1), therefore we hereby provide a summary of the main points of our mentioned
+letter.
+It is noteworthy to reiterate that the responsibility for the Design of the works and consequently design
+compliance with the codes and Local Authority requirements remains solely with the
+Engineer/Employer. During the Tender we had limited information with respect to the type of the fire
+rated ceilings and to date there is no Specification available for a 2 hour fire rated ceilings in the
+Contract Documents.
+During the Tender the Engineer via Tender Queries 12 Tender Bulletins 01 to 18, specified GYB-01
+(regular non-fire rated gypsum board) to be used in egress passageways. Moreover, the Engineer stated
+that “fire rated ceiling areas are defined in G-04 set” wherein there is no such information available in G04 drawings. The Engineer also stated that “rated ceilings at egress passageways (Rated GYB-01 ceilings
+to be issued at a later date)”.
+After the submission of BAFO, on May 2012 the Engineer issued the revised Tender Drawing (IFT) MTC A
+62 TB_L_ _ _ _ 00.640 D_ dated 24 May 2012 inclusive of the detail (Detail No 8) for the required
+properties of the Fire Rated Ceiling in the egress passageways. The drawing indicated GYB-04 gypsum
+board which was in contradiction to the previous comments made on the Tender Bulletins, wherein you
+specified GYB-01.
+Kindly be informed that, as at the date of this letter, there is also a contradiction on the IFC drawings,
+wherein IFC drawing ref. MTC A 62 TB_L_ _ _ _ 00.640 00 shows GYB-04 (fire resistant gypsum board)
+but the legend of the current IFC ceiling plans (A-42 series) still shows the ceilings as GYB-01 which is a
+regular non-fire rated gypsum board.
+It is also noteworthy that via RFVO/0401/1325-SC/039/B Rev. 00 dated 23 January 2018 we have
+mutually agreed in principle on a Variation to include gypsum LID system, incorporating top and bottom
+fire rated gypsum boards in various areas in the project.
+Please note that the new the system provided by the Engineer (Detail no.8 in Drawing MTC_A-62 _B_L_
+_ _ _ 00.640(00)), has no cross reference of this section in the IFC ceiling drawings. Additionally, after
+investigating the matter we are of the opinion that the referred section cannot be considered a fire
+rated ceiling system from both sides due to the fact that it has exposed framing structure in the ceiling
+void which does not meet the Civil Defence Requirements. Furthermore, UAE Fire & Life Safety Code of
+Practice item 35.2, does not permit a 'hanging system' for such a fire rated ceiling from top. In addition
+to the above our opinion is based on the below facts:
+i.
+There is no certification available for a horizontal shaft wall system to be used as a rated ceiling
+system;
+ii.
+This type of system is not available from any manufacturer in UAE;
+iii.
+The IFC configuration shows a hanging system with the fire direction from the bottom which is
+not valid for fire direction from the top;
+iv.
+GYB-04 horizontal shaft wall ceiling system is shown in IFC drawings. This system is from USG
+and listed in their brochure. USG website mentions that this system is not UL tested. This system
+considers the fire direction from the corridor side and there are limitations to the width of the system.
+In view of the above points you are kindly requested the following:
+i.
+Provide certification for the requested system to be used as a rated ceiling system;
+ii.
+Advise of a manufacturer in UAE that can provide the system requested;
+
+iii.
+
+Kindly advise on point (iv) above.
+
+We respectfully request you to issue an Engineer’s instruction and revised Drawings and/or Specification
+and advise on the issues raised above and in our letter referenced (1) to avoid further delays.
+At this juncture, we reserve all of our rights derived under the Contract and inform you that we will not
+be held liable for any delays in regards to this matter.
 Yours faithfully,

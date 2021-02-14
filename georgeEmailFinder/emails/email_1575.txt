@@ -1,14 +1,32 @@
+Dear sir
 
-Dear Sir,
+The Engineer's Assistant refers to the Contractor's correspondence at (1) above and wishes to note the
+following points:
 
-Further to the Contractor's formal Notice of Claim issued under cover of reference 1 in accordance with
-General Conditions ("GC") 8.4.2, 8.9.1(a), 8.9.1(b) and 20 .1.2 concerning Engineer's Instruction Nr 126
-issued via reference 2 by the Engineer's Assistant to suspend of the design of Al Rayyan Station & its 2
-Nr related Tunnel Sections ("the Event"), the Contractor hereby encloses its formal interim submission
-(Revision 0) for Claim Nr 052 in accordance with GC 8.4.4, GC 8.9.1(a), GC 8.9.1(b) and GC 20 .1.6.
+Non-compliance with ABM arises from the Contractor's design proposals which include an MEP shaft in
+place of a void to the rear of the lift shafts to accommodate smoke extract and air intake ducts. This
+particular has been discussed at length in many architectural design workshops and MEP design
+meetings. The Contractor is quite correct in asserting that there is a provision within the ABM to
+facilitate MEP!Technical rooms within the entrance shelter, however, this does not refer to the space at
+the rear of the lift space which is clearly indicated as being an open void al all times.
 
-As the Event has a continuing effect, the attached submission is to be considered as interim in
-accordance with GC 20.1.6(a). The Contractor shall therefore be submitting further interim submissions
-with respect to the Event at monthly intervals as required by GC 20.1.6(b).
+The Engineer's Assistant would also note that during the design development workshops it was apparent
+that the AHU rooms for the provision of air-conditioning to the entrance shelters if placed behind the
+lifts and escalators at ground level presented a difficulty in routing ductwork and that locating these
+rooms beneath the entrance presented a far better option. Furthermore, the Engineer's Assistant would
+refer the Contractor to ABM Generic I Type station layout (Ref: D1-GUl-1-181.dwg) which clearly
 
+illustrates the preferred option of MEP rooms located behind the lifts and escalators at concourse l evel.
+It is still the Engineer's Assistant assertion that the inclusion of MEP shafts behind and directly
+connected to the lift shafts is non-compliant with ABM intent
+
+The Contractor's comments regarding DD1 are noted, however, the Engineer's Assistant wishes to bring
+to the Contractor's attention that the issue of the MEP rooms at grade was highlighted in the Engineer's
+Assistant's comments in the Document Review Sheets issued with our review of the DD1 and
+furthermore it was noted that there was a requirement to liaise with the FoH designers to ensure
+compliance with ABM.
+
+Finally, te Contractor's comment regarding the design progressing with MEP in the ground level does not
+refleCf the situation at present where design is clearly progressing on the basis of MEP wherever
+possible t the concourse level.
 Yours faithfully,

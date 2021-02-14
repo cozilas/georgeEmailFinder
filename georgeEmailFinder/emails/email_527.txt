@@ -1,25 +1,20 @@
-Subject:Post SAA8 Delay Notice (‘D-Notice’) No. 0045
-Conditions of Contract Sub-Clause 27.1.1: Notice of Claim
-Overdue Responses to the Contractor’s Architectural, Civil, and MEP Material Submittals (as at 27
-January 2019)
-Dear Sir
-In the period between 8 November 2018 and 2 January 2019, the Contractor submitted 12 Material
-Submittals containing numerous document submissions described and summarised in Annex A hereto,
-relating to Architectural, Civil, and MEP works, for the Engineer’s review and approval.
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-the Engineer is contractually obligated to respond to the Contractor’s submittals. On the basis that each
-of the 12 Material Submittals listed in Annex A are shown to comprise Rev. 00 and Rev. 02 [plus Rev. 04],
-submittals, then these ought to have been responded to by the Engineer 21 and 7 calendar days later
-respectively, i.e. in the period between 5 December 2018 and 23 January 2019. However, Annex A
-indicates that at the cut-off date associated with this Delay Notice (i.e. 27 January 2019), the Engineer
-exceeded the review periods expressly stipulated in the Contract by upwards of 59 calendar days.
-On 28 January 2019, the Contractor provided the Employer / Engineer, by email [12:56pm] a schedule of
-these Material Submittals the responses to which were overdue, and requested the prompt review of
-the same, noting that “all approvals are critical as of now”. While we appreciate the efforts that have
+Subject:
 
-been expended by the Employer/Engineer to date in assisting the approval process to some of these
-submittals in order for us to obtain a Status Code 2 or higher, the fact of the matter is they are still
-overdue.
+Delay Notice …… - DU and Etisalat Containment Installation works
+
+Dear Sir,
+On 26th January 2019, the Contractor received letter reference (1), from the IT – SCS Works Package
+Subcontractor ('BOND'), notifying the Contractor about the "Delays in the DU and Etisalat Containment
+installation works due to the non-availability of coordinated shopdrawings, which are required to be
+provided by the Employer’s contractor M/S GSM".
+BOND’s scope of work for the above is limited to the installation activities, while the scope for BIM
+coordination and shopdrawings development is with GSM. Consequently, BOND stated that it
+completed some of its works following the available shopdrawings where possible. However, the
+previously issued shopdrawings by GSM have resulted to numerous clashes.
+Following the above stated clashes and the failure to provide the mentioned shopdrawings by GSM,
+have resulted in the works being on-hold.
+Accordingly, it is the Contractor's contention that such pending actions and failures constitute a breach
+of the Contract or an act of prevention on the part of the Employer.
 In view of this, the Contractor contends that the foregoing constitutes a breach of Contract and/or an
 act of prevention on the part of the Employer’s Personnel and / or Consultants. Therefore, in
 accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 [which pursuant to SAA8 SubClause 1.1 have not been amended by SAA8], the Contractor hereby notifies the Engineer of its

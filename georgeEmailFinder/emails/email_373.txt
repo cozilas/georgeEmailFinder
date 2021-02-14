@@ -1,25 +1,126 @@
-Subject:Scope of Contractor’s Rectifications Works to Sewer Pipelines
-Dear Sir,
-We write in response to your letter ref: (1).
-We note your comments in relation to the water testing and while on the one hand we are pleased to
-be informed that you are prepared to ‘accept’ the information provided by us in support of the same, on
-the other hand we are appreciably perturbed to be informed that your acceptance is conditional upon
-us ‘committing to providing long term maintenance provisions of the sewer network.’
-This is an audacious suggestion to make and one that we cannot entertain nor will we accept; not only
-does it allude to an open ended commitment but we remind you that the problems associated with the
-subsidence occurring on this Project (which we hasten to add is not just limited to sewer pipelines but is
-affecting the sub-building infrastructure and MTA Works as well), appears to have been caused (as
-advised by Robert Bird Group) by: (i) the inappropriate and not fit for purpose Contract Specification for
-backfill material which allows for a high percentage of fines (up to 50%) and which does not exclude the
-presence of gypsum; (ii) the actual backfill material used (from Stockpile No 2 which complies with the
-Specification and which you approved); and (iii) the presence of cavities in the substrata. In other
-words, the problems associated with the subsidence occurring on this Project do not arise as a result of
-any matter for which we are responsible. You are only too aware of our contentions on this, which have
-been outlined in many missives issued by us to date including inter alia our letter ref:
-MTB/TCA/AECOM/L/014380, dated 8 June 2019, so why then should we accept your misguided
-suggestion for accepting responsibility for long term maintenance?
-In which respect, we further remind you that in your letter dated 8 May 2019 (ref: MTC-CMA-TCA-0401LTR-10673) you instructed us to re-line the full extent of the MTB network pipelines and named the
-supplier, yet there is no mention of special terms for maintenance.
-We are willing to engage in meaningful discussions with you on finding a way forwards for addressing
-the rectification works, but suggestions such as that outlined your letter will not be entertained.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0115
+Delays to Installation of Displays due to Other Contractor (Info Booths)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Table 1 to Annex A lists various IFC Drawings showing the intended location of numerous Information
+Booths that have not yet been installed by the Employer’s Other Contractor (TAV Technologies).
+Without these, we are prevented from completing the associated information Displays.
+
+Potential Impact
+Acts of prevention on the part of others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+Table 1 below lists various IFC Drawings which show the intended location of numerous ‘Information
+Booths’ that have not yet been installed by the Employer’s Other Contractor (TAV Technologies).
+Consequently, unless and until these booths are installed, then we are unable to install the ‘Displays’ at
+inter alia the Disruptive Flights Counter, Information Booths and Information Desk to CP Level L2.0.
+Table 1
+Area Reporting Category
+Level Sector / Zone Room Name Room Shop
+Drawing
+Reference
+CP
+CP L2.0 & Above
+L2.0
+5.12A Disruptive Flights Counter
+88.C.L20.0707.03.AS
+401-STA-FC-01-20-5.12A-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.12A Disruptive Flights Counter
+88.C.L20.0707.03.AS
+401-STA-FC-01-20-5.12A-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.27B Disruptive Flights Counter
+88.C.L20.0709.03.AS
+401-STA-FC-01-20-5.27B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.27B Disruptive Flights Counter
+88.C.L20.0709.03.AS
+401-STA-FC-01-20-5.27B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.12D Info Booth
+88.C.L20.0926.03.AS 401-STA-FC-0120-5.12D-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.12D Info Booth
+88.C.L20.0926.03.AS 401-STA-FC-0120-5.12D-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.18B Info Booth
+88.C.L20.0713.03.AS 401-STA-FC-0120-5.18B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.18B Info Booth
+88.C.L20.0713.03.AS 401-STA-FC-0120-5.18B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.19B Information Desk
+88.C.L20.0691.03.AS 401STA-FC-01-20-5.19B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.19B Information Desk
+88.C.L20.0691.03.AS 401STA-FC-01-20-5.19B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.18D Info Booth
+88.C.L20.0712.03.LS
+401-STA-FC-0120-5.18D-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.18D Info Booth
+88.C.L20.0712.03.LS
+401-STA-FC-0120-5.18D-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.23C Information Desk
+88.C.L20.0686.03.AS 401STA-FC-01-20-5.23C-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.23C Information Desk
+88.C.L20.0686.03.AS 401STA-FC-01-20-5.23C-FI-SD-001
+
+CP
+CP L2.0 & Above
+L2.0
+5.24B Information Desk
+88.C.L20.0684.03.AS 401STA-FC-01-20-5.24B-FI-SD-001
+CP
+CP L2.0 & Above
+L2.0
+5.24B Information Desk
+88.C.L20.0684.03.AS 401STA-FC-01-20-5.24B-FI-SD-001
+Resultant Impact:
+It is therefore clear that our ability to complete the installation of ‘Displays’ and associated works to the
+areas indicated in the IFC Drawings referenced in Table 1 are being delayed by acts of prevention on the
+part of the Employer and / or the Employer’s Other Contractor. If matters continue, then this will have
+wider ramifications; not only on installations but will also impact Testing and Commissioning which will
+invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
+potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
 Yours faithfully,

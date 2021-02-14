@@ -1,84 +1,60 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0094
-Engineer’s Failure to provide IFC Information to Set-up SACS Initial Database
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0033 [Post SAA8]
+Code 3 Small Power Shop Drawings SDS/0401/E/0253-16 - Update
 Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
-may cause delay [and/or disruption] to the Works, and accordingly seek your swift resolution of the
-same
-The Event(s):
-10 March 2019, we issued RFI/0401/16926-00 (dated 6 March 2019) in connection with the Security
-Access Control System (SACS) requesting you to assist with the “collection of all necessary information
-to prepare the initial database with approved access”, in accordance with the requirements of
-Specification Section 281300 (‘Security Access Control System’). By way of introduction, Clause 1.2.A
-(‘Summary’) states:
-‘This Section includes a fully integrated Security Access Control System for the … Midfield Terminal
-Complex. The Security Access Control System consists of a Central Station, multiple networked
-workstation computers, operating system, database servers and application software, and field-installed
-door Controllers, card readers, biometric ID verification, alarm concentrator devices connected by a
-high-speed electronic data transmission network.’
-While Clause 1.2.E which states:
-“’The Contractor shall prepare all access levels and credential definitions for the complete system. The
-Contractor shall coordinate with the Employer and other (end) users, through the Employers
-representative, [and ensure the] collection of all necessary information to prepare the initial database
-with approved access levels.’
-Accordingly, through RFI/0401/16926-00, we requested the following information which would allow us
-to set up the initial SACS database with approved access levels for the totality of the MTB SACS ID:
-1)
-Complete list of group profiles in which the Employer intends to segregate the MTB SACS (end)
-users; and.
-2)
-Group access rights by SACS ID per each of the above groups.
-We complied with our obligations under Specification Section 281300 and attached to RFI/0401/1692600 was a comprehensive self-documenting SACS User’s Groups Profile Schedule, prepared in excel [and
-prepared in conjunction with the Security Systems package subcontractor, ATLAS], pre-populated with
-the totality of the MTB SACS ID as per the approved design and the 20 (twenty) User Profiles Groups
-communicated to us by you. The purpose of the SACS User’s Groups Profile Schedule was to enable you
+This letter serves as an update to E-Notice No. 0033 issued by way of our e-mail ref: (1).
+By way of reminder: On 21 October 2018, we submitted Shop Drawing Submittal SDS/0401/E/0253 Rev.
+16 requesting your review and approval of four Electrical Small Power Shop Drawings appended thereto.
+However, not only did you fail to respond to this submittal until 1 November 2018 which is seven
+calendar days later than the review period expressly stated in the Contract (refer to Article 1.3 of
+Specification Section 013300), but all 4 Shop Drawings were unreasonably granted Status Code 3 with no
+clear reason for doing so. This is despite them incorporating the E-Gate designs instructed by
+ADAC/CMA via EI-739, concluded during workshops dated 4 and 12 2018, and formalised via the
+response to RFI/0401/15949; hence the issuance of our E-Notice issued under e-mail ref: (1).
+Our E-Notice No. 0033 also served to insist that given the invalidity of the Status Code 3 response, you
+re-code the Shop Drawings no later than 15 November 2018. However, you failed to do so.
+You did however eventually acknowledge your original Status Code 3 was unreasonable when on 16
+December 2018 you re-coded all four Electrical Small Power Shop Drawings and returned them to us;
+which is 56 calendar days later than the response due date specified in the Contract (Table 1 refers).
+Table 1
+SN
+Submittal Ref: Rev.
+Drawing No. Description
+Date Submitted
+Response
+Due Date
+Response Deceived
+Delay
+(days)
+SDS/0401/E/0253
+16
+401-AN-E-09-20-5.17B-SP-SD-001
+Electrical Small Power
+Plan, L2.0, Sector 5.17B 21-Oct-18
+28-Oct-18
+01-Nov-18
+(Code 3)
+4
+401-AN-E-09-20-5.17D-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.17D
+401-AN-E-09-20-5.22B-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.22B
+16-Dec-18
+(Code 2)
+56
+401-AN-E-09-20-5.22D-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.22B
+It is clear that the late and unreasonable Status Code 3 response to the above noted Shop Drawings /
+Submittal constitutes an act of prevention and/or breach of Contract and accordingly, we give you
+notice pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
 
-to populate the same and to map groups and respective access right attributes to the totality of the
-SACS ID, in one single solution. Therefore having prepared ‘all access levels and credential definitions
-for the complete system’ as obligated to do so, we asked that you check and review the same, and
-provide the information identified at items 1 and 2 above, and if in the event the group list was deficient
-in any way, to revise and integrate the same as necessary.
-On 18 March 2019 we received your response to RFI/0401/16926-00 (ref: 1). However, rather than
-provide us with the information requested [which as noted, you are obligated to do so], the response
-read as follows:
-‘No objection to the structure of the table in Excel. Content of the table is not for the Design Consultant
-to review, revise or integrate’.
-This KPF provided response blatantly failed to provide the information expressly requested of you.
-Nevertheless, 49 calendar days later, on 6 May 2019, we received a Rev. 01 response to RFI/0401/16926
-00 (ref: 2), which in addition to the above, your (AECOM) provided response was annotated as follows:
-‘Contractor to implement the initial access profiles as in the attached documents received from the
-ADAC Security Team. The documents have the list of doors needed for several groups of airport
-operational personnel. Additional attachments are mentioned above and included in the revised RFI.’
-Apart from the fact you failed to respond to our request for information in a timely manner, the
-information annotated upon and / or attached to the Rev. 01 response to RFI/0401/16926-00 is
-inconclusive and fails to provide the necessary information essential for the SACS data base. This was
-conveyed to you via our letter ref: (4) in which we attached a copy of ATLAS letter dated 19 May 2019,
-which in no uncertain terms advised that the attachments to your Rev. 01 response to RFI/0401/1692600 consisted of a disparate of several PDF tabulations and had not been properly documented and
-therefore were open to interpretation; and therefore could not be considered to be the requested IFC
-Design information enabling them to implement that same into the Works without them ‘ errors …
-omissions and unnecessary works and re-works’.
-In short, the Rev. 01 response to RFI/0401/16926-00 (1) does not allow ATLAS to unequivocally
-determine the number and names of the permanent user’s groups; (2) nor does it allow ATLAS to
-unequivocally determine the totality of the SACS ID for the MTB Project and which access rights are to
-be assigned to each group.
-For these reasons and as previously notified within letter ref: (4) we are unable to implement the
-information provided under the responses to RFI/0401/16926-00 (previously issued to you on 10 March
-2019) and unless and until we have a clear directive from you, we are not in a position to proceed
-further with completion of the Works subject to Specification Section 281300 (‘Security Access Control
-System’). We trust this is clear.
-Potential Impact:
-Acts of prevention such as this, will, at this stage of the Works, prevent us from obtaining the Building
-Completion Certificate (BCC). This is critical to the achievement and completion of Milestone MS09B.
-Consequently, the more we are prevented from completing the Security Access Control System and
-related works, the more likely this will prevent us from achieving Substantial Completion (Milestone
-MS09C).
-Action Required:
-We therefore, request your prompt action, guidance, decision or further instruction as may be
-applicable to resolve the matters referenced herein in order to mitigate such delay and/or disruption to
-the Works. Kindly ensure that such matters are resolved as within ten (10) calendar days from the date
-of this e-notice.
-In the meantime, we hereby reserve all our rights under the provisions of Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-
-the Time for Completion and any associated costs due to the event(s) and circumstances described
-herein.
+Interim and/or final details of the time impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

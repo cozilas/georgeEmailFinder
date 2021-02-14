@@ -1,70 +1,291 @@
-Subject:Initial Review of the Subcontractor’s Extension of Time Claim No.4
-Dear Sir/Madam,
-Further to the Subcontractor’s letter reference (1) above, wherein the Subcontractor has submitted its
-interim claim no.4 for an extension of time and additional costs; the Contractor’s comments are as
-follows:
-1.
-The Subcontractor has failed to demonstrate contractual compliance in its claim. For example:
-a.
-the Subcontractor only relies upon weekly reports for contractual compliance, no other
-documents have been provided to support the alleged delay events;
+AMENDMENT AGREEMENT NO.3
+This Amendment Agreement No. 3 (“Amendment Agreement”) is made on the 4th day of March, 2018,
+between:
+(1)
+TCA JOINT VENTURE
+(comprising TAV Tepe Akfen Yatirim, Inşaat Ve Işletme A.Ş. (TAV Tepe Akfen Investment, Construction
+And Operation JSC), a company established under the laws of Turkey, having its branch office (with
+Commercial Licence no. 1180212) at Suruoh Building (804), Muroor (4th) Street, P.O. Box 63312, Abu
+Dhabi, United Arab Emirates, Consolidated Subcontracting Engineering & Procurement S.A.L. (Offshore),
+a company established under the laws of Lebanon, having its branch office (with Commercial Licence no.
+1146385) at Blue Tower Building, Khalifa Street, P.O. Box 224, Abu Dhabi, United Arab Emirates, and
+Arabtec Construction LLC, a company established under the laws of the United Arab Emirates, having its
+registered office (with Commercial Licence no. 1018102) at PO Box 8072, Abu Dhabi, United Arab
+Emirates (on their own and together the Subcontractor) of the one part, and
+(2)
+MOSART MARBLE & MOSAIC INTERNATIONAL S.A.L.
+a company established under the laws of the UAE having its registered office (with Commercial License
+no. CN-1070272) at Musaffah Industrial Area M-37, P.O. Box: 39701, Abu Dhabi, United Arab Emirates
+(hereinafter the Subcontractor).
+The Contractor and the Subcontractor may also be referred to herein singularly as ‘Party’ or together as
+‘Parties’.
+WHEREAS
+A.
+The Parties signed a Subcontract dated 1 December 2014 with reference
+MTB/TCA/MOSART/L/000073 (the “Subcontract”) related to the “Internal Flooring Stone Works
+Package” (the “Subcontract Works”) on the Abu Dhabi Midfield Terminal Building project being
+executed by the Contractor in terms of a contract (the ‘Contract’) between the Contractor and Abu
+Dhabi Airports Company PJSC (hereinafter referred to as the ‘Employer’) wherein the Engineer is
+identified as AECOM Middle East Limited.
+The Subcontract has been amended by:
+(i)
+Amendment Agreement No:1 (dated 18 February 2015)
+(ii)
+Amendment Agreement No:2 (dated 29 July 2017)
 
-b.
-the Subcontractor’s delay event narratives should contain (but do not) contractually compliant
-references to exhibits such as, timely delay notices, relevant correspondence, minutes of meetings, etc.;
-2.
-The Subcontractor’s delay analysis methodology is acceptable in name only (Time Impact
-Analysis ‘TIA’); it has been poorly executed and is fatally flawed/not fit for purpose. Examples of
-unacceptable practices within the Subcontractor’s TIA are; a.
-Delay events/fragnets which extend long after the claimed delay period/time slice or window,
-some extending to December 2018, i.e. theoretical beyond what is acceptable in a TIA.
+B.
+The Contractor has entered into Amendment Agreement No. 7 with the Employer in order to
+facilitate the release of Monthly Advance Payments.
+
+C.
+At the request of the Subcontractor, to assist with the Subcontractor’s cash flow, the Parties
+have agreed that:
+a.
+The Contractor will not exercise its right set out in clause 2.2(a) of Amendment No. 2 to recover
+equal amounts from payment certificates over a twelve (12) month period starting from the date of the
+Advance Payment.
 b.
-The Subcontractor states that it has made amendments to its progress updates whilst preparing
-the delay analysis. However, these changes are not listed or explained within the Subcontractor’s Claim
-No.4 submission.
-c.
-The Subcontractor has presented Claim No.4 as two ‘windows’; i.
-Window 1 starts January 2018 and ends March 2018 with an impacted completion to 25
-September 2019;
-ii.
-There is no TIA analysis/window for the period April 2018 to June 2018 (however the events
-relied upon in the narrative span January 2018 to August 2018);
-iii.
-Window 2 starts in July 2018 and ends in August 2018 with an impacted completion of 6th
-August 2019; which is an earlier impacted completion than Window 1;
-iv.
-The Subcontractor has requested an Extension of Time based on the impacted completion of
-Window 1. However, the final window shows the consolidated impacted completion date. Therefore,
-the EOT claimed should not be more than that shown in Window 2.
-d.
-The impacted programmes contain actual dates after the cut-off date (data date); these should
-be corrected/removed as appropriate.
-e.
-The impacted programmes contain constraints, which should be reviewed and wherever
-possible removed, and an explanation must be provided, as to the effect of retaining or removing the
-constraint(s).
-f.
-Notwithstanding issues of causation and substantiation of the events, the Subcontractor’s
-submission fails on the basis of a preliminary technical review of its TIA methodology.
+
+The Contractor shall make payment of Monthly Advance Payments to the Subcontractor,
+
+all subject to the provisions set out herein.
+D.
+In consequence, and in the best interest of completing the Works, the Parties wish by this
+Amendment Agreement No. 3 to amend the Subcontract as set out in this Amendment Agreement No.
 3.
-The Subcontractor’s claim nos. 2 and 3 - submitted via references (2) and (3) respectively - also
-failed to provide acceptable delay analyses. For example, the Subcontractor’s submissions do not
-consider the full period of its subcontract period following EOT1 (refer table below).
-EOT# Mosart Analysis Start Mosart Analysis Cut-Off Contractor Comment
-EOT1 Not applicable Not applicable
-EOT2 8-Dec-16
-30-Apr-17
-Start should be 5-Mar-15
-EOT3 1-May-17
-31-Dec-17
-EOT4 1-Jan-18
-31-Aug-18
-Refer item 2.c.ii
-The Subcontractor is kindly requested to provide the abovementioned information (including where
-appropriate soft copies such as Primavera P6.XER files) and re-submit its claim as soon as practicably
-possible, to enable the Contractor to perform a detailed review of the Subcontractor’s entitlement to
-extensions of time and/or costs.
-Please note that this letter is not, of itself, to be considered as an admission of any entitlement to an
-extension of time and/or additional payment, nor does it constitute a waiver of any of the terms of the
+IT IS HEREBY AGREED
+1
+INTERPRETATION
+1.1
+All clauses, terms and conditions of the Subcontract shall, save as amended by this Amendment
+Agreement No. 3 remain in full force and effect.
+1.2
+Unless the context otherwise suggests, a reference in this Amendment Agreement No. 3 to a
+"clause" or a “Schedule” shall be to the corresponding clause or schedule of this Amendment
+Agreement No. 3.
+1.3
+Capitalized terms not otherwise defined herein have the meanings provided in the Subcontract.
+1.4
+This Amendment Agreement No. 3 is supplemental to and shall be read as part of the
+Subcontract, which together constitute the entire understanding and agreement between the Parties
+hereto. All provisions of the Subcontract shall, save as expressly amended or disapplied by this
+Amendment Agreement No. 3, remain in full force and effect.
+1.5
+The Parties agree that they have entered into this Amendment Agreement No. 3 in good faith
+and that it represents a fair and equitable arrangement. The Parties warrant that they are not aware of
+anything which would affect the validity or enforceability of this Amendment Agreement No. 3 and will
+take all steps necessary to preserve the validity and enforceability of this Amendment Agreement No. 3.
+1.6
+In this Amendment Agreement No. 3:
+1.6.1 “Amendment Effective Date” means 1 March 2018;
+1.6.2 “Additional Advance Payment” means the “Additional Advance Payment” provided for in
+Amendment No. 2; and
+1.6.3 words such as “including”, “such as”, “for instance”, “for example” and any other similar
+expressions are to be construed without limitation.
+2.
+AMENDMENT OF THE SUBCONTRACT
+2.1
+At the request of the Subcontractor, to assist with the Subcontractor’s cash flow, the Parties
+agree to the following provisions with effect from the Amendment Effective Date.
+Suspension of Repayment of the Additional Advance Payment
+2.2
+The Contractor agrees that it will not exercise its right set out in clause 2.2 (a) of Amendment
+No. 2 to commence recovery of the Additional Advance Payment and the Additional Advance Payment
+shall be repaid
+commencing with deduction from the interim payment to be due to the Subcontractor in May 2018.
+
+2.3
+For the avoidance of doubt, the total amount repayable in respect of the Additional Advance
+Payment shall not be reduced in consequence of clause 2.2.
+Monthly Advance Payments
+2.4
+Subject to Contractor receiving concomitant payments from the Employer under Amendment
+Agreement No 7 between the Contractor and the Employer the Contractor will make Monthly Advance
+Payments to the Subcontractor.
+2.5
+Subject to clauses 2.6 to 2.10 inclusive, in addition to the certified amounts payable to the
+Subcontractor in January, February, March and April 2018 (the “Relevant Months”), the Contractor shall
+make a monthly advance payment (“Monthly Advance Payment”) to the Subcontractor relating to the
+Relevant Months in the following sums:
+RELEVANT MONTH
+MONTHLY ADVANCE PAYMENT (AED)
+January 2018 2,500,000 AED
+February 2018 2,500,000 AED
+March 2018
+2,500,000 AED
+April 2018
+2,500,000 AED
+2.6
+Subject to clauses 2.7 and 2.8 the Contractor shall certify each Monthly Advance Payment and
+the Subcontractor shall render an invoice to the Contractor for each sum so certified.
+2.7
+Prior to certifying the Monthly Advance Payments relating to each of March and April 2018, the
+Contractor shall review:
+2.7.1 the Subcontractor’s progress towards completing the activities and events set out in Schedule 1;
+and
+2.7.2 the Subcontractors performance in achieving their activities required to ensure that the
+Contractor attains the following cumulative earned value targets agreed with the Employer:
+2.7.2.1. March 2018: 79.66 %
+2.7.2.2. April 2018:
+81.22 %
+2.8
+If either (or both) of the Contractor’s reviews referred to in clause 2.7 indicates that:
+2.8.1 the performance of the Subcontractor is not sufficient to allow Contractor to achieve cumulative
+earned value referred hereabove ; and/or
+2.8.2 the Subcontractor’s progress towards achievement of the activities and events set out in
+Schedule 1 is not to the - satisfaction of the Contractor (in the Contractor’s sole discretion),
+then the Contractor reserves the right to reduce the certified value of the Monthly Advance Payment
+relating to the month of the review (by an amount up to and including the full certified value) and, if
+necessary, to require accelerated repayment by the Subcontractor of the Monthly Advance Payments
+previously paid (in whole or in part) at a rate at the Contractor’s sole discretion (notwithstanding clause
+2.9), in order that the Monthly Advance Payments shall be reduced by amounts commensurate with the
+actual progress of the Works and extent of achievement of the activities and events set out in Schedule
+1. Any such accelerated repayment shall be a debt due by the Subcontractor to the Contractor and
+which the Contractor may deduct from any sum due or to become due by the Contractor to the
+Subcontractor.
+2.9
+The Monthly Advance Payments shall be repaid by deductions from interim payments due to
+the Subcontractor under the Subcontract. The amount of each deduction shall be such that each of the
+Monthly Advance Payments is repaid equally over 12 consecutive interim payments commencing with
+deduction from the interim payment to be due to the Subcontractor in May 2018. If any or all of the
+Monthly Advance Payments have not been deducted and/or recovered in full prior to the issue of the
+final Taking Over Certificate for the Works or prior to termination of the Subcontract under clauses 22,
+23 or 26 of the Subcontract, the whole of the balance, of the Monthly Advance Payments, then
+outstanding shall become immediately due and payable by the Subcontractor to the Contractor.
+
+Repayment of the Monthly Advance Payments shall be secured against all Performance Securities and
+Advance Payment Bonds.
+2.10 Under no circumstances (save variation to this Amendment Agreement No. 3 in accordance with
+clause 6 below) shall the Subcontractor be entitled to any increase in the Monthly Advance Payments.
+3.
+ACKNOWLEDGEMENT
+3.1
+This Amendment Agreement No. 3, including payment by the Contractor of the Monthly
+Advance Payments, does not constitute, and shall not be construed as, an admission of any entitlement
+of the Subcontractor to any adjustment to the Time for Completion, payment of additional Cost and/or
+any adjustment to the Subcontract Price nor shall it be construed as a waiver by the Subcontractor of
+any entitlement (if any) to adjustments to the Time for Completion, payment of additional Cost and/or
+adjustment to the Subcontract Price. This Amendment Agreement No. 3, and the rights and the
+performance or non-performance of the obligations hereunder, including (without limitation) as to the
+Monthly Advance Payments, shall not be deemed to be an instruction under the Subcontract and shall
+not affect in any way the Time for Completion, payment of additional Cost and/or the Subcontract Price.
+4.
+LAW AND JURISDICTION
+4.1
+This Amendment Agreement No. 3 shall be governed by and construed in accordance with the
+laws of the Emirate of Abu Dhabi and the federal laws of the United Arab Emirates as applied in the
+Emirate of Abu Dhabi.
+4.2
+Any dispute, difference, controversy or claim of any kind whatsoever that arises or occurs
+between the Parties in relation to any matter arising under, out of, or in connection with this
+Amendment Agreement No. 3 shall be resolved in accordance with the dispute resolution procedure set
+out in clause 27 of the Subcontract.
+5.
+WAIVERS AND REMEDIES
+5.1
+A Party can only waive a right or remedy provided in this Amendment Agreement No. 3 or by
+law, by express written notice.
+5.2
+If a Party delays or fails to exercise any power, right or remedy under this Amendment
+Agreement No. 3, this will not operate as a waiver of that power, right or remedy, nor will it impair or
+prejudice it.
+5.3
+Any single or partial exercise or waiver of any power, right or remedy will not preclude its
+further exercise or the exercise of any other power, right or remedy.
+6.
+VARIATION
+6.1
+No amendment or other variation to this Amendment Agreement No. 3 shall be effective unless
+it is in writing, is dated and signed by or on behalf of each of the Parties.
+7.
+ENTIRE AGREEMENT
+7.1
+This Amendment Agreement No. 3 together with any documents appended to it or referred to
+in it sets out the whole agreement between the Parties and supersedes any previous arrangement,
+understanding or agreement (whether written or oral) between them relating to the subject matter of
+this Amendment Agreement No. 3.
+7.2
+Except as required by law, no terms shall be implied (whether by custom, usage or otherwise)
+into this Amendment Agreement No. 3.
+7.3
+Each Party confirms that, in entering into this Amendment Agreement No. 3 it is not relying on
+any statement, representation, assurance or promise made by any person (whether a party to this
+Amendment Agreement No. 3 or not) that is not expressly set out in this Amendment Agreement No. 3
+or those documents appended to it or referred to in it (Representation).
+7.4
+Each Party agrees that it has no rights or remedies arising out of or in connection with a
+Representation and that its only rights and remedies are set out in this Amendment Agreement No. 3.
+7.5
+Nothing in this Clause 7 shall limit or exclude any liability for fraud or fraudulent
+misrepresentation.
+
+8.
+CONFIDENTIALITY AND AUTHORITY TO SIGN
+8.1
+The Parties and the Engineer shall keep details of this Amendment Agreement No. 3 strictly
+confidential and not disclose the contents to any third party, except that the Employer shall have the
+right to disclose to any Governmental Authority. This clause shall not apply to any dispute under clause
+27 of the Conditions of Subcontract.
+8.2
+The Parties represent and warrant that the individuals signing this Amendment Agreement No. 3
+have the necessary power to execute this Amendment Agreement No. 3 and all necessary corporate,
+shareholder, and/or other action and consents have been taken, or as the case may be, received to
+authorize such individuals to sign this Amendment Agreement No. 3.
+Executed the day and date first above written in Abu Dhabi, United Arab Emirates.
+EXECUTED for and on behalf of
+TAV TEPE AKFEN YATIRIM, İNŞAAT VE İŞLETME A.Ş.
+(TAV TEPE AKFEN INVESTMENT, CONSTRUCTION AND
+OPERATION JSC)
+
+SCHEDULE 1
+ACTIVITIES AND EVENTS TO BE COMPLETED IN EACH RELEVANT MONTH
+
+February-18
+Milestone
+
+March-18
+Milestone
+
+April-18 May-18
+Milestone
+Milestone
+
+- 6,972 m2 of stone flooring to be installed.
+- 7,858 m2 of stone flooring to be installed.
+- 9,780
+m2 of stone flooring to be installed.
+- 11,929 m2 of stone flooring to be installed.
+- GH 23 , GH 22 , GH 26 , GH 34 , GH 33 , GH 24 , GH 31 , GH 42 , GH 43 , GH 11 to be complete. Complete P4 L20 & L30
+- GH 21 , GH 32 , GH 35 , GH 29 , GH 28 , GH 27 , GH 30 , GH 41 , GH 44 , GH 40 , GH 39 , GH 38 , GH 45 ,
+GH 36 to be complete. - Complete P3 L20 & L30
+- GH 37 , GH 08 , GH 09 , GH 15 , GH 16 , GH 17 , GH 07 , GH 41 , GH 44 , GH 40 , GH 39 , GH 38 , GH 45 ,
+GH 36 to be complete. - Complete P2 L20
+- GH 06 , GH 48, GH 49.
+- 265 No In CB.
+Subject:Notice of Delay – Failure to provide Etihad Lounge Doors
+Dear Sir,
+We write with reference to our trailing email reminder in (3) above regarding the subject matter and
+hereby put on record your continuous failure to provide the doors since January 2018. Please be advised
+that you have persistently delayed these works and missed several targets to date.
+In addition, your shop drawings have been delayed due to your poor choice of sequencing the priorities
+you have been given, although you were aware that Etihad Lounge Doors have always been the first
+priority for CP area. The aforesaid delays have subsequently delayed the installation of the works to
+
+other trades, which will impact the overall completion in such locations, hence, you will be held fully
+responsible for the aforesaid delays.
+In light of the above failures, you are reminded of your obligations as set out under the Subcontract
+Clause 8.1.2 [Subcontractor's Obligations], where you are required to proceed with the Works with due
+expedition and without delay, and should neither delay nor adversely affect our performance and/or
+Other Subcontractors.
+Therefore, you are hereby instructed to commence with these works immediately and show progress by
+11th October 2018. Please be advised that failure to do so, will result in TCAJV appointing other
+Subcontractors to fabricate and complete the aforesaid works on your behalf. Consequently, all relevant
+costs (inclusive of our applicable admin fee) associated with the appointment of such third parties will
+be recovered from your account in accordance with Clause 10.3 [Contractor’s Claims] of the
 Subcontract.
+It is noted that any delays, costs, losses and/or expenses incurred by us and/or Other Subcontractor/s
+arising as a result of the above delays shall be at your risk and recovered from your account in
+accordance with the Subcontract clauses 10.3, 16.6.1 and other relevant clauses.
+This is for your immediate action.
+
 Yours faithfully,

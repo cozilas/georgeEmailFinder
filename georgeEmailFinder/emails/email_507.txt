@@ -1,47 +1,58 @@
-Subject:Close out Deliverables
+
+Subject:RE: Request / Application for Interim Extension of Time (Claim No. 3) with Prolongation Costs
+
 Dear Sir,
-Further to our email enclosed herewith, this is to put on record your failure to submit the required
-closeout documents as shown in the table below. We also put on record that despite our numerous
-reminders to attend the weekly closeout meetings, you have failed to do so.
-Training Manuals
-System / Deliverable
-DOORS 6-Feb-18
+We write with reference to your Interim Request / Application for Extension of Time (Claim No. 3)
+submitted via letter reference (3) for TCAJV’s review and approval. The submission comprised 4Nr hard
+copy Files, namely:
+(i)
+(ii)
+(iii)
 
-Planned Date Status
-Rev. 0 (TD: 19-Jul-18)
+Narrative, Appendix 1, Appendix 2 and Appendix 4 (File 1);
+Appendix 5 (File 2 and File 3); and
+Appendix 3 (File 4).
 
-Training Deliverables
-System / Deliverable Planned Date Status
-Training Scheduled
-Not Confirmed Overdue
-Training Details Not provided Overdue
-Door Hardware Missing CV
-Rev. 0 (TD: 19-Jul-18)
-Asset Register - Pier 4
-System / Deliverable Planned Date Status
-Pending Asset Register Data Population - Pier 4 15-Apr-18
-Pending Asset Register Data Population - Pier 3 15-Sep-18
+In response to our subsequent requests, you have also provided the following additional
+documentation:
+(i)
+A soft copy (698 Pages in pdf format) of the Claim; (Enclosure A)
+(ii)
+Clarification of how the amount claimed as Prolongation Cost (AED 89,076,792.44) is established
+(Enclosure B); and
+(iii)
+A soft copy (Xcel file) named ‘ADIA – Prolongation Cost Breakdown R3’ to identify the source of
+the Average Cost(s) per day used in your valuation (Enclosure C).
+We have already notified you via email that the hard and soft copy files submitted are not the same and
+that the amounts claimed for certain elements do not align with the supporting documents provided
+(see Enclosure D). In addition, we hereby note that no supporting documents are provided for the
+amounts included in the following components of the Claim (‘ADIA – Prolongation Cost Breakdown R3’),
+under the heading(s):
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
 
-Reply to TCAJV comments
-Overdue
+‘Other’ (AED 32,341,479);
+‘Labour Accommodation Cost’ (AED 3,907,524);
+‘Manufacturing / Production Overheads’ (AED 33,350,933);
+‘Design Subcontract’ (part);
+‘Finance Cost’ (from November 2017); and
+‘Factory Supervision & Support Staff’ (apart from January 2017 to October 2017).
 
-Civil Defense Documentation
-System / Deliverable Planned Date Status
-ADCD Documentation - Supplier Letter (Pier-4) 25-Jun-18
+Notwithstanding any other relevant provisions of the Subcontract, you are obliged, pursuant to SubClause 27.1.5 of the Conditions of Subcontract, to “send to the Contractor a fully detailed claim which
+includes full supporting particulars of the … reimbursement of additional Cost and or adjustment to the
+Subcontract Price claimed”. Suffice to say that the submission made by you does not meet the requisite
+criteria.
 
-Critical
+For the avoidance of any doubt, this letter shall not be construed as a waiver of any of TCAJV’s rights
+under the Subcontract in relation to the submitted claim and/or as TCAJV’s acceptance of any of the
+items and/or amounts claimed, as Costs that may be included in the valuation of any additional payment
+arising out of or in connection with any award of an extension of the Subcontract Time for Completion.
+Upon receipt of your fully detailed and supported claim, we shall respond to all aspects in accordance
+with the Subcontract.
+This is for your information and necessary action.
 
-Warranties
-System / Deliverable Planned Date Status
-Warranties Submission (5 Nos.) S/C refuses to submit warranties
-
-In light of the above, you are instructed pursuant to Clause 11.3 [Instructions of the Contractor] to take
-immediate action and submit all required information within seven (7) days from receipt of this letter
-and comply with your Subcontract obligations accordingly.
-Your persistent failure to comply within the specified period highlighted above will leave us with no
-option but to withhold your payments until submission and approval of the said documents.
-Any delays, costs, claims, losses and/or expenses and the like incurred by us arising as a result of your
-failure to complete the aforementioned activities will be solely your responsibility as per the
-Subcontract Agreement Clauses including but not limited to 10.3 [Contractor’s Claims], and 16.6 [Delay
-Damages].
 Yours faithfully,

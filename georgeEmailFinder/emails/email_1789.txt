@@ -1,61 +1,72 @@
 Dear Sir,
 
-Following recent discussions it has come to our attention that the Contract is open to different
-interpretations as to the Contractor's obligations in issuing Notices to the Engineer when the Contractor
-is in receipt of an Engineer's Instruction ("El") which the Contractor believes constitutes a Variation
-under General Condition ("GC") 13 ("Variations and Adjustments").
+The Contractor is aware of the importance of achieving project Key Interface and Taking Over (KITO)
+dates. The Contractor has also been told that the Employer will not give relaxation to the requirements
+in the Contract to achieve these dates and the Time for Completion, see Reference (1).
 
-One interpretation is that the Contract requires the Contractor to issue Notice(s) and provide further
-particulars, under each and all of the following General Conditions of Contract:
+It is therefore of significant concern that the Contractor's monthly revised programme updates continue
+to show evidence of delay to actual progress with a reciprocal lack of effective mitigation. Th Engineer's
+Assistant provides, as Attachment (1), graphical representation of the actual float erosion being seen on
+a representative sample of KITO milestones over recent months. This representation is based on the
+Contractor's monthly revised programme submissions, where the results show a trend of significant
+float erosion on the KITO Dates.
 
-1.
-A Notice (hereinafter referred to as the "Variation Notice") must be provided by the Contractor
-within 14 days of receipt of the El, pursuant to GC 3.3.3, if the Contractor believes the El constitutes a
-Variation or, if the El may create an Entitlement to the Contractor ("Entitlement" is defined under GC
-1.1.6.6 as being, inter alia, a right to an extension of time under GC 8.4 and a right to any adjustment to
-the Contract Price). The Contractor is then obliged, pursuant to GC 3.3.4, to provide the Engineer with
-details of any anticipated extension of the Time for Completion and/or a proposed adjustment of the
-Contract Price within 28 days from the aforementioned Variation Notice.
+On top of the above, through the same revised programme submissions, the Contractor has adopted the
+position, that Tunnel MEP and emergency exit works do not form part of the Tunnel Take Over scope
+(TNTO) and that the station subways do not form part of KITO STKID.03.This is incorrect.
 
-2.
-Should the Variation Notice involve a considered entitlement to an extension of time, the
-Contractor is also compelled to provide a Notice (hereinafter referred to as the "Extension of Time
-Notice") of such considered entitlement to the Engineer, pursuant to GC 8.4.2. The Extension of Time
-Notice must be provided within 14 days of when the Contractor knew or should have known of the facts
-or basis of such entitlement. The Contractor is then obliged, pursuant to GC 8.4.4, to provide to the
-Engineer, within 28 days of the Extension of Time Notice, a Time Impact Analysis for any alleged
-adjustment of the Time for Completion.
+The Engineer's Assistant has been emphasizing these concerns through a number of letters, where
+instructions have also been issued to the Contractor to submit revised programmes and supporting
+reports under Volume 3, Sub-Clause 8.5.1 'Rates of Progress', refer to Attachment (2).
 
-ALYSJ
-joint venture
+Following discussions and receipt of letters, examples of which include Reference (8) & (9), the
+Engineer's Assistant is concerned that the Contractor may be relying upon the ultimate outcome of
+claims for which notices have been served, as a means of justifying non response to instructions under
 
-3.
-Furthermore, pursuant to GC 20.1.2, should the Contractor consider itself to be entitled to any
-extension of the Time for Completion and/or any additional payment under any other General
-Condition, the Contractor is also required to give a Notice to the Engineer (hereinafter referred to as the
-"Claim Notice") describing the event or circumstance giving rise to the claim. The Contractor is then
-obliged, pursuant to GC 20 .1.6, to provide the Engineer within 28 days of the Claim Notice, its detailed
-claim supporting the basis of the claim and of the extension of time and/or additional payment claimed.
-The aforementioned requirements of GC
-20.1 are reinforced by GC 20.1.11 which states that the requirements of GC 20.1 are in addition to those
-of any other General Condition " which may apply to a claim."
+Clause 8.5.1'Rates of Progress'. In this event, the Contractor is referred to Volume 3, Sub-Clause 8.4.1
+'Extension of Time for Completion', which states:
 
-Another interpretation is that the Contract only requires the Contractor to issue a Variation Notice (and
-further particulars within 28 days of the Notice) and, if relevant, an Extension of Time Notice (and a
-Time Impact Analysis within 28 days of the Notice). In other words, a Claim Notice is not be required to
-be issued within 14 days of the Contractor's receipt of the El, i.e.a Claim Notice is not be required to be
-issued at the same time as the Variation Notice and the Extension of Time Notices are issued . Such a
-Claim Notice would only be required following the Contractor's submission of the further particulars
-pursuant to GC 3.3.4 and the Time Impact Analysis pursuant to GC 8.4.4 (if relevant) and the Engineer's
-subsequent disagreement that the El is a Variation or the Engineer's disagreement of the Contractor's
-entitlement to and/or the applied quantum of an extension to the Time for Completion and/or
-adjustment to the Contract Price due to the alleged Variation.
+.,'
+•
 
-It is important that there is clarity in the communication on such matters and on reflection the
-Contractor considers this is more efficiently achieved by the latter. The Contractor would therefore like
-to propose to the Employer/Engineer that the latter interpretation is to be employed for any Els that are
-to be issued in the future. The Contractor therefore respectfully requests the Employer's written
-agreement to the employment of the latter interpretation of the Contract reducing unnecessary
-contractual correspondence for an El that is believed to be a Variation by the Contractor.
+l
+
+.,
+
+l ),. l
+
+1- •
+
+Louis Berger ®egis rail
+LB ER JV
+
+"The Contractor shall be entitled to an extension of the Time for Completion if and to the extent
+Completion for the purposes of Sub-Clause 10.1 (Taking Over of the Works and Sections) is or will be
+delayed by any of the following clauses:
+
+(a) a Variation (unless an adjustment to the Time for Completion has been agreed under Sub-Clause
+13.2.3(b) or 13.2.3(c));
+(b)
+a cause of delay expressly stated in these Conditions as giving an Entitlement to an extension of
+time under the Contract; or
+(c)
+
+a material breach of the Contract by the Employer."
+
+This Volume 3, Sub-Clause 8.4.1 'Extension of Time for Completion' is the only applicable condition
+where a revised programme under Volume 3, Sub-Clause 8.5.1 'Rates of Progress' may not apply.
+As part of submission Reference (7), the Contractor has more recently informed that all previous
+Engineer's Instructions under Volume 3, Sub-Clause 8.5.1 'Rates of Progress', were addressed through
+submitted monthly programme updates. This cannot be correct, as none of those updates provided
+supporting reports describing any revised methods which the Contractor proposed to adopt in order to
+expedite progress, following Instruction under clause 8.5.1.
+
+The Engineer's Assistant remains of the opinion that unless more effective measures are put in place,
+the float erosion will continue, resulting in ultimate non-achievement of several KITO dates. This must
+be averted.
+
+The En ineer's Assistant therefore refers the Contractor to Attachment (2) and reinforces the need for
+the Contrac r to provide specific response to the identified Volume 3, Sub-Clause 8.5. 1 'Rates of
+Progress' instructi ns within 14 days of receipt of this letter.
 
 Yours faithfully,

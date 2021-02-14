@@ -1,7 +1,204 @@
-Mustafa,
-Apologies for the delay, but we have been exceptionally busy and overwhelmed with requests for
-notices and other assistance during recent weeks and we are doing our best to try and manage the
-requirements of everyone.
-As mentioned in my email below, we have prioritized your request and it will be completed and issued
-to you soon.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0277
+Changes in Design as a result of a Design Error to the Corridor located at Office Building L3.0 –
+Request for Engineer’s Instruction (EI) / Variation Order (VO)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The event detailed in Annex A hereto, represents a change in Design as a result of a Design error that is
+delaying the works and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+The matters described in detail below, concern delays due a Design error and a change in Design to the
+Corridor located at Office Building L3.0. The purpose of this E-Notice No. 0277 therefore is to provide a
+detailed chronology of the various events and circumstances giving rise to such delay and elaborate on:
+(1) the Design error; (2) the change in Design; and (3), the act(s) of prevention on your / the Employer’s
+Design Consultant part that is impeding our ability to complete the Works by the Time for Completion.
+Chronology of Events
+On 5 August 2019, following numerous emails, correspondences, meetings and workshops with you and
+the Employer’s Design Consultant (KPF) during which KPF raised its concern regarding the performance
+of the Air Plenum Corridor located within Level L3.0 of the Office Building, we ourselves had doubts as
+to the efficacy of the design; hence we issued a ‘Notice of Design Error’ by way of our letter ref: (1).
+In our letter, we elaborated on KPF’s requirement to completely seal the concerned corridor to act as an
+air plenum, to achieve a specific air flow rate to the architectural louvres at the same area, and
+explained why as per the IFC Design, the corridor would fail to perform as an air plenum. We believe
+our letter ref: (1) to be self-explanatory, but for the sake of clarity, we herewith expand on the matter as
+per the below:
+The Issued for Construction (IFC) Mechanical Drawings indicated six (6) displacement diffusers type DD-E
+, to be installed in the service corridor to Level L3.0. The Architectural IFC Drawings however, show the
+supply air ducts within the air plenum terminating at slab level, meaning there was a contradiction
+between the Mechanical and Architectural IFC Drawings. To be more specific, the Mechanical Drawings
+
+indicate DD-E diffusers to be installed on top of the ducts which extend / raise beyond the slab level in
+the corridor, but the Architectural Drawings indicate air supply ducts to be installed up to the slab level
+Despite the deficiency between the respective Drawings, for the reasons set out in letter ref: (1) and
+repeated below, we adopted the design shown upon the Architectural IFC Drawings, and made it clear
+that our corrective action was to remove the core elements of the displacement diffusers in the
+corridor.
+By way of explanation: As per the IFC Drawings, all the displacement diffusers consist of a core segment
+and a shell segment. The core element is shown in the Mechanical Drawings and tagged as DD-A, DD-B,
+DD-C, DD-E etc. and a schedule is provided to specify the required performance parameters, while the
+shell element is shown in the Architectural Drawings tagged as "Perforated Metal Enclosure”.
+As noted in letter ref: (1) in our Shop Drawing prepared for the concerned Corridor located at Office
+Building L3.0, we referred to RFI/0401/6122, which was raised on 12 August 2014 for a similar issue for
+the ‘Low Level Displacement Diffusers in L2.0’, in the manner shown in Figure 1 below.
+Figure 1 – RFI/0401/6122
+We received KPF’s response to RFI/0401/6122 on 27 August 2014, stating the following (Figure 2 refers):
+Figure 2
+KPF’s response to RFI/0401/6122 specified that:
+1.
+Diffuser at the concerned locations have no core element;
+2.
+Diffuser to have an air diffuser mat, behind metal mesh; and
+3.
+Duct terminates within the air plenum.
+It can therefore be seen that numerous RFIs were raised owing to deficiencies and contradictions in the
+IFC Design (including RFI Nos. 6122, 5177, 3275, 7553, 9300, and 9356); the IFC Design having failed to
+provide a clear resolution for the floor displacement diffusers in various locations of the Project.
+It was therefore made patently clear from the response to RFI/0401/6122 and the three items listed
+above, that DDE displacement diffusers (which requires regular maintenance) would not be used,
+especially in an enclosed space such as the corridor discussed herein, located at Office Building L3.0.
+Therefore, since the corridor at Office Building L3.0 is a very similar case to the other locations discussed
+in the abovementioned RFIs, we submitted our Shop Drawings taking cognisance of KPF’s comments
+listed above (1 to 3) in response to RFI/0401/6122 i.e. without a core element and with an air diffuser
+mat as shown in Figure 3 below, which it was subsequently approved by you / KPF, without comments.
+Figure 3
+In summary, the facts remain as follows:
+•
+The maintenance corridor housing the displacement diffusers core elements is very narrow
+(Figure 5 refers). Consequently, if DDE displacement diffusers are installed, they will obstruct the access
+throughout the full width and length of the corridor, because they are bulky elements;
+•
+In the event core elements of the displacement diffusers are installed, maintenance activities
+will be unable to be carried out since the corridor will not be accessible anymore;
+•
+Installing displacement diffuser core elements will have no impact on the performance of the
+system. This is because, the design intent is to supply cool air into the service corridor (that acts as an air
+plenum) which will transfer the cool air to the public balcony (Figure 4 refers) through the air diffuser
+foam (ADF-1 ), which is installed to the corridor’s façade (RFI/0401/8698 refers);
+Figure 4
+
+•
+The relevant Shop Drawings were approved by you without any DDE displacement diffusers /
+core elements indicated thereupon and were approved without any comments by you / KPF;
+•
+Numerous RFIs with similar cases, where the diffuser core elements have not been implemented
+due to the presence of other façade diffusers, have been approved by you (described above);
+•
+The Corridor at the Office Building L3.0 and numerous air plenums in other locations, have been
+tested and commissioned and readings show that the air flow values achieved are as per the design
+requirements. The tests results show that 103% of the design intent has been achieved;
+•
+As per the IFC Design, the service corridor to Office Building L3.0, is not designed to be sealed.
+Consequently, any of your / KPF’s concerns in regards to hot areas spotted on the Office Building public
+balcony L3.0 (Figure 5 refers), will be resolved once the air plenum is completely sealed. This will ensure
+that the required air flow rate is achieved outside of the architectural louvres. This however, will be a
+change in design and will require issuance of an EI / VO as explained below.
+Figure 5
+As stated in our letter ref: (1), the air diffuser (ADF-1) is indented to serve the public balcony as an air
+plenum (Figure 5 refers). However, a 2.5m height glass wall is installed at a distance that ranges from
+2m - 4.3m from the building façade which is separating the Office Building from the Public Balcony.
+Evidently, this wall prevents the cooled air from travelling from one side to the other. Moreover, the
+velocity which the air will be travelling is considerably low due to the following:
+•
+Architectural plenum front face dimension is 3130mm x 17640mm (refer to RFI/0401/8698);
+•
+Total design flow is 7076 L/s.
+Hence, the design velocity on the face of the architectural grill is approximately 0.12m/s in the case
+where the entire plenum is fully sealed (top and sides). With such a low velocity and long distance to
+travel, the supplied air travelling through the ADF-1 will not be able to overcome the glass wall barrier.
+We made it patently clear in letter ref: (1), that the design provided by you, of the service corridor at the
+Office Building L3.0, is not designed to be sealed and thus will not serve the design intent to act as an air
+plenum. We also stressed that this matter needs to be discussed between you and KPF to ensure no
+changes will be introduced at a later stage once the public balcony is served with insufficient cooled air.
+Despite us issuing letter ref: (1) to you on 7 August 2019, you failed to respond until 159 calendar days
+later on 13 January 2020, vide letter ref: (2), providing your / KPF’s position on the matter, advising us
+“to provide a totally sealed plenum and shall re-submit the relevant Shop drawings for a final approval”.
+In this regard we wish to respond to each of your / KPF’s respective points made in your letter as
+follows.
+Notwithstanding the fact that you failed to provide a suitable Design, in your letter ref: (2) you allegedly
+stated that it is our “obligations to coordinate the works and therefore any delays resulting from the
+Contractor's reluctance to promptly proceed with the works will remain the Contractor's responsibility”,
+which we refute in its entirety. This is due to the fact that the concerned issue is not a matter of
+coordination, but a Design error for which the Employer’s Design Consultant is responsible, not us. We
+are not the designers for this Project, the Employer’s Design Consultant is. Consequently, we accept no
+liability or responsibility for any inconsistencies in the Design; neither do we accept any responsibility for
+overcoming any inconsistencies in the Design; this remains firmly with the Employer’s Design
+Consultant.
+According to the attached letter from KPF dated 29 December 2019 (ref: KPF-AECOM-2132-LTR-1589)
+we “misinterpreted RFI-6122 response while reviewing the RFI-17045 response related to Maintenance
+corridor lights. It is apparent that the Contractor thought that the displacement diffusers in Level 3.0 at
+Office Building were removed which is clearly not the case per RFI-6122 response”. In this regard, for
+the reason explained above, we have not misinterpreted the response RFI/0401/6122 at all. The corridor
+
+at the Office Building L3.0 is very similar with the numerous other service corridors, including that
+discussed in RFI/0401/6122. For this reason, RFI/0401/6122 was used as a reference to prepare our
+Shop Drawing for the corridor located at the Office Building L3.0. This was approved by you without any
+comments.
+Additionally, KPF mentioned that “ln the RFl-6122 response, the requirement is to follow ASK 0535-(RFI3275) for the displacement diffuser core detail. Instead of using this sketch, the Contractor removed the
+displacement diffusers without replacing anything in its place and capped off the ducts at floor level. The
+removal of the diffuser is not prescribed by the Design Consultant”. Our response to this, is that in
+RFI/0401/6122, you confirmed that there is no core element for the displacement diffuser and that an
+air diffuser mat should be used behind the metal mesh, and this is exactly what we have implemented.
+KPF’s letter continues by reminding us “that all mechanical and architectural IFC documents specify the
+subject maintenance corridor areas as an “air supply plenum” and has DD-E displacement diffuser type.
+Refer to MTC-A-32-TB-L-_-_-__-00-603 and MTC-M-02-TB-l3.0-5.18-001”. We put on record that the
+corridor at the Office Building L3.0 is considered as a civil plenum (not Mechanical). In other words, it is
+the floors, walls and roof of that space that would technically form the plenum. Since the IFC Drawings
+do not show any roof to that corridor, then the corridor could not reasonably serve as an air plenum.
+We record however, that despite KPF’s ‘position’ on the matter, they nevertheless, attached an entirely
+new detail to their letter dated 29 December 2019 (Figure 6 refers) changing the IFC Design by providing
+a top closure (roof) to the corridor so it can serve as a plenum; this is an unequivocal Design change.
+Figure 6 – New Sketch SK001 - Rev 00
+Despite this however, KPF continued to allege in its letter dated 29 December 2019 that “As per IFC
+design intent and documentation, the plenum shall be fully sealed. The root cause of these discussions
+on the plenum arrangement has been the result of the Contractor's failure to follow the IFC
+documentation and to co-ordinate the services with the architectural design”. We refute this entirely
+and reiterate that the IFC Design does not indicate the corridor to be sealed. In fact, the new sketch
+enclosed in your letter ref: (2) reproduced in Figure 6 above, is evidence of fact that KPF is attempting to
+change the Design.
+In addition, KPF states in their letter that “The Design Consultant has notified the Contractor that the asinstalled system does not work and have participated in workshops with the Contractor to proactively
+resolve the Contractor's error and omission”. We agree with KPF’s statement that the “as-installed
+system does not work” and we wish to add to that, that it “does not [essentially] work [as intended to
+work]”, based on the new requirements introduced by KPF for a sealed corridor. This is the reason we
+issued letter ref: (1), after numerous meetings and workshops with you/KPF, to notify you, that
+expecting the corridor to act as an air plenum without the corridor being sealed from top to side, is
+unreasonable and is a ‘Design Error’. Nevertheless, we categorically refute KPF’s statement that this is
+due to our “error and omission”, since as stated above we have no Design responsibility for the
+concerned systems.
+KPF concludes their letter by referring to the enclosed sketch (‘SK001 - Rev 00 dated 17 Dec 2019-Office
+Building L3.0 Maintenance Corridor - Air Plenum Details’, an extract of which is provided in Figure 6
+above) which provides a sealing to the concerned corridor for implementation, which is essentially a
+Design change. In which respect we reinforce the fact that the Design, IFC Drawings and approved Shop
+Drawings (i.e. 401-AG-A-03-30-5.00-HB-SD-002-Rev02, 401-AG-A-03-30-5.00-HB-S D-001-Rev0, 01-AG-A02-30-5.00-HB-SD-002-Rev02), do not indicate the Office Building L3.0 Maintenance Corridor to be
+sealed and consequently this represents a de facto variation and change to our scope of Works.
+SAA8 laid down strict guidelines to follow if additional works are required and hence the
+aforementioned change will warrant a valid Engineer’s Instruction (EI) and (VO) if you require us to
+proceed with integrating the revised scope into the Works. The provisions of Clauses 2.29 to 2.31 of
+
+SAA8 make it clear that we are not to proceed with any Variation unless a Variation Order and a
+Time/Cost Record have been issued first. It is your obligation to issue this Record first if you wish to
+instigate change; this is only after the additional time and/or costs impacts have been agreed between
+us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC Design to the extent we are able to.
+While some of the RFIs cited above were raised prior the ‘Effective Date’ included in SAA8 (4 September
+2018), this event cannot possibly be construed as forming part of the ‘Included Circumstances’ (per
+Clause 1.7.4 of SAA8) and will be included within any forthcoming Time Impact Analysis, albeit in
+recognition of the Effective Date included in SAA8, any delays will be analysed from 4 September 2018
+onwards. SAA8 cannot reasonably be interpreted as requiring us to absorb delays of unknown (possibly
+unlimited) duration occurring pre/post 4 September 2018, particularly where the resolution of the
+matter causing the delay lies with the Employer. We contend therefore that under the circumstances
+the responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
 Yours faithfully,

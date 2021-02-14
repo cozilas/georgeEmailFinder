@@ -1,42 +1,30 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 258 [post-SAA8]
-Settlement Observed to Landside Roads – Failure to Issue Engineer’s Instruction
-Dear Sirs,
-We refer to our letter ref: (1) associated with the settlement occurring to the Landside area following
-the rainfall event in January 2020, rejecting the open response NCR-01492 [which insisted that we
-undertake exploratory boreholes] and requesting an Engineer’s Instruction in confirmation of your
-requirements, on the basis we are not responsible for the settlement nor are we responsible for
-providing a design solution.
-We note that you failed to reply to our letter. You have however, since issued a further two letters ref:
-(2) and (3), in which you have referred to another entirely separate NCR associated with the Landside
-Backfill Material (it is not related to the current settlement issue), and in the case of the latter, letter ref:
-(3), served as a ‘Notice to Correct’ owing to what you opine is our failure to close out both NCRs and
-proceed with [as yet undefined’] ‘rectification measures’ which you continue to wrongly allege is our
-responsibility.
-Since letter ref: (1) was issued, we have exchanged further emails between us restating our respective
-positions (ref: 4). By way of example, our e-mail dated 6 April 2020 [14:11 PM] was issued to “remind
-you that we are awaiting your instruction and way forward regarding the settlement observed at
-landside,” while our e-mail issued at 15:39 PM requested you to “expedite a clear instruction on the way
-forwards.” However, you continue to prevaricate, evidenced from your e-mails issued in the interim.
-For example, in your e-mail dated 8 April 2020 [10:57 AM] you maintain the “NCR is valid and it remains
-the Contractor’s obligation to remedy their defective works in order to bring the works into compliance
-with the Contract.”
-This is not solving the issue. For the reasons set out in our letter ref: (1) and asserted since, the
-settlement that has occurred to the Landside Area is not due to any perceived fault on our part. We
+Subject: Insufficient quality resources
+Dear Sir,
+We write to raise our concerns with reference to the reduction in the contractor’s dedicated quality
+resources. We understand that the contractor has recently demobilized the majority of the quality
+assurance and control team and consequently the quality department is unavailable to attend to quality
+concerns, meeting, site walks, audits and inspections and tests.
+The contractor does not currently have adequate resources to fulfill the requirement for quality
+management. We remind the contractor of its duty to implement a project quality management system
+to ensure compliance with specified contract requirements in accordance with section 014300 quality
+assurance and 014400 quality control testing.
 
-have also made it patently clear that we are not the designers for the Project, the Employer’s Design
-Consultant is. Hence it is up to you to coordinate with them and obtain a satisfactory design solution to
-address the settlement. Accordingly, we urge you to obtain a solution and issue this to us under cover of
-an Engineer’s Instruction.
-In the meantime, the continued on-going failure to provide us with a clear instruction on the way
-forwards, despite our repeated requests, constitutes acts of prevention and/or breaches of Contract on
-the part of the Employer / Employer’s Personnel and / or Consultants, and accordingly we hereby give
-you notice, pursuant to Sub-Clauses 16.5.2 and 27.1.1 of the Conditions of Contract, of our right to
-claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of contract.
-Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
-event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
-Yours faithfully,
+It is of particular concern that the works are not being checked, reviewed and verified by the
+contractor’s quality control team to demonstrate and document compliance with the contract. As per
+enclosed documents the contractor is submitting work inspection notifications (WIR) through zutec
+without the necessary verification by the contractor’s quality control.
+We also observed that wir revisions and snagging closure requests are being raised by the contractor
+without first rectifying the works on site. Due to your lack of quality resources, our inspectors are
+conducting inspections directly with the subcontractors. We also observed that the quality control
+documentation in zutec is being filled / processed by unauthorized people such as the contractor’s
+secretaries and document controllers.
+The reduction in the contractor’s quality team at this critical stage of the project is of great concern and
+is not acceptable given the current delays to the project and will cause further detrimental impacts to
+the quality of the works. This is a breach of the contractor’s obligations under the contract and in
+particular of clause 14.8 of the conditions of contract and clause 1.4 of section 013103 of the
+specifications.
+We request the contractor to implement immediate measures to provide all necessary quality
+management and control resources required to fulfil its duties under the contract. We also request that
+the contractor provides its updated organization chart showing the project quality control team
+responsible for managing, performing and verifying the works.
+Yours faithfully

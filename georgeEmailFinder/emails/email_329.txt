@@ -1,21 +1,34 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0117
-Additional Works associated with the Installation of Antennas to Piers 1 to 4 by an Other Contractor –
-Request for Engineer’s Instruction / Variation Order
-Dear Sir
-We refer to your letter ref (2) issued in response to our letter ref: (1).
-We note your comment where on the one hand you state the Employer’s Other Contractor (COMBA
-Telecom) “has confirmed that there are no additional cuttings / openings required” yet on the other
-hand you direct us to “proceed with the additional works instructed under EI 748” but at the same time,
-inform us that “there is no entitlement for a Variation Order” and that the E-Notice is “closed”.
-For the reasons comprehensively set out in E-Notice No 0117 issued by way of our letter ref: (1), “the
-additional works” we are expected to undertake to provide purported ‘logistical support’ to COMBA
+Subject: Failure to Achieve Milestone 68
+Dear Sir,
+We write with reference to the Principals' Meeting dated 11 September 2019, where TCAJV stated
+that MS6B was achieved (see attached Slide #22 of the Contractor's presentation).
+The Engineer reiterates that in order for Milestone MS6B to be completed in accordance with the
+Contract, the Contractor must complete Stage 3 of the Room Completion phases as well as the Testing
+and Commissioning of the services providing for and passing through the retail spaces. The Milestone
+definition states 'The milestone will be considered complete when all areas are inspected and accepted
+by the Engineer in order to allow undisturbed and uninterrupted access for build-out/fit-out by other
+Contractors'.
+Given that neither Stage 3 nor the Testing and Commissioning are completed (Testing and
+Commissioning is forecasted to be completed by 31 October 2019 as per the Contractor's target
+Program presented in the same meeting presentation in Slide #11), the status of the Milestone 6B
+remains unachieved.
+We hereby reserve the Employer's rights pursuant to Clause 10.3 and Clause 16.6 of the Conditions of
+Contract to impose delay damages for the Contractor's failure to achieve the Milestone within the
+Contractual timeframe.
+Subject:Delay Notification – Slow Progress – Central Processor AHUs TAB Works
+Dear Sir,
 
-Telecom is grossly in excess of that originally promulgated in EI No. 748 and constitutes work that is
-indeed “additional” to our existing scope. Hence we requested an EI / VO in order for us to proceed.
-Since our letter ref: (1) was issued, which was on 5 August 2019, and absent receipt of an EI / VO, we
-have demobilised the resources that would have otherwise been available, and are now no longer in a
-position to undertake the additional works for the Employer’s Other Contractor (COMBA Telecom).
-We take this further opportunity in reminding you that if in the event you require additional works to be
-undertaken by us, then there is a mechanism under the provisions of Clause 2.29 to Clause 2.31 of SAA8
-available to you if you so wish; we are not obligated to act otherwise unless you instruct us.
+We refer to your letter (1) advising us of purported slow progress to the Central Processor AHU’s TAB
+Works.
+We disagree with the content of your letter and would mention that AHU’s TAB and Commissioning
+works are technically not required for Cause and Effect testing. Respective units and items installation
+(mechanical and electrical) and energization are sufficient to proceed with the Cause and Effect testing.
+However, through proactive joint dialogue with you at site, we have worked together to progress the
+AHU works, and in certain instances, proceeded with the Cause and Effect testing, ahead of
+Commissioning.
+We refer you to our letter (2). Whereas you have measured our progress against Rev. 11.2 Programme
+update for March 2019, you are aware that we have been working to the Completion Programme.
+While we remain fully committed to ADAC, the Project and to completing our obligations within the
+shortest possible time, without compromising on safety and quality, in view of the matters outlined
+above, we refute any allegations of slow progress to the AHU TAB works. We trust this is clear
 Yours faithfully,

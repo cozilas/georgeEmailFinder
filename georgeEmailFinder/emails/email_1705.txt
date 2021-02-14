@@ -1,48 +1,33 @@
-
-Dear Sir,
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the Variation is provided below.
-
-'A centralized cooling plant is to be constructed above Ras Bu Abboud Switchbox to serve the stations
-Souq Waqif, Qatar National Museum, Ras Bu Abboud and Ras Bu Abboud Stabling Yard'.
-Further, this instruction amends the Employer's Requirements as set out in the Appendix A - 'Centralized
-Cooling Plant'. The Contractor is also required to extract the information as appropriate from Qatar Cool
-Energy Transfer Station's Technical Guide (Appendix 8).
 Dear Sir,
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the variation is provided below.
+Further to our letter reference 1) and Engineer's Instruction No. 78 to delete the diesel generators
+reference 2) we reiterate your obligations to fulfill the Employers Requirements,Volume 6, Clause 11.4.3
+Landscaping, specifically regarding the urban integration of " .....all functional and structural features
+pertaining to stations .... "by minimizing the visual impact of technical Pop Ups on the urban
+environment. This includes the supplementary UPS/ battery rooms introduced in reference 2) to
+replace the diesel generators. We confirm that the requirement is for one supplementary UPS/ battery
+room with minimum
+area of 70 m2 and minimum clear headroom of 5 m per I type station and two such rooms for X type
+stations.
 
-The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
+The following additional guidance is provided:
 
-"Based on these calculations, the minimum clear width of such passageways, whether elevated or
-underground, shall be no less than 10 m. This does not include areas of low mobility near to vertical
-surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
-deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
+1.
+For stations with switch boxes (Ras Bu Abboud, Bin Mahmoud, Al Sudan, Sport City and
+Muaither) the supplementary UPS/ battery room {s) can be located within the overburden above the
+switchbox provided that this room is adjacent or as close as possible to the SPS MV/ LV room.
 
-Volume 6, Sub-Clause 11.4.6.25 b) is now amended:
-To reflect an optimization outcome where the minimum clear width of passageways whether elevated
-or underground is reduced to 6.80 meters (excluding event stations).
+2.
+For stations without switchboxes (Qatar National Museum, Al Sadd, Joaan, Al Waab, Al Aziziyah,
+Doha Zoo and Al' Rayyan Sbuth) the supplementary UPS/ battery room {s) can be buried within the
+available overburden above the station box provided that it does not encroach within Ashghal's RoW
+or conflict with utilities. To fac ilitate this burial the minimum clear
+headroom of the supplementary UPS/ battery room can be reduced to 3 m with a subsequent increase
+in the minimum area to 100 m2
 
-The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
-Required Passageway Widths, attached to this Instruction. Contractor is to note that:
-•
-
-This does not include for finishes which should be assumed as +1.0m
-
-•
-
-Width of passageway is the clear width between the two (2) clad facades of the passageway
-
-•
-Width of walkway is the usable width of the walkway between the two (2) travellators or the
-travellators and the wall - depending upon layout.
-Stations where the minimum width has already been agreed with Other parties or where design and
-construction may have advanced to the stage where reverting minimum width is no longer feasib le,
-shall be considered on a case by case basis.
-
-Contractor is instructed to implement the requirements to ensure the best possible optimization in
-design and installation is carried out and provide the response in accordance with Sub-Clause 13.1.1 of
-the Conditions of Contract.
-
+3.
+In situations where neither of these options is possible (Souq Waqif) the supplementary UPS/
+battery room should be located within the station box utilizing rooms which are currently shown
+unallocated in the DD1 Architectural Layouts. To assist with facilitating this, an alternative
+configuration of two separate rooms with minimum clear areas of 35 m2 is acceptable.
 Yours faithfully,

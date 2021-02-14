@@ -1,46 +1,23 @@
 
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0218
-Damage to Passenger Boarding Bridge at GH10 due to Employer’s MTA Contractor
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Annex A records delays attributable to damages caused by the Employer’s Other [MTA] Contractor (L&T)
-to the Passenger Boarding Bridge (PBB) at Gatehouse GH10; which requires rectification and as such will
-require you to issue an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We herewith enclose a series of photographs at Annex B that collectively serve to evidence that damage
-has been caused to the previously installed and completed Passenger Boarding Bridge (PBB) to
-Gatehouse GH10 by the MTA Contractor (L&&), and specifically, damage to both the PBB and to a CCTV
-camera. Some of these photographs indicating the damage caused are reproduced in Photo 1 to Photo 5
-below:
-Photo 1 Photo 2
-Kindly note that we cannot be certain when the damage was caused by L&T; we do know however, that
-the last de-snagging inspection to the PBB was held on 2 May 2019 and the date the photos were taken
-is 26 January 2020. Irrespective of when caused, the resultant damage is not of our doing or
-responsibility, and any rectification / remedial works necessarily required at this stage, will invariably
-delay us.
-In which respect, as noted on our letter dated 16 February 2020 (ref:
-MTB/TCA/AECOM/L/015316), we are in the process of obtaining a detailed report from the PBB
-subcontractor (TKAS) to establish the full extent of damage caused and resultant impact. This will be
-forwarded to you as soon as it becomes available.
-As you know, SAA8 laid down strict guidelines to follow in the event that additional works are required
-and on the basis that the necessary repairs to the PBB and CCTV camera to GH10 will put us to
-additional expense [and time] we therefore request that you issue us a Variation Order (VO) / Engineer’s
-Instruction (EI) as necessarily required in order for us to undertake the remedial work and be paid
-accordingly.
-We also request you to take whatever necessary action is required on your part to prevent any further
-occurrence of damages to our previously completed Works by the Employer’s Other Contractors.
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0184
+Engineer’s Unreasonable Snagging Comments regarding Sprinkler Installation at Pier 4
+Sector 4.14C– Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
+Variation / Change into Works
+Dear Sir,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0184 (ref: 2) in which you opine,
+amongst other things, that “the void space current [sic] installed sprinklers do not meet the criteria for
+the omission of sprinklers as per NFPA-13 Clause 8.6.7.2” and that we are somehow responsible for the
+matters subject detailed in our letter ref: (2).
+For the reasons comprehensively set out in our letter ref: (2) we disagree; and it is clearly evident from
+your reply (1), you have either elected to ignore the content or missed the crux of the issue entirely.
+We remind you that the Works associated with the installation of the sprinkler system located at the
+area of L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C, have been completed based on the IFC
+Drawings prepared by the Employer’s Design Consultant; who, as the design consultant for the Project,
+are responsible for the design, not us. We have simply constructed the Works according to their design.
+Therefore any requirement for us to install any additional sprinklers to the area or vary what is currently
+shown on any IFC Drawings represents a change; and if you require us to proceed with integrating any
+changes or revisions to the Works, then you are obligated to issue us an EI / VO in order for us to do so.
+Meanwhile, until such time you take the action required of you and issue us an EI / VO in accordance
+with the express requirements of SAA8, we are unable to proceed with implementing any changes to
+the sprinkler system cited in letter ref: 2 and will maintain what is reflected in the existing IFC design.
 Yours faithfully,

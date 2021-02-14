@@ -1,13 +1,15 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0243
-Unreasonable Status Code 3 Response to Material Submittal No: MS/0401/L/0023 Rev. 05 – Irrigation
-Motor Control Panel
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0238
+Requirement for Additional Fire Extinguishers Introduced to the MTB Works by Messrs Profire – Request
+for Engineer’s Instruction (EI) and Variation Order (VO)
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters discussed in Annex A concern delays associated with your unreasonable Code 3 comments
-issued in response to Material Submittal No: MS/0401/L/0023 Rev. 05 ‘Irrigation Motor Control Panel’.
+The matters recorded in Annex A described changes required by the Employer’s Fire Safety Consultant
+(Profire) associated with the requirement to install additional Fire Extinguishers to various areas and
+levels of the MTB, which will require a valid EI and VO in order for us to integrate the same into the
+Works.
 Potential Impact
 Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
@@ -18,115 +20,39 @@ Kindly ensure that such matters are actioned within seven (7) days of receipt of
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
-DESCRIPTION OF THE EVENT
-Introduction
-On 28 November 2018 we submitted Material Submittal No: MS/0401/L/0023 Rev. 04 in relation to the
-Irrigation Motor Control Panel manufactured by ABB (refer to Table 1 below) as per Specification Section
-328000 (‘Irrigation’). Attached thereto was inter alia a Technical Compliance Sheet, Comments and
-Reply Sheet, and Material Submittal Approval Letter addressing each of the comments raised in
 
-response to the Rev. 03 submittal. We also stated “This material is already approved via MAR ref:
-MS/0401/M/0151”.
-Table 1
-Date Submitted Submittal Ref No:
-Rev
-Description of Contents Response due per Section
-013300 Response Received
-Status Code
-Response Overdue By
-28-Nov-18
-MS/0401/L/0023
-04
-Irrigation Motor Control Panel 05-Dec-18
-23-Dec18
-2
-18 days
-As noted, MS/0401/L/0023 Rev. 04 was returned on 12 May 2018 classified as approved Status Code 2.
-According to an attached e-mail dated 12 December 2018 [12:00 PM], it was agreed that:
-TCAJV/Citiscape would like to request a relaxation/Waiver to submit the sample for MS/0401/L/0023
-Rev04 and note that the following will be provided:
-1.
-Once the referenced subject has been technically approved (Code 2) by the Client/ Consultant/
-Engineer representatives, TCAJV /Citiscape / ABB will proceed with the manufacturing of a sample of
-each type of motor control panel, in accordance with schedule requirements and addressing ALL the
-previous comments on the sample from previous revision. Sample/s will be kept at the factory premises
-for inspection of the same and will not be shipped to site prior to the approval of the former
-representatives.
-2.
-TCAJV/Citiscape will arrange a factory inspection visit and to issue an invite to the Client/
-Consultant/ Engineer in due time.
-3.
-Technical comments raised by the Client/ Consultant/ Engineer representatives during the
-inspection visit, in compliance with the specification and regulatory requirements, will be implemented
-by TCAJV /Citiscape / ABB, as per contract.
-4.
-Once TCAJV /Citiscape / ABB are done with the implementation of the technical comments
-raised in the factory, TCAJV /Citiscape shall arrange another inspection factory visit for re-inspection of
-the panels by Client/ Consultant / Engineer representatives for review and approval.
-Awaiting your approval to assist us to progress accordingly.’
-However, as we were under pressure from all parties to deliver the panels urgently, accordingly the
-panels were delivered immediately after fabrication, and inspected and installed subject to Material
-Inspection Requests (MIR) MIR-CI-MEP-00032 Rev. 00 (Pier 3 L0.1 and CP L.01) on 30 October 2019 and
-MIR-CI-MEP-00040 Rev 00 (Pump Rooms Piers 2 L.01 and External L0.0), on 9 February 2020.
-Notably, both MIRs were annotated with the similar comments as per the following:
-‘Inspection is done as per approved Material Submittal MS/0401/L/0023-04 and found acceptable’
-‘Contractor shall incorporate all comments given by the Consultant in the Material Submittals etc ...’
-Following which, we submitted Material Submittal No: MS/0401/L/0023 Rev. 05 on 1 March 2020 in the
-manner shown in Table 2 having addressed the comments issued in response to the Rev. 04 submittal.
-Table 2
-Date Submitted Submittal Ref No:
-Rev
-Description of Contents Response due per Section
-013300 Response Received
-Status Code
-Response Overdue By
-01-Mar-18
-MS/0401/L/0023
-05
-Irrigation Motor Control Panel 09-Mar-20
-18Mar-20 3
-9 days
-We note that both the Rev. 04 and Rev. 05 submittal responses were returned by you beyond the turnaround times stipulated in the Contract. Specifically, Article 1.3 of Specification Section 013300
-‘Submittal Procedures’ governs the processing time by which you are contractually obligated to reply to
-our submittals. For example, MS/0401/L/0023 Rev. 05 ought to have been responded to within 7
-calendar days from the date of submission. However, Table 1 shows that you exceeded this review
-period by 9 calendar days.
-Notwithstanding the overdue response, we further note that Material Submittal No: MS/0401/L/0023
-Rev. 05 had been returned classified Status Code 3 ‘Revise & Resubmit’, together with the following
-
-comments; an extract of the responded submittal and accompanying comments are illustrated in Figure
-1 below:
-Figure 1
-In which respect, we make the following comments and observations:
-•
-As noted in the e-mail dated 12 December 2018 attached to the response MS/0401/L/0023 Rev.
-04, we did offer you an opportunity to re-check and re-inspect the delivered material again on Site and
-stressed that we were “Awaiting your approval” and confirmation of the same, but we failed to receive
-any positive response until we received the official rejection of MS/0401/L/0023 Rev. 05.
-•
-We resubmitted the approved MS/0401/L/0023 Rev.04 (Code 2) to clarify the correct BMS
-interface points (only) as mentioned in the IFC so; BMS Points for each panel has been clarified to match
-the Project requirements. Kindly refer to the Comment Reply Sheet attached to the Rev.05 Submittal
-•
-We believe the Material Submittal for Irrigation Motor Control Panels MS/0401/L/0023 Rev. 05
-(Code 3) rejected with unfair comments which are related to Sample only (Specification Division 01
-sample requirement is a general definition and is not specific for each item).
-The above issues were conveyed to you in our e-mail to you dated 23 March 2020 [10:09 AM], ref: (2).
-Following which, the Irrigation Motor Control Panel was re-inspected jointly by TCAJV/CMA/ADAC on 30
-March 2020 and no technical comments were provided. However, in your e-mail issued on the same
-date, i.e. 30 March 2020 [09:49 AM] ref: (3) you requested us to resubmit the submittal. On the basis
-we maintain that your Status Code 3 response to MS/0401/L/0023 Rev. 05 is unreasonable, we
-requested that you recode the material submittal, but you refused. It is for this reason that we issue
-this E-Notice No. 243. We further advised that “The comments responses addressed the control
-requirement of BMS specification 230900 and irrigation specification 328000 for which we did not
-receive technical feedback from CMA.”
-To conclude therefore, and in view of the foregoing, we are surprised at receiving such an unreasonable
-Status Code 3 rejected response to MS/0401/L/0023 Rev. 05 especially at this stage of the Project.
-Again, we urge you to consider re-coding the Submittal as Status Code 2 or higher in lieu of the current
-Code 3.
-Meanwhile, we put on record that your unreasonable comments issued in response to MS/0401/L/0023
-Rev. 05, particularly at this stage of the Project will invariably delay completion of irrigation and
-landscaping works and impact on associated inspections, thus invariably delaying the Time for
-Completion. Accordingly, any delays incurred to date or which may be incurred by us as a result of the
-above shall be at your risk.
+Description of the Event
+In a period broadly occurring between November 2019 until to date (April 2020), we have received a
+series of Mechanical Work Completion Inspection (MCI) reports of the Fire Suppression Systems
+generated by the Employer’s Fire Safety Consultant (Messrs Profire). These include the MCI reports
+listed in Annex B.
+We note however that the MCI reports recorded in Annex B identify Profire’s requirement for a
+significant number of additional Fire Extinguishers (FE) to be installed to various levels and areas of the
+MTB.
+However, the installation of the Fire Extinguishers for the Project has already been completed by us in
+accordance with the IFC Design, consisting of both Specification and IFC Drawings as well as approved
+Shop Drawings, all as previously prepared and approved by you and the Employer’s Design Consultant.
+Note for example that paragraph 2.1 E of Specification Section 104416 (‘Fire Extinguishers’) expressly
+states that we are required to install FE as “… indicated on Drawings, for each location…” as follows:
+“Locations: Provide extinguisher of types indicated on Drawings, for each location.
+1. Provide two extinguishers in fire protection cabinets where indicated on Drawings.
+2. Provide one fire extinguisher in each extinguisher mounting bracket FPE-01”.
+Profire’s request for us to provide additional fire extinguishers represents an attempt at changing the
+existing IFC requirements and an attempt at varying our scope of Works without adopting the
+contractual mechanism for instigating any change in design, this will require the provision of revised IFC
+Drawings and an accompanying Engineer’s Instruction/Variation Order for us to integrate such change
+into the Works.
+We therefore take this further opportunity in reminding you of the provisions of Clause 2.29 to Clause
+2.31 of Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we
+are not to proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued
+first. In which respect, it is your obligation to issue this Record first if you wish to instigate change to the
+Project; this is only after the additional time and/or costs impacts have been agreed between us
+beforehand.
+Therefore given that SAA8 laid down strict guidelines to follow if additional works are required and it is
+patently clearly this has been ignored, then this change will warrant a valid Engineer’s Instruction (EI)
+and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
+Works.
+Meanwhile, until such time as you take the action required of you in accordance with the express
+requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
+continue to proceed in accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

@@ -1,12 +1,99 @@
-Subject Contractor Laydown Areas
-Dear Sir,
-We refer to correspondence {1) concerning the captioned subject and reiterate our request for the
-Contractor to assess the effective usage of its Subcontractors' laydown areas with the aim of
-improving and optimizing its current utilization. Furthermore, the Contractor is urged to immediately
-commence clearing off-site the scrap/non-usable material stored at scattered areas across the site,
-and most importantly those bulk quantities residing at the East Midfield that are currently obstructing
-the construction of the permanent road by the Airside Contractor for ADNOC's usage. These
-obstructions have to be cleared by 31 January 2020.
-The Contractor is required to address the above and treat this as a matter of urgency and to confirm
-their course of actions and plans for addressing this issue.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0207
+Delays to Commissioning Inspections by CxA
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern unreasonable delays on the part of CxA (the Employer’s
+Commissioning Consultant), to undertake Commissioning Inspections to 7 Final Distribution Panels (FDB)
+to Levels L0.0, L3.0 and L3.2 on 5 January 2020, despite us requesting that they do so.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+impacting on completion of testing and commissioning. This will invariably impact on our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We write to notify you of concerns we have in relation to the Employer’s Commissioning Consultant
+(CxA) failure in undertaking Commissioning Inspections to 7 Final Distribution Panels (FDB) to Levels
+L0.0, L3.0 and L3.2 on 5 January 2020 despite us issuing a Commissioning Inspections Request (CIR).
+By way of our e-mail dated 4 January 2020 [05:49 PM] we provided ADAC with a CIR schedule listing out
+various FDBs to various levels offering them for inspection by CxA on 5 January 2020. This was then
+followed by a further CIR schedule issued vide our e-mail dated 6 January 2020 [05:49 PM] listing out a
+further series of FDBs for inspection by CxA as part of “today’s inspection”.
+However, in its response dated 6 January 2020 issued at 08:00 AM, ADAC advised us of the following:
+‘During yesterday’s meeting on site [inspection arranged for 5 January 2020] CxA said they would
+witness FDBs from other substations if they had the SMDB and LV mains CIR approved – just checking
+the first one of the list from the schedule you sent and LV Mains is not even ATP4. I then went on to
+check others and again the upstream equipment is not signed off and so CxA will not witness these
+panels today.’
+Our position is as follows:
+We scheduled 12 panels for the CIR inspection on 5 January 2020 (refer to Table 1 below).
+Table 1
+Daily Inspection Status Date: 05-Jan-20
+Submitted Inspection 12
+Inspected
+5
+Not inspected due to other than CLP1/2 7
+Code3 0
+
+Out of these, CxA failed to inspect 7 FDBs. Details pertaining to all seven FDBs, room number and level
+etc., not inspected by CxA on 5 January 2020, are set out and summarised in Table 2 below:
+Table 1
+FDBs Name
+Room No
+Level SOW CIRs Weekly plan
+FS-CO-CLP8-L3.0-2
+L30-0113
+L30
+Lukoz (JV)
+under 06-Jan-2020
+NE-RP-CLP8-L3.2-2
+L32-0019
+L32
+Lukoz (JV)
+under 06-Jan-2020
+NE-RP-CLP5-L0.0-2B
+L00-0015
+L00
+Shaheen(JV)
+under 05-Jan-2020
+FS-LP-CLP5-L0.0-1
+L00-0015
+L00
+Shaheen(JV)
+under 05-Jan-2020
+NE-LP-CLP5-L0.0-1
+L00-0015
+L00
+Shaheen(JV)
+under 05-Jan-2020
+NS-LP-CLP5-L0.0-1
+L00-0015
+L00
+Shaheen(JV)
+under 05-Jan-2020
+NS-CO-CLP5-L0.0-5
+L00-0600
+L00
+Shaheen(JV)
+under 05-Jan-2020
+We consider the reason of non-attendance by CxA on 5 January 2020 recorded in ADAC’s e-mail dated 6
+January 2020 does not apply to the panels listed in Table 2 above. In our view, we maintain:
+1.
+All 7 panel are ATP 3-4 approved;
+2.
+No high impedance value for those panels; and
+3.
+Upstream (LV mains and SMDB) is not approved but this should not prevent CxA from attending.
+Accordingly, CxA’s failure in undertaking Commissioning Inspections to the seven (7) FDBs to Levels L0.0,
+L3.0 and L3.2 on 5 January 2020 identified in Table 2, will invariably delay us and as such delay
+completion of our testing and commissioning. This will invariably knock on and impact our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

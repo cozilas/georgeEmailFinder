@@ -1,42 +1,119 @@
-
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0136
-Overdue Responses to 1,456 Shop Drawings as at 1 September 2019 including but not limited to
-Mechanical, Electrical, Fire Alarm, Fire Fighting, Ceiling, and Road Marking Shop Drawings etc. [issued
-vide 534 Submittals]
-Dear Sir
-Pursuant to the Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we
-hereby submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described
-herein may cause delay [and disruption] to the Works, and seek your swift resolution of the same.
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0139
+The Engineer’s Overdue Response to the Contractor’s Various Mechanical Requests for Information (RFI)
+– as at 17 September 2019
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
+Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern potential delays due to your failure to respond to numerous
-Shop Drawings Submittals within the review time expressly stipulated in the Contract.
+The matters described in Annex A serves to evidence that you failed to reply to nine RFIs relating to
+various aspects of the Mechanical Works by the reply required by date specified therein.
 Potential Impact
 Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+likely impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
+We therefore request your prompt action, guidance, decision or further instruction as may be applicable
+to resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Specifically, kindly address the pending responses to the three (3) RFIs shown in Table 1 to Annex A, and
+provide a reply immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs due to the event(s) described herein.
 ANNEX A
 Description of the Event
-Between 12 December 2018 and 22 August 2019, we submitted 534 Shop Drawing Submittals
-containing a total of 1,456 Shop Drawings in respect of twenty-one (21) different packages or disciplines
-(including but not limited to Electrical, Mechanical, Fire Alarm, Fire Fighting, Public Address, Ceilings,
-and Road Marking Shop Drawings] for your review and approval. These have been submitted on the
-dates and in the manner recorded in the attachments included in Annex A1 and Annex A2 hereto.
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our submittals. On the basis that each of the Shop
-Drawings Submittals and Shop Drawings listed in Annex A2 are shown to be between Rev. 00 and Rev. 2
-and higher, then these ought to have been responded to by you 21, 14 and 7 calendar days later.
-However, the information recorded in Annex A2 and summarised in Annex A1 shows that at the cut-off
-date associated with this E-Notice (which is 1 September 2019), you exceeded, and at that point
-continued to exceed the review periods expressly stipulated in the Contract. The summary included in
-Table 1 shows for example that your responses to the Fire Fighting and Road Marking Shop Drawing
-Submittals are late and overdue by upwards of 180 and 242 calendar days respectively.
-The more you prolong the review and approval of our Shop Drawings listed in Annex A2, the more likely
+Between 4 July 2019 and 8 August 2019, we submitted 9 Mechanical Requests for Information (RFI),
+seeking assistance in resolving various ambiguities in the Mechanical services design and / or the
+resolution of various design coordination issues. However, we note that at the cut-off date of preparing
+this E-Notice, i.e. 17 September 2019, while 6 out of the 9 RFIs had been responded to, the responses
+were received significantly later that the ‘reply required by’ date (up to 55 calendar days late), while the
+remaining 3 RFIs have yet to be responded to (upwards of 36 calendar days late). Details pertaining to
+all 9 submittals are set out and summarised in Table 1 below.
+Table 1
+
+Item
+
+RFI Ref: No.
+Title Level Submittal Date Reply Required by Date Response
+Received
+Overdue By (Calendar Days)
+1
+RFI/0401/17258
+Smoke/ Heat Detector Plates for Sprinklers Between Exterior Façade
+and Hotel Wall (Follow Up on RFI 17093)
+L3.3
+4-July-19
+11-July-19
+04-Sep-19
+55
+2
+RFI/0401/17318
+Sprinkler Protection Below Staircase Landing
+L0.1
+21-Jul-19
+28-Jul-19
+04-Sep-19
+38
+3
+RFI/0401/17335
+Elimination of FD on Slab of Top Hat Shaft
+at L2.0 Sector 5.17
+L1.0, L2.0
+28-Jul-19
+04-Aug-19
+15-Sep-19
+42
+4
+RFI/0401/17357
+Requirement of Fire Protection Cabinets at L0.1 and LB.1 of Staircase
+05/23 and 05/01
+LB.1, L0.1
+04-Aug-19
+12-Aug-19
+36
+5
+RFI/0401/17358
+RFI - Rejected Shaft Access Doors
+(Follow-up RFI) L1.0, L2.0, L3.0 04-Aug-19
+14-Aug-19
+34
+6
+RFI/0401/17359
+RFI - Modification of Corridors serving
+Shafts 92 & 95 L2.1
+04-Aug-19
+15-Aug-19
+07-Sep-19
+23
+7
+RFI/0401/17361
+Access Panels for Fire Dampers in Exhaust Plenums (Follow-up on RFI17248) L1.0
+04-Aug-19
+14-Aug-19
+04-Sep-19
+21
+8
+RFI/0401/17366
+Access Doors for Bus Bar maintenance
+(Stairs 7 & 24) 06-Aug-19
+14-Aug-19
+34
+9
+RFI/0401/17374
+Comment on Shop Drawing Regarding Access to FD In Egress corridor
+with Fire Rated Ceiling (Follow-up on RFI-15338) 08-Aug-19
+16-Aug-19
+12-Sep-19
+27
+Table 1 evidence that the 9 RFIs detailed therein relate to different aspects of the Mechanical Works to
+various levels, areas and sectors of the MTB. Consequently, the outstanding responses have had and
+where applicable will continue to have a delaying and disruptive effect on our progress, particularly at
+this stage of the Project. This is because the late and overdue response to the noted RFIs has affected
+and where applicable, will continue to affect shop drawing submittals and / or site works and/or any
+other related submissions/activities affecting the overall progress of the project – not only in terms of
+delay but inherent disruption due to the small isolated areas involved and the piecemeal manner in
+which were are now expected to work and / or complete certain works which would not have been
+necessary but for deficiencies in the design.
+Therefore, the more you prolong the review and approval of our RFIs listed in Table 1, the more likely
 this will impact our ability to complete the remaining Works and / or testing and commissioning, which
 will in time, invariably impact our ability to achieve Substantial Completion.
 Yours faithfully,

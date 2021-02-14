@@ -1,24 +1,90 @@
 Dear Sir,
 
-The Contractor request’s the Engineer’s Assistant to confirm that, the deduction of QAR 7,400,000 made
-for the removal of the demolition works as per Contract Vol 2, part 2, Cl.9.1.1.4 and the subsequent
-reduction in the Contract Price shall not be repeated at the end of the project due to the duplication of
-QAR 7,400,000 deduction made in the monthly Payment Certificate.
+Further to the receipt of the letters referenced above the Contractor hereby provides its response to the
+Engineer’s Assistant. For the avoidance of doubt, and for the purpose of demonstrating that the
+statements contained therein do not stand up to scrutiny, the Contractor wishes to address those in
+stages as follows:
 
-The Contractor has raised concerns to the Engineer’s Assistant in several Commercial discussions
-regarding the double negative effect which will be caused at the end of the project due to the
-duplication of QAR 7,400,000 deduction made in the monthly Payment Certificate in the committed cost
-section as “Adjustments to Accepted Contract Amount” and also in the deductions section of payment
-details as “Other Deductions” against the agreed deduction for the removal of the demolition works.
+The Engineer’s Assistant has stated on 24 May 2017 via letter reference 2), first paragraph:
 
-Contract Vol 2, part 2, Cl.9.1.1.4, (c) reads as below:
+“Engineer’s Assistant noticed that when the interfacing party MSI is requesting a schedule of workshops
+to discuss the combined services drawings, to close the interface and for them to start preparing their
+shop drawings, the Contractor has been unable to respond on time.”
 
-“The Contractor shall ensure that the first Interim Payment Certificate issued includes the agreed
-deduction of QAR 7,400,000 for the removal of the demolition works and the Contract Price will be
-reduced accordingly.”
+The Contractor advises that this statement is incorrect. As a matter of fact, the System Contractor’s
+discipline engineers (TVS and Energy staff from MHI) have been operating from within the Contractor’s
+MEP technical office premises from April-17 until the end of May 2017. During this period, both parties
+have been engaged in continuous coordination with technical workshops being scheduled on a daily
+basis on account of the Systems Contractor’s containment requirements.
 
-On this basis, the Contractor requests the Engineer’s Assistant to confirm that, the deduction of QAR
-7,400,000 from the Contract value shall not be repeated at the end of the project due to the duplication
-of QAR 7,400,000 deduction made in the monthly Payment Certificate.
+The Engineer’s Assistant expands further via the second paragraph of letter reference 2):
+
+“The Engineer’s Assistant acknowledges the work of the Contractor’s Interface team to close CSD
+requirements specific to the rail systems cable containment, but the concern is with the current set up
+of the Contractor's organization related to Interface activity and the team responsible for providing the
+evidence that the relevant requirements have been incorporated in the CSD models. With this current
+organization, there is a significant risk that the interface cannot be closed on time.”
+
+This statement contradicts with the statement of the preceding paragraph. In the context of this second
+paragraph, the Contractor understands that the EA acknowledges “the work of the Contractor’s
+Interface team to close CSD requirements specific to the rail systems cable containment” but raises
+concerns in connection with the “current set-up of the Contractor’s organization related to Interface”
+and in particular with the team responsible for “providing evidence that the relevant requirements have
+been incorporated in the CSD models”. The Contractor is therefore uncertain as to the Engineer’s
+Assistant’s position on this matter and kindly requests clarifications on whether the concerns raised via
+letter reference 2) relate to:
+
+A.
+The execution of the Contractor’s interface obligations in conjunction with the Systems
+Contractor i.e. the alleged failure to attend technical interface meetings when so requested by the
+Systems Contractor in a timely manner, and / or;
+
+B.
+The Contractor’s ‘post-interface’ obligations by reason of its organizational set-up which is
+somehow hindering its capability to provide evidence to the Engineer’s Assistant that the relevant
+interfacing requirements have duly been incorporated within the CSD models.
+
+The Contractor reiterates that it has a dedicated team within its MEP technical office responsible for the
+development of the CSD models in conjunction with the Systems Contractor and its MEP designer,
+Worley Parsons. The Contractor further maintains its position in respect of the late receipt of design
+input by the Systems Contractor and the adverse knock on effects which arise as a consequence thereof.
+For example, the Systems Contractor has still not signed and returned the ICF requirements in relation
+to the TVS (Tunnel Ventilation System) services. The Contractor is mostly concerned however in respect
+of the various interfaces which had been previously signed off and agreed with the Systems Contractor
+
+and which are currently being rendered obsolete by reason of the late design development on the part
+of the Systems Contractor.
+
+Another point of concern relates to the meeting held on the 12 June 2017 in the presence of the
+Engineer’s Assistant, between the Contractor and Systems Contractor represented by M/s Atlas, acting
+in the capacity of subcontractor to the Systems Contractor for specialized telecommunication works.
+During that meeting, the Contractor became aware of a potential radio network serving QAF / MOI 4G
+requirements which if required will no doubt involve extensive cable containment installations across
+the Project which have not been accounted for during the interfacing process undertaken to date.
+
+The Systems Contractor (via its representative M/s Atlas) has admitted that it is currently in the process
+of developing its detailed design but has failed to provide the Contractor with firm dates as to if and
+when the same will become available to the Contractor. Irrespective of whether the Contractor will be
+required to undertake additional works in connection to the above, and until such additional 4G
+requirements for MOI and QAF have been properly accounted for, the Contractor will be unable to
+conclude its interfacing obligations vis-à-vis the CSD models. Under those circumstances, and unless the
+Systems Contractor’s detailed 4G design becomes available to the Contractor within seven (7) days from
+receipt of this letter, the Contractor reasonably anticipates that extensive abortive and / or additional
+MEP design works will be impossible to avoid.
+The Engineer’s Assistant has raised further concerns via letter reference 3) requesting the Contractor to
+present a clear process for the incorporation of the MSI requirements within its MEP design. The
+Contractor emphasises that such process has already been established and strictly adhered to whereby
+all the MSI requirements are being directly incorporated into the MEP models. Workshops are then
+being held with the Systems Contractor to achieve agreement between the parties on the arrangement
+of their services. Provided however that design input from the Systems Contractor is still being received
+which either adds to and / or amends previously agreed interface arrangements the dates mentioned in
+the CSD tracker (attachment 1) are subject to change.
+
+With reference to letter reference 4) whereby the Engineer’s Assistant has requested the appointment
+of a Lead Interface Engineer for all related CSD Interfaces, the Contractor confirms that it has appointed
+Mr. Nikolaos Rouchotas as a dedicated Interface Engineer to oversee the coordination of CSD models.
+The Contractor confirms adherence to Volume 4 of the Employer’s Requirements and considers that it is
+not only meeting its obligations under the Contract but going over and above of what is required due to
+late design development on the part of the Systems Contractor.
 
 Yours faithfully,

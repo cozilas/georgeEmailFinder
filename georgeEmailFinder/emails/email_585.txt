@@ -1,24 +1,72 @@
-Subject:Coring of Waterproofed Manholes
+Subject:
+
 Dear Sir,
-Further to the above mentioned subject the Contractor wishes to clarify and further requests the
-Engineer as per the below.
-In response to our email the Engineer referred to their correspondence reference (1) stating that in
-accordance with Specification Section 071326 the waterproofing of the manhole structure is an element
-for which the Contractor is responsible for in terms of the selection, design and warranties in terms of
-application.
-However, we are not entirely in agreement with this as we are not responsible for the selection and
-design of the waterproofing system and details. We are responsible to provide all labour, Materials,
-Contractor’s Equipment and Plant to fully execute the requirements to furnish, deliver, and install the
-Works as expressly described in the Drawings and Specifications, or implied therefrom, and in
-accordance with the Contract pursuant to the above-mentioned Specification Section.
-We also do not deny that the rectification and integrity of the said waterproofing falls under our scope,
-but due to the nature of the work (rectification of existing work compromised by core drilling) we are
-not responsible for the methodology of the reinstatement works and requested you in our email
-reference (2) to provide this including maintaining details of the waterproofing to ensure the integrity of
-it.
-Once again we request the Engineer to provide us with further details, decisions, directions and
-instructions pursuant to Clause 11.3 (Instructions of the Engineer) of the Conditions of Contract to
-provide us with a practical methodology to implement these rectification works.
-In the absence of the above requested instruction we are unable to proceed with the works and we will
-not be held responsible for any delays as a consequence.
-Yours faithfully
+
+Re: Request for Engineer's Instruction [RFEI/0401/0724]
+Door Clear Height Design Change, RFI/0401/16441 Response
+
+We are in receipt of your letter referenced (2) above, wherein you rejected our letter referenced (1)
+requesting you to issue an Engineer’s Instruction (EI), regarding the change of door height introduced via
+RFI/0401/16441 dated 17th September 2018, which dropped to 2200mm from door clear height
+2400mm.
+
+Please note that we refute the content of your letter referenced (2) and inform you the following:
+Bulletin 245 was issued by the Design Consultant to correct security and code deficiencies, regarding
+incorrect hardware sets and operational requirements. The door heights for these specific doors were
+never addressed in the door workshops. Door heights were most often changed due to briefing packs
+which were unrelated to door workshops. Hence, your comments in your letter referenced (2) about
+Bulletin 245 is not relevant with any of the issues mentioned about the doors in our letter referenced
+(1).
+You have also mentioned that “It is under the Contractor's obligations to highlight any such clashes prior
+to fabrication of the doors”, which we refute. This is due to the fact that all clashes were indeed
+highlighted by the Contractor and this was the main reason the numerous workshops were required, to
+resolve these issues. Please be informed that EI 681F was issued for implementation after all the
+discussions during the workshops and included information that superseded the previous information
+issued by the Engineer regarding the door height. Hence, EI 681F was clearly instructing us to implement
+and proceed with the door clear height 2400mm, which we did so.
+In regards to your comment that it is our “responsibility to provide coordination drawings indicating
+how work shown by different trades is interfaced”, we respond as follows:
+•
+We have only been provided with comments in the Door Schedule rev 31 on 21st March 2017
+(Bulletin 245), without any drawings;
+•
+We note that you as the party in charge of the design, are responsible for Design coordination
+with SACS, Fire Alarm, Power, and door functionality;
+•
+We also note that we have not been provided with adequate information that would enable us
+to prepare any drawings as per your comments in your letter referenced (2) above;
+•
+The design needs to be complete and be provided by the Engineer prior to the Contractor
+providing shop-drawings, which in this case it has not been completed yet. Doors do not require having
+shop drawings for each door. The door schedule and the hardware schedule are the most detailed
+information you can have for doors. As agreed during the workshops and numerous discussions, the
+schedules which provide information for specific issues, supersede any drawings issued previously and
+define how each door is fabricated;
+•
+We note that Door Schedule revision 32 and the related IFC drawings for fire, data and power
+have not yet been provided. Furthermore, we also note the discrepancies between schedules which
+have not been cleared and have to be resolved by the Engineer the soonest;
+•
+Coordination with other trades does not include design for the doors. The doors do not fall
+under Performance Specifications. Responsibility for the Design of the works is identified under the
+Contract and unless it is explicitly identified as a Performance Specification, the design is the
+Engineer’s/Employer’s responsibility. Therefore, we require a clear design by the Employer/Engineer
+regarding the doors.
+•
+Furthermore, SACS Types, Fire Alarm, Power must all be code compliant as well. As mentioned
+above, the responsibility of the Design and consequently design compliance with the codes and Local
+
+Authority requirements remains solely with the Engineer/Employer. Thus, as per the Contract, the
+responsibility for code compliance for the doors, SACS and Fire Alarm lies with the Engineer.
+In view of the above, we inform you that we are not able to prepare any shop-drawings without having
+received all of the aforementioned from the Engineer.
+Additionally, you are kindly reminded that e-notice “SAA8 Sub-Clause 2.26, E-Notice No. – E0007 –
+Discrepancies between Door Schedule Rev 31, SACS, Data and Power Provisions” and other
+correspondences have been submitted previously, informing you about all of the aforementioned door
+issues.
+Your prompt action, guidance, decision or further instruction is required, failing which the works are
+likely to be delayed and/or disrupted.
+We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
+extension of the Time for Completion and additional Costs arising from the above described event.
+
+Yours faithfully,

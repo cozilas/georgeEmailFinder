@@ -1,15 +1,55 @@
-Dear Sir,
-Engineer's Assistant refers to the above referenced letter 3) and notes that Contractor is not required to
-supply the ticket vending machines (TVM). As per the 13.2.1 direction, Contractor is to allow in their
-current design for the works such as but not limited to ducting, slots and support for TVMs.
+Dear sir
 
-In addition, the Contractor is required to consider provisions as outlined above for two (2) additional
-TVMs in each station.
+This is an instruction under Sub-Clause 13.1.1to initiate a variation. The nature and extent of the
+variation is outlined below.
+The Variation as proposed:
 
-Contractor is to refer to the attached conceptual presentation and appropriate clauses from Volume 6,
-Chapter 11 to develop the current design in accordance with the above direction. Contractor is to
-coordinate with MSI Contractor for further information as required.
+Station entrances shall be optimized with respect to minimum number of vertical transportation
+elements, the size and height of shelters and run off area. However, the optimization as stated
+hereunder shall apply to entrances as recommended in the attached conceptual presentat ion.
+The minimum length of run-off areas may be reduced to 4m for types other than A. Run-off areas shall
+not overlap.
+Wher e waiting areas are required (types BW and BWR),a minimum of six (6) seats shall be provided.
+To optimize (reduce) the height of the shelters for all types apart from A. Contractor shall consider the
+lift speed m/s, car clear height 2.3m,headroom height 1.4m,min clearance between lift enclosure and
+roof 0.2m.
+For types D and E standalone lifts are acceptable.
+Type E does not have a shelter and the entrance door/ air curtain to the AC controlled area shall be
+positioned underground. Adequate signage on the status of the station to be provided at surface level.
 
-Engine r's Assistant requests Contractor to respond to the 13.2.1 direction within 5 days of receipt of
-this
-Yours faithfully,
+M006-QRC-EMT-IST-00113
+
+Page 1of 2
+
+qr com qa
+
+Cl....-.,! 9J '9
+
+..'
+
+ij "') ·;
+
+Accompl ishing a Vision
+
+For types C, D and E, vertical transportation in the non-peak direction shall be by fixed stairs.
+Contractor to assess if relaxation of RAM target/Employer's Requirement is required for stations with
+one
+(1)
+
+lift per entrance.
+
+Contractor is to standardize component parts and shelter types as part of the design process. Consider
+the status of the Architectural Finishes Provisional Sum Tender as follows:
+i.
+
+Incorporate changes into tender documents where the tender is yet to be released. ii.
+Incorporate changes into tender bulletin where the tender has been issued.
+
+iii.
+Incorporate changes through design development where tenders have already been
+received / accepted.
+Due to the urgency of this change and the delay in receipt of the Contractor's quotation, this instruction
+has been issued prior to the receipt of Contractor's quotation, referenced above. The Contractor is still
+required to provide the directed quotation under Sub-Clause 13.2.1without further delay.
+
+Yours faithfully,

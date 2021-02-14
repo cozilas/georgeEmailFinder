@@ -1,102 +1,10 @@
 Dear Sir,
 
-Further to the Engineer’s direction of letter reference 1) issued pursuant to General Condition (“GC”)
-13.2.1 of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to
-Architectural Layout Improvements and MEP Data Provisions for Retail Spaces pursuant to its GC 13.2.2
-obligations.
-
-The Contractor has assessed the impacts of this proposed variation. As the scope issue of Direction
-reference 1) is still being clarified on a technical level, and no design for these changes is yet available,
-the Contractor has included an allowance for risk in his assessment. The Contractor has concluded that a
-price adjustment against the following elements of work will be required:
-
-SI NO. DESCRIPTION
-
-Amount (QAR)
-
-A.
-
-Provisions for Retail Spaces
-
-1
-
-Structural and MEP
-
-2
-
-Arch. FoH (remove glazing/add rolling shutters) 1,202,568
-
-6,826,447
-
-This item should be included in Arch FoH Fast Track
-B
-
-Provisions for Kiosks on Concourse and in Entrances
-
-C
-
-Provisions for Event Spaces in NMQ, SHQ, RBA 24,994
-
-D
-
-Provisions for ATM and VM
-
-E
-
-Risk (30%)
-
-TOTAL Construction
-
-812,937
-
-3,067,454
-13,292,302
-
-TOTAL Construction excl. Arch FoH
-
-12,089,734
-
-1,357,902
-
-F.
-
-Design
-
-1
-
-Lead Design
-
-5,000,000
-
-2
-
-MEP Design
-
-5,000,000
-
-3
-
-Arch FoH Design
-
-1,000,000
-
-TOTAL Design 11,000,000
-
-TOTAL Construction & Design
-
-24,292,302
-
-TOTAL Construction & Design excl. Arch FoH Construction
-
-23,089,734
-
-Table 1: Summary of valuation
-
-The Contractor hereby provides its valuation of the adjustment to the Contract Price in the net amount
-of QR 23,089,734.00, as detailed in Attachments 1) though x). The Contractor reserves its rights to
-recover any time related costs in connection to this proposed Variation which shall be addressed under
-a separate cover.
-
-We remain at your disposal for any further information and/or clarification.
-
+The Engineer's Assistant acknowledges Contractor's letter as referenced above and provides clarification
+with regard to Engineer's Instruction 86. The SAP drawing CP0_14_74061 Rev V6_0 as referenced in
+Engineer's Instruction No.86 is replaced with SAP drawing CP0_14_74061 Rev V7_0 that was issued to
+Contractor under Employer's emailtransmittal MOOO-QRC-INFM-010596 dated 01 September 20 15.
+The Engineer's Assistant also acknowledges that Contractor is impfementing the SAP requirements for
+Bin Mahmoud Station in accordance with drawing CP0_14_74061 Rev V7_O as previously stated by
+Contractor under \ontractor's letter reference M006-GDB-ENG-L TR-00337 date 07 September 2015.
 Yours faithfully,

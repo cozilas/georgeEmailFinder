@@ -1,24 +1,19 @@
-Subject:
-
-Re: Coordination for SOC Fit-out - Floor Boxes
-
+Subject:Validity of the Subcontractor’s Performance Security
 Dear Sir,
-We are in receipt of your letter referenced (1) above, wherein you have requested us to use the
-furniture overlay drawings enclosed therein, to coordinate the works as per the subject. Please be
-informed that the works for the floor box coordination have been executed and approved on site
-following the A16 IFC drawings and the shopdrawings, enclosed herewith.
-The drawings received via your letter referenced (1), introduced a new setting-out from the one
-implemented as per the aforementioned. Specifically, after reviewing the drawings in your mentioned
-letter, it has been found that there are differences between the implemented coordinated
-works/drawings and the new setting-out received via your letter. As per the new drawings, some of the
-floor boxes have been relocated and some of the floor boxes have not been reflected in the new settingout drawings. In addition, there are many changes in the floor boxes locations and quantities which will
-affect the under-floor containment, raised floor, and the carpet above. All these works have been
-completed, inspected, and the SOC room has been handed over.
-In view of the above, we regret to inform you that we are unable to implement the new changes,
-without having abortive works and a consequent additional cost and time impact. Therefore, you are
-kindly requested to consider our comments herewith and inform us of your decision, accordingly.
-In the event the Engineer wishes to proceed with the above mentioned works, it will constitute a
-Variation and requires the issuance of a formal instruction to proceed with the works pursuant to
-20.1.1(b) [Variations and Adjustments] of the Conditions of Contract and the procedure set down in SubClause 2.29 of Settlement Agreement and Amendment Number 8, to enable the Contractor to proceed
-with the additional works.
+The Contractor writes with reference to the validity of the following Bond(s) of the Subcontractor:
+Name Reference No. Amount (AED) Current Expiry Date
+Performance Bond
+123020375061-XF
+41,800,000.00 01 January 2019
+Please be informed that, pursuant to the provisions of Schedule 11 [Payment Terms] and Clause 12.5
+[Maintenance of Performance Security and Bonds] of the Conditions of Subcontract, the Contractor
+requests that the Subcontractor extends the validity of the above listed Bond(s) until 31 October 2021
+considering the forecast Project’s completion date as 31 October 2019. Please be reminded that, in
+accordance with Clause 12.5.5, the Subcontractor shall extend the validity of its Performance Bond(s)
+twenty-eight (28) days prior to the relevant expiry date.
+
+The Contractor urges therefore the Subcontractor to comply with the aforementioned contractual
+obligations and to provide the extended security within seven (7) days of this notice.
+Please finally note that the Contractor is unable to disburse due payments to the Subcontractor until
+such time as it receives the original copy of the extended Performance Bond(s).
 Yours faithfully,

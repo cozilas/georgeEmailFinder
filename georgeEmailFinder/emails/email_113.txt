@@ -1,15 +1,13 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0241
-Contradictory Responses to RFI/0401/17795 Rev. 00 – Requirement for Elevator Machine
-Enclosure – Request for Engineer’s Instruction / Variation Order
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0243
+Unreasonable Status Code 3 Response to Material Submittal No: MS/0401/L/0023 Rev. 05 – Irrigation
+Motor Control Panel
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The responses to RFI/0401/17795 received on 28 March 2020 detailed in Annex A regarding the
-provision of Elevator Machine Covers are contradictory and requires a valid EI and VO in order for us
-proceed.
+The matters discussed in Annex A concern delays associated with your unreasonable Code 3 comments
+issued in response to Material Submittal No: MS/0401/L/0023 Rev. 05 ‘Irrigation Motor Control Panel’.
 Potential Impact
 Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
@@ -20,209 +18,115 @@ Kindly ensure that such matters are actioned within seven (7) days of receipt of
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
-Description of the Event
-Site Memo SM-03207
-On 13 February 2019, we received Site Memo (SM) No: MTC-CMA-0401-QC-MEM-03207 associated with
-the ‘LET- Lift Shaft & Machine room Fire Rating Issue’ worded in the manner reproduced below:
-‘During the various WIR inspections, CMA noted that the opening from the lift deflector sheave
-arrangement into the shaft from the lift machine room was open and not closed. This possess a risk of
-people / things falling into the shaft thro' this opening. Designer has commented in their GAD review to
-provide the fire rating closure for such opening. Apart from the above the holes / cut-outs for the MEP
-and Electrical services were also not closed properly. This is not in line with the IBC code requirement as
-referenced in the Spec 142100- 1.5 Regulatory agencies and EN-81-1- 6.3’
-‘… Contractor to follow the installation as per the approved details.’
-Attached to Site Memo SM-03207 was:
-1.
-A series of four (4) photographs;
-2.
-Copies of three (3) Contractor / Otis Elevator Shop Drawings; i.e. Machine Room Plan for ELV-0506; Shaft Plan & Pit Plan for ELV-05-06; and Sectional Elevation for ELV-05-06;
-3.
-Highlighted extracts taken from two (2) pages of the 2006 International Building Code
-concerning ‘Fire Resistance Rated Construction’;
-4.
-Extracts from British Standards EN 81-1:1998 +A3:2009 Section 6.3.5 ‘other openings’; and
-5.
-A copy of WIR-LET-00959-01 relating to the Machine & Overhead Pulley for Sector 5.27.
-Meanwhile, we received Site Memo SM-03395 on 5 December 2019 relating to the ‘LET- Machine
-Inspection Panel Shaft Interface Issue’, and is worded as follows:
-‘Location: Pier 4- ELV-04-02.
-Description: During inspections, CMA noted that the opening for the machine into shaft is closed with a
-partition inside the lift machine room. The fire rating partition was fully closed around the inspection
+DESCRIPTION OF THE EVENT
+Introduction
+On 28 November 2018 we submitted Material Submittal No: MS/0401/L/0023 Rev. 04 in relation to the
+Irrigation Motor Control Panel manufactured by ABB (refer to Table 1 below) as per Specification Section
+328000 (‘Irrigation’). Attached thereto was inter alia a Technical Compliance Sheet, Comments and
+Reply Sheet, and Material Submittal Approval Letter addressing each of the comments raised in
 
-cover (rope & sheave/pulley). In addition, the opening at the shaft side is not closed & left with open
-space. This space is accessible enough for a person to stand there. This is an HSE risk.
-The lift machine rooms are completed and lifts were in normal operation and some of the units are in
-areas that are soon due to be taken over by the Employer.
-Requirements: Contractor to check and necessary actions within 2 weeks from the receipt of this site
-memo. Contractor to make proper co-ordination drawing for review and approval. Contractor to provide
-a mock-up for review and approval. Contractor to comply with the Spec 1421 00.’
-We responded to Site Memo SM-03207 on 30 December 2019, commenting as follows:
-‘1.
-Contradicts with MEMO 3395.
-2.
-All machine openings will be provided with a removable steel enclosure as per the attached.’
-We also stated on the front of SM-03207 as follows: ‘Please refer to attached response sheet and emails, requested to close the memo accordingly.’ In which respect attached were a series of e-mails
-exchanged between the Employer and the Employer’s Fire Life Safety Consultant (ProFire) dated 14
-November 2019 [copied to us] entitled ‘Agreement regarding Enclosing of Gate House Elevator Shaft
-Opening’;
-The attached e-mail from ProFire dated 14 November 2019 [1:02 PM] reads as follows:
-'ADAC's AHJ and Operations, Profire, and the JV agreed upon the following code compliant resolution to
-the Gate House Elevator's common wall opening between the Machine Room and Elevator Shaft, during
-a meeting on Tuesday (November 12, 2019).
-Provide a 2-hour fire-rated enclosure assembly fabricated to extend over the shaft wall opening that
-was provided to permit the installation and access for future elevator car maintenance and repair of the
-elevator's motor shaft and shaves, as well as, rope replacement. This removable enclosure assembly
-shall be fabricated to cover all exposed opening areas around the fixed in-place motor drive equipment
-to create a tight seal at the wall.
-Openings around motor shaft and all countered sides of the equipment to be less than 2" (51mm) on all
-sides for code compliance.
-Fastening of this enclosure assembly should be along both the side and top of the wall, in order to
-create a tight fit.
-Provide handles for ease of handling during removal & replacement.
-The enclosure can be fabricated using either:
-1.
-Two (2) hour Durasteel assembly.·
-Following is their local contact information ….
-2.
-Steel plate, countered to fit around the side and top of equipment, shall be a minimum of 118"
-(0.125 mm) thickness and coated with intumescent paint to achieve a 2-hour fire resistance on both
-sides. The selected Intumescent Coating manufacturer shall determine mil /I micron thickness, since
-each manufacturer's coating thickness for 2-hour ratings is predicated on their proprietary coating
-formula for the specific substrate material and thickness.’
-RFI/0401/17795 Rev. 00
-Following which, on 9 March 2020, we raised RFI/0401/17795 Rev. 00 entitled ‘Elevator Machine Room
-Openings to Elevator Shafts’ in which we sought your further clarification of the following:
-‘During Pier 4 Cause and Effect and through MTC-CMA-0401-QC-MEM-03207, we have received a
-comment related to the elevator machine room to elevator shaft opening at 88.P4.L01.0622.16.AS for
-elevator 04-02. IFC documentation does not provide an interface detail between the elevator machines
-and the shaft walls. In elevator sectional drawings (a-07 series), the wall section is left open (refer to
-attachment). The comment is addressed at P4 by closing the gaps around the elevator machines with
-gypsum board (refer to attachment), and BCC for P4 is obtained. Same detail shall be applied project
-wide as per the list of applicable machine rooms enclosed. Kindly confirm.’
-
-Attached to RFI/0401/17795 Rev. 00 was the following:
-1.
-An extract of an IFC Drawing – Cross Section (Figure 1);
-2.
-An extract of an IFC Drawing – Plan View (Figure 2);
-3.
-A series of site photographs (Figure 3); and
-4.
-A list of Elevator Machine Rooms with Horizontal Machine Openings (Figure 4).
-Figure 1 – ELV-01-01 Cross Section
-Partial Extract of IFC Drawing No: MTC-A-07-TB … 00.272 00
-
-Figure 3 – List of Elevator Machine Rooms
-with Horizontal Machine Openings
-We requested a response to RFI/0401/17795 Rev. 00 by 20 March 2010. However, you failed to reply
-until 8 calendar days later on 28 March 2020. Irrespective, we detailed below the respective replies:
-The Employer’s Design Consultant’s response states:
-‘Lift machine openings/closure should have been coordinated by TCA-JV with the lift contractor. In
-principle, no objection to close this opening in the mentioned lifts with gypsum board, finish and colour
-to match the adjacent wall. Contractor to ensure that detail of closing this opening is complying with
-code/ authorities requirement and coordinated with adjacent works and finishes. Contractor to provide
-updated and coordinated shop drawings at each of the noted lifts/locations for consultants review
-accordingly. Note: this detail is for the noted lifts/locations ONLY and note a ‘blank’ approval to be used
-everywhere. Contractor to submit on a case by case basis for review. Contractor proposal for Code
-Compliance / No time-Cost impact.’
-While your [Engineer] response states:
-‘Contractor to ensure the elevator maintenance can be performed as described in the OTIS O&M
-manuals. Reference is made to section 142100-1.15 MAINTENANCE (item C.13).
-Demonstration of how Contractor will maintain the elevator machine room pulley equipment is
-required. Refer also to ADAC comment -ensure panels are removable.’
-ADAC’s response reads as follows:
-‘Profire Response: Profire don't have any objection for closing the shaft openings based on the
-FLS perspective.
-ADAC (Ebrahim Faramarzi): The Contractor must ensure their proposal for closing gaps take into
-consideration of elevator machinery future maintenance, therefore installed panels must be removal
-without getting damaged which may require replacement every time during maintenance regime and
-provide a degree of smoke and fire prevention into lift shaft and LMR as previously commented by PF
-specialist fire consultants.’
-In relation to the above responses we make the following comments and observations:
-The traction elevator machine design (as per IFC Specification Section 142100 ‘Elevators’) require
-openings in the elevator machine rooms with the adjacent elevator shafts. These openings are detailed
-in the IFC Drawings (A-07 series) but are to be coordinated with the elevator subcontractor based on the
-actual machine sizes. As per the IFC Specification Section 142100 Article 2.2.K.1.f and 2.2.K.5 (refer to
-Figure 4 and Figure 5 below), the remaining gaps after the elevator machine installation are to be
-closed. However, there are no requirements for “maintenance”, “specific material”, or “fire rating”
-specified.
-Figure 4 - Specification Section 142100 ‘Elevators’
-Extract of Article 2.2.K.1.f
-Figure 5 - Specification Section 142100 ‘Elevators’
-
-Extract of Article 2.2.K.5
-According to the above, and to prevent any safety hazard and considering future maintenance, initially
-we proposed to close the opening with a “removable cover”, in the manner shown in Figure 6 below.
-Figure 6 – Initial Proposal
-Removable Wire Mesh Cover
-However, our initial proposal was rejected and we received AHJ comment to close these openings to
-achieve 2 hours fire rating as below through AHJ/ADIA/POT/MTC/C&E/18/01 (see Table 1 below):
+response to the Rev. 03 submittal. We also stated “This material is already approved via MAR ref:
+MS/0401/M/0151”.
 Table 1
-No.
-Inspection Type Comments
-3
-ProFire FLS Inspection Report Lift machine room (Room 0622) & lift shaft was not fire
-compartmented (2hr). Contractor to ensure opening is
-fire separated to achieve 2hr fire resistance
-The comment is unreasonable and does not have a CODE reference. Nevertheless, in order to be able to
-close the ProFire comment, and to obtain BCC for Pier 4 to catch milestones; our site team closed the
-opening with non-removable fire rated gypsum board. This was approved by AHJ even though we did
-not apply any fire sealant between the elevator machine enclosure and gypsum board (refer to Figure
-7):
-Figure 7 – AHJ and Civil Defence (Pier 4) Approved TCAJV Proposal
-However, the applied gypsum boards are not removable, and consequently will be destroyed every time
-a maintenance activity is carried out inside the elevator machine enclosure. We further record that due
-to maintenance concerns highlighted from various parties, we were requested to close these openings
-with a removable and fire rated material. A suggestion was made by the AHJ (ProFire) during a
-workshop to close the opening with a fire rated solid steel or composite panels, without applying a
-sealant in between the additional panel and the elevator machine enclosure. It was for this reason you
-raised Site Memo MTC-CMA-0401-QC-MEM-03207 to record the issue and compel us to follow ProFire’s
-solution.
-However, there are two issues with this: firstly is the additional costs and time (despite the response to
-RFI/0401/17795 stating otherwise); and secondly, this solution does not provide a full “2 hour
-fire/smoke rating” as no sealant would be applied between the fire rated removable steel board and
-elevator machine enclosure. In addition, elevator machine enclosures (provided by OTIS) are not
-fire/smoke rated. The fact remains, this does not represent any update or development beyond our
-approved proposal.
-Therefore, we were compelled to raise RFI/0401/17795 Rev. 00, informing you that there are no details
-contained in the existing IFC Drawings, hence we proposed a non-removable fire rated gypsum board
-and seek to apply the same approved solution project wide. We record however, there are three very
-different responses to RFI/0401/17795 Rev. 00; all contradicting each other; specifically:
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+28-Nov-18
+MS/0401/L/0023
+04
+Irrigation Motor Control Panel 05-Dec-18
+23-Dec18
+2
+18 days
+As noted, MS/0401/L/0023 Rev. 04 was returned on 12 May 2018 classified as approved Status Code 2.
+According to an attached e-mail dated 12 December 2018 [12:00 PM], it was agreed that:
+TCAJV/Citiscape would like to request a relaxation/Waiver to submit the sample for MS/0401/L/0023
+Rev04 and note that the following will be provided:
 1.
-The Employer’s Design Consultant’s Response: Confirms our proposal, allows us to proceed.
+Once the referenced subject has been technically approved (Code 2) by the Client/ Consultant/
+Engineer representatives, TCAJV /Citiscape / ABB will proceed with the manufacturing of a sample of
+each type of motor control panel, in accordance with schedule requirements and addressing ALL the
+previous comments on the sample from previous revision. Sample/s will be kept at the factory premises
+for inspection of the same and will not be shipped to site prior to the approval of the former
+representatives.
 2.
-Your (AECOM) Response: Requests site demonstration for the maintenance purposes,
-removable panels are requested; and.
+TCAJV/Citiscape will arrange a factory inspection visit and to issue an invite to the Client/
+Consultant/ Engineer in due time.
 3.
-The Employer’s (ADAC) Response: Profire confirms the compliance with FLS (fire life safety
-aspects). However, LET Project Manager (ADAC) requests the panels to be removable.
-As explained above, obtaining both the fire rating/smoke reduction, and the maintainability at the same
-time is not possible without a proper design. This is not currently part of the existing IFC design.
-Moreover, given the contradictory nature of the various responses to RFI/0401/17795 Rev. 00 there is
+Technical comments raised by the Client/ Consultant/ Engineer representatives during the
+inspection visit, in compliance with the specification and regulatory requirements, will be implemented
+by TCAJV /Citiscape / ABB, as per contract.
+4.
+Once TCAJV /Citiscape / ABB are done with the implementation of the technical comments
+raised in the factory, TCAJV /Citiscape shall arrange another inspection factory visit for re-inspection of
+the panels by Client/ Consultant / Engineer representatives for review and approval.
+Awaiting your approval to assist us to progress accordingly.’
+However, as we were under pressure from all parties to deliver the panels urgently, accordingly the
+panels were delivered immediately after fabrication, and inspected and installed subject to Material
+Inspection Requests (MIR) MIR-CI-MEP-00032 Rev. 00 (Pier 3 L0.1 and CP L.01) on 30 October 2019 and
+MIR-CI-MEP-00040 Rev 00 (Pump Rooms Piers 2 L.01 and External L0.0), on 9 February 2020.
+Notably, both MIRs were annotated with the similar comments as per the following:
+‘Inspection is done as per approved Material Submittal MS/0401/L/0023-04 and found acceptable’
+‘Contractor shall incorporate all comments given by the Consultant in the Material Submittals etc ...’
+Following which, we submitted Material Submittal No: MS/0401/L/0023 Rev. 05 on 1 March 2020 in the
+manner shown in Table 2 having addressed the comments issued in response to the Rev. 04 submittal.
+Table 2
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+01-Mar-18
+MS/0401/L/0023
+05
+Irrigation Motor Control Panel 09-Mar-20
+18Mar-20 3
+9 days
+We note that both the Rev. 04 and Rev. 05 submittal responses were returned by you beyond the turnaround times stipulated in the Contract. Specifically, Article 1.3 of Specification Section 013300
+‘Submittal Procedures’ governs the processing time by which you are contractually obligated to reply to
+our submittals. For example, MS/0401/L/0023 Rev. 05 ought to have been responded to within 7
+calendar days from the date of submission. However, Table 1 shows that you exceeded this review
+period by 9 calendar days.
+Notwithstanding the overdue response, we further note that Material Submittal No: MS/0401/L/0023
+Rev. 05 had been returned classified Status Code 3 ‘Revise & Resubmit’, together with the following
 
-no clear and definitive direction as to what we are required to do. This is delaying the Works for all the
-Piers and CP.
-Therefore, we require clear, unequivocal instructions in order for us to proceed. Moreover, responses 2
-and 3 are additional and represents a change to our scope of Works. As a result, if such works are to be
-undertaken, then we will incur additional time associated with the preparation and approval of Shop
-Drawings, plus additional time in procuring the elevator machine enclosure materials and installing
-them on site. There is also the direct cost associated with the procurement and installation of the
-additional elevator machine enclosure utilising additional labour, plant and access scaffolding etc.;
-which will involve return visits to previously completed work/areas. Plus there are the costs of delay
-resulting therefrom.
-Therefore for KPF to expect us to absorb the costs and time for all of that is totally unacceptable.
-Further, as the Employer’s Design Consultant is the designers for this Project, we accept no liability or
-responsibility for changes to the existing IFC Design; this remains with the Employer’s Design Consultant.
-We further remind you that SAA8 laid down strict guidelines to follow if additional works are required
-and any change / additional variations work will warrant a valid Engineer’s Instruction (EI) and a
-Variation Order (VO) if you require us to proceed with integrating the revised scope into the Works.
-Accordingly the express provisions of Clauses 2.29 to 2.31 of SAA8 are patently clear: We are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29
-and provide a definitive instruction on which option you wish to integrate into the Works, and instruct
-us formally – providing a set of IFC Drawing and a covering Engineer’s Instruction and Variation Order –
-we are unable to proceed with implementing any change to the existing IFC Design into the Works; and
-will therefore continue to proceed in accordance with the existing IFC Design to the extent we are able
+comments; an extract of the responded submittal and accompanying comments are illustrated in Figure
+1 below:
+Figure 1
+In which respect, we make the following comments and observations:
+•
+As noted in the e-mail dated 12 December 2018 attached to the response MS/0401/L/0023 Rev.
+04, we did offer you an opportunity to re-check and re-inspect the delivered material again on Site and
+stressed that we were “Awaiting your approval” and confirmation of the same, but we failed to receive
+any positive response until we received the official rejection of MS/0401/L/0023 Rev. 05.
+•
+We resubmitted the approved MS/0401/L/0023 Rev.04 (Code 2) to clarify the correct BMS
+interface points (only) as mentioned in the IFC so; BMS Points for each panel has been clarified to match
+the Project requirements. Kindly refer to the Comment Reply Sheet attached to the Rev.05 Submittal
+•
+We believe the Material Submittal for Irrigation Motor Control Panels MS/0401/L/0023 Rev. 05
+(Code 3) rejected with unfair comments which are related to Sample only (Specification Division 01
+sample requirement is a general definition and is not specific for each item).
+The above issues were conveyed to you in our e-mail to you dated 23 March 2020 [10:09 AM], ref: (2).
+Following which, the Irrigation Motor Control Panel was re-inspected jointly by TCAJV/CMA/ADAC on 30
+March 2020 and no technical comments were provided. However, in your e-mail issued on the same
+date, i.e. 30 March 2020 [09:49 AM] ref: (3) you requested us to resubmit the submittal. On the basis
+we maintain that your Status Code 3 response to MS/0401/L/0023 Rev. 05 is unreasonable, we
+requested that you recode the material submittal, but you refused. It is for this reason that we issue
+this E-Notice No. 243. We further advised that “The comments responses addressed the control
+requirement of BMS specification 230900 and irrigation specification 328000 for which we did not
+receive technical feedback from CMA.”
+To conclude therefore, and in view of the foregoing, we are surprised at receiving such an unreasonable
+Status Code 3 rejected response to MS/0401/L/0023 Rev. 05 especially at this stage of the Project.
+Again, we urge you to consider re-coding the Submittal as Status Code 2 or higher in lieu of the current
+Code 3.
+Meanwhile, we put on record that your unreasonable comments issued in response to MS/0401/L/0023
+Rev. 05, particularly at this stage of the Project will invariably delay completion of irrigation and
+landscaping works and impact on associated inspections, thus invariably delaying the Time for
+Completion. Accordingly, any delays incurred to date or which may be incurred by us as a result of the
+above shall be at your risk.
 Yours faithfully,

@@ -1,31 +1,93 @@
-
 Dear Sir,
+Change to straight flight stairs of more than 2 flights
+Analysis of situation as on the 14th Jan 2016
+1
 
-This is notice under Sub-Clause 20.1.2 of the General Conditions of Contract that the Contractor
-considers itself to be entitled to an Extension of the Time for Completion pursuant to Sub-Clause 8.4.2 of
-the Contract and/or additional payment.
+BACKGROUND
 
-The particulars of this claimed Extension of the Time for Completion and/or additional payment are as
-follows:
+•
+Employers requirements Volume 6 sub clause 11.4.6.13 states that the maximum rise to a
+direction change is 2 flights and section 12 of volume 6 states that where there is an additional level the
+escalators should double back. The station designs do not comply with this requirement.
 
-(a)
-the event or circumstance giving rise to the claim is the Engineer's Instruction No. 34 - Straight
-Stairs of morethan two flights under reference 1). Further details shall be provided with the Contractor's
-fully detailed claim as set out in Sub-Clause 20 .1.6;
-(b)
+•
+The original plan was always to build the straight flights as this is shown on the JV tender
+drawings included in volume 11, drawing nr M012-QRC-SKETCH-ARC-6 for example.
+•
+Unfortunately this planned design was not in compliance with the requirements so a request for
+change, M006-GDB-ENG-RFC-00003, was submitted. The client then asked for savings to the contract
+and the RFC was subsequently withdrawn.
+•
+EI 34 was then issued relaxing the requirements and stating that the time and cost impacts
+would be dealt with at a later date. This was followed by EI 62 instructing the change as a variation
+requesting the JV to provide an initial assessment to the contract price.
+•
+Upon receipt of EI 34 a notice of claim was submitted and subsequently withdrawn as it was
+believed that any impact would be a reduction in the cost.
+•
+The EI was also sent to Atkins to instruct them to make the change which resulted in a notice of
+claim from them. This was also withdrawn as their current designs already complied with the instruction
+and therefore there was no impact to the design.
 
-the Clause of the Contract giving rise to the entitlement is Sub-Clause 8.4.1 (a) and/or (b);
+2
 
-(c)
-detailed particulars of claimed Extension of the Time for Completion shall be provided with the
-Contractor 's detailed claim as set out in Sub-Clauses 8.4.4, 8.4.5, 8.4.6, and 20. 1.6; and
-(d)
-detailed particulars of claimed additional payment shall be provided with the Contractor's fully
-detailed claim as set out in Sub-Clause 20.1.6.
+CURRENT SITUATION
 
-As set out in Sub-Clause 20.1.6, the Contractor will prepare and provide the Engineer with a fully
-detailed claim including a "Time Impact Analysis" for adjustment of the Time for Completion, containing
-the information set out in Sub-Clauses 8.4.4 and 8.4.5, not later than 02 May 2015 (that it is 28 days
-after the date of this notice) and final claim if required by that Sub-Clause.
+•
+Engineering has still to provide what the actual impact for this change is and therefore we have
+been unable to quantify the cost reduction if any.
+•
+The client is still seeking a cost saving and is calculating its own estimate to apply to the contract
+price.
+3
 
+ANALYSIS OF THE SITUATION
+
+•
+The requirement for switchback stairs and escalators could not have been satisfied at the same
+time as the following requirements.
+1.
+A station with switchbacks means a longer egress, which is in contradiction with section 10 of
+the fire protection and life safety requirements.
+2.
+Larger stair and escalator voids require more cross props between columns at intermediate
+levels in contradiction with the Branding document.
+3.
+Due to overburden/station depth and a maximum straight rise of 6,480mm, a switchback at the
+entrance would be required which is in contradiction with the section 12 of the branding documents
+direct entrance aspiration.
+4.
+If the stairs are placed in the middle between up and down escalators it would be virtually
+impossible to replace them with escalators in the future, as required by clause 12.1.3.
+
+•
+The impact of the change may not have any effect on the cost of the civil works but in order to
+be certain of this a draft design that complies with the original requirements may be required to prove
+this to the client. We would need to ascertain that there is no change to the total volume of concrete.
+
+•
+There would be savings to the Provisional sums and operation and maintenance costs as a one
+long escalator is cheaper and easier to install, operate and maintain than 2 short ones.
+•
+Although we have not notified that this is a value engineering exercise it can be argued that
+since the change was first introduced by the JV in our tender, which is included in Volume 11 of the
+Contract, then the JV is entitled to a share of any savings resulting from this change which includes
+Provisional sums and operation and maintenance costs.
+4
+
+ACTIONS
+
+•
+Notify the client that this constitutes a value engineering variation and should be valued
+accordingly. If the client rejects this because it was not previously notified we can still claim under the
+terms of the Civil Code for Good Faith and unjust enrichment by benefitting from cost saving ideas
+provided by the JV.
+•
+
+Engineering to provide actual impact for calculating the savings.
+
+•
+By including the savings of the Provisional sums and life cycle costs it should be possible to
+prove that the 60% share of the savings will be more than any cost reduction of the civil works, hence no
+reduction in the Contract Price.
 Yours faithfully,

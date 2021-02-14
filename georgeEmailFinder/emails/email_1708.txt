@@ -1,71 +1,48 @@
 
 Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the Variation is provided below.
 
-This is an instruction under Sub-Clause 13.1.1 to initiate a variation. The nature and extent of the
-variation is outlined in the attached waiv.er granted by Qatar Civil Defence dated 3rd March 2015
-following Qatar Rail request for waiver ref POOO-QRC-SSA-LTR-00013 dated
-
-261
-
-February 2015.
-
-Volume 6 Section 10 Clause 5.1.2.4 shall now read "Cross-passageways shall be provided in tunnel
-sections where they are required at a maximum distance of 244m between each other. The distance
-between a cross-passageway and an evacuat ion shaft, the station platform public area or a tunnel
-portal shall not be more than 500m."
-
-You are required to comply with the attached waiver and change to volume 6 Section 10 Clause 5.1.2.4.
-
-An initial technical assessment indicates that a minimum of 20 cross passages can be omitted
-
-Pursuant to Sub-Clauses 13.6.1 and 3.5, you are requested to provide your initial assessment of the
-adjustment to the Contract Price and the Schedule of Payments to this instruction within (14) fourteen
-days from receipt of this letter, to enable the Engineer to consult with you in an endeavor to reach
-agreement.
+'A centralized cooling plant is to be constructed above Ras Bu Abboud Switchbox to serve the stations
+Souq Waqif, Qatar National Museum, Ras Bu Abboud and Ras Bu Abboud Stabling Yard'.
+Further, this instruction amends the Employer's Requirements as set out in the Appendix A - 'Centralized
+Cooling Plant'. The Contractor is also required to extract the information as appropriate from Qatar Cool
+Energy Transfer Station's Technical Guide (Appendix 8).
 Dear Sir,
 
-Further to the Contractor's fully detailed interim Claim Nr 56 submission, reference 1, the Contractor
-now confirms, in accordance with General Condition ("GC") 20.1.6(b) of Volume 3 of the Contract, the
-following additional cost information has been collated by the Contractor to 16 June 2016 in relation to
-the provision of the Implementation of a Centralized Cooling System (the Claim Event).
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the variation is provided below.
 
-The costs already paid by the Contractor as a direct consequence of the Claim Event, in particular
-section 8.4 paragraph 311) to 316) of Claim 56, reference 1, are further substantiated with the following
-information.
+The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
 
-As laid out in Claim 56, reference 1, the Contractor has received FCN 073, reference 3, from the Lead
-Designer, wherein the Lead Designer claims in direct consequence of the Claim Event an amount of:
+"Based on these calculations, the minimum clear width of such passageways, whether elevated or
+underground, shall be no less than 10 m. This does not include areas of low mobility near to vertical
+surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
+deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
 
-QAR 14,508,742.00
+Volume 6, Sub-Clause 11.4.6.25 b) is now amended:
+To reflect an optimization outcome where the minimum clear width of passageways whether elevated
+or underground is reduced to 6.80 meters (excluding event stations).
 
-The Contractor has provided to the Client FCN 073 in Appendix B of Claim 056, reference 1. The
-Contractor has thoroughly evaluated the Lead Designer’s Claim and defended the Client’s interest. For
-full transparency, the detailed evaluation of the Lead Designer’s FCN 073, reference 3, is provided to
-client in attachment 1 to this letter.
+The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
+Required Passageway Widths, attached to this Instruction. Contractor is to note that:
+•
 
-In the Contractors Determination of FCN 073, the adjustment of the agreed compensation amounts to
+This does not include for finishes which should be assumed as +1.0m
 
-QAR 8,167,621.82
+•
 
-The Contractor notes that the amount issue of the determination of FCN 073 is contested by the Lead
-Designer and must therefore not be considered final.
+Width of passageway is the clear width between the two (2) clad facades of the passageway
 
-As of 29 February 2016, the progress of the Lead Design Works in relation to FCN 073 amounts to 75%
-and the progress on MEP Works to 50%. The Contractor has paid the due amounts in accordance to the
-aforementioned progress and to the Contractor’s determination value, totaling:
+•
+Width of walkway is the usable width of the walkway between the two (2) travellators or the
+travellators and the wall - depending upon layout.
+Stations where the minimum width has already been agreed with Other parties or where design and
+construction may have advanced to the stage where reverting minimum width is no longer feasib le,
+shall be considered on a case by case basis.
 
-QAR 5,172,875.47
-
-The full particulars concerning the executed payments of the above mentioned amount is provided in
-attachment 2 to this letter.
-
-? Add finance costs
-
-As the Claim Event giving rise to this Claim has a continuing effect and the Contractor is still collating
-further
-particulars, the Contractor shall be submitting further interim Claim submissions with respect to the
-Claim
-
-Event giving rise to combined Claim Nr 025 & 026 at monthly intervals as required by GC 20.1.6(b).
+Contractor is instructed to implement the requirements to ensure the best possible optimization in
+design and installation is carried out and provide the response in accordance with Sub-Clause 13.1.1 of
+the Conditions of Contract.
 
 Yours faithfully,

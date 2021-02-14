@@ -1,16 +1,49 @@
-Subject:Subsidence Rectification – Grouting – Expiration of Ultra Fine Cement
-Dear Sirs,
-We refer to your e-mail dated 29 April 2020 (ref: 1), and attach hereto an ‘Ultra Fine Cement Tracking
-Log (Expiry Dates) (Update Date: 26.04.20)’, which serves to provide you an update of the status of the
-Ultra Fine Cement available on site, in terms of defining: the total quantity available; the dates when the
-material was delivered; and the dates when the material will expire and corresponding quantities.
-Please note that as result of the UAE Governmental Authorities’ edicts associated with the Coronavirus
-(COVID-19) pandemic, including without limitation, the traffic restrictions and other matters previously
-notified by way of letters ref (2) and (3), and the impact this has had on the grouting works, combined
-with the failure on your part and the part of the Consultants to issue necessary instructions defining the
-scope of grouting works, the Ultra Fine Cement will expire before the full quantity can be utilised.
-We therefore notify you that we will not be held responsible or liable for such events and circumstances
-and accordingly reserve our right to recover the direct costs associated with procuring additional Ultra
-Fine Cement to supplement the quantities of material that will invariably expire, as well as reserve our
-right to recover any associated delays and the costs of such delays; either under the Contract or at law.
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 265 [post-SAA8]
+Radioactive Isotope Sources for Walkthrough Metal Detectors and RadSeekers
+Dear Sir
+We refer to our Site Acceptance Test Procedures – RadSeeker, submitted vide the Document Submittals
+referenced at (1) to (3) above, as well as our letter ref: (4) and request you to provide us the Radioactive
+Isotope Sources for the Walkthrough Metal Detector and RadSeeker SAT (Site Acceptance Test)
+activities.
+Federal Authority for Nuclear Regulations (FANR) restricts the provision and usage of such equipment
+(radiation sources). Nevertheless, during the FAT conducted on 20 October 2016 in MTB Wing F Test
+Lab; Employer has provided two of the required radiation sources; Caesium 137 and Californium 252.
+Similarly, the same is required for the SAT activities for the Passenger Baggage Screening Systems (PBSS)
+equipment. The request has already been communicated to the Employer and the Engineer through
+HBSS/PBSS weekly progress meetings, and included in the approved Site Acceptance Test Procedure –
+RadSeeker per DS/0401/13644 Rev. 00 (ref: 3) as well as our letter ref: (4). However, we are unable to
+get a confirmed date for the delivery of the following requisite Radioactive Isotope Sources.
+•
+Caesium 137 (Cs-137)
+•
+Californium 252 (Cf-252)
+•
+Europium 152 (Eu-152) needs
+•
+Barium 133 (Ba-133)
+•
+Cobalt 57 (Co-57)
+Absent these sources we are unable to complete the commissioning of the 4 RadSeekers and 44 WTMDs
+(Walk Through Metal Detectors) due to the unavailability of the Radioactive Isotope Sources.
+We therefore require your immediate attention to this matter.
+Meanwhile, the failure to be provided a confirmed date for the delivery of the above Radioactive
+Isotope Sources constitutes an acts of prevention and/or breaches of Contract on the part of the
+Employer and / or the Employer’s Personnel and / or the Consultants, and as such we accordingly give
+you notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Although the genesis of this ‘event’ originated prior the ‘Effective Date’ included in SAA8 (4 September
+2018), this cannot possibly be construed as forming part of the ‘Included Circumstances’ (per Clause
+1.7.4 of SAA8) and will be included within any forthcoming Time Impact Analysis, albeit in recognition of
+the Effective Date included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8
+cannot reasonably be interpreted as requiring the Contractor to absorb delays of unknown (possibly
+unlimited) duration occurring pre/post 4 September 2018, particularly where the resolution of the
+matter causing the delay lies with the Employer. We contend therefore that under the circumstances
+the responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
 Yours faithfully,

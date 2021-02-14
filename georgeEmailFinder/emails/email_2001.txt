@@ -1,18 +1,32 @@
+Dear Sir,
+This is a direction under Sub-Clause 13.2.1for the Contractor to submit a quotation (both as to price
+and any possible delay) for the Variation proposed by the Engineer.
 
+The proposed Variation is to modify the Urban Integration and Interface Plan and Urban Integration and
+Land Acquisition Plan for Al Saad Stadium (Al Sudan), part of Employer's Requirements Volume 8,
+
+From:
+
+Urban Integration and Interface Plan Al Saad Stadium- MOOG-QRC-U IF-DWG-YWSTSAS-00 -
+
+To:
+
+23001 Rev.8 (1Page)
+Urban Integration and Land Acquisition Plan Al Saad Stadium - M006-QRC-LOA-DWG- YWST04000-23001 Rev.8
+
+Sketch 1- Urban Integration Plan,Station Area Planning, Key Plan, Al Sudan - Current RoW - Draft
+Sketch 2 - Urban Integration Plan, Station Area Planning,Key Plan,Al Sudan - Draft
+
+When submitting the requested quotation, the Contractor's attention is drawn to the new location of
+the stairs and stand-alone llft (4.20m entrance without shelter).
 Dear Sir,
 
-Further to the Engineer’s Direction of reference 1) issued pursuant to General Condition (“GC”) 13.2.1
-of Volume 3 of the Contract, the Contractor encloses herewith particulars in relation to the varied
-scope, quantities and direct costs in accordance with its GC 13.2.2 obligations.
+Further to the Engineer’s Direction of reference 1) issued pursuant to General Condition (“GC”) 13.2.1 of
+Volume 3 of the Contract, the Contractor encloses herewith particulars in relation to the varied scope,
+quantities and direct costs in accordance with its GC 13.2.2 obligations.
 
-Considering the ambiguity of the information received via letter reference 1) with regards to the exact
-location of the Al Sudan remote entrance and the subsequent re-alignment of the relevant subway, the
-Contractor has made an approximate cost estimate. Time delays are anticipated due to this amendment,
-as clearly explained in Attachment 1), however the information provided is insufficient to estimate the
-exact time impact on the Programme.
-
-The Contractor has assessed the change impacts of this amendment and has concluded that the
-following will be severely affected both in cost and time:
+The Contractor has assessed the impacts of this Variation and has concluded that the following items
+will be severely affected both as to cost and time:
 
 a.
 
@@ -28,29 +42,24 @@ Traffic diversion
 
 d.
 
-Utilities diversion (depending on the land availability and exact new location)
+Utilities diversion
 
 e.
 
-Additional/more expensive Excavation Lateral Support (ELS) measures
+ELS
 
 f.
 
-Additional construction costs
+Construction and site installation
 
-g.
+Considering the uncertainty of the information received via letter reference 1) with regards to the exact
+location of the Al Sudan remote entrance and the resulting re-alignment of the relevant subway, the
+Contractor has made an approximate cost estimate, which is summarized in table 1 below.
 
-Space for site installation
+Full particulars of the Contractor's valuation of this variation are enclosed in Attachment 1) and 2) to this
+letter.
 
-Detailed analysis of the above items can be found in Attachment 1).
-The Contractor's detailed valuation of this variation is enclosed as Attachment 1 to this letter with
-further supporting particulars in relation to its pricing methodology to be found in Attachment 2. The
-Engineer has introduced a methodology to evaluate the abortive design in letter reference 2). Based on
-this methodology and the progress evidenced in Attachment 2) the Contractor has evaluated the cost of
-abortive design related to the Engineer’s Direction of reference 1). The details of this evaluation are
-enclosed in Attachment 1) to this letter.
-
-SN
+SN
 
 DESCRIPTION
 
@@ -93,22 +102,32 @@ LEAD DESIGN
 
 1
 
-Estimation of design fee 1,391,829.28
+Abortive/Additional Design
 
 TOTAL
 
+1,391,829.28
+
 2,141,603.72
 
-In view of the insufficient information provided to make its accurate evaluation, the Contractor
-concludes that the adjustment of the Contract Price is of the net amount of QAR 2,141,603.72 as
-detailed in Attachments 1) and 2).
+Table 1: Summary of preliminary valuation
 
-In order to proceed with a more precise evaluation, the Contractor urges the Engineer to promptly issue
-an Engineer’s Instruction under 13.1.1 containing the exact details of the available land.
+The Contractor hereby provides a preliminary estimate of the adjustment to the Contract Price in the
+net amount of QAR 2,141,603.72 as detailed in Attachments 1) and 2).
 
-The Contractor expects this proposal to be accepted by the Engineer’s Assistant at its current form with
-no further attempts to recover unjustified savings. The Contractor reserves its rights to recover any time
-related costs in connection to this Variation which shall be addressed under a separate cover.
+The Contractor’s preliminary assessment of the time impact shows that the completion of Entrance 2
+will be delayed by 3 to 4 month due to the need for piling at the new entrance location. This will extend
+the duration of TTM accordingly.
+
+The Contractor kindly requests the Engineer to clarify the final position of entrance 2 and secure the
+necessary land for the entrance and the temporary site installation.
+
+Finally the Contractor understands that the necessity to relocate entrance 2 is a fait accompli and kindly
+requests the Engineer to formally issue an Instruction under 13.1.1. Any delay in doing so increases the
+risk of additional works to be abortive and further delays to be incurred.
+
+The Contractor reserves its rights to recover any time related costs in connection to this Variation which
+shall be addressed under a separate cover.
 
 We remain at your disposal for any further information and/or clarification.
 

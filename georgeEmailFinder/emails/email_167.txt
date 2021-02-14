@@ -1,187 +1,16 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0217
-to the Testing & Commissioning of Lighting Control System due to Non-Completion of Works by
-the Employer’s Other Contractor (Cloisall)
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The failures of the Employer’s Other Contractor (Cloisall) to complete its works located at the Tenant
-areas to CP Level 2.0 (i.e. Family Hub, Downtown, Watches & Jewellery, Luxury Fashion), is delaying and
-preventing us from completing the Testing & Commissioning of the Lighting Control System.
-Potential Impact
-Acts of prevention on the part of others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-DESCRIPTION OF THE EVENT
-Background
-We remain appreciably concerned that numerous delays have been and continue to be encountered,
-associated with the completion of the Testing and Commissioning (T&C) of the Lighting Control System
-(LCS) due to the non-completion of works which have been and continue to be carried out by the
-Employer’s Fit-out Contractor (M/s Cloisall) at the Tenant’s areas North and South to CP Level 2.0.
-In particular, we are being prevented from completing the T&C of the LCS which is established via the
-control panels (Figure 1 refers). The control panels are installed by us; they are then used to control the
-colour adjustments of the lights which are installed by Cloisall. After the installation of the control
-panels and the LCS by us, Cloisall then commences the installation of lights at the Employer’s Tenant
-areas to CP Level 2.0 (i.e. Family Hub, Downtown, Watches & Jewellery, and Luxury Fashion).
-Figure 1
+Subject Engineer's Notification of Delay in Central Processor and Pier 2 FOB's Form 4
+Submission Energization
 
-The purpose of this notice therefore is to provide a detailed chronology of the ‘event’ and elaborate on
-the various acts of prevention on the part of others that continue to impede us. This is provided for your
-information and further action as applicable. Accordingly, we herewith provide the following
-explanation of some of the terminology utilised herein relating to various stages of construction and
-commissioning etc., so as to provide the reader with an appreciation of what each stage represents and
-the delineation of responsibilities between us and the Employer’s Other Contractor(s):
-•
-‘Construction Stage’ - consist of the installation of LCS (i.e. control panels, power panels etc.).
-This is completed by us, while the installation of the light fixtures and containment of the full system is
-completed by Cloisall (i.e. table trays, conduits, flexible conduits etc.)
-•
-‘Pre-commissioning Stage’ – consists of cable pulling and cable termination.
-•
-‘Energisation Stage’ – consists of the issuance of Lock-Out Tag-Out (LOTO) permits and then
-energisation of the system.
-•
-‘Software Upload Stage’ – consist of the installation of Local Area Networks (LAN) cards, LANcard termination check, field testing, software upload (undertaken by our specialist contractor M/s
-Delmatic ) for the control of the lights’ colours / dimming / on-off functions etc.
-•
-‘Commissioning Stage’ – consist of the T&C and Commissioning Inspection Requests (CIR)
-carried out and inspected by CXA (the Employer’s Commissioning Consultant).
-Chronology of Event
-We refer to numerous emails including but not limited to your email dated 26 December 2019 [10:42
-AM] copy attached at Annex B hereto, in which you informed the Employer’s Fit-out Contractor about
-the interfaces required between us (TCAJV, Cloisall, other Subcontractors etc.) for the T&C of the LCS,
-and requesting Cloisall to coordinate with us and confirming the following (Figure 2 refers):
-Figure 2
-Essentially, within your abovementioned email, you requested Cloisall to provide the status of their
-works and to confirm whether the works in relation to the lights installed by them and the circuit
-terminations (indicated in Figure 1 above) at the Tenant areas, have been completed. In this regard, the
-completion of the circuit / cables’ terminations inside the control panels as shown in Figure 1, is a
-prerequisite for the circuit energisation and T&C of the LCS to commence.
-Subsequent to this email, a meeting was held on 29 December 2019, between all parties involved in the
-process (i.e. TCAJV, ANEL, AECOM, Cloisall, Polygulf etc.), to discuss inter alia the pending works by
-Cloisall, including the outstanding circuit/cables terminations, cable labelling/address. During the
-meeting, the scheduled completion dates [which would allow the energisation and further T&C activities
-to commence] were provided and agreed. During the meeting it was concluded that:
-1.
-Energisation of all circuits, including the circuits located at the Tenant’s areas, is required to be
-able to test the lights’ control channels. However, in order to proceed with the circuit energisation, it is
-an essential prerequisite for Cloisall to apply and obtain a LOTO permit from our Health and Safety Team
-(HS), for the respective Tenant areas (i.e. Arcades, Pavilions etc.). Additionally, it was agreed that upon
-approval and issuance of the LOTO permit, Cloisall must request and fill in the energisation request form
-accordingly.
-2.
-Once the LOTO approval form is approved and received, we would then proceed with the
-energisation of the circuits accordingly. The completion/action date for the energisation was agreed to
-commence on 30 December 2019. However, all Cloisall works in regards to cable pulling, circuit
-termination, issuance of approved documentation etc. for each respective area must be completed prior
-to energisation;
-3.
-It was also agreed, that Cloisall terminates the lights’ cables to each respective local control
-panel. Also, it was agreed that Cloisall must confirm with the supplier if the lighting control cables are
-suitable to be connected to the control panels installed on site;
-
-4.
-Cloisall confirmed that the Tenant’s works at the Luxury fashion area and specifically the type of
-lights L28 and L30 are not completed as per their Contractual obligation with the Employer.
-Consequently, it was agreed that Light Control (LC) loop ( channel ) would be excluded during the
-energization;
-5.
-It was agreed that T&C of light control cables would be interfaced and jointly completed,
-between TCAJV/ Anel and Cloisall during energization. Also, during energization, both teams would start
-testing the LC cable continuity.
-6.
-It was also noted that some cables had been pulled by us due to the fact that Cloisall failed to
-install them as per the schedule of completion. Consequently, since the installation of these cables had
-been delayed we took action and pulled / installed them, on Cloisall’s behalf.
-Finally, it was agreed that all of the above activities had to be completed by 12 January 2020.
-We further record that the various activities introduced above were set out and summarised in your
-follow up email dated 29 December 2019 [4:24 PM] in the manner reproduced in Figure 3 below.
-Figure 3
-Subsequent to the meeting, we have been closely following up the status of Cloisall’s works based on
-the completion dates and stages mentioned above. It is for this reason that we sent you an email on 8
-January 2020 [8:15 AM], wherein we conveyed the expected completion date of the same in the manner
-shown in Figure 4. The date of 12 January 2020 included in our email, is the date when the LCS and all
-associated works (including, construction, pre-commissioning, energisation, software upload etc.) must
-be completed and be ready in order to proceed for T&C and inspections by CXA.
-Figure 4
-In our email to you dated 8 January 2020, we expressed concern regarding the delays incurred to the
-completion of our works (energisation, software upload and T&C etc.) due to Cloisall’s failure to
-complete the light installations and cable pulling/address. Essentially, we informed you that Cloisall had
-failed to complete the cable pulling to the two control panels referenced in Figure 4 (i.e. ref:
-LCP.L20.5.14C.004 and ref: ELCP.L20.5.14C.003). We also pointed out the fact that Delmatic’s work in
-regards to uploading the software for the lights’ controls would also be delayed, since the uploading can
-take up to four (4) working days to be completed. Therefore, our email was sent to you / Cloisall on 8
-January 2020, which is five (5) days prior to the agreed completion date of the works before T&C
-commences which is 12 January 2020. Our email was sent to inform you that any further delays on the
-part of Cloisall will not be tolerated. Consequently, the LOTO permit, energisation and T&C could not
-proceed on 12 January 2020, due to the cables pending to be pulled and terminated by Cloisall.
-Evidently, unless and until Cloisall completes the lighting installations and obtains a LOTO permit for the
-energisation of the works at the abovementioned Tenant’s areas, then we are prevented from
-proceeding with the energisation and the commencement of T&C of LCS and all associated works. It is
-for this reason that we have sent numerous emails to you to date, reminding you about Cloisall’s
-outstanding works. Copies of all relevant emails are included for reference at Annex B hereto.
-It is evident therefore, that Cloisall failed to complete the pre-commissioning works in accordance with
-the agreed completion schedule and failed to submit all relevant documentation (shopdrawings, single
-line diagram, Light Channel Module Details etc.) to you for approval. As a result, it was inevitable that
-the target completion dates for all remaining works (Pre-commissioning, Energisation, Software upload,
-and T&C) would not be achieved. This is directly attributable to Cloisall’s failures.
-Cloisall responded to our email on 9 January 2020 [5:20 PM], informing us that they will be able to
-commence energisation on 11 January 2020 since the LOTO permit has been issued. However, the target
-completion date of 12 January 2020, as mentioned above, would nonetheless not be achieved.
-
-On 9 January 2020 [5:27 PM], you e-mailed us asking us to “start LCS, Pre-[Commissioning] to check the
-circuits” and “provide a plan to have cloisall do the test [energisation] accordingly with TCAJV”.
-We responded to your email on 11 January 2020 [9:24 AM], notifying you that we “…cannot start LCS,
-Pre-T&C…” due to the fact that Cloisall has not removed the locks from the power panels in the four (4)
-respective areas (i.e. Family Hub, Downtown, Watches & Jewellery, Luxury Fashion), as they were
-required to do so. With the power panels locked, we were unable to obtain access to commence with
-energisation. Moreover, we informed you that our Subcontractor, Delmatic, has to upload the software
-for all four (4) areas and there is not enough time to do so, since the uploading process can take up to 4
-days. In addition we reminded you that an agreed “… plan is already…” in place as per our recent
-discussions for the works to be completed on 12 December 2020. Lastly, we informed you that this date
-of 12 January 2020, has already failed to be met. Therefore, we requested Cloisall to remove the locks
-“… without any more delay…”, so we can proceed with the works accordingly.
-Further e-mails continued to be exchanged between the parties in regard to the coordination and
-interfacing works (refer to Annex B). By way of example, on13 January 2020 [5:59 PM], we further
-advised you that Cloisall was yet to complete their works since the cables had not been terminated to
-the LAN-cards inside the control/power panels. As a result, energisation, LCM details, software upload
-and the commissioning aspects were still pending for completion. We also advised that the revised
-estimated completion date for all the above-mentioned works would be 7 February 2020.
-We reiterate that due to Cloisall’s failure to complete their works, all associated activities in relation to
-Construction, Pre-commissioning, Energisation, Software upload, have been delayed. These should have
-been completed on 12 January 2020, so that the T&C processes for the LCS can commence.
-However, as noted in Annex B, the email exchanges continued between the parties subsequent to the
-agreed completion dates. Evidently, as seen in our email on 9 February 2020 [8:02 AM], Cloisall had not
-completed the documentation submittals and approvals which are required to proceed with the T&C.
-This can be seen in our said email, where we essentially confirmed that despite the fact that precommissioning and energisation of all works have been completed and are ready for T&C, there exist
-numerous snags and documentation that still need to be submitted by Cloisall. This was discovered
-during our attempt to commence with T&C, when it was found that there are many errors / snags with
-their works and numerous Cloisall’s documentation had not been approved, and also their provided
-data was found to be incorrect (mismatching data, wrong data, unknown data etc.), which are required
-to be approved by you (kindly refer to the snag list appended at Annex C hereto).
-Further, M/s Delmatic have been attempting to finalize the software uploading for the lights’
-functionalities (i.e. colours, dimming, on/off functions etc.), but due to Cloisall’s unresolved snags, errors
-and the pending documentation, the software uploading has been unable to be completed.
-In order to resolve matters, we respectfully suggest that you ensure that Cloisall’s Works are fully
-completed prior to us and CXA commencing with CIR inspections; otherwise, the works associated with
-the LCS will not be approved by CXA.
-At the date of preparing this E-Notice, we have been and continue to be prevented from completing the
-T&C of the LCS at Tenant areas to CP Level 2.0 (i.e. Family Hub, Downtown, Watches & Jewellery, Luxury
-Fashion) due to the Cloisall’s failures discussed above. As a result, unless and until the abovementioned
-matters are resolved, then we are unable to proceed with completing our works.
-These acts of prevention were entirely avoidable but have both delayed and disrupted our progress. In
-view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs arising from the event described in letter ref: (2).
-If such acts of prevention continue, then this will continue to impact upon Testing and Commissioning
-which will invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this
-has the potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-
-Yours faithfully,
+We write with reference to correspondence (1) regarding the delays to the submission of FDB Form 4
+energization in the Central Processor and Pier 2.
+The Engineer via numerous correspondence (2) to (10) has highlighted the delays that are attributed
+to the wire joints rectification work, uncoordinated Testing and Commissioning schedule and the
+shortage of the Contractor's resources.
+Furthermore, the Contractor is reminded that any changes that are driven by the requirement of the
+Local Authority (ADDC) are the Contractor's obligation in accordance with the Project Specification,
+Section 260500 (copy attached), and thus the Contractor has no entitlement to any additional time
+and/or cost associated for complying with the Authority Having Jurisdiction's requirements.
+In light of the above, the directions provided by the Local Authority cannot be construed as a
+Va riat ion. The Engineer retains the posit ion that all claims by the Co ntract or have been disapproved
+and no entitlement was found.
+Yours faithfully,

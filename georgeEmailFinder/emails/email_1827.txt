@@ -1,24 +1,56 @@
 
 Dear Sir,
 
-The Contractor acknowledges receipt of the Engineer's Instruction pursuant to Sub-Clause 13.1.1 under
-letter reference 1) instructing the design and construction of a third pedestrian entrance at grade
-including related MEP, Architectural Finishes and Utility diversions at Qatar National Museum Station.
+Further to the Engineer's Instruction of reference 4) issued pursuant to General Condition ("GC") 13.1.1
+of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to the varied
+scope, quantities and direct costs in accordance with its GC 13.2.2 obligat ions.
 
-The Contractor notes that the Engineer's instruction refers to Option 3a, which is an optimized solution
-compared to the option for which the Contractor submitted a quotation under letter reference 2).
+The Contractor's detailed valuation of this variation is enclosed as attachment 1 to this letter and
+summarized in table 1) below. Further supporting particulars in relation to the Contractor's pricing
+methodology can be found in attachments 2, 3, 4 and 5.
 
-Further to the Engineer's Assistant's request, the Contractor encloses herewith its revised financial
-proposal for the optimized Option 3a.
+SIN
 
-The estimated structural, civil, MEP, architectural finishes and utility relocation design and construction
-cost is provided for budgeting purposes only, and it does not include any other additional cost that may
-arise as a consequence of the Engineer's Instruction, such as the cost of rework or abortive design,
-especially for the Qatar National Museum station concourse level. These costs (if any) will be addressed
-under separate cover.
+Additional Works
 
-For the avoidance of doubt, this submissions supersedes the financial proposal submitted under
-reference 2).
+Amounts (QAR)
 
-We remain at your disposal for any further information and/or clarification.
+1)
+
+Smoke Shaft Deletion
+
+(421,639.99)
+
+2)
+
+Additional Jet Fan Requirements
+
+3)
+
+Additional Design Costs 146,416.91
+
+Total
+
+1,981,405.54
+
+2,256,628.63
+
+Table 1) Summary of Valuation
+
+The deletion of smoke shafts is a result of MSl's TVS design development. Along with the deletion of the
+smoke shafts MSI introduced new jet fan niche requirements for the Al Sudan and Sport City
+switchboxes and relocated one set of jet fans in the Bin Mahmoud switchbox. This design development
+is clearly shown in the revision 1 of the respective ICD's when compared to their revision 0, all enclosed
+to this letter in attachment 4).
+
+At the time of the Instruction reference 4) the construction of the smoke shaft at the Bin Mahmoud
+switchbox had no option but to continue as the late design change would have directly impacted the
+programme. Therefore no cost saving has been considered in relation to the aforement ioned smoke
+shaft. This smoke shaft forms an integral part of the emergency exit structure and its final design is
+currently being developed.
+
+The interim adjustment of the Contract Price is of the net amount of QAR 1,981,405.54 . The Contractor
+reserves its rights to recover any time related costs in connectio n to this Variation which shall be
+addressed under a separate cover.
+
 Yours faithfully,

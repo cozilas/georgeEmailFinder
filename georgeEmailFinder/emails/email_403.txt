@@ -1,82 +1,29 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0103
-Engineer’s Response to RFI/0401/16957 - Hardware Installation to Doors with Different Floor
-Levels: Request for Engineer’s Instruction / Variation Order
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
-may cause delay and/or disruption to the Works; hence we seek your swift resolution of the same.
-The Event(s):
-On 19 March 2019 we submitted RFI/0401/16957, together with a list of 55 nos. doors/openings to
-various areas of the MTB informing you that we are prevented from installing the remaining door
-hardware (specifically stops / thresholds / gasketing) due to differences in floor levels between the
-respective rooms, requesting further clarification and resolution of what is in effect a design /IFC issue.
-We further advised you that the difference in levels presented building code violations also.
-Notwithstanding the fact that we requested a reply by 27 March 2019 and you failed to do so until one
-month later on 29 April 2019, your response to RFI/0401/16957 not only failed to address the issues
-raised by us, but introduced changes to the design and scope of Works by requesting the provision of
-entirely new landings to 3 out of the 55 doors/openings as per the list appended thereto.
-Furthermore, your response also stated that: “It is the Contractor’s responsibility to coordinate the
-hardware installation with the other trades and submit coordinated shop drawings for review”.
-We wish to put on record that your request for us to coordinate the hardware installation with other
-trades, is incorrect, misleading and is deviating from the main issue, which is the floor level/elevation
+Subject: Delay Notification- Slow Progress to As-Built Submission .
+Dear Sir,
+We write in response to your letters (referenced 1, 2 and 3) in which you advise us of alleged slow
 
-differences at the door/openings mentioned above. This design defect is not related to the doors or
-doors hardware, but it is related to the floor elevation differences. Therefore, it is the variance in floor
-levels that is preventing us from completing the installation of the final door hardware and not the
-coordination with other trades or any other issues related to the doors and/or door hardware.
-As stated above the differences of the floor elevation at the door openings, reflect a deficiency in the
-existing design / IFC – we have constructed the Works in accordance with that design / IFC Drawings.
-However, as noted in RFI/0401/16957 any variance in floor elevations at a door opening is a violation of
-IBC 2006 code for this Project; this being the applicable code on this Project. Issue #17 of the Fire
-Strategy Report supports this and clearly indicates IBC 2006 as being the applicable code for ‘Doors’ and
-also ‘Means of Egress’. The Fire Strategy Report under the Section of ‘Means of Egress’ states:
-“A continuous and unobstructed path of vertical and horizontal egress travel from any occupied portion
-of a building or structure to an area of safety”.
-Furthermore, IBC 2006 Section 1008.1.4 [Floor Elevation] states the following:
-“There shall be a floor or landing on each side of a door. Such floor or landing shall be at the same
-elevation on each side of the door. Landings shall be level except for exterior landings, which are
-permitted to have a slope not to exceed 0.25 unit vertical in 12 units horizontal (2-percent slope)”.
-We note that the design of the doors, landings and structure is not within our scope of works. It
-remains with the Employer’s Design Consultant. Therefore, since the structural levels have been
-approved and the relevant WIRs have been raised and approved for the affected floor elevations at the
-areas of the door openings noted above, then the coordination issues you allegedly raised in your
-response regarding the door hardware cannot be accepted and are irrelevant to this instance.
-We refute your comment that “Hardware on the list can be installed”. We made it patently clear in
-RFI/0401/16957 that we are unable to install the remaining hardware (specifically stops / thresholds /
-gasketing) due to the direct effect that the variance in floor levels have on this particular hardware.
-Your attention is therefore drawn to the attached photos (refer to Annex A hereto) which illustrate the
-problem. It is this that we sought your assistance yet you failed to do so, despite our request. This is
-delaying installation of the remaining hardware and will invariably impact on completion.
-Furthermore, as noted above also, the response to RFI/0401/16957 attempts to introduce changes to
-the existing IFC design by requesting the provision of a landing. This requires a valid EI and a VO.
-We also put on record, that many of the Status Code 3 comments annotated within the WIR responses
-described in our Delay Notice No. 0087 , relate to the floor level differences discussed within this ENotice No. 0103. We therefore reiterate that such comments are without doubt unreasonable and for
-the reasons set out and herein and our Delay Notice No. 0087 are without merit .
-The SAA8 laid down strict guidelines to follow if additional works are required. However, on the face of
-it, you failed to honour those obligations and an EI and VO are needed for us to proceed with the
-required landings. We also suggest that a survey is undertaken to determine the extent of change as
-there may be more doors/openings than those listed in RFI/0401/16957, with a floor difference.
-We therefore, take this opportunity in reminding you of the provisions of Clause 2.29 to Clause 2.31 of
-SAA8 pertaining to Variations, in so far as we are not to proceed with any Variation until a Variation
-Order and a Time/Cost Record have been issued first. In which respect, it is your obligation to issue this
-Time/Cost Record first if you wish to instigate change; this is only after the additional time and/or costs
-impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted above. We trust this is clear.
-Potential Impact:
-We note that the foregoing events and/or circumstances are undeniably delaying the installation of the
-door hardware. Consequently, any requirement for additional works, in this case (1) the installation of
-
-landings and/or (2) changes to the door hardware which may need to be re-ordered and installed, (3) a
-survey to determine the project wide affect, at such a late stage of the Project, is very likely to impact
-upon our ability to achieve Milestone MS9C (Substantial Completion).
-Action Required:
-It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
-decision or further instruction as may be applicable to resolve the matters referenced herein in order to
-mitigate such delay and/or disruption to the Works. This includes without limitation:
-1.
-Issuing such Instruction as necessary for us to instigate the required changes into the Works.
-Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
+progress and delays in relation to the As-Built submissions.
+We disagree with your comments that we have a lack of engineering resources, inadequate planning
+and inefficient management of our engineering resources. In fact, we feel that the slow progress you
+refer to is a by-product of your inability to review and return the As-Built Drawings and associated
+Submittals within the stipulated time periods expressly prescribed within the Contract.
+The fact remains we continue to submit significant quantities of As-Built Drawings for your review for
+multiple disciplines yet you consistently fail to honour your obligations under the Contract to review
+and respond within the turn-around times stipulated at Article 3.1 of Specification Section 013300.
+This is evidently clear from the number of E-Notices we have been compelled to raise between 11
+November 2018 and 4 June 2019 such as our letters ref: 4 to 11; which not only identified the status
+of overdue responses at the time our notices were prepared but alerted you to the fact that your
+ongoing
+failure to respond promptly to our As-Built Drawings has a direct impact on our ability to obtain
+the Building Completion Certificate (BCC). This is critical to achievement of Milestone MS09B and
+moreo~er, has the potential to impact achievement of Substantial Completion, i.e. Milestone MS09C.
+Regretfully however a large quantity of As-Built Drawings are still with you, and remain unreturned
+and without comment. In certain cases, and as detailed in our letters (ref: 4 to 11), you have failed to
+reply to many submitted As-Built Drawings by the prescribed return dates by more than 100 days.
+Under the circumstances, we respectfully request that you refrain from sending delay notifications on
+this matter and instead work with us to close out the backlog of As-Built drawings which remain
+currently in your possession, whilst continuing the momentum reviewing any recent submissions.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for factors such as those outlined above for which we are not culpable.
 Yours faithfully,

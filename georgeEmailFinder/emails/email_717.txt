@@ -1,37 +1,35 @@
-
 Subject:
 
-Re: Variation Proposal- Reduction in Operator's Length
+Re: Design Responsibility
 
 Dear Sir,
-With reference to the above subject and in continuation to your letter referenced in (3) above, we
-hereby refute the content of your letter and reiterate our position as per our letter referenced (2)
-
-above, where we have rejected your variation proposal since the changes made to the length of the
-operators were due to your proposal as per RFI referenced (1) above.
-In addition to the above, your attention is drawn to the Clauses under the Specification Section 084126
-which forms part of your Subcontract Agreement, Section 1.4 [Performance Requirements], A1, A2a,
-A2b, A2c (General). Specifically A1 clearly states that you are “responsible for the design of connections
-and fixings for all-glass assemblies and related elements, including interfaces and coordination with
-work of adjoining trades, to satisfy aesthetic effects and performance requirements in accordance with
-the Contract Documents”.
-Furthermore, field survey is required by the Subcontractor to provide accurate shop drawings, submit
-for approval, and then order material with the correct dimensions thus, negating the need for field
-modification. Any field modifications necessary to achieve the desired effect and meet the performance
-requirements shall be agreed prior to commencing of the Work and are the responsibility of the
-Subcontractor.
-Furthermore, according to your Subcontract obligations and as per Clause 12.1.1 [The Subcontractor’s
-General Obligations] “[…] The parts of the Subcontract Works that the Subcontractor designs must,
-when the Subcontract Works are completed:
+We are in receipt of your letter referenced (1) above where you have commented on the element of
+design and the responsibility for the design within your scope and we would like to comment as follows:
+For the avoidance of doubt and for the purpose of interpretation, the sections of the Specification
+provided below, which form part of your Subcontract Agreement which state “Contractor” shall be read
+as “Subcontractor”.
+Your attention is drawn to the Clauses under the Specification Section 084126, Section 1.4 [Performance
+Requirements], A1, A2a, A2b, A2c (General).
+Specifically, A1 clearly states that you are “responsible for the design of connections and fixings for allglass assemblies and related elements, including interfaces and coordination with work of adjoining
+trades, to satisfy aesthetic effects and performance requirements in accordance with the Contract
+Documents”.
+Additionally, the abovementioned section of the Specification Clause A2 further states that “As scope
+and performance documents, the Drawings and Specifications do not necessarily indicate or describe in
+detail all work required for the full performance and completion of the Works. Contractor is responsible
+for developing and completing the design in accordance with the Contract Documents, and shall provide
+all items required for proper completion of the Works without adjustment to the Contract price”.
+Furthermore, a field survey is required by the Subcontractor to provide accurate shop drawings, submit
+for approval, and then order material with the correct dimensions, prior to commencing with the works.
+According to your Subcontract obligations and as per Clause 12.1.1 [The Subcontractor’s General
+Obligations] “[…] The parts of the Subcontract Works that the Subcontractor designs must, when the
+Subcontract Works are completed:
 (a) be fit for the purpose for which they are intended as specified in the Subcontract; and
-(b) be free from any defects in design, workmanship, or materials”.
-In view of the above you are instructed pursuant to Clause 11.3 [Instructions of the Contractor] to
-comply with the above and proceed with the works without delay. Moreover, you are kindly requested
-to comply with your Subcontract obligations and perform your duties with due diligence.
 
-To conclude, any delays, costs, claims, losses and/or expenses and the like incurred by us and/or Other
-Subcontractors arising as a result of your failure to complete the aforementioned activities will be solely
-your responsibility as per the Subcontract Agreement Clauses including but not limited to 12.12.4 [Other
-Contractors and Other Subcontractors] and 16.6 [Delay Damages].
-This is for your information, records and further immediate action.
+(b) be free from any defects in design, workmanship, or materials”.
+In regards to your statement about the respective comments and codes given on shopdrawings, please
+be advised that in the event that you disagree with any of our comments, then you have the right to
+challenge these comments and provide a response to validate your position accordingly.
+In view of the above, you are requested to comply with your Subcontract obligations and perform your
+duties with due diligence.
+This is for your information, records and compliance.
 Yours faithfully,

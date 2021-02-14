@@ -1,25 +1,16 @@
-Subject MTB Delay Notification -Subsidence Works
+Subject BMS Server Redundancy I Virtualization
+Cross Ref (1) MTG-TCA-AECOM-l-010657 dated 16 May 2017
 Dear Sir,
-We write with reference to correspondence (1) and record the Contractor's delays in achieving
-Substantial Completion of the Works. We note in particular the delays attributed to the Subsidence
-Works which in accordance with Clause 5.3.2 of the Settlement Agreement and Amendment No. 8
-should have been completed but still remain outstanding. To date, the Contractor has not yet started
-the works of Pier 1 and the remaining part of Pier 2.
-The drilling works of Pier 1 should have started on 01 December 2019 according to the Contractor's
-Monthly Updated Programme with the data dated 01 November 2019 (2). Unfortunately, the works
-did not commence as targeted and as a result the Pier 1 completion date is forecasted to be 01
-October 2020, assuming that the works would start by mid to late December 2019.
-The completion date of Pier 1 would therefore be further delayed beyond the Contractor's target
-completion date of 15 September 2020.
-Notwithstanding the above, the Contractor's Updated Programmes (2 and 3) indicated different
-durations as summarized in the table below (attachments 1 and 2) where the Contractor appears to
-have reduced the duration requ ired for Pier 1 in these monthly updates as to suppress the delays
-resulting from not commencing the works as initially planned.
-S. No. Updated Programme Duration Forecast Complet ion
-Data Date Calendar days
-1. 01 October 2019 348 15 September 2020
-2. 01 November 19 320 15 September 2020
-The Contractor is therefore required to address the above and provide its action plan to mitigate t hese
+The Engineer writes in relation to the Contractors above referenced letter (1) and all other associated
 
-delays .
+correspondence, regarding BMS Server redundancy and virtualization.
+The Contractor is requested to provide a ROM proposal in accordance with Clause 20.1.1(b) of the
+Conditions of Contract and an associated Time Impact Analysis (TIA) for the proposed recommended
+BMS redundancy based on the following options:
+Option 1 - Virtualized environment utilizing the infrastructure provided by the Contractors ICT
+Subcontractor (TAV IT).
+Option 2- Additional hardware server to be utilized as a redundant node.
+The Contractor is requested to provide the above ROM options and related TIA's at the soonest
+opportunity so as to enable the Employer tG make the necessary informed decision in relation to
+additional BMS Server redundancy.
 Yours faithfully,

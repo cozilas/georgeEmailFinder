@@ -1,82 +1,34 @@
-Dear Sirs,
 
-Further to the Contractor's initial interim Claim Nr 034 submission issued under cover of reference 1, the
-Contractor confirms, in accordance with Sub-Clause 20.1.6(b) of the General Conditions of Contract
-(Volume 3), that the following updated additional costs in relation to Claim Nr 034 have been incurred
-by the Contractor over the past month. Accordingly, the Contractor provides this December 2015
-monthly update to Claim Nr 034.
+Dear Sir,
 
-The Contractor confirms that no additional cost information from others in relation to Claim 034 has
-been received over the past month.
+The Contractor refers to its letter at reference 1 which states: " The implementation of SAP
+requirements, which must be formally instructed, constitute a Variation ...In this respect the Engineer is
+kindly requested to obtain the Employer 's written confirmation of its agreement to implement the
+revised SAP drawings and instruct accordingly ..."
 
-However,the Contractor's financing costs and overheads and profit "(OHP") upon same, has increased
-since the Claim's initial interim submission on 26 November 2015 as no payment has been made to the
-Contractor .
+Consequently, within reference 1 the Contractor requested a response, together with the requested Var
+iation Instruction (pursuant to General Condition ("GC") 13.1.1) and the required Employer's specific
+written approval of same (pursuant to GC 3.1.4 (m)) with respect to the issue of the SAP drawings, by 17
+September 2015.
 
-Claim 034's Financial December 2015 update is therefore as follows:
+Unfortunately, contrary to the Contractor's request no response to reference 1 has been received by the
+Contractor to date and in addition, no Variation Instruction and no Employer's specific written approval
+of same has been received with respect to the issue of the SAP drawings. However, the Contractor can
+confirm that it has proceeded to revise its Design to incorporate the SAP drawings' requirements.
+The Contractor considers that the post-Contract issued SAP drawings contain changes to the Employer's
+Requirements and/or the Works and are causing the Contractor to incur additional costs and may cause
+delay to the Time(s) for Completion.
 
-Finance costs have now been incurred over a period of 2 months since the commencement of the
-Claim/Delay Event. Therefore, the total finance costs to date are:
+Accordingly, due to the lack of response to reference 1 by the requested date of 17 September 2015, the
+Contractor has now become aware of an event or circumstance giving rise to a claim . Therefore, the
+Contractor hereby notifies the Engineer's Assistant of the Contractor 's intention to claim for its
+entitlement (1) for any extensions to the Time(s) for Completion for any delays that may be incurred due
+to the post- Contract issue of SAP drawings and, (2) for payment of the additional costs that are/will be
+incurred due to the post-Contract issue of SAP drawings, all in accordance with GC 8.4.2 and GC 20.1.2
+of Volume 3 of the Contract.
 
-(QAR 22,309,325.00 (design costs) + QAR 5,314,214.00 (construction value) + QAR 13,131,637.00
-(prolongation costs) + QAR 4,607,325.00 (OHP @ 13% of the sum of all the preceding figures)) x 2/12
-months x 4.25% pa (finance rate) = OAR 321,318.00.
-
-OHP upon this finance cost are: QAR 321 ,318.00 x 13% (OHP rate) = QAR 41 ,771.00.
-
-Therefore, total finance costs and OHP upon same to date are calculated as follows :
-
-QAR 321,318.00 (finance costs to 31 December 2015) + QAR 41,771.00 (OHP upon finance costs) = QAR
-363,089 .00.
-
-This provides a December 2015 updated Financial Summary for Claim 034 as follows:
-
-FINANCIAL SUMMARY:
-
-Description of Cost/Value (Claimed to Date)
-Qatari Riyals
-Contractor 's Lead Designer's (Civils) Variation Costs &
-Contractor 's MEP Designer's Variation Costs
-22,309,325.00
-Contractor's Architectural Finishes Designer's Variation Costs
-
-TBC
-
-Contractor's Vertical Horizontal Transportation Subcontractor's Variation Costs (for Design)
-
-TBC
-
-Contractor 's Design Verificat ion Engineer's Costs for Lump Sum Works TBC
-Contractor's Design Verification Engineer's Costs for Provisional Sum Works
-Contractor's Variation Construction Works Value (Lump Sum Works)
-
-TBC
-
-5,314,214.00
-
-Contractor's Architectural Finishes Subcontractor's Variation Construction Works Value (Provisional Sum
-Works) TBC
-Contractor 's MEP Subcontractor's Variation Construction Works Value (Provisional Sum Works) TBC
-Contractor's Vertical Horizontal Transportation Subcontractor's Variation Construction Works Value
-(Provisional Sum Works)
-TBC
-Contractor's & Subcontractors' Prolongation Costs and Losses
-
-13,131,637.00
-
-Contractor's Overheads & Profit (13%) 4,607,325.00
-Contractor's Finance Costs (including OHP on same)
-Total Claim (to Date)
-
-45,725,590.00
-
-363,089.00
-
-Accordingly , Claim Nr 034's revised and claimed value to date is QAR 45,725,590.00.
-
-As the event giving rise to this Claim has a continuing effect and the Contractor is still collating further
-particulars, the Contractor shall be submitting further interim Claim submissions with respect to the
-event giving rise to Claim Nr 034 at monthly intervals as required by Sub-Clause/General Condition 20
-.1.6(b) of the General Conditions of Contract.
+Please rest assured however that notwithstanding the above the Contractor will endeavour, in
+accordance with its contractual obligations, to mitigate any delays and additional costs incurred due to
+the post-Contract issue of SAP drawings.
 
 Yours faithfully,

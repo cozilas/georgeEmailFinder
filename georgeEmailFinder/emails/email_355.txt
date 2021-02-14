@@ -1,31 +1,117 @@
-Subject: Delay Notification- LET Installation and Commissioning Worl<s
-Dear Sir,
-We write with reference to your letters ref (1) and ref (2), in which you notify us of our purported
-lack of progress and a failure to meet the completion date as per Baseline Rev 11.2 Programme, for
-the LET Works.
-We refute your allegation with respect to a lack of progress and confirm Pier 4, Pier 3 and Pier 1 are
-completed, Pier 2 is in progress. In addition, during the Hotel & Office C&E, LET readiness has been
-demonstrated functionally, but not documented due to unavailability of permanent power.
-There was no negative impact during the recent ORAT trials, with everything operating as planned.
-All the tested units are certified by a third party and operated successfully.
-Currently, separate resources are deployed specifically to expedite the energization of the LET, the
-effects of which will be rea lized from the 3rd week of July.
-Contrary to your statement that we have demonstrated a lack of progress and are in delay, the entire
-122 escalators, all 58 moving walkways and 161 out of 163 elevators are installed and operating at
-normal speed following a successful ORAT trial. This clearly demonstrates a concerted and fully
-focused effort to progress the works.
-The majority of snagging items are either related to documentation and/or already installed and
-completed works. There a few outstanding issues and comments related to operation/functionality
-ofthe units which are being actioned.
-We are targeting to deploy 10 additional snagging teams to assist closing the outstanding installation
-comments. Pier 4 snagging inspections are in process and a completion schedule is being prepared.
-In any event, we remind you that under cover of our letter (3), we have demonstrated our
-entitlement to extensions of time for 5 of the 7 number of SAA8 Milestones as follows:
-We are confident that when, in due course, the appropriate extensions of time are granted by you,
-we will be able to demonstrate that the matter that you refer to has not caused a critical delay to any
-of the Milestones.
-We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing
-our obligations within the shortest possible time, without compromising on safety and quality, but
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0122
+Delays to Completion of Precast Planter and Seating Sealant Application
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to the Works due to the protracted approval of the
+hydrophobic coating (sealant) to the precast concrete planters and seating throughout the MTB.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 
-will noi. be held responsible for such factors as those outlined above for which we are not culpable.
-Yours faithfully
+ANNEX A
+Description of the Event
+In or about May 2018, we were informed that you / the Employer was considering the application of a
+hydrophobic coating (sealant) to all precast concrete elements – primarily precast concrete planters and
+seating – throughout the Terminal Building; our letter ref: (1) refers. This letter not only served to
+advise that such work constituted a Variation to our scope of Works but we duly requested clarification
+as to the type of sealant required in order for us to proceed with the additional works.
+Unfortunately, your belated response issued on 2 October 2018 (ref: 2), simply advised us that “this
+issue has been captured by Amendment No. 8” and despite ordering us to proceed with the works,
+neglected to inform us of the type of sealant actually required to be applied to the precast elements.
+Our letter of reminder (ref: 3) is synonymous with this very matter, in which we advised you that until
+such time as you advise us the particular elements to be coated, the precise type of sealant / coating to
+be applied etc., then we would be prevented from proceeding with the additional sealant works.
+Once again however, your further letter (ref: 4) failed to provide the necessary information but with
+reference to the attached ‘Technical Clarification’, issued in response to our Request for Engineer’s
+Instruction [No. 0705], advised us that “this is deemed [to be] included in Amendment No. 8”.
+There then followed a succession of verbal discussions and e-mail exchanges associated with various
+samples. This includes inter alia your requirement to proceed [formally] with one particular sample
+conveyed by way of your e-mail dated 16 May 2019 (ref: 5); which was done by way of our Material
+Submittal No. MS/0401/A/1756 Rev. 00 in support of the ‘A-Z Ultra Sealer for Precast Planters’ (ref: 6).
+This was submitted for your approval on 17 June 2019 and responded to Status Code 2 on 19 July 2019 –
+this is 1 calendar day later than the review period expressly stipulated at Article 1.3 of Specification
+Section 013300 ‘Submittal Procedures’ (refer to Table 1) annotated with the comment that when
+applied, the sealant was not to affect the colour of the precast concrete and the dolomite.
+Table 1
+Date submitted Submittal Ref Rev
+Description of Contents Response due per Section 013300
+Response received
+Status Code
+Overdue by (Calendar Days)
+17-Jun-19
+MS/0401/A/1756
+00
+A-Z Ultra Sealer for Precast Planters
+8-Jul-19 9-Jul-19
+2
+1 day
+The information recorded in Table 1 shows that you took 22 calendar days to reply to our Material
+Submittal. Although the Contract specifies you have 21 calendar days to reply, given the current status
+of the Project and the mutual desire to complete at the earliest possible time, any delay to approval of
+our submittals at this stage, is wholly unacceptable and will invariably knock on and have a
+consequential impact on our progress and delay us; this delay was otherwise wholly avoidable.
+On the basis our material submittal was approved, we then proceeded with arranging a Mock-Up;
+evidenced by our e-mail dated 27 July 2019 [4:53 PM], with the inspection being undertaken the
+following day, i.e. 28 July 2019. Following which we received a further e-mail from you dated 30 July
+2019 [4:57 PM] (ref: 7), copy attached hereto, which contain what we contend are a series of
+unreasonable comments; this is despite us adhering to the manufacturer’s recommendations. The
+information recorded in Table 2 below, records the particular comments in question, alongside which
+we provide a response justifying why we believe those comments are unreasonable. This is based upon
+the same comments conveyed to you via e-mail on 31 July 2019 (ref: 8); see copy attached.
+Table 2
+Item Engineer’s Comments Contractor’s Response
+1
+“Surface of the concrete is irregular, certain areas porous and not shiny, you may consider
+polishing of the surface with diamond pads instead of sanding.” The surface should not be in question
+considering the planters have been installed for some time, and have been approved. If you require us
+to polish the surface this will require an EI / VO.
+
+2
+“Application of Sealer was done through sprayer techniques instead of brush & or roller, as
+mentioned in the Sealer Technical Data sheet. This will affect the characteristics of the sealer as per
+provided Specs sheet.” The data sheet states that “A-Z Ultra Sealer can be applied by brush, sprayer or
+roller… A solvent-resistant hand-pump sprayer may also be used”. We used the latter as the method of
+application by roller is good for flat and horizontal surfaces however, on surfaces that are curved and
+vertical, like the planter, it will cause dripping effect and cannot be used.
+3
+“Sealer was not able to protect the surface while we applied coffee on the surface and kept it
+overnight, stains are visible after cleaning, attached pictures.” Coffee was applied with an unrealistic
+amount for an unrealistic time and performance of the sealer was very good.
+4
+“Additionally we applied crayons and ball point inc. pens and it is very challenging to remove it,
+see attached pictures, still visible after cleaning, attached pictures.”
+The excessive scribbles on the
+planter took time and effort to remove completely but was successful. There are countless number of
+surfaces in the MTB with public access that will not perform as well as the planter eg. columns, krion,
+seating, etc.
+5
+“Sealant / Silicon between gaps was incomplete and has to be presented as well. Gaps are
+irregular between the concrete modules.”
+Sealant between panels have been applied in the E2
+benchmark and approved. Gaps between the panels have been inspected and approved.
+For the reasons explained in our e-mail dated 31 July 2019, we believe the sealant has performed very
+well in the tests undertaken to date; but nevertheless, it is because of the length of time taken to
+resolve this matter and the potential on-going delays associated with the sealant application that we are
+compelled to raise this E-Notice. While acknowledging that the additional cost of the sealant is included
+within SAA8, the implications of delay on the completion of the Works cannot possibly be construed as
+forming part of the ‘included circumstances’ per Clause 1.7.4 of SAA8; particularly in view of the fact
+that you repeatedly failed to respond to our requests for you to advise the precise type of sealant /
+coating to be applied and this was only resolved ‘by committee’ in May / June 2019.
+Resultant Impact
+Meanwhile, the protracted delays in the selection and approval of the hydrophobic coating (sealant) to
+the precast concrete planters and seating throughout the MTB coupled with your unreasonable
+comments recorded in Table 2, particularly at such a late stage of the Project, have the potential to
+cause delay and disruption to our Works. We draw attention to the fact that there are circa 470 precast
+planters located within the Terminal Building and the delays to the application of the sealant will
+invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
+potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Yours faithfully,

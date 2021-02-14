@@ -1,39 +1,114 @@
+
 Dear Sir,
 
-Further to the Engineer’s Assistant letter of reference 1) the Contractor encloses herewith the required
-particulars in relation to the design status at the time of Engineer’s Instruction of reference 2).
+Further to the Engineer’s Direction of reference 1) issued pursuant to General Condition (“GC”) 13.2.1
+of Volume 3 of the Contract, the Contractor encloses herewith particulars in relation to the varied
+scope, quantities and direct costs in accordance with its GC 13.2.2 obligations.
 
-The Contractor summarises the design documents’ status and submissions to the Client as follows:
+Considering the ambiguity of the information received via letter reference 1) with regards to the exact
+location of the Al Sudan remote entrance and the subsequent re-alignment of the relevant subway, the
+Contractor has made an approximate cost estimate. Time delays are anticipated due to this amendment,
+as clearly explained in Attachment 1), however the information provided is insufficient to estimate the
+exact time impact on the Programme.
+
+The Contractor has assessed the change impacts of this amendment and has concluded that the
+following will be severely affected both in cost and time:
 
 a.
-Architectural Design, DD2 stage – Submitted for approval to the Engineer and the Engineer’s
-Assistant via M006-GDB-WTRAN-193138 on 25 October 2016.
-b.
-Structural Design, DD2 stage – Submitted to the Engineer and the Engineer’s Assistant for
-information via M006-GDB-INFM-010017 on 15 December 2015 (Part 1 of 2) and M006-GDB-INFM010773 on 05 January 2016 (Part 2 of 2).
-c.
-ELS Design, DD2 stage – The Engineer’s Assistant has reviewed the design and responded via
-M006-LBE-WTRAN-038398 on 05 July 2016.
-d.
-FoH Architectural Design, M3 stage – The Engineer’s Assistant has reviewed the design and
-responded via M006-LBE-WTRAN-049130 on 13 October 2016.
-e.
-MEP Design, DD2 stage – Submitted to the Engineer and the Engineer’s Assistant for information
-via M006-GDB-INFM-018766 on 29 September 2016.
-f.
-ELE Design, DD2 stage – Submitted to the Engineer and the Engineer’s Assistant for information
-via M006-GDB-INFM-018783 on 29 September 2016.
-g.
-FRD Design, DD2 stage - Submitted to the Engineer and the Engineer’s Assistant for information
-via M006-GDB-INFM-017489 on 28 August 2016.
-h.
-FRS Design, DD2 stage - Submitted to the Engineer and the Engineer’s Assistant for information
-via M006-GDB-INFM-017896 on 08 September 2016.
-i.
-HVAC Design, DD2 stage - Submitted to the Engineer and the Engineer’s Assistant for
-information via M006-GDB-INFM-017960 on 10 September 2016.
 
-The Contractor includes full particulars of the design submissions in Attachments 1) to 9) to this letter.
+Design
+
+b.
+
+Land acquisition
+
+c.
+
+Traffic diversion
+
+d.
+
+Utilities diversion (depending on the land availability and exact new location)
+
+e.
+
+Additional/more expensive Excavation Lateral Support (ELS) measures
+
+f.
+
+Additional construction costs
+
+g.
+
+Space for site installation
+
+Detailed analysis of the above items can be found in Attachment 1).
+The Contractor's detailed valuation of this variation is enclosed as Attachment 1 to this letter with
+further supporting particulars in relation to its pricing methodology to be found in Attachment 2. The
+Engineer has introduced a methodology to evaluate the abortive design in letter reference 2). Based on
+this methodology and the progress evidenced in Attachment 2) the Contractor has evaluated the cost of
+abortive design related to the Engineer’s Direction of reference 1). The details of this evaluation are
+enclosed in Attachment 1) to this letter.
+
+SN
+
+DESCRIPTION
+
+Amount (QAR)
+
+A
+
+CONSTRUCTION COST (Subway)
+
+1
+
+Cost reduction due to reduced subway length
+
+2
+
+Over-excavation and backfill
+
+B
+
+CONSTRUCTION COST (Entrance)
+
+1
+
+Additional ELS 1,330,000.00
+
+2
+
+Additional Construction Costs due to confined space
+
+(600,000.00)
+
+19,774.44
+
+TBA
+
+3
+C
+
+LEAD DESIGN
+
+1
+
+Estimation of design fee 1,391,829.28
+
+TOTAL
+
+2,141,603.72
+
+In view of the insufficient information provided to make its accurate evaluation, the Contractor
+concludes that the adjustment of the Contract Price is of the net amount of QAR 2,141,603.72 as
+detailed in Attachments 1) and 2).
+
+In order to proceed with a more precise evaluation, the Contractor urges the Engineer to promptly issue
+an Engineer’s Instruction under 13.1.1 containing the exact details of the available land.
+
+The Contractor expects this proposal to be accepted by the Engineer’s Assistant at its current form with
+no further attempts to recover unjustified savings. The Contractor reserves its rights to recover any time
+related costs in connection to this Variation which shall be addressed under a separate cover.
 
 We remain at your disposal for any further information and/or clarification.
 

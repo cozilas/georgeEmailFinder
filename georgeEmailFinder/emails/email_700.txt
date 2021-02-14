@@ -1,93 +1,50 @@
-Subject:Initial Review of the Subcontractor’s Disruption Claim No.5
-Dear Sir/Madam,
-The Contractor acknowledges receipt of M/S Mosart’s letter reference (1) above, which has provided
-‘Claim no.5 Disruption to site installation, engineering and factory production’. Upon an initial review of
-the aforementioned letter and its supporting particulars, the Contractor would like to highlight the
-following observations/discrepancies for Mosart’s immediate attention:
-1.
-In general, it would appear that you have adopted a somewhat global approach (i.e. where
-there is no causal link between cause and effect) to this claim. While you identify the main disruption
-events as being 1) the late or partial release of site areas, 2) the resequencing of work fronts and 3)
-obstruction from other trades, the claim submission does not provide the causal link between each of
-the alleged disruption events and the Contractor’s and/or the Employer’s culpability, and the causal link
-between each of the alleged disruption events and the effects/ costs claimed. By simply attaching the
-‘monthly reports’ is not enough to create the necessary link.
-2.
-Further, you have simply applied a planned vs actual assessment against three particular work
-fronts 1) site, 2) engineering and 3) factory productivity. The shortfalls from this approach is that you
-have not demonstrated that the planned productivities were both reasonable and achievable. This could
-be done by finding a month where you achieved the outputs set out in the tender.
-3.
-With regards to Appendix D [Disruption Analysis], the Site Disruption cost schedule indicates the
-monthly costs amounting to AED 21,536,466.00. However, the submission only includes a pdf form
-which therefore makes it unclear how these monthly costs have been built up. Further, it is unclear how
-the actual monthly productivity per m2 and/or the actual monthly cost has been obtained and verified the excel version needs to be provided along with sufficient narrative / records to support the adopted
-methodology.
-4.
-Likewise, for the cost schedules provided for Engineering and Factory production; it is not clear
-how these numbers have been generated and what formal records have been used to populate the
-schedules.
-5.
-What is noticed from the schedule calculations, is that you are claiming for 100% culpable
-disruption of your costs across multiple months, which indicates that you have no consideration of your
-own ‘shortcomings’ during these particular months – Mosart need to consider and assess its own
-culpable events and show the effects of them within this claim;
-6.
-Further, the Engineer staff costs include the same staff and periods which are being claimed
-under their prolongation claims; Mosart must do a reconciliation of the claims / variations and remove
-any duplication of costs.
-7.
-The Production costs include for offsite labour working within Mosart’s factory. Again, wages
-for production staff appear within your prolongation claims for the same periods. Similar to staff costs,
-all claims / variations must be reconciled and the cost duplication must be removed. Further, without
-prejudice, Mosart need to provide sufficient evidence to demonstrate that the production staff were not
-working on other projects.
-8.
-‘Appendix C – Weekly Site Reports’ are missing; please clarify if the monthly reports provided
-within sub folder titled ‘Site Disruption Cost’ are intended to represent the weekly reports.
+Subject: . BHS Milestone MS07 and Commencement of the BHS
+Dear Sir,
+We hereby inform you of our intention to obtain Preliminary Acceptance of the Baggage Handling
+System (BHS) as set out within BHS Specification Section 347716 clause 4.11.2 on 31 October 2018. This
+will enable the start of the BHS Level 1 Non Operational Trial Period (NOTP) from 01 November 2018.
+The commencement uf the NOTP on this date is in line with the attached updated Testing and
+Commissioning schedules and will demonstrate our achievement of Milestone MS07.
+In preparation ·for the above, we take the opport unity to provide the following clarifications and status
+updates.
+1. FIDS/BHS Interface - Mock Up interface tests are undertaken in two locations demonstrating the
+satisfactory .interface b'etween t he BHS and FIDS .. We understand that the Employer is currently .
+considering various optrons for the Environmental Housings. Any outstanding Works will have no
+impact;on the ability to commence Level 1 NOTP as per BHS Specification Section 347716 clause
+4:10.8 ..
+2. BHS/BLJS Interface- A Mock Up interface test is scheduled for 16 October 2018 in one location to
+demonstrate the interface between the BHS and BLTS as revised by Engineer's Instruction (EI) 499.
+Once the remaining BLTS Workstations are installed, any required testing will be comp,leted. Any .
+outstanding Works will have no impact on the ability to commence Level 1 NOTP as per BHS
+Specification Section 347716 clause 4.10.8.
+3. BHS/SCADA Interface- The interface test is currently scheduled to take place on 17 October 2018.
+However,· despite being issued to the Engineer on OS June 2018 via DC/0401/3480-02 we are yet ·
+to receive any response or approval for the lCD. Once the lCD is approved we are reqt,~ired to
+develop and obtain approval of the IVTP. This will be therefore excluded from the tests requested
+before NOTP.
+4. BHS/FAS Interface - A'Mock Up interface tests will be completed by end October 2018 in one
+location to demonstrate the interface between the BHS and FAS. Once the remaining FAS Panels
+are installed, all required Works will be completed; Any outstanding Works will have no impact on
+the ability to commence Levell NOTP as per BHS Specification Section 347716 clause 4:10.8.5. BHS/SACS Interface- A 'full Mock Up interface tests has been completed by 24:september 2018 to
+demonstrate the interface between the BHS and FAS. Remaining BHS interface Works will be
+completed in accordance with the Security Systems Schedule. Any outstanding Works will have no
+impact·on the ability to commence Level 1 NOTP as per BHS Specification Section 347716 clause
+4:10.8;
+6. BHS Level 6 Snags- All categories A, B & C Level 6 snags to be completed by end October 2018. The
+Contractor intends to reach a satisfactory agreement with the Engineer regarding any disputed Level 6
+snags prior to Substantial Completion. None of the disputed items will impact our ability to commence
+Levell NOTP as per BHS Specification Section 347716 clause 4.10.8. 7. BHS Level4 Snags- All Level 4
+snagging will be closed by 20 October 2018 8. BHS Level 3 Testing - All Level 3 testing to be undertaken
 
-9.
-In Section 5, page 15, paragraph 4, Mosart states that it expects a fair determination within 41
-days pursuant to Sub-Clause 27.1.6 of the Sub-Contract Agreement. However, it is not clear where in
-the submission you have evidenced the relevant claim notifications, which is a condition precedent to
-reimbursement of additional Costs under Sub-Clause 271 of the Sub-Contract Agreement. Further
-clarification and evidence is required on this?
-10.
-In summary, Mosart’s claim needs to take into account all the issues faced by you, providing a
-clear path to entitlement through a cause and effect submission. To achieve this, it is therefore
-important that the claim submission adequately demonstrates your case through detailed particulars,
-which will include, but not limited to the following:
-•
-Statement of claim i.e. it is important that the claim contains a succinct statement of what the
-Subcontractor is claiming;
-•
-The Event(s) i.e. identify the event(s) and the circumstances which gave raise to additional time
-and/or costs;
-•
-Liability for the event i.e. the party(s) who is responsible for the event(s);
-•
-Contractual entitlement i.e. identifying the relevant clauses which gave raise to entitlement
-against the known event;
-•
-Contractual compliance i.e. you must detail the relevant claim notices which are a condition
-precedent;
-•
-Cause and effect i.e. identify the facts describing the cause and the effect, and demonstrate the
-linkage between the two – this should include details of the planned works affected, referring to the
-planned sequence, durations and methodology, the status of the works in relation to that planned at the
-time of the event, and a description of the changes to that plan as a consequence of the event – the
-Contractor would expect to see a recognised industry method of calculating loss of productivity;
-•
-Contemporary records (capable of being objectively verified) of the work (location, quantities
-and times) impacted by each of the alleged disruption events, the name, designation and role of each
-person and the relevant particulars of all other resources included in the calculation of the additional
-Cost claimed.
-•
-Evidence of measures taken to mitigate the effects of each disrupting event.
-•
-Substantiation i.e. extracted and documentary evidence (letters, method statements, RFI’s,
-instructions, progress reports, photos, drawings, MOM etc).
-Upon receipt of the above further clarifications and information, the Contractor will commence its
-review and determination of the aforementioned Claim no.5 for Disruption to site installation,
-engineering and factory production.”
+by end September 2018, with the exception of the issues identified in above points 1, 2, 3 & 4. The EStop testing will be rectified during the NOTP. Any major Level 3 snags will be addressed by end of
+October 2018 and minor snags during the NOTP. None of the minor snags will impact our ability to
+commence Level 1 NOTP as per BHS Specification Section 347716 clause 4.10.8 9. HBSS Level 3 - All Level
+3 testing to be undertaken by end October 2018 and snags addressed during the NOTP. None of the
+snags will impact our ability to commence Level 1 NOTP as per BHS Specification Section 347716 clause
+4.10.8 10. BHS Training - The training necessary for the implementation of the NOTP will be undertaken
+during October 2018. All remaining BHS training will be undertaken in accordance with the schedule as
+agreed with the Employer. As detailed above, we intend to satisfactorily fulfil the specified acceptance
+criteria for the Baggage Handling System by end October 2018 thus allowing the commencement of the
+Non Operational Trial Period on 01 November 2018. Therefore, we expect to fulfil our obligations to
+achieve the successful completion of MS07 on 31 October 2018.
 Yours faithfully,

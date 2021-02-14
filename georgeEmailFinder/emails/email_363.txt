@@ -1,134 +1,72 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0120
 
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0117
-Additional Works associated with the Installation of Antennas to Piers 1 to 4 by an Other Contractor –
-Request for Engineer’s Instruction / Variation Order
+Delays Cause and Effect Testing and Commissioning due to Delayed Response to NOC Request to Create
+Opening within AMC Walls to Level L3.1 to install Fire Smoke Damper Actuators, FSD-CS-L3.1-017 and
+027 and Failure to Issue an Engineer’s Instruction to rectify damage caused by Other Contractor
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-Annex A records a combination of delays on the part of the Employer’s Personnel/Other Contractor and
-the requirement for additional work that requires a valid EI and VO in order for us to proceed.
+Annex A records delays to the cause and effect testing and commissioning due the delayed receipt of an
+NOC approving the installation of two Fire Smoke Damper Actuators, to the Airport Management Centre
+(AMC) to L3.1, as well as delayed receipt of an instruction to rectify damage to power cables.
 Potential Impact
 Disruptions and delays on the part of others such as that outlined herein at this stage of the Project is
 increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+Ordinarily we would be requesting your prompt action, guidance, decision or further instruction as may
+be applicable to resolve the matters referenced herein in order to mitigate such delay and/or disruption
+to the Works. However, on the basis the NOC was issued, there is no action on your part.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 24 June 2019, we received an e-mail from a contractor to Etisalat, Comba-Telecom (ref: 1), informing
-us of a requirement to provide the following ‘logistical support’ in order for them to install three (3)
-antennas to the diffuser boxes to the main corridor areas to Level L2.0 to Pier 3 and Pier 4:
+On 30 June 2019, we wrote under letter ref: (1) requesting you to provide the necessary approvals /
+NOC to create an opening within existing [false] walls to the Airport Management Centre (AMC) to Level
+L3.1 to install two Fire Smoke Damper (FSD) Actuators, FSD-CS-L3.1-017 and FSD-CS-L3.1-027.
+Attached to our letter ref: (1) was a request for installation issued by way of No Objection Certificate
+(NOC) ref: No: N-441, two photographs (one for each FSD Actuator) plus a marked up IFC Drawing. We
+also identified that the ‘Duration’ of the noted installation Works was 10 days.
+You failed to reply. This caused us to forward our NOC request to the Employer by e-mail dated 8 July
+2019 [10:40am] (ref: 2) requesting “urgent approval” in order to proceed with the works.
+The Employer failed to reply also.
+We then e-mailed you on 21 July 2019 [at 3:44pm] (ref: 3) in which we notified you of the following:
+“We have not obtained attached NOC last 3 weeks and it is affecting directly Office C&E. Please provide
+advance NOC to start balance works asap.”
+The approved NOC was eventually received on 24 July 2019 attached to your Transmittal Advice No.
+MTC-CMA-TCA-0401-TML-06426, also dated 24 July 2019 (ref: 4) duly signed by the Employer’s Other
+Contractor, ARCO, as well as yourselves (AECOM) together with a series of four (4) comments; i.e.:
 1.
-Cutting to steel plates (50 x 50mm);
+“To coordinate with ARCO site Engineer”;
 2.
-Removal and subsequent replacement of mesh guards;
+“Opening to be done to allow T&C for fire alarm interface”;
 3.
-Access hatches to the diffusers need to be unlocked and kept open; and
+“Photos attached for the FSD behind wall base build by ARCO”; and
 4.
-Floor tiles adjacent to the diffuser panels need to be removed.
-Attached to their e-mail were two sketches identifying the location of affected diffusers (two located in
-Pier 3 and one in Pier 4), which according to Comba-Telecom represent the ‘RCP approved antenna
-locations’, plus two photographs; one of which is replicated in Figure 1 below:
+“TCA JV to be responsible for any damages.”
+We record that 24 July 2019 is 24 calendar days after our NOC request was initially issued, which at this
+late stage of the Project may have a consequential impact on our progress and delay us.
+We also take this opportunity in reminding you of another factor affecting completion of the cause and
+effect testing and commissioning and that is the rectification of the damage to the previously handed
+over fire and life safety services within the AMC Room to L3.1 caused by the Employer’s Other
 
-Figure 1
-This was later followed on 21 July 2019 by receipt of an e-mail from you at 4:13pm (ref: 2), in which you
-advise us of further ‘logistical support’ requirements and the need to provide Comba with ‘access and
-ceiling openings’ to Piers 1 and 2 in the manner reproduced in Table 1 below.
-Table 1
-Area Level Priority order Actions required from JV
-Logistics needed
-Pier 1 L3.0
-1
-Diffuser box opening is required at one location 3 holes on steel plate
-Pier 2 L2.0
-2
-GH 5, GH 12 & GH 14 : Lift lobby ceiling closure is pending
-Ceiling tiles are
-required at 3 locations
-L2.0 & L3.0
-2
-GH 11: temporary ceiling cuttings are required at lobby area
-4
-Ceiling cuttings
-L3.0
-2
-GH 18: Temporary ceiling cuttings are required in Lift lobby area 2
-Ceiling
-cuttings
-L2.0 & L3.0
-2
-GH 19: lift lobby access required
-Access card & work permission
-We replied on 22 July 2019 [1:00pm] (ref: 2) and on the basis the ‘logistical support’ is additional to our
-scope of Works, requested the provision of a formal instruction in order for us to proceed.
-Following a further round of e-mails, you advised us on 23 July 2019 (ref: 2) that the additional work was
-in our scope and referred us to Engineer’s Instruction (EI) No. 748; you further directed us to proceed
-with the works and the costs incurred in doing so “will be covered under that instruction”.
-For the reasons explained below, we disagree with your position.
-EI No. 748 was issued on 15 July 2018 via letter ref: (3) instructing us “to provide assistance to allow the
-Etisalat contractor to install additional antennas as per attached schedule”; namely the provision of:
-access openings to ceilings; access panels; riser openings and provision of mobile scaffold access towers;
-while the attached schedule indicates that such assistance was required to various levels to one (1)
-gatehouse to Pier 2, fifteen (15) gatehouses to Pier 3, and seven (7) gatehouses to Pier 4.
-The requirements reflected in the schedule attached to EI No. 748 are as follows:
-1.
-Total ceiling cuttings required :
-118 Nos.
-2.
-Number of riser openings required
-:
-39 Nos.
-We make the following comments:
-Firstly, despite EI No. 748 being issued in July 2018, giving the impression that the Etisalat contractor
-was due to commence its works within a reasonable time thereafter, it was not until almost one year
-later, on 22 May 2019, that Comba-Telecom raised a request for access (ref: 4). This was limited to
-requesting ceiling openings and riser shaft openings to Piers 3 and 4, and related to the following:
-1.
-Total ceiling cuttings required :
-207 Nos.
-2.
-Number of riser openings required
-:
-46 Nos.
-Not only was their access request issue late, but the number of ceiling cuttings and riser openings
-actually required are grossly in excess of that was promulgated at the time EI No. 748 was issued.
-Secondly, with the exception of the works required to Gatehouse 11 reflected in Table 1 above, the
-further ‘logistical support’ requirements listed in your e-mail dated 21 July 2019 (ref: 2), are not part of
-EI No. 748; despite your allegations that they are. Even if they were, which is denied, this does not
-detract from the fact that it took almost one year after EI No. 748 was raised, for Comba-Telecom to
-commence work. Hence, the additional time and cost impacts that have resulting therefrom cannot
-possibly be construed as forming part of the included circumstances per Clause 1.7.4 of SAA8.
-Moreover, given that our Works has advanced significantly since EI No. 748 was issued, we also put on
-record that the works to provide support to Comba-Telecom to Piers 1, 2, 3 and 4, will, at such a late
-stage of the Project, invariably result in consequential delay and disruption to our Works. This is
-notwithstanding the direct costs associated with the provision of access openings and mobile towers.
-
-Also, given that the ‘logistical support’ to be provided to Comba-Telecom is additional to our scope, then
-we remind you that SAA8 laid down strict guidelines to follow in the event that additional works are
-required, and will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require us
-to proceed. However, it appears that you have overlooked or ignored this.
-Very simply, the provisions of Clause 2.29 to Clause 2.31 of SAA8 [pertaining to Variations] states that
-we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It is
-your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
-the additional time and/or costs impacts have been agreed between us beforehand. Therefore, until
-such time as you take the action required of you in accordance with SAA8 Clause 2.29, then we are
-unable to proceed with undertaking the additional works noted above. We trust this is clear.
+Contractor, for which an Engineer’s Instruction is required and remains outstanding. Our earlier letters,
+including without limitation, letters dated 11 February 2018 and 12 March 2018 refers ref:
+MTB/TCA/AECOM/L/012420 and MTB/TCA/AECOM/L/012610 respectively; with the latter letter
+advising you that a formal Variation Order / Engineer’s Instruction shall be required for inter alia “reinstallation and re-testing and commissioning and for the certification process.” Moreover, despite a
+subsequent NOC request having been approved under your Transmittal Advice MTC-CMA-TCA-0401TML-05881, allowing the damaged circuits to be rectified, the effected works have still failed to be
+remedied. Our letter dated 3 June 2018 (MTB/TCA/AECOM/L/013095) noting “…NOC is approved
+subject to agreed changes been recorded on a revise drawings and share officially with TCAJV”.
+We therefore urge you to issue the necessary Variation Order / Engineer’s Instruction together with
+revised Drawings without further undue delay; albeit any potential delays arising from this particular
+issue will be assessed from the Effective Date contained in SAA8 (i.e. 4 September 2018) on the basis it
+cannot possibly be constructed as forming part of the ‘Excluded Circumstances’ referenced therein.
 Resultant Impact:
-The requirements to provide access and ceiling openings and other associated works to various levels of
-Piers 1 to 4 to facilitate the installation of additional antennas by Comba-Telecom at such a late stage of
-the project will as noted, cause significant delay and disruption to our works. This has the potential to
+As noted above, the openings in the walls to the AMC are required to install two Fire Smoke Damper
+(FSD) Actuators, necessary to allow testing and commissioning of the fire alarm interface. However, the
+resultant delay in approving our NOC Ref: N-441 has the potential to cause delay and disruption to our
+Works. Not only does this potentially delay cause and effect testing and commissioning but will
 invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
 potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-It is for this reason therefore that we issue this E-Notice requesting your prompt action, guidance,
-decision or further instruction as may be applicable to resolve the matters referenced herein in order to
-mitigate such delay and/or disruption to the Works. This includes without limitation:
-1.
-Issuing such Instruction as necessary for us to instigate the required changes into the Works.
-Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
 Yours faithfully,

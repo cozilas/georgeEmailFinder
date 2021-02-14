@@ -1,111 +1,82 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0108
-Engineer’s Late and Unreasonable Comments to RFI/0401/16986 for Access Ramps for BHS
-Rolling Shutter Doors: Request for Engineer’s Instruction / VO
+
+Subject Monthly Updated Programmes
+Dear Sir,
+We write to reiterate our ongoing concerns regarding the accuracy of the submitted Monthly Updated
+Programmes.
+The purpose of the Monthly Updated Programme, and as you are aware, is to provide a complete and
+accurate report of the Project's status, records and progress. Pursuant to Clause 16.3.2 "Such updated
+Programme shall be submitted with the Contractor's monthly progress report {clause 12.27} {Progress
+Report) and shall be at least as detailed as the initial Programme developed pursuant to clause 16.3.1
+and shall show actual start and finish dates for activities and the forecast start and finish dates for
+activities have not yet started or finished. The Employer, the Engineer and the Consultant shall be
+entitled to rely upon the Programme when planning their activities".
+We note that the Monthly Updated Programme for the month ending May 2019 evidenced no delays
+whatsoever to Milestone MS9C. We further note that to date, the Contractor's Management and
+Principals have repetitively committed, during the weekly Chairmans' Meetings and up until the last
+meeting dated 26 June 2019, that the project completion date remains 31 October 2019. The same
+was committed to in all weekly Risk Committee Meetings.
+Although the updated Programme is expected to be predicting an accurate completion date, we
+record that on 30 June 2019 the following dates for Milestone MS9C were issued via (1) in TIA No.1 for
+alleged delays post SAA8, and via (2) for the completion of the subsidence work:
+1. MS9C completing by 6 April 2020 (1).
+2. MS9C completing by 31 October 2020 (2).
+The updated Programme is therefore considered to be outdated and misleading to all Project Parties
+and Stakeholders. As reiterated earlier by the Engineer via the monthly responses to previous updated
+Programmes (refer to attached emails) the logic adopted in the Programme is also not accepted.
+Accordingly, the Contractor's failure to provide an updated Programme which is in compliance with
+the Contract requirements can result in preventing the Engineer from effectively assessing any
+submitted claims in a timely manner and in hindering the Employer, the Engineer and the Design
+Consultant on relying upon the Programme when planning their activities.
+We refer the Contractor to the NCR issued via (3) for the Progress Programme and Monthly Report
+submission delays and non-compliance with the Contractors' contractual obligations. This NCR shall
+remain open as it is still pending the Contractor's rectification and compliance, and shall be revisited
+by the Engineer based on the current development.
+Pursuant to Clause 16.3.3, the Contractor is urgently requested to submit a revised Programme
+
+complying with the requirements set out in Clause 16.3.1, not later than 7 days from the date of
+receipt of this letter.
+We hereby reserve the Employers' rights pursuant to Clause 10.3 of the Conditions of Contract for any
+delays and/or costs incurred as a result of the Contractor's delays and non-compliance .
+yours faithfully
+
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0113
+Engineer’s Response to RFI/0401/17064 – Re-introduction of Door No. L30-0672-01 – Request
+for Engineer’s Instruction (RFEI) / Variation Order (VO)
 Dear Sir
-
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
-may cause delay and/or disruption to the Works; hence we seek your swift resolution of the same.
-The Event(s):
-On 27 March 2019, we submitted RFI/0401/16986 (dated 25 March 2019), advising you of issues relating
-to the current design of the access ramps for the BHS roller shutter doors and requesting that you give
-consideration for changing the interlocking block paving to a concrete slab. Attached thereto was inter
-alia a sketch detail identifying both the existing ramp details and suggested ramp details, together with a
-single page summary explaining the purpose and intent of the suggested change. .
-In short, having discussed the matter with the rolling shutter and induction loop supplier, we were
-advised that the induction loop cables cannot physically be installed in a block pavement owing to the
-potential for settlement and it is normally the case that the induction loop is buried in concrete. In all,
-there are a 22 nos. of openings/fast-acting BHS shutters subject to the suggested change.
-However, despite us requesting that you respond to RFI/0401/16986 by 5 April 2019, you failed to do so
-until 17 calendar days later i.e. on 22 April 2019, in the manner shown in Table 1 below:
-Table 1
-Date Submitted RFI Ref: Rev
-Description of Contents Reply Req’d By Date
-Response
-Received
-Overdue By
-27-Mar-19
-RFI/0401/16986
-00
-Access Ramps for BHS rolling shutter doors-change of
-interlock pavement
-to concrete slab05-Apr-19
-22-Apr-19
-17 days
-Moreover, we further record that your response to RFI/0401/16986 not only contains comments that
-we consider to be unreasonable and misleading, but also endeavours to introduce surreptitious changes
-to the existing design and the scope of our Works. The information recorded in Table 2 below, records
-each of the various comments set out in your response to RFI/0401/16986, alongside which we have
-provided a response justifying why we believe those comments are unreasonable.
-Table 2
-Item Engineer’s Comments Contractor’s Response as Agreed
-1
-Contractor proposal to change the block pavement into concrete slab for access ramps is based
-on the contractor talking with their supplier without providing any evidence from the supplier
-confirming the cable's installation requirements and the embedment depth determined by the
-manufacturer. This comment is misleading. The type of induction loop required is clearly specified in
-Specification Section 083323 [Overhead Coiling Doors]. This was revised by the Employer’s Design
-Consultant for the fast acting shutters to utilize the high speed door manufacturer. All information from
-the manufacturer was provided in the related Material Submittal and on Shop Drawings. Any failure to
-provide proper design coordination for the specified products is the responsibility of the Engineer.
-2
-However, as discussed and agreed during 16 April 2019 site meeting with the contractor, the
-induction loop proper functionality should be maintained, the following options should be considered by
-the contractor in sequence of importance:
-The manufacturer’s requirements are clear. The current
-design for the pavement does not allow for the functionality of the loop to be maintained. This is the
-reason for raising the RFI.
-3
-1. Use block pavement with minimum tile thickness to comply with the performance
-requirements installed on top of concrete bedding which the loop will be embedded into it.
-This
-comment is inappropriate and is an attempt to implement design change through an RFI response. The
-Engineer is required to provide a clear functional design and issue any changes through an Instruction.
-4
-2. Extend the asphalt of the apron service road to cover the access ramps which the loop will be
-embedded into it.
-This comment is inappropriate and is an attempt to implement design change
-
-through an RFI response. The Engineer is required to provide a clear functional design and issue any
-changes through an Instruction.
-5
-3. Proceed with the contractor proposal to change the block pavement into Concrete pavement.
-However, when applying Concrete pavement, the following needs to be considered: - Concrete needs to
-have construction joints, preferable every Sm, but in case this does not suit the loop sensors, slightly
-different size can be accepted. - Drawing MTC-C-04-AS-_-L1-0-6-_-_-274 is included for joint type 4
-details. - Material and finishing need to be as per the attached MTA specifications.- Odd shaped This
-comment is inappropriate and is an attempt by the Engineer to implement design change through an RFI
-response. The Engineer is required to provide a clear functional design and issue any changes through
-an Instruction prior to the contractor proceeding further.
-The Contractor is raising the issue of an uncoordinated and improper design and is offering solutions.
-The solutions that the Engineer is now suggesting in its response will have time and cost impacts.
-It is for the reasons listed in Table 2 above, that we consider your comments to be misleading and
-unreasonable. Added to which, as indicated, your comments attempt to introduce changes to the
-existing IFC design which will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
-SAA8 laid down mandatory procedures to be followed if additional works are required, and you have
-failed to follow these; an EI and VO are needed for us to proceed with the aforementioned changes.
-We therefore take this opportunity in reminding you of the provisions of Clauses 2.29 to 2.31 of
-Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted above and will continue to proceed in
-accordance with the existing IFC design to the extent we are able to. We trust this is clear.
-Potential Impact:
-We note that the delayed response to RFI/0401/16986 coupled with your comments annotated therein
-requiring us to introduce fundamental changes to the design and scope of works associated with the fast
-acting shutters, particularly at such a late stage of the Project, is likely to delay the installation of the
-induction loops and delay Testing and Commissioning to all 22 openings/fast-acting shutters, and
-invariably impact on our ability to obtain the Building Completion Certificate (BCC).
-This is essential to achieving Milestone MS09B and may impact MS09C (Substantial Completion).
-Action Required:
-It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
-decision or further instruction as may be applicable to resolve the matters referenced herein in order to
-mitigate such delay and/or disruption to the Works. This includes for example:
-1.
-Issuing such Instruction as necessary for us to instigate the required changes into the Works.
-Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+Overview
+Your response to the RFI/0401/17064 detailed in Annex A represents a change in design and scope and
+requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 24 April 2019, we raised RFI/0401/17064 (dated 23 April 2019), requesting further clarification as to
+whether Door Ref: ‘L30-0672-01’ (Located in the Janitor’s Closet to the Public Male Toilets within Sector
+5.23 to Level L3.0, that had previously been omitted from our scope), was required or not.
+We requested a response to RFI/0401/17064 by 30 April 2019; however, you failed to reply for a further
+11 calendar days, i.e. on 11 May 2019. Added to which you advised that the door in question “still
+exists” but is not a TPS [Toilet Partition] door. Moreover, attached to your response was two (2)
+sketches enumerated as ‘ASK 4065 (RFI-17604)’ Sheet 1 of 2 and Sheet 2 of 2; which for all intents,
+consists of a marked up / clouded IFC Drawing plus a partial extract of a revised Door Schedule.
+On this basis, it is clear that the re-introduction of door ‘L30-0672-01’ represents a change. However,
+given that SAA8 laid down strict guidelines to follow if additional works are required and you appear to
+have ignored those obligations, then this change will warrant a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
+as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
+is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
+the additional time and/or costs impacts have been agreed between us beforehand.
+
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted herein. We trust this is clear.
 Yours faithfully,

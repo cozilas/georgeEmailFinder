@@ -1,92 +1,77 @@
 Dear Sir,
 
-The Contractor is in receipt of letter reference 1), which after careful consideration has not provided any
-evidence that the Contractor’s position with respect to the Architectural BoH and MEP scope of works
-within the Blue Line platform and associated equipment rooms of the Ras Bu Abboud station is in any
-way incorrect.
+Further to the e-mail correspondence of attachment 1) the Contractor hereby notes that the direction
+contained therein consists of preferential engineering on the part of the Engineer’s Assistant and / or
+the Employer which if instructed in accordance to Clause 13 of Volume 3 of the Contract will have
+substantial cost and time implications to the supply and execution of the special system works.
 
-The Engineer’s Assistant’s letter sets out in its first four numbered items its rebuttals to the Contractor’s
-points whereby the latter had demonstrated that it had obtained at various times confirmation that the
-Blue Line Works did not form part of its Contract. While the Contractor shall respond to these points one
-by one, the Contractor must question why, given the Engineer’s Assistant’s insistence that these works
-indeed form part of the Contract, the Engineer’s Assistant makes no reference to a Contract Document
-to demonstrate this alleged fact; it is clearly the Employer’s obligation to demonstrate that these works
-were contained within the Contract it has drafted and it has failed to do so.
+The Contractor refers to the Instruction of reference 1) “Engineer’s Instruction – Sub-Clause 13.7.1
+General Conditions of Contract in relation to VHTS Provisional Sums” which states that “the Engineer
+confirms that, for the work under the VHTS Subcontract, to the extent of any inconsistency between the
+Employer’s Requirements in the Main Contract and the Contractor’s Requirements in the VHTS
+Subcontract, the VHTS Subcontract Contractor’s Requirements shall prevail” [Emphasis Added].
 
-Now therefore, in connection with the subject letter, the Contractor responds as follows:
+In the context of the foregoing, the Contractor refers to Sub-Clause 4.8.2 of Volume 6 of the VHTS
+Subcontract enclosed herewith as attachment 2) for easy reference which states:
 
-The Contractor does not agree with the Engineer’s Assistant’s statement in Item no.1; in response to the
-first sentence, the Contractor notes that the RFI of reference 10) requested “confirmation of Qatar Rail’s
-Day 1 Operational and fit-out requirements” in relation to the Ras Bu Abboud station which consists of
-the entire fit-out requirement, namely that of architectural Back of House, MEP and Front of House
-works. In response to the second sentence, the Contractor hereby rejects the EA’s interpretation as to
-the relevance of the said RFI to the subject on the basis of both the Contractor’s interpretation of the
-term ‘fit-out’ above and the univocal intent conveyed by the Employer to the Contractor in directing the
-Contractor to deliver “the complete fit-out for the whole of the concourse level and Gold Line Platform
-Level” thereby clearly excluding Blue Line Platform fit-out works.
+“The unit controller is to include for the facility to interface with the station BACS system, enabling
+remote control and monitoring of the unit. The communication protocol and network connectivity is to
+be IP or as confirmed by the Contractor”
 
-The Contractor does not agree with the Engineer’s Assistant’s statement in Item no.2. The Contractor
-reiterates its position against item no.1 vis-a-vis the relevance of item 8 of reference 8) to this matter.
-Furthermore, the Engineer’s Assistant’s response ignores the unequivocal statement of reference 6)
-which clarifies for both Al Sadd (where the scope has been clearly defined from the beginning) and Ras
-Bu Abboud, not to fit-out the Blue Line platforms.
+Notwithstanding the foregoing subcontract provision, the Contractor notes that this very issue was also
+raised during the tender process between the Employer and the various tenderers on account of the
+VHTS Framework Agreement. For the avoidance of doubt, the Contractor encloses herewith as
+attachment 3) to this letter the Tender Bulletin No.20 with particular emphasis to the Tender
+Clarification RTC/123/0602 tabulated below for easy reference:
 
-The Engineer’s Assistant’s response to Item no.3 is incorrect: the Contractor wrote that it had received
-assurance from the Engineer’s Assistant on multiple occasions pursuant to the preceding two
-paragraphs, alluding therefore to references 5, 7 and 9. Furthermore, the referenced excerpt is out of
-context and clearly misleading: the last paragraph of letter reference 6) states: “Ras Bu Abboud: Fit-out
-double concourse throughout and slab over unused VT openings. Design but do not fit out Blue Line
-Platforms. All non-fit out situations will need to be cooled, ventilated and lit to basic NFPA escape
-criteria for evacuation (minimal occupancy).” Similarly to the Blue Line platform of Al Saad station, and
-pursuant to the Contract provisions and the Tender Clarification RTC/040/0856 the Contractor is indeed
-required to comply with the basic NFPA escape criteria:
-
-Clarification No. Reference:
+Tender Clarification Ref:
 Employer’s Response
 
-Tender Query issued by the Contractor: Contract Reference:
+Tender Clarification (as enquired by the VHTS Subcontractor)
 
-RTC/040/0856 Please update the description of Airport City North Station to reflect the new two
-platform arrangement and advise whether architectural finishing to the platform serving the Blue Line is
-to be provided as part of Design & Build Package 3
-Volume 5, Clause 2.2.1.1
-The Scope of
-Works for Airport City North Station Blue Line Platform will be the same as for Al Sadd C-Ring Station
-Blue Line Platform. Please refer to Volume 5, Section 2, Clause 2.2.8
+RTC/123/0602 Escalators: in point 4.7 the tender documents require the escalators and moving walks
+to be interfaced with the station BACS system. On the other hand, in point 4.8 the escalators and
+moving walks are required to have their own monitoring system. Can you please clarify? The Tendered
+shall comply with the tender specifications i.e. escalators shall be interfaced with BACS system and shall
+have independent monitoring system.
 
-Engineer’s Assistant’s response concerning Item no.4 is singularly disingenuous. The Engineer’s Assistant
-has relied upon an, admittedly poor, description contained within the grand summary description of
-cost saving initiatives set forth via letter reference 5). The Contractor concedes that the sentence “OTE
-Duct for Blue Line Transfer Platform” ought to omit the word ‘Transfer’ for clarity. However, the Blue
+To put things into perspective, the Engineer’s Assistant’s e-mail of attachment 1) directs the Contractor,
+and hence the VHTS Subcontractor, to adopt the exact contrary (in terms of the VHTS / BACS interface
+concept) when compared to what was envisaged during the Framework Agreement tender, on the basis
+of which the VHTS Subcontractor had submitted its commercial proposal to the Employer. For the sake
+of clarity, the conceptual technical principles underlying the commercial issues set out herein have been
+enclosed as attachments 5) and 6) to this letter.
 
-Line platform at Ras Bu Abboud is one that a Gold Line passenger might “transfer” to, the word being
-used as an adjective, the noun being “Platform”. The Engineer’s Assistant’s reading is contrived and
-ignores the fact that the area being referred to is stated to be a “platform” and therefore cannot be a
-reference to the transfer “level”.
+On the basis of the foregoing, the Contractor concludes that the directions contained within attachment
+1) and the discussions held in the technical workshops referred to therein consist of preferential
+engineering on the part of the Employer and / or the Engineer’s Assistant which are over and above the
+Contractor’s obligations under the Contract and which if implemented would give rise to additional cost
+and time implications as follows:
 
-In summary, the foregoing paragraphs amply demonstrate that the Engineer’s Assistant has not
-attempted to provide any valid contractual evidence that the contentious scope is included within the
-Contractor’s scope of Works, and has furthermore attempted to interpret the evidence provided by the
-Contractor in a tortuous manner which does not stand up to scrutiny.
+1.
+Additional VHTS hardware costs. Approximately 280 additional custom made KONE interface
+controllers (KIC’s) would be required over and above the 30 units envisaged by the Contract provided
+that one dedicated KIC Industrial PC would be required per VHTS unit. The VHTS Subcontractor has
+verbally confirmed to the Contractor that the cost associated with each KIC unit is circa EUR 6,000 and
+hence with a conservative QR/EUR exchange rate that would translate in an overall cost to the Employer
+in the range of QR 7 Million.
 
-With respect to the five (5) items in the second part of its letter reference 1), the Contractor
-understands these to represent an attempt by the Engineer’s Assistant to demonstrate that the
-Contractor was somehow aware of what currently seems to be the Employer’s intent, namely that the
-Contractor should proceed with the execution of the said works.
+2.
+Additional costs on account of software integration requirements and OPC licenses that would
+be required from the BACS Subcontractor. The latter has verbally confirmed to the Contractor that each
+OPC license and associated software integration would cost USD 5,000 per VHTS unit, that is, yet
+another additional cost element to the Employer in the range of QR 5 Million.
 
-The Contractor shall not provide itemized responses to counter what is plainly incorrect. None of the
-items referenced in the second part of this letter can be used to derive such inferences: all documents
-referenced by the Engineer’s Assistant are speculative and/or investigative reports based on
-assumptions, as clearly stated even within the excerpts quoted, and none are an instruction to execute
-the construction works. The party to execute the fit-out works is not identified, nor would a technical
-note prepared by the designer be a reasonable indication of who that party might be. The Contractor
-reiterates its statement that “it may be the Employer’s intent to instruct these works to the Contractor”
-and in the absence of any evidence to the contrary the Contractor does not consider that these works
-are included in the Gold Line Package.
+3.
+Additional procurement, design and engineering resources by the Contractor and both special
+system Subcontractors. The Contractor encloses via attachment 4) the letter reference M006-KQA-PMTLTR-00022 that was received by the VHTS Subcontractor on 11 May 2017 on the subject detailing the
+bespoke engineering work associated with such preferential engineering.
 
-In conclusion, and whilst noting that it is currently progressing with part of these works in good faith,
-the Contractor nevertheless requires an instruction pursuant to Clause 13 of Volume 3 of the Contract to
-continue with these works within seven days of receipt of this letter, failing which these works will be
-stopped.
+Whilst noting once again that the VHTS/BACS interface proposal of attachments 1) and 5) consists of
+additional work under the Contract valued in excess of QR 10 Million, the Contractor submits that unless
+it receives an instruction pursuant to Clause 13 of Volume 3 of the Contract [Variations and
+Adjustments] it will proceed with its interfacing obligations on the basis of the VHTS / BACS interface
+concept of attachment 6) which is fully compliant with both the Employer’s Requirements and the
+Framework Agreement tender documentation in all material respects.
 
 Yours faithfully,

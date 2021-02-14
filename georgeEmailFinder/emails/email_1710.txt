@@ -1,77 +1,41 @@
+
 Dear Sir,
 
-Further to the e-mail correspondence of attachment 1) the Contractor hereby notes that the direction
-contained therein consists of preferential engineering on the part of the Engineer’s Assistant and / or
-the Employer which if instructed in accordance to Clause 13 of Volume 3 of the Contract will have
-substantial cost and time implications to the supply and execution of the special system works.
+This is a direction under Sub-Clause 13.2.1for the Contractor to submit a quotation for the Variation
+proposed by the Engineer.
 
-The Contractor refers to the Instruction of reference 1) “Engineer’s Instruction – Sub-Clause 13.7.1
-General Conditions of Contract in relation to VHTS Provisional Sums” which states that “the Engineer
-confirms that, for the work under the VHTS Subcontract, to the extent of any inconsistency between the
-Employer’s Requirements in the Main Contract and the Contractor’s Requirements in the VHTS
-Subcontract, the VHTS Subcontract Contractor’s Requirements shall prevail” [Emphasis Added].
+The Variation as proposed is presented in the enclosed presentation. This represents the current
+scheme that has beenjointly discussed and agreed with the Contractor .
 
-In the context of the foregoing, the Contractor refers to Sub-Clause 4.8.2 of Volume 6 of the VHTS
-Subcontract enclosed herewith as attachment 2) for easy reference which states:
+The following is a non-exhaustive list of requirements:
+The Emergency Escape Stairwell including the Fireman's Lift Pop Up from Al Sadd Street is to be moved
+towards the Entrance Shelter No.1a nd if possible merged with the Entrance Shelter itself.
 
-“The unit controller is to include for the facility to interface with the station BACS system, enabling
-remote control and monitoring of the unit. The communication protocol and network connectivity is to
-be IP or as confirmed by the Contractor”
+Provide an additional 3m wide fire- protected escape tunnel to run alongside the station box to be
+connected to the relocated Emergency Escape Sta irwell and Fireman's Lift Pop Up as above.
 
-Notwithstanding the foregoing subcontract provision, the Contractor notes that this very issue was also
-raised during the tender process between the Employer and the various tenderers on account of the
-VHTS Framework Agreement. For the avoidance of doubt, the Contractor encloses herewith as
-attachment 3) to this letter the Tender Bulletin No.20 with particular emphasis to the Tender
-Clarification RTC/123/0602 tabulated below for easy reference:
+The height and spacing of the remaining ventilation shafts along Al Sadd street is to be optimised in
+order to minimize visual impact on the surrounding environment.
 
-Tender Clarification Ref:
-Employer’s Response
+The final location of the aforementioned structures is to be also optimised so as to minimise impact on
+underground utilities.
+Dear Sir,
+This is an instruction under Sub-Clause 13.1.1to initiate a variation. The nature and extent of the
+variation is provided below:
 
-Tender Clarification (as enquired by the VHTS Subcontractor)
+The Variation as proposed is presented in the enclosed presentation. This represents the current
+scheme that has been jointly discussed and agreed with the Contractor.
+The following is a non-exhaustive list of requirements:
 
-RTC/123/0602 Escalators: in point 4.7 the tender documents require the escalators and moving walks
-to be interfaced with the station BACS system. On the other hand, in point 4.8 the escalators and
-moving walks are required to have their own monitoring system. Can you please clarify? The Tendered
-shall comply with the tender specifications i.e. escalators shall be interfaced with BACS system and shall
-have independent monitoring system.
+The Emergency Escape Stairwell including the Fireman's Lift Pop Up from Al Sadd Street is to be moved
+towards the Entrance Shelter No.1and if possible merged with the Entrance Shelter itself.
+Provide an additional 3m wide fire-protected escape tunnel to run alongside the station box to be
+connected to the relocated Emergency Escape Stairwell and Fireman's Lift Pop Up as above.
+The height and spacing of the remaining ventilation shafts along Al Sadd Street Is to be optimized in
+order to minimize visual impact on the surrounding environment.
 
-To put things into perspective, the Engineer’s Assistant’s e-mail of attachment 1) directs the Contractor,
-and hence the VHTS Subcontractor, to adopt the exact contrary (in terms of the VHTS / BACS interface
-concept) when compared to what was envisaged during the Framework Agreement tender, on the basis
-of which the VHTS Subcontractor had submitted its commercial proposal to the Employer. For the sake
-of clarity, the conceptual technical principles underlying the commercial issues set out herein have been
-enclosed as attachments 5) and 6) to this letter.
-
-On the basis of the foregoing, the Contractor concludes that the directions contained within attachment
-1) and the discussions held in the technical workshops referred to therein consist of preferential
-engineering on the part of the Employer and / or the Engineer’s Assistant which are over and above the
-Contractor’s obligations under the Contract and which if implemented would give rise to additional cost
-and time implications as follows:
-
-1.
-Additional VHTS hardware costs. Approximately 280 additional custom made KONE interface
-controllers (KIC’s) would be required over and above the 30 units envisaged by the Contract provided
-that one dedicated KIC Industrial PC would be required per VHTS unit. The VHTS Subcontractor has
-verbally confirmed to the Contractor that the cost associated with each KIC unit is circa EUR 6,000 and
-hence with a conservative QR/EUR exchange rate that would translate in an overall cost to the Employer
-in the range of QR 7 Million.
-
-2.
-Additional costs on account of software integration requirements and OPC licenses that would
-be required from the BACS Subcontractor. The latter has verbally confirmed to the Contractor that each
-OPC license and associated software integration would cost USD 5,000 per VHTS unit, that is, yet
-another additional cost element to the Employer in the range of QR 5 Million.
-
-3.
-Additional procurement, design and engineering resources by the Contractor and both special
-system Subcontractors. The Contractor encloses via attachment 4) the letter reference M006-KQA-PMTLTR-00022 that was received by the VHTS Subcontractor on 11 May 2017 on the subject detailing the
-bespoke engineering work associated with such preferential engineering.
-
-Whilst noting once again that the VHTS/BACS interface proposal of attachments 1) and 5) consists of
-additional work under the Contract valued in excess of QR 10 Million, the Contractor submits that unless
-it receives an instruction pursuant to Clause 13 of Volume 3 of the Contract [Variations and
-Adjustments] it will proceed with its interfacing obligations on the basis of the VHTS / BACS interface
-concept of attachment 6) which is fully compliant with both the Employer’s Requirements and the
-Framework Agreement tender documentation in all material respects.
-
+The final location of the aforementioned structures is to be also optimized so as to minimize impact on
+underground utilities.
+The present Instruction is not canceling the Contractor's obligation to submit the correspondi ng
+quotation as requested in the Engineer's Direction referenced above.
 Yours faithfully,

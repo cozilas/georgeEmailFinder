@@ -1,78 +1,44 @@
-2) Engineer’s Letter – M006-QRC-EMT-IST-00082 dated 2 February 2016
 
 Dear Sir,
 
-Further to the Engineer’s Instruction reference 2) issued pursuant to General Condition (“GC”) 13.1.1 of
-Volume 3 of the Contract, the Contractor encloses herewith full particulars of the change in quantities
-and direct costs in relation to the varied requirements to OTE and UPE openings in accordance with its
-GC 13.2.2 obligations.
+We refer to the Engineer's Assistant's response to M006-GDB-ARC-RFl -00052 - Lifts at Entrances, which
+states:
 
-The additional cost has been evaluated at QAR 579,982.05. Full particulars are provided in Appendix 1.
+"In accordance with ER Vol.6 Section 11.4.5.23.1, Minimum 2 no.of lifts are acquired per station
+entrance for each station to satisfy the Employer's Requirements for access for all the station during
+operation hours and 24\7 access for all pedestrian underpass."
 
-Over-Track Exhaust (OTE) and Under-Platform Extract (UPE) Opening Sizes
+Please note that the above-mentioned clause does not exist; however,we believe that the Engineer's
+Assistant is referring to ER Volume 6, 11.4.6.23.a) which states "The design will provide for heavy duty
+transit lifts for 24-hour a day use in transportation terminals..."
 
-QAR
+Additionally, ER Volume 6, 11.4.4.4.4.a) states "...Each entrance shall optimally have at least one
+escalator, lift and stair..."
 
-OTE amendment
+ABM1 shows a single lift at entrances, and we have been directed by Qatar Railto follow ABM1 at the
+Design Escalation Meeting of 28/01/15.
 
-232,527.68
+Our assumption is that only a single lift is needed at each entrance in order to comply with the above
+requirements. If that single lift is non-operational (for example, during lift failure), then PRMs,
+(passengers with reduced mobility), may still enter/ex it the system by using the lift at another
+alternative entrance, and if required, the subway is still accessible from within the station.
 
-UPE amendment
+Lift maintenance can be outside operational hours, noting that operational hours of the stations are not
+24 hours.
 
-20,507.90
+If the subway is being used solely for crossing the street, then in the event that the station only has two
+entrances and one of the lifts is non-operational, PRMs still have the possibility of crossing the road at
+grade, (and in fact that many PRMs not using the metro would prefer to do this based upon travel time
+waiting for lifts down and back up again). Note that the term PRM encompasses many disabilities
 
-Design Cost
+including visual or aural impairment, elderly, those on crutches, etc. and not all are wheelchair users,
+nor will all prefer to use lifts.
 
-326,946.47
+Finally, our view is that the 24 hour operation mentioned above relates to the lift motor specification,
+rather than lift operating 24 hours per day.
 
-Grand Total
-
-579,982.05
-
-The Contractor reserves its rights to recover any time related costs in connection to this Variation which
-shall be addressed under a separate cover.
-Dear Sir,
-
-With reference to the above letter, please find the attached amended assessment of EI “Over-Track
-Exhaust (OTE) and Under-Platform Extract (UPE) Opening Sizes”.
-
-The amended cost has been evaluated at QAR 767,151.37. Full particulars are provided in Appendix 1.
-
-Over-Track Exhaust (OTE) and Under-Platform Extract (UPE) Opening Sizes
-OTE amendment
-
-419,697.00
-
-UPE amendment
-
-20,507.90
-
-Design Cost
-
-326,946.47
-
-Grand Total
-
-767,151.37
-
-QAR
-
-The Contractor reserves its rights to recover any time related costs in connection to this Variation which
-shall be addressed under a separate cover.
-Dear Sir,
-
-The Consultant is hereby instructed to proceed with the implementation of the Engineer's Instruction
-(E.1.) no.115 regarding changes in the design of the civil provisions for the Over-Track Exhaust (OTE) and
-Under- Platform Extract (UPE) opening sizes as detailed in the enclosed Engineer's letter reference 1).
-
-The Client confirms that this instruction is given pursuant to Sub-Clause 4.4 [Variations] of the
-Agreement. Accordingly, the Consultant is requested to submit a proposal for this variation pursuant to
-Sub-Clause 4.4.2. Upon receipt thereof, the Client shall make a fair adjustment to the Agreed Compensat
-ion in accordance with Sub-Clause 4.4.1.
-
-For the avoidance of doubt, the Consultant is reminded of its obligations under Sub-Clauses 4.4.4 - 4.4.7
-of the Agreement and is hereby informed that the urgent incorporat ion of these instructions to the
-design is of vital importance for the timely completion of the Works.
+You are kindly requested to issue the necessary instruction for the provision of two lifts per station
+entrance for each station.
 
 We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

@@ -1,32 +1,20 @@
+Dear Sir,
+This is an instruction under Sub-Clause 3.3.1 relating to the construction of 1:1 mock-ups.
 
-Dear Sir,
+The Engineer instructs the Contractor to construct a 1:1 mock-up in accordance with the stage 4
+requirements as detailed in the attached memo (Ref: MOOO-QRC-PMT- IOM-00018), not ing that:
 
-Further to the receipt of letter reference 2) and the memo reference M000-QRC-MEP-IOM-00068
-referenced therein, the Contractor notes that he has not been instructed by the Engineer to implement
-the memo nor has it been provided otherwise by the Engineer’s Assistant. The Contractor is therefore
-unaware of any contractual obligation to adhere to aforementioned memo and thus cannot confirm its
-agreement with the same.
+a)
+for the elevated and at-grades packages (RLN EAG; Green EAG and RLS EAG), one mock-up will
+be produced by the 3 elevated and at-grade contractors in co-ordination with, and as directed by, the
+Project Director for these contracts; and
 
-The Systems Contractor has provided revised ICD of reference M010-MSI-INM-13-ICD-10357 Draft rev.
-1.4 vide letter reference 2) which incorporates the changes issue of aforementioned memo. Without
-any admission as to the Contractor’s obligation to adhere to aforementioned memo, the Contractor has
-reviewed the changes proposed by the Systems Contractor in ICD reference M010-MSI-INM-13-ICD10357 Draft rev. 1.4 and encloses its comments thereto in attachment 1) to this letter.
+b)
+for each of the underground packages (RLN UG; RLS UG; Green UG; Gold and Major Stations)
+each Contractor will construct his own mock-up, in co-ordination with the Project Director for each
+contract.
 
-In line with the current progress of the BACS Subcontractor it is critical that no late changes to the BACS
-design are imposed through the interface process. The Contractor therefore kindly requests the Systems
-Contractor to implement the Contractor’s comments enclosed in attachment 1) into the ICD reference
-M010-MSI-INM-13-ICD-10357 Draft rev. 1.4.
-
-Furthermore the Contractor notes that the full particulars regarding the M006 physical and systems
-(diagnostic) I/O lists, which the Systems Contractor requested under reference 2) have been provided to
-the Systems Contractor on 12 June 2017, as per reference 1) and the signed receipt enclosed in
-attachment 2) to this letter.
-
-Finally the Contractor notes that based on the information provided under reference 1) it is now the
-Systems Contractor’s obligation to prepare the respective M006 interface I/O list and incorporate these
-references into appendix B to ICD ref. M010-MSI-INM-13-ICD-10357 Draft rev. 1.4. The Systems
-Contractor is kindly requested to provide these I/O interface points’ documents, including interface info
-with respect to IEC-60870-5-104 points addresses, within 28 days as any further delay will impact the
-BACS Subcontractor’s execution program.
+The Contractor is to proceed with the works immediately and provide the required mock-ups by the
+dates stated in the attached memo.
 
 Yours faithfully,

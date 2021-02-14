@@ -1,93 +1,185 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0149
-Late / Unreasonable Response to Material Submittal MS/0401/A/1752 Rev. 00 – Supplementary Signage
-– Request for Engineer’s Instruction and Variation Order
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0145
+Revised Rev. 01 Response to RFI/0401/17227 – Requirement for New Smoke Curtains to Lift
+Lobby to Level L.01 at Pier 2 and Pier 3 – Request for EI / VO
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concerns delays to the Works due to the Engineer provided response
-to MS/0401/A/1752 Rev. 00 associated with a request to determine the location of the signage.
+Your revised Rev. 01 response to RFI/0401/17227 detailed in Annex A represents a change in design and
+scope and requires a valid EI and VO in order for us to integrate the same into the Works.
 Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
+Any requirement for additional works at this stage of the Project, such as that outlined herein, is likely to
+impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 6 May 2019, we submitted Material Submittal No. MS/0401/A/1752 Rev.00, together with Technical
-Data Sheets, Technical Compliance Sheets, Brochure, Photos and samples etc., in support of the 3M
-Vinyl Self Adhesive Stickers i.e. Statutory BOH Signage, affixed to inter alia doors and other surfaces;
-which you responded to on 18 June 2019 classified Status Code 2 in the manner shown in Table 1.
-Table 1
-Date submitted Submittal Ref Rev
-Description of Contents Response due per Section 013300
-Response Received
-Status Code
-Overdue By (Calendar Days)
-06-May-19
-MS/0401/A/1752
-00
-3M Vinyl Self Adhesive Stickers [i.e. Statutory BOH
-Signage]
-27-May-19
-18-Jun-19
-2
-22 days
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our Submittals. On the basis that Material Submittal No:
-MS/0401/A/1752 was at Rev. 00, then this ought to have been responded to within 21 calendar days.
-However, Table 1 shows that you exceeded this contractually based review period by 22 calendar days.
-Any delay in responding to our submittals at this stage of the project, is wholly unacceptable.
+During BCC inspections held on 28 March 2019 and 14 April 2019, the House of Expertise (HOE) /
+Authority Having Jurisdiction (AHJ) raised the following queries / observations regarding the smoke / fire
+compartmentation to the ‘Service List Lobby’ and ‘Freight Lift’ to Level L0.1 to Pier 1 and Pier 3:
+•
+“Service lift lobby 0214 was not smoke compartmented as shown in the fire compartmentation
+drawing.”
+•
+“E-cart stagging [sic] lift Freight lift in Level 0.1, 1.0, 2.0 3.0 and Pax lift in level 2.0 3.0 pier head
+area is not smoke compartmented.”
+We clarified to HOE/AHJ during the inspection, that the Design of the ‘Service Lift Lobbies’ at Pier 2 and
+3 to L0.1 detailed in the IFC Drawings (refer to Figure 1 and 2 below) upon which our approved Shop
+Drawings were based, did not provide for any such compartmentation. We further clarified that the
+Freight Lift doors are in fact fire rated as per the Design and approved Material Submittals.
+Figure 1 – Pier 3 Level L0.1 Sector 3.15
+Figure 2 – Pier 2 Level L0.1 Sector 2.14
+IFC ref: MTC A 02 TB L0.1 3.15 00.452 05
+IFC ref: MTC A 02 TB L0.1 2.14 00.446 06
+Subsequent to which, we raised RFI/0401/17227 Rev. 00 on 13 July 2019, entitled ‘E-cart Lift Lobby Fire
+Compartmentation Comment on BBC Inspection’ together with the following attachments:
+•
+An extract from ZUTEC summarising the purported design / non-compliance issues pertaining to
+HOE/AHJ’s comments (i.e. ‘snag’ ID 95147 and ID 100602 (refer to Figure 3 below); and
+•
+A copy of the approved Material Submittal MS/401/LET/0040-02 dated 23 March 2016, and
+accompanying Certificate of Compliance, confirming the fire rating of the Freight Lifts doors.
+Within RFI/0401/17227 Rev. 00 we wrote to advise you that: “… since the lift door is fire rated, lobby
+compartmentation is not required. Engineer is requested to confirm the same.”
+Figure 3 – Extract from ZUTEC (i.e. ‘snag’ ID 95147 and ID 100602)
+Attached to RFI/0401/17227 Rev. 00
+We requested a response to RFI/0401/17227 Rev. 00 by 27 June 2019; however, you failed to reply until
+16 calendar days later on 13 July 2019. Nevertheless, the Employer’s Design Consultant (KPF) clarified
+that the HOE/AHJ’s comments were “meant to address the smoke compartmentation of the lobby, not
+fire compartmentation.” KPF further stated that “… the service lift lobby is not required to be smoke
+rated by code, however this is an ADAC/AHJ requirement. ADAC to advise”.
+For the avoidance of doubt, both the Employer’s Design Consultant’s comments and the Employer’s
+comments detailed in the response to RFI/0401/17227 Rev. 00 are reproduced in Figure 4 as follows:
+Figure 4
 
-We should also add that all our rights and entitlements to recover the associated additional time and
-costs resulting from the aforementioned act(s) of prevention on your part will apply irrespective of any
-alleged failure on our part [which is denied], to transmit any submittals to you in a timely manner.
-Notwithstanding, while accepting that Material Submittal No: MS/0401/A/1752 Rev. 00 was returned
-classified Status Code 2 ‘Exceptions as Noted’, and contained nine ‘General Comments’ and six ‘Detailed
-Comments’, one of these detailed comments includes inter alia the following statement: “Contractor to
-provide extracted door schedule and drawing elevation where these stickers will be located.”
-While accepting that under the provisions of Specification Section 101400 ‘Signage’, we are ‘responsible
-for the design of all signage products … to satisfy aesthetic effects and performance requirements in
-accordance with the Contract Documents,’ and that we are ‘responsible for developing and completing
-the design [of the signage] in accordance with the Contract Documents, and shall provide all items
-required for proper completion of the Works …’ we are not responsible for determining the location of
-the specified signage; and are certainly not under any obligation whatsoever to “provide extracted door
-schedule and drawing elevation where these stickers will be located.” This comment seem to suggest
-this is a simple matter and that there is a ‘one size fits all solution’. This is not the case at all. While we
-further acknowledge we have been provided a Signage Manual, this provides general information only
-relating to the signage such as ‘layout design principles’; it does not provide any detailed information
-such as properly coordinated fully complete IFC Drawings showing the precise location for each sign
-throughout the entire MTB. This is the responsibility of the Employer’s Design Consultant, not us.
-How can we be expected to complete the signage ‘in accordance with the Contract Documents’ if the
-Contract Documents [read IFC Drawings] do not indicate the precise location of each sign? It is not it is
-not up to us to second guess or otherwise estimate where the BOH Statutory Signage is to be located,
-which is what the foregoing statement seems to suggest. We also remind you that it is the Employer’s
-Design Consultant’s responsibility to issue us a complete finalised Door Schedule which he has yet to do.
-We therefore require properly coordinated fully complete IFC Drawings showing the precise location for
-each sign throughout the entire MTB, in order for us to complete our obligations under the Contract.
-This request is not new. On 5 May 2014 we raised RFI/0401/5079 advising you of the following in
-relation to the Statutory Signage: “There are no location plan drawings, details or spec for the Safety
-and Supplementary Signage which is mentioned in Signage Manual, Chapter 8. Please provide.”
-However your response to RFI/0401/5079 issued on 19 May 2014, advised us as follows:
-“Safety and & Supplementary signage is subject to actual fit out - incl. plant room configuration. Since
-much of the BoH spaces are defined by the actual machines (& selected technology), ducting' piping and
-(critically) the operational strategy, the statutory signage locations shall be determined when this fit out
-is confirmed.”
-Therefore, kindly liaise with the Employer’s Design Consultant as necessary to provide us with properly
-coordinated fully complete IFC Drawings as soon as possible showing the “statutory signage locations”
-together with an accompanying Engineer’s Instruction. Meanwhile, until such time as this is provided,
-we are prevented from installing the BOH Statutory Signage throughout the entire Terminal Building.
-Potential Impact:
-The late response to Material Submittal MS/0401/A/1752 Rev. 00 but predominantly, the unreasonable
-comment outlined above, expecting us, rather than the Employer’s Design Consultant to “provide [an]
-extracted door schedule and drawing elevation[s] where these stickers will be located”, will severely
-delay our ability to complete the BOH Signage for the Project. This has already started to impact on the
-Cause and Effect (C&E) inspection to Piers 1, 3 and 4 [evidenced from the attached e-mail from ProFire
-dated 11 July 2019 at 10:11 AM, ref: (2)]. If this continues, then this will affect our ability to complete
-testing and commissioning; and resultantly invariably impact upon our ability to achieve Milestone
-MS09B, and is also likely to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+However, on 30 July 2019, we received ‘additional clarification’ from you by way of a revised (Rev. 01)
+response to RFI/0401/17227, where both the Employer’s Design Consultant’s and the Employer’s
+comments had been revised. Notably, KPF’s comments which previously advised that “…the service lift
+lobby is not required to be smoke rated by code”, were deleted and similarly, ADAC’s comments that
+
+originally suggested that “… Contractor may amend the mistake by either construct the smoke
+compartmentation or install smoke curtain at the elevator door…” was replaced by with alternative
+wording that states: “Contractor to either construct the smoke compartmentation or install smoke
+curtain at the elevator door.” Both sets of revised comments are reproduced in Figure 5 below:
+Figure 5
+Notwithstanding that any questions as to the fire rating of the elevator door was now deemed to be
+“irrelevant”, we nevertheless confirm that we have fulfilled our contractual obligations in so far as both
+elevators and the areas which they are compartmented have been constructed in accordance with the
+Employer’s Design Consultant’s design; namely the IFC Drawings and Specifications and the fire rating
+requirements have been achieved. We further reiterate that the Lifts/Elevators have been approved as
+mentioned above by virtue of the Status Code 2 response to MS/401/LET/0040 Rev. 02.
+As regards the smoke compartmentation of the Lift Lobbies, we also confirm that these have been
+constructed in accordance with approved Shop Drawings which have been based on IFC Drawings
+prepared by the Employer’s Design Consultants and issued by you (refer to Figure 6 for example).
+Figure 6 – Pier 3 Level 0.1 Sector 3.15
+Shop Drawing No: 401-JV-A-05-01-3.13D-BK-SD-001
+However, it is patently clear from the revised response to RFI/0401/17227, that you / the Employer’s
+Design Consultant / Employer are urging us to provide a new smoke curtain at the elevator door, and as
+such, this represents an attempt to introduce change to the existing design and scope of Works.
+What is particularly disconcerting, is we are expected to accommodate such a change and at such a late
+stage at the Project, but with “no additional time / cost”. This is unacceptable.
+We are not the designers for this Project, the Employer’s Design Consultant is. Consequently, we accept
+no liability or responsibility for any inconsistencies in the Design [which clearly this is, given that the
+HOE/AHJ’s have identified it as such]; this remains with the Employer’s Design Consultant. Our
+responsibility is to follow with due diligence the IFC Drawings and Specifications, and it is our position
+that we have discharged, and continue to discharge, this obligation with the necessary expertise, care
+and skill that could reasonably be expected from an experienced contractor.
+In any event, taking into consideration the HOE/AHJ comments stating the ‘Service Lift Lobby’ is not
+smoke compartmented, we note that even if a smoke curtain is installed at the elevator door as per the
+revised RFI/0401/17227 response, then the smoke compartmentation of the ‘Service Lift Lobby’ will not
+be fit for purpose, since the opening towards the corridor remains (Figure 7 refers).
+Figure 7
+It was for this reason, that a series of workshop meeting and discussions took place involving us, you
+and KPF and ADAC between 28 July 2019 and 10 September 2019 in order to resolve the ambiguity in
+the design and “to agree on a technical solution for the provision of [smoke] curtain” requested by AHJ
+/ HOE and the fact the “issued IFC did not include any smoke curtain … at those locations.”
+Moreover, according to both the original and revised response to RFI/0401/17227 the Employer gave us
+an option to either construct smoke compartmentation or install a smoke curtain. However, in its e-mail
+dated 28 July 2019 [3:54 PM], the Employer’s Design Consultant (KPF) made it abundantly clear that
+“after discussing with ADAC-AHJ … [a] … Fire Curtain is required.”
+In other words any earlier
+requirement for smoke compartmentation fell away, and a smoke curtain was insisted upon.
+This e-mail is also significant in so far as it records that “the Fire [smoke] curtain is clashing with MEP
+services with no back up information” and requested our assistance with resolving the same.
+
+The ensuing discussions included an e-mail dated 2 September 2019 [1:31 PM] from you in which with
+reference to a meeting between the HOJ / ARUP on that same date, it was confirmed that the smoke
+curtain was only required to L0.1, and you directed us to provide “the technical proposal for the
+provision of smoke curtain … in order to present it to the design consultant for their review …”
+We complied, and on 5 September 2019 [5:56 PM] advised you of the following:
+“The size of smoke curtain will be app 3000 mm width x 2700 mm height as per site condition at both
+Pier 2 and 3 Level 0.1.
+The requirements for smoke curtains are one group control panel and 50Hz, 230V, 13Amps, 0.75KW and
+Voltage free NC fire alarm signal and BMS interface. Circuiting information should be provided by design
+consultant. Secondary Steel Structure will be provided for smoke curtain and gypsum board wall above.
+Existing Crush barriers will be modified as per final curtain location.”
+The discussions culminated in receipt of two further e-mails from KPF on 9 and 10 September 2019 [5:44
+PM / 1:49 PM], in which we were informed that the proposed smoke curtain, approximate size of
+3,000mm wide x 2,700mm high, should “fully cover the opening to avoid smoke leaking through the
+sides”; while in relation to the circuiting information, we were told the “Contractor shall provide a new
+circuit for the smoke curtain from the nearest EM-RP panel fed from a 20A 30mA RCBO. The feeder
+cable size shall not be less than 2.5mm2 and shall be sized to compensate for voltage drop.”
+Given that the foregoing represents a significant variation to our Works, and in order to seek final
+confirmation from you, we then raised RFI/0401/17460 Rev. 00 on 15 September 2019, advising you of
+the following:
+“… according to IFC drawing MTC-G-04-TB-L0.1-3.51-00.320 [and] MTC-G-04-TBL0.1-2.51-00.318, only
+smoke partition required at marked location but in RFI reply 17227, JV was asked to provide smoke
+curtain subject to AHJ's comments. We kindly request you to send an El and update the architectural
+and electrical IFCs for required smoke curtains.
+Referring the attached e-mails … please be informed that there will be a modification at crush barriers,
+gypsum wall will be added, to provide the gypsum wall steel structure required.
+As noted, attached to RFI/0401/17227 Rev. 00 were:
+1.
+Copies of the various e-mails exchanged between us, you and KPF and ADAC in the period from
+28 July 2019 and 10 September 2019, including those cited above; and
+2.
+Two marked up extracts of IFC Drawing MTC-G-04-TB-L0.1-3.51-00.320 and MTC-G-04-TBL0.12.51-00.318, showing the location of the two new smoke curtains (refer to Figure 8 and 9).
+
+Figure 8 – Pier 3 Level L0.1 Sector 3.15
+MTC-G-04-TB-L0.1-3.51-00.320
+
+Figure 9 – Pier 2 Level L0.1 Sector 2.14
+MTC-G-04-TBL0.1-2.51-00.318
+
+We requested a response to RFI/0401/17460 on 21 September 2019; however, you failed to respond
+until 9 October 2019 but nevertheless were requested therein by the Employer’s Design Consultant to
+“provide a coordinated proposal to satisfy IFC and AHJ requirements”. Given the content of its e-mail
+dated 28 July 2019 [3:54 PM], cited above in which the Employer’s Design Consultant (KPF) made
+expressly said that “after discussing with ADAC-AHJ … [a] … Fire Curtain is required” ADAC-AHJ … [a] …
+Fire Curtain is required” then any purported failure on our part to adhere to the original IFC
+requirements [in terms of the G-series IFC Drawings], were for all intents superseded by not only the
+AHJ’s / KPF’s instance to have a fire curtain [in lieu of the smoke compartmentation] but also the
+significant amount of design development culminating in the additional electrical requirements that are
+both described above and subsequently confirmed within the response to RFI/0401/17460.
+
+In summary therefore, we write to inform you that the installation of two additional smoke curtains to
+the locations indicated and in accordance with the scope and design requested / acknowledged by you,
+will, when properly instructed, will result in substantial changes to our original scope of Works. Such
+changes will include inter alia the following, involving coordination of numerous subcontractors:
+•
+Installation of smoke curtains and associated systems;
+•
+Electromechanical installations;
+•
+Modifications to crush barriers;
+•
+Installation of steel structure; and
+•
+Additional gypsum walls to be added.
+SAA8 laid down mandatory procedures to be followed if additional works are required, and you have
+failed to follow these; an EI and VO are needed for us to proceed with the aforementioned changes.
+We therefore, take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

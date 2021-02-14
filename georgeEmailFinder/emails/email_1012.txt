@@ -1,73 +1,32 @@
-Subject :
 
-Re: Cloisall Disruption Claim – Gatehouses
-
+Subject: Delay Notice No. 1031 - Settlement of Manholes and Pipelines along the
 Dear Sir,
-We refer to your ‘Consolidated Extension of Time, Prolongation Cost & Disruption Cost Submission’
-made via letter reference CLO/0401/MTB-CEILING/CONT/11377/17 dated 08 October 2017 and in
-particular to your claim for ‘Gatehouses Disruption Cost’ in the amount of AED 4,016,144.
-The claim comprises six elements, the largest of which (AED 3,397,251) relates to additional cost of
-labour, supervision and scaffold deployed in the cladding works to 19Nr Type E Gatehouses. In this
-regard you say that if the works had not been disrupted, then you would have completed 19Nr Type E
-Gatehouses in 19 months by deploying 24.292 Nr men at a production rate of 3m2/man/work day. You
-then say that you did (or would) take 45 Nr men to complete the same work in the same period of 19
-months such that production per man per work day did (or would) fall from 3.00 to 1.62m2 and cause
-you to incur additional cost. Moreover, the increase in the number of men deployed (from 24.292 Nr. to
-45 Nr.) necessitated an increase in supervision (Supervisors and Foreman). You also claim for Scaffold
-over the 19 month period and apply an uplift of 2% to the Cost of Labour, Supervision and Scaffold for
-‘Other’ items (Surveying, Logistics, Stores, QAQC and HS).
-Notwithstanding the many other deficiencies of your claim, your valuation is entirely theoretical (based
-on the unsubstantiated but consistent deployment of 45 Nr. men and related supervision over an
-unidentified period of 19 months) and as such is rejected. Indeed, only additional Cost actually incurred
-and arising solely from disruption events for which we are culpable will be considered; and only then if
-you have complied with all of your related contractual obligations (including the timely notification and
-valuation of all of the alleged disruption events and the implementation of mitigation measures).
+Perimeter of the Main Terminal Building- Unforeseeable Physical Conditions
+The Contractor writes with reference to the Geotechnical Report undertaken by Robert Bird, in relation
+to
+the settlement of the manholes and pipelines, issued under letter ref: (6) following receipt of the NCRs
+(1),
+(2) and {4), as well as refers to the Contractor's previous letter ref: {3) and Engineer's letter ref: {5).
+The content of the Geotechnical Report is self-explanatory. As previously advised under letter ref: {6), it
+is
+evidently clear that the settlement of the manholes and pipes is not attributable to the Contractor, with
+the Geotechnical Report stating conclusively that inter alia " ... a review of the project specification
+requirements, testing of backfill material, RFI documents and field testing records concluded that TCA JV
+has met the requirements as set out by the project and agreed with the client's representatives"
+The physical conditions that have contributed in causing settlement of the manholes and pipelines could
+not have reasonably been foreseen. Accordingly we hereby give the Engineer notice of the same
+pursuant
+to Clause 12.18.2 Conditions of Contract. It is also clear that whichever of the four strategies advised of
+in
+the Geotechnical Report are selected by the Engineer as being the adopted method for remedying the
+settled manholes and pipework, will impact upon the Contractor's ability to achieve Milestones MS09A1
+(Pier 2 Taking Over), MS09A2 (Pier 3 Taking Over), MS09A3 {Pier 1 Taking Over), and MS09A4 {Pier 4
+Taking Over), plus Milestones MS09B {Substantial Completion) and MS10 (Completion of NOTP).
 
-Indeed, a disruption claim is not merely a bundle of contemporary correspondence and photographs
-(much of which is not overtly linked to production) appended to a text of sweeping and largely
-unsupported statements asserting culpability. As noted in our rejection of your claim for Wall Cladding
-Disruption Cost, the following is required to asses any claim for disruption:
-(i)
-A ‘measured mile’ analysis supported by sufficiently detailed and objectively verifiable
-contemporary records.
-(ii)
-An ‘as planned & resourced schedule’ for the Gatehouse cladding works.
-(iii)
-A full breakdown of all BQ unit rates related to Gatehouse cladding works.
-(iv)
-The causal link between each of the alleged disruption events and Contractor culpability.
-(v)
-The causal link between each of the alleged disruption events and the effect(s) / cost(s) claimed.
-(vi)
-Contemporary records (capable of being objectively verified) of the work (location, quantities
-and times) impacted by each of the alleged disruption events, the name, designation and role of each
-person and the relevant particulars of all other resources included in the calculation of the additional
-Cost claimed.
-(vii)
-Actual Cost (not rates) of each resource, verified as applicable by Employment contract, salary
-slip, third party order, invoice and evidence of payment.
-(viii)
-Evidence of measures taken to mitigate the effects of each disrupting event.
-(ix)
-Abatement of actual Cost for:
-a.
-Subcontractor risk events e.g. errors in tender, quality and quantity of resources, supervision,
-availability of materials and equipment, weather, defective work etc.
-b.
-Duplication of resources (in particular Supervision, Foreman and Scaffold) included in your
-valuation of variations and other claims e.g. Prolongation Cost Claim.
-c.
-Items that you failed to timely notify and/or claim as variations e.g. instructed changes in the
-design and/or sequence and/or method of executing the works
-d.
-Items that you failed to timely notify and/or claim that have prejudiced any related entitlement
-we might otherwise have had to make a ‘back-to-back’ claim against the Employer or to levy a backcharge against a subcontractor.
-The other five elements of the claim are ‘spot’ type claims whereby as well as claiming AED 60,400 for
-additional drawing time, you claim AED 558,492 for additional resources (principally supervision and
-scaffold) that you allege it was necessary for you to deploy due to various events (e.g. incomplete work
-by MEP and Glazing Contractors, interruption of works due to installation of bumper guard, rectification
-of elevator shaft concrete works) that required you to re-visit and extend the duration of the cladding
-works on up to 20Nr. Gatehouses areas. Again your valuation is entirely theoretical and deficient of all of
-the above listed elements of a claim for disruption and as such is rejected.
-This is for your information and record.
+Therefore in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
+hereby
+notifies the Engineer of its entitlement to claim:
+(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(b) (iii); and
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Sub-Clause 12.18
+'Unforeseeable Physical Conditions'.
 Yours faithfully,

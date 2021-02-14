@@ -1,23 +1,53 @@
-Subject: Contractor’s Claims Notices
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0111 [post-SAA8]
+Engineer's Pending Confirmation for Outstanding Doors Issues
 Dear Sir,
-We write with reference to correspondence (1) regarding the Contractor's claims notices and we
-comment as follows:
-Despite the Contractor's assertion that they are "sufficiently aware of what the Contract says
-regarding the preparation and submission of Contractor's claims" we note that to date the Contractor
-has continuously disregarded the contractual requirements and have failed to adhere to their
-obligations.
-The Engineer has provided a no objection to the Contractor's Time Impact Analysis methodology in
-principle and based upon the comments provided in correspondence (4) be addressed by the
-Contractor. Specifically the Engineer's comments were:
-• This methodology may change for specific delay events.
-• A separate TIA is required for each delay event and a consolidated TIA for the combined effect
-of delays
-• Contractor to demonstrate that there was no Contractor concurrent delay
-• A mitigation plan is required as part of the TIA
-• No project data on Baseline is to be changed without approval from the Engineer
-The Contractor is well aware that consolidated TIAs are unacceptable as this has been communicated
-over the years. To this effect and for clarity purposes the Contractor is referred to the following
-correspondence:
-In light of the above the Engineer reiterates that non-compliance with the contractual requirements,
-prevents the Engineer from assessing the impact of the alleged delays.
+We write in connection with on-going issues regarding the doors (namely the various discrepancies in
+design documents issued by you concerning doors, door hardware and associated systems) and the
+numerous correspondences and Requests for Information (RFIs) issued and raised by us over recent
+months, including inter alia our letters and RFIs at ref: (1) to (4), and in particular our letter ref: (2).
+Specifically, via letter ref: (2) we submitted a comprehensive schedule of doors issues, incorporating all
+of the latest comments, documents etc. issued by you relating to a total of 383 nos. of doors which had
+not been resolved and remained outstanding. The purpose of doing so was that you were to review this
+schedule and use it as the basis to either: confirm, clarify or amend it as necessary, and then return it
+back to us [officially] so that it accurately reflected the Employer’s final requirements in relation to all
+383 nos. of doors; the design of which remained unclear and/or outstanding. However, despite this
+schedule having been issued to you circa five months ago, you have failed to reply.
+That said however, we acknowledge that since our letter ref: (2) and accompanying schedule was issued
+to you, numerous meetings and workshops have been held between us in an endeavour to resolve the
+remaining doors issues and finalize all outstanding matters raised in the letter. During these workshops
+we discussed what the final Employer’s requirements are regarding the doors and this revealed that the
+technical information/requirements to 152 out of the 383 nos. of doors had changed, compared to the
+information/requirements as per the schedule attached to letter ref: (2).
+Subsequently to the completion of these workshops, on 9 May 2019, we then raised RFI/0401/17005
+ref: (3) above, listing the 152 nos. of doors whose technical information/requirements had changed and
+requested that you: (1) confirm the contents of and attachments to this RFI as being correct and (2)
+issue the updated Door Schedule and revised IFC Drawings reflecting the Employer’s varied
+requirements. However, despite us requesting a reply to RFI/0401/17005 by 9 April 2019 you failed to
+respond until 9 May 2019; and moreover, we note that some of the information/requirements to the
+152 nos. of doors subject to this RFI had changed yet again. Also despite you advising that the additional
+changes and modifications to the affected doors was confirmed via DS/0401/14204 dated 25 April 2019,
+we note however, that neither a Door Schedule nor IFC Drawings have been issued.
+Notwithstanding the above, we note that the information/requirements for the remaining 231 out of
+the 383 nos. of doors have yet to be advised by you as requested via our letter ref: (2). It was for this
+reason, and due to incomplete and/or unclear design information, that RFI/0401/17261 ref: (4) was
+raised requesting you to clarify and confirm the requirements for the remaining 231 Nos. doors.
+We requested that you reply to RFI/0401/17261 by 15 July 2019 and sincerely hope that you do so.
+
+We remind you that the issues subject to our letters ref: (1) and (2) and reiterated above, are directly
+attributable to a failure on your part to provide a final fully coordinated and completed IFC [door] design
+that accurately reflects the Employer’s requirements, as well as a failure to promptly respond to the
+various queries and ambiguities in the existing design as soon as they are identified by us. We therefore,
+take this further opportunity to once more request that you provide us with a complete fully designed
+and sufficiently detailed IFC set of Drawings in respect of the doors and revised Door Schedule,
+accompanied by an Engineer’s Instruction to enable us to complete the door installations.
+Meanwhile, we hereby notify you pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 that
+the events and circumstances detailed above constitute acts of prevention and/or breaches of Contract
+on the part of the Employer/Employer’s Personnel/Consultants giving rise of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10,
+or, in the alternative, damages for breach of Contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

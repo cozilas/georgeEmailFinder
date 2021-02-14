@@ -1,17 +1,20 @@
-
 Dear Sir,
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include for
+both potential cost savings and time impact for a proposed Variation .
 
-The Contractor acknowledges receipt of the Engineer’s letter referenced 1) on 23 February 2017 and, at
-the Engineer’s request, attaches hereto unpriced copies of the duly signed Subcontract Agreements
-(M006-GDB-COM-AGR-00520 and M006-GDB-COM-AGR-00521) entered between the Contractor and
-M/s “Fireshield Trading and Contracting Co.” for the execution of certain Subcontract Works as referred
-to therein and corresponding to the previously approved Subcontractor Approval Request (SAR) number
-M006-GDB-COM-SAR-00992.
+The Variation as proposed:
+To delete the requirement to provide at each switch box and crossover cavern, the smoke relief shaft
+and surface structure;
 
-The Engineer has identified within its SAR approval a requirement for Contractor to deliver to the
-Employer a Subcontractor Direct (Warranty) Agreement and, with reference to Sub-Clause 4.9.1, the
-Contractor notes that these documents are included within the Schedule 6 which forms part of the
-aforesaid Subcontract Agreements (initiated). The duly signed and stamped Subcontractor Direct
-(Warranty) Agreements (1 for each of the Subcontracts) are also attached hereto.
+With respect to the above proposed variation, the Contractor to
 
+•
+
+Amend the Employer's Requirements:Volume 6, Sub-Clause 14.3.6.3 (e) as below:
+
+"Isolation dampers (/SD): Motorized dampers allow defining the required air-path up and downstream
+of fans and inside draught relief shafts"
+•
+Delete the Employer's Requirements: Volume 6, Sub-Clauses 14.3.6.7 c(i), 14.3.6.7 c(ii) and
+14.3.6.9 Table item 15.
 Yours faithfully,

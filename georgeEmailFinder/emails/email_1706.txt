@@ -1,21 +1,11 @@
+
 Dear Sir,
+This is an instruction under Sub-Clause 3.3.1 regarding the execution of the work under the Contract.
+The Contractor shall comply with the Employer's Requirements as stipulated in:
+Volume 6 - Design Specifications, Sub-clauses 14.1.1, 14.1.2, 14.3.2.3
+Volume 8 - Tender Drawings, Drawing Reference M006-QRC-UIF-DWG-YEEESHQ-00-21004 - UIP
+Emergency Exit and TPS Building, Sharq Village
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the variation is provided below.
-
-The followi ng Employer 's Requirements:
-Volume 5, Sub-Clause 2.2.16. Doha Zoo Station (formerly Al Waab I Furousiya Street Station)
-
-The followi ng to be added:
-2.2.16.3: North West remote entry of Doha Zoo Station to be located as per the attached drawing
-(Appendix A:
-Doha Zoo Station, Proposed North West Remote Entry Amendment) .
-
-The following Employer's Requirements:
-
-Volume 8, Sub-Clause 6.3.3.2.3, drawing M006-QRC-UIF-DWG-YWSTZ00-00-231 02
-
-North West remote entry to be amended as per the following drawing:
-
-Doha Zoo Station, Proposed North West Remote Entry Amendment (Appendix A)
+This includes the design and construction of all technical rooms, shafts and routes for cabling and
+ductwork for all engineering disciplines inc
 Yours faithfully,

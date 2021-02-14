@@ -1,61 +1,31 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0194
-Delays & Additional Costs associated with Removal of NAFFCO’s Installed Fire Extinguisher Cabinets at
-Pier 4 Level 1.0 MOFA Lounge 1744 by Employer’s Other Contractors – Request for Engineer’s
-Instruction / Variation Order
+Subject: Subsidence- Jack of cla rity in specialist subcont ractor's method statement
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The information described in Annex A hereto records events associated with delays attributable to
-damages caused by the Employer’s Other Contractors to our previously installed Fire Extinguishers
+We refer to recent statements on your part, and repeated by the Employer, to the effect that the
+Specialist Subcontractor carrying out the permeation grouting to your instruction, has not been using
+the correct quantities of grout.
+We were most surprised to learn of such accusations in a meeting with the Employer when our teams
+have been working in daily physical and !iterative contact. Having checked the daily site reports that
+are issued and signed by your representative, it can be clearly seen that data in respect of time,
+location, pressures and quantity of injected grout are recorded. Similarly Work Inspection Records
+have been issued and signed off over the past three months.
+Had there been any doubt on your part as to any aspect ofthe Specialist's work then it was incumbent
+upon your team to advise us to change our work method and/or to have not signed off as agreed &
+accepted the daily site reports and WIR. We in any case refute any such accusations and confirm that
+all Works are being executed in accordance with our Contract.
+Upon reading the approved method statement issued by the Specialist Subcont ractor one can see
+how it may be possible that persons not closely concerned with the past three mont hs' works could
+have misinterpreted the approved daily reports and WIR. At Method Statement clause 6.15.1.4 there
+is a conflict in respect of stated quantities of grout. "Design quantity of max. 300Ltr per grout valve
+point" conflicts with "the Grout consumption per valve point is approx. 50-200Lts".
 
-Cabinets at Pier 4 Level 1.0 MOFA Lounge 1744. This will require rectification works and accordingly will
-require an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 30 December 2019 we received letter dated 29 December 2019 (ref: MTB/PCEJV/TCAJV/L/05756),
-from our Mechanical Works Subcontractor (M/s PCE JV), enclosing a letter from their subcontractor,
-M/s NAFFCO dated 19 December 2019 (ref: NF/SUB/DOC/N432/19122019), collectively notifying us of
-additional works and associated costs arising in consequence of the Employer’s Fit-Out Contractors
-having removed the previously installed Fire Extinguisher Cabinets at Pier 4 L1.0 MOFA Lounge 1744.
-In support of the foregoing events, we provide the following attachments:
-1.
-Annex A: This narrative providing a ‘Description of the Event’;
-2.
-Annex B: ‘PCEJV’s ‘Notification’ and accompanying letter from NAFFCO’; and
-3.
-Annex C: ‘Site Observation Report’.
-Despite the Fire Extinguisher Cabinets having been installed, inspected and handed over vide the WIR
-process, the Employer’s Fit-Out Contractors have simply removed the Fire Extinguisher Cabinets without
-requesting permission or notifying us [PCE JV / NAFFCO / TCA JV] of their intention to do so.
-A copy of PCE JV’s ‘Notification’ and accompanying letter from NAFFCO [the latter attaching a series of
-photographs as well as an internal e-mail dated 17 December 2019, advising of the following issues
-pertaining to the previously installed Fire Extinguisher Cabinets], is attached for reference:
-1.
-Most of the extinguishers and fire protection cabinets were removed / detached from the wall
-by the Employer’s Other Contractor [internal fitting out] as a result of room modifications;
-2.
-The remaining extinguisher and fire protection cabinet that is still fixed in its original location is
-now hidden inside a small room; and
-3.
-The MOFA Lounge Room 1744 has been greatly modified by the Employer’s Other Contractor
-[internal fitting out] with the addition of partitions rendering the cabinets location unsuitable.
-In view of the above and the content of the attached letter, it is evidently clear that the events and
-circumstances cited herein are not of our doing or responsibility, and any rectification / remedial works
-necessarily required to remedy the Fire Extinguisher Cabinets will invariably delay us.
-We therefore inform you that we will require a Variation Order (VO) / Engineer’s Instruction (EI) in order
-for us to undertake any rectification works. SAA8 laid down strict guidelines to follow in the event that
-additional works are required and therefore request you to issue the necessary VO / EI for the requisite
-works to be undertaken. We also ask that you take appropriate action to prevent any further occurrence
-of damages to previously handed-over Works by Employer’s Other Contractors.
-Yours faithfully,
+This dichotomy is explained by the fact that at 'block point s' within the TAM that are placed to ensure
+that grout from lower, intermediate va lves, spreads hori zo ntally into the surrounding soil rather than
+simply vertically along the outside of the TAM. These block points are formed by use of approximately
+100 litres of grout prior-inject ed at the block points and allowed to cu re before the main injecting
+process is commenced. Once cured (and blocked at these points) the process continues with the
+specified criteria of either 5 bar or 200 litres of grout per valve. So it can be seen that at the block
+points it is possible to record a total of up to 300 litres of grout, whereas at intermediate points only
+up to 200 litres will be consumed.
+We trust this now resolves any doubts raised in respect ofthe approved method statement and that
+were contrary to joint records and Engineer's approval of WIR.
+Yours faithfully

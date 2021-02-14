@@ -1,15 +1,63 @@
+Subject:
+
+Comments on Resubmission of Total Cost Incurred up to 31st October 2017
+
 Dear Sir,
-We write to express our concern regarding your delays in submission of Rev 0 shop drawing as per the
-forecast date.
-We note that you failed to adhere to the planned submission date which is evident from the enclosed
-shop drawing list.
-You are hereby reminded of your obligations as set out under the Subcontract Clause 16.1.1 which
-states that you are obliged to progress the Subcontract Works with due expedition and without delay,
-and should neither delay nor adversely affect the performance of TCAJV or Other Subcontractors.
-In view of the above, you are hereby instructed to take immediate steps to mitigate your
-aforementioned delays to avoid any further delays to the Works.
-It is noted that any delays, costs, losses and/or expenses incurred by ourselves and/or Other
-Subcontractors arising as a result of the above delays shall be at your risk and recovered from you in
-accordance with the Subcontract.
-This is for your utmost attention and immediate action.
+We would like to thank AGCA’s representative for attending the TCAJV offices on the 22nd January
+2018. We are sure that your QS witnessed during her visit some of the difficulties we are encountering
+when tracing information; from supporting documentation through to proof of payment. We compiled a
+list of general comments below which detail missing information and/or further clarification on items.
+AGCA witnessed the significant resources employed by TCAJV in order to review AGCA costs; however,
+these exercises cannot be completed to the satisfaction of our team (most importantly our auditors)
+until we are in receipt of the listed items below.
+1.
+LC’s - Where the LC facility has been utilized there needs to be greater substan
+tiation behind this.
+The LC itself – detailing beneficiary, date, project and value, bill settlement advice for settled
+amounts. Wherever the LC facility used from other projects (DOHA/RIYAD METRO etc) AGCA have to
+provide further proof of payment particularly for MTB Project (see comment below). Attaching
+corresponding invoices to the respective LC.
+The commercial invoice breakdown supporting the debit memo. This creates a clear link back to
+the invoice (and LPO).
+Discrepancy letter – Where there has been a discrepancy letter raised, Al Ghurair need to
+evidence that an acceptance of the drawdown has been agreed, so that TCAJV can see the transaction
+has been completed.
+2.
+Purchase orders – As discussed with Donna, (we used Hilti /Core Metal as examples), the LPO’s
+often do not relate to the ADIA scheme, or have been split amongst various projects. Where this has
+occurred, there will need to be further clarification on how the invoice value relating to that LPO was
+determined. The split LPO’s contain various PR# numbers but TCAJV cannot possibly understand how
+these have been applied/invoice splits decided upon.
+3.
+Payments through Cheque – needs breakdown showing how much is related to each invoice. In
+some cases the breakdown is provided, but for most it is not.
+4.
+Finance Costs – Policies and proof of payment (not just email from Mashreq bank) to be
+provided.
+5.
+Staff costs – Timesheets are yet to be reviewed but spot checks were undertaken (design & PM
+Staff). Comparing the prolongation submission versus the most recent submission highlights
+inconsistencies between monthly costs placed against certain staff members. Sometimes showing a 50%
+difference (increase) between previous inclusions – Al Ghurair to advice. Al Ghurair to supply wage slips,
+salary certificates, timesheets, gate passes etc.
+Excel copy of staff summaries to be provided where PDF’s have been sent.
+
+Every staff member will need to have their wage slips produced. (Al Ghurair to provide wage
+slips were wages deviates from ‘normal fixed’ for bonuses, air fares etc).
+Incentive/performance and Bonus payments form a significant part of the monthly costs –
+therefore we would need to see evidence that these have been paid. They’re applied consistently each
+month but the wage slips provided do not show this? (If paid quarterly or annually – substantiation will
+need to be supplied to evidence these figures).
+Evidence of training expenses to be supplied.
+Car allowances – These are not shown on payslips so we can assume these are paid directly by
+Al Ghurair? Please provide car rental invoices/or agreements. (Highlight invoice/vehicle pertaining to a
+particular employee).
+Leave allowance – Please advise why the leave allowance is a separate column – If the ‘fixed’
+figure is included consistently each month then this would allow for periods of annual leave (unless Al
+Ghurair can evidence that no leave was taken by an individual and they were paid in lieu of leave).
+Air Tickets fares – Information on how this is paid. We cannot see evidence of this on payslips?
+Group life insurance – Proof of insurance cost premium payment to be provided.Medical
+insurance - Proof of insurance cost premium payment to be provided.
+We look forward to receiving authentic substantiation as mentioned above in order to expedite
+finalisation of the Framework Agreement.
 Yours faithfully,

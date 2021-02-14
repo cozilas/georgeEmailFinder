@@ -1,66 +1,65 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0106
-Delays to Automated Tray Return System (ATRS) Testing - Overdue Responses to Document
-Submittal Nos. DS/0401/13480 Rev. 02 (Smart View Matrix SAT Protocol) and DS/0401/14184 Rev. 01
-(ATRS Performance Test Document)
-
-Dear Sir
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0114
+ADDC Rejection of Electrical Design - Requirement to Change Protection Rating of SMDBs to IP54 Request for Engineer’s Instruction / Variation Order
+Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described herein
-may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
+may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
 The Event(s):
-On 5 and 6 May 2019, we in conjunction with the specialist Automated Tray Return System (ATRS)
-package subcontractor, MacDonald Humfrey Automation (‘MHA’), submitted the following Document
-Submittals, requesting for your review and approval of (1) the ATRS Smart View Matrix SAT Protocol and
-(2) the ATRS Performance Test Document appended thereto (refer to Table 1 below).
+In the period between 28 March 2019 and 10 July 2019, the Abu Dhabi Distribution Company (ADDC)
+undertook a series of inspections of the internal wiring of the electrical installations to various areas of
+the Main Terminal Building, including without limitation the inspections shown in Table 1 below.
 Table 1
-Item Submission Date
-Submittal Ref No.
-Rev.
-Title Response
-Due
-Date
-Response Received
-Overdue By
-[calendar days]
+Item Inspection Date Case ID ADDC Comments
 1
-05-May-19
-DS/0401/13480 02
-Smart View Matrix SAT Protocol
-[401-MHA-PE-GEN-ATRS-007 Rev. 02] 12-May-19
-27-May-19
-15 days
+28-Mar-19
+6299172077 ‘electrical closet must be dedicated and
+isolated by fire/water proofed wall.
 2
-06-May-19
-DS/0401/14184 01
-Automated Tray Return System Performance Test
-Document
-[401-MHA-PE-GEN-ATRS-010 Rev. 01] 20-May-19
-24-Jun-19
-35 days
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our submittals. For example, on the basis that Document
-Submittal No: DS/0401/14184 is at Rev 01 then this ought to have been responded to by you 14
-calendar days later, i.e. on 20 May 2019. However the information recorded in Table 1 shows that you
-exceeded the review period expressly stated in the Contract by 35 calendar days.
-In other words, you have had Document Submittal No: DS/0401/14184-01 in your possession for 49
-calendar days. Consequentially, the delayed approval of the ATRS Performance Test Document has
-similarly delayed MacDonald Humfrey Automation from carrying out the ATRS Performance Test – their
-letter dated 10 June 2016 referenced (4) [copy attached], is synonymous with this very matter.
-As for Document Submittal No: DS/0401/13480, which is at Rev. 02, Table 1 shows that you exceeded
-the seven (7) calendar day review period expressly stated in the Contract by a 15 calendar days.
-MacDonald Humfrey Automation wrote on this also, both in letter refs: (4) and (3) [attached].
+10-Jul-19
+8725504329 ‘SMDB must be minimum IP54 rated at the plant room area as
+per the ADAC agreement’
+However, in both cases, the electrical installations have been rejected by ADDC for the reasons that
+include those identified and reproduced in Table 1 above, which primarily relate to the requirement for
+the affected SMDBs [i.e. those listed below] to have an Ingress Protection (IP) rating of IP54 .
+1.
+SMDB reference no. FS-MDP-CLP7-L3.4-1;
+2.
+SMDB reference no FS-MDP-CLP7-L3.4-2; and
+3.
+SMDB reference no NE-DP-CLP3-L1.0-EV1
+We remind you that we have constructed the works in accordance with the IFC Drawings reflecting a
+design for which the Employer’s Design Consultant [KPF] is unequivocally responsible for, not us.
+However, it is clear there is a fundamental variance and disparity between the IFC Design [which we
+have constructed the works in accordance with] and the applicable codes and regulations governing the
+electrical design [for which the Employer’s Design Consultant, KPF, is responsible for] and against which
+ADDC is inspecting the works; hence the reason for its rejection of the electrical installations.
+Therefore in order for us to address the ADDC rejected comments detailed in the referenced Case IDs
+summarised in Table 1 and ensure that the electrical installations comply with the requirements of
+ADDC, we will require a valid Engineer’s Instruction (EI) and a Variation Order (VO) in order to do so.
+SAA8 laid down mandatory procedures to be followed if additional works are required consequently an
+EI and VO are needed for us to proceed with the aforementioned changes to the noted SMDBs.
+We therefore take this opportunity in reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to. We trust this is clear.
 Potential Impact:
-As noted, the delayed response to Document Submittal No: DS/0401/14184-01 has directly impacted
-MacDonald Humfrey Automation’s ability to undertake the ATRS Performance Test; and without doubt,
-the late response to DS/0401/13480-02 has contributed in delaying the testing also, and given that the
-ATRS system is an essential and fundamental aspect of the Airport Operational Systems will impact on
-our ability to achieve Milestone MS09B and will invariably knock on to Milestone MS09C.
+
+ADDC’s rejection of the electrical installations in respect of the above noted Case IDs is preventing the
+completion of the ADDC inspection process, which will knock on and delay energisation of critical areas
+of the Project, and will invariably impact on our ability to hand over the affected areas. If the matter
+continues and is not addressed, then this will impact our ability to achieve Milestone MS09B.
+Moreover, this will invariably continue to knock on and delay achievement of Milestone MS09C.
 Action Required:
-Ordinarily we would be requesting you prompt action, guidance or decision as may be applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-However as the responses to Document Submittal Refs: DS/0401/13480 Rev. 02 and DS/0401/14184-01
-have been received, there is no action on your part. The potential for delay remains however.
-As such, we reserve all our rights under the provisions of Conditions of Contract Sub-Clauses 16.5.2 and
-27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time for
-Completion and any associated costs due to the event(s) and circumstances described herein.
+It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes for example:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

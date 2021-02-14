@@ -1,80 +1,22 @@
 Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute
+a variation.The nature and extent of the variation is provided below. The fo l owi ng Employer's Requi
+rement:
+Volume 6, Section 13, Figure E1: Station Power Systems Block Diagram - Scope Demarcation:to be
+deleted.
 
-We are pleased to invite your company (Tenderer) to tender for the Utility Diversion Works at Ras Bu
-Abboud Station. This work forms part of the design and construction of Doha Metro Gold Line
+Volume 6, Section 13, Sub-section 13.3.4.4 (f}: Stand-by Diesel Generators - to be deleted.
 
-Underground consisting of 11.7km of twin bored tunnels from Al Aziziyah (Villaggio) Station to Ras bu
-Abboud (Airport City North) Station, with 10 No. stations.
+Volume 6, Section 14 (Electrical & Mechanical Room Requirements) - are to be amended to remove
+Diesel Generators and Tanks as follows:
 
-Accordingly, we enclose one CD-ROM containing all the documents for your tender submission
-purposes. The Main Contract Extracts are provided for your information. The Tenderer must comply
-with all ALYSJ method statements and procedures, along with all Employer Requirements as detailed in
-the Main Contract. The Tenderer is advised to arrange a site visit to ascertain site conditions and
-logistical issues.
+Figure E.1: Station Power Systems Block Diagram - Scope Demarcation - to be added.
 
-You are requested to submit a price for the works on a “Lump Sum All Inclusive” basis as per the
-attached Scope of Works, Schedule of Rates, Main Contract Extracts, Conditions of Contract, and actual
-Site conditions, together with a list of available resources which will be used to ascertain your
-capabilities and therefore the volume of work that will be assigned should you be successful in your bid.
-Please note that the quantities mentioned in the Schedule of Rates are indicative of the actual works,
-therefore the Tenderer must check the actual site conditions before pricing, to ensure this “Lump Sum
-All Inclusive” price accounts for all items which may not be identified in the Appendices to this tender
-but are still required for the satisfactory completion of this Scope of Works.
-
-Your tender submission is to be fully compliant with the tender documents in all respects. Your
-particular attention is drawn to the following sections of the documents which require your completion:
-1.
-
-Appendix A – Section 2.2 – Acknowledgement of Tender Document
-
-2.
-
-Appendix A – Section 3 – Form of Tender
-
-3.
-
-Appendix A – Section 5 – Form of Statement of Compliance
-
-4.
-
-Appendix A – Section 6 – Attachment A & B
-
-5.
-
-Appendix B – Schedule of Rates
-
-In addition to the above, it is a mandatory requirement for the tender submission to be submitted under
-the cover of company letter, signed by an authorized signatory, together with the following
-documentation:
-
-The Technical and Commercial components of the Tender are explained in item 2.7.1 in Appendix A
-(Tender Conditions).
-
-The Tender Document must be returned by hand in a sealed envelope (a hard and a soft copy) to ALYSJ
-Documents Control Department, marked as “Original” as no later than 12 Noon on the 4th January
-2016, to the following address:
-
-ALYSJ Joint Venture
-Package 3 – Gold Line Underground,
-P.O. Box 24375
-Near Al Waab Petrol Station
-Behind Qtel Building
-Al Waab Street,
-Al Waab
-Doha, State of Qatar.
-
-Attention: Mr. Ebrahim Al Jaber - ALYSJ Commercial Department
-
-If you have any questions / need for clarifications relating to the enclosed Tender Documentation during
-the tender period, you are requested to send “Query Form” (which was provided in Appendix A Tender
-Conditions) to the attention of:
-Point of Contact: Mr. Ebrahim Al Jaber
-Telephone: +974 6689 8368
-Email: Ealjaber@goldlinemetro.qa
-
-These queries and replies will be shared to all tenderers. The Tenderer is required to supply a “Point of
-Contact” for this tender via the email address confirmed above.
-
-We look forward to receiving your fully compliant tender on or before 12 Noon on the 4th January 2016.
-
+Diesel Generators and Tanks are deleted from the metro stations as Qatar Rail's multiple redundancies
+in the power supply system are by means of two Station Power Supply Substations (SPS) at either site of
+a metro station. At this level there is 100% SPS redundancy. If SPS 1 fails, SPS 2 can provide the full load.
+The room allocation for the Diesel Generators (70 m2) is to remain for Systems use. The room allocation
+for
+Diesel Tanks (30 m2) is to be utilized by the Civil Works Contractors.
 Yours faithfully,

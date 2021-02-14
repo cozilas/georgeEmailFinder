@@ -1,64 +1,40 @@
 Dear Sir,
-This is a direction under Sub-Clause 13.2.1of the General Conditions of Contract for the Contractor to
-submit a quotation for both time and cost impact for 'Removal of Raised Floor in Energy Sub- system
-Rooms' (namely TPS,SPS, MVLV, ACDCScada, UPS Battery room, Room in lieu of DG Room) as outlined
-below;
-1)
-The Employer's Requirements Volume 6, Sub-Clause 14.3. 'General Technical Room
-Requirements' the Sub-clauses 14.3.1.1.g.i) currently states that;
-•
-14.3.1.1.g.i) The rooms for Energy, Signalling and Telecom/IT shall be provided with a raised
-floor, i.e. for signalling and telecommunications a complete portable assembly of modular floor panels
-on an elevated support system to . accommodate electrical and mechanical services.
-The above Employer's Requirements is now modified as;
 
-•
+Further to the Engineer’s Assistant letter of reference 1) the Contractor encloses herewith the required
+particulars in relation to the design status at the time of Engineer’s Instruction of reference 2).
 
-14.3.1.1.g.i)
+The Contractor summarises the design documents’ status and submissions to the Client as follows:
 
-The rooms for Signaling and Telecom/IT shall be provided with a raised floor,
+a.
+Architectural Design, DD2 stage – Submitted for approval to the Engineer and the Engineer’s
+Assistant via M006-GDB-WTRAN-193138 on 25 October 2016.
+b.
+Structural Design, DD2 stage – Submitted to the Engineer and the Engineer’s Assistant for
+information via M006-GDB-INFM-010017 on 15 December 2015 (Part 1 of 2) and M006-GDB-INFM010773 on 05 January 2016 (Part 2 of 2).
+c.
+ELS Design, DD2 stage – The Engineer’s Assistant has reviewed the design and responded via
+M006-LBE-WTRAN-038398 on 05 July 2016.
+d.
+FoH Architectural Design, M3 stage – The Engineer’s Assistant has reviewed the design and
+responded via M006-LBE-WTRAN-049130 on 13 October 2016.
+e.
+MEP Design, DD2 stage – Submitted to the Engineer and the Engineer’s Assistant for information
+via M006-GDB-INFM-018766 on 29 September 2016.
+f.
+ELE Design, DD2 stage – Submitted to the Engineer and the Engineer’s Assistant for information
+via M006-GDB-INFM-018783 on 29 September 2016.
+g.
+FRD Design, DD2 stage - Submitted to the Engineer and the Engineer’s Assistant for information
+via M006-GDB-INFM-017489 on 28 August 2016.
+h.
+FRS Design, DD2 stage - Submitted to the Engineer and the Engineer’s Assistant for information
+via M006-GDB-INFM-017896 on 08 September 2016.
+i.
+HVAC Design, DD2 stage - Submitted to the Engineer and the Engineer’s Assistant for
+information via M006-GDB-INFM-017960 on 10 September 2016.
 
-i.e. for signaling and telecommunications a complete portable assemb ly of modular floor panels on an
-elevated support system to accommodate electrical and mechanical services.
+The Contractor includes full particulars of the design submissions in Attachments 1) to 9) to this letter.
 
-2)
-Delete the following Sub-clauses of the Employer's Requirements,Volume 6,Sub-Clause 14.3.
-'General Technical Room Requirements' ;
-•
-14.3.2.2.b.vii) Raised Access Flooring: The raised floor shall be a stable structure that withstands
-the weight imposed by the installed equipment and cases. The installable space beneath the raised floor
-surface shall be at least 400mm - 800mm high. In any case the bending radii of the installed cables shall
-be kept.
-Accomplishing a Vision
-
-•
-14.3.2.3.d) The room shall be provided with a raised floor for cable installations. For more
-details please refer to the chapter "Cable Routing, Installation and Mounting".
-
-3)
-Appendix 1:Generic I- Type Underground Stations of the Employer's Requirements, Volume 6,
-Sub-Clause 14.3. 'General Technical Room Requirements' currently indicates that;
-
-•
-Raised floor required 'Yes' to items 54, 55, 68, 69, 86, 87, 88, 89 and 93 Modify the above
-Appendix 1:'Generic I-Type Underground Stations' as;
-•
-
-Raised floor required 'No' to items 54, 55, 68, 69, 86, 87, 88, 89 and 93
-
-4)
-Appendix 2: Generic X -Type Underground Stations of the Employer's Requirements, Volume 6,
-Sub-Clause 14.3. 'General Technical Room Requirements' currently indicates that;
-
-•
-Raised floor required 'Yes' to items 82 to 85, 91,92, 117 to 123, 150, 172, 173, 184 and 185
-Modify the above Appendix 2: 'Generic X -Type Underground Stations' as;
-•
-
-Raised floor required 'No' to items 82 to 85, 91,92, 117 to 123, 150, 172, 173, 184 and 185
-
-Referring to Engineer's Assistant's letter reference 1), the Engineer notes that the Contractor has already
-agreed to accommodate these changes with the Systems Contractor. The Contractor is required to
-submit the quotation for any saving in favour of the Employer within 14 days of this direction.
+We remain at your disposal for any further information and/or clarification.
 
 Yours faithfully,

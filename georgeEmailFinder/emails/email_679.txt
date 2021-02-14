@@ -1,30 +1,133 @@
-Subject:WIR’s – Code 3
+Subject:
+
+Likely Delay Notice No. 2727
+Airport Operational Systems Furniture Installation at Level L1.0
 
 Dear Sir,
-Further to the above referenced subject whereas WIR’s are receiving unnecessary and invalid comments
-which renders a Code 3 status.
+The Contractor hereby submits this Likely Delay Notice No. 2727 accordance with Clause 16.3.5 of the
+Conditions of Contract, in consideration that the outstanding furniture design [to the Airport
+Operational Systems Workstations] has the potential to adversely affect or delay the execution of the
+Works.
+1.0
+Basis of Notice
+Background
+RFI/0401/9757
+1.1
+On 10 September 2015, the Contractor raised Request for Information (RFI) RFI/0401/9757
+(dated 7 September 2015) titled, ‘BRS [Baggage Reconciliation System] Workstation furniture layout and
+power socket provision confirmation’ together with marked up copies of Special Airport Systems and
+Electrical Issued for Construction (IFC) Drawings, advising the Engineer of the following:
+1.1.1 In the absence of furniture layout at BRS workstation locations, the Contractor requested the
+provision of BRS workstation fixation details; and
+1.1.2 The Contractor also noted that dedicated power sockets for the BRS workstation (CPU, Monitor,
+etc.) are not shown in Small Power IFC Drawings for BRS workstation, and therefore requested provision
+of updated Small Power IFC drawings for BRS workstations.
+1.2
+The attachments to RFI/0401/9757 consisting of the following:
+1.2.1 1 no. x Room references spreadsheet (Figure 1.1 below refers).
+Figure 1.1 – Workstation Details for BRS
+1.2.2 3 nos. x Special Airport Systems IFC Drawings for ‘Terminal Building Special Airport Equipment’
+located at Level L1.0 of Sectors 5.12, 5.18 and 5.23; and
+1.2.3 1 no. x Electrical IFC Drawing for ‘Electrical Small Power Plan located at Level L1.0 (Apron Level)
+of Sector 5.12’.
+1.2.3.1 The Contractor concluded by advising that it is [currently] following data locations as per IFC
+Drawings in the absence of furniture layout(s).
 
-We hereby express our serious concern regarding this issue which is jeopardizing our progress,
-engineering activities and document control processes by revisiting work fronts and performing
-unnecessary administration activities which results in utilizing resources which could have been used
-more successfully elsewhere and thus ultimately impacting on our Time for Completion.
-You have and we acknowledge the authority to approve or reject our WIR’s on behalf of the Employer,
-but such discretion is limited and circumscribed by the Contract. Your supervisory role is to ensure that
-we execute the works aligned with the original design intent, specifications and IFC drawings.
-As long as the works executed on site comply with the design intent and specifications as set out in the
-contract there is no justification for a Code 03 status. Outright rejections should be a last resort and if
-issued, you have a duty to justify the rejection against a specific provision in the Contract, in an IFC
-drawing or in a Specification. This will ensure that any rejection is legitimate and facilitate appropriate
-corrective action by us or the need for an Engineer’s Instruction.
-The majority of WIR’s raised to date have received Code 03 status with irrelevant and invalid comments.
-We are contractually obliged to consider and respond to each of the Engineer’s comments and to
-resubmit the applicable submission for further verification. Therefore, a large amount of unnecessary
-comments will significantly disrupt our progress on other work fronts.
-Therefor for the mutual benefit of the Project, we request you to refrain from generating excessive and
-inappropriate comments that do not have specific implications to the Project.
-It is essential that the works be approved subject to the Contractor responding in parallel to your
-comments or other requirements, while being allowed to move on with dependent work streams, hence
-the status Code 02.
-We look forward to our mutual concern regarding this issue and the reduction of Code 03 statuses,
-future cooperation and successful completion of the Project for the benefit of all parties concerned.
-Yours faithfully
+1.3
+Despite the Contractor requesting a response to RFI/0401/9757 within 9 calendar days (by 19
+September 2015), the Engineer / Employer’s Design Consultant failed respond for a further 36 calendar
+days i.e. on 25 October 2015, which the Contractor considers is unreasonable.
+1.4
+Nevertheless, attached to the response were 3 sketches [dated 29 September 2015] as follows:
+1.4.1 ‘ESK-1990: MTC-E-09-TB-L1.0-5.12-001 Additional small power outlets for BRS’;
+1.4.2 ‘ESK-1990: MTC-E-09-TB-L1.0-5.18-001 Additional small power outlets for BRS’; and
+1.4.3 ‘ESK-1990: MTC-E-09-TB-L1.0-5.23-001 Additional small power outlets for BRS’.
+1.5
+Notwithstanding the late response, the Employer’s Design Consultant advised the Contractor
+that:
+1.5.1 In respect of the first query [paragraph 1.1.1], the Employer to advise; and
+1.5.2 In respect of the second query [paragraph 1.1.2], the Employer’s Design Consultant asked that
+the Contractor follow the three sketches identified at paragraph 1.4.1 to 1.4.3.
+1.6
+While the Employer’s response stated that: “Small power for BRS to be located adjacent to Staff
+FIDS where they co-exist. IN other locations BRS power will come from standard office provision”.
+RFI/0401/11313
+1.7
+Thereafter, on 30 March 2016, the Contractor raised RFI/0401/11313 (dated 27 March 2016)
+entitled, ‘RFI for AODB, RMS, IB Furniture layout confirmation’, and with reference to the attached
+spreadsheets, requested the Engineer to provide furniture locations and furniture details for AODB, RMS
+and IB which are missing from the ‘entire’ furniture layout IFC Drawings.
+1.7.1 The Contractor further noted that in the absence of furniture location drawing(s), the
+Contractor is following Small Power and Data locations as per respective IFC drawings.
+1.8
+The attached spreadsheets are reproduced in Figure 1.2, Figure 1.3 and Figure 1.4 below:
+Figure 1.2 – Workstation Details for RMS
+Figure 1.3 – Workstation Details for AODB
+Figure 1.4 – Workstation Details for IB
+1.9
+The Contractor requested a response to RFI/0401/11313 within 12 calendar days (by 11 April
+2016). However, the Engineer / Employer’s Design Consultant failed to provide a response for a further
+2 calendar days i.e. on 13 April 2016.
+1.10 Nevertheless, in the response to RFI/0401/11313, the Engineer / Employer’s Design Consultant
+advised the Contractor “to proceed with IFC [and that] The FF&E layouts use the IFC positioning of
+power and data. Furniture layout is a third party scope and will be provided in the future.”
+1.10.1 The Engineer offered no further insight on when the furniture layouts would be provided.
+RFI/0401/12523
+1.11 Meanwhile, on 18 October 2016, the Contractor raised RFI/0401/12523 (dated 11 October
+2016) entitled, ‘Check in EY First Class CUPPS and FIDS’, together with two marked up IFC Drawings.
+1.12 The Contractor referred the Engineer to Special Airport Systems IFC Drawing No. MTC-SS-02TB_L2.0-5.22-03.006 Rev. 3 wherein Type 4 FIDS and C1 CUPPS are identified. However, FF&E IFC
+Drawing No. MTC-Q-02-TB_L2.0-5.52-00.013 Rev. 6 does not show Type 4 and C1 locations as per the
+SAS IFC. Therefore, the Contractor requested the Engineer to resolve such ambiguity and to “provide
+the missing details, including Type 4 FIDS and CUPPS C1 located in EY First Class.”
+1.13 Despite the Contractor requesting the response to RFI/0401/12523 within 16 calendar days (by
+3 November 2016), the Engineer / Employer’s Design Consultant failed to respond for a further 73
+calendar days i.e. on 15 January 2017, which the Contractor considers is unreasonable.
+
+1.14 Notwithstanding the excessively late response, the Employer’s Design Consultant simply advised
+that it awaits the Employer’s feedback and that the Engineer will forward the RFI to the Employer.
+1.15 While the Employer responded in the manner reproduced as follows::
+“Cabling and infrastructure is to be provided as per IFC, in the locations identified on KPF drawings.
+Coordination will be required with the Lounge Fit-Out Contractor once appointed for the final fixing of
+equipment, in the meantime all relevant equipment and materials are to be kept in stock until such time
+as they are needed for installation.”
+1.15.1 Clearly the Engineer failed to properly address the Contractor’s original query but simply
+inferred that the noted equipment and materials would be provided later once needed.
+SITA letter ref: MTB-SITA-TCAJV-AOS-L-0644
+1.16 Sometime later however, on 23 December 2017 (letter dated 21 December 2017, ref: MTB-SITATCAJV-AOS-L-0644) (ref: 4), the Airport Operational Systems (AOS) package subcontractor (SITA) wrote
+in connection with the Engineer’s previous ‘responses’ to RFI/0401/11313 received on 13 April 2016]
+[paragraph 1.9] and RFI/0401/12523 received on 15 January 2017 [paragraph 1.13].
+1.16.1 SITA noted that the response to RFI/0401/11313 advised that the furniture type for AODB, RMS,
+IB Systems, CUSS Workstation, FIDS Workstation and BRS Administration Workstations located in Level
+L1.0 ‘will be provided by a 3rd (third) party in the future’. However, as the site is ‘maturing’, “and as per
+the schedule” SITA advised that it requires the furniture design to finalise the approval of typical
+installation drawings.
+1.16.2 SITA also advised that the “Same [information requirements] is requested in ... RFI-12523 for
+Check-In EY First Class CUPPS and FIDS Furniture's / Signage's.:
+1.17 Hence, SITA requested the Engineer to “kindly provide the [furniture] design and advise to
+whom we need to coordinate [with] so that we can ensure the cable routing and site readiness.”
+1.18 SITA concluded its letter (ref: 4) by advising the Contractor that in accordance with Schedule
+10.4, the installation is planned to start on 17 April 2018 and “any delays in the furniture availability is
+likely to impact the critical path of the schedule and will delay the completion of the project. “
+1.18.1 SITA concluded by reserving its right to claim for extension of time and cost for the delays.
+1.19 The Contractor records that the ongoing failure of the Engineer and / or the Employer’s Design
+Consultant in providing the furniture design as identified by the foregoing events is continuing to
+prevent the Contractor from coordinating and finalising the approval of typical installation drawing(s),
+which if allowed to continue absent any action on the Engineer’s / Employer’s Design Consultant’s part,
+is likely to impact cable routing works, furniture installation and site readiness.
+1.20 It is because of these matters and the potential additional time and financial implications arising
+therefrom that has compelled the Contractor to issue this Likely Delay Notice No. 2727.
+2.0
+Potential Impact to the Works
+2.1
+This Likely Delay Notice No. 2727 is issued in accordance with Clause 16.3.5 which states:
+“The Contractor shall promptly give notice to the Engineer of specific probable future events or
+circumstances which may adversely affect or delay the design and/or execution of the Works.”
+2.2
+At this stage, it is not known whether or to what extent the impacts are, but the approval of
+typical installation drawings will be delayed as well as cable routing works, furniture installation and Site
+readiness, and are likely to affect or delay the execution of the Works.
+2.3
+Nevertheless, the Contractor undertakes to assess the impact that this potential delaying event
+may have on the Works against the Clause 16.3 Programme (Rev. 6.2), the outcome of which will be
+submitted to the Engineer in due course.
+Yours faithfully,

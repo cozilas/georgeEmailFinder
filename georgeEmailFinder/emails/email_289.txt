@@ -1,43 +1,75 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0098 – Update No. 2
-Delays to the Time for Completion of the Works due to Delays to Receipt of Subsidence
-Works Instructions and Subsidence to Other Areas of the MTB
-Dear Sir
-We refer to our initial Delay Notice No. 0098 issued by way of letter ref: (1), our letter ref: (2) and our
-Update [No. 1 to Delay Notice No. 0098] issued by way of letter ref: (3) and write as follows:
-With reference to the numerous subsidence related Engineer’s Instructions (EI) issued by you to date
-reflected in the schedule attached at Annex A, and in consideration of the delayed, protracted and
-piecemeal manner in which the design of the soil rectification works is being issued to us, then the
-effects of delay arising therefrom will invariably continue to impact upon the Time for Completion.
-The information recorded in Annex A shows that so far you have been responsible in issuing a total of
-twenty-one (21) separate EIs over a period of four months. These consist of eight (8) ‘core’ EIs (i.e. EI
-Nos. 773, 774, 775, 776, 778, 779, 780 and 781). For example, while EI No. 773 was issued on 12 June
-2019, EI No. 781 was not issued until circa two months later i.e. on 15 August 2019. However, we
-further record that each of these eight (8) core EIs have been revised at least once (i.e. EI Nos. 773A,
-774A, 775A, 776A, 778A, 779A, 780A and 781A). However, two EIs have been revised twice (i.e. EI Nos.
-774B and 775B), while one EI has been revised three times (i.e. 773C). Furthermore, the most recent
-revisions for EI No. 775, 776, 780, and 781 have only just been released i.e. mid-October 2019.
-Therefore, not only has the design been issued in a piecemeal fashion over a prolonged period of time
-but the design has been revised on a number of occasions. Accordingly we comment as follows:
+Subject: Engineer's Delay Notification- Slow Progress to As-Built Submission
+Dear Sir,
+We write in response to your letter {1).
+You are responding to our letter {3), the content of which highlighted that you have failed to
+comment on the content of our previous correspondence which is specific and relevant to cited
+events and factors affecting the planned completion and submittal of our As-Built submissions. In
+keeping 1with your previous responses, your focus Is on the overall progress to 31 August 20l 9,
+without1 mention of any acts of prevention by you, impacting the planned submission dates.
+1
+
+Forsaking unnecessary repetition, we again refer to our multiple E-Notices that have been raised
+between 11 November 2018 and 04 September 2019 which make specific reference to events
+impacting our submissions dates.
+Our position remains unchanged and we st and by the detailed comments within our letter {4),
+together with all E-Not ices.
+In line with our recent correspondence on the subject, we reiterate our since re request that you
+refrain from sending delay notifications on this matter but instead work with us to address not only
+the backlog of As-Built Drawings which remain in your possession, but also to look to assist us, rather
+than hinder us, in achieving Status Code 1 approval.
+Bruce Neave
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0173
+Damages to Carpets to Room 221 at Pier 2 Level 1.0 caused by the Employer’s Contractor (Al Hussain) Request for Engineer’s Instruction / Variation Order
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Annex A records damages caused by the Employer’s Other Contractor (Al Hussain) to previously installed
+Carpets to Room 221 at Pier 2 Level 1.0, which requires rectification and as such requires an Engineer’s
+Instruction (EI) and Variation Order (VO) in order for us to do so.
+Potential Impact
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We herewith enclose a series of photographs and emails (appended hereto at Annexe B to C) that
+collectively serve to evidence damages having been caused to our previously installed Carpet to Room
+221 at Pier 2 Level 1.0. Unfortunately despite the Carpet having been installed, inspected and handed
+over by us through the WIR process, this has subsequently been damaged; and is directly attributable to
+the Employer’s Other Contractor (Al Hussain).
+Specifically, we draw your attention to the following:
+•
+The Carpet to Room 221 at Pier 2 Level 1.0 has been removed and damaged by the Employer’s
+Other Contractor (Al Hussain);
+•
+Notwithstanding the fact that the Carpet has been handed over by us through the WIR process,
+we put on record that a balance of snagging works remains at the concern room/area;
+•
+We note and acknowledge your email [November 05, 2019 11:45 AM] attached hereto,
+notifying us that you have informed and instructed Al Hussain “… to stop [removing carpets] and
+without NOC not to touch any base-build installations”.
+
+In support of the foregoing, we provide the following attachments:
 1.
-The late and piecemeal release of the design and subsequent changes to the design of the soil
-rectification works has prevented us from carrying out the works in a timely manner.
+Annex A: This narrative providing a ‘Description of the Event’;
 2.
-This has been exacerbated by the fact that the number of grouting points has been subject to
-continuous change, specifically the substantial reduction in grouting points (refer to inter alia Slide No.
-14 of the Chairman’s Meeting & Walk – 06 November 2019; copy attached).
+Annex B: ‘Photos / Images Reference’; and
 3.
-The fact that the Employer’s Design Consultant (KPF) has continually changed his design and
-reduced the number of grouting points gives us concern that KPF does not understand the root cause of
-the subsidence. Consequently, this does not give us confidence in his design.
-4.
-For example, in the first version of his design, KPF showed grouting beneath the earthing pits,
-whereas in the latest design these grouting points have been removed. To the extent that these
-earthing pits settle, we will have no responsibility for any direct or consequential losses.
-In addition to the forgoing, and whilst we are clearly not responsible in any way for either the original
-design nor the instructed remediation solutions, we are concerned at the seemingly arbitrary
-delineation between areas being remediated and those that are not. It is our contention that the whole
-of the site has a similar geological composition and accordingly we hereby absolve ourselves from any
-responsibility for any future subsidence that may occur in areas both remediated and un-remediated or
-indeed from any subsidence related issues at the boundary between such areas where, for example
-differential settlement may occur.
+Annex C: Email Correspondences.
+We wish to put on record that the foregoing events are not of our doing or responsibility, and any
+rectification / remedial works necessarily required to re-install the damaged Carpet to Room 221 at Pier
+2 Level 1.0 at this stage will invariably delay us.
+We therefore inform you in order for us to undertake the rectification works to the damaged services
+noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
+down strict guidelines to follow in the event that additional works are required and we therefore
+request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
+Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
+our previously handed-over Works by the Employer’s Other Contractors.
 Yours faithfully,

@@ -1,99 +1,113 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0207
-Delays to Commissioning Inspections by CxA
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0204
+Engineer’s Unreasonable Requests to Carry out Full Surveys for all installed Camera Conduits at various
+locations– Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
+Variation / Change into Works
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern unreasonable delays on the part of CxA (the Employer’s
-Commissioning Consultant), to undertake Commissioning Inspections to 7 Final Distribution Panels (FDB)
-to Levels L0.0, L3.0 and L3.2 on 5 January 2020, despite us requesting that they do so.
+The matters discussed in Annex A hereto, concern delays associated with the receipt of unreasonable
+comments endorsed on each of the Non-Conformance Reports (NCR) referenced therein, associated
+with the requirement for us to carry out “a site-wide investigation and provide … [a] report and action
+plan” and “carry out a full surveillance for all other areas ... in order to avoid any damages.”
 Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-impacting on completion of testing and commissioning. This will invariably impact on our ability to
-achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-We write to notify you of concerns we have in relation to the Employer’s Commissioning Consultant
-(CxA) failure in undertaking Commissioning Inspections to 7 Final Distribution Panels (FDB) to Levels
-L0.0, L3.0 and L3.2 on 5 January 2020 despite us issuing a Commissioning Inspections Request (CIR).
-By way of our e-mail dated 4 January 2020 [05:49 PM] we provided ADAC with a CIR schedule listing out
-various FDBs to various levels offering them for inspection by CxA on 5 January 2020. This was then
-followed by a further CIR schedule issued vide our e-mail dated 6 January 2020 [05:49 PM] listing out a
-further series of FDBs for inspection by CxA as part of “today’s inspection”.
-However, in its response dated 6 January 2020 issued at 08:00 AM, ADAC advised us of the following:
-‘During yesterday’s meeting on site [inspection arranged for 5 January 2020] CxA said they would
-witness FDBs from other substations if they had the SMDB and LV mains CIR approved – just checking
-the first one of the list from the schedule you sent and LV Mains is not even ATP4. I then went on to
-check others and again the upstream equipment is not signed off and so CxA will not witness these
-panels today.’
-Our position is as follows:
-We scheduled 12 panels for the CIR inspection on 5 January 2020 (refer to Table 1 below).
+We write to notify you of our concern in relation to unreasonable comments annotated on various NonConformance Reports (NCR), including but not limited to the three NCRs listed in Table 1 below, in
+relation to the requirements for us to carry out full surveillances and investigation reports for all
+external power outlets, missing components and camera conduits installed on site, as applicable.
 Table 1
-Daily Inspection Status Date: 05-Jan-20
-Submitted Inspection 12
-Inspected
-5
-Not inspected due to other than CLP1/2 7
-Code3 0
+NCR ID Date Date Received Location
+Description
+Defect Description
+MTC-CMA-0401-CM-NCR-01510 5-Dec-19
+9-Dec-19
+CP, Level-L0.0, Sector-5.13C and 5.130
+External Power Outlets Without lnbuilt RCD Protection “It has been observed that the external
+power outlets are installed without inbuilt RCD protection which is contrary to the requirement of
+ADWR Clause 7.1.14 & Guidance Note G7 (c) and the RFI # 13660 response. Refer attached ADWR
+Clause 7.1.14 & Guidance Note G7 (c), RFI # 13660 response and site photos. The Contractor to carry out
 
-Out of these, CxA failed to inspect 7 FDBs. Details pertaining to all seven FDBs, room number and level
-etc., not inspected by CxA on 5 January 2020, are set out and summarised in Table 2 below:
-Table 1
-FDBs Name
-Room No
-Level SOW CIRs Weekly plan
-FS-CO-CLP8-L3.0-2
-L30-0113
-L30
-Lukoz (JV)
-under 06-Jan-2020
-NE-RP-CLP8-L3.2-2
-L32-0019
-L32
-Lukoz (JV)
-under 06-Jan-2020
-NE-RP-CLP5-L0.0-2B
-L00-0015
-L00
-Shaheen(JV)
-under 05-Jan-2020
-FS-LP-CLP5-L0.0-1
-L00-0015
-L00
-Shaheen(JV)
-under 05-Jan-2020
-NE-LP-CLP5-L0.0-1
-L00-0015
-L00
-Shaheen(JV)
-under 05-Jan-2020
-NS-LP-CLP5-L0.0-1
-L00-0015
-L00
-Shaheen(JV)
-under 05-Jan-2020
-NS-CO-CLP5-L0.0-5
-L00-0600
-L00
-Shaheen(JV)
-under 05-Jan-2020
-We consider the reason of non-attendance by CxA on 5 January 2020 recorded in ADAC’s e-mail dated 6
-January 2020 does not apply to the panels listed in Table 2 above. In our view, we maintain:
-1.
-All 7 panel are ATP 3-4 approved;
-2.
-No high impedance value for those panels; and
-3.
-Upstream (LV mains and SMDB) is not approved but this should not prevent CxA from attending.
-Accordingly, CxA’s failure in undertaking Commissioning Inspections to the seven (7) FDBs to Levels L0.0,
-L3.0 and L3.2 on 5 January 2020 identified in Table 2, will invariably delay us and as such delay
-completion of our testing and commissioning. This will invariably knock on and impact our ability to
-achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+a full surveillance for all the external power outlets and make sure all power outlets in external area
+shall be as per approved material submittal MS/0401/E/0379”
+MTC-CMA-0401-CM-NCR-01518 12-Dec-19
+18-Dec-19
+CP, Level 3.0, CSP
+Missing
+of
+SMDB/FDB Internal Components after CMA Inspection at CP
+“SMDB & FDB Verification for the
+above-mentioned panel were already completed and accepted by CMA with full components. Later, it
+was noticed that the internal components of these SMDB’s & FDB were removed as a result wire
+terminals are exposed which is an unsafe practice and it is not in accordance with Project Specification.
+The Contractor to carry out a full surveillance for all other areas and to provide its final investigation
+report on an urgent basis in order to avoid any possible incidents, in particular, for the energised/nonenergised panels. In addition to this, all missing components to be re-fixed. The Contractor is to carry
+out a site-wide investigation and provide its report and action plan”
+MTC-CMA-0401-CM-NCR-01432 22-Oct-19
+11-Dec-19
+CP-Level 2.0 Sector 5.24D
+Camera
+Conduit Damages - CP CMA observed that the camera conduits are damaged in CP-L2.0-5.24D for
+camera id: L2.0-1291 and L2.0-1231 and CP-L20-Check-in island. These locations have been previously
+inspected; the damage has occurred subsequent to approval of the applicable WIR. The Contractor to
+rectify the damaged conduit and provide WIR for re-inspection.
+As part of NCR CAPA, the Contractor is requested to carry out a full surveillance for all other areas and to
+provide their final investigation report on an urgent basis in order to avoid any damages”.
+As noted, the requirement for us to “carry out a full surveillance” and “investigation report[s]” has been
+triggered due to a combination of various issues, some of which occurred after the works had been
+previously completed and inspected. By way of specific example, NCR-01432 (ref: 3 in Table 1) records
+that certain camera conduits to Level 2.0 Sector 5.24D [camera ID refs: L2.0-1291 and L2.0-1231 have
+been damaged despite the locations having been previously inspected (Figure 1 refers).
+Figure 1
+It is not known how this damage has occurred or by whom. Nevertheless, in instances such as this, as
+well as the others identified in Table 1, then it goes without saying that upon identification of the cause
+and extent of damage caused and/or the reason for any alleged non-conformance, then the damage and
+non-conformance will be remedied and rectified immediately. Accordingly, you will be requested to
+close out any such NCRs following completion of any associated remedial measures.
+However, your request for us to undertake inter alia “a full surveillance”, “investigation report[s]” and “a
+site-wide investigation and provide … [a] report and action plan” of the areas / works subject to each of
+the NCRs, as well as “carry out a full surveillance for all other areas ... in order to avoid any damages” is
+taking matters too far; and is excessive, unnecessary, and unreasonable.
+Amongst other things, you have not taken cognisance of the myriad works/areas that are currently
+being inspected [not just those noted above] and failed to consider the ramifications as well as the
+practicalities involved if such requests become common place. As recorded in our e-mail dated 16
+December 2019 [12:44 PM] we advised: “With the many check points activities after WIR approvals such
+as Commissioning, Snagging, Punch Listing etc. it would be not practical at this point of the project to
+ask Full Site Surveillance if you observed something on site for some defective devices which in fact it
+was installed correctly as evident with the previous WIR approvals.”
+Moreover, full detailed surveys of this nature will require the allocation of a vast amount of resources
+and will necessitate complicated coordination and permits from numerous other trades, and / or other
+contractors [particularly at this stage of the Project], while inspections (i.e. WIR, CIR, snagging, desnagging, punch-lists) are currently being carried-out as per the Contract requirements for the same
+works, is unnecessary, excessive and will only delay the Time for Completion of the Works.
+We are also given to understand that further NCRs are continuing to be issued by you conveying similar
+requirements to those described above. This will simply exacerbate matters further still.
+
+For the avoidance of doubt, we reiterate that if damages are found into the works which we are liable /
+accountable for during the WIR/CIR/snags etc. inspections, then we will allocate resources for the
+rectification of all non-compliance and will ensure adherence to the target schedule for completion.
+Therefore, we would argue that we are under no obligation to carry-out independent surveys for each of
+the installed camera conduits as requested in your NCR comments. This is particularly the case where,
+in respect of NCR-01432 (ref: 3 in Table 1) you are requesting us to “carry out a full surveillance for all
+other areas ... in order to avoid any damages.” Nonetheless, if you insist us to do so, then this will
+require a valid Engineer’s Instruction (EI) and a Variation Order (VO). In which case, as you know, SAA8
+laid down strict guidelines to follow if additional works are required and this appears to have been
+ignored. Hence this will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you
+require us to proceed with independent surveys into the Works.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you issue us the necessary Instruction / VO, we are unable to proceed
+with implementing such investigations etc., noted above and will continue to proceed in accordance
+with the current WIR, CIR, snagging, de-snagging, punch-list processes and final handing over.
 Yours faithfully,

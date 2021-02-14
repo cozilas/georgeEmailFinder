@@ -1,36 +1,39 @@
 
 Dear Sir,
-Further to receipt of Contractor's Submission referenced above, Engineer's Assistant requires the
-following information to substantiate Contractor's Valuation:
-1.
 
-Summary of activities required to be undertaken in connection with this Variation.
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation both to timing and
+price for the Variation proposed by the Engineer regarding work under the contract.
 
-2.
+The Variation as proposed:
 
-Description of activities undertaken by each listed resource.
+The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
 
-3.
-List of all the deliverables including calculation notes that required
-rework/redesign/resubmission together with references and dates.
-4.
+"Based on these calculations, the minimum clear width of such passageways, whether elevated or
+underground, shall be no less than 1O m. This does not include areas of low mobility near to vertical
+surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
+deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
 
-Evidence of already produced design before El - 89 was issued.
+Volume 6, Sub-Clause 11.4.6.25 b) proposed:
+To reflect an optimization outcome where the minimum clear width of passageways whether elevated
+or underground is reduced to 6.80 meters (excluding event stations).
 
-5.
-
-Evidence of revised design.
-
-Contractor to note the following in their submission of the above supporting information. Engineer's
-Assistant considers that:
+The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
+Required Passageway Widths (attached). Contractor is to note that:
 •
-No re-design/re-work was undertaken in connection with Geotechnical Design at Al Sadd
-Station, and
-•
-No re-design/re-work was undertaken for Doha Zoo, Al Rayyan South and Muaither Stations as
-design of the passageways had not commenced before El - 89 was issued.
-·
-Contra ltor is requested to resubmit the valuat ion incorporating the above. Upon receipt of this
-information the Engine 's Assistant will be in a position to assess Contractor's Valuation.
 
+This does not include for finishes which should be assumed as +1.0m
+
+•
+
+Width of passageway is the clear width between the two (2) clad facades of the passageway
+
+•
+Width of walkway is the usable width of the walkway between the two (2) travellators or the
+travellators and the wall - depending upon layout.
+
+Stations where the minimum width has already been agreed with Other parties or where design and
+construction may have advanced to the stage where reverting minimum width is no longer feasible,
+shall be considered on a case by case basis.
+
+The Contractor shall submit the quotation within 14 days from receipt of this direction.
 Yours faithfully,

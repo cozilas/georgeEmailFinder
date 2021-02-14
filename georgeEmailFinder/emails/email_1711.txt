@@ -1,51 +1,71 @@
 
-Dear Sir,
+Dear Sir,
 
-The Contractor writes with respect to the Architectural BoH and MEP scope of works within the Blue
-Line platform and associated equipment rooms of the Ras Bu Abboud station. For the avoidance of
-doubt, and with reference to the correspondence exchanged thus far, the Contractor sets out its
-position as follows:
+This is an instruction under Sub-Clause 13.1.1 to initiate a variation. The nature and extent of the
+variation is outlined in the attached waiv.er granted by Qatar Civil Defence dated 3rd March 2015
+following Qatar Rail request for waiver ref POOO-QRC-SSA-LTR-00013 dated
 
-1.
-The Contractor enquired for this first time in relation to the Day 1 Operations and fit-out
-requirements of the said areas via the RFI of reference 7). The EA stated in its response that the
-Contractor was responsible to deliver “the complete Fit-out for the whole of the Concourse level and
-Gold Line Platform Level”.
+261
 
-2.
-Both the minutes of reference 5) and the EA’s letter of reference 3) suggested that the Blue Line
-would be non-operational during Phase 1, i.e. in line with the Contact documents and Tender
-clarifications. In particular, the EA instructed the Contractor explicitly via letter reference 3) to “Fit out
-double-concourse throughout and slab-over unused VT openings” and to “design but not fit out Blue
-Line platforms”
+February 2015.
 
-3.
-Having received the EA’s assurance on multiple occasions therefore, the Contractor advanced its
-MEP self-perform proposal on the basis that MEP works would not be required for the Blue Line
-platform at Ras Bu Abboud.
+Volume 6 Section 10 Clause 5.1.2.4 shall now read "Cross-passageways shall be provided in tunnel
+sections where they are required at a maximum distance of 244m between each other. The distance
+between a cross-passageway and an evacuat ion shaft, the station platform public area or a tunnel
+portal shall not be more than 500m."
 
-4.
-As part of the Contractor’s self-perform proposal, the Contractor and the Employer also
-addressed a number of cost saving proposals which later formed the basis of the Engineer’s Instruction
-138. Within these qualifications of letter reference 2), the following statement was put forward:
+You are required to comply with the attached waiver and change to volume 6 Section 10 Clause 5.1.2.4.
 
-“Deletion of OTE ductwork over the track area for future Blue Line. The same to be installed in future by
-the appointed MEP subcontractor for completing the MEP works in the Blue line platform area”
+An initial technical assessment indicates that a minimum of 20 cross passages can be omitted
 
-The Contractor’s scope of works vis-a-vis the said areas is clearly limited to design only, which has been
-duly undertaken and is progressing accordingly, in line with its contractual obligation. From several
-discussions which have taken place the Contractor now understands that the Employer’s intent may
-involve a non-revenue service with trains not stopping at the Blue Line platform for passenger boarding
-or alighting. This non-revenue service may, however, be used for staff and / or goods transport to / from
-the Ras Bu Abboud station.
+Pursuant to Sub-Clauses 13.6.1 and 3.5, you are requested to provide your initial assessment of the
+adjustment to the Contract Price and the Schedule of Payments to this instruction within (14) fourteen
+days from receipt of this letter, to enable the Engineer to consult with you in an endeavor to reach
+agreement.
+Dear Sir,
 
-In this event, the Contractor speculates that some fit-out works may in fact be required and it may be
-the Employer’s intention to instruct these works to the Contractor, whether architectural or MEP. The
-Engineer’s Assistant is therefore requested to kindly provide a clear direction as to the extent of the
-scope that the Employer wishes the Contractor to undertake, and in the event that the non-revenue fitout is required, specific details as to the overall scope of works.
+Further to the Contractor's fully detailed interim Claim Nr 56 submission, reference 1, the Contractor
+now confirms, in accordance with General Condition ("GC") 20.1.6(b) of Volume 3 of the Contract, the
+following additional cost information has been collated by the Contractor to 16 June 2016 in relation to
+the provision of the Implementation of a Centralized Cooling System (the Claim Event).
 
-The implementation of any such requirement on site would constitute a Variation and upon receipt of
-the Engineer’s Instruction, the Contractor shall proceed in accordance with the provisions of Clause 13
-[Variations and Adjustments] of Volume 3 of the Contract.
+The costs already paid by the Contractor as a direct consequence of the Claim Event, in particular
+section 8.4 paragraph 311) to 316) of Claim 56, reference 1, are further substantiated with the following
+information.
+
+As laid out in Claim 56, reference 1, the Contractor has received FCN 073, reference 3, from the Lead
+Designer, wherein the Lead Designer claims in direct consequence of the Claim Event an amount of:
+
+QAR 14,508,742.00
+
+The Contractor has provided to the Client FCN 073 in Appendix B of Claim 056, reference 1. The
+Contractor has thoroughly evaluated the Lead Designer’s Claim and defended the Client’s interest. For
+full transparency, the detailed evaluation of the Lead Designer’s FCN 073, reference 3, is provided to
+client in attachment 1 to this letter.
+
+In the Contractors Determination of FCN 073, the adjustment of the agreed compensation amounts to
+
+QAR 8,167,621.82
+
+The Contractor notes that the amount issue of the determination of FCN 073 is contested by the Lead
+Designer and must therefore not be considered final.
+
+As of 29 February 2016, the progress of the Lead Design Works in relation to FCN 073 amounts to 75%
+and the progress on MEP Works to 50%. The Contractor has paid the due amounts in accordance to the
+aforementioned progress and to the Contractor’s determination value, totaling:
+
+QAR 5,172,875.47
+
+The full particulars concerning the executed payments of the above mentioned amount is provided in
+attachment 2 to this letter.
+
+? Add finance costs
+
+As the Claim Event giving rise to this Claim has a continuing effect and the Contractor is still collating
+further
+particulars, the Contractor shall be submitting further interim Claim submissions with respect to the
+Claim
+
+Event giving rise to combined Claim Nr 025 & 026 at monthly intervals as required by GC 20.1.6(b).
 
 Yours faithfully,

@@ -1,26 +1,27 @@
 Subject:
-
-Re: Notification of Damages during the Installation of Aluminum
-Checker Plate in pier 01., Level1.0.
-
+SAA8 Sub-Clause 2.26, E-Notice No. – E0007 – Discrepancies between Door
+Schedule Rev 31, SACS, Data and Power Provisions
 Dear Sir,
-We are in receipt of your letter referenced (1) above in which you have informed us about the seepage
-of water/moisture on the surface of the aluminum checker plates which has resulted in its discoloration.
-In your letter, you seem to allege that the damage has occurred due to our lack of action and you have
+We write in connection with the above mentioned subject and notify you pursuant to Sub-Clause 2.26 of
+the Settlement Agreement and Amendment No. 8 that this event may cause delay to the Works and
+therefore we seek your swift resolution to avoid any future disruption or delay pertaining to this matter.
+The Engineer issued instructions EI 681, EI 681A and EI 681B under letter references (1), (2) and (3)
+regarding the Door Schedule, Security Access Control Systems (SACS), Power and Data Outlet for Doors
+in Bulletin 245.
+A request for an Engineer’s Instruction (RFEI/0401/0676) was issued under letter reference (4) for
+additional data points which were not instructed under Bulletin 245.2. The Engineer responded on the
+20 September 2018 under letter reference (6) and we are of the opinion that this response does not
+resolve the issue.
+RFI reference (5) and (7) requested clarification for discrepancies between Door Schedule Rev 31 and IFC
+Drawings for SACS. The Engineer’s response introduced further changes between the Door Schedule Rev
+31, SACS, Power and Data Outlets. These changes constitute a variation under the Contract and require
+an Engineer’s Instruction to amend Bulletin 245 and to proceed accordingly.
+On the 06 November 2018 a meeting was held between the Engineer (AECOM) and the Contractor (TCA
+JV) in an attempt to resolve the aforementioned discrepancies, however no conclusion was reached and
+to date we have not received any further direction.
+Your prompt action, guidance, decision or further instruction is required, failing which the works are
+likely to be delayed and/or disrupted.
+We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
+extension of the Time for Completion and additional Costs arising from the above described event.
 
-also requested us to take necessary measures to avoid this type of damages, which we refute and
-inform you the following.
-We put on record that your site storage is extremely poor and the conditions these materials are being
-kept are not at the appropriate level and is affecting their quality. We also put on record that even
-though you are well aware of the effect humidity has on these materials, during the summer months,
-you had stored the materials without properly protecting them from humidity. The type of thick
-coverage shown in the photos enclosed herewith, causes high moisture to the materials during the
-summer time.
-In view of the above, you are requested to take appropriate action as necessary to protect your works.
-Moreover, you are reminded of your obligations under Subcontract Clauses 15.6.2 [Passing of risk and
-title], 24.2.1 and 24.2.2 [Subcontractor’s Care of the Subcontract Works] to protect your works until
-ownership transfers to the Employer upon Taking over Certificate in accordance with Subcontract Clause
-18 [Contractor’s Taking Over].
-We trust the aforementioned information and instruction are self-explanatory and you will carry out the
-necessary actions.
-Yours faithfully,
+Yours faithfully,

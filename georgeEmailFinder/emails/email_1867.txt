@@ -1,18 +1,18 @@
-
 Dear Sir,
 
-Reference is made to the Engineer’s letter/Instruction No. 74 at reference 2) above, (received by the
-Contractor on 19 August 2015.
+Reference is made to the Engineer’s letters items 3) and 4) and the reminders items 1) and 2) regarding
+the direction under clause 13.2.1 of the General Conditions to submit quotations for the modifications
+to the Employer’s Requirements.
 
-The Contractor considers that this Engineer’s Instruction constitutes a variation and hereby notifies the
-Engineer’s Assistant of the Contractor’s intention to claim for its perceived entitlement for adjustment
-to the Contract Price for payment of the additional costs, incurred due to the EI number 74 Variation, in
-accordance with General Conditions 3,3,3.
+The contractor confirms that the letters are all request on the same subject matter which is the
+modification of the allowable voltage drop.
 
-The Contractor also refers to letter reference 1) above, and therefore also hereby gives notice under
-Clause 20.1.2 of volume 3 of the Contract.
+The allowable voltage drop which is currently 2.5% in accordance with the Kahramaa specification,
+which has now been extended to 6% for lighting loads and 8% for any other loads in accordance with
+BS7671 and IEC 60364-5-52. The Contractor confirms that this new requirement has been incorporated
+into the MEP designs currently included in the Tender documents for the MEP Provisional Sums
+packages.
 
-Notwithstanding the foregoing the Contractor confirms it will endeavor to keep additional costs in
-connection with the EI number 74 Variation to a minimum.
+The Contractor trusts that this clarifies the current situation.
 
 Yours faithfully,

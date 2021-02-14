@@ -1,33 +1,126 @@
 
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0029 [Post SAA8]
-Overdue Review of MEP Shop Drawings [31 October 2018] – Update
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0099
+Engineer’s Response to RFI/0401/17023 – Requirement for Additional Road Marking at Airside –
+Request for Engineer’s Instruction / Variation Order (VO)
 Dear Sir
-This letter serves as an update to E-Notice No. 0029 issued by way of our letter ref: (1).
-By way of reminder: our letter ref: (1) notified you of potential delays consequent upon your belated
-responses to a total of 773 Shop Drawings detailed on the pdf summaries attached thereto; namely:
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
+may cause delay [and/or disruption] to the Works, and accordingly seek your swift resolution of the
+same
+The Event(s):
+On 7 March 2019, we submitted the following Shop Drawing Submittals seeking your approval of the
+Airside Service Roads, Road Marking Layouts, Level L1.0, Sectors 8.11 and 8.32 (Table 1 refers).
+Table 1
+Item Date submitted Submittal Ref Rev
+Description of Contents Response Due Specification
+Section 013300 Response received
+Status Code
+1
+07-Mar-19
+SDS/0401/C/0345
+01
+Airside Service Roads, Road Marking Layout,
+Level L1.0, Sectors 8.11
+[2 shop drawings attached thereto]
+21-Mar-19
+14-Mar-19
+3
+2
+07-Mar-19
+MS/0401/A/0340
+01
+Airside Service Roads, Road Marking Layout,
+Level L1.0, Sectors 8.32
+[2 shop drawings attached thereto]
+21-Mar-19
+20-Mar-19
+3
+
+Notably, both Shop Drawing Submittals were returned on 14 and 20 March 2019, annotated Code 3
+advising us to ‘refer to comments in the attached [shop] drawings’. In turn, the comments detailed on
+the Shop Drawings contained annotations that included the following statement(s):
+“These locations are must be coordinated with MTA marking. There are access for apron”
+Unsure what these comments meant, on 10 April 2019, we raised RFI/0401/17023-00 (dated 9 April
+2019) which at its simplest, asked that you clarify the above comments and provide any updated IFC
+drawings to allow us to revise the road marking shop drawings and re-submit them for approval.
+On 27 April 2019, we received your response to RFI/0401/17023-00, attached to which were a total of
+nine (9) sketches which you referred to as ‘CSK-0261.1 till CSK-0261.9 (RFI-0401-17023)’ albeit they were
+for all intents un-dated but nevertheless revised IFC Drawings (the information recorded in Table 1
+below, refers), which you advised contained ‘… the latest coordinated information.’
+Table 1 – Details of the revised sketch drawings
+attached to the response to RFI/0401/17023-00
+Item Sketch Drawing No.
+Rev.
+Drawing Title
+1
+MTC C 06 AS _ L-0 6-01 _ .091 02
+Airside Service Roads Marking and Signage Layout Sheet
+1
+2
+MTC C 06 AS _ L-0 6-02 _ .092 02
+Airside Service Roads Marking and Signage Layout Sheet
+2
+3
+MTC C 06 AS _ L-0 6-03 _ .093 01
+Airside Service Roads Marking and Signage Layout Sheet
+3
+4
+MTC C 06 AS _ L-0 6-04 _ .094 01
+Airside Service Roads Marking and Signage Layout Sheet
+4
+5
+MTC C 06 AS _ L-0 6-05 _ .095 01
+Airside Service Roads Marking and Signage Layout Sheet
+5
+6
+MTC C 06 AS _ L-0 6-06 _ .096 02
+Airside Service Roads Marking and Signage Layout Sheet
+6
+7
+MTC C 06 AS _ L-0 6-07 _ .097 02
+Airside Service Roads Marking and Signage Layout Sheet
+7
+8
+MTC C 06 AS _ L-0 6-08 _ .098 01
+Airside Service Roads Marking and Signage Layout Sheet
+8
+9
+MTC C 06 AS _ L-0 6-09 _ .099 01
+Airside Service Roads Marking and Signage Layout Sheet
+9
+Additionally, your response to RFI/0401/17023-00 further advised that ‘[f]or clarity, the marking on
+Airside is marked in blue’. Therefore, on the face of it the revised sketch drawings were issued for
+information and coordination purposes only, but that said, on closer examination, some of the nine
+sketches attached to your response to RFI/0401/17023-00 indicate additional directional arrows in some
+areas with additional green painting that is required to be applied below the white paint.
+Specifically, previously we had only a pedestrian crossing over the GSE road to the apron and that was
+white paint only. The new sketches attached to the response to RFI/0401/17023-00 indicate additional
+green hatching paintwork required where the BHS door exist (this appears to give an indication for bag
+trolleys from where are allowed to enter the apron level). However, given that the green paint
+interferes with the white pedestrian crossing, then it must be placed below white paint.
+Therefore, we record that not only do the noted drawings contain revised road marking information that
+will require us to revise our own road marking Shop Drawings, but given that they reflect works that is
+additional to our existing scope, will necessitate that you re-issue these IFC Drawings under an
+Engineer’s Instruction / Variation Order, if you require the additional work to be undertaken by us.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing any changes to our existing road marking works and will
+continue with the Works in accordance with the current IFC Drawings. We trust this is clear.
+Potential Impact:
+Any requirement for additional works, in this case, additional road marking, at such a late stage of the
+Project, is very likely to impact upon our ability to achieve Milestone MS9C (Substantial Completion).
+Action Required:
+It is for this reason therefore that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
 1.
-Schedule 1 consisted on 196 nos. of ‘Plumbing Mechanical Shop Drawings; and
-2.
-Schedule 2 consisted of 577 nos. of ‘Open Electrical Shop Drawings’.
-Specifically, we recorded that at or around the date our notice was prepared (31 October 2018), you
-exceeded the review periods expressly stipulated within Article 1.3 of Specification Section 013300
-‘Submittal Procedures’ for the majority the noted submittals; hence the issuance of our E-Notice.
-We have since reviewed each of the same Shop Drawings [773] and accompanying Submittals [276] that
-were subject to E-Notice No. 0029 and herewith attach an update of the status of the various
-Mechanical, Electrical, PAVA, Fire Alarm, and Fire Protection Shop Drawings at Annex A and B hereto.
-Annex B represents a comprehensive list of ‘Full Details of Overdue Responses to MPE Shop Drawing
-Submittals subject to EN-0029, updated to 29 May 2019’; while Annex B provides a ‘Summary of
-Overdue Responses to Shop Drawing Submittals subject to EN-0029, updated to 29 May 2019.
-However, Annexes A and B shows that you actually exceeded the review periods expressly stipulated in
-the Contract in relation to 243 out of the 276 Submittals, by periods of up to 151 calendar days.
-In conclusion therefore, it is clear that any ‘lateness’ in responding to our Shop Drawing Submittals
-constitutes an act of prevention and/or breach of Contract and accordingly, we hereby give you notice
-pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 of our right to claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of contract.
-Interim and/or final details of the time impacts and adjustments to the Contract Price relating to this
-event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

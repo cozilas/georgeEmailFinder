@@ -1,34 +1,12 @@
-Subject: Preparation for ADAC Network- Security (Penetration) Testing
+Subject:Re: Incident Report; Damage on the installed Customer Counter at Check-In CD-09-10
 Dear Sir,
-Please note that the ADAC Infrastructure subcontractor will be performing a Network (LAN and
+We are in receipt of your letter referenced (1) above, in which you informed us about the incident as per
+the subject matter. After reviewing the evidence submitted with your letter we note that your works as
+shown in the photos have not been protected properly. As per your Subcontract obligations, you failed
+to take all appropriate actions to protect your works.
+Therefore, we refute the content of your letter and remind you of your obligations under Subcontract
+Clauses 15.6.2 [Passing of risk and title], 24.2.1 and 24.2.2 [Subcontractor’s Care of the Subcontract
 
-WLAN) Security (Penetration) Testing shortly (see attached schedule).
-This test will be an intrusive test and is a simulated "attack" on the network to probe for weaknesses
-and vulnerabilities that may exist in Operating Systems, Services, Applications, Databases and
-Network including potential for any attacker to gain access either via internal or external network.
-We would like to inform you that before the start of this test, all updates to your systems including
-major, minor upgrades and patches should be applied to your Operating Systems, Services,
-Application, Firmware and Databases should be completed. The upgrades are scheduled to start by
-beginning of November 2018. This will allow the Infrastructure team to lock-down their Firewalls.
-Once the test has finished, strict version control will be applied and updates will be allowed only
-after due consideration on individual merit by the Change Control Board. Along with the upgrades,
-we will also need an upgrade road map for any future updates in order to plan ahead.
-Once the test has been run, the subcontractor will present a report detailing any vulnerabilities that
-were identified. There will be a period of time that will be given to each system to fix these
-vulnerabilities following which the identified vulnerabilities and their fixes will be checked.
-Following the fix, Performance testing will be scheduled. Details of this test will be shared in another
-communication.
-Based on the above information, you are requested to provide a list detailing versions of all
-Operating System, Services, Application, Firmware and Databases being used in this project.
-The above is for your information and action. Please respond within 7 days of receipt of this letter
-providing requested details.
-Subject: High Performance Coating HPC-01 (Variation Order 01)
-Dear Sir,
-With reference to the above subject and in continuation to our letter referenced (1) above, which is the
-issuance of Variation Order 01 for the HPC 01 works, this is to inform you to proceed with the works for
-the paint as agreed 50 / 50 for the mix ratio of HPC-01 and open joints as per the said VO 01.
-In addition to the above, please be informed that the works and final product are subject to the
-Engineer’s approval. Please also note that the Engineer has explicitly stated that based on this relaxation
-no cracks will be accepted.
-This is for your information and further action.
+Works] to protect your works until ownership transfers to the Employer upon Taking over Certificate in
+accordance with Subcontract Clause 18 [Contractor’s Taking Over].
 Yours faithfully,

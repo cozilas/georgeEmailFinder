@@ -1,39 +1,22 @@
 Dear Sir,
-This is notice under Sub-Clause 2.5.1 that the Employer considers himself to be entitled to a payment in
-connection with the Contract, as described below:
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute
+a variation.The nature and extent of the variation is provided below. The fo l owi ng Employer's Requi
+rement:
+Volume 6, Section 13, Figure E1: Station Power Systems Block Diagram - Scope Demarcation:to be
+deleted.
 
-PARTICULARS OF ENTITLEMENT
+Volume 6, Section 13, Sub-section 13.3.4.4 (f}: Stand-by Diesel Generators - to be deleted.
 
-1.
-Contract Volume 3 Sub-Clause 6.6.1 requires the Contractor to provide and maintain all
-necessary accommodation and welfare facilities for the Contractor's Personnel.
+Volume 6, Section 14 (Electrical & Mechanical Room Requirements) - are to be amended to remove
+Diesel Generators and Tanks as follows:
 
-2.
-Accommodation and welfare facilities for the Contractor's Personnel required by the Contract
-are not in accordance with the Employer's Requirements Volume 4 Sub-Clause 27 .1.1. Notwithstanding
-the temporary concession granted to the Contractor by not enforcing Qatar Foundation Migrant Welfare
-Standards 2013 (Volume 4 Sub-Clause 27.1.1), a significant number of personnel is living in facilities not
-compliant with the Housing Law 2005 and 20 14, as of the date of the above referenced letters.
+Figure E.1: Station Power Systems Block Diagram - Scope Demarcation - to be added.
 
-3.
-The Employer claims entitlement to the value of the management, facility administration and
-maintenance of the accommodation and welfare facilities for the Contractor's Personnel (350 workers
-from 7 March 2014 to 21 April 2015; 916 workers from 22 April 2015 to 12 July 2015; 728 workers from
-13 July 2015 to 31 July 2015) and accruing in respect of those facilities still not provided.
-
-4.
-
-The amount of the Employer's entitlement is as follows:
-
-Item
-
-Description
-
-Amount (QAR)
-
-1
-Omission of the value of the management, facility administration and maintenance of
-accommodation and welfare facilities for the Contractor's Personnel from 7 March 2014 to 31 July 2015
-(as detailed above).
-3,500,000
+Diesel Generators and Tanks are deleted from the metro stations as Qatar Rail's multiple redundancies
+in the power supply system are by means of two Station Power Supply Substations (SPS) at either site of
+a metro station. At this level there is 100% SPS redundancy. If SPS 1 fails, SPS 2 can provide the full load.
+The room allocation for the Diesel Generators (70 m2) is to remain for Systems use. The room allocation
+for
+Diesel Tanks (30 m2) is to be utilized by the Civil Works Contractors.
 Yours faithfully,

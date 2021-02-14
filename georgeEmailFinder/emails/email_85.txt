@@ -1,29 +1,154 @@
-Subject:
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0257
+Late and Unreasonable Status Code 3 Comments Issued in Response to Document Submittal
+DS/0401/L/15394 Rev. 00 ‘Structural Design Calculation Report - WIFI Antenna Bracket on Existing Sign
+Totem’
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 
-Dear Sir,
+Overview
+The matters described in Annex A hereto concern delays associated with the late and unreasonable
+Status Code 3 comments issued in response to Document Submittal No. DS/0401/L/15394 Rev. 00 for
+the Structural Design Calculation Report associated with the WIFI Antenna Bracket for Existing Sign
+Totem.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+On 4 March 2020, we submitted Document Submittal No. DS/0401/L/15394-00 (refer to Table 1),
+seeking your approval of the ‘Structural Design Calculation Report - WIFI Antenna Bracket on Existing
+Sign Totem’.
+Table 1
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+4-Mar-20
+DS/0401/L/15394
+00
+Structural Design Calculation Report - WIFI Antenna
+Bracket on Existing Sign Totem 25-Mar-20
+29-Mar-20
+3
+4 Calendar days
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. On the basis that DS/0401/L/15394 is at
+Rev. 00, then this ought to have been responded to by you 21 calendar days later, i.e. on 29 March
+2020. However, the information recorded in Table 1 shows you exceeded the contract review period by
+4 calendar days.
+Our entitlement to an extension of time and to recover the associated costs resulting from this act of
+prevention on your part and / or the part of the Employer’s Personnel/Consultants, will apply
+irrespective of any alleged failure on our part [which is denied], to transmit submittals to you in a timely
+manner.
+Notwithstanding, we note that the response to DS/0401/L/15394-00 contains what we contend are a
+series of unreasonable comments, despite the ‘Structural Design Calculations’ for the WIFI Antenna
+located at Gatehouse ‘GH4’ being compliant. The following represents an extract of the
+DS/0401/L/15394-00 and indicates your Status Code 3 (Revise and Resubmit) comments annotated
+thereupon (refer to Figure 1).
+Figure 1
+The information recorded in Table 2 below, records each of the foregoing comments alongside which we
+have provided a corresponding response justifying why we believe the comments are unreasonable.
+This also indicate whether the comments have any actual impact upon, or risk, to the Design
+Calculations.
+Table 2
 
-Delay Notice – Remaining Cut Pieces at Ceiling in CP L0.0/L0.1
+Engineer Comments
+Contractor’s Response Impact on the calculation content-risk for further works
+KPF Comments:
+1. Comments may be applicable to similar conditions elsewhere.
+2. Contractor is responsible for coordinating drawings with requirements of structural calculations.
+3. See reviews for similar submissions for further comments.
+4. See additional comments within the submission.
+Noted. We are responsible and confident about
+more than 50% overdesigned light bracket that holds 10kg of WI-FI gears.
+None.
+Critical Comment:
+If the mounting bracket is assembled from parts welded together, then additional calculations will be
+required to substantiate the weld area. We respectfully note that this comment is not valid and thus
+not acceptable. The reviewer is kindly asked to look again at page no 4, which presents a catalogue page
+of the casted aluminium bracket.
+None. Since the comment is not valid.
+NACO Comments:
+1. Ensure structural adequacy of primary supporting member. As the totem calculation is not included in
+this DS, it is expected Contractor will submit a revised calculation for the totem to ensure the totem
+structure is adequate to support these additional loads. We strongly disagree with this comment, since
+this Document Submittal and its content, is subject and limited to the WI-FI bracket only, not the
+bracket medium. Therefore, the reviewer’s scope is to check and confirm structural integrity of the
+bracket only. The totem by its purpose and nature is designed to take extra loads, we therefore fail to
+see why the calculations have to be revised for the totem.
+None. Since the comment is not valid.
+2. Ensure frequency check and investigate any potential resonance problem likely to occur (if
+applicable).
+We strongly disagree with this comment. As per the industry standards and the
+structural standards, the frequency of the WIFI waves has never formed part of a structural check. The
+WIFI waves are not creating any disturbance to any of the components of the brackets. None, since the
+comment is not valid
+3. Wind pressure need recheck. Ensure correct height factor considered confirm with respect to actual
+ground level. We strongly disagree with the stated comment. The reviewer is kindly asked to revisit
+pages 3 and 8, where actual height and related factors as per UBC 1997 vol. 2 are considered.
+Additionally, to be noted that the factors considered are taken as a maximum and as a very unlikely
+event, meaning that the final figure of the wind pressure is overdesigned.
+None,
+since
+the
+comment is not valid
+4. Wind pressure when compared with wind pressure as per AASHTO’s LTS, applied wind pressure
+seems lesser. Please check remark on respective page. We respectfully note that, the reviewer does
+not have any right to force the design as per its preferred codes. So far, within these 8 years on this
+project we executed many of the designs including wind as per UBC 1997 vol 2 which have not met with
+any objection or rejection until now. We are kindly requesting the reviewer to obtain and maintain a
+systematic approach of the review process, where at the end of any review, there is an overall
+assessment of the design even if comments are written. None, since the comment is not valid
+5. Dissimilar material if used, shall not be influenced by bimetallic corrosion.
+This is more of a
+statement rather than a comment. Therefore, we strongly reject this statement by clarifying that both
+materials, use aluminium and stainless steel which are NON-RUST MATERIALS. If reviwer is focusing on
+“cathode-anode “ effect on the molecular level, we can disable this effect by separating stainless steel
+bolts from aluminium brackets with sylicon. Before tying the bolts we will fill the holes with sylicone
+following manufacturer recommendation and create separation layer. The sylicone will be used with
+polymer for long duration and heavy duty.
+None, since comment is not valid
+6. Any part of calculation, which is not applicable / relevant to present DS, shall be removed from DS.
+Answered in below row: “others comments”. None, since the comment is not valid
+Others comments:
 
-We refer to above-mentioned subject matter and record your persistent failure in the completion of
-your works in a timely manner as required and inform you about our concern over the ongoing site
-delays caused by you, which have been notified to you numerous times. We also put on record once
-again your lack of manpower which is affecting the works and delaying other activities and has to be
-resolved immediately.
-In light of the above, be informed that the following works need your urgent attention:
-Location
-Status
-CP -L0.0/L0.1- Arrival Immigration Hall Ceiling
-The completion of the ceiling has been delayed as highlighted in the enclosed drawing. Your failure to
-complete the remaining cut pieces on the ceiling has caused a delay in the handover. The mentioned
-outstanding works have also caused many WIR to remain Code 3.
-
-You are hereby instructed to take immediate action, at no additional cost to us, in order to complete the
-aforementioned area(s) and submit your planned completion date with mitigation measures to recover
-the delays caused by you due to incomplete works.
-Any delays, costs, claims, losses and/or expenses and the like incurred by us and/or Other SubContractors arising as a result of your failure to complete the aforementioned activities will be solely
-your responsibility as per the Subcontract Agreement Clauses including but not limited to 12.12.4 [Other
-Contractors and Other Subcontractors] and 16.6 [Delay Damages].
-This notice has been issued pursuant to the Conditions of Subcontract Agreement due to your default,
-negligence, and/or lack of diligence while performing your obligations.
-This is for your information and necessary urgent action.
+About aluminium alloys, yield stress, bolted and welded connections, non-necessary pages in
+calculations. -In engineering practice it is very well known that rarely the pure aluminium material is
+used as the building materials. It is always alloyed aluminium and most used strength of such aluminium
+is around 160N/mmsq. The yield strength around 160 N/mmsq is available in all engineering design
+books and such is accepted as conventional. Welded connection is following the same conventional
+approach. Also please note that designed structure is having overall stress ratio of 0.5 taking all safety
+factors and selecting maximum end forces. Meaning that there is an extra 50% of capacity not used that
+brings more comfort for alloyed materials.
+-Regarding bolted connected between bracket’s parts, please note that treads are never checked, since
+treads are having much capacity than the actual core, due to the fact that treads are distributing the
+force along its tread’s lines.
+-For pages not required and commented to be removed please note that we are using a prepared excel
+sheet as it is the most common practice in the engineering, which is having multiple options and
+elements to calculate. So, the comment for collateral page is not recognized since you are not
+presenting any risk for the calculation’s content and the same is clearly marked in calculation as “not
+applicable”.
+None, since the comment is not valid
+We believe our response to your comments is self-explanatory and comprehensive, and fully supports
+the fact that the Status Code 3 comments annotated upon DS/0401/L/15394-00 are unreasonable
+In view of this, we hereby notify you that your overdue and unreasonable response to
+DS/0401/L/15394-00, will invariably delay the completion of the WIFI Antenna located at Gatehouse
+‘GH4’ and related works and will result in consequential delays to inspections; thereby invariably
+delaying the Time for Completion.
+Accordingly, we urge you to consider re-coding DS/0401/L/15394-00 by return in order to avoid any
+further unnecessary delays. Please note that we shall seek an extension of time and financial
+compensation for any delays (and associated costs) incurred to date and/or which may be incurred by us
+as a result of your late and unreasonable comments and unnecessarily coding DS/0401/L/15394-00
+Status Code 3.
 Yours faithfully,

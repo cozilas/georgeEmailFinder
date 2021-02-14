@@ -1,14 +1,56 @@
-Subject :
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0133
+Delays due to Damage Caused by Employer’s Other Contractor (DEPA) to MEP Services at North Lounge Request for Engineer’s Instruction/Variation Order
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Annex A records delays attributable to damage caused by the Employer’s Other Contractor (DEPA) to
+our previously installed MEP services at North Lounge, which require rectification and accordingly will
+require an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
+Potential Impact
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We herewith enclose a series of photographs together with a set of reports (at Annexe B to E hereto)
+that serves to evidence damage having been caused to our previously installed MEP services at North
+Lounge Level L3.0 and Level L3.1. Unfortunately despite various fire life safety services and devices
+having been installed, inspected and handed over by us through the WIR process, this has subsequently
+been damaged; and is directly attributable to the Employer’s Other Contractor (DEPA).
+Specifically, we draw your attention to the following:
+•
+Between 5 August 2019 to 15 August 2019, 3 nos. of FLS devices and cables (consisting of two
+Smoke detectors and one Isolator module and fire alarm cable) at level 3.0 North Etihad lounge, were
+found damaged (refer to Annex C ‘L3.0 NORTH ETIHAD DAMAGE REPORT’);
+•
+On 17 August 2019, during a routine site check it was found that the Electrical PAVA systems’
+Loud Speaker at CSP L3.0 North lounge area, has been damaged by DEPA (refer to Annex B);
+In support of the foregoing, we provide the following attachments:
+1.
+Annex A: This narrative providing a ‘Description of the Event’;
+2.
+Annex B: ‘Photos / Images Reference PAVA’;
 
-Pending Re-Coding of Structural Shop Drawings
-
-Dear Sir,
-Further to the attached email correspondence, wherein a representative of the Employer confirms that
-the Contractor had proceeded with the Works on Site in accordance with the applicable code 1
-comments and therefore a number of shop drawings should be re-coded to enable the approval of the
-relevant work inspection requests (WIRs), please be kindly advised that the re-coding of the shop
-drawings listed below has not yet occurred.
-
-The Engineer is hereby politely requested to change the code status of the above listed drawings thus
-enabling the Contractor to close the related WIR.
+3.
+Annex C: ‘FAS Damaged Devices’;
+4.
+Annex D: Draft ‘Witness Statements’ [pages 1 of 2 and 2 of 2]; and
+5.
+Annex E: Draft ‘HSE Reports’ [pages 1 of 2 and 2 of 2]
+We wish to put on record that the foregoing events are not of our doing or responsibility, and any
+rectification / remedial works necessarily required to re-install and re-test the damaged elements of the
+Fire Life Safety system at the Level L3.0 North Lounge at this stage will invariably delay us.
+We therefore inform you in order for us to undertake the rectification works to the damaged services
+noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
+down strict guidelines to follow in the event that additional works are required and we therefore
+request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
+Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
+our previously handed-over MEP services installation by the Employer’s Other Contractors.
 Yours faithfully,

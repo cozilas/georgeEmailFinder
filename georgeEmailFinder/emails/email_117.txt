@@ -1,108 +1,49 @@
-Subject: RE: Notice of Delay- Pending Approval on Sub-Subcontractor Variations Cost
-Dear Sir,
-The Contractor confirms receipt of letter reference {1) wherein the Subcontractor (i) informs that, due
-to
-cash flow issues, the Sub-Subcontractor Cleveland Bridge & Engineering Middle East {CBEME) requires
-an
-on-account payment of 'not less than' AED 30 million against Variations I claims submissions and (ii)
-advises that the non-payment of this amount would result in further delays to the completion of the
-Subcontract Works.
-To be clear, pursuant to Clause 9.18.2 of the Conditions of Subcontract, 'nothing contained in the
-Subcontract or any sub-subcontract awarded by the Subcontractor shall create any contractual
-relationship between the Contractor and any such Sub-subcontractor(s)'. In other words, the
-Subcontractor has entered a contract with the Sub-Subcontractor CBEME; hence, it is the
-Subcontractor's
-responsibility to assess and/or pay the Variations/claims of his subcontractor.
+Subject: Observation of subsidence in areas between gh01 and pqc pavement
+Dear Sir
+We have observed considerable subsidence to the finished works all around pier 1 area towards the pqc
+pavement, particularly to the block paving and kerbs, lamp masts, column surrounds and underground
+services entering the building. Please see enclosed visual records for the current situation.
+The gatehouse itself has not moved, as the pile foundations support it, however there are signs that the
+chilled water pipes seem to have slumped at the wall opening.
+We believe the cause of this subsidence being the impact of flood and inundation experienced during
+the heavy rainfall on 10 November 2019.
+Please note that there was no wet weather plan in place from the Other Contractor (L&T) and the
+rainwater was allowed to run off from the pqc apron and enter the previously excavated trench for mta
+stormwater line via the channel drain, which had not been blocked at the excavation zone. This started
+the process of material collapse and the settlement is continuing between gatehouses 1 and 3.
 
-Notwithstanding the contractual aspect highlighted above, be reminded that the Contractor has paid
-over
-AED 153 million on-account to the Subcontractor to date; over AED 55 million have been paid against
-Variations, over AED 82 million have been paid against acceleration claims and AED 12 million have been
-paid to improve the Subcontractor's cash flow. Furthermore, over AED 120 million out of the AED 153
-million paid to the Subcontractor on-account to date, have not yet been recovered by the Contractor.
-In view of the financial aid provided to the Subcontractor thus far, the Contractor is perplexed at the
-Subcontractor's demands and requests the Subcontractor provides reasonable evidence that these
-onaccounts
-payments have been passed on to the Sub-Subcontractor(s). Pursuant to Clause 21.3.3 of the
-Conditions of Subcontract, the Subcontractor is requested to provide such evidence within three {3)
-days
-of this notice.
-Subject: Outstanding Payment to Sub-Subcontractor's
-Dear Sir,
-We acknowledge receipt of your Letter Reference MTB/PCEJV/TCAJV/L/00962 with the subject matter
-'Outstanding Payment to Sub-Subcontractor' and would respond as follows.
-The letter itself is somewhat puzzling and nondescript as it appears to not only address two issues but
-fails to
-substantiate any entitlement to either cost or money in any regard whatsoever. The issues in question
-being that
-of the alleged late payments culminating In an unsubstantiated claim of AED 878,000.00 covering
-Interests
-payments of the same and that of your obvious non-payment of monies/dues to your domestic SubContractors.
-For ease of understanding we will deal with these issues separately.
-We wish to further place on record that we have proof as to two instances whereas you have failed to
-pay your
-domestic subcontractors/suppliers despite the fact that payment for these services has already been
-remitted by
-us to you. With reference to Wall Green International, we confirm that despite the issuance of our
-Letter
-Reference MTB/TCA/PCEJV/L/001189 it is abundantly clear that you did not respect our instruction. You
-have
-failed to provide any substantiation or any update as to the payment of this account culminating in an
-impromptu
-meeting between your Sub-Contractor and our Sub-Contract Administration Department.
-You were requested to deal with this dispute almost 2 months ago yet we find that you have no
-intention to close
-
-out the same of your own accord. We will address this issue in more detail under a separate letter,
-needless to
-say however we are extremely disappointed with not only your lack of urgency but also
-acknowledgement as to
-the gravity of the situation.
-In addition to the aforementioned you were advised under cover of our Letter reference
-MTB/TCA/PCEJV/L/001285 dated 24th March 2015 that it had come to the attention of the Employer
-that you had
-failed to make payment to numerous ductwork manufacturers I suppliers and the same had ceased
-production
-and/or delivery.
-As stated within our letter this issue is highly embarrassing and cannot be entertained. We are at a
-critical stage
-of the venture whereas ceased ductwork deliveries will have a detrimental impact on the progress or
-works. You
-were requested by COB on 31st March 2015 to provide confirmation that this dispute was resolved . At
-time of
-writing you have failed to offer any sort of substantiation, tangible or otherwise either in the form of
-letters or cheque copies and we can only assume that the issue is ongoing. We will address this issue in
-more detail under
-cover of separate letter.
-With regards to your spurious statement that 'non-payment of our dues in a timely manner has a major
-contribution to the delays to payment of our subcontractors', we refute this allegation in its entirety.
-You have
-· issued on numerous occasions your assessment as to the perceived interest charges applicable based
-on your
-interpretation of the Payment Terms included within your Subcontract. We have addressed your claim
-utilising
-the payment mechanisms in place within our Letter Reference MTBITCAIPCEJVILI001247 dated 11th
-March 2015.
-In this instance we would attach a detailed breakdown as to our assessment that was previously relayed.
-Whilst acknowledging that on 2 occasions over the course of a calendar year your payment was late, the
-overall
-lateness combined over the same period equated to 9 calendar days only. It was stated within our letter
-that if
-you wished to pursue a payment I claim for late payments it was a requirement that a revised cost be
-submitted in
-line with the correct pertinent information. Any value derived from the same bearing in mind the extent
-of the
-payment delay would be somewhat minimal and at time of writing we have received no details from
-your side in
-this matter so assume that it is not your intention to pursue this.
-
-In summary we refute any allegation I suggestion of entitlement for disruption costs from PCEJV as it Is
-clear that
-any perceived failure In regards to payments is as a direct result of your own JV internal shortcomings.
-We will
-continue to pay you in accordance with Schedule 11 of your Subcontract and must insist that all future
-correspondences on the subject matter are based on facts not fiction.
-We trust you find the aforementioned self-explanatory however if you seek further clarification as to the
-content
-of the same, please do not hesitate to contact the undersigned.
-Yours faithfully
+Though this has been informed to the engineer and the employer during numerous sidewalks and
+meetings at the time, the issue seems to have been overlooked. We are continuing to monitor the
+settlement as it seems to have reached the other side of the gse road near the building where our
+services are located.
+We further continue to check all underground services for movement; remove and relay paving and
+make corrections to the column surrounds, whereas the other contractor (L&T) will also have to re-enter
+the area to remove and replace PQC concrete panels.
+This is for your information and further action in furnishing necessary guidance and instructions.
+Your faithfully
+Subject:Coronavirus (COVID-19) Pandemic – Update (Further Developments)
+Dear Sirs,
+We refer to our previous letters ref: (1) and (2) in relation to the Coronavirus (COVID-19) Pandemic and
+the need for Social Distancing following the UAE Government’s Announcement on 23 March 2020.
+Given the rapidity by which the virus spreads, we are compelled to notify you of concerns we have in
+relation to a marked increase in the number of site operatives employed by us and our subcontractors
+on the MTB Project that have reported to the project clinic with symptoms similar to that of the COVID
+19 virus, and while they have been found to relate to other diagnoses; this still does not alleviate the
+fact that we are in a high risk environment.
+We are also aware that in one of the Labour Camps that is shared with other contractors, including TAV
+(albeit none of these TAV employees are working on this Project), a site operative in fact tested positive
+for the COVID 19 virus placing the TAV employees on this Project at greater risk of contracting the virus.
+In our letter ref: (1) we expressed concern about the circa 8,000 labourers employed on this Project who
+despite being housed in various camps in Abu Dhabi share these same camps with another circa 140,000
+labourers who work on other projects throughout the UAE. Given that both our labour force and the
+labour force of other projects share the same buildings and facilities within those labour camps, it is
+increasingly likely that not only will a person not employed on this Project who contracts COVID-19
+infect site personnel working on this project, but equally this applies vice versa; someone associated
+with this Project who contracts COVID-19 could potentially spread the disease to others employed
+elsewhere.
+While we do not want to appear alarmist, we are obligated to advise you of the increasing likelihood
+that our site labour and the MTB Project personnel in particular faces; notwithstanding the risk to the
+UAE in general, especially in light of the recent increase in the numbers of ‘suspicious’ Coronavirus
+(COVID-19) cases.
+We reiterate that we will continue to monitor the situation and keep you updated as matters develop.
+Yours faithfully,

@@ -1,68 +1,46 @@
-Subject:Notice of Likely Delay No. xxxx
-Variation Order Confirmation
-Dear Sir,
-With reference to your letter (_) above please be advised that the comments, clarifications and/or
-instructions contained therein constitute a Variation.
-The Engineer issued the following [list below the Engineer’s information which constitutes a Variation]:
-1.
-___
-2.
-___
-[Describe the changes by illustrating change from the original contract Documents in order to support
-the necessary confirmation that the new information constitutes a Variation; attach relevant documents
-as necessary to show the basis of entitlement]
-A.
-If the information provided is partial, incomplete or not capable of being implemented with
-immediate effect without further clarity and details then keep this part A, and delete part B, then
-continue to part C. If not, delete this part A and continue to Part B.
-The information provided in the document(s) outlined above which include comments, clarifications and
-/ or instructions are not complete or adequate. As a result such information does not constitute an
-instruction and revised or additional Drawings and/or revised or/additional Specification for the purpose
-of execution of Works. In addition the information is discrepant with previously issued Drawings and/or
-Specification Sections.
-You are requested to issue complete fully developed, coordinated and conformed Drawings and/or
-Specification Sections which clearly expresses the Employer’s requirements free of discrepancies or
-conflicts with previously issued Drawings and/or Specification Sections.
 
-Be reminded that the Engineer is solely responsible to resolve and rectify all errors, omissions,
-ambiguities, inconsistencies, discrepancies and any other inadequacies, defects or deficiencies in the
-Drawings and/or Specifications. Unreasonably refusing and/or taking any action contrary to the
-specified professional duties of the Engineer is a breach of Contract and an act of prevention.
-We are unable to undertake such changes without an instruction and revised Drawings and/or
-Specification in accordance with the Contract.
-B.
-If the information provided is complete and capable of being implemented with immediate
-effect
-but no formal Variation Order has been instructed, then use this part B, delete part A and continue to
-part C:
-In accordance with Conditions of Contract clause 20.1.4 (b), the Contractor is of the view that the
-Engineer has issued instructions constituting a Variation which are not in the form of or have not been
-confirmed in writing by the Engineer by way of a formal Variation Order.
-Also, please be advised that you have not resolved the Contractor notified errors, omissions,
-ambiguities, inconsistencies, discrepancies or other deficiencies in the Drawings and/or Specifications
-“by deferring to the order of precedence set out” in Conditions of Contract clause 9.6.1 as set out in
-Conditions of Contract clause 9.6.2.
-You are hereby requested to make a determination in accordance with your obligations under
-Conditions of Contract clause 11.4.1, which set out “…the Engineer shall make a fair determination
-strictly in accordance with these Conditions, taking due regard of all relevant circumstances but paying
-particular regard to the rights and obligations of the Parties as set out in the Contract.” (emphasis
-added)
-In this regard please take due regard of the Variation “test” in Conditions of Contract clause 9.6.2,
-which expressly sets out an exacting criteria and threshold for testing whether such Engineer’s
-instructions and/or clarifications constitute Variations or not. The Engineer is obliged to apply these
-provisions “strictly in accordance with these Conditions” since these provisions are provided specifically
-for this purpose.
-We are unable to undertake changes pursuant to informally revised drawings or sketches constituting a
-Variation without a formal Variation Order or a confirmation of same.
-C.
-Ending
-Please issue an Engineer’s instruction and revised Drawings and/or Specification as a Variation by means
-of a formal Variation Order to avoid further delays and additional costs arising as a result of abortive
-works and unnecessary time required to seek further clarifications or the confirmations mandated by
-Conditions of Contract clause 20.1.4, 20.1.5 and 20.3.1.
-Failing to undertake the Engineer’s duties as set out in the Contract has delayed the progress of the
-Works and will continue to do so thus resulting in delays to the Time for Completion and an increase to
-the Contract Price.
-Accordingly, we hereby notify you pursuant to CoC 9.10.3 that we intend to claim for an extension of the
-Time for Completion and the additional Cost implications.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0218
+Damage to Passenger Boarding Bridge at GH10 due to Employer’s MTA Contractor
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Annex A records delays attributable to damages caused by the Employer’s Other [MTA] Contractor (L&T)
+to the Passenger Boarding Bridge (PBB) at Gatehouse GH10; which requires rectification and as such will
+require you to issue an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
+Potential Impact
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We herewith enclose a series of photographs at Annex B that collectively serve to evidence that damage
+has been caused to the previously installed and completed Passenger Boarding Bridge (PBB) to
+Gatehouse GH10 by the MTA Contractor (L&&), and specifically, damage to both the PBB and to a CCTV
+camera. Some of these photographs indicating the damage caused are reproduced in Photo 1 to Photo 5
+below:
+Photo 1 Photo 2
+Kindly note that we cannot be certain when the damage was caused by L&T; we do know however, that
+the last de-snagging inspection to the PBB was held on 2 May 2019 and the date the photos were taken
+is 26 January 2020. Irrespective of when caused, the resultant damage is not of our doing or
+responsibility, and any rectification / remedial works necessarily required at this stage, will invariably
+delay us.
+In which respect, as noted on our letter dated 16 February 2020 (ref:
+MTB/TCA/AECOM/L/015316), we are in the process of obtaining a detailed report from the PBB
+subcontractor (TKAS) to establish the full extent of damage caused and resultant impact. This will be
+forwarded to you as soon as it becomes available.
+As you know, SAA8 laid down strict guidelines to follow in the event that additional works are required
+and on the basis that the necessary repairs to the PBB and CCTV camera to GH10 will put us to
+additional expense [and time] we therefore request that you issue us a Variation Order (VO) / Engineer’s
+Instruction (EI) as necessarily required in order for us to undertake the remedial work and be paid
+accordingly.
+We also request you to take whatever necessary action is required on your part to prevent any further
+occurrence of damages to our previously completed Works by the Employer’s Other Contractors.
 Yours faithfully,

@@ -1,14 +1,25 @@
-Subject:Notification of Back Charge for Roller Shades Fuse Connection Units in Office Building
-Dear Sir,
-Further to your email above wherein you have accepted the back charge of the works to be carried out
-on your behalf by M/s Anel, we write to notify you in regards to M/s Anel’s ROM cost for the Roller
-Shades Fuse Connection Units in the Office Building.
-We hereby notify you of our intention to back charge the cost and all other associated cost from your
-account, according to the Conditions of the Subcontract Agreement Clause 10.3 (Contractor’s Claims),
-once it has been finalized by M/S Anel.
-This notice is issued in accordance with the Conditions of the Subcontract Clauses 10.3 (Contractor’s
-Claim) and 12.12.4 [Other Contractors and Other Subcontractors], which specify that you shall be liable
-for the costs arising out of your failure to perform your Obligations under the Subcontract.
-We hope the above clarifies the situation.
 
+Subject:Wire Joints in FDB Panels
+Dear Sir,
+We write with reference to your letter (1) in which you advise us of the discovery of wire joints inside an
+energized FDB panel at Pier 3, during an inspection.
+We take such an occurrence seriously and have held countless meetings with our Subcontractor (Anel)
+on the matter of wire joints and confirm that Anel site management has carried out a thorough internal
+investigation into why this deviation of workmanship took place.
+Anel has acknowledged the unacceptable practice and workmanship and the poor decision making
+taken by members of their installation team.
+Consequently, we assure you that Anel’s manpower is being managed closely by our site supervision and
+QA/QC team, to ensure that there is no repetition.
+This occurrence came about as a result of the requirement for repositioning [relocating] of Residual
+Current Circuit Breaker with Overcurrent Protection (RCBO) to meet the load balancing of the overall
+circuit. This re-work was instructed by you through Briefing Pack 20. Therefore, we do not concur with
+you that the RCBO internal wire jointing issues at this location and at other locations, is a major
+contributor to the Project’s delays.
+Subsequently, an inspection was carried out with you at the location where RCBOs with the noncompliant jointed wires have been replaced and the related NCR has been closed.
+Meanwhile, we continue to conduct daily onsite meetings with your team members as well as
+submitting weekly progress reports to you which detail the positive progress made week on week
+against the subject activities.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for such factors as those outlined above for which we are not culpable.
 Yours faithfully,

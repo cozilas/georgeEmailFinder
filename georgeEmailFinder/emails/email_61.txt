@@ -1,13 +1,134 @@
-Subject:
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0272
+Late and Unreasonable Status Code 3 Responses to Shop Drawing Submittal Nos. SDS/0401/A/4840 Rev.
+00, Rev. 01 and Rev. 02 – Hotel Fire Rated Windows
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A hereto concern delays associated with the late and unreasonable
+Status Code 3 response to Shop Document Submittal No. SDS/0401/A/4840 Rev. 00 and Rev. 01 and the
+overdue response to Shop Document Submittal No. SDS/0401/A/4840 Rev. 02 for the Hotel Fire Rate
+Windows.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Background
+The relocation of Hotel windows was initially proposed and agreed by ADAC as a way forward to simplify
+and de-link the interface between the glass window and stone cladding that would satisfy recent
+comments from ADAC’s new Fire and Safety Consultant ‘ProFire’; although all previous related Shop
+Drawings were thoroughly reviewed and approved by the Employer’s Design Consultant as well as its
+Fire and Safety Consultant. It is to be noted that ‘ProFire’ has advised, via email dated 23 December
+2019, that the previous Employer’s Design and Fire Consultant had “improperly reviewed and misscoded the drawings”.
+Therefore, on 11 December 2019, we had a meeting with between our respective teams (TCAJV and
+CMA) as well as the Employer (ADAC) at which we were requested to issue the related revised sketches
+via an RFI to expedite the return approval (this was advised via email dated 11 December 2019).
+RFI/0401/17654
+We complied and on 15 December 2019, we raised RFI/0401/17654 associated with the ‘Window Shift
+location at Hotel Courtyard Façade’ providing you with a series of sketches all “as discussed and agreed
+with ADAC”, requesting your approval of the same.
+We requested a response by 26 December 2019. You failed to reply until 8 January 2020. Nevertheless,
+we were advised by the Employer’s Design Consultant that this was a design change from IFC and is
+rejected and with that in mind, informed the Employer therein, “to reject this proposal accordingly.” The
 
-Re: Pier 1 Obstructions By Others – Disruption Notice
+Employer on the other hand, advised it had no objection to our proposal, and directed us to ensure all
+approvals were obtained from the relevant reviewers (Employer’s Design Consultant and HOE) for the
+system performance.
+We do note however that the Employer’s Fire and Life Safety Consultant (Profire) previously advised you
+that an advance copy of the “updated drawings for windows are verified and found acceptable” (as per
+their e-mail dated 24 December 2019, at 11:35 AM) and you in turn advised us that “window drawings
+are cleared” as per their e-mail to you also dated 24 December 2019, but timed at 12:05 PM).
+SDS/0401/A/4840 Rev. 00
+As instructed via the above response to RFI/0401/17654, we complied with the requests and on 19
+January 2020, submitted the new Shop Drawing No. 401-JV-A-03-L_-5.32-DWL-SD-001 Rev. 00 ‘Fire
+Rated Window Details and Hotel Courtyard Façade’ under cover of Shop Drawing Submittal No.
+SDS/0401/A/4840 Rev. 00, which you subsequently responded to on 26 February 2020 classifying it
+Status Code 3 (refer Table 2):
+Table 2 - SDS/0401/A/4840 Rev. 00
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+19-Jan-20
+SDS/0401/A/4840
+00
+Fire Rated Window Details and Hotel Courtyard Facade
+09-Feb-20
+26-Feb-20
+3
+17 days
+Notwithstanding the delayed response, you advised you would follow the coding of the Employer’s Fire
+and Life Safety Consultant (Profire); which had been returned classified as Status Code 3. However, it is
+worth noting that no comments were in fact provided either on the Transmittal or the Shop Drawing
+[subject to the SDS/0401/A/4840 Rev 00 response issued on 26 February 2020]. This was recorded in an
+exchange of e-mails between our respective Document Control Departments at the time (26 February
+2020). We were surprised by their rejection given their previous acceptance of the window sketch
+drawings [see above].
+SDS/0401/A/4840 Rev. 01
+On 4 March 2020, we submitted Shop Drawing Submittal No. SDS/0401/A/4840 Rev. 01, for approval of
+Shop Drawing No. 401-JV-A-03-L_-5.32-DWL-SD-001 Rev. 01 ‘Fire Rated Window Details and Hotel
+Courtyard Façade’ which you replied to on 25 March 2020 again classifying it Status Code 3 (refer Table
+3); the Rev. 01 Shop Drawing attached thereto containing multiple unreasonable Status Code 3
+comments.
+Table 3 - SDS/0401/A/4840 Rev. 01
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+04-Mar-20
+SDS/0401/A/4840
+01
+Fire Rated Window Details and Hotel Courtyard Facade
+18-Mar-20
+25-Mar-20
+3
+7 days
+SDS/0401/A/4840 Rev. 02
+Following which on 19 May 2020, we submitted Shop Drawing Submittal No. SDS/0401/A/4840 Rev. 02,
+for approval of Shop Drawing No. 401-JV-A-03-L_-5.32-DWL-SD-001 Rev. 02 in the manner shown in
+Table 4 below, but at the date of preparing this E-Notice No. 0272 (i.e. 3 June 2020) you have failed to
+respond.
+Table 4 - SDS/0401/A/4840 Rev. 02
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+19-May-20
+SDS/0401/A/4840
+02
+Fire Rated Window Details and Hotel Courtyard Facade
+26-May-20
+Outstanding
+8 days
 
-Dear Sir,
-With reference to the above subject and in continuation to your letter referenced (1) above, please find
-enclosed our response in regards to your concerns raised via your said letter. Please note that all points
-mentioned in your letter have been resolved.
-In light of the above, please be informed that we consider this matter closed and that no delays have
-been encountered.
-
-This is for your information and records.
+Summary
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. However, the information recorded in
+Table 2, Table 3 and Table 4 shows that you have consistently failed to respond to SDS/0401/A/4840
+Rev. 00, Rev. 01 and Rev. 00 within the 21, 14 and 7 calendar day review periods expressly stipulated the
+Contract:
+•
+Table 2 shows that you exceeded the contract review period by 17 calendar days;
+•
+Table 3 shows that you exceeded the contract review period by 7 calendar days; and
+•
+Table 4 shows that you are currently exceeding the contract review period by 8 calendar days.
+Our entitlement to an extension of time and to recover the associated costs resulting from this act of
+prevention on your part and / or the part of the Employer’s Personnel/Consultants, will apply
+irrespective of any alleged failure on our part [which is denied], to transmit submittals to you in a timely
+manner.
 Yours faithfully,

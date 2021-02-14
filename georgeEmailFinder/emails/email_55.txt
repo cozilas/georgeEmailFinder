@@ -1,32 +1,164 @@
-Subject:Re: Outstanding Payment to Sub-Subcontractor
-Dear Sir,
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0284
+Further On-Going Delays to the Completion of the MATV System due to Consequential Delays Incurred
+to the MATV System Installation to CUP-01 and the Requirement for Additional Works – Update to ENotice No. 0222
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A hereto provide an update to our E-Notice No. 0222 (ref: 1) and
+concern on-going delays and acts of prevention on your part / the part of others, that prevent us
+completing the MATV System works. In addition, Annex A also elaborates on our request to hand over
+the remaining materials to the Employer’s (ADAC) FM team, so that the remaining scope can be carried
+out by others.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+impacting on completion of testing and commissioning. This will invariably impact on our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
 
-With reference to the above subject and in continuation to our correspondences referenced above we
-hereby provide our response to your letter reference (4). We reiterate our request made via our letter
-referenced (3), wherein you have been requested to provide the following information:
-1.
-Sub-Subcontractor’s Certification Details;
-2.
-Sub-Subcontractor’s Date of Invoice Issued;
-3.
-Status of Payment Against Individual Sub-Subcontractor’s Certifications/Invoices;
-4.
-Date of Payment Made and/or Due to the Sub-Subcontractor;
-5.
-Number of Days Payment Late (In Accordance with Payment Terms between you and the SubSubcontractor);
-6.
-Any other relevant documents and/or information.
-7.
-Provide any QA/QC documents to substantiate the quality issues of M/S Plus Paint described in
-your letter reference (4).
-In light of the foregoing, please note that to date we have not received any of the information described
-above and requested via our letter referenced (3), which will enable us to investigate the matter and
-amicably find a solution. Therefore, please expedite submission of the aforementioned information.
-Also, be informed that the Engineer is withholding a significant amount of money related to open NCR’s
-for the screed works which has not been reflected in your Payment Certificates yet. We shall review the
-requirements for the same, in case any action has to be taken accordingly, during the final account.
-To conclude, we reiterate our position pursuant to Subcontract Agreement 21.3 [Payment to SubSubcontractors] and Clause 5.4.3 [Interim Payment - Schedule 11 Payment Terms] and reserve all of our
-rights derived under the Subcontract Agreement.
-We trust you find the aforementioned self-explanatory and your utmost attention and further action is
-required.
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+We write further to our E-Notice No. 0222 (ref: 1), notifying you of delays concerning the readiness and
+completion of the Master Antenna Television (MATV) System works located at the Central Utility Plant
+(CUP-1) which had, and, as noted herein, are continuing to have, a direct and consequential impact on
+our progress and will invariably delay completion of the MATV System to the MTB Project.
+It is because of your failure to have coordinated the MATV works at CUP-1, following on from the events
+described E-Notice No. 0222 and the continuing delays, that causes us to issue this E-Notice No. 0284.
+Chronology of Events
+Background
+For the sake of clarity, we hereby provide below, a brief overview of the events described in our ENotice No. 0222 issued via letter ref: (1), and remind you that this issue is regarding the works
+associated with cable pulling, power and data outlets for the installation of the MATV satellite dishes at
+CUP-1.
+Our scope of work to CUP-1 was originally limited to installation of the MATV satellite dishes to specific
+locations at CUP-1, whereas, the cable pulling, power and data outlets were under the scope of the
+Employer’s Other Contractor (CUP-1 Contractor). Besides installing the satellite dishes to CUP-1 our
+scope also included ‘plugging’ the power and data cables to the existing outlets. However, in or about
+April 2018, after numerous workshops between us, you / ADAC, we were ordered to extend and pull the
+power and data cables from the Electrical Rooms of the Administration Building located at CUP-1.
+As stated in E-Notice No. 0222, and repeated in the footnote below, such works are inextricably linked
+with the MTB Project and have to be finalized to enable the MATV system at the MTB Project to work
+effectively. However, due to the various acts of prevention on your part and the part of others described
+in E-Notice No. 0222 and your failure to issue a valid Engineer’s Instruction (EI), the works are delayed.
+By way of background, we herewith summarised the matters addressed in E-Notice No. 0222 (ref: 1):
+•
+The works associated with installation of the MATV system satellite dishes had all but ceased
+between 2016 to 2018, due to the fact that the specific location where the dishes were to be installed
+could not be finalised and specified between you and the Employer’s Design Consultant;
+•
+Numerous delays have been caused due to your late and unreasonable Status Code 3 comments
+given in response to submittals relevant to this matter i.e. design calculations, shopdrawings etc.;
+•
+The disagreements between you and the Employer’s Design Consultant on the matter continued
+until January 2019;
+•
+In January 2019, after numerous delays, the location of the MATV dishes was finally concluded
+and As-Built Drawings were provided that would enable us to prepare our relevant Shop Drawings. The
+dishes were to be located to the external areas on the roof of the concrete walls of CUP-1;
+•
+Following which we were requested by you / ADAC to extend the power and data cables from
+the Guard House Electrical Room to the new location of the MATV dishes, a distance of circa 250 –
+300m. This is a considerably long distance, considering the fact that the extension / pulling of the cables
+was not initially under our scope of works. These works were essentially agreed to be carried out by us
+in good faith, to avoid further delays to the MATV System completion as a whole;
+
+•
+After numerous delays on your part in relation to the Engineering process noted above (delayed
+and unreasonable comments in Submittals), once all the relevant submittals had been approved by you,
+on March 2019 we were ready to proceed with the actual construction works on site;
+•
+However, your failure to coordinate the works continued, and resulted in yet further delays in
+respect of the commencement / construction of the works following on thereafter;
+•
+Moreover, we were prevented from commencing and our resources could not be mobilised due
+to a failure on the part of ADAC’s security team to process security passes for all of the resources that
+would be utilised in the CUP-1 works (i.e. manpower, material and plant supplies etc.);
+•
+The delays relating to the Permit to Work (PTW) were further exacerbated by your unreasonable
+requests relating to the ‘appropriate format and forms’ of the PTW;
+•
+The delays continued added to which, we incurred further delays due to your late response to
+approve both, the works which did not require a shutdown of existing live power cables above ground
+level and also the underground works which require shutdown of existing cables in the ducts and
+manholes that contained existing CCTV live cables feeding cameras in the CUP-1 areas;
+•
+More delays followed by your unreasonable requests relating to ‘Notice of Interruption’ (NOI);
+•
+Our construction teams attempted to commence the actual construction works in February
+2020, only to discover more difficulties and constraints such as manholes filled with water, incorrect AsBuilt Drawings provided by you, significantly congested ducts with cables etc., all of which were
+summarised and submitted to you for clarification via RFI/0401/17775 on 1 March 2020;
+•
+In addition, not only you delayed to respond to RFI/0401/17775, but your response resulted to
+abortive works and/or additional works associated with relocating the satellite dishes etc.;
+•
+The delays continued after new As-Built Drawings for the CUP-1 CCTV works, were issued by
+you, while the underground duct network had to be actually verified on-site with a visual site survey;
+•
+This led to more delays due to necessary revisions to our relevant Shop Drawings, to match the
+actual conditions on site;
+We further record that some of the constraints summarised above such as new PTW / NOI requested by
+you, incorrect information shown on As-Built Drawings, further site visits for verification, further
+changes, introduction of additional works continued to be incurred thereafter (refer to letter ref: 1).
+This E-Notice No. 0284
+Further to the above, some of the activities associated with the MATV system CUP1 works, have
+partially been completed by us. Specifically, we have managed to install the satellite dishes up to the
+electrical room at the Guard House. This included pulling power and fibre cables through the manholes.
+The termination to the dishes remains to be completed as described below. For that reason, the power
+cables are left coiled near the power panel and fiber optic cables are coiled near the patch panel.
+We highlight that the termination to the power panel has a high risk due to the fact that this panel
+serves critical / vital loads inside the guard house for which we are not aware of the details. We put on
+record that this is a risky activity, because a shutdown of the complete power panel is required.
+However, we have no information in regards to the loads and what exactly might be affected by the
+shutdown.
+Moreover, the patch panel mounted inside the Electrical Room is obstructed when the cabinet door
+opens. This constraint was highlighted to your / ADAC’s FM teams during a site walk on 8 March 2020.
+In addition to the above noted difficulties encountered by us, in order to carry out the scope of works
+with respect to the termination to the power panel, new PTW and NOI submissions are required to be
+issued by you. Consequently, from our previous experience with respect to the issuance of PTW and
+NOI, it is highly likely that further delays will be encountered until the issuance of the PTW and NOI
+permits from you. In fact, at the date of writing this E-Notice, we have already incurred and continuing
+to incur numerous delays with respect to your failure and the failures of the Employer’s Other
+Contractors to coordinate the works as well as to issue the relevant permits i.e. PTW / NOI. We
+
+herewith attach various email correspondences at Annex B that we believe demonstrate the difficulties
+we are continuing to encounter due to the failure on your part and the part of Others to coordinate the
+works respectively.
+In this regard, it is important for you to be reminded again that the extent of our original scope of works
+to CUP-1 was limited to installation of the MATV satellite dishes to specific locations at CUP-1. The
+extension / pulling of cables, did not form part of our scope of works but we agreed to carry this out in
+good faith [as described above as well as in our E-Notice No. 0222]. Our original scope of works was
+simply to install the satellite dishes to CUP-1 and ‘plug’ the power and data cables to the existing
+outlets.
+In the light of the above, we strongly believe that the best solution would be to handover the remaining
+materials i.e. circuit breaker, cable glands, fibre patch cords to the Employer’s (ADAC) FM team, so that
+the remaining scope can be carried out by others to avoid any further delays and most importantly to
+avoid any risks which are associated with the termination to the power panel / power shutdown and any
+possible consequences which may be encountered due to the same. We await your comments on this.
+Meanwhile, in view of the various events described above, it is evidently clear that the various acts of
+prevention on your part and the part of others have caused and continue to cause delays which are not
+of our doing or responsibility. Moreover, any of the solutions introduced to the MATV system works
+including but not limited to those outlined herein, are additional to our scope and will require a valid
+Engineer’s Instruction and Variation Order if we are to integrate these same solutions into the Works
+In this regard, Settlement Agreement and Amendment No. 8 (‘SAA8’) laid down strict guidelines to
+follow if additional works are required. We therefore, take this opportunity in reminding you of the
+provisions of Clauses 2.29 to 2.31 of SAA8 pertaining to Variations, in so far as we are not to proceed
+with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
+respect, it is your obligation to issue this Record first if you wish to instigate any change to the Works;
+this is only after the additional time and/or costs impacts have been agreed between us beforehand.
+Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29
+and issue us the EI and VO, we are unable to proceed with implementing the changes noted above.
+Finally, while we acknowledge that some of the events described above occurred prior to the ‘Effective
+Date’ of SAA8 (i.e. 4 September 2018), this cannot possibly be construed as being deemed to be
+included within the ‘Contractor’s Settled Claims’ (Sub-Clause 1.7.2) and ‘Included Circumstances’ (SubClause 1.7.4); and will be included within any forthcoming Time Impact Analysis, albeit in recognition of
+the Effective Date included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8
+cannot reasonably be interpreted as requiring the Contractor to absorb delays of unknown (possibly
+unlimited) duration occurring pre/post 4 September 2018, particularly where the resolution of the
+matter causing the delay lies with the Employer. We contend therefore that under the circumstances
+the responsibility, under the Contract (as amended by SAA8), for such delays lies with
 Yours faithfully,

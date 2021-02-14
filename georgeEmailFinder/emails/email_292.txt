@@ -1,31 +1,53 @@
-Subject: Alleged Delay in OC/MCR UPS rooms due to Contractor and Other Trades
-Dear Sir;
-We acknowledge receipt of the above referenced letter and comment as follows:
-Again we find ourselves having to reply to what can only be described as a nonsensical, unnecessary and
-erroneous piece of correspondence.
-Nothing in this letter substantiates any delays on the project and serves only to waste the time and
-resources of not only the staff ofTCAJV but also ANEL's.
-Following receipt of this letter TCAJV Area Construction Manager Sinan Sezer and representatives from
-ANEL and PCEJV walked the areas mentioned within your letter, where it was found that ANEL are
-experiencing no such hold ups as described within your spurious letter. Our Area Construction Manager
-then had to take time from his busy schedule to provide comments against the fallacious photos (most
-of which are pointless and show nothing of value), These comments are attached to this letter
-(Appendix 1). It has become apparent in the recently received correspondence that a decision to issue
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0167
+Delays caused due to the Engineer’s Failure to proceed with Snagging Inspections for works associated
+to all disciplines (MEP, Civil, Finishes etc.)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays consequent on your failure to proceed with multiple
+snagging inspections, for works associated with all disciplines (MEP, Civil, Finishes, etc.).
+Potential Impact
+Delays and disruption due to the events and circumstances outlined in Annex A, particularly at this stage
+of the Project, will, if allowed to continue, invariably knock on and impact upon our ability to achieve
+Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We write to notify you of appreciable concerns we have with respect to your delays to proceed with
+snagging inspections for works associated to all disciplines (MEP, Civil, Finishes, etc.). Specifically, once a
+room or area is completed, we are submitting a Work Inspection Request (WIR) requesting the final
+inspection and approval of the works for each respective discipline. However, significant delays are
+being observed from each of your respective team/disciplines required to proceed with the snagging
+inspections. Consequently, numerous snagging inspections remain open in ZUTEC; an extract of which is
+attached for information hereto. This shows that at the cut-off date associated with the preparation of
+this Notice (i.e. 31 October 2019), there were 41 inspections outstanding for various disciplines, albeit
+the total number of snags to be inspected amount to 1,400 nos. in total.
+It is for this reason we are raising this E-Notice, to notify you regarding your failure to proceed with the
+inspections and request your prompt action to resolve the matter in order to mitigate such delay and/or
+disruption to the Works. Moreover, while we appreciate ZUTEC is a live system and changes on a daily
+basis, it is imperative any delays on your part / your teams’ part are mitigated in full; otherwise we
+envisage the delays proceeding with snagging inspections will only worsen.
+Consequently, any delay to inspections has to cease forthwith, but in the meantime the effects of delay
+continues to have major ramifications on Room Completion, Snagging and De-Snagging and Defects
+Management. We therefore urge you to proceed with the snagging inspections. This will enable us to
+close the snagging inspections on ZUTEC system including those listed in the attached schedule. This is a
+matter that is wholly avoidable, especially at such a late stage of the Project and is unnecessarily
+delaying us for which we hold you entirely culpable. Considering the volume of inspections needed to be
 
-letters in quantity rather than quality and such frivolity will not be tolerated. Any Delay Notices from
-ANEL must include the following (but not limited to) information before the delay claim will be
-considered, with the same in strict accordance with clause 16.5 [Extension of Time for Subcontract
-Completion]
-1. Detailed description of the change/delay and the quantities related (if any)
-2. Reference to the relevant Activity reference on the latest applicable programme.
-3. Estimated Duration of Delay and Cost Impact (If any)
-4. Time Impact analysis performed to quantify the impact of delay with critical path.
-5. Photos with commentary to substantiate the delays.
-6. Related correspondence, drawings or specs applicable.
-7. An updated delay register (this should capture all delays incurred).
-8. Details of the mitigation measures taken adopted to overcome/minimise the Impact of delay.
-If this information is not contained within the Notice then it shall be rejected until such delays can be
-substantiated.
-We trust this clarifies our position on the matter; however should you have any questions or discover
-any relevant substantiation then we will be happy to investigate the matter further.
+actioned by you then any acts of prevention on your part will only continue to impact on our ability to
+expedite room completions and conclude our Works throughout the MTB.
+Resultant Impact
+Meanwhile, the various delays and acts of prevention on your part outlined herein, is undeniably
+causing delay and disruption to completion of our Works. Although we consider that MS06B has been
+achieved, to the extent that it is not, which is denied, then the effects of delay associated with the
+matters identified above, will impact upon achievement of Milestone MS06B as well as Milestone
+MS06A. If matters continue then this will invariably knock on and impact upon our ability to achieve
+Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

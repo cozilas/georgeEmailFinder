@@ -1,17 +1,71 @@
-Dear Sir,
-We hereby give notice that the Engineer's late response (71 days as of today) to the MAR, referenced 1}
-above, pertaining to the Sample of Glass Type Typical for Pier (Technical Submittal), will most likely
-delay
-and I or disrupt the progress of the Works, and potentially increase the Contract Price.
+Subject:Engineer’s Instruction No. 773A – Bulletin 259.1 – Pier 4 Soil Rectification Works for the Sewage
+Network
 
-The Engineer is required to immediately reply to the MAR Ref. MS/0401/A/0120; Rev. 0, referenced 1}
-above, to avoid any delay and/or disruption to the Works.
-The Engineer's late reply is directly affecting the progress of the Facade and related Works causing delay
-and/or disruption to the work sequences I activities in relation to Engineering and Procurement.
-Notwithstanding the above, in accordance with the Conditions of Contract Clause 9.10.3, you are
-notified
-that your late reply to the MAR pertaining to the Sample of Glass Type Typical for Pier (Technical
-Submittal) will most likely delay and/ or disruption to the progress of the Works and result in additional
-Costs.
-·~ .
+Dear Sir,
+We write with reference to the captioned matter and your letters ref: (1) and (2) above.
+On 12 June 2019, we received Engineer’s Instruction (EI) No. 773 appended to your letter ref: (1),
+instructing us pursuant to Clause 11.3 (Instructions of the Engineer) of the Conditions of Contract and
+Clause 5 (Subsidence) of the Settlement Agreement and Amendment No. 8 (SAA8), “to implement
+Bulletin No. 259 with immediate effect, as detailed in the enclosed scope in Attachment A (2 pages).”
+Also attached was a CD, containing a total of fifteen (15) IFC Drawings, consisting of two (2) revised IFC
+Drawings and thirteen (13) new IFC Drawings. Your covering letter ref: (1) and the accompanying
+Employer’s Design Consultant’s Transmittal No: KPF-PD-2132-TRS-1011 dated 20 May 2019, identifies
+Bulletin 259 as being associated with ‘Soil Rectification Works for the Pier 4 Sewage Network.’
+According to the Change Register attached to EI No. 773 (Bulletin 259), the ‘Reason for Change’ is given
+as ‘updated to suit …’ and ‘VR 328’ [not seen by us], while the ‘Description of Change’ refers to amongst
+other things, ‘Coordinates of Grout Points’ and ‘Detailed Layout of Grout Points.’
+However, circa two weeks later, on 27 June 2019, you then issued EI No. 773A under letter ref: (2),
+instructing us also pursuant to Clause 11.3 of the Conditions of Contract and Clause 5 of SAA8 “to
+implement Bulletin No. 259.1 with immediate effect …” Again, your cover letter and the attached KPF
+Transmittal shows Bulletin 259.1 relating to ‘Soil Rectification Works for the Pier 4 Sewage Network.’
+Attached to EI No. 773A (Bulletin 259.1) was a further CD, but on this occasion it contained a total of
+eleven (11) IFC Drawings; one of which was simply re-issued from Bulletin 259 and remained at Rev. 0
+[despite now being associated with Bulletin 259.1]; one was a completely new IFC Drawings; while the
+remaining nine (9) IFC Drawings were revised (Rev. 01) from the earlier versions of Bulletin 259.
+It is for this reason that we write to you – as the revised drawings show additional grouting much of
+which we believe to be outside the zone of influence of the sewer and therefore unrelated to the sewer
+rectification works. This represents additional works for which a valid Engineer’s Instruction (EI) [issued
+pursuant to Clause 20.1.1(a) of the General Conditions of Contract] and a Variation Order (VO) are
+required.
+Using two of the drawings attached to EI No. 773A (Bulletin 259.1) as a basis, we hereby provide an
+indication of some but not all of the extent of the additional grouting required as part of Pier 4 Soil
+Rectification Works. The following marked-up extracts of Drawing No MTC C 05 AS_L0.0 6.00_.736 Rev.
+01 (for S-2303 and S-2304 braches) and Drawing No MTC C 05 AS_L0.0 6.00_.738 Rev. 01 (for S-2301 and
+S2301A branches) reproduced in Figure 1 and Figure 2 below respectively, refers.
+Figure 1 – Indicative Example of Extent of Additional Grouting to Pier 4:
+Extract from Drawing No MTC C 05 AS_L0.0 6.00_.736 Rev. 01
+Figure 2 – Indicative Example of Extent of Additional Grouting to Pier 4:
+Extract from Drawing No MTC C 05 AS_L0.0 6.00_.738 Rev. 01
+Not only is much of the additional grouting works outside the zone of influence of the sewer, and
+therefore unrelated to the sewer rectification works, but we also question the requirement for this
+grouting in the first place as it appears to be grossly disproportionate to the size and type of pipe,
+namely a UPVC pipe of small diameter (63 mm to 100 mm) acting under pressurised (ie not gravity) flow
+conditions. We request that you make this known to the Employer and advise him that there will be
+significant cost implications which will not be borne by us and likely will not be borne by the insurers
+either (assuming: (a) that they admit liability; and (b) that the costs are not excluded by the LEG 2/96
+provision in the insurance policy) on the grounds of proportionality and betterment.
+The SAA8 laid down mandatory procedures to be followed if additional works are required by the
+Employer, and you have failed to follow these. As EI No. 773A is non-compliant with SAA8 we require
+you to withdraw it.
+
+In the meanwhile, should the Employer desire this additional grouting to be carried out, we would
+expect that he direct you to issue us with an EI requesting us to provide the following:
+(i)
+a price for the additional works;
+(ii)
+a fragnet for the additional works; and
+(iii)
+the integration of the fragnet within Programme Rev 11.2 to demonstrate the effects (if any) on
+the Milestones.
+Meanwhile, until such time as the necessary actions are taken by you and the Employer in accordance
+with SAA8 Clause 2.29, we will not be implementing the additional grouting works.
+As regards your reference to Cause 5 (Subsidence) of SAA8, in addition to it not being relevant as the
+additional grouting is unrelated to the subsided sewer, we also record that as previously advised in
+other correspondence from us (including without limitation, our letters dated 24 February 2019 ref:
+MTB/TCA/AECOM/L/013965 and dated 8 April 2019 ref: MTB/TCA/AECOM/L/014206), unless and until a
+supplemental agreement is executed between us and the Employer as previously agreed that deals with
+the representations made by the Employer to us, Clause 5 has no effect.
+Finally, by copy of this letter to the Employer, we suggest that he notify the insurer of his requirement
+for this additional grouting as we believe that it may not be covered by the present insurance claim for
+the subsided sewer.
 Yours faithfully,

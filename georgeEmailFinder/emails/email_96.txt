@@ -1,37 +1,64 @@
-Subject:Store yard - Unsecured East Airfield Near ATCC
+Subject Contractor's Non-Compliance- Architectural Hardware Consultant (AHC)
+and Remaining Related Works
+Cross Ref. Section 087100 of the Specification
 Dear Sir,
-We are in receipt of a notification from the Employer regarding the lack of security measures at the
-store yard areas as per the subject matter. Accordingly, we would like to inform you that certain actions
-have to be taken by you to safeguard the store yards and ensure that all HSE procedures are being
-followed at all times.
-In light of the above, you are hereby instructed pursuant to Clause 11.3 [Instructions of the Contractor]
-to use all safety measures at the store yards by taking all necessary actions and deploying all required
-resources i.e. security to be allocated on a twenty-four (24) hour basis and fencing to be placed at the
-perimeter of the store yards.
-Additionally, please be informed that further action must be taken to improve the following matters:
-•
-Security guards to be placed as mentioned above;
+We write with reference to the Contractor's non-compliance in adhering to their contractual
+obligations regarding the provision of an Architectural Hardware Consultant (AHC) for the doors'
+hardware, as defined in the Project's Specifications and the approved submitta l MS/0401/C/0463
+dated 07 February 2017.
+The Engineer has been verbally informed that the Contractor will demobilize soon their Architectural
+Hardware Consultant and has not provided any details regarding his replacement or the handing over
+process that is to be implemented. To ensure compliance with the Project's Specifications which calls
+for the availability of the AHC during the course of the works (Clause 1.5 A reiterated below) and to
+further examine and adjust each item of the doors hardware three months after the Substantial
+Completion date (Clause 3.4 B reiterated below). It is evident that there are still significant works and
+issues related to doors' hardware that are still ongoing, or not yet commenced including but not
+limited to the Gates activation failure in the Piers, key core changing for all the MTB, and Testing and
+Commissioning of electrified doors. These are critical works at this stage of the Project that need to be
+attended to and addressed promptly.
+Clause 1.5 (Quality Assurance), Section 087100 of the Specifications states:
+15 QUALITY A. SURANCE
 
-•
-All routes/pathways have to be properly segregated; currently, there is no proper segregation.
-Please do the needful;
-•
-Housekeeping must improve immediately;
-•
-Placement of fencing around the perimeter of the laydowns;
-•
-It has been noticed that the materials are not stored and covered appropriately. Please ensure
-that materials are stored and covered properly;
-•
-Prepare and circulate safety warning flyers representing any hazards/risks;
-•
-Ensure that there is a proper entry/exit for all of the laydowns;
-•
-Ensure that there is adequate lighting during night shift around all concerned areas;
-•
-Assign emergency personnel and ensure that their contact numbers are displayed as
-“Emergency Contacts” in case they are needed at any given time.
-In light of the above information, you are informed that you are required to comply at all times with the
-Project’s procedures and all of the HSE processes in place.
-This is for your information and further action.
-Yours faithfully,
+Subject Notice to Correct- Shortage of Manpower
+Dear Sir,
+We write further to the issued Notice to Correct pursuant to Clause 12.9.6 of the Conditions of
+Contract (1,2,3) regarding the shortage in manpower with respect to the Contractor's Subcontractors.
+We record that despite the issued Notices, the Contractor did not implement any measures to
+mitigate the shortages in the manpower and has failed to manage his Subcontractors and as a result
+progress has been hindered .
+The status of resources for the Contractor, ANEL and PCEJV as at 30 March 2020 was as follows:
+Anel Direct manpower 637 versus 2200 planned (Shortage of 1563)
+PCEJV Direct manpower 508 versus 950 planned (Shortage of 442)
+TCAJV overall Direct manpower 5582 versus 8387 Planned (Shortage 2805) •
+\''
+Additionally, key staff have been demobilized within the TCAJV organizatioh as follows: ·
+• CSI (Commissioning Management) have fully demobilized, approximately 150 staff with the
+potential for a significant impact on commissioning progress
+• TCAJV team responsible for delivery of Cause & Effect have been demobilized
+• Siemens have significantly reduced their numbers of commissioning staff (approximately 3
+remain of the 40 previously on site)
+• Schneider have fully demobilized
+• Euptech have fully demobilized
+• Panarabia have fully demobilized
+• TCA-JV site management team responsible for delivery of ATLAS scope have been demobilized
+We urgently require the Contractor to provide their revised organization chart(s) and demonstrate
+how this reduced level of management will be mitigated to prevent significant further delays to
+
+project delivery.
+Subject: Stone Tile Cracking
+Dear Sir
+We write with reference to the observed stone tile cracking and enclose herewith the observation
+reports for the piers, the gatehouses and the cp which have identified significant new cracking. Screed
+records confirm that the new stone tile cracks are occurring over both wet-mix and semi-dry screed.
+The contractor is requested to immediately carry out an investigation along with the stone
+subcontractor. A complete stone flooring survey of the piers and cp stone installations is required to
+document the current conditions. Furthermore, exploratory coring shall take place in order to
+investigate the root cause of cracking and to ascertain the extents and nature of cracking. All coring
+locations, to be agreed with the engineer in advance.
+The contractor is directed to take immediate mitigation measures and all necessary actions to expedite
+the completion of the works to recover the delays caused by the contractor to date and to submit their
+programme for completion of all associated works within five (5) days from the date of receipt of this
+letter.
+We hereby reserve the employer’s rights under clause 10.3 of the conditions of contract for any delays
+to the project as a result of the contractor’s inaction and defective work.
+Yours faithfully

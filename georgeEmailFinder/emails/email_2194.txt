@@ -1,0 +1,17 @@
+
+Dear Sir,
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
+both price and any potential time impact in relation to a Variation proposed by the Engineer regarding
+work under the contract.
+
+The Variation as proposed:
+Currently the allowable Voltage Drop (VD)- from the Station Power Substation (SPS) 33kV/415V
+transformer secondary winding to the final load - is 2.5% in accordance with the Kahramaa specification
+in "Regulations for the Installation of Electrical Wiring, Electrical Equipment and Air Conditioning
+Equipment" sub-Clause 604.
+
+The change intends to extend the allowable VD limit to 6% for the lighting loads and 8% for any other
+load in accordance with BS7671 and IEC 60364-5-52, and the Kahramaa - Qatar Rail (QR) agreement that
+the latter i.e. QR is responsible for the power distribution network downstream the Bulk Power Substatr
+ns (BPS).
+Yours faithfully,

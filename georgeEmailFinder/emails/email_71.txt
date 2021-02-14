@@ -1,19 +1,74 @@
-Subject: Notice of Delay for Long Overdue Code-3 Shop Drawings Re-Submission for Typical layout Plans,
-SS Skirting (Gate House Code E & F)
-Dear Sir,
-Despite our assistance to AIG to develop proper shop drawings, as acknowledged by your letter
-MFAD/TCA/JA/393/2016 30 October 2016, AIG have failed to respond. The Gate House skirting drawings
-are still under Code 3 since 07 October 2016. We previously recorded our concerns regarding delays in
-shop drawing submittals in our letter ref. MTB/TCA/AIG/L/000422 date 16 October 2016.
-Moreover, it is our experience that AIG shop drawings are frequently of poor quality. The standard of
-drawing is far from best practice as required by Clause 12.1.6 (k) of the Sub-Contractor contract
-conditions
-and the quality assurance in 12.15. The repeatedly poor quality negatively impacts the project program .
-Any costs, losses and/or expenses incurred by TCA-JV and/or other Subcontractors in connection with
-your delays to the above or the negative impact(s) that may result from this delay shall be your sole
-responsibility for both cost and time.
-Failure to fulfill your contractual obligations under the Subcontract shall be recovered from your
-account
-in accordance with the Subcontract Terms and Conditions. In case of further non-performance, we will
-withhold payments for this purpose.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0241
+Contradictory Responses to RFI/0401/17795 Rev. 00 – Requirement for Elevator Machine Enclosure –
+Request for Engineer Instruction/Variation Order
+Dear Sirs,
+We refer to your letter ref: (1) following issuance of our E-Notice No. 0241 (ref: 2) in which you aver that
+the comments issued in response to RFI/0401/17795 (ref: 3) are not in contradictory and allege,
+amongst other things, that we have “executed the works without properly coordinated drawings being
+in place which resulted in this issue …. being a safety hazard and a code non-compliance issue...” As such
+it is your further position that there is no entitlement to an Engineer’s Instruction or Variation Order.
+For the reasons comprehensively set out in our letter ref: (2) and further explained below we disagree
+entirely. We therefore offer the following responses to each of your statements:
+Unsealed Elevator Machine Openings
+Your statement:
+“… 1. Based on the Contract documents (the IFC) and as commented by ProFire (AHJ/HOE); 2-hour fire
+rated enclosures are required between the shaft and the lift machine room.
+2. Retain ability to maintain elevator equipment – i.e. there should be an access on the lift wall for
+maintenance…”
+Our response:
+The IFC Drawings show 2hour fire rated enclosure, and machine openings. Gaps around the Elevator
+Machines can clearly be seen on the A-02 and A-07 Drawings; without full closure (see Figure 1 below):
+Figure 1 – Partial Extract of IFC Drawing No: MTC-A-07-TB-L_._-_._-00.267
+Indicates the unsealed Elevator Machine openings
+Non-Compliance
+Your statement:
+“…In this case, the Contractor has executed the works without properly coordinated drawings being in
+place which resulted in this issue that was commented on by the Employer (AHJ/HOE) as being a safety
+hazard and a code non-compliance issue...”
+Our response:
+It is the Employer’s Design Contractor’s responsibility to provide fully detailed, properly coordinated and
+code compliant IFC Design Drawings. Irrespective, there is no Code non-compliance or safety hazard in
+our suggestion of wire mesh application or as detailed in RFI/0401/17795 gypsum board application. We
+therefore respectfully request you provide us the specific referenced Codes and related clauses in order
+to support your allegations that this is a “non-compliance issue”.
+
+Compartmentalization
+Your statement:
+“…The Contractor’s proposal initially was to provide a perforated steel panel, which did not work as the
+fire compartmentalization will be compromised. Eventually a sealed gypsum board was provided,
+however this was not coordinated with the elevator requirements. The RFU/0401/17795 clearly stated
+“Lift machine openings/closure should have been coordinated by TCAJV with the lift contractor.” i.e.
+providing the wall with a removable panel for maintenance was part of this co-ordination.”
+Our response:
+Our initial proposal of removable wire mesh is in line with Specification Section 142100, 2.2.K.1.f and
+2.2.K.5; the provisions of which are reproduced below:
+“f. Guard around machine (including full enclosure of rough openings through walls), ropes and rope
+holes.”
+“5. Prime paint and apply two (2) coats of rust inhibiting machinery enamel, Light Aubergine RAL 3004,
+to metal work specified above as approved by the Engineer.”
+Furthermore, we do not agree with your statement of “fire compartmentalization being compromised”.
+The interpretation of the below given Code references is clear in so far as International Codes do not
+consider Elevator Machine Rooms and Elevator shafts as different fire compartments when elevator
+related openings are considered.
+EN81-1 Safety rules for the construction and installation of lifts. Electric lift, states:
+“5.2.1.1 Totally Enclosed Well
+In sections of the building where the well is required to contribute against the spread of fire, the well
+shall be totally enclosed by imperforate walls, floor and ceiling.
+The only permissible openings are:
+…
+e) necessary openings for the functioning of the lift between the well and the machine or pulley rooms;”
+NFPA 5000 Building Construction and Safety Code, sates:
+“11.14.7.1 Elevator machine rooms associated with occupant evacuation elevators shall be separated
+from all building areas, other than elevator hoistways, by minimum 2-hour fire resistance–rated
+construction.”
+In conclusion, our initial proposal of steel wire mesh is in line with the IFC Design and international
+Codes and Standards and is maintenance friendly. The responses and additional requirements initiated
+by you and the Employer through the response to RFI/0401/17795 Rev. 00 have created the
+aforementioned problems, making us unable to proceed with the works. It was for this reason that we
+raised E-Notice No. 0241 (ref: 2) requesting further direction from you, and for you to advise us which of
+the different responses to our RFI we should follow. Unfortunately, your letter (ref: 1) fails to provide
+any clear direction in order to satisfy the additional requirements put in place by you and the Employer.
+We await your further instructions on the matter.
+Meanwhile, we continue to maintain all our rights under the provision of Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

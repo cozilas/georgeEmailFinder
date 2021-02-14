@@ -1,42 +1,23 @@
-Subject :
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0159
+Security System (Security Access Control and Video Surveillance System) – Snagging, De-snagging and
+Defects Management
+Unreasonable Snagging and De-Snagging Comments Uploaded to ZUTEC
+Dear Sirs,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0159 (ref: 2) in which you seemingly
+infer that we are somehow culpable for the matters detailed within our letter ref: (2), and that the
+“delays due to the unreasonable snagging and de-snagging comments is deemed to have no merit
+For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
+you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
+The facts are as follows: At the date of preparing our E-Notice, there were circa 5,560 snags uploaded to
+the ZUTEC system relating to the Security Systems, out of which you erroneously identified 750 ‘snags’
+allegedly relating to the SACS & VSS in rooms that do not have any elements installed in them. Hence we
+were forced to unnecessarily close out a ‘snag’ that in reality did not exist. Moreover, our ability to
+close out snagging has been further hindered by numerous unnecessary duplicated items being
+uploaded to ZUTEC, which for example consists of the same Security System element installed at the
+same location, which despite being identical were uploaded with a different reference number. These
+acts of prevention were entirely avoidable but have both delayed disrupted our progress.
 
-Cloisall Disruption Claim
-
-Dear Sir,
-We refer to your letter reference CLO/0401/MTB-CEILING/CONT/11550/18 dated 22 February 2018 in
-response to our letter reference MTB/TCA/CLOISALL /L/001220 dated 05 February 2018 whereby we
-rejected your claim for ‘Wall Cladding Disruption Cost’ in the amount of AED 19,832,798 submitted to us
-via letter reference CLO/0401/MTB-CEILING/CONT/11377/17 dated 08 October 2017. We rejected your
-claim on the basis that it is of a global nature and lacking in the requisite detail and in this regard also
-advised you of what would be necessary in order for us to consider any subsequent (revised) claim for
-disruption.
-Regrettably you letter is largely a reiteration of your submitted claim and as such does not alter our view
-that you have not discharged the burden of proof regarding your asserted entitlement to claim and/or
-that your valuation represents the actual additional cost that you have incurred solely and directly as a
-result of disruptive events for which we are contractually liable to compensate you.
-For the record, we do not accept that the productivity that you allege was achieved for Ceiling Panels
-may in any event be used as the basis for the productivity that you could have achieved for the Wall
-Cladding. Moreover, if that were acceptable, then a 3 month sample (in particular where the
-productivity of one month seemingly has a disproportionate and beneficial impact on the average) and
-an unsupported “reduction factor” of 12% would not be acceptable. The contemporary records adduced
-to evidence the alleged productivity are also lacking in the detail necessary for objective verification.
-Our own view is that you grossly underestimated the complexity of the Wall Cladding works and as a
-consequence seek redress through a spurious disruption claim. In this regard, we will conduct our own
-analysis of the productivity achieved for the Wall Cladding works as identified in grids/panels as a
-sample which was not the subject of any of the alleged events. We have also recorded in our several
-delay notices regarding wall cladding works that you have failed to achieve the targeted or the planned
-dates due lack of manpower, poor material, delivery sequence and uncontrolled material segregation
-which also affected the follow on trades.
-You also appear to seek to include in the disruption claim items that you failed to notify and/or claim as
-variations; that is, resources utilised to implement design changes and the separate scaffold that you say
-you were forced to provide as a consequence of our instruction to dismantle the birdcage scaffolding.
-We cannot however and will not be held to account for your failure to comply with your contractual
-obligations regarding variation and the associated waiver of entitlement. Notwithstanding the
-contractual position, we note that you have not adduced any evidence of actual cost of the scaffold that
-you say was deployed.
-Finally, we note that you cannot identify the impact of the events that you allege caused disruption due
-to the complexity of the project, concurrent events and the like. Whilst acknowledging that this is
-difficult, you will also no doubt also appreciate that the simple global claim that you have proffered
-covers over a multitude of Subcontractor risk items and as such is equally difficult for us to accept.
-For the avoidance of any doubt, our valuation of your submitted claim is nil.
+In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

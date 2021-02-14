@@ -1,88 +1,29 @@
-Subject Processor Swing Arm Test- Request for Information RFI/0401/15440
-Cross Ref. (1) MTB/TCA/ AECOM/L/012640 dated 19 March 2018
-Dear Sir,
-We refer to your correspondence referenced as (1) above regarding Processor Swing Arm Test- Request
-for Information RFI/0401/15440.
-The Contractor stated that the response to RFI/0401/15440 provided by the design team did not fully
-address the question raised. The response to the RFI refers the Contractor back to a response given for
-RFI/0401/4616. Both RFI's raised a question regarding the testing of the Schaeffler Spherical bearings as
-required by the project specification. RFI/0401/4616 raised the query regarding the bearings specified
-under the main processor arches and RFI/0401/15440 raised a similar question regarding the Processor
-Arrivals Fac;ade.
-In RFI/0401/15440 the Contractor stated that the bearing cannot be tested as the test load is too great
-for the equipment that the various testing laboratories have available. An identical question was raised
-in RFI/0401/4616. This response was accepted by the Contractor without the ne·ed for additional
-clarification as is now requested.
-In fact, the bearing test information requested by the design team as part of the response to
-RFI/0401/4616 was provided to the design team under reference MTB/TCA/AECOM/L/011910, dated
-23rd November 2017. This information was accepted by the design team as sufficient to address the
-comments raised in RFI/0401/4616.
-It is therefore unclear how the same response to two identical questions can in one instance be
-accepted by the Contractor and in another instance not.
-
-The Contractor's proposal in RFI/0401/15440 to request for "reduced design loads" presents more delay
-to the project as it is not certain the design loads are significantly less than the current test loads nor is it
-certain the laboratories will have the equipment to test for these "reduced loads". The Contractor
-should provide evidence from the manufacturer that the following have been carried out
-for the bearing types listed in RFI/0401/15440:
-• Prototype tests, to verify the adequacy of the design. These tests are generally ca rried out by the
-manufacturer during the development of the bearing.
-• Production tests, to ensure the use of correct materials and procedures in manufacture.
-This is the same type of information the Contractor has already supplied in response to RFI/0401/4616.
-In light of the above we now consider this matter closed
-Subject:Mosart’s EOT (Additional Cost) Claim
-Dear Sir/Madam,
-Further to your various submissions of cost that you assert to be time-related and arising solely from the
-prolongation of the time over which the Subcontract Works are executed and to our related meeting on
-14th May 2018, we note the following.
-We reiterate that you are required to resubmit your Prolongation Costs in the form of a Claim in
-compliance with all of your related obligations under the Subcontract, including Clauses 16.5 [Extension
-of Subcontract Time for Completion], 27.1 [Subcontractor’s Claims] and 27.2 [Time Impact Analysis] of
-the General Conditions.
-In order to assist us in establishing and agreeing any additional Cost incurred, we require you to provide
-with your claim the full details of the Staff that you would have deployed in executing and completing
-your Subcontract Works in accordance with the approved baseline programme. Also, the Staff you
-considered necessary to execute and complete your Subcontract Works in accordance with the Rev. 6.2
-Programme. The details are to include resource names, designation, deployment period(s) and rates.
-You should also categorise the resources into “Core” (deployed across the entire works), “Location”
-(deployed to supervise the works in particular locations e.g. Piers) and “Task” (deployed to supervise
-specific tasks e.g. Scaffolding).
-Additionally, our initial review of your submitted costs is that some of the amounts claimed are not
-related to prolongation. In this regard, our main observations are as follows:
-1.
-Flights and entertainment expenses are included in office consumables which we do not
-consider to have been incurred as a consequence of prolongation;
-2.
-Significant amounts are claimed for the wages of production staff and direct labour and the
-related labour camp and transportation, all of which, we consider as task (not time) related;
-3.
-Significant amounts are claimed for factory rent and depreciation of factory assets, which we
-consider part of the subcontractor’s Overhead cost;
-
-4.
-There is no evidence of any liability for a cost incurred for the financing charges / extended
-retention which it seems was based on a theoretical calculation and a hypothetical interest rate. You
-must evidence your general or project specific financial arrangements, and how any additional interest /
-financing costs have been incurred as a consequence of the prolongation for any such costs to be
-considered.
-In regards to the cost of Overheads (which accounts for an excessive and disproportionate amount of
-your submitted cost) we note the following:
-i.
-Emden Formula does not evidence actual cost incurred; to claim "unabsorbed" Overheads you
-must evidence that resources were prevented from earning a contribution to Overheads from specific
-lost opportunities;
-ii.
-Offsite facilities (factory & storage) are not ordinarily claimable as core time-related and instead
-are either activity related e.g. production of materials for incorporation into the Subcontract Works
-and/or regarded as being included in the corporate overhead (utilised for all projects / not project
-specific);
-iii.
-Overhead recovered via the valuation of the works and variations executed in the prolongation
-period must be credited.
-We look forward to our receipt of the information requested and assure you that it remains our
-objective and intention to fairly determine any additional Cost to which you may be entitled arising from
-the Delay Events upon which your claim for an extension of the Subcontract Time for Completion and
-compensable delay is based. In the interim, the continuation and progress of your Subcontract Works to
-meet the requisite schedule will no doubt be viewed favourably and recognised as a demonstration of
-your continued commitment to the Project.
+Dear ADMC Dubai Employees,
+It has come in our attention that in ADMC projects are repeatedly happening several technical mistakes
+due to
+poor workmanship and poor supervision. Consequently, all of these are causing to our company more
+money
+and more time and moreover are delaying our site progress and affecting the expectation of our clients.
+Hence, we want to highlight and to make aware all ADMC site employee that everybody is responsible
+for his
+work performance and the quality of the works that he performs during the working hours on site.
+This memo's goal is to ensure that all site engineers, foremen, site supervisors, team leaders and all
+technicians
+should work in compliance with the proper work procedures indicated in project method statements;
+they
+should use proper tools to perform any work as per project requirement s; they should always work in
+accordance with the safety rules; they should do proper reporting of all the work issues to the
+supervisor/manager and they should dedicate their best skills for the implementation of the work!
+Otherwise, in cases the ADMC employees are not following the proper work procedures and neglecting
+their
+job responsibilities, the management want to inform that penalties will start to be applied.
+The amount of the penalty will be determined by detailed evaluation by the project management, but
+non
+limited as fol lowing:
+-l't time: warning letter
+-2nd time: 200 AED penalty+ 2nd warning letter
+-3 rd time: termination from the company.
+The above policy stands for each ADMC International employee, including site engineers, foreman, site
+supervisor and site superintendents, technicians of all trades and is already being implemented.
+This is for ADMC's Employees information and strict compliance.
 Yours faithfully,

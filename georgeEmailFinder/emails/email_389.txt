@@ -1,0 +1,120 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0110
+Engineer’s Response to RFI/0401/17162 – Levels L3.0, L3.1, L3.2 and L3.3 Fire Curtain at Hotel Changes is Scope: Request for Engineer’s Instruction / VO
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
+may cause delay and/or disruption to the Works; hence we seek your swift resolution of the same.
+The Event(s):
+On 26 May 2019, we submitted RFI/0401/17162-00 together with amongst other things a series of six
+(6) marked-up sketches appended thereto (enumerated as ‘Sketch-01’ to ‘Sketch-06)’, requesting
+further clarification and resolution of various design related issues pertaining to the fire curtain at the
+Hotel Levels L3.0, L3.1, L3.2 and L3.3. Specifically, we sought your assistance with:
+1.
+Confirmation as to the arrangement of the fire curtain detailed on attached sketch 01 and 05.
+2.
+Confirmation required for the additional fire rated dry wall in order to terminate the fire curtain
+as detailed on attached sketch 01 and 05.
+3.
+Confirmation required as to the level of fire curtain as per attached sketches 03, 04 and 06.
+4.
+Confirmation as to the ceiling level for Levels L3.1, L3.2 and L3.3 as attached sketch 05 and 06.
+5.
+Confirm whether the non-fire rated dry wall is to cover the exposed fire curtain framing
+We requested a response to RFI/0401/17162 by 2 June 2019. However, you failed to reply until 14
+calendar days later on 16 June 2019 and simply referred to ‘KPF Mark Up RFI-17612 for all of the
+Contractor queries’. In which respect, attached to your response were a total of seven (7) marked up
+sketches – consisting of six (6) CAD sketches that were similar to those issued under our original
+RFI/0401/17162, plus one (1) additional marked up CAD sketch. Despite all seven (7) sketches being
+unreferenced and unnumbered, they all contained extensive numbers of comments.
+It is for this reason that we write to you as not only are some of the comments and statements made on
+the sketches attached to the reply misguided and erroneous; but they are unclear and ambiguous and
+deemed unreasonable, but they also seek to introduce change to the scope of our Works.
+Firstly, four (4) of the ‘KPF Mark Up’ sketches attached to the response to RFI/0401/17162 contain a
+statement commenting that “According to Contractor’s design …” This statement is not only grossly
+wrong but misguided; we are not the designers for this Project, the Employer’s Design Consultant is.
+Consequently we accept no liability or responsibility for the noted inconsistencies in the design – that
+remains with the Employer’s Design Consultant – we have simply requested their resolution.
+Secondly, the majority of the marked-up [KPF] sketches attached to the response to RFI/0401/17162
+contain ambiguities and inconsistences, and moreover, attempt to introduce change to the existing
+design and scope (refer to the sample comments and our responses to the same in Table 1 below). .
+Table 1
+Item KPF Comment TCA JV Response
+
+1
+‘Provide Glass wall lining GLZ-16, according to BP 54 signed sketch .amend the cladding supports
+and the walls accordingly.
+The signed sketches issued under BP54 does not indicate any glass wall
+lining GLZ-16 at Level L3 - the subject of Briefing Pack 54 is Landside and Piers Retail Design update –
+there is nothing related to Level L3 Hotel area.
+If the Consultant’s intention relates to BP 56 and by mistake they mentioned BP 54, the BP 56 signed
+sketch 401-JV-A-BP056-30-5.00-GA-SKFC-001_R01_160919 does not indicates any glass wall lining. In
+this case the glass wall lining will be under ADAC scope of work not the JV’s.
+2
+‘Exposed court yard drywall is not acceptable. Contractor to extend the stone to the glass wall
+lining.’
+The TCA JV will follow approved shop drawings without any additional stone cladding.
+3
+‘Provide Glass wall lining GLZ-16, according to BP 54 signed sketch .amend the cladding supports
+and the walls accordingly’
+The signed sketches issued under BP54 does not indicate any glass wall
+lining GLZ-16 at Level L3 - the subject of Briefing Pack 54 is Landside and Piers Retail Design update –
+there is nothing related to Level L3 Hotel area.
+If the consultant’s intention is BP 56 and by mistake they mentioned BP 54. The following BP 56 signed
+sketches do not indicate any glass wall lining. In this case the glass wall lining will be under ADAC’s scope
+not the TCA JV’s,:
+•
+401-JV-A-BP056-31-5.00-GA-SKFC-001_R01_160919
+•
+401-JV-A-BP056-32-5.00-GA-SKFC-001_R01_160919
+•
+401-JV-A-BP056-33-5.00-GA-SKFC-001_R01_160919
+Added to which, it is noted that Signed sketch 401-FE-A-BP056-L31-L33-5.00-GA-SKFC-001_R00 added
+smoke fire curtain and removed the glass wall lining
+4
+‘Provide 150mm allowance for the future cladding and extend the glass wall lining to that end to
+provide a proper interface.’
+The signed sketches issued under BP54 does not indicate any glass wall
+lining GLZ-16 at Level L3 - the subject of Briefing Pack 54 is Landside and Piers Retail Design update –
+there is nothing related to Level L3 Hotel area.
+If the consultant’s intention is BP 56 and by mistake they mentioned BP 54. The following BP 56 signed
+sketches do not indicate any glass wall lining. In this case the glass wall lining will be under ADAC’s scope
+not the TCA JV’s,:
+•
+401-JV-A-BP056-31-5.00-GA-SKFC-001_R01_160919
+•
+401-JV-A-BP056-32-5.00-GA-SKFC-001_R01_160919
+•
+401-JV-A-BP056-33-5.00-GA-SKFC-001_R01_160919
+Added to which, it is noted that Signed sketch 401-FE-A-BP056-L31-L33-5.00-GA-SKFC-001_R00 added
+smoke fire curtain and removed the glass wall lining
+It is clear therefore that the comments annotated on the ‘KPF Mark Up’ sketches attached to the
+response to RFI/0401/17162 such as those summarised in Table 1 above, have attempted to vary the
+existing IFC design and will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
+SAA8 laid down mandatory procedures to be followed if additional works are required, and you have
+failed to follow these; an EI and VO are needed for us to proceed with the aforementioned changes.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to. We trust this is clear.
+
+Potential Impact:
+We note that the foregoing events and/or circumstances are undeniably delaying completion of L3.0,
+L3.1, L3.2 and L3.3 of the Hotel, and your / Employer’s Design Consultant’s requirement to introduce
+fundamental changes to the fire curtain such as those outlined above, particularly at such a late stage of
+the Project, will invariably impact on our ability to obtain the Building Completion certificate (BCC)
+This is essential to achieving Milestone MS09B and may impact MS09C (Substantial Completion).
+
+Action Required:
+It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes for example:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+Yours faithfully,

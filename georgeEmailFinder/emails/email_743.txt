@@ -1,0 +1,43 @@
+Subject:
+
+Dear Sir,
+
+Engineer's Instruction No. 722A- Proposal- Required As-Built Drawing List
+
+With reference to the above subject and EI-722A received via ref.1), and the Engineer’s request to
+provide a ROM proposal for reduction in required as-built drawings, please be advised that the
+reduction proposal was a joint study done by TCAJV and AECOM to facilitate Facility Management
+requirements identified by ADAC minimum needs as below:
+•
+All compliance drawings are required - ADM Plumbing, ADSSC.
+•
+Maintainable assets drawings, .e.g. mechanical layouts and wiring detail – Single Line Schematic
+Diagrams & panel drawings for all systems.
+•
+Architectural connection details (e.g. roof drains, facades, glazing panels, internal structure)
+•
+Levels of detail not in BIM from OEM drawings – Lifts, Escalators, PBB, HBSS, etc.
+•
+Life Safety information (e.g. cause & effect is sometimes issued as a drawing).
+•
+Load bearing & system capacities need to be identified.
+•
+Being able to navigate the drawings we receive is as important so we need a clear method of
+categorization with suitable indexing.
+Those needs represent the Facility Management needs towards a completed and operational facility,
+which does not address all the As-Built scope. In fact the as-built drawings and documents do represent
+the entire works that had been constructed, used, dismantled, or evolved, and those as-built drawings
+were concluded, completed, and approved at various stages.
+Essentially, the 43,746 shop drawings (total 77,907 minus required 34,161) were already completed and
+submitted, and the fact that not all of the shop drawings will be re-submitted does not mean that they
+were not produced or the effort of producing them can be saved. However, TCAJV can re-issue the same
+drawings marked as as-built in digital copies to avoid unnecessary printing and waste of paper/ink; in
+compliance with Estidama goals and letter ref.2).
+Accordingly, we reaffirm that the as-built drawings are still considered at full amount of 77,907
+drawings, but the proposed final number that will be re-submitted for FM purposes will be the 34,161 to
+serve ADAC’s requirements.
+For all purposes and intent the full magnitude of as-built documents will not be limited to that issued by
+EI722, and that’s the reason behind letter ref.(3) being quoted as no Value Engineering in interim of
+reduction is forecasted.
+This is for your information and records.
+Yours faithfully,

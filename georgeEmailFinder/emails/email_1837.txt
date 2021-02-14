@@ -1,0 +1,79 @@
+
+Dear Sir,
+
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the variat ion is provided lbelow.
+
+The following Employer's Requirement:
+
+Volume 4 Appendix A Programme Definition Documemt Sub-Clause 4.1.1, is deleted in its entirely and is
+replaced with:
+
+The Rail System shall perform in a safe, robust,reliable, dt1rable and comfortable manner in the
+environment of Qatar. The environmental parameters are sum marized as follows:
+
+•
+
+Maximum ambient outdoor air temperature (shade):
+
+•
+
+Minimum ambient temperature:
+
+•
+
+Average summer Maximum ambient outdoor air teinperature (shade):
+
+•
+
+Average winter Maximum ambient outdoor air te111perature {shade):
+
+•
+
+Average annual ambient temperature:
+
+•
+
+Maximum external surface temperature (direct exp01sure to sun):
+
+•
+
+Average annual ambient relative humidity:
+
+•
+
+Maximum ambient relative humidity:
+
+•
+
+Minimum ambient relative humidity:
+
+•
+
+Wind Speed:
+
+•
+
+Seismic load acceleration factor (horizontal):
+
+•
+
+Solar Radiation:
+
+•
+The rainfall criteria to be used in drainage design shall be as defined in the Qatar Sewerage and
+Drainage design manual. The storm water return period shall be 100 years for sections with tunnels and
+troughs and 50 years for sections with elevated and at grade structures.
+
+The following Employer's Requirement:
+Volume 6 Sub-Clause 9.1.3, is deleted in its entirely and replaced with:
+The environmental (including rainfall) design criteria shall be as defined in the Qatar Rail Development
+Program Definition Document. Separate drainage systems shall be provided for the following:
+Volume 6 Sub-Clauses 9.1.3.1, 9.1.3.2, 9.1.3.3 and 9.1.3.4 remain unchanged. The following Employer's
+Requirement:
+Volume 6 Sub-Clause 10.3.2.1, is deleted in its entirely and replaced with:
+
+The Environmental Design Criteria shall be as defined in the Qatar Rail Development Program
+Definition Document.
+
+Yours faithfully,

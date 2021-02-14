@@ -1,78 +1,200 @@
-Subject: Notice of Delay for Sub-Subcontractor Performance CAL REV AMI)
-Dear Sir.
-In reference to the above mentioned subject you are hereby notified pursuant to Conditions of
-Subcontract issued during Tender and embodied in the above LOA - Appendix B- item 8 subclause
-12.10.1 for the failure of your Sub-Subcontractor AI Reyami to fulfil their commitment to
-fabricate the Arches 9 to 12 and PG 5 & 6 Cruciform works as per the agreed schedules.
-We refer you the delivery dates comparison of AI Reyami (Refer Attachment -1) which we have
-prepared as acquired from email received from you or on agreed dates during fabrication
-meetings (Refer Attachment -2) implicating the aforementioned delays. Please be advised that
-agreed delivery dates considered in delay calculations is from your schedules in which we
-considered that there are no more issues holding you to complete the fabrication and delivery of
-these elements on the site.
-Further to the above delay analysis from previous deliveries. please find below remarks for the due and
-to
-become due deliveries as indicated above on items 5 to 7 whereas;
-S:.ARCH 12 Transitions- this elements was already due since 25 July 2015 but till date 25 August 2014 no
 
-delivery was received from esc which is delaying the erection schedule due to the
-lack of manpower of your Sub-Subcontractor to fabricate this elements.
-6. ARCH 13 Transitions - Delay in the above ARCH 12 elements will automatically delay the fabrication of
-this
-ARCH 13 elements as per the fabrication schedule sequence.
-7. PG-6 Cruciform - This element must be delivered to site on 10 Sept. 2014 in order not to delay
-erection. But due to the current incapacity of AI Reyami to fabricate because of
-lack of manpower you have decided to complete this element using your other
-Sub-Subcontractor Tiger Steel. As a consequence of your decision, shifting of
-material from AI Reyami to Tiger Steel factory consume a lot of time which greatly
-impact the fabrication of this element. You are reminded that this major fabrication
-delay will impact the completion date of PG 6 and accordingly SG 56 erection.
-Delay in the secondary girder erection has direct effect to the de-propping of first
-zone.
-Referring to the above delays due the poor performance of your Sub-subcontractor relating to its
-incapability to provide adequate manpower to achieve their fabrication and delivery
-commitments, you are hereby instructed to take the necessary action pursuant to Conditions of
-Subcontract embodied in the above LOA -sub-clause 12.10.2 wherein;
-12. I 0.2 The Subcontractor shall, upon receipt of the notice referred to above in clause 12. I 0. I, ensure
-that
-the Sub-subcontractor's performance is immediately rectified.
-More over to the above presented previous and upcoming delays due to your Sub-subcontractors
-poor performance which lead to your failure to fulfil your commitment for the timely delivery of the
-above Erection Segments you are required pursuant to Clause 16.4.1 (b) of the Conditions of
-Subcontract, to submit a revised recovery programme and supporting report describing the
-revised methods which you propose to adopt in order to expedite progress and complete the
-Sub-Contract Works within the Sub-Contract Time for Completion.
-You are required to submit this revised recovery programme and supporting report within seven
-(7) days of this request. in addition to all required submittals for construction activities at
-site/factory, method statements, shop drawings and WIRs, in order to avoid further delays to the
-Project.
-Please note that in accordance with Clause 16.4.4 the provision of a revised programme and
-supporting report is a "condition precedent" to the Sub-Contractor's entitlement to continue to be
-paid for the performance of the Sub-Contract Works.
-In view of the above, you are advised to take immediate steps to recover these delays. You will
-be held responsible for any and all Contractor's Delay Costs and Contractor's Delay Damages
-that may be inc urred by us due to the above stated delays, in line with the Subcontract Clauses
-16.6.1 and 16.6.2 respectively.
-Subject: Notice of Delay due to Poor Sub-Subcontractor Performance
-Dear Sir,
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0230
+Unreasonable Code 3 Comments issued in Response to 10 Airport Operational System Document and
+Changes to the AODB Matrix for the AOS As-Built Drawings
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters discussed in Annex A concern delays associated with your unreasonable Code 3 comments
+issued in response to a series of 10 Document Submittals for the AODB Matrix AOS As-Built Drawings.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+The matters described in detail below, concern delays to the Time for Completion of the Works due your
+unreasonable Status Code 3 comments issued in response to various Airport Operation System
+Document Submittals, associated with the As-Built Matrixes Submittals for the Airport Operation System
+(AOS) works.
+The purpose of this notice is to provide a detailed history of the events and circumstances giving rise to
+the delay and elaborate on the act(s) of prevention on your part that is impeding the completion of the
+Works.
+Chronology of Events
+Background
+In or around April 2016, we submitted various Shop Drawing Submittals encapsulating numerous Airport
+Operational Systems (AOS) Shop Drawings for all of the AOS sub-systems (including for example, the
+FIDS, CUPPS and CUTES etc.). This included without limitation Shop Drawing Submittal No.
+SDS/0401/FC/0020 Rev. 00 enclosing twenty (20) Airport Operational Database (AODB) Shop Drawings
+associated with the FIDS and CUTES systems; all of which were classified Status Code 2 on 20 April 2016
+(refer to Table 1 below).
+Table 1
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+03-Apr-16
+SDS/0401/FC/0020
+00
+20 Shop Drawings
+AODB Terminal Building Special [Airport Systems]
+FIDS and CUTES Systems
+24-Apr-16
+20-Apr-16
+2
+These Drawings included inter alia, Shop Drawing No: 401-STA-FC-07-10-3.11-AODB-SD-001, provide
+the format and the information / headings of the Airport Operational Database (AODB) Matrix which
 
-We write to you with regards to our constant concerns pertaining to your capability to manage your
-SubSubcontractor
-for the works package of Fire Stopping {CHRONICLE).
-Further to our aforementioned letter references, we are once again forced to place on our record of
-your
-poor performance for the relevant activities. {See Appendix 1) Your failure to manage your
-Subcontractor
-and that of its inadequate labour resources and engineering issues are completely unacceptable and will
-no longer be entertained. The extent of outstanding works to be completed by your Fire Stopping
-Specialist Subcontractor is extensive.
-The consequences of the highlighted outstanding activities hereunder Appendix-1 have immense impact
-on the Consultant approval of inspections and subsequent delays of the room handovers and ceilings
-closure.
-Therefore and for the record, all costs incurred by us with regards to the secondment of additional
-labour
-resources to supplement your insufficient workforce will be for your account and in strict accordance
-with
-that of Clause 10.3 {Contractors Claims) of the Subcontractor Agreement between us. The same will be
-subject to 15% Overhead & Profit I Administration Charges.
+would be used for the AOS As-Built Drawings (in the manner shown in Figure 1 below). The information
+recorded in the snapshot shown below also indicates your resultant Status Code 2 comments annotated
+thereupon.
+Figure 1
+As shown in Figure 1 above, the headings which would be added to the Matrix for all the AOS As-Built
+Drawings have been agreed, i.e. ‘Building’, ‘Device Type’, ‘Level’, ‘Sector’, ‘Zone’, ‘Room Name/Area’,
+etc.
+Following which on 15 May 2018 we received Engineer’s Instruction (‘EI’) No. 722A (under cover of
+letter ref: MTC-CMA-TCA-0401-LTR-09481 dated 15 May 2018), in relation to the reduction of a number
+of As-Built Drawing Submittals associated with various disciplines including Airport Operation System
+(AOS) works. Attached to EI-722A was an As-Built Drawing Schedule, listing numerous As-Built Drawings
+to be provided by us, and requesting these be segregated into two categories to ‘Mandatory’ and
+‘Elective’. Very simply: ‘Mandatory’ means exactly that; the drawings have to be provided in the form of
+a drawing as per the usual practice in the MTB Project; and ‘Elective’ means that they are not required
+to be provided in the form of a drawing, but only in the form of an excel format via a Document
+Submittal.
+A partial extract of the As-Built Drawing Schedule attached to EI-722A, is reproduced in Figure 2 below.
+Figure 2
+Subsequent to which we sent you an email on 21 September 2018 [9:01 PM] (reproduced in Figure 3
+below) attached to which was a matrix providing a list of AOS As-Built Drawings in the manner shown in
+Figure 4. As you can see we requested you to review, comment and approve the As-Built Drawings listed
+therein and also to provide the final confirmation of the Matrix template with the headings and
+information required.
+Figure 3
+Figure 4
+It is also worth noting that numerous workshops have also taken place between us in relation to the
+same, to agree on the information / headings which would be included on the AODB Matrix and the
+format of the excel sample / template which would be used for the AOS As-Built Drawings listed in
+Figure 4 above.
+It is patently clear that with our email and the ‘Excel’ Schedule of AOS As-Built Drawings attached
+thereto, (see Figure 3 and Figure 4 above), we listed the specific As-Built Drawings adhering to the
+requirements of EI 722A that were to be prepared and submitted by us for your review and approval
+and also the exact ‘Excel’ format / template of the Matrix documents incorporating the headings /
+information required etc.
+In the event, we received your response to our e-mail, on 23 October 2018 [4:10 PM] wherein you
+attached our excel file of the AODB Matrix. You also provided the following series of comments
+(reproduced in Figure 5), which essentially approved the excel Matrix template and the list of As-Built
+Drawings.
+Figure 5
+This E-Notice No. 0230
+Further to which we then proceeded with submission of the following Document Submittals
+incorporating various matrixes for the Airport Operational Systems [as per the agreed template],
+
+together with lists of all relevant AOS As-Built Drawings [which had also been agreed], in the manner
+shown in Table 2 below.
+Table 2
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+29-Dec-19
+DS/0401/15143 00
+ED Matrix Pier 3
+0401-STA-SC-P3-FC-001 19-Jan-20
+18-Feb-20
+3
+30 days
+29-Dec-19
+DS/0401/15144 00
+CUPPS Matrix Pier 3
+0401-STA-SC-P3-FC-002 19-Jan-20
+18-Feb-20
+3
+30 days
+29-Dec-19
+DS/0401/15145 00
+AODB Matrix Pier 3
+0401-STA-SC-P3-FC-003 19-Jan-20
+18-Feb-20
+3
+30 days
+29-Dec-19
+DS/0401/15146 00
+RMS Matrix Pier 3
+0401-STA-SC-P3-FC-004 19-Jan-20
+19-Feb-20
+3
+31 days
+29-Dec-19
+DS/0401/15147 00
+FIDS Matrix Pier 3
+0401-STA-SC-P3-FC-005 19-Jan-20
+19-Feb-20
+3
+31 days
+29-Dec-19
+DS/0401/15148 00
+CUSS Matrix Pier 3
+0401-STA-SC-P3-FC-006 19-Jan-20
+19-Feb-20
+3
+31 days
+29-Dec-19
+DS/0401/15149 00
+ED Matrix Pier 4
+0401-STA-SC-P4-FC-001 19-Jan-20
+19-Feb-20
+3
+31 days
+29-Dec-19
+DS/0401/15150 00
+CUPPS Matrix Pier 4
+0401-STA-SC-P4-FC-002 19-Jan-20
+19-Feb-20
+3
+31 days
+29-Dec-19
+DS/0401/15151 00
+AODB Matrix Pier 4
+0401-STA-SC-P4-FC-003 19-Jan-20
+19-Feb-20
+3
+31 days
+29-Dec-19
+DS/0401/15152 00
+RMS Matrix Pier 4
+0401-STA-SC-P4-FC-004 19-Jan-20
+19-Feb-20
+3
+31 days
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. On the basis that our Document
+Submittals were all at Rev. 00, then these should have been responded to by you 21 calendar days later,
+i.e. on 19 January 2020. However, Table 2 above shows that you exceeded the contract review period
+for responding to our Submittals by 20 and 21 calendar days. At this stage of the Project, these delays
+are unacceptable.
+Notwithstanding, the information recorded in Table 2 shows that we received a Status Code 3 response
+to all of our Submittals; all of which were accompanied with a series of comments as per Figure 6 below.
+Figure 6
+We are surprised at receiving such unreasonable, general and vague comments in reply to all ten
+Document Submittals – particularly the statement that “there is no stated scope or purpose for this
+document”, especially considering the fact that the format of the Matrix documents and list of AOS AsBuilt Drawings had been agreed previously as discussed above.
+We therefore put on record that your unreasonable comments issued in response to all of ten
+Document Submittals listed in Table 2 above, particularly at this stage of the Project will – considering
+the fundamental importance of the Airport Operational Systems to the functioning of the Airport–
+invariably delay testing and commission and associated inspections, thus invariably delaying the Time
+for Completion. Accordingly, we urge you to consider re-coding all of the Document Submittals
+referenced in Table 2 above, by return to avoid any further delays. Please note that any delays incurred
+to date or which may be incurred by us as a result of your failure to approve the AODB Matrix for the
+AOS As-Built Drawings, shall be at your risk.
 Yours faithfully,

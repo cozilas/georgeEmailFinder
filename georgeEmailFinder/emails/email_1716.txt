@@ -1,0 +1,106 @@
+Dear Sir,
+
+Further to the Engineer’s Assistant letter of reference 1) the Contractor encloses herewith its revised
+valuation in relation to the Centralized Cooling Plant variation pursuant to its GC 13.2.2 obligations. The
+Contractor has incorporated both the proposed cost optimizations as well as the scope changes arising
+out of the CCP 0.2 minor design submission and hereby provides its itemized responses to the issues
+raised via letter reference 1) as follows:
+
+Engineer’s Assistant Comment Contractor’s Response
+Implementations of the optimizations (SCH-10/20 chilled water pipes + 1.0 Aluminum jacketing for
+piping to be 0.3 mm foil) as agreed during the meeting on Sunday 6 November 2016 (refer to M006-LBEENG-MOM-01127) to be confirmed by the Contractor Cost optimization has been incorporated into
+the revised quotation of attachment 1). The Contractor further notes that Sch. 10 CHW pipes were not
+approved by the designer and hence all CHW pipes above DN200 shall be Schedule 20.
+Contractor to check if there is a need for VRV units.
+Minor revision 0.2 of the CCP is in-line with the
+design concept of the stations. Similarly to the station MEP designs, the UPS and Battery rooms are
+served by VRV units only.
+1.
+
+HVAC Equipment
+
+Isolating Butterfly Valve (DN 200 mm) – quantity of 220 considered too high
+The correct quantity is
+20 valves, this was a typo error by the Contractor in its previous submission which has been rectified in
+the revised valuation of attachment 1).
+The quantity for galvanized steel ductwork to be checked with the CCP drawings.
+been revised in this valuation to reflect the latest 0.2 minor revision.
+
+Quantity has
+
+Smoke ventilation ductwork – The EA considers that this is not required. The Contractor to check and
+confirm.
+Smoke ventilation system required as per NFPA requirements.
+
+Insulation for the smoke and extract duct to be justified Insulation to smoke and extract ducts for fire
+proofing purposes only.
+Motorized smoke fire dampers – rate and quantities to be checked. The Contractor to confirm why
+motorized smoke fire damper are required if there is no smoke exhaust. No considerable price
+difference between motorized smoke and fire dampers (MSFD) vs. motorized fire dampers (MDF).
+Moreover, MSFD’s provide superior air tightness.
+2.
+
+HVAC System Tunnel
+
+Access ladders, steel access platforms etc. – value included considered too high and should be
+substantiated. Value has been reduced in this revised valuation.
+Commissioning Set – Contractor to verify the need of 8 commissioning sets.
+
+4 sets for the CCP
+
+1 set per station (total of 3) + 1 set for stabling yard
+3.
+
+Electrical
+
+8 No. of 400 kW VFD provided to be checked for the design requirements and costs.
+VFD’s were not
+matching the mechanical design in minor design submission rev. 0.1 and hence revised by WP in minor
+design submission rev. 0.2. Specification and price of VFD’s has been revised herewith.
+Quantity of cables – requirements to be confirmed.
+Cables and Panels were not matching the
+mechanical design in minor design submission rev. 0.1 and hence revised by WP in minor design
+submission rev. 0.2. Quantities and hence price of cables and panels has also been revised herewith.
+4.
+
+Plumbing
+
+Oil Interceptor – The EA considers that this is not required because it is already implemented in the
+stabling yard. Contractor to confirm.
+Rated effluent to oil interceptor is adjusted to account for CCP.
+Domestic water pipes and Cu pipe with insulation (100 & 150 mm) – the EA requests the Contractor to
+confirm the current design configuration and material required. Pipework is exposed between stabling
+yard and CCP and therefore requires insulation.
+Water meters for 100 mm and 150 mm to be confirmed by the Contractor
+5.
+
+Confirmed.
+
+Fire Fighting
+
+Clean agent fire suppression system (CAFSS) – all items pricing considered high. To be reviewed and
+confirmed by Contractor.
+Contractor has reviewed the room schedule and adjusted the CAFSS
+sizing and cost to the latest room sizes indicated in the FM200 Hydraulic Calculations (M006-GDB-FRSCLN-00069).
+6.
+
+Spare parts
+
+Substantiation required in terms of itemization of the spare parts included. To be updated by the
+Contractor.
+To be provided in due course.
+
+The commercial impact arising out of the scope changes imposed by the minor revision 0.2 amount to
+an additional 16% in direct costs when compared to the Contractor’s previous submission. It is evident
+therefore that a) the Contractor was indeed exposed to a commercial risk in its previous valuation and
+b) the 5% allowance for risk has proven (in retrospect) to be an underestimate.
+
+Until the MEP design is fully finalized the Contractor shall remain exposed to further potential increases
+in cost and therefore maintains its allowance for 5% risk in its evaluation which is clearly marked as a
+separate item in the Bill of Quantities of attachment 1).
+
+The proposed, interim adjustment of the Contract Price is of the net amount of xxx as detailed in the Bill
+of Quantities of attachment 1). The Contractor reserves its rights to recover any time related costs in
+connection to this proposed Variation which shall be addressed under a separate cover.
+
+Yours faithfully,

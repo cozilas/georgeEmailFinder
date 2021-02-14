@@ -1,25 +1,21 @@
-Subject:
-Louvers Installation
 
-Poor Performance 15 - Lack of Progress Related to Hotel and Office
-
+Subject Delay Notice- Failure to Complete Airport Pulse Solution
 Dear Sir,
-Further to our letter referenced in (4), kindly find enclosed the Engineer’s letter referenced in (5) above
-which is self-explanatory. Specifically, the Engineer’s letter is regarding the lack of progress related to
-the Office and Hotel facade works installation and in particular the corner panels, internal flashings,
-brackets changing, fire rated panels and louvers fabrication, delivery and installation. The Engineer also
-highlights the lack of material delivery from the suppliers.
-We point out that the mentioned works are under your Scope and your failure to proceed accordingly is
-causing serious delays. For clarity and for the purpose of interpretation, “the Contractor” in the
-Engineer’s letter shall be read as “the Subcontractor”.
-In light of the above, you are instructed pursuant to Clauses 11.3 [Instructions of the Contractor] and
-12.10.1 [Sub-subcontractor Performance] and the provisions under Clause 16.4 [Recovery of Delays] to
-immediately take action and submit a mitigation plan for the recovery of the current delays and to
-complete all activities as per the committed schedule.
-You are again reminded that any delays, costs, losses and/or expenses incurred by us and/or Other
-Subcontractor/s arising as a result of the above delays shall be at your risk and recovered from your
-account in accordance with the Subcontract clauses 10.3[Contractor’s Claims], 16.6.1 [Delay Damages]
-and other relevant clauses.
-
-This is for your utmost attention and immediate action.
-Yours faithfully,
+We write with reference to correspondence (1) above, for which the Contractor's response is still
+awaited. As you are aware, the requirement for the Airport Pulse System Solution provided by the
+AOS Subcontractor to comply with the Resource Management System Specification (Section 274250,
+Clause 2.4AA (1-2) is an essential functionality required for the daily airport operations.
+This required functionality was originally scheduled to be delivered in accordance with the
+Contractor's Rev 11.2 Schedule. An NCR was issued (2) on 18 February 2019 which to date remains
+open. In response to the open NCR, the Contractor stated that the required functionality was
+scheduled to be delivered during Q2 2019. However, as of 13 February 2020, there is no clarity
+when the Airport Pulse solution will be completed .
+To avoid further delays, the Contractor is advised to take immediate steps in completing this
+important system interface. The Contractor is also required to provide a completion schedule
+through implementation and into a production environment. This shall include for full testing and
+commissioning according to the established Project test procedures, and for Performance Testing
+with the other Airport-wide Systems. The schedule shall be provided within 7 days from the date of
+receipt of this letter.
+We reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of Contract for all delays
+which may be caused to the Project as a result of the Contractor's inaction and non-compliance.
+Yours faithfully

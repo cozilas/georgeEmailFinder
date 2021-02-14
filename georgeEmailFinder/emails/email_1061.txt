@@ -1,0 +1,23 @@
+Subject HBSS- Equipment failures 10080 XCT
+Dear Sir,
+Per the NCR-00897 referenced above, please provide a root cause analysis report, signed by the
+manufacturer in Germany, design management, identifying the reasons for the 10080 XCT failures
+It must be highlighted to you that a failure of the HBSS equipment during BHS testing by levels 4, 3, 2
+and 1 commissioning will affect the Engineers decision to accept or reject the BHS system. The HBSS
+system must be 99.99% available as specified under section 283310 I item 1.5 - Performance
+Requirements
+The Contractor must ensure the report is submitted at the earliest, and that the reworks start
+immediately to avoid disrupting any BHS commissioning plans. Analysis should include as a minimum:
+• What parts are failing
+• What are the current failure rates
+• Root causes analysis, reasons for the failure ofthese machines and parts
+• Describe in detail how the manufacturer will rectify the problem
+• Define a time frame, schedule when the rectification works will start and finish
+• Define a monitoring period for the reworks to establish that the problem has been
+eliminated
+• Define how the Contractor will ensure the machine will not fail in the future operations
+• Clarify where these machines been installed in existing operations Any replacement of parts and
+equipment repairs made during the project execution must be recorded
+into the project maintenance records for future reference- refer to letter (2} above.
+Your urgency on this matter is required.
+Yours faithfully,

@@ -1,0 +1,31 @@
+Subject:Third Party Integration with the Base Build
+Dear Sir,
+The Contractor refers to receipt of the Engineer’s letter ref: (1) together with enclosures following
+various Risk Committee Meetings, the joint meeting held on 6 November 2018, and the ‘AMC Systems
+Integration Agreement’ meeting held on 5 December 2018, and wishes to clarify the following in
+connection with the requirement for the Contractor to facilitate integration of third party spaces with
+the base build services.
+As noted within letter ref: (1), the Engineer is of the view that ‘the Contractor [agreed to] to facilitate
+the integration of the third party spaces with the base build services (i.e. mapping programming, C&E
+testing etc.) in accordance with Clause 2.12 of the Settlement Agreement and Amendment No. 8
+[SAA8].’ Clause 2.12 of SAA8 amended Clause 12.12.2(b) of the General Conditions of Contract [‘Other
+Contractors’] such that it now reads ‘The Contractor shall … take such actions as are necessary to
+facilitate the work of the Other Contractors including providing … access … and providing Other
+Contractors with the opportunity to connect their systems to the systems installed by the Contractor at
+times required by the Employer.’
+However, while the Contractor agreed in principle to facilitate the integration of third party’s systems
+with the Contractor’s base build services, it is important to note that the Contractor will not be able to
+do so, if the ‘times required by the Employer’ prove to be poorly coordinated and poorly managed, and
+we are required to facilitate the circa 200 third parties in an ad-hoc and piecemeal manner. The
+Contractor’s e-mail dated 5 December 2018 attached to letter ref: (1) is synonymous with this very
+matter, in which it records that, with the exception of ARCO “… it was agreed that ADAC would aim to
+have all 200 number 3rd parties’ integration works done at one time ...” We certainly hope that this
+remains the case and that the interfaces between all of the third parties’ systems and our base build
+works can be undertaken within one discrete ‘window’; otherwise it is likely to have a detrimental
+impact on progress of the MTB Works.
+We trust this is clear; especially as it is reasonable to assume that the Employer has reciprocal
+contractual obligations placed upon its Other Contractors commensurate with Clause 12.12.2(c), and for
+them to cooperate with us and take such actions as are necessary to facilitate the works of the
+Contractor and to coordinate their works so as not to obstruct, disrupt or delay work being performed
+by the Contractor.
+Yours faithfully,

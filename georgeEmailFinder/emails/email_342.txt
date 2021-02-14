@@ -1,47 +1,74 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0140
+Pending Installation of Duress Alarms to Screening Room and X-Ray Machines / Delays to
+Completion of HBSS and PBSS Installations to L0.0 and L1.0 due to Delayed Completion of Shell and Core
+Works by Employer’s Other Contractor
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
 
-Dear Sir,
-With reference to the above subject and after receipt of a letter from M/S Giffin Traffiks LLC (hereinafter
-M/S Giffin), informing us of non-accessibility to their work attributable to your various acts or omissions,
-we write to inform you of the disruption being caused by you, to the mentioned Subcontractor.
-In view of the above and further to our numerous correspondences in regards to your continual delays,
-we regret to inform you that your failure to complete the works without delay and your lack of
-coordination is hindering access and affecting the works of other Subcontractors.
-Accordingly, pursuant to Clause 16.4.1 (a), (b), (c) [Recovery of Delays] your immediate response is
-requested with explicit clarity on:
+Overview
+The matters described in Annex A concern delays to completion of HBSS and PBBS installations due to
+act(s) of prevention on the part of the Employer and / or the Employer’s Other Contractor.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 15 July 2019, we raised RFI/0401/17302 Rev. 00 [dated 13 July 2019], together with a series of
+schedules and marked up Shop Drawings, plus a photo, requesting further clarification from you as to
+whether the duress alarms are to be free issued for the following equipment and areas / levels:
 1.
-Providing access to the works for M/S Giffin;
+The Hold Baggage Screening System (HBSS) to L3A Screening Room to Level L0.0 (the relevant
+extracts of the related schedule and Shop Drawing are shown in Figure 1 and 2 below); and
+Figure 1
+Figure 2
 2.
-Submitting a revised recovery plan and supporting report describing the methods you propose
-to adopt in order to provide access to M/S Giffin;
-3.
-Proceed with the works in due diligence to ensure earliest completion;
-You are therefore, required to immediately reply within (7) seven days of receipt, of this letter.
-Your attention is also drawn to Subcontract Clause 12.12 [Other Contractors and Other Subcontractors]
-which includes the following:
-"12.12.1 In addition to its obligations pursuant to clause 12.11 (Cooperation), the Subcontractor agrees
-that its access to the Site will not be exclusive and that Other Contractors and Other Subcontractors may
-perform work on the Site concurrently with the Subcontract Works”.
-12. 12.2 The Subcontractor shall:
-“(a) cooperate with the Other Contractors and Other Subcontractors to ensure the coordination of the
-work of the Other Subcontractors with the execution of the Subcontract Works including timeframes,
-programmes and schedules for completion of the Subcontract Works;”;
+The X-Ray Machines in the Shell and Core Areas to Level L0.0 and Level L1.0; particularly given
+that at the time of raising RFI/0401/17302 Rev. 00, the X-Ray Machines are located in rooms that are
+designated as ‘shell and core’ fitted out by the Employer’s Other Contractor and had not been
+completed and consequently the X-Ray Machines were unable to be installed (the relevant extracts of
+the related schedule and Shop Drawing shown in Figure 3 and 4 refers).
+Figure 3
+Figure 4
+We requested a reply to RFI/0401/17302 by 22 July 2019. However, you failed to do so until circa three
+weeks later, on 14 August 2019. In short, the response from the Employer’s Design Consultant
+confirmed that that the “Duress Alarms buttons for future provisions … are to be free issued to the
+Client” but with specific reference to the Shell and Core areas, the Consultant advised that “the
+machines will be installed as soon as the shell & core areas are ready ... [and] …Contractor to install the
+duress buttons after completing the installation of the machines in the shell & core areas.”
+In our view this represents an acknowledgment that:
+1.
+Our ability to complete our works is dependent on completion of the shell and core areas; and
+2.
+The shell and core areas are incomplete.
+Unfortunately this has remained the case since the response to RFI/0401/17302 was returned, and at
+the date of preparing this Notice, i.e. 9 September 2019, the shell and core areas to the above noted
+areas and levels to be fitted out by the Employer’s Other Contractor have not been completed. As a
+direct consequence of which, we have been prevented from completing the installation of free issue
 
-“(b) take such actions as are necessary to facilitate the work of the Other Contractors and Other
-Subcontractors, including providing Other Contractors and Other Subcontractors with access to all
-essential services and amenities and any place where work is being carried out or Materials are being
-prepared or stored; and”;
-“(c) take such actions as are necessary to not delay or disrupt any Other Contractor or Other
-Subcontractor”.
-For the purpose of preventing any further unnecessary delays we hereby instruct you pursuant to Clause
-11.3 [Instructions of the Contractor] to proceed with the works as instructed above and provide
-immediate and direct access to other Subcontractors (including but not limited to M/S Giffin).
-Consequently, please be informed that any delays, costs, claims, losses and/or expenses and the like
-incurred by us and/or Other Sub-Contractors arising as a result of your failure to proceed with the
-aforementioned activities will be solely your responsibility as per the Subcontract Agreement Clauses
-including but not limited to 10.3 [Contractors Claims], 12.12.4 [Other Contractors and other
-Subcontractors] and 16.6 [Delay Damages].
-Concluding the above, you are to implement mitigation measures to increase the efficiency of the
-construction of the Subcontract Works and coordinate with other Subcontractors to avoid further
-progress disruption issues.
-The above is for your immediate action.
+duress buttons to Levels L0.0 and L1.0; and similarly prevented from completing the HBSS and PBSS
+equipment installations and related works to the levels and sectors shown in Figure 1 and 3 above.
+We therefore take this opportunity advising you of the specific items of specialist equipment and the
+rooms affected, evident from the following schedules provided in Figure 5 and 6 below:
+Figure 5
+Figure 6
+Moreover, the delayed completion of the shell and core areas and the impact on our Works and the
+works of our specialist subcontractors has been continuing for some considerable time; evidenced by
+the following letters from the specialist PBSS subcontractor, Smiths Detection [copies attached]:
+1.
+Letter dated 10 June 2019, reference MTB-SMD-TCAJV-L-0668 (ref: 1); and
+2.
+Letter dated 10 June 2019, reference MTB-SMD-TCAJV-L-0669 (ref: 2).
+It is because of the delays to completion of our works and those of our subcontractor(s), that we are
+compelled to raise this E-Notice No. 0140, notifying you that delayed completion of core and shell fit out
+works by the Employer’s Other Contractor(s) and the impact this continues to have on the HBSS / PBSS
+works, will invariably delay testing and commissioning and impacting our ability to achieve Milestone
+MS09B, and may prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

@@ -1,13 +1,96 @@
-Subject: Submittal of Tenderer's Proposal for Departure & Arrival Pavilions, Icon Stores & Arcades Works
-Dear Sir,
-Please f ind enclosed the subcontract proposals received for the Departure & Arrival Pavilions, Icon
-Stores & Arcades Works Package as listed below:
-1. ALEC (Commercial & Technical Proposal}
-2. Cloisall (Commercial & Technical Proposal}
-3. DECO (Commercia l Proposal}
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0190
+Additional Fire Life Safety Devices requested by the House of Expertise – Request for Engineer’s
+Instruction (EI) / Variation Order (VO)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Annex A records delays due to the requirement for additional Fire Life Safety (FLS) Devices requested by
+the Employer’s House of Expertise which require a valid EI and VO in order for us to proceed.
+Potential Impact
+Disruptions and delays on the part of others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
 
-4. Regret letters/emails from other Bidders
-Kindly note that the quotations received from the subcontractors currently exclude TCAJV preliminaries,
-preambles and overhead and profit entitlements.
-This is for your kind information.
-Yours Faithfully,
+We refer to recent receipt of commented responses associated with the provision of additional Fire Life
+Safety (FLS) devices (e.g. Smoke Detectors, Strobe Lights, Speakers, Manual Call Points, Exit and
+Emergency Lights etc.), being introduced into the Works either by way of comments on our Shop
+Drawings and/or during meetings / site inspections with/by the Employer’s House of Expertise (HOE) as
+well as being introduced via the snagging process; that we hasten to add, are not currently shown on IFC
+Drawings, nor have they been previously subject to Briefing Packs/Engineer’s Instructions
+The additional FLS devices required to be integrated into the Works are reflected in the schedule
+attached at Annex B hereto and summarised in Table 1 below. This records the reference number of the
+Inspections/comments (i.e. MCI, snag-inspections and comments made on a Shop Drawing), the
+corresponding system affected, the total number of additional FLS devices (i.e. 16 Additional devices)
+and level and area where the additional devices are required. The information recorded in Table 1
+reflects the position as at 6 January 2020. As there are ongoing inspections at the time of writing, there
+is every possibility there might be additional comments and hence additional FLS devices.
+Table 1 – Additional FLS Devices
+Document Ref Building
+Level System Additional FLS Devices
+191106-PF-IR-32897-VS CSP
+L01
+FAS
+1 no. MCP
+190917-PF-IR-19363-VS CSP
+L10
+FAS
+1 no strobe light
+191030-PF-IR-32458-VS CSP
+L20
+FAS
+2 nos. strobe lights
+191110-PF-IR-33016-NVCSP
+L20
+FAS
+1 no. Smoke detector and 1 MCP
+191114-PF-IR-33367-JK CSP
+L20
+FAS
+2 Nos. smoke detector
+191105-PF-IR-32810-JK CSP
+L20
+FAS
+1 no. smoke detector
+Snag ID: 221977
+Pier 2 L10
+LIGHTING
+2 nos. type A lights
+Snag ID: 223163
+Pier 2 L10
+LIGHTING
+1 no. exit light
+Drawing
+CSP
+L20
+PAVA 1 no. Speaker
+Snag ID : 231945
+Pier 2 L3.0
+LIGHTING
+1 exit light and 2 emergency lights
+TOTAL: 16 Devices
+The additional FLS devices listed in Annex B hereto and summarised in Table 1 are beyond those advised
+previously; and represent substantial changes to the existing design and scope of Works.
+As you know, SAA8 laid down strict guidelines to follow if additional works are required and this appears
+to have been ignored. Hence this change will warrant a valid Engineer’s Instruction (EI) and a Variation
+Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with the express
+requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
+continue to proceed in accordance with the existing IFC design to the extent we are able to.
+Any requirement for us to alter the FLS system will cause delay and disruption and impact upon our
+ability to complete remaining Works and / or testing and commissioning, and invariably impact upon
+achievement of Milestone MS9C (Substantial Completion); hence the need to raise this E-Notice.
+Yours faithfully,

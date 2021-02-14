@@ -1,0 +1,10 @@
+Dear Sir,
+
+The Contractor refers to letters referenced 1 & 2 above and notes that the UPS/Battery ventilation rates
+are governed by item S/N 148 of Appendix F of Engineer's Instruction 138. As such the relaxation of the
+Ventilation Requirements for UPS & Battery rooms being changed from 12 ale per hour to 6 ale per hour
+would have no cost benefit for the Employer. If the Contractor chooses to implement S/N 148 from the
+Optimization list, and the Employer would like to increase/decrease the requirements for Ventilation
+then the Contractor will address accordingly.
+
+Yours faithfully,

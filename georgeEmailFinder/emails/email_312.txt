@@ -1,35 +1,76 @@
-Dear Sir,
-We are in receipt of your letter (2), which includes an assessment of screed by your Third Party
-Consultant. The assessment presented lacks detail and chronology of events related to the screed
-subject.
-To assist in a conclusive review of the screed subject you are requested to resubmit a comprehensive,
-project specific screed assessment. As a minimum, the assessment must include:
-• Introduction and background
-• Details of investigations carried out, including crack analysis and type determination
-• Statement on root cause of screed cracking
-• Screed replacement and repair treatment proposals, including justification of any proposed
-crack tolerances
-• Changes introduced to materials and methods, including new screed mixes as part of your
-mitigation strategy
-• All corrective actions preventive steps taken and outcomes
-• Details of the current status of the screed works and incidence of cracking,
-• Inputs, recommendations and conclusions supported by Third Parties To ensure completeness, the
-revised assessment is expected to be fully supported with appropriate
-appendices, references and records.
-We would appreciate your earliest response in resolving this matter.
-Subject Clause 27.1.1- Notice of Claim Delay Notice No. 984- Engineer's Instruction No. 721
-Passport Control Area Glass Partitions, Doghouse, OOG Left and Right, and Immigration/Emigration
-Counter Components
-Dear Sir,
-We write with reference to the above correspondence (1) wherein t he Contractor submitted Delay
-Notice No. 984.
-The Engineer highlights the Contractor's obligation to submit a fully detailed claim in accordance with
-the requirements of Clause 27.1.5 within 42 days from the date of the events which alleged ly gave rise
-to the alleged delay. Furthermore, the Contractor is also obligated to submit a Time Impact Analysis in
-accordance with Clause 27.2.1 within 28 days in order to enable us to review any entitlement the
-Contractor may have for there and/or cost.
-In addition, the Contractor shall provide evidence that it took all reasonable steps to avoid or mitigate
-the alleged delays as required under Clause 16.5.3 of the Conditions of Contract.
-Compliance with the above stated contractual obligations is essential as this will form part of the basis
-of the Engineer's assessment of the Contractor's submitted delaying events.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0159
+
+Security System (Security Access Control and Video Surveillance System) – Snagging, De-snagging and
+Defects Management
+Unreasonable Snagging and De-Snagging Comments Uploaded to ZUTEC
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to the Works due to unreasonable snagging items
+being uploaded to ZUTEC associated with non-existent Security Systems elements (Security Access
+Control System – ‘SACS’ and Video Surveillance System – ‘VSS’) snags and unnecessary ‘duplications.’
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+impacting on MS06A and MS06B. This will invariably knock on and impact upon our ability to achieve
+Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We write to notify you of appreciable concerns we have in relation to multiple unfounded comments
+being uploaded by you on the ZUTEC system; primarily issued in relation to purported ‘snags’ raised
+against the Security Systems (Security Access Control System – ‘SACS’ and Video Surveillance System –
+‘VSS’) in various rooms when in fact no elements have been installed by us and as such do not warrant
+uploading to ZUTEC. This unreasonable practice has to cease forthwith but in the meantime continues
+to have major ramifications on Room Completion, Snagging, De-Snagging and Defects Management.
+As we are sure you appreciate, the ZUTEC system is completely ‘fluid’ and changing daily. However, at
+the date of preparing this E-Notice, there are approximately 168,000 snags uploaded to the ZUTEC
+system, out of which, approximately 5,560 concerns the Security Systems. Unfortunately, out of these,
+you have erroneously identified 750 individual ‘snags’ allegedly relating to the SACS & VSS in rooms that
+do not have any elements installed within them as per IFC and approved SD. This in itself causes
+immense problems in so far as we are forced to unnecessarily close out a ‘snag’ on the ZUTEC system
+that in reality does not actually exist. Very simply, once such a ‘snag’ has been entered onto ZUTEC, in
+order to clear this [even though it does not exist] we have to provide a ‘clearance sheet’ to mark the
+room areas as “Security System for this room area is Not Applicable (N/A)”, as well as attach extracts
+from both the corresponding Shop Drawing and IFC Drawing in order to prove that there are no Security
+Systems trades within that particular room / area.
+Not only does this take up unnecessary administrative time given that it takes at least 30 minutes to
+review, identify and upload the relevant supporting information to ZUTEC, but also affects our defects /
+snagging team on site in terms of them having to inspect then re-inspect areas and rooms which would
+not be necessary but for your unreasonable practice of erroneously identifying alleged defects or snags
+that do not exist. This is a matter that is otherwise wholly avoidable, especially at such a late stage of
+the Project.
+
+What is particularly disconcerting is that the number of incorrect snags/de-snags in ‘N/A room areas’
+uploaded by you to ZUTEC seems to be increasing on a regular basis. Therefore, we urge you to take
+immediate and appropriate action and avoid uploading any further similar ‘N/A’ snags/de-snags.
+In addition to the foregoing, our ability to close out snagging and complete rooms is being further
+hindered by numerous unnecessary duplicated items being uploaded to ZUTEC by you, which for
+example consists of the same Security System element installed at the same location, which despite
+being identical are nevertheless being uploaded with a different reference number.
+Examples of this unnecessary duplication include the following:
+•
+“18 - Documentation Fail- Provide Code-2 comment sheet” and “18 - Documentation Fail - Final
+punch list to be done and provide the appropriate document” – in reality is the same defect description
+with same document to be attached, both with different snag IDs; and
+•
+“18 - Documentation Fail - Final fix inspection to be done and provide the code 2 comment
+sheet.” with snag number 00042846 and “18 - Documentation Fail - Final punch list to be done and
+provide the appropriate document” with snag number 00042849 both raised for the same room “C-L202585-FOOD & BEVERAGE” on the same date.
+In view of the high volume of snagging items that need to be closed and actioned, and the current acts
+of prevention outlined above that is impacting and continues to impact on our ability to expedite room
+completions and conclude our Works throughout the MTB, we urge you to immediately desist from
+raising unnecessary snags and uploading the same on the ZUTEC system. As outline above, this is wholly
+avoidance and is unnecessarily delaying us for which you hold you entirely culpable.
+Resultant Impact
+Meanwhile, the various delays and acts of prevention on your part outlined herein is undeniably causing
+delay and disruption to completion of our Works and is continuing to prevent achievement of Milestone
+MS06A and Milestone MS06B. This will invariably knock on and impact upon our ability to achieve
+Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

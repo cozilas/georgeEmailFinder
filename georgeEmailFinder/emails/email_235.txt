@@ -1,67 +1,29 @@
-Subject Notice of Default - Breach of Subcontract due to Arcade Retail Circulation Area Fit Out
-Dear Sir;
-Package (MEP) We kindly want to take your attention to the Breach of Subcontract due to Arcade Retail
-Circulation Area Fit out Package (MEP). During Site visit we saw that other contractor (Cioisall Co. LLC)
-started to work for Electrical Works at subject Retail Circulation Area work (Tenant Work).
-In this juncture, we kindly remind you Subcontract Specification Section 013115, 1.5 Work Responsibility
-Item C (page 3) in the attachment which clarifies that "to keep continuity within the MTB construction
-phase, Tenant Contractors shall use the Contractor's major subcontractors including Electrical
-Subcontractor as based on unit rates from BOQ.
-This is an entitlement of Subcontractor which is clarified at Subcontract therefore there is a clear breach
-of Subcontract by not using Subcontractor for the subject area works.
-In the light of above information and attachments, we kindly request compensation of all our costs and
-loses as per 21.2.1 (Adjustment to the Subcontract Price) and 27.1 (Subcontractor's Claims). In order to
-calculate the total loses and costs due to this breach of Subcontract, we kindly request the total BOQ
-quantities of subject area works which shall be done by Subcontractor.
-Subject: Briefing Pack Change Management Process
+Subject Commissioning Organization Chart and Personnel
 Dear Sir,
-We are writing to advise that we are no longer able to accept any further Briefing Package instructions
-due to conditions and circumstances that have become unsustainable:
-1. Notwithstanding an agreement to assist the Employer with the Briefing Package Change Management
-services on Cost plus basis Variation, and despite a) your verification of the Variation services having
-been delivered and accepted, b) your agreement of Variation Orders and Time/Cost Records and c)
-your certification of amounts as earned and due pursuant to the Payment terms under the Contract,
-you arbitrarily deducted such monies in breach of Conditions of Contract Clause 4 and 11.1.3.
-The action is your letter references (1) and (2) are not acceptable and constitute a breach of the
-Employer's obligations under the Contract.
-2. You failed to conclude the Briefing Package process according to the Engineer's and Employer's
-obligations under the Contract and the Briefing Pack I Change Management Process. Despite the
-agreement that the Employer is responsible for the design in the Sketches released pursuant to the
-Briefing Package workshops, the Employer failed to fulfil the design responsibility component by
-issuing the revised IFC Drawings in a timely manner.
-To this date none of the Briefing Packs have been closed out. Refer to our closeout requests in letters
-reference (3) through (7) which remain outstanding. The Employer shall remain responsible including
+We write with reference to co rrespondence (1) and to the meeting that was held on 16 December
+2019 between the Contractor, CxA, the Engineer and the Employer and provide below a summary of
+the issues discussed:
 
-all consequences such as abortive works arising from any retrospective IFC Drawing changes. 3. The
-briefing pack process was a voluntary process, not an Employer entitlement under the Contract.
-Moreover, it was originally intended to be deployed over a six-month period to expedite the last of
-remaining Employer Variations. However, the briefing package process has been abused by the
-introduction of expanding scope of change which continues without abatement since commencement
-in February of 2015 despite your continuous assurances to the contrary.
-The ever increasing scope of change is disrupting our ability to plan, coordinate and execute complex
-works and is .causing a drain on our (?nd Subcontractor) resqurces that were intended to be deployed
-for the execution of the Works rather than rectification of underdeveloped Employer design changes.
-4. We set out important notifications regarding the consequential effects of the Briefing Pack processes
-and clearly established the conditions and qualifications with respect of the responsibilities and the
-liabilities arising therefrom. These were most recently recorded in our letters references (10) and
-(11).
-Your failure to respond to the substantive matters set out in the aforementioned letters indicates a
-refusal to acknowledge the substantial Employer liabilities arising therefrom and the deployment by
-Employer of the necessary mitigations.
-For the above cited reasons, please be advised that we are not able to take on any further Briefing
-Package assistance services. Going forward, we expect that the Employer undertake their own
-obligations
-as required in the Contract for the preparation and issuance of fully developed revised Drawings (as
-"Bulletins"). These should be prepared by duly authorized professionals for each of the relevant trades
-to
-fully express the extent and scope of the Employer's Variations. We for our part will undertake our
-obligations to the limits set out in the Contract.
-To ease the transition back to the change procedure under the Contract, we will continue to provide
-BIM
-support on a call-off basis and will continue to provide the briefing package assistance for only those
-Briefing Packs on which substantial progress has been achieved. These Briefing Packs are listed in the
-attached Schedule under "In-Progress BPs". However, we are not able to provide any assistance on
-those
-Briefing Packs listed under "Declined BPs" or any other Briefing Packs issued in the future.
-Please be guided accordingly.
+1. The Contractor has not evidenced that the integration of the CML team within the
+Contractor's team will deliver the best value for their efforts.
+2. The Commissioning Agent (CxA) believes that the most effective delivery would be to
+integrate the CML team into the Sub-Contractors' delivery structure - maintaining the CSI
+team as the TCAJV's level management and QA/QC function to allow monitoring and reporting
+as currently applied.
+3. The KPis being used to monitor progress and provided by CML and CSI are not clear and a
+measurement criteria should be provided along with the Organization Chart.
+4. We recognize that the integration of the two Commissioning Management Organizations (CML
+and CSI) is a complex task and believe that the Project would be best served by maintaining
+discrete responsibilities and measurement KPis for each organization.
+5. The Contractor's proposed segregation of CML for the electrical delivery is potentially
+a reasonable "second choice", but clear details of delivery targets needs to be provided.
+6. The mechanical team structure shows a high level split of responsibility and further details on
+how this would work with regard to responsibility for the delivery of set targets needs to be
+provided.
+7. The CML management resource identified for the BMS management does not evidence having
+the appropriate level of expertise/experience for the delivery of the BMS (being primarily a
+Mechanical Commissioning Manager)- please provide details of his experience in delivering a
+BMS system of this scale to justify his appointment in this role.
+Based on the above, the Contractor is requested to review the above comments and advise on their
+proposed action within 7 days upon receipt of this let te r.
 Yours faithfully,

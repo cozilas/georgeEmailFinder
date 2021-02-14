@@ -1,52 +1,14 @@
 
-Subject: value Engineering Item MEP-19 {HVAC Hydronic ABS Piping) Realization of MEP 19 Value
-Engineering Item
+Subject: MTB- Defective AHUs
 Dear Sir,
-We refer to Engineer's letter ref. MTC-CMA-TCA-0401-lTR-01126 dated 02 February 2014 and respond
-as
-follows.
-We reject the Engineer's notion that the risk of using ABS pipes is a matter associated with means and
-methods, and therefore a Contractor responsibility. The Engineer failed to acknowledge clearly
-identified
-issues and the responsibility for such design decisions. We provided abundant engineering ass.essments
-to
-show that the Specified Material is inappropriate and would be cause for serious performance issues
-and
-we reassert our rebuttal of the Engineer's opinion that a hybrid plastic/steel system "would perform
-any·
-different to an all ERW steel system". _,.
-We have provided a notice of Design Error pursuant to Conditions of Contract clause 12.1.6 (k) an.d
-require .
-the Engineer to take the corrective actions to resolve the matter by issuing a fully detailed design
-solution ·· ·· •. ~
-that may be implemented by the Contractor. It is surprising that Engineer would seek to exploi~ a failure
-: .... r
-to design a hybrid Hydronic piping system as an opportunity for further value engineering price
-reduction
-and to penalize the Contractor when the Employer is responsible for performance.
-•ol 1 '1
-The Engineer is advised that other tenderers questioned the suitability of the ABS piping solution. We '
-refer you to Tender Query RFC-007 issued as part of Tender Bulletin 20 that posed the question: "Please
-~, · · ·
-confirm whether ABS is suitable for hydronic piping." We note that the Answer to RFC-007 neglected to
-respond to the last part of the query (repeated above). •
-We remind the Engineer again that the design of the Value Engineering Items is an Employer · ' · •
-responsibility. We contend that had the Engineer acted in accordance with the express obligations of the
-Conditions of Contract clause 9.7.1, the Employer would be required to issue Drawings to establish such
-hybrid pipe design. Having failed to implement the Value Engineering Item design in an appropriate
-manner, the Contractor has no option than to revert to the base Contract Works.
-Notwithstanding the above, and the further value engineering "opportunity'' sought by the Engineer, we
-hereby notify that the Employer is not entitled for any cost savings as a result of the change of the pipe
-to ERW steel. We refer the Engineer to Tender Bulletins OS and 09 queries no. 70 and 68 respectively
-(reproduced and enclosed in Attachment A).
-
-The Tender Bulletins referenced above show that the Employer agreed that ERW pipe is "as equal" to
-the
-steel pipe specified in the Specification 232113. As such ERW pipe need not be written into the'
-Specification to allow the Contractor to use ERW pipes. Since ERW pipe is allowable under the base
-Contract documents, the Employer is not entitled to a value engineering saving for the same.
-Find enclose RFVO no. RFV0/0401/0222 to revert the Value Engineering Item to the original
-Specification
-and return the unjustified Value Engineering Item value to the Contractor.
-We look forward to your expedient issuance of a Variation Order for the above.
+We refer to your letter (1) on the subject and note your concerns regarding the defects in the AHUs
+within the CP and Piers.
+We disagree with your statement: 'The Contractor has failed to take action to rectify these defective
+works, which pose a serious risk to the completion of the works.'
+We have been working closely with your team to address the defects highlighted in the NCRs issued
+to us, related to the AHUs, many of which have been attended to.
+During daily on-site meetings, workshops and through close coordination with your team, we are
+prioritizing work fronts to expedite the defects in a timely manner.
+We are committed to closing out all the defects as early as practicable, without compromising on
+quality and safety.
 Yours faithfully,

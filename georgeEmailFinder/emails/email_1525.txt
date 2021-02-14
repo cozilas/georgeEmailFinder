@@ -1,0 +1,24 @@
+
+Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a
+variation. The nature and extent of the variation is provided below.
+
+The following Empl oyer's Requirements are ame nded as follows: Volume 6, Sub-Clause 13.3.3.6 a) (i)
+Each station shall have a microprocessor based lighting control system that allows for controlling
+individual and groups of lighti fixtures by single or multiple devices.
+is amended to:..
+Each station shall have a BACS based lighting control system that allows for controlling individual and
+groups of lighting fixtures.
+·
+
+Volume 6,Sub-Clause 13.3.3.6 a) (iv) - to be deleted. Volume 6,Sub-Clause 13.3.3.6 b) (iv) - to be deleted.
+Volume 6, Sub-Clause 13.3.3.7 a)
+
+Lighting Control system shall consist of factory preassembled lighting control cabinets, KNX buses,
+control devises and system interfaces, programmable control button stations, master server and router
+systems, and graphical system control and software.
+is amended to:
+Lighting Control system shall consist of power relays installed in the Distribution Boards (DBs).
+
+of the BACS human machine interface (HMI). Yours faithfully,

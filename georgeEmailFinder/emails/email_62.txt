@@ -1,66 +1,162 @@
+Subject:MTB Delay Notification – Internal Glazing
+Dear Sir
+We refer to your letter ref: (1) which serves to issue us a ‘Delay Notification’ associated with purported
+delays to completion of the Internal Glazing, which you further allege is impacting the Project
+Completion.
+For the reasons set out in Annex A hereto, which describes the events associated with the modifications
+to the Internal Glazing [up to the date of receiving your letter ref: 1] and the late and / or unreasonable
+Status Code 3 commented responses to RFI/0401/17654 and the other Document and Shop Drawing
+submittals referenced therein, combined with the fact that the Time for Completion has been delayed
+by a myriad of excusable delaying events detailed in the 5 post-SAA8 TIA submissions issued to date, we
+disagree entirely.
+We are confident that when, in due course, the appropriate extensions of time related to our TIAs (Post
+SAA8) are granted by you, your comments regarding our failure to achieve Project Completion will have
+been rendered academic and the matter will have been superseded by the revised Milestone dates.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for such factors as those outlined above for which we are not culpable.
+Meanwhile, we reserve our rights under the provision of Conditions of Contract Sub-Clauses 16.5.2 and
+27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time for
+Completion and any associated costs arising from the late and / or unreasonable Status Code 3
+commented responses to RFI/0401/17654 and the other Document and Shop Drawing submittals
+referenced in Annex A hereto.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+RFI/0401/17654
+On 15 December 2019, we raised RFI/0401/17654 concerning the ‘Window Shift location at Hotel
+Courtyard Façade’ all “as discussed and agreed with ADAC”, providing you with a Structural Design
+Report for Window Support Frames’, together with a series of accompany sketches, requesting your
+approval of the same; .
+We requested a response by 26 December 2019. You failed to reply until 8 January 2020. Nevertheless,
+we were advised by the Employer’s Design Consultant that this was a design change from IFC and is
 
-Subject:Re: Letters from the Project Director
-Dear Sir,
-We are in receipt of your letter referenced (7) above sent to our Board of Directors, wherein you have
-stated your dissatisfaction in regards to our letters sent to you related to open work-fronts, delays and
-outstanding Sub-subcontractor payments. We hereby respond as follows:
-These direct communications to the Joint Venture’s Board Members without our knowledge are
-hampering our efforts to ensure a coherent flow of information between the Parties. Please be informed
-that you should diligently, at all times follow the Subcontract Agreement’s Protocol in regards to
-communication. This type of behavior is totally unacceptable and you are hereby informed that all the
-communications regarding the Subcontract should be conducted directly through us. Please note that
-such direct communication on any issue related to the Subcontract is considered as a general breach of
-the Subcontract Agreement. Failure to comply with the above may prejudice both your entitlement in
-any matter and our opportunity to investigate and take appropriate action for any matter accordingly,
-related to the Subcontract.
-In regards to your first point, where you have stated that our letters-notifications reference (1 & 3)
-“contain wild inaccuracies”, we inform you that our said letters have been prepared with due diligence
-after discussion with our construction and upper management staff and are presenting the actual facts
-on site. Moreover, we refer to your comment made about “[…] our attempt to invent non-existent
-evidence […]” and we hereby assure you that there is no such attempt as stated in your letter, but our
-notifications are to ensure that actions are taken on site, to ensure the smooth progression and
-completion of the Subcontract Works. We can also confirm that we have received your response
-referenced (6) above to our letters reference (1 & 3) as stated in your letter, which will be replied in
-detail in due time. However, your response reference (6) to both of our letters, does not provide clarity
-and/or resolution, but it is an admittance that there are indeed enough available work-fronts for you to
-proceed with your Works. In our letter reference (3) we have used your own submitted progress report
-as of 22nd February 2018 to extract the information for the available work-fronts.
-Furthermore, we acknowledge your contractual right to advise us of any (if any) circumstances causing
-delays; however, you also have the contractual responsibility to comply with the conditions of the
-Subcontract and ensure that there are available resources on-site, all mitigation measures have been
-taken and Works are progressing without delay and are completed on time. Once again we inform you
-that we have the duty to ensure the smooth progression of the works and you have the obligation to
+rejected and with that in mind, informed the Employer therein, “to reject this proposal accordingly.” The
+Employer on the other hand, advised it had no objection to our proposal, and directed us to ensure all
+approvals were obtained from the relevant reviewers (Employer’s Design Consultant and HOE) for the
+system performance.
+We do note however that the Employer’s Fire and Life Safety Consultant (Profire) previously advised you
+that an advance copy of the “updated drawings for windows are verified and found acceptable” (as per
+their e-mail dated 24 December 2019, at 11:35 AM) and you in turn advised us that “window drawings
+are cleared” as per their e-mail to you also dated 24 December 2019, but timed at 12:05 PM). [copies
+attached]
+DS/0401/L/15228 Rev. 00
+We complied, and on 19 January 2020, submitted Document Submittal No. DS/0401/L/15228 Rev. 00,
+for approval of the ‘Structural Design Report for the Window Support Frames’; which your responded to
+on 28 January 2020 classifying our submittal Status Code 3, in the manner shown in Table 1 below:
+Table 1 - DS/0401/L/15228 Rev. 00
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+19-Jan-20
+DS/0401/L/15228
+00
+Structural Design Report for the Window Support
+Frames 09-Feb-20
+28-Jan020
+3
+0 days
+The response contained the following comments:
+The Employer’s Design Consultant advised that “This is a design change ... that is instructed and
+approved by ADAC and not KPF ... We are providing our observations per ADAC instruction ...and note
+that KPF has no design responsibility. Recommended code is Code 3. ADAC to review and provide final
+code.”
+The Employer said: “Code 3 as per to Consultant recommendation. Contractor to comply with
+comments on submittal. [We] ... accepted Contractor’s proposal for the relocation of the window to
+support ... the fire integrity rectification works .... Contractor takes full responsibility to achieve
+...performance requirements.”
+The comments on the submittal are reproduced in Figure 1 below:
+Figure 1
+SDS/0401/A/4840 Rev. 00
+Also on 19 January 2020, we submitted Shop Drawing Submittal No. SDS/0401/A/4840 Rev. 00, for
+approval of Shop Drawing No. 401-JV-A-03-L_-5.32-DWL-SD-001 Rev. 00 ‘Fire Rated Window Details and
+Hotel Courtyard Façade’ which you replied to on 26 February 2020 classifying it Status Code 3 (refer
+Table 2):
+Table 2 - SDS/0401/A/4840 Rev. 00
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+19-Jan-20
+SDS/0401/A/4840
+00
+Fire Rated Window Details and Hotel Courtyard Facade
+09-Feb-20
+26-Feb-20
+3
+17 days
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. On the basis that SDS/0401/A/4840 is at
+Rev. 00, then this ought to have been responded to by you 21 calendar days later, i.e. on 9 February
+2020. However, the information recorded in Table 1 shows you exceeded the contract review period by
+17 calendar days.
+Our entitlement to an extension of time and to recover the associated costs resulting from this act of
+prevention on your part and / or the part of the Employer’s Personnel/Consultants, will apply
 
-ensure for the same. We also inform you in regards to your comments that our letters “contained no
-photographic evidence”, that our obligation is to inform you about the available work-fronts and your
-responsibility and obligation is to act upon and proceed accordingly.
-In respect to your points regarding the outstanding payments of the Sub-subcontractor M/s Plus Paint,
-you seem in your letter reference (7) to have overlooked our letter reference (5) above which is a
-continuation to our letter reference (2), wherein we have requested you to provide some additional
-information in an effort to provide clarity and resolve this matter amicably. You have stated that a
-response has been provided “clearly setting out” your position and presenting the reasons for
-withholding such amount to the Sub-subcontractor. However, with our letter referenced (5) which you
-disregarded, we have in detail requested specific information to be provided in regards to the financial
-status of M/S Plus Paint, which is yet to be provided. We assure you that we have used our rights
-derived from the Subcontract to make certain that the Works progress smoothly without complications
-and in no way you have been “threatened” as stated in your letter. For the record, you have been
-instructed to submit all reasonable evidence and all information/documents regarding the payment
-status of M/S Plus Painting, which is still pending as stated above.
-After reviewing the first paragraph of page two (2) of your letter, your intentions are becoming obvious
-in respect to the content of your letter reference (7). Consequently, please be informed that to date you
-have not submitted any Claim in line with the Subcontract Conditions. Moreover, you are also required
-to provide pursuant to Clause 27.2 [Time Impact Analysis], a detailed Time Impact Analysis for each
-delay event, showing what effect each event has had on the programme and demonstrating the Critical
-Activities and Concurrent Delays. This will indicate and quantify the impact of delays with the Critical
-Path and enable us to review any entitlement you may have for additional time.
-Notwithstanding the above, we reiterate that you are requested to resubmit your prolongation costs in
-the form of a Claim in line with Clauses 16.5 [Extension of Subcontract Time for Completion], 27.1
-[Subcontractor’s Claims] and 27.2 [Time Impact Analysis] of the Subcontract.
-In addition to the above and as mentioned in previous correspondences, please be informed that the
-Contractor’s Determination you seek, related to the prolongation costs and the Employer’s related
-Variations is subject to the Engineer’s Assessment and Determination pursuant to Clauses 11.4.3 and
-11.4.4 [Determinations] of the Subcontract. Consequently, a response will be provided once the
-Engineer provides its Determination and/or a response for the same.
-We trust you find the aforementioned self-explanatory and your utmost attention and further action is
-required.
+irrespective of any alleged failure on our part [which is denied], to transmit submittals to you in a timely
+manner.
+Notwithstanding the delayed response, you advised you would follow the coding of the Employer’s Fire
+and Life Safety Consultant (Profire); which had been returned classified as Status Code 3. However, it is
+worth noting that no comments were in fact provided either on the Transmittal or the Shop Drawing
+[subject to the response to SDS/0401/A/4840 Rev 00 issued on 26 February 2020]. This was recorded in
+an exchange of e-mails between our respective Document Control Departments at the time (on 26
+February 2020). [Jean – were the comments ever issued? Please advise and confirm how and what the
+comments were] We were surprised by their rejection given their previous acceptance of the window
+sketch drawings [see above].
+DS/0401/L/15413 Rev. 00
+Following which on 3 March 2020, we submitted Document Submittal No. DS/0401/L/15413 Rev. 00, for
+approval of the revised ‘Structural Design Report for the Window Support Frames’; which you
+responded to on 26 March 2020 classifying our submittal Status Code 3, in the manner shown in Table 3
+below:
+Table 3 - DS/0401/L/15413 Rev. 00
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+03-Mar-20
+DS/0401/L/15413
+00
+[Rev] Structural Design Report for Window Support
+Frames 24-Mar-20
+26-Mar-20
+3
+2 days
+SDS/0401/A/4840 Rev. 01
+On 4 March 2020, we submitted Shop Drawing Submittal No. SDS/0401/A/4840 Rev. 01, for approval of
+Shop Drawing No. 401-JV-A-03-L_-5.32-DWL-SD-001 Rev. 01 ‘Fire Rated Window Details and Hotel
+Courtyard Façade’ which you replied to on 25 March 2020 again classifying it Status Code 3 (refer Table
+4); the attached version of the Rev. 01 Shop Drawing containing multiple comments annotated
+thereupon:
+Table 4 - SDS/0401/A/4840 Rev. 01
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+04-Mar-20
+SDS/0401/A/4840
+01
+Fire Rated Window Details and Hotel Courtyard Facade
+25-Mar-20
+25-Mar-20
+3
+0 days
+However, shortly thereafter, on 31 March 2020, were received your letter dated 26 March 2020 (ref:
+MTC-CMA-TCA-0401-LTR-11461) associated with purported delays to completion of the Internal Glazing,
+which you further allege is impacting the Project Completion. However for the reasons comprehensively
+set out herein (i.e. the late and unreasonable status Code 3 commented responses to the various
+submittals described above), plus the fact that the Time for Completion has been delayed by a myriad of
+excusable delaying events detailed in the five post-SAA8 TIA submissions issued to date, we strongly
+disagree.
+We therefore maintain all our rights and entitlements under the provision of Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the events and circumstances described
+above.
 Yours faithfully,

@@ -1,329 +1,111 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0121
+Kitchen & Smoke Extract Fan Installation in Hotel Building Level L3.4
 
-TCAJV correspondence
-Dear Sir,
-With regards to the above subject and reference to our letter MTB/TCA/BOND/L/000 l 05,
+Response to RFI/00401/17163 and SDS/0401/M/1375-01
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to completion of the Works due to various acts of
+prevention on the part of the Employer’s Personnel and / or the Consultants that will require a revised
+response to RFI/00401/17163 and the re-coding of SDS/0401/M/1375-01 in order to resolve.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 26 May 2019, we raised a Field Modification Request (FMR) by way of RFI/0401/17163, in which,
+with reference to the Hotel - Building Management Mechanical Rooms – advised of the following:
+‘The kitchen extract fan is mounted to a floating slab which as per the attached detail sketch BP 10 is
+1000mmmm and the Cork sheet surrounding the floating slab is 100mm (50mm from each side).
+However and as per site conditions, the floating slab is 890mm and the cork sheet 210mm (105 from
+each side). Kindly confirm’
+Attached was a marked up sketch from Briefing Pack 10 titled ‘Hotel - Building Management Mechanical
+Rooms Layout’, Sketch No. 401-JV-BP10-34-5.00-GA-SKFC-002_R00_220817 [BP ref: sketch ‘ASK-008
+(BP10)’, IFC ref: MTC A 02 TB_L3.4 5.32 00.846] (refer to Figure 1), plus a partial extract of the same
+showing the variance between what is indicated thereupon and that which is ‘per site conditions’ and
+the subject of our FMR (refer to Figure 2 below).
+Figure 1
+Figure 2
+It is important to point out that sketch ‘ASK-008 (BP10) was signed by you on 16 October 2017.
+We requested a response to RFI/0401/17163 by 2 June 2019. You failed to reply until 26 June 2019 (ref:
+1). Further, rather than address the question being asked, KPF replied in the following manner:
+‘The contractor's proposal and the provided detail are not acceptable. As commented on the response
+of SDS-0401-M-1375-00 and 01 which are reviewed as Code 3, the details shown on the drawing are not
+in accordance with the workshops/agreements made during BP-10 and noted in the CMIRs, i.e. BP10ACSK-001. As per BP-10 the Contractor should be following the detail shown on BP10-ACSK-001
+(attached to the response for ease of reference). This detail was developed to prevent noise breakout
+from the fan into the Central Processor and Hotel Building.’
 
-please note that we have not received any response from you till to date.
-Further to our previous letter, we hereby de-scope all relevant interface PBB Cabling
-Works. Subsequently, we will be issuing a negative Variation Order 'for this scope based
-on the Schedule of Rates as summarised below.
+In addition to enclosing a Change Management Information Request (CMIR) dated 7 March 2016, also
+attached to the response to RFI/0401/17163 was a copy of Sketch No. BP10-ACSK-001 entitled ‘Hotel
+Roof Fan Room – Acoustic Requirements’. We note this is dated 29 February 2016 (Figure 3 refers).
+Figure 3
+We make the following comments and observations in respect of the above:
+1.
+We are somewhat surprised at KPF’s reference to an out of date sketch, given that Sketch No.
+BP10-ACSK-001 (Figure 3 refers) to which KPF refer is dated 29 February 2016 and was for all intents
+superseded by ‘ASK-008 (BP10)’ (Figure 1 refers) dated 16 October 2017.
+2.
+Moreover, given that ‘ASK-008 (BP10)’ was signed off as agreed by various parties, including you
+– as the Engineer for the Project – on 16 October 2017, in keeping with the Briefing Pack design
+development process [in so far as we were to instructed generally at the outset of the Briefing Pack
+design development process to consider signed-off BP sketches as ‘issued for construction’], we
+complied and constructed the works on site according to that sketch.
+3.
+Moreover, according to a series of e-mails exchanged between 7 June 2017 and 13 September
+2017 [copies attached, ref: (2)] the mechanical fan room sketch [which was later to become ‘ASK-008
+(BP10)’] was widely circulated to all parties and at no time was challenged by KPF, or any other party for
+that matter; including for example, neither you nor ARUP.
+4.
+Meanwhile, on 31 December 2018, we received a Status Code 3 response to our Shop Drawing,
+Fan Typical Installation Details for KEF-CS-L3.4-02 and 03, SEF-CS-L3.4-01 (Sector 5.32B) issued under
+Shop Drawing Submittal No: SDS/0401/M/1375-01 (ref: 3) the basis of the rejection being that the fan
+details were purportedly not in accordance with BP10-ACSK-001 – which we have established above,
+was superseded by ‘ASK-008 (BP10)’ (refer to Figure 1).
+5.
+Under the circumstances we believe the Status Code 3 comments to be invalid and urge you to
+assist with arranging to have SDS/0401/M/1375-01 re-coded as minimum Status Code 2.
+In addition to the above, we received an e-mail from you dated 3 July 2019 [timed at 6:42pm] which
+provided two e-mails from the Employer’s Design Consultant [ARUP] one of which was dated 17 June
+2017 and one dated 3 July 2019, which in summary stated that following a review of the sketch detail
+appended to RFI/0401/17163 i.e. ‘ASK-008 (BP10)’ (Figure 1), ARUP advised that they were of the view
+that “the current as built configuration will not achieve the IFC intent” and “Reverberant noise will be
+transmitted to the Hotel resulting in noise levels above the target of NR35 for bedrooms.” ARUP further
+stated that they recommended that we either implement the detail shown upon BP10-ACSK-001 (Figure
+3 refers), or provide an alternative solution which they opine meets the IFC design intent complete with
+all supporting documents, including the provision of acoustic calculations.
+This triggered a further round of e-mails between us [copied to KPF and ARUP] up to 25 July 2019
+[copies of the e-mails issued from 17 June 2017 to 25 July 2019 are included, ref: (4)], during which we
+agreed to undertake sound measurements to establish whether the IFC design intent to the affected
+Hotel Fan Rooms had been achieved or otherwise. Our e-mails dated 18 July 2019 and 25 July 2019
+confirm that the readings from the noise measurements taken at different levels in the Hotel Building
+confirm that they are “within the design requirement range of NR35”, and this “proves that the detail
+provided in RFI-17163 prevents noise breakout in the Hotel building.”
+In view of the above, we request that (1) you issue a revised response to RFI/0401/17163 correcting the
+reference to an out of date sketch and that you properly address the FMR described therein; and (2),
+you re-code the current response to SDS/0401/M/1375-01 as minimum Status Code 2.
+However, until such time as you do so, we are prevented from completing our Works to the Hotel Fan
+Rooms to Level L3.4 which is preventing the sign-off of the related Work Inspection Request (WIR).
+Resultant Impact:
 
-Dear Sir,
-Midfield Terminal Building- MTB Project
-1. Letter of Award (LOA) for Design, Fabrication, Supply and
-Installation of Lifts Steel Structure & Steel Staircase Work Package
-dated 23 October 2013
-2. Minutes of Rosano Progress Meeting No.18 held on 31 August2014
-3. TCAJV email dated 01 September 2014 (by Mr. Abhulimhen Peter)
-4. Workshop held on 11 September 2014
-Notice of Delay and Lack of Coordination by Rasana Sd/~
-~
-cf<;z ... ~~74We write with reference to the Letter of Award signed for the Design, Fabrication, Supply
-and Installation of Lifts Steel Structure & Steel Staircase Subcontract Works Package
-dated 23 October 2013 and further to Item no.7 of the Minutes of RASANA Progress
-Meeting No.18 dated 31 August 2014 which states, inter alia, that "No elevator Shaft
-frame in the Piers is complete. RASANA has completed survey works for all lifting beams
-on site. ( ... ) RASANA is to coordinate with TCAJV and OTIS site team ... "and the agreed
-"sequence of the handover of Elevator Shaft Works", and TCAJV email dated 01
-September 2014 which states " ... Currently no shaft frame is complete at site (RASANA
-are stepping up efforts to close out the NCR and complete one shaft- EL V 03-22 by next
-
-week)" and the workshop held with you on 11 September 2014 regarding the delays in
-your Works and lack of coordination with other trade/s (all referred to above) and the
-enclosed "RASANA's MTB PROJECT- ELEVATOR SHAFTS PROGRAM dated 04 September
-2014" (enclosed) which shows delays in your Works.
-Under Subcontract Clause 12.12 [Other Contractors and Other Subcontractors] your
-obligations include:
-"12.12.1 In addition to its obligations pursuant to clause 12.11 (Cooperation), the
-Subcontractor agrees that its access to the Site will not be exclusive and that Other
-Contractors and Other Subcontractors may perform work on the Site concurrently with
-the Subcontract Works.
-12. 12.2 The Subcontractor shall:
-(a) cooperate with the Other Contractors and Other Subcontractors to ensure the
-coordination of the work of the Other Subcontractors with the execution of the
-Subcontract Works including timeframes, programmes and schedules for completion of
-the Subcontract Works;( ... ) (c) take such actions as are necessary to not delay or disrupt any Other
-Contractor or
-Other Subcontractor ( ... ) . ".
-Accordingly, you are hereby requested to coordinate your Works including the design
-with Other Subcontractors (including but not limited to Otis) and coordinate the shop
-drawings with the Engineer.
-Subcontract 12.12.3 further provides that:
-"12. 12.3 The Subcontractor agrees it has allowed in the Subcontract Price for all delays,
-disruptions and costs it may incur arising out of or in connection with the work to be
-performed by Other Contractors and Other Subcontractors or otherwise to comply with
-its obligations pursuant to this clause 12. 12 including but not limited to those interfaces set
-out in the interface table included in Schedule 12 (Specification) ( ... ).The Subcontractor
-
-agrees that it shall not be entitled to any extension of the Subcontract Time for
-Completion, reimbursement of additional Cost or adjustment to the Subcontract Price in
-respect of any delay or disruption caused by having to comply with its obligations
-pursuant to this clause 12. 12 in so far as it relates to matters known or which ought
-reasonably to have been known by the Subcontractor on or before the date for
-submission of the tender.
-12. 12.4 The Subcontractor shall be liable to the Contractor for any claim by the Employer,
-Other Contractors or Other Subcontractors (or any other contractor, Sub-subcontractor
-or supplier) for costs, monies, loss, expense, damage or otherwise, arising out of or in
-connection with a breach of or by the Subcontractor of its obligations under the
-Subcontract.".
-Furthermore, it is noted that under Subcontract Clause 16.6.1 if you fail to comply with the
-approved Subcontract Programme you shall indemnify and hold us harmless against all
-damages, costs, losses and expenses incurred by us in connection with your delays.
-Moreover, Subcontract Clause 16.6.2 provides that "( ... ) if the Subcontractor fails to
-comply with clause 16.2 (Subcontract Time for Completion), the Subcontractor shall,
-subject to clause 10.3 (Contractor's Claims), pay delay damages to the Contractor for
-this default.".
-Finally, you are hereby instructed to submit site progress reports on a weekly basis which
-shall be made available at every weekly meeting. You are also instructed under
-Subcontract Clause 16.4.1 to submit us your revised recovery plan and supporting report
-describing the revised methods which you propose to adopt in order to expedite your
-progress and complete within the Subcontract Time for Completion ..
-The above is for your immediate action.
-Dear Sir,
-
-We hereby write to your letter dated 11 May 2015 (the "Letter") which you wrote further to our
-letter dated 19 March 2015 stating TCAJV "have instructed [GPC] to provide all necessary means to
-accelerate the works ... ", your letter dated 20 June 2015 which you wrote further to our letter dated 18
-May 2015 whereby we instructed you under the Subcontract Clause 16.3.3 to submit a revised
-Subcontract Programme within fourteen {14) days for our approval that complies with the Milestone
-Dates, your Submission dated 26 April 2015 which attached your Acceleration Schedule, and your
-Submission dated 27 April 2015 which enclosed your cost analysis associated with the Acceleration
-Schedule.
-By way of clarification, we provide below the "non-exhaustive" chronology for the events following
-TCAJV's letter dated 19 March 2015 and recent correspondence regarding acceleration of your Works
-and
-our comments.
-• TCAJV's letter dated 19 March 2015 attached a set of keydates in respect of GPC's Subcontract Works
-that need to be achieved to support the Employer's strategy, and instructed GPC "to view the dates in
-Appendix A against your progressed current approved Programme and to consider the measures that
-[GPC] will need to take ... (the 'Measures') to meet these dates in preparation for a 'brain storming'
-workshop to be called within the next seven (7} days ... ".
-• GPC's letter dated 28 March 2015 stated, inter alia, that they had only achieved 35.08% progress of
-the Project as of 19 March 2015 which had taken them 18 months of production and 17 months of
-site works, and claimed that this was due to various issues they were not responsible from. It also
-stated that they were requested to complete the remaining 65% of the works by 30 October 2015; "in
-a net of less than 8 months" and explained the difficulties in doing so. it also stated that the dates
-provided were impractical to achieve and could not be achieved irrespective of the measures taken to
-accelerate. The letter concluded that it was not "reasonable to expect any acceleration in the works
-and completion of the works before the completion as stipulated by the Rev.OS program.".
-• Via their letter dated 14 April 2015, GPC submitted their ''Accelerated Programme and Cost
-
-Associated'' with reference to TCAJV's letter dated 19 March 2015, their letter dated 28 March 2015
-and to a meeting held with TCAJV on 08 April 2015. They confirmed their "adherence to [TCAJV]
-instruction ... dated 19th Mar'15, in which [TCAJV] requested [GPC] to provide all the necessary means
-to accelerate job.".
-• GPC's letter dated 26 April 2015 regarding Submission of their ''Accelerated Programme - Work
-Analysis'' attached their Acceleration Schedule, made reference to TCAJV's letter dated 19 March
-2015 and a meeting held with TCAJV on 08 April 2015, and stated, inter alia, that this letter superseded
-their letter dated 14 April 2015.
-• The Submission via GPC's letter dated 27 April2015 with subject "Cost Associated to the Accelerated
-Program" enclosed their cost analysis associated with the acceleration program and noted that they had
-proceeded in recruitment and arranging the needed resources and planned to start deploying the
-resources by end of that month. The Submission also listed GPC's requirements "in order for [Gulf
-Precast] to abide with this accelerated program and to secure these resources to mobilise on time ... "
-and included, inter alia, details of advance payment request and further payments for the acceleration.
-• On 05 May 2015, GPC sent a reminder regarding the "Cost associated with the acceleration program"
-and stated that till the date of this letter they had not received TCAJV's approval on their acceleration
-cost and a clear agreement on paying GPC the 25% advance payment by 07 May 2015, which they stated
-was their pre-requisite to follow the acceleration plan as per their letter dated 27 April 2015.
-• GPC's letter dated 09 May 2015 stated that their Subcontract Price to execute the Subcontract Works
-was AED 130,675,000.00 but "Unfortunately~ more than a year into the Project execution~ we find
-ourselves having incurred huge unforeseen costs, with our actual costs of the project of AED
-901 3631873.04 up to 31st March 2015 which is 72.76% of the revised subcontract value, while we have
-only completed about 40% of the project till date. ". GPC estimated that their cost at completion would
-exceed AED 228,341,020.69 (191.92% of the revised subcontract value) and added that "With such
-massive loss on this project", they were now in the middle of a deep financial crisis that would affect the
-very existence of their Company. GPC also provided the reasons for such costs increase and requested
-TCAJV's review of their Subcontract Price.
-• GPC's Letter dated 11 May 2015 stated that TCAJV's letter dated 19 March 2015, had " ... instructed
-[GPC] to provide all necessary means to accelerate the works on the above mentioned Project"~ in their
-letter dated 26 April 2015 they had outlined in full detail how they planned to accelerate the works,
-including " ... a detailed programme outlining the deployment of these resources area by area and week
-by week until final completion", and that in their letter dated 27 April 2015 they had included a full cost
-analysis of the acceleration process as well as a request for advance payment of 25% of the acceleration
-
-cost. It stated, inter alia, that they had met with [TCAJV's] team on the date of the letter and claimed
-that the following were discussed and agreed:
-"1. Due to the very tight financial situation of Gulf Precast at present, Gulf Precast is not able to shoulder
-alone the financial responsibility of deploying the needed extra resources, equipment and material to
-achieve the desired acceleration targets.
-2. M/s TCAJV is proposing to assist Gulf Precast by assigning to Gulf Precast some of its supervisory staff,
-hiring some others, assisting with Subcontractors, as well as procuring the necessary scaffolding,
-supporting platforms, equipment and materials required to meet the acceleration targets, all in
-coordination between both parties.
-3. The cost of such assistance shall be advanced by the TCAJV and considered as part of the acceleration
-cost to be awarded to Gulf Precast, and shall supersede and replace our previous estimated cost for
-such items in our letter dated 2ih April {13040-GPC-PDHW-TCA. TV-MTB-0285 mentioned above.
-4. The above financial assistance shall continue until Gulf Precast receives the requested advance
-payment of 25% of the acceleration sum, and subsequently the balance of the acceleration monies after
-deducting the TCAJV advances towards acceleration.". GPC also added their requirements for the above
-alleged agreement to be workable.
-• TCAJV's letter dated 18 May 2015 stated that in their letter dated 19 March 2015 they had enclosed a
-series of dates and instructed GPC to review and to propose what GPC would have to do differently in
-order to achieve the dates for sectional Taking Over. It also noted ·that subsequently, GPC had attended
-workshops to present their proposals, and concerns, related to engineering, procurement and
-construction and the additional measures to be taken to ensure the dates were achieved. The letter
-further stated that based on these discussions and feedback provided by GPC, a Programme Rev
-6 had been produced and submitted to the Engineer for his approval under the Agreement with the
-Employer. The letter attached "A copy of this Programme Rev 6, filtered for [GPC's] element of the
-Works", added that '~ny significant changes required by the Engineer will be notified to you in due
-course.", and instructed GPC pursuant to Clause 16.3.3 of the Conditions of Sub-Contract to submit a
-revised Subcontract Programme within fourteen {14) days for their approval that complies with the
-Milestone Dates, the intent of the Programme Rev 6, the requirements of Clause 16.3.1, and which
-reflects the actual start and finish dates for completed or in progress activities as required by Clause
-16.3.2.
-• On 25 May 2015, GPC submitted their EOT and Associated Claim (received by TCAJV on 28 May 2015).
-• On 01 June, 2015 a meeting was held between the Parties whereby technical, financial issues,
-including the below, were discussed:
-1- GPC's issues regarding their tight financi
-
-al situation and that they could not accelerate without advance payment and their payment request as
-stated in their letter dated 11 May 2015 as per their alleged meeting and agreement with TCAJV
-management were suggested to be elevated to management.
-2- GPC's letter dated 09 May 2015 under Item 1 d, e and f, were discussed. Since the precast concrete
-beam (which was in the schematic design drawings only) changed to steel beam structure, GPC claimed
-it (and the connection} was not within their scope of work. However, they stated, with good intent ions,
-had already carried out the design steel beam structure, steels struds and the connection.
-3- TCAJV rejected that the precast beam was not in GPC's scope as it was clearly shown on the drawings
-and stated that if GPC intended to claim variation for this item, this should be considered as negative
-variation for the original beam and variation for the new steel beam structure and to take responsibility
-for their design. TCAJV also requested GPC to send their design for the steel beam structure along with
-the estimated costs. GPC to agreed to do so within 2 days (along with their clarification letter}. 4- TCAJV
-stated that GPC's EOT claim had to be submitted for the Engineer's decision/assessment after TCAJV's
-review of the same. GPC was requested to continue to meet with the TCAJV's claims/EOT team who will
-carry out their EOT review and assist them in maximizing their entitlement. TCAJV also stated that only
-after this process, GPC's entitlement to the relevant costs may be determined.
-• GPC's letter dated 20 June 2015 (which TCAJV received on 23 June 2015) stated, inter alia, that they
-submitted their acceleration programme (data date- 1st Apr '15) and associated costs via their letter
-dated 26 April 2015 and followed up the submission with requests to confirm the acceptance of the
-programme as well as release of associated acceleration costs enabling them to finance the acceleration
-and added that "in the absence of which, we had stated, we will be unable to accelerate the works.".
-Moreover, GPC expressed their concern with reference to TCAJV's letter dated 18 May 2015 and stated
-that " ... TCAJV's extract of rev.06 program received by us on 24th May '15 has a data date of 1st Mar '15,
-and this program does not match our acceleration program with a data date of 1st Apr '15 submitted via
-our afore-mentioned letter on 26th Apr '15, os it has different sequence of works, durations and
-completion dates for zones/bridges, while we were progressing on site since 15r Apr '15 as per the
-acceleration program submitted to you ( ... ). Consequently, by the time we received the rev.06 program
-on 24th May '15, the actual progress was already out of line from the planned dates of the rev.06
-program.". GPC confirmed TCAJV's letter dated 18 May 2015 had instructed them pursuant to
-Subcontract Clause 16.3.3 to revise their subcontract programme of works (Current Baseline
-Programme) as per the extract of fTCAJV's] rev.06 program (data date - 1" Mar '15). GPC attached their
-"target program for
-the works remaining as of 28th Feb' 15" in compliance with TCAJV's rev.06 program and stated that
-"once the revised subcontract programme is approved, it shall supersede the previously agreed
-subcontract program ( ... ) This effectively translates to an instruction to revise our subcontract
-programme of works to achieve revised completion dates, and increase our resources to achieve the
-required acceleration.". GPC also noted that "... various planned start/finish dates of the rev.06 program
-had elapsed by the time we received your program as well as the fact that the sequence of works
-
-planned in the program is different from the actual progress on site, we cannot take responsibility for
-undue delays to the project when compared to the attached target program (based on rev.06 program),
-and any consequences of such delays.". The letter also referred to a meeting held on 02 June 2015 at
-TCAJV site office and claimed the issues including the below were discussed.
-"1. GPC expressed concern on the fact that TCAJV is instructing GPC via its above mentioned letter to
-revise the currently approved subcontract programme pursuant to clause 16.3.3 which states among
-other things "the Subcontractor shall, without additional compensation, coordinate and revise its
-subcontract programme accordingly and as directed by the Contractor" while GPC believes it is entitled
-for two costs namely, the prolongation/ extension of time costs and the acceleration costs.
-2. Mr. Atakhan of TCAJV clarified that the word "compensation" in the phrase "without additional
-compensation" refers to the cost incurred by our Planning Department in "the exercise of revising the
-programme" and not the consequential execution costs resulting from revising the programme
-dates/rates of execution by increasing resources, and that GPC is duly entitled to such costs or any other
-costs under contractual entitlement.
-3. Subsequently, it was noted that GPC is to submit a new programme in compliance with the extract of
-the revision #6 programme attached to TCAJV's afore-mentioned letter, for the works remaining as of
-2B'h Feb '15. 4. With regards to the first EOT claim & prolongation costs in place (as referenced above),
-it was noted that TCAJV is currently reviewing the Time Impact Analysis {TIA) programmes and the
-associated costs submitted by GPC via its letter ref: 156/ES/SM/13040 dt 25th May '15, and will revert
-shortly." GPC's Financial Issues:
-In view of the above chronology, your letter dated 28 March 2015 claimed that you had only achieved
-35.08% progress of the Project as of 19 March 2015 which had taken you 18 months of production and
-17 months of site works due to various issues you were not responsible from, and stated that you were
-requested to complete the remaining 65% of the works by 30 October 2015 "in a net of less than 8
-months". It also concluded that the dates provided were impractical to achieve and could not be
-achieved irrespective of the measures taken to accelerate and that it was not "reasonable to expect any
-acceleration in the works and completion of the works before the completion as stipulated by the Rev.
-OS program.". However, following workshops, meetings, discussions held, you submitted your
-"Accelerated Programme and Cost Associated" on 14 April 2015 which confirmed your "adherence to
-[TCAJV] instruction ... dated 19th Mar'15, in which [TCAJV] requested [GPC] to provide all the necessary
-means to accelerate job.". You superseded this letter via your letter dated 26 April 2015 whereby you
-submitted your acceleration analysis. On 27 April 2015 you submitted your "Cost Associated to the
-Accelerated Program" noting that you had proceeded in recruitment and arranging the needed
-resources and planned to start deploying the resources by end of that month but listed your
-requirements which included 25% advance payment toward the acceleration costs.
-On the other hand, your letter dated 09 May 2015 stated that you had incurred 1'huge unforeseen
-costs" to your Subcontract Price with our actual costs of the project being 72.76% of the revised
-subcontract value (up to 31st March 2015}, while you had only completed about 40% of the project till
-
-date of the letter. You estimated that your cost at completion would exceed 191.92% of the revised
-subcontract value and added that due such massive loss on this project, you were now in the middle of a
-deep financial crisis and requested TCAJV's review of their Subcontract Price. You claimed that the listed
-reasons attributed to such increased costs.
-We remind you that under the Subcontract Clause 12.17.2 17he Subcontractor agrees that the
-Subcontract Price covers all of the Subcontractor's obligations under the Subcontract ... and all things
-necessary for the proper design (to the extent required by the Subcontract), execution and completion
-of the Subcontract Works and the remedying of any defects.". However, if you believe you are entitled
-to additional costs1 subject to Subcontract Clause 21.2 [Adjustments to the Subcontract Price]. you
-should submit your claims in strict compliance with Subcontract Clause 27.1 [Subcontractor's Claims].
-GPC's Letter dated 11 May 2015:
-In the Letter, you referred to an alleged meeting dated 11 May 2015 whereby you claimed the issues
-listed in the chronology (above) were discussed and allegedly If agreed". However, we hereby note that
-this meeting not been recorded/minuted by the Parties. Accordingly, you are requested to provide us
-records of this meeting. We hereby urge you that such crucial meetings whereby agreements and/or
-decisions are allegedly made are recorded and agreed by the Parties in writing and not selectively
-quoted in letters in support of arguments.
-Moreover, the Letter listed your requirements regarding the acceleration costs and concluded that "In
-case we do not receive any feedback from your side by Thursday, 14th May 2015 and taking into
-consideration the time criticality of the issue, we will consider that the above-mentioned is agreed by
-both parties." which we rejected via our email dated Wednesday, May 13, 2015 2:00 PM with subject
-"GPRECAST letter ref: 13040-GPC-PD-HW-TCAJV-MTB-0297/Cost Associated to the Accelerated
-Program", and stated that it was not acceptable. Regarding TCAJV's assistance to GPC due to their "very
-tight financial situation" and the requested advance payment of 25% of the acceleration sums, we
-hereby note that during our meeting held on 01 June 2015 you were requested/advised to elevate your
-financial issues to TCAJV management. GPC's letter dated 20 June 2015:
-We hereby note your statement " ... TCAJV's extract of rev.06 program received by us on 241h May '15
-has a data date of 1st Mar '15, and this program does not match our acceleration program with a data
-date of 1st Apr '15 submitted via our afore-mentioned letter on 26h Apr '15, ... we were progressing on
-site since 1st Apr '15 as per the acceleration program submitted to you.".
-Regarding your statement that "TCAJV's extract of rev.06 program received by us on 24th· May '15 has a
-data date of 1st Mar '15, and this program does not match our acceleration program ... submitted via
-our afore-mentioned letter on 2£1h Apr '15 ... Consequently, by the time we received the rev.o6
-program on 24th May '15, the actual progress was already out of line from the planned dates of the
-rev.06 program ( .. .) various planned start/finish dates of the rev.06 program had elapsed by the time
-we received your program as well as the fact that the sequence of works planned in the program is
-different from the actual progress on site, we cannot take responsibility for undue delays to the project
-
-when compared to the attached target program (based on rev.06 program), and any consequences of
-such delays", we provide our comments as below:
-First of all, it is evident from the chronology, you were aware of the key dates to be achieved as per
-early as 19 March 2015 as these dates were enclosed to our letter and you were instructed to view them
-against your progressed current approved Programme and to consider the measures that you would
-need to take. Moreover, in the event you needed to accelerate your Subcontract works in order to meet
-the revised dates you were required to demonstrate the additional Costs. Secondly, as stated in our
-letter dated 18 May 2015 subsequent to our instruction on 19 March 2015, "you attended workshops to
-present your proposals/ and concerns, related to engineering, procurement and construction and the
-additional measures to be taken to ensure the dates were achieved ... ", and based upon our discussions
-and your feedback a Programme Rev 6 had been produced and submitted for the Engineer's approval.
-Accordingly, we attached a copy of the Programme Rev 6 filtered for your Works to our letter and
-instructed you pursuant to Subcontract Clause 16.3.3 to submit a revised Subcontract Programme for
-our approval that complies with, including, the Milestone Dates and the intent of the Programme Rev 6.
-Accordingly, we reject your statement that you "cannot take responsibility for undue delays to the
-project when compared to the attached target program (based on rev.06 program)/ and any
-consequences of such delays". Furthermore, despite you submitted your acceleration "target program
-for the works remaining as of 28th Feb/ 15" in compliance with TCAJV's rev.06 program" via your letter
-dated 20 June 2015, we hereby note that to date you have not submitted the cost associated with your
-acceleration programme dated 20 June 2015 which revised your Submission dated 26 April 2015.
-Nonetheless, you have been requesting TCAJV to release advance payment for the acceleration costs
-you submitted on 27 April 2015 associated with your Accelerated Programme dated 26 April 2015
-stating that the 25% advance payment was your "prerequisite" to follow the acceleration plan which is
-now replaced by target programme dated 20 June 2015 for which you have not submitted the
-associated costs.
-Regarding your reference to a meeting held on 02 June 2015 at TCAJV site office, we are not aware of a
-meeting held with you on this date but note that a meeting was held with you at our offices on 01 June
-2015. While we disagree with the alleged meeting's date, we agree the issues discussed during this
-meeting included those you listed in addition to those we set out above. Finally, in view of the above,
-you are required to submit your costs associated with your acceleration programme submitted on 20
-June 2015 which shall be reviewed by us and submitted for the Engineer's assessment. Regarding
-assistance due to your "very tight financial situation", we hereby suggest you to meet and discuss your
-financial issues with TCAJV management.
-Yours truly,
+The delays to completion of the aforementioned works and delays to sign-off of the related WIR will at
+such a late stage of the project, cause delay and disruption to our works. This has the potential to
+invariably knock on to testing and commissioning and impact upon our ability to achieve Milestone
+MS09B, and may also prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Action Required:
+It is for this reason therefore that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
+1.
+Issuing a revised response to RFI/0401/17163 in the manner identified above; and
+2.
+Re-coding the current response to SDS/0401/M/1375-01 to Status Code 2.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Yours faithfully,

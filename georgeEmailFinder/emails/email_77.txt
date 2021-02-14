@@ -1,19 +1,49 @@
-Subject:
-Notification of Fibrex Claim- Removal of GRC Panels due to AI Ghurair's
-Incorrect Surveys to Fins
-Dear Sir,
-Following our letter reference (1) above and numerous previous correspondences referenced therein
-regarding the “Removal & Reinstallation of GRC Slab Edge Panels” by M/S Fibrex due to your incorrect
-surveys, we hereby enclose M/S Fibrex updated claim that will be backcharged to your account
-accordingly pursuant to Clause 10.3 [Contractor’s Claim].
-Furthermore, we record your refusal to accept this backcharge as stated in your previous
-correspondences, which evidently has not yet been substantiated by you. Consequently, we are taking
-this opportunity to highlight once again, that to date you have failed to submit any detailed response to
-substantiate your position in respect to your refusal. We point out once more that all previous letters
-received from you are very generic and are lacking of any reference to the Subcontract Conditions.
-In light of the above, we hereby enclose M/S Fibrex claim which is self-explanatory. To be more specific
-M/S Fibrex claim consists of Part A - Removal & Reinstallation (Attachment 1) and Part B - Idle
-Manpower (Attachment 2) which is AED 356,760.50 and AED 437,523.25 respectively, totaling to AED
-794,283.75 which will be backcharged to you accordingly.
-This is for your utmost attention, information and records.
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 265 [post-SAA8]
+Radioactive Isotope Sources for Walkthrough Metal Detectors and RadSeekers
+Dear Sir
+We refer to our Site Acceptance Test Procedures – RadSeeker, submitted vide the Document Submittals
+referenced at (1) to (3) above, as well as our letter ref: (4) and request you to provide us the Radioactive
+Isotope Sources for the Walkthrough Metal Detector and RadSeeker SAT (Site Acceptance Test)
+activities.
+Federal Authority for Nuclear Regulations (FANR) restricts the provision and usage of such equipment
+(radiation sources). Nevertheless, during the FAT conducted on 20 October 2016 in MTB Wing F Test
+Lab; Employer has provided two of the required radiation sources; Caesium 137 and Californium 252.
+Similarly, the same is required for the SAT activities for the Passenger Baggage Screening Systems (PBSS)
+equipment. The request has already been communicated to the Employer and the Engineer through
+HBSS/PBSS weekly progress meetings, and included in the approved Site Acceptance Test Procedure –
+RadSeeker per DS/0401/13644 Rev. 00 (ref: 3) as well as our letter ref: (4). However, we are unable to
+get a confirmed date for the delivery of the following requisite Radioactive Isotope Sources.
+•
+Caesium 137 (Cs-137)
+•
+Californium 252 (Cf-252)
+•
+Europium 152 (Eu-152) needs
+•
+Barium 133 (Ba-133)
+•
+Cobalt 57 (Co-57)
+Absent these sources we are unable to complete the commissioning of the 4 RadSeekers and 44 WTMDs
+(Walk Through Metal Detectors) due to the unavailability of the Radioactive Isotope Sources.
+We therefore require your immediate attention to this matter.
+Meanwhile, the failure to be provided a confirmed date for the delivery of the above Radioactive
+Isotope Sources constitutes an acts of prevention and/or breaches of Contract on the part of the
+Employer and / or the Employer’s Personnel and / or the Consultants, and as such we accordingly give
+you notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Although the genesis of this ‘event’ originated prior the ‘Effective Date’ included in SAA8 (4 September
+2018), this cannot possibly be construed as forming part of the ‘Included Circumstances’ (per Clause
+1.7.4 of SAA8) and will be included within any forthcoming Time Impact Analysis, albeit in recognition of
+the Effective Date included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8
+cannot reasonably be interpreted as requiring the Contractor to absorb delays of unknown (possibly
+unlimited) duration occurring pre/post 4 September 2018, particularly where the resolution of the
+matter causing the delay lies with the Employer. We contend therefore that under the circumstances
+the responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
 Yours faithfully,

@@ -1,15 +1,50 @@
-Subject: RE: Employment of International Decor Staff
+Subject: RE: Post SAA8 Sub-Clause 2.26: E-Notice No. 0180
+Engineer’s Response to RFI/0401/17582 – Introduction of Galvanised Steel Plates to North and South
+Pavilions – Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
+Variation / Change into Works
+Dear Sirs,
+We refer to your letter ref: (1) following issuance of our E-Notice No. 0180 (ref: 2) in which you allege
+that we are somehow responsible for the provision of galvanised steel plates to both the North and
+South Pavilions and are not entitled to a Variation [and additional time].
+For the reasons comprehensively set out in our letter ref: (2) we disagree.
+We remind you that further to the Mechanical Works Completion Inspection (MCI) held on 22 October
+2019, we raised RFI/0401/17582 Rev. 00 on 5 November 2019, in confirmation of M/s Profire’s
+comments endorsed on WIR Number PF MCI-SUP-191022-CP L2.0 TO L3.0 CS-10 advising us “to add
+steel checkered plates above the entire grating area at the north pavilion”. We recorded that a similar
+inspection to the south pavilions were carried out by Ms/ Profire, with no comments whatsoever; hence
+no requirement for any checkered plate.
+We sought your further advice on how we were expected to address the above disparity in the two
+inspections, and in the event the checkered plate was required, then we asked that you provide revised
+IFC Drawings reflecting the Employer’s requirements for both Pavilions.
+We then received an advance response to RFI/0401/17582 on 19 December 2019 informing us
+“Contractor to provide galvanized steel plate underneath the grating area of North and South pavilions
+to provide a ceiling for up-right sprinkler operation.” This was followed by a formal response on 4
+December 2019, in which the Employer’s Design Consultant states:
+“… per ADAC-AHJ & HOE, the areas where the grating is located need to be comply with NFPA hence
+ceiling to be provided accordingly. However, to minimize works on site and to assist contractor with site
+progress, KPF and ADAC-AHJ would accept closing the grating between the light fittings with thin
+galvanized steel plate instead of creating a full floor …”
 
-Dear Sir,
-The Contractor confirms receipt of letter (1) wherein the Subcontractor claim that Arabtec has
-approached
-one of the Subcontractor's site foreman and offered him an offer employment to work on the Project.
-Please note that the Subcontractor's letter (1) does not provide the minimum level of detail (names,
-dates,
-etc.) that enables the Contractor to investigate the alleged wrongdoing fu rther. Notwithstanding this, it
-appears to the Contractor that this situation may have been a simple misunderstanding by the
-Subcontractor's site foreman.
-To be clear, neither the Contractor nor the companies comprising the Joint Venture intend to employ
-the
-Subcontractor's personnel to undertake works on the Project.
+As noted in E-Notice No. 0180 (ref: 2), given that the works at the North and South Pavilions have
+already been completed based on IFC Drawings and approved Shop Drawings, then the above
+requirements represents an unequivocal change in design and scope. This warrants provision of revised
+IFC Drawings reflecting the Employer’s changed requirements; and that we require an Engineer’s
+Instruction/variation Order if such works are to be undertaken.
+That said, in rejecting our E-Notice No. 0180 and our request for an EI / VO, you have sought to reply on
+the purported non-compliance with NFPA 13, Clause 8.6.4.1.1.1, as means of alleging we are not
+entitled to a variation. However, this Clause actually refers to ‘Distance below Ceilings’ which for the
+avoidance of doubt, is in fact, worded as follows:
+‘Under unobstructed construction, the distance between the sprinkler deflector and the ceiling shall be
+a minimum of 1 in. (25.4 mm) and a maximum of 12 in. (305 mm) throughout the area of coverage of
+the sprinkler.’
+In light of this, we fail to see the correlation between this and the requirement for us to provide “thin
+galvanized steel plate” to the north and south pavilions. Unless expressly provided for in the Contract,
+we are not responsible for the design of the Works; the Employer’s Design Consultant is. We are
+however entitled to additional time and cost in circumstances where the Employer varies the design
+(both the direct cost of the change as well as the cost of delays) such as in the instant matter and
+detailed within letter ref: (2).
+We therefore reiterate that until such time as you comply with the express requirements of SAA8
+relating to change (and issue us with revised IFC Drawings and a covering EI / VO), we are unable to
+proceed with implementing the additional works described above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

@@ -1,18 +1,60 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0253
+Overdue Response to Document Submittal DS/0401/15060 Rev. 00 associated with the Approval of the
+‘Method Statement for Demobilization Activities’ for the Passenger Boarding Bridges
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays caused by your failure to respond to Document
+Submittal DS/0401/15060 Rev. 00 within the review time(s) expressly stipulated in the Contract.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+impacting on completion of testing and commissioning. This will invariably impact on our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
 
-Subject: Clause Z7.1.5(b): Further Interim Claims Period: 1st to 31st March 2018
-Dear Sir,
-The Contractor refers to the detailed interim supporting particulars of claim in respect of the delay
-claims
-identified in ref: 1, and pursuant to Conditions ,of Contract Sub-Clause 27.1.5(b), herewith provides
-details
-of those interim claims that had an on-going effect upon the Time for Completion of the Works in the
-period from 1st to 31st March 2018 (refer to Annex A hereto). However, as recorded within inter alia
-our
-letter ref: (2), it is not currently possible for us to advise for example the accumulated delay claimed. We
-will nevertheless undertake to do so as part of the consolidated Time Impact Analysis (TIA) process.
-Meanwhile, further interim and I or final details of the delay claims listed in Annex A hereto will be
-
-provided wherever possible in accordance with Conditions of Contract Sub-Clause 27.1.5(b) and
-SubClause
-27.1.5(c).
-Yours faithfully
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+We write to notify you of our concern regarding your overdue response to our ‘Method Statement for
+Demobilisation Activities’ associated with the works of the Passenger Boarding Bridges (PBB).
+Notably, the PBBs and all associated works have been completed and in conjunction with the PBB
+Subcontractor (M/s ThyssenKrupp) have been handed over to you vide the Work Inspection Requests
+(WIR) process. However, having submitted Document Submittal No. DS/0401/15060 Rev. 00 on 10
+December 2019 seeking your approval of the ‘Method Statement for Demobilisation Activities’, we note
+that at the at the cut-off date of this Notice (7 April 2020), you failed to reply (see Table 1 below):
+Table 1 - DS/0401/15060 Rev. 00
+Item Date submitted Submittal Ref Rev
+Description of Contents Response due per Section
+013300 Response received
+Status Code
+Delay (Calendar Days)
+1
+10-Dec-19
+DS/0401/15060 00
+Method Statement for Demobilization Activities of TKAS
+Site Office
+Doc. Ref: MS-1093-DM-001
+31-Dec-19
+98 Days
+We remind you that Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the
+processing time by which you are contractually obligated to respond to our Submittals. On the basis
+that Document Submittal No DS/0401/15060 is at Rev. 00, then this ought to have been responded to by
+you, 21 calendar days later, i.e. on 31 December 2019. However, the information shown in Table 1
+shows that at the cut-off date associated with this Notice (i.e. 7 April 2020), you exceeded and at that
+point continued to exceed the review period expressly stipulated in the Contract by 98 calendar days.
+Any such delay, irrespective of duration, is wholly unacceptable, particularly at this stage of the Project.
+We further record that the PBB Subcontractor (M/s ThyssenKrupp) has written on this delaying event
+also via letter ref: (1), notifying us of their right to claim the time and/or cost impacts arising therefrom.
+Your delay in review and approval of the abovementioned submittal will impact our ability to achieve
+Substantial Completion.
+Our entitlement to an extension of time and financial compensation resulting from the aforementioned
+act(s) of prevention will apply irrespective of any alleged failure on our part [which is denied], to
+transmit submittals to you in a timely manner.
+Yours faithfully,

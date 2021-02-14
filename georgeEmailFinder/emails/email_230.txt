@@ -1,16 +1,31 @@
-Subject :
-Notice of Back charge – CI/00617-Relocation of Sprinkler riser in FF – 5.12A, Fire Zone
-15, L2.0 to L4.0 (Wrapper) to avoid clashing with Cloisall’s Wall Cladding
-Dear Sir,
-With reference to CI/00617 (2) above, we hereby notify you that due to your insufficient coordination
-and monitoring of your Subcontract Works, has led M/S PCEJV to relocate the Sprinkler riser in FF –
-5.12A, Fire Zone 15, L2.0 to L4.0 (Wrapper) to avoid clashing with M/S Cloisall’s Wall Cladding.
-We hereby notify you of our intention to back charge the reinstatement cost and all other associated
-cost from your account according to the Conditions of Subcontract Agreement Clause 10.3 (Contractor’s
-Claims).
-In addition, we shall back charge any amount that falls under your responsibility in accordance to Clause
-12.12.4 (Other Contractors and Other Subcontractors), whereby you are liable to the Contractor for any
-claim by the Employer, other Contractors or other Subcontractors for the costs arising out of your failure
-to perform the obligations under the Subcontract.
-This is for your information and future reference.
-Yours Faithfully,
+Subject: Subsidence- Jack of cla rity in specialist subcont ractor's method statement
+Dear Sirs,
+We refer to recent statements on your part, and repeated by the Employer, to the effect that the
+Specialist Subcontractor carrying out the permeation grouting to your instruction, has not been using
+the correct quantities of grout.
+We were most surprised to learn of such accusations in a meeting with the Employer when our teams
+have been working in daily physical and !iterative contact. Having checked the daily site reports that
+are issued and signed by your representative, it can be clearly seen that data in respect of time,
+location, pressures and quantity of injected grout are recorded. Similarly Work Inspection Records
+have been issued and signed off over the past three months.
+Had there been any doubt on your part as to any aspect ofthe Specialist's work then it was incumbent
+upon your team to advise us to change our work method and/or to have not signed off as agreed &
+accepted the daily site reports and WIR. We in any case refute any such accusations and confirm that
+all Works are being executed in accordance with our Contract.
+Upon reading the approved method statement issued by the Specialist Subcont ractor one can see
+how it may be possible that persons not closely concerned with the past three mont hs' works could
+have misinterpreted the approved daily reports and WIR. At Method Statement clause 6.15.1.4 there
+is a conflict in respect of stated quantities of grout. "Design quantity of max. 300Ltr per grout valve
+point" conflicts with "the Grout consumption per valve point is approx. 50-200Lts".
+
+This dichotomy is explained by the fact that at 'block point s' within the TAM that are placed to ensure
+that grout from lower, intermediate va lves, spreads hori zo ntally into the surrounding soil rather than
+simply vertically along the outside of the TAM. These block points are formed by use of approximately
+100 litres of grout prior-inject ed at the block points and allowed to cu re before the main injecting
+process is commenced. Once cured (and blocked at these points) the process continues with the
+specified criteria of either 5 bar or 200 litres of grout per valve. So it can be seen that at the block
+points it is possible to record a total of up to 300 litres of grout, whereas at intermediate points only
+up to 200 litres will be consumed.
+We trust this now resolves any doubts raised in respect ofthe approved method statement and that
+were contrary to joint records and Engineer's approval of WIR.
+Yours faithfully

@@ -1,0 +1,39 @@
+Dear Sir,
+
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the variation is provided below.
+The following Employer's Requirements:
+
+Volume 6, Sub-Clause 13.3.4.6 a) ii Delete the following Sub-Clause:
+
+"50% of the lighting luminaries shall be equipped with batteries (self-contained) for 1.5 hours, to avoid
+total darkness in the event of failure of the normal power supply."
+
+And replace with the following:
+
+Within the tunnel, fifty percent (50%) of the lighting luminaires shall be powered by the Uninterrupted
+Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwor k Contractor) to provide
+the minimum required luminance level for 1.5 hours.
+
+The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
+the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries. Both power cables shall be
+Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
+to IEc 60331 and Steel Wire Armoured (SWA).
+Volume 6, Sub-Clause 13.3.4.6 a) iv Delete the following Sub-Clause:
+
+"30% of the cross passage lighting luminaries shall be equipped with self-contained batteries (selfcontained - non maintained) for 1.5 hours, to avoid total darkness in the event of failure of the normal
+power supply."
+
+And replace with the following:
+
+Within the cross passages, thirty percent (30%) of the lighting luminaires shall be powered by the
+Uninterrupted Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwork
+Contractor) to provide the minimum required luminance level for 1.5 hours.
+
+The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
+the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries . Both power cables shall be
+
+Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
+to IEc 60331 and Steel Wire Armoured (SWA).
+
+Yours faithfully,

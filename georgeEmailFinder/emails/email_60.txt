@@ -1,52 +1,64 @@
-Subject:
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0276
+Delays to our Works due to the Activities of the Employer’s Other Contractors
+- Structured Cabling Network Works to Satellite Communication Rooms (SCR)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+As noted in Annex A hereto, the activities of the Employer’s Other Contractors inside various Satellite
+Communication Rooms (SCR) and related areas associated with Structured Cabling Network works, is
+delaying and disrupting our Works and preventing us from completing snagging and handing over.
+Potential Impact
+Acts of prevention on the part of others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
 
-Re: Determination of Prolongation Costs
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Background
+We write to express our concerns relating to the activities of the Employer’s Others Contractors (i.e.
+FOSS, GMB, Comba – Etisalat, DU, MDS Computers and Abu Hussain), inside a number of Satellite
+Communication Rooms (SCR) and related areas pertaining to their cable pulling and related activities,
+associated with the Structured Cabling Network (SCN) works, for and on behalf of the Employer.
+Not only are the Employer’s Other Contractor’s schedules already overdue and resultantly they have
+requested multiple extensions to their NOCs, but during our snagging, we have received numerous
+comments relating to the Employer’s Other Contractor’s; which are not of our doing or responsibility.
+The emails attached to Annex B, demonstrate that such events have been on-going for some time. For
+example, numerous NOCs have been issued for the same area multiple times, but the Employer’s Other
+Contractors have been failing to complete their works on time, such as the cable pulling works executed
+by M/s FOSS. Moreover, as is evident from the below e-mail (see Figure 1 below), you also have
+contributed in delaying us in so far as your representatives were unavailable to attend a site walk to
+inspect Ms’ FOSS’s works. Overall, these acts of prevention are having a considerable delaying and
+disruptive effect on our Work, in so far as we are prevented from completing our snagging and punch
+list activities promptly, and delaying the completion and handing over of the respective areas.
+Figure 1
+The e-mails attached at Annex B hereto evidence the specific SCRs affected by M/s FOSS’s failure to
+complete their works despite multiple NOCs’ issued by us permitting access to the respective areas.
+Moreover, as noted above, in addition to the delays incurred due to the actions and/or inactions of the
+Employer’s Other Contractors, we have also unreasonably received comments from you during the
+snagging inspections, which in fact relate to the actions of the Employer’s Other Contractors. In light of
+the critical stage the Project is at, any comments received during inspections of our works that are not
+our responsibility cannot be accepted and will invariably delay the Time for Completion.
+Please note that in the event that additional works are required due to the actions of the Employer’s
+Other Contractors, such as necessary repairs to our works, will put us to additional expense [and time]
+and we will therefore require you to issue us a Variation Order / Engineer’s Instruction as per the
+requirements of SAA8, in order for us to undertake the remedial work and be paid accordingly.
+We would also kindly urge you to take whatever necessary action is required on your part to prevent
+any further occurrence of damages to our previously completed Works and also ensure that there are
+no further delays caused by the non-completion of works by the Employer’s Other Contractors.
+The various acts of prevention on your part and/or the part of the Other Contractors have delayed and
+disrupted our Works. This event will impact upon our ability to achieve Milestone MS09B and Milestone
+MS09C. Accordingly, we maintain all our rights under the express provisions of Conditions of Contract
+Sub-Clauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension
+to the Time for Completion and the associated costs arising from this event.
 
-Dear Sir,
-We acknowledge receipt of your letter referenced in (3) above wherein you have requested an
-approval/determination of your prolongation costs submissions as “On-Account’ payment. As discussed
-previously via our letter reference (2) above, we reiterate that our determination of your prolongation
-costs submissions and the Extension of Subcontract Time for Completion is subject to the Engineer’s
-determination. We assure you that we are pursuing an expeditious response from the Engineer for this
-matter pursuant to Clause 11.4 [Determinations].
-However, despite failure to get a response from the Engineer regarding its determination, please be
-reminded that we have taken a proactive decision to support you financially as demonstrated below, by
-the release of “On-Account” payments as follows:
-PC
-Month Item Description
-Amount
-Remark
-25.1 February 2018 Payment on Account
-500,000.00
-Paid
-26.1 March 2018
-Payment on Account
-500,000.00
-Paid
-TBC
-April 2018
-Payment on Account
-500,000.00
-To be paid
-TBC
-May 2018
-Payment on Account
-500,000.00
-To be paid
-Total Amount
-2,000,000.00
-In addition, we have requested you via our letter reference (2) to submit all outstanding detailed
-substantiation. For ease of reference you are reminded once again that you are expected to comply with
-the following:
-1.
-Submit a detailed Time Impact Analysis pursuant to Clause 27.2 [Time Impact Analysis] for each
-delay event;
-2.
-Resubmit your monthly prolongation costs in the form of a Claim in line with Clauses 16.5
-[Extension of Subcontract Time for Completion] and 27.1 [Subcontractor’s Claims];
-3.
-Ensure the format, contents and structure of your Submission are prepared and provided in an
-acceptable manner in line with the requirements provided to you previously.
-This is for your information, record and prompt action and we look forward to receiving the required
-information and detailed substantiation within 14 days of receipt of this letter.
+In summary, we request your urgent action to resolve the matters noted above in order to mitigate
+delay and/or disruption to the Works. This may take the form of urging the Employer’s Other
+Contractors to urgently complete their works to enable us to complete our snagging and hand-over.
 Yours faithfully,

@@ -1,25 +1,45 @@
-Subject: RE: OTIS's ongoing lack of performance- Follow up on Notice pursuant to Clause
-Dear Sir,
-The Contractor acknowledges receipt of Engineer's letter (1} dated 22 February 2018 which was
-received by the Contractor on 28 February 2018 only. It appears that the Engineer 's letter (1) was
-drafted in advance of the Engineer receiving Contractor's letter (2). We trust that the Engineer on
-reviewing
+Subject:
+Rejection of Non-Conformance Reports – Floor Damage – Various Disciplines
+Dear Sirs,
+We refer to receipt on 5 and 8 March 2020 of the referenced Non-Conformance Reports (NCR) all dated
+4 March 2020 concerning ‘Flood Damage’ to the various works and disciplines identified in Table 1.
+Table 1
+Item Date of Receipt NCR No.
+Description
+1
+08-Mar-20
+MTC-CMA-0401-CM-NCR-1567 Telecommunications Infrastructure and Systems
+Works
+2
+08-Mar-20
+MTC-CMA-0401-CM-NCR-1577 External Works
+3
+08-Mar-20
+MTC-CMA-0401-CM-NCR-1582 BHS, PBSS, HBSS and ATRS Works
 
-Contractor's letter (2) will find the details of the mitigation measures put in place. Furthermore, in
-addition to the mitigation measures stated in letter (2}, the Contractor has also increased the number of
-escalator technicians and supervisors from 30 to 53 personnel at present.
-The Contractor would further like to record that the mitigation measures put place are bearing positive
-results. This is evidenced by the fact that in February 2018, the Contractor has successfully installed and
-completed 14 elevators, which when compared to the total numbers installed and completed in
-December 2017 and January 2018 respectively, translates to an increase of circa 350%. Additionally, the
-Contractor plans to install and complete a further 12 elevators in March 2018, which is line with the
-updated Rev 10.4 target Programme.
-Furthermore, the LET/PBB in Pier 3 and Pier 4 are being prepared for cause and effect testing and
-testing and commissioning. At present 21 travellators and 6 escalators are cleaned with all wiring works
-completed, while a further 24 elevators have been tested in advance. The Contractor and its
-Subcontractor currently have 6 teams working on the travellators, 7 teams working on the escalators
-and a further 8 teams working on the elevators, all to ensure that Pier 3 and Pier 4 will be ready for
-cause and effect testing as per the dates in the updated Rev 10.4 target Programme.
-The Contractor once again assures all Parties that the Contractor will continue using all reasonable
-endeavours to complete the Works by the accelerated target completion date.
+4
+05-Mar-20
+MTC-CMA-0401-CM-NCR-1583 Civil and Architectural Works
+5
+05-Mar-20
+MTC-CMA-0401-CM-NCR-1584 Electrical Works
+6
+08-Mar-20
+MTC-CMA-0401-CM-NCR-1585 Lift, Escalator and Travellator Works
+7
+05-Mar-20
+MTC-CMA-0401-CM-NCR-1586 Mechanical Works
+The description provide for each of the alleged non-conformances listed in Table 1, remains the same
+for all seven NRCs, irrespective of the works and disciplines works; and reads as follows (Figure 1 refers):
+Figure 1
+While we acknowledge our obligations to comply with Clause 12.1 of the Conditions of Contract, for the
+reasons explained in our letter ref: (8) replying to your letter ref: MTC-CMA-TCA-0401-LTR-11305 (ref:
+9), we refute that we are in any way responsible for the flooding. The prevention matter and breach of
+contract on the part of others was made clear in our letter ref: (10); hence the resultant damage is not
+of our making. Moreover, considering the works, plant and equipment subject to each of the disciplines
+noted in each NCR has been installed in accordance with the requirements of the Contract and signed
+off through the WIR process; then they cannot be construed as being defective or not fit for the purpose
+for which they are intended. On this basis we categorically reject all seven (7) NCRs referenced above.
+Therefore any necessary remedial works arising in consequence of the matters subject to each of the
+above noted NCRs will be addressed in the same manner and to the extent possible as per letter ref: (8).
 Yours faithfully,

@@ -1,20 +1,34 @@
-Subject :
-
-Request for Re-Coding Shop Drawings
-
+Subject: Failure to Achieve Milestone 68
 Dear Sir,
-Please be advised that the Contractor rejects the comments recently received from the Design
-Consultant (ARUP) on the shop drawings listed below:
+We write with reference to the Principals' Meeting dated 11 September 2019, where TCAJV stated
+that MS6B was achieved (see attached Slide #22 of the Contractor's presentation).
+The Engineer reiterates that in order for Milestone MS6B to be completed in accordance with the
+Contract, the Contractor must complete Stage 3 of the Room Completion phases as well as the Testing
+and Commissioning of the services providing for and passing through the retail spaces. The Milestone
+definition states 'The milestone will be considered complete when all areas are inspected and accepted
+by the Engineer in order to allow undisturbed and uninterrupted access for build-out/fit-out by other
+Contractors'.
+Given that neither Stage 3 nor the Testing and Commissioning are completed (Testing and
+Commissioning is forecasted to be completed by 31 October 2019 as per the Contractor's target
+Program presented in the same meeting presentation in Slide #11), the status of the Milestone 6B
+remains unachieved.
+We hereby reserve the Employer's rights pursuant to Clause 10.3 and Clause 16.6 of the Conditions of
+Contract to impose delay damages for the Contractor's failure to achieve the Milestone within the
+Contractual timeframe.
+Subject:Delay Notification – Slow Progress – Central Processor AHUs TAB Works
+Dear Sir,
 
-The Contractor notes that these shop drawings have been rejected on a non-reasonable basis. For
-instance, ARUP refers the Contractor to the comments returned on the relevant calculations
-(DS/0401/11705-00); however, the said calculations are under review since 16 December 2017 and the
-Contractor has not yet received any comments.
-Further, the comments made by ARUP regarding coordination are not relevant as the towers included in
-these shop drawings were an integral part of Briefing Pack No. 59 and the necessary coordination had
-already taken place.
-Moreover, the previous submission made in respect of Briefing Pack No. 59 (DS/0401/7914-01), which
-included both calculations and drawings, is approved since April 2017.
-In view of the above, the Engineer is hereby politely requested to change the code status of the above
-listed drawings thus enabling the Contractor to proceed with the Works.
+We refer to your letter (1) advising us of purported slow progress to the Central Processor AHU’s TAB
+Works.
+We disagree with the content of your letter and would mention that AHU’s TAB and Commissioning
+works are technically not required for Cause and Effect testing. Respective units and items installation
+(mechanical and electrical) and energization are sufficient to proceed with the Cause and Effect testing.
+However, through proactive joint dialogue with you at site, we have worked together to progress the
+AHU works, and in certain instances, proceeded with the Cause and Effect testing, ahead of
+Commissioning.
+We refer you to our letter (2). Whereas you have measured our progress against Rev. 11.2 Programme
+update for March 2019, you are aware that we have been working to the Completion Programme.
+While we remain fully committed to ADAC, the Project and to completing our obligations within the
+shortest possible time, without compromising on safety and quality, in view of the matters outlined
+above, we refute any allegations of slow progress to the AHU TAB works. We trust this is clear
 Yours faithfully,

@@ -1,0 +1,33 @@
+Subject: Request for Confirmation of Variation Order Pursuant to COC Sub-Clause 20.1.4 (b)
+for RFEI/0401/0300- Power Supply for Condensate Pumps of Blower Coils
+Dear Sir,
+With reference to the Engineer's response to RFEI/0401/0300 via the letter reference: {1) above, please
+be advised that the information, comments, clarifications and/or instructions {the Instruction) contained
+therein constitute an instruction of a Variation.
+The Instruction requires to have a combined power supply for BCU and condensate pump and omit the
+fused connection unit {FCU) along with the separate power supply for the condensate pump, as per the
+sketch drawings reference ESK-1871 and ESK-1872.
+In light of the above, we consider that, the Instruction contains a Variation that is not in the form of, or
+which has not been confirmed in writing by the Engineer by way of, a formal Variation Order.
+The Engineer has stated in its letter reference: {1) above, that the Engineer would prepare and issue an
+Engineer's Instruction if the response to RFEI has resulted a potential change. However, the Engineer has
+failed to issue the required Engineer's Instruction, until the date of this letter. As such, we had to carry
+out
+the works in accordance with the current IFC information, in compliance with the provision under
+SubClause
+20.1.5 [Right to Vary] of the Conditions of Contract and in compliance with the programme
+requirements. Subsequently, ADDC has rejected these installations and commented that, "CE circuit
+looping not allowed" {please refer to the Enclosure-1).
+Considering the above and in accordance with Sub-Clause 20.1.4 {b) of the Conditions of Contract, we
+again request the Engineer to provide a formal confirmation of Variation or issue an Engineer's
+instruction
+and revised Drawings and/or Specification pursuant to Sub-Clauses 11.3.3 and 20.1.1 (a), within seven
+(7)
+days of the receipt of this letter, in order to mitigate any further delays or further abortive works.
+Unless and until the Engineer takes this required action, in accordance with Sub-Clause 20.1.5 of the
+Conditions of Contract, we would not be able to proceed with the implementation of the above
+described
+
+Variation. We shall not be responsible for any delays or disruptions to the Works, or the cost of any
+abortive works, as a result of the Engineer's late response to our request for confirmation of Variation.
+Yours faithfully,

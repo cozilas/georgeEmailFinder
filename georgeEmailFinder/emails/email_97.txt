@@ -1,15 +1,65 @@
-Subject:HSE Incident Investigation Report ref HSE-INC-647
-Dear Sir,
-We write in regards to the incident described in the enclosed HSE Incident Investigation Report (IIR)
-which is self-explanatory, regarding a “High Potential Near Miss” incident which took place on site on
-27th March 2018. Please note that the incident described in the enclosed IIR is a failure towards the
-compliance of the Project procedures and is contrary to the project’s expectations, standards and a
-violation of the HSE processes.
-In view of the above, you are hereby instructed to remove the violator as shown in the enclosed IIR
-immediately and take all safety measures to avoid similar incidents in the future.
-We are taking this opportunity to remind you that we have a policy of treating incidents like the one
-described herein, with zero tolerance. You are hereby advised to implement strict preventive measures
-and ensure that all HSE procedures are being followed at all times, in order to avoid such incidents in the
-future.
-This is for your information and further immediate action.
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0255
+UAE Governmental Authority Edict – Notice from Abu Dhabi Municipality Department of
+Transport – 11 April 2020 – Restriction of Worker Movement
+Dear Sirs,
+We refer to our letters to the Employer including without limitation letters ref: (1) and (2) and our
+subsequent letters ref: (3) and (4) notifying you of the ramifications on the Project consequent on the
+UAE Governmental Authorities’ edicts associated with the Coronavirus (COVID-19) pandemic.
+During the early hours of Saturday 11 April 2020, we received a Notice from Abu Dhabi Municipality –
+Department of Municipalities and Transport, informing us as well as other companies, that although
+companies are allowed to transfer workers within the Abu Dhabi areas: Abu Dhabi, Al Ain and Al Dharfa;
+in order to curb the spread of COVID-19, “it is prohibited to transfer workers from Abu Dhabi to other
+Emirates and vice versa (from other Emirates to Abu Dhabi Emirates)” with “immediate effect”.
+This particular edict had a detrimental impact on our progress and that of our subcontractors, resulting
+in a significant drop in manpower levels on the day the restrictions on travelling between emirates came
+into force. This is illustrated by the following comparison between the subcontract manpower numbers
+recorded on 7 April 2020 and those recorded on Saturday 11 April 2020 (refer to Table 1):
+Table 1
+COMPANY
+07-APR-20
+21-APR-20
+AL GHURAIR CONSTRUCTION 87
+77
+ASSA ABLOY / PROMETAL
+16
+16
+BAUER INTERNATIONAL 51
+36
+CHADWICK TECHNOLOGY
+6
+6
+CLOISALL (CEILING)
+59
+0
+CLOISALL (PAVILION) 13
+0
+DEEMAH STONE
+80
+22
+GULF PRECAST 8
+8
+INTERNATIONAL DECOR 23
+23
+JANGHO
+51
+36
+
+MOSART MARBLE & MOSAIC 79
+0
+NAFFCO
+107
+0
+OTIS 149
+85
+PCE JV 538
+42
+TOTAL: 1,267 351
+The information recorded in Table 1 serves to demonstrate a 72.3 % drop in subcontract personnel
+levels between 7 April 2020 [1,267 persons] to 21 April 2020 [351 persons], i.e. 916 persons less.
+We further note that the above figures do not take account to the delay and disruption caused to other
+resources as the police restrictions enforced at the border between Dubai and Abu Dhabi on 21 April
+2020 resulted in major traffic jams, severely impacting our own site personnel and site office staff also.
+in summary, we hereby notify you pursuant to Sub-Clause 2.26 of the Settlement Agreement and
+Amendment No. 8 (‘SAA8’) that the various events and circumstances described and detailed above,
+have delayed and disrupted the Works and invariably will critically delay the Time for Completion.
 Yours faithfully,

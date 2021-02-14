@@ -1,0 +1,14 @@
+Subject I B-EY Hermes test delayed due to Etihad connectivity issue
+Dear Sir,
+We write with reference to correspondence (1) and we note that the IB - Hermes witness test could
+not be performed on 13 December 2017 due the Contractor's Subcontractor (AOS). The Contractor
+alleged that the Hermes test was delayed as a result of Etihad's unavailability however, we record that
+your Subcontractor was not prepared for the test to be performed.
+We further highlight that the IB- Sabre dry run was cancelled on 18 December 2017 due to SIT A test
+platform issues.
+The Contractor is requested to effectively managed its Subcontractors (Clause 12.9.6 Conditions of
+Contract) and ensure that they perform as required under the Contract. You are also requested to
+ensure systems readiness in advance of test sessions, with sufficient notice for all parties to be
+prepared.
+
+Yours faithfully,

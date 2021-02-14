@@ -1,42 +1,26 @@
-Subject:
-
-Substantiation of Prolongation Costs Submission
-
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0242 [post-SAA8]
+BCC NOCs for Piers 1 and 3 – Delays to ADCD and ADM Inspections
 Dear Sir,
-Further to your submission of Prolongation Costs (i.e. Monthly Prolongation Cost Submissions) and in
-continuation to our letter referenced (1) above and further to our meetings regarding this matter, be
-
-informed that we have audited your submission and we have forwarded the same to the Engineer for its
-determination.
-Please note that our determination is subject to the Engineer’s determination for this matter. At this
-juncture, pursuant to Clause 11.4 [Determinations] please note that “The Subcontractor agrees that
-where the Subcontract provides that the Contractor shall proceed in accordance with clause 11.4 to
-agree or determine any matter, if the matter relates or pertains to a matter which the Contractor has
-referred to the Engineer for agreement or determination pursuant to similar provisions under the main
-Contract, the Contractor shall be entitled, but not obliged, to rely on the Engineer’s agreement or
-determination in respect of such matter.”
-In light of the foregoing and as per our previous correspondence regarding this matter, please note that
-substantiation and clarification are required to enable the Engineer and subsequently ourselves to make
-a determination in regards to your entitlement. Please note that we are not obligated under the
-Contract as mentioned above, to give any determination in regards to your Prolongation Costs
-Submission if the Engineer has not determined the matter beforehand.
-Moreover, after our review you are advised to resubmit your Monthly Prolongation Costs in the form of
-a Claim in line with relevant Clauses of the Subcontract Agreement, taking into consideration the
-comments described herein. In order to assist us in establishing your entitlement, you are also required
-to provide pursuant to Clause 27.2 [Time Impact Analysis], a detailed Time Impact Analysis for each
-delay event, showing what effect each event has had on the programme and demonstrating the Critical
-Activities and Concurrent Delays. This will indicate and quantify the impact of delays with the Critical
-Path and enable us to review any entitlement you may have for additional time. Additionally, it is
-noteworthy that you should ensure the format, contents and structure of your Submission are prepared
-and provided in an acceptable manner in line with the requirements provided to you previously.
-Notwithstanding the above, we reiterate that you are requested to resubmit your Monthly Prolongation
-Costs in the form of a Claim in line with Clauses 16.5 [Extension of Subcontract Time for Completion],
-27.1 [Subcontractor’s Claims] and 27.2 [Time Impact Analysis] of the Subcontract. Failure to provide the
-necessary information will prejudice both the Subcontractor's entitlement and the Contractor's ability to
-evaluate these Prolongations Costs to the satisfaction of all parties.
-In view of the above and all previous correspondence on this matter, we urge you to work with us to
-ensure all appropriate and necessary information is provided, in order to be able to make our
-determination.
-This is for your information, record and prompt action and we look forward to receiving the required
-information and detailed substantiation within 14 days of receipt of this letter.
+It has come to our attention that the final inspections which were recently undertaken by ADCD and
+ADM associated with the BCC NOCs for Piers 1 and 3, have been affected by a series of events and
+circumstances. These include but are not necessarily limited to those summarised below:
+•
+Problems associated with the granting of access into CDP portal for ADCD inspector.
+•
+Technical issued relating to ADM’s request to implement the inspection remotely [due to the
+coronavirus] and securing a visual contact between our site engineers and the ADM inspector.
+•
+The inspection to Pier 3 was planned to be conducted simultaneously with Pier 1, but due to
+issues related to ADM inspection centre, the inspection was postponed from Wednesday to Sunday.
+However, the inspection was subsequently cancelled due to a number of obstacles.
+Accordingly, we hereby notify you pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 that
+the various matters highlighted above constitute acts of prevention and/or breaches of Contract on the
+part of the Employer/Employer’s Personnel/Consultants giving rise of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of Contract.
+Interim and/or final details of the associated time impacts and adjustment to the Contract Price will be
+provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5 (a), (b) and (c).
 Yours faithfully,

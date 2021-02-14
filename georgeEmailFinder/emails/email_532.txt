@@ -1,0 +1,42 @@
+Subject As-Built Drawing Submissions
+Dear Sir,
+We again bring to your attention the unacceptable quality of your submitted red-line and as-built
+documentation. This indicates that your drawings are not properly developed, coordinated or
+validated prior to submission to the Engineer.
+We have enclosed examples of what we deem as unacceptable and as extra cted from red-line and as
+built drawings submitted by the Contractor in September 2017. The reviewed files confirm that the
+drawings in their native format are not in compliance with ADAC's CADD Manual Rev 4.
+Whilst you have previously maintained that you are validating the quality control of submitted red-line
+and as-built documentation, it is clearly evident that your review system has failed. You are therefore
+
+required to complete your internal QC review of all red line and as-built drawings for accuracy,
+completeness and procedural compliance prior to submission to the Engineer. Based on the
+submissions received it is evident that you are neglecting to do so.
+The attached presentation provides you with examples of the issues identified. These issues could be
+summarized as follows:
+• Additional irrelevant details provided
+• Overlapped notations
+• Missing information (cut-off)
+• Key plan provided without references
+• Dimensions that do not reflect drawing accurately
+• Incorrect scale used in title block
+• Active layer not set to zero
+• Drawings not purged
+• Truncated text
+• Line weights not correct
+• Font issues
+Although these findings are from our cursory review, it is likely that these findings of non-compliance
+are widespread across all packages, therefore, you must review and validate the CADD standards
+requirements with your subcontractors.
+To avoid continued drawings rejection, the Contractor must take immediate measures and provide
+appropriate resources including the required QC Manager whose key personnel position remains
+vacant, in order to ensure that the submittals are prepared correctly. In addition we remind the
+Contractor that the current Engineering Manager has been rejected by the Engineer as it was found
+that she is not suitably qualified to fulfill this role. Given the above stated non-compliance, we
+reiterate that the Contractor is required to submit the curriculum vitae of a suitable candidate for this
+vital position. The Engineer does not accept responsibility for continued failings and will hold the
+Contractor fully accountable for all delays in red-line and as-built drawing submission and acceptance
+and the negative impacts that may result from these de lays.
+The Contractor is again reminded of its obligation under Specification Section 01 33 00 to formally
+provide a submittal register with the proposed submittal dates for your As-Built drawings.
+Yours faithfully,

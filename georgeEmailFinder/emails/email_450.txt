@@ -1,0 +1,60 @@
+Subject LDCS Windows Server Operating System 2008
+
+Dear Sir,
+We write in response to your letter (1) above concerning the non-compliant version of Windows
+Server and Windows SQL Server installation for the LDCS solution.
+We record that according to the Configuration Status Accounting document for LDCS (ref. MTB-0401LDCS-CSA-001 Rev 07), the Windows Server build is 6.0.6002 SP2 and SQL Server build is 10.0.2531.0
+(SP1 released 31 March 2009). According to the Microsoft schedule, Windows 2008 reaches end of
+support on 14 January 2020. This material is not approved for use on the Project. The Contractor's
+AOS Subcontractor has proposed to upgrade the system to Windows Server 2012 without specifying
+version or build. We note that Microsoft has announced that the Mainstream Support for this product
+has ended on 10 September 2018. The Contractor should reconsider the value of updating to a
+product which has already reached end of life. We note that the Contractor has subsequently
+proposed to upgrade to Windows Server 2016 according to correspondence referenced (2) above.
+According to the Microsoft schedule, SQL Server 2008 reaches end of support on 09 July 2019.
+Although Extended Security Updates may be purchased beyond this date, the installed version is
+ineligible for this programme since the latest service pack and cumulative updates have not been
+installed. For the record, the build numbers shows that no security patches have been installed for
+known vulnerabilities since 2009. This software has not been approved for the Project. The applicable
+Material Approval with reference MS/0401/FC/0050 is for Microsoft SQL Server 2008 R2 software,
+with build numbers starting 10.50. The Material Approval was reviewed as Code 2 with the comment
+"Contractor shall provide the latest version of SQL that CUPPS/LDCS is certified on at the time of
+deployment. This version of SQL is only accepted at this time because CUPPS/LDCS are not certified on
+the later versions of SQL", this was to allow for the commencement of testing in the Integration Test
+Facility. It is of concern that the Contractor has not rectified this deficiency in the three years which
+have elapsed in the meantime.
+Section 270500 Clause 2.7.B.1 states 1/AII software editions installed shall be the latest version
+software package available and shall be fully tested." In consideration of the age of Windows Server
+2012, the Contractor should review the proposed solution. We also note the requirement that the
+proposed software editions shall be fully tested. The late delivery of the proposed software updates
+does not relieve the Contractor from the obligation for complete testing of the solution. We record
+that Section 270500 Clause 2.4.F applies:
+New software and hardware upgrades shall first be demonstrated and tested on a separate Test
+Platform;
+1. The tests shall demonstrate the readiness of new software, corrected software, software
+upgrades, hardware configuration changes and hardware upgrades.
+2. Once the tests have passed successfully, the required changes shall be implemented, taking
+into account the current/applicable change/version management procedures.
+The Contractor's AOS Subcontractor has stated that this upgrade can happen only in Q4 of 2019 with
+no impact on the terminal operations. The Contractor has failed to provide any justification why this
+upgrade cannot be performed during the project schedule. Should the AOS Subcontractor require to
+execute a major upgrade after the completion of the project testing and commissioning activities in
+order to meet specifications , it is required to perform regression testing. This regression testing shall
+be performed for applicable test cases from SFAT/ISAT; Site Integration Tests; Security penetration
+Tests and Performance Test to validate no impact on the fur:~ctionality according to the MSI Master
+Test Plan . Relevant documents not limited to the System Design Documents, Interface Control
+Documents, O&M Manuals and Training documents shall be updated. Additional training shall be
+provided if applicable.
+We advise to implement the upgrade during the project lifecycle, ideally prior to commencement of
+the Performance Test phase. The statement regarding impact on terminal operations is also not
+
+justified, however MSI Change Management Processes shall be followed to minimize the technical
+risks of this change. The impact to terminal operations shall further be mitigated through full
+coordination with any activities planned at that time. The MSI team and the AOS Subcontractor shall
+be available to perform these works at a time convenient to the Employer at no cost to the Employer.
+The Contractor is advised to take immediate mitigation measures and all necessary actions to expedite
+the delivery, configuration and testing of a compliant server operating system and SQL database
+software without further delay.
+We hereby reserve the Employers' rights under Clause 10.3 of the Conditions of Contract for any
+damage the Employer may incur as a result of the Contractor's slow progress.
+Yours faithfully,

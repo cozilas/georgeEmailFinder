@@ -1,0 +1,32 @@
+Subject Processor Swing Arm Test- Request for Information RFI/0401/15440
+Cross Ref. (1) MTB/TCA/ AECOM/L/012640 dated 19 March 2018
+Dear Sir,
+We refer to your correspondence referenced as (1) above regarding Processor Swing Arm Test- Request
+for Information RFI/0401/15440.
+The Contractor stated that the response to RFI/0401/15440 provided by the design team did not fully
+address the question raised. The response to the RFI refers the Contractor back to a response given for
+RFI/0401/4616. Both RFI's raised a question regarding the testing of the Schaeffler Spherical bearings as
+required by the project specification. RFI/0401/4616 raised the query regarding the bearings specified
+under the main processor arches and RFI/0401/15440 raised a similar question regarding the Processor
+Arrivals Fac;ade.
+In RFI/0401/15440 the Contractor stated that the bearing cannot be tested as the test load is too great
+for the equipment that the various testing laboratories have available. An identical question was raised
+in RFI/0401/4616. This response was accepted by the Contractor without the ne·ed for additional
+clarification as is now requested.
+In fact, the bearing test information requested by the design team as part of the response to
+RFI/0401/4616 was provided to the design team under reference MTB/TCA/AECOM/L/011910, dated
+23rd November 2017. This information was accepted by the design team as sufficient to address the
+comments raised in RFI/0401/4616.
+It is therefore unclear how the same response to two identical questions can in one instance be
+accepted by the Contractor and in another instance not.
+The Contractor's proposal in RFI/0401/15440 to request for "reduced design loads" presents more delay
+to the project as it is not certain the design loads are significantly less than the current test loads nor is it
+certain the laboratories will have the equipment to test for these "reduced loads". The Contractor
+should provide evidence from the manufacturer that the following have been carried out
+for the bearing types listed in RFI/0401/15440:
+• Prototype tests, to verify the adequacy of the design. These tests are generally ca rried out by the
+manufacturer during the development of the bearing.
+• Production tests, to ensure the use of correct materials and procedures in manufacture.
+This is the same type of information the Contractor has already supplied in response to RFI/0401/4616.
+In light of the above we now consider this matter closed
+Yours faithfully,

@@ -1,21 +1,98 @@
-Subject: Target Programme to Completion Rev 10.2
-Dear Sir,
-Please find enclosed both an Excel and PDF version of Programme Rev 10.2 with a data date of 1'1
-August 2017. The Rev 10.2 Programme represents the collaborative effort between the Employer,
-Engineer, Contractor and Subcontractors to achieve substantial completion of the Works by 30 June
-2019. This Programme considers all constraints that you have identified, including all Variations
-instructed, as of 31 July 2017.
-At present, Programme Rev 10.2 is not an approved Programme as understood either under the terms
-of the Contract between the Employer and the Contractor or the terms of the Subcontract between the
-Contractor and the Subcontractor. However, the Engineer intends to use Programme Rev 10.2 for
-monitoring and control purposes with respect to the Contractor and Subcontractors until it is approved
-or superseded by a revised approved Programme. Accordingly, we would request you to provide us
-with, for monitoring and control purposes, your target programme to completion which aligns with
-Programme Rev 10.2. We would request you to provide this to us by 31 October 2017.
-Please note that this letter is not, of itself, to be considered as: (i) an admission of any entitlement to an
-extension of time and/or entitlement to additional payment; or (ii) requiring the Subcontractor to
-comply with an accelerated schedule; or (iii) constituting a waiver of any of the terms of the
-Subcontract.
-We look forward to your cooperation with this matter and timely receipt of your submission. Should you
-have any queries please do not hesitate, in the first instance, to contact our Senior Planning Manager.
-Yours faithfully
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0180
+Engineer’s Response to RFI/0401/17582 – Introduction of Galvanised Steel Plates to North and South
+Pavilions – Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
+Variation / Change into Works
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Your response to RFI/0401/17582 detailed in Annex A hereto, represents a change in design and scope
+and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 22 October 2019, a Mechanical Works Completion Inspection (MCI) of the Sprinkler System to Room
+‘CS-10 Zone’ located at CP North Pavilion Sector Nos 5.11C, 5.11D, 5.16B between Level L2.0 and Level
+L3.0, was undertaken by the Employer’s Fire Life Safety Consultant (Messrs Profire). Their inspection
+report, i.e. ‘WIR Number PF MCI-SUP-191022-CP L2.0 TO L3.0 CS-10 Iteration 10, Revision 02’, issued by
+way of their letter reference 191022-PF-IR-31809-GM [also dated 22 October 2019] addressed to the
+Employer (ADAC), identified a limited number of three (3) ‘findings’. This included but was not limited
+to the following comment in relation to the entire grading platform area:
+“Contractor to provide checkered steel plate [to the] entire grading platform area (all areas applicable).”
+[Bold and underlined for emphasis]
+Attached to Profire’s letter were a series of photos, including without limitation the photos that are
+reproduced in Figure 1 below, which amongst other things, shows the grading platform area.
+Figure 1 - Grading Platform Area
+CP North Pavilion Sector 5.11C, 5.11D, 5.16B, Level L2.0 to Level L3.0
+Profire’s MCI report (WIR Number PF MCI-SUP-191022-CP L2.0 TO L3.0 CS-10 Iteration 10, Revision 02’),
+dated 22 October 2019 concluded with the following result (reproduced in Figure 2 below):
+Figure 2 – Result from Profire’s Inspection dated 22 October 2019
+Interestingly, the day prior to the above noted inspection, i.e. on 21 October 2019, Profire issued an
+earlier MCI report (WIR Number PF MCI-SUP-191021-CP L3 CS-53) relating to the Sprinkler System to
+Room ‘CS-53 Zone’ located at CP South Pavilion Sector Nos 5.19D and 5.24B to Level L3.0, by way of
+their letter reference 191021-PF-IR-31789-JM [also dated 21 October 2019]. Despite this MCI report
+listing five (5) findings, there is no reference to the requirement to provide checkered steel plate.
+We also wish to make the point that the works subject to the foregoing WIRs were inspectors [rather
+than the same inspector]; therefore it is understandable that the natural conclusion we draw from this is
+that the requirement for us to provide checkered steel plate is not compulsory but subjective.
+This anomaly caused us to raise RFI/0401/17582 Rev. 00 on 5 November 2019, titled ‘MCI comment to
+add steel checkered plates above north pavilion roof’ advising you of the following (Figure 3):
+Figure 3 – Question detailed within RFI/0401/17582
+Attached to RFI/0401/17582 Rev. 00 were the following attachments:
+•
+A copy of Profire’s letter ref: 191022-PF-IR-31809-GM dated 22 October 2019 wherein Profire
+has provided the MCI report and photos (Figure 1 refers) from the inspection held on 22 October 2019
+at CP North Pavilion Sectors 5.11C, 5.11D, 5.16B, to Levels L2.0 to L3.0.
+
+•
+A copy of Profire’s letter ref: 191021-PF-IR-31789-JM dated 21 October 2019, wherein Profire
+has provided the MCI report and enclosed photos from another MCI held on 21 October at CP South
+Pavilion Sectors 5.19D, 5.24B Level 3.0 Room CS 53 Zone.
+We requested a response to RFI/0401/17582 by 13 November 2019. However, at that date you failed to
+reply. We did however receive an ‘advanced’ response on or about 19 November 2019. Notwithstanding
+the delay in responding, the Employer’s Design Consultant confirmed the following:
+“Based on the proposed sprinkler system by the contractor per ADAC-AHJ & HOE, the areas where the
+grating is located need to be comply with NFPA hence ceiling to be provided accordingly. Contractor to
+provide galvanized steel plate underneath the grating area of North and South pavilions to provide a
+ceiling for up-right sprinkler operation. Contractor to submit relevant shop drawings, MS and DS for
+review accordingly. Code compliance – No time/cost.” [Bold and underlined for emphasis]
+Following which, we then received a formal response to RFI/0401/17582 on 4 December 2019. This is
+21 calendar days after the initial reply required by date. Notwithstanding the prolonged period in
+responding, the Employer’s Design Consultant had amended its response as follows:
+“Based on the proposed sprinkler system by the contractor, per ADAC-AHJ & HOE, the areas where the
+grating is located need to be comply with NFPA hence ceiling to be provided accordingly. However, to
+minimize works on site and to assist contractor with site progress, KPF and ADAC-AHJ would accept
+closing the grating between the light fittings with thin galvanized steel plate instead of creating a full
+floor – gaps are to be minimized – No time/cost.”[Bold and underlined for emphasis]
+In this regard, we record that the works associated with the grading platform at the North and South
+Pavilions have been competed based on IFC Drawings prepared by the Employer’s Design Consultant
+and issued by you. Shop Drawings representing the IFC scope have been approved by you also.
+Therefore given the approved Design, there is no requirement for us to provide a “thin galvanized steel
+plate” to the noted areas as a means of “closing the grating between the light fittings”
+Nevertheless, it is evidently clear that this requirement has been insisted upon by Profire (HOE / AHJ)
+and the need to for us to provide a “thin galvanized steel plate” as a means of “closing the grating
+between the light fittings” represent a unequivocal change to the existing IFC Design. Consequently this
+is not a ‘code compliance’ issue for which we are purportedly responsible for, as implied from the
+response to RFI/0401/17582, and moreover, there will be additional time and cost impacts.
+As you know, SAA8 laid down strict guidelines to follow if additional works are required and this appears
+to have been ignored. Hence this change will warrant a valid Engineer’s Instruction (EI) and a Variation
+Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with the express
+requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
+continue to proceed in accordance with the existing IFC design to the extent we are able to.
+Yours faithfully,

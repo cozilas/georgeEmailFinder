@@ -1,0 +1,31 @@
+
+Dear Sir,
+
+We refer to letter reference 1) above, and wish to comment as follow:
+
+The assertion you made in your letter is contradicting the intent as set out in the Employer Requirement
+at Volume 6, Sub-Clause 10.5.1.2.
+
+The Engineer's Assistant is of the opinion that the Contractor is incorrectly citing Sub-Clause 10.5.1.2 (e)
+to support his assertion. Sub-Clause 10.5.1.2 (e) is a provision meant for a limited usage, and cannot be
+construed as a reference for a general application.
+
+Sub-Clause 10.5.1.2 (e):
+
+'The maximum distance between cross-passageways may be increased, in special cases and subject to
+approval by Civil Defense, by up to 500m in accordance with the European TS/ for railway tunnels (TS/
+SRT) if it can be demonstrated by engineering analysis that evacuation of the maximum train capacity
+load (1.200p) into the non-incident tunnel can be achieved under tenable conditions and that the
+resulting risk for passengers would be acceptable and as low as reasonably practicable. The
+engineering..."
+
+Instead, the Contractor shall refer to Sub-Clause 10.5.1.2 (d) for the requ.irement to design the works .
+Sub-Clause 10.5.1.2 (d):
+"In accordance with NFPA 130, cross-passageways shall be provided in tunnel sections where they are
+required at a maximum distance of 244 m between each other or to another access towards a point of
+safety (evacuation shaft in tunnel or at a station end, tunnel portal)."
+
+As Sub-Clause 10.5.1.2 (e) required a specific approval by Civil Defense, which the Sub-Clause 10.5.1.2
+(d) doesn't, and with the stipulation that this sub-clause is only applicable in special cases, the
+Contractor's assertion based on Sub-Clause 10.5.1.2 (e) has no basis.
+Yours faithfully,

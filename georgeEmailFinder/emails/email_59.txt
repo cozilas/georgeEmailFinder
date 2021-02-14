@@ -1,97 +1,36 @@
-Subject: Removal of Mr. Charbel Mallo in Accordance with Clause 14.9.3 with Immediate
-Effect
-Dear Sir,
-Further to your letter referenced 'MTB-GL-ADAC-L-0005 dated 11th April 2018' and AECOM's response
-referenced 'MTC-CMA-TCA-0401-LTR-09307 dated 12th April 2018', It has been witnessed that your Mr.
-Charbel Mallo [Technical & Contract Manager] has failed to carry out his duties in accordance with t he
-Project Communication Protocol procedure as stated in Clause 9.18.1 (Independent Subcontractor), to
-have direct communication with the Employer without prior writte,n consent of the Contractor.
-We consider the above mentioned personnel in breach of contractual obligations against Clause 9.18.1.
-In summary, it is clearly observed that such personnel, has the lack of professionalism which is having a
-detrimental effect on t he project and completely unacceptable by TCA JV Management. Thus, we are
-left with no alternative but to instruct the removal of such personnel from this project. Accordingly, we
-write to notify you of requirement for the removal of your personnel, Mr. Charbel Mallo with immediate
-effect from this project under Clause 14.9.3 which for ease of reference states;
-'The Contractor may require the Subcontractor to remove (or cause to be removed) any key personnel
-or any other persons employed on the site or subcontract works, including the Subcontractor's
-Representative if applicable, who in the reasonable opinion of the Contractor;
-(a) Persists in any misconduct or lack of care,
-(b) Carries out duties incompletely or negligently
-(c) Fails to conform with any provisions of the Subcontract
+Subject:
+EI-788 Fabrication and Erection of ACP Cladding Mock-Up Test Assemblies; VO No. 386 –
+Delayed Approval of Mock Up Shop Drawings
 
-This notice is served under Conditions of Subcontract clause 14.9.3 (a),( b) and (c). You are obliged to
-take this letter as formal notification of our intention to enforce Clause 14.9.3 of the Sub-Contract
-Agreement, to instruct the permanent removal from site of the abovementioned personnel.
-Subsequently, in pursuant to the Clause 14.9.4, which specifies that "immediately following such
-removal, the Subcontractor shall then appoint a suitable replacement". Accordingly, you are hereby
-instructed to adhere to the above condition without any delay, to submit the CV of a suitable qualified
-replacement for our review and approval in accordance with such Clause.
-Subject: RE: Delay in Submission of As-built Drawings
-Dear Sir,
-Further to the receipt of letter (1) regarding the Subcontractor's schedule for the forecast submission of
-as built drawings, the Contractor refers the Subcontractor to the attached email correspondence
-whereby the Engineer confirmed that the 200 no. as-built drawings submitted by the Subcontractor
-have been assigned a Code-1 for CAD compliance.
-The Contractor is aware of the delays being currently incurred by the Design Consultant in returning the
-Subcontractor's submitted as-built drawings; yet, the Contractor further notes that the Subcontractor
-shall not withhold all other submittals on this basis. Moreover, there is no reason why the Subcontractor
-should refuse to furnish the Contractor with the schedule of forecast as-built submissions which has
-been requested by the Contractor in numerous occasions.
-The Contractor reiterates therefore its request that a schedule of forecast as-built submissions is
-provided by the Subcontractor without further delay.
-Subject: Request for Confirmation of Variation Order for Added Clean Outs in RFI 11594
-Dear Sir,
-With reference to the Engineer's reply to RFI 11594 wherein the Design Consultant requested
-coordinated
-layouts/plans to be reviewed with ADM for sign-off, please refer to the attached drawings signed by
-ADM
-showing the locations of the clean-outs.
-We note that the additional cleanouts due to the offset in the riser routing (point #2 of the RFI) are not
-shown in the latest or previous revisions of the relevant IFC plans (refer to attachments).
-We consic{er the Engineer has issued instructions constituting a Variation which are not in the form of,
-or
-which have not been confirmed in writing by the Engineer by way of a formal Variation Order.
-In accordance with Conditions of Contract (COC) clause 20.1.4 (b), please provide a formal confirmation
-of
-Variation or issue an Engineer's instruction and revised Drawings and/or Specification pursuant to COC
-11.3.3. and 20.1.1 (a).
-In the event the Engineer does not take the above Contract required actions then in accordance with
-COC
-
-clause 20.1.5 the Contractor would not be able to proceed with the implementation of the above
-described Variation. Should this materialise then the Employer shall be solely responsible for all
-consequential impacts due to late or untimely confirmations.
-Kindly be guided accordingly.
-
-Subject: Request for Confirmation of Variation Order for Electrical Closets without Smoke
-Detectors (RFEI/0401/0618)
-Dear Sir,
-With reference to your letter (3) above please be advised that the information, comments, clarifications
-and/or instructions contained therein (albeit not properly set out as IFC) constitute an instruction of
-Variation.
-The Engineer's response to RFEI/0401/0618 requires 38 additional smoke detectors in various Electrical
-Closets as set out in the schedule provided (ARUP File Note ref. 122222/SF/MEP/074 Electrical closets
-that require smoke detectors).
-Arup's letter reference 122222/SL/0890 dated 30 March 2017 (copy enclosed for reference as
-Attachment
-A), expressly states that "The originai/FC showed sprinklers only which is permitted by code but does
-not provide a room address at the fire alarm panel, in Bulletin 134" whereby "at the request of ADAC
-Operations, smoke detectors were added to small individual rooms such as electrical closets ... "
-For the avoidance of any doubt, the Engineer remains responsible for setting out the requirements in a
-clear and unambiguous without resorting to misrepresentations of hard facts by reference to "design
-intents." Had those intents been so clearly set out in Bulletin 134 documents in the first instance, there
-would not have been any need to provide a table to set out the additional requirements.
-In addition, please be advised that most of these rooms have already been constructed. As a result this
-late change will cause abortive Works and significant delays to the Electrical closets which will in turn
-delay the Works.
-We consider the Engineer has issued instructions constituting a Variation which are not in the form of,
-or which have not been confirmed in writing by the Engineer by way of a formal Variation Order.
-In accordance with Conditions of Contract (COC) clause 20.1.4 (b), please provide a formal confirmation
-of Variation or issue an Engineer's instruction and revised Drawings and/or Specification pursuant to
-COC 11.3.3 and 20.1.1 (a).
-In the event the Engineer does not take the above Contract required actions then in accordance with
-COC clause 20.1.5 the ·contractor would not be able to proceed with the implementation of the above
-described Variation. Should this materialise then the Employer shall be solely responsible for all
-consequential impacts due to late or untimely confirmations.
-Kindly be guided accordingly
-Yours faithfully
+Dear Sirs,
+We refer to our letter ref: (1) recording the chronology of events associated with the issuance of our
+Shop Drawings following receipt of EI No. 788 (ref: 2), and your subsequent e-mails refs: (3) and (4).
+Notably your e-mail dated 27 April 2020 (ref: 4) advised us that our Shop Drawings are fully approved,
+however, despite us expressly stating in our letter ref (1) that we “request you to confirm by return your
+approval [for us] to proceed with fabrication and installation of the Pier Test Mock-Up assemblies based
+on the ... shop drawings” on the understanding that you would return the officially approved shop
+drawings when doing so [confirming for us to proceed], you have failed to do so.
+It is unreasonable that the cumulative reviewing duration of our Shop Drawings submittal exceeds 3.5
+months while the subject submittal is classified to be on fast track process. Refer to Annex A for the
+details of reviewer durations and note that this attachment has been updated and sent to you on a
+weekly basis. We remind you that the Contract expressly stipulates the review periods by which you are
+contractually obligated to review and return Submittals. On the basis that our Shop Drawings are Rev.
+01, then these should have been returned within 14 calendar days from the date of being submitted, i.e.
+5 March 2020, on the basis they were submitted for your review on 20 February 2020. The review
+period applies irrespective of the Shop Drawing having been submitted via e-mail and irrespective of any
+perceived failure on our part to submit them in a timely manner; which is denied.
+Given your failure to confirm approval for us to proceed with fabrication, we hereby notify you that we
+have put on hold all works related to EI-No. 788. We therefore request that you provide us with an
+official confirmation of your approval to proceed as well as issue us the officially approved Shop
+Drawings.
+In the meantime, we hereby give notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and
+27.1.1, that the above noted failures constitutes acts of prevention and/or breaches of Contract on the
+part of the Employer’s Personnel and/or Consultants, which accordingly entitles us to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim / final details of the Time Impacts and adjustments to the Contract Price relating to this event
+will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Yours faithfully,

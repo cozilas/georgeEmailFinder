@@ -1,85 +1,83 @@
-Subject :
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0252
 
-Notice to Correct to Non-Attendance to site and Completion of works
+Unreasonable Code 4 Comments issued in Response to MS/0401/L/0157-01 associated with the
+Actuator Butterfly Valve
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters discussed in Annex A concern delays associated with your unreasonable Code 4 comments
+issued in response to MS/0401/L/0157-01 associated with the Actuator Butterfly Valve be installed on
+the feeding water lines to the external water tanks in Pump houses C and D.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+DESCRIPTION OF THE EVENT
+Introduction
+On 8 March 2020, we submitted MS/0401/L/0157 Rev. 01 seeking your approval of the ‘Actuator
+Butterfly Valve’ which will be installed on the feeding water lines to the water tanks in Pump Houses C
+and D, in the manner shown in Table 1 below:
+Table 1
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+8-Mar-20
+MS/0401/L/0157
+01
+Actuator Butterfly Valve22-Mar-20
+18-Mar-20
+4
+Following which, we received your response on 18 March 2020, which contained what we contend are a
+series of unreasonable comments, despite the Actuator Butterfly Valve to MS/0401/L/0157 Rev. 01,
+being compliant. The information recorded in the snapshot shown below indicates your resultant Status
+Code 4 (Rejected) comments annotated thereupon (Figure 1 refers).
+Figure 1
+The information recorded in Table 2 below, records the particular comments in question, alongside we
+have provided a response justifying why we believe those comments are unreasonable.
+Table 2
+Item Engineer Comments
+Contractor’s Response
+Code 4 Comments on Material Submittal No: MS/0401/L/0157-Rev. 01
+1
+“No samples provided in this submission. Contractor to comply [with] Div. 01 spec
+requirement” Please note that the requirements provided as per Division-01 of the Specification are
+overall general and not specific.
 
-Dear Sir,
-We hereby write pursuant to the Subcontract Agreement referenced 1) above for “Design (If any),
-Supply, Installation and the Rectification of defects therein of the Lift Steel Structure & Steel Stairs
-including Miscellaneous Steel Works for Ramp and Ceiling Work Packages” and in regards to the above
-mentioned subject matter. Further to our numerous reminders, we hereby express our concerns about
-your non-attendance to the site and the non-completion of your outstanding works.
-The majority of the outstanding works in Elevator Shafts are scaffolding installation & dismantling, touch
-up & top coat painting, bracket welding due to wrong “Halfen” channels and incomplete steel erection.
-Please see enclosed the list of outstanding works on site as of today (Attachment-1).
-Therefore, we hereby instruct you under Subcontract Clause 22.1 [Notice to Correct] to
-
-immediately proceed with the outstanding Works which we have already reminded you through several
-correspondences.
-Failing to comply with the above will result to a breach of Contract and consequent termination as per
-Clause 22.2.2 [Termination by Contractor for Subcontractor Default] which clearly states the following
-(for convenience, only sub-clauses applicable to you are given)
-22.2.2 "The Contractor may, upon giving the Subcontractor seven (7) Days' notice, terminate the
-Subcontract if the Subcontractor:
-(a)
-N/A
-(b)
-fails to comply with a notice under clause 22.1 (Notice to Correct);
-(c)
-abandons the Subcontract Works or otherwise plainly demonstrates the intention not to
-continue performance of its obligations under the Subcontract;
-(d)
-without reasonable excuse, fails to proceed with the Subcontract Works in accordance with
-clause 16 (Commencement, Delays and Suspension);
-(e)
-N/A
-(f)
-suspends the performance of the Subcontract Works or any part thereof other than in
-accordance with clause 23.1 (Subcontractor’s Entitlement to Suspend Work) or as a consequence of
-Force Majeure pursuant to clause 26 (Force Majeure) or as necessary for the safety or security of the
-Subcontract Works;
-(g)
-persistently fails to execute the Subcontract Works in accordance with the requirements of the
-Subcontract or persistently neglects to carry out and/or fulfil its obligations and/or responsibilities under
-the Subcontract without due cause and the Contractor has given seven (7) Days' notice of its intention
-to terminate the Subcontract unless the Subcontractor is able to satisfy the Contractor that appropriate
-steps are being taken to ensure that there is no reoccurrence of such default;
-(h)
-N/A
-(i)
-having commenced the Subcontract Works on Site is unable or fails to proceed with the
-Subcontract Works with due expedition (other than as a result of Force Majeure or Contractor breach);
-(j)
-N/A
-(k)
-N/A
-(l)
-N/A
-(m)
-N/A
-(n)
-the Subcontractor breaches the Subcontract or is otherwise in default of any of its obligations
-under the Subcontract and such breach or default leads, either directly or indirectly, to the termination
-of the Contractor's employment under the Contract.
-We would like to remind you that in line with Clause 22.2.4 of the Subcontract between us: "Where any
-of the circumstances described in Clauses 22.2.1 or 22.2.2 has occurred and the Contractor is entitled to
-terminate the Subcontract, the Contractor may at its sole discretion, in lieu of such termination, elect to
-omit a section(s) of the Subcontract Works by way of Variation, irrespective of whether the
-circumstances described in Clause 22.2.1 or 22.2.2 have occurred in respect of such section(s) and may
-
-instruct another Contractor to carry out such omitted work and the Subcontractor shall have no claim
-for loss of profit or contribution to overheads which it would have earned for such omission".
-Kindly note that in the event of such omission, the provisions of Clauses 22.3 (Consequences of
-Termination for Subcontractor Default) to 22.5 (Payment after Termination for Subcontractor Default)
-shall apply to such omitted section(s) as if the Subcontract had been terminated in respect of such
-section(s).
-Moreover, our right to omit a section(s) pursuant to Clause 22.2.4 shall be without prejudice to the
-Contractor's right at any time to omit any part or section(s) of the Subcontract Works pursuant to Clause
-20.1 (Right to Vary) but shall not be subject to any restrictions on giving such omitted work to another
-Contractor at any time.
-Hence, in addition to this Notice to Correct as highlighted here above, we would like to state our
-intention for omitting the works from you and charge the cost of such omission as addressed under the
-provisions of Clauses 22.3 (Consequences of Termination for Subcontractor Default) to 22.5 (Payment
-after Termination for Subcontractor Default).
-The above is without prejudice to our right to claim for any delays, costs, loses and/or expenses incurred
-by us and/or other Subcontractors arising as a result of your breaches of the Subcontract.
+In addition, no sample is required to be submitted with the valve specification. Nevertheless, you have
+also confirmed the same via your email received on 2 September 2019 [Monday 1:46 PM] attached to
+Annex B hereto, wherein you stated that:
+“The contractor can proceed with the technical submission and submit the sample at a later stage when
+made available. At least 1 sample need to be provided and kept for record if the MS attains Code 2”.
+2
+“Why material description changed Code -4” After numerous discussions with you / ADAC,
+we have agreed that MS/0401/L/0157-Rev. 01 would be resubmitted to obtain the approval for the
+actuator only (valves have been approved previously).
+This has been confirmed by us via our email sent to you on 9 March 20 [Monday 6:07 PM] attached to
+Annex C hereto, wherein we have confirmed our oral agreement stating that:
+“Further to our discussion and agreement we have resubmitted only the actuator for motorized butter
+fly valve with following ref no [MS/0401/L/0157 Rev.01] , kindly inform with your team to review and
+approved accordingly”.
+In addition to the above, it is worth noting that the proposed brand referenced in MS/0401/L/0157 Rev.
+01, of the electrical actuated butterfly valves to be installed on the feeding water lines to the external
+water tanks in Pump houses C and D, is manufactured by M/S Oventrop. We put on record that the
+same product has been approved for other applications in the Project.
+In view of the foregoing, we hereby inform you that your unreasonable Status Code 4 comments issued
+in response to MS/0401/L/0157-Rev. 01, particularly at this stage of the Project will invariably delay
+procurement and installation of the Actuator Butterfly Valves. This will consequently delay the testing
+and commission and associated inspections of these materials, and may delay the Time for Completion.
+Accordingly, we urge you to consider re-coding MS/0401/L/0157 Rev. 01 by return in order to avoid any
+further unnecessary delays. Please note that any delays incurred to date and/or which may be incurred
+by us as a result of your unnecessarily coding the noted material submittal Status Code 4, shall be at
+your risk.
 Yours faithfully,

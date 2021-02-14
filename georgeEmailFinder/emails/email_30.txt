@@ -1,81 +1,32 @@
-Subject Use of Aluminum Composite Panels (ACP}
-Dear Sir,
-It has been established that there are significant differences between the con.figuration of the ACP
-assemblies and the original test data provided by the Contractor. These differences include but not
-limited to, variations in the cavity width of the assemblies and the jointing arrangement between
-panels.
-The use of ACP and associated assemblies fall under the Curtain Walling Specification (074201) which is
-a
-performance specification. Therefore, it is the Contractor's responsibility to demonstrate such
+Subject:
 
-assemblies meet the requirements of the International Building Code (IBC} 2006, which forms the basis
-of the Fire Strategy for MTB.
-Section 1407.10.4 of the 2006 version ofthe IBC requires metal composite materials containing plastic to
-be tested to NFPA 285 Standard Fire Test Method for Evaluation of Fire Propagation Characteristics of
-Exterior Non Load Bearing Wall Bearing Assemblies Containing Combustible Components.
-Please provide evidence you have met your contractual obligations with respect to the fire performance
-of such assemblies. This evidence shall include but not limited to:
-• Identification of the various different configurations of assemblies involving the use of ACP.
-• Fire test data from an accredited testing house which demonstrates such configurations do not
-adversely affect the overall fire performance of the assemblies in comparison to the criteria
-detailed in NFPA 285.
-Subject Snagging de-snagging Through Zutec
-Dear Sir,
-In response to your letter (1), the three week Zutec trial for snagging and de-snagging was concluded
-on 07 April 2018, after which the hard copy formats that were running in parallel to Zutec were to be
-discontinued. Zutec has been officially operational as the single system for recording
-snagging/desnagging
-starting 08 April 2018.
-Whilst you previously supplied the room areas details to enable Zutec be setup for snagging and
-desnagging,
-it recently transpired that some building area information was missing and this requires your
-action and update. You are currently identifying these areas and in the interim, snag/de-snag hard
-copies have been accepted and processed by the Engineer to avoid any delays.
-You provided details for the missing areas in Piers 1 and 2 Gatehouses entrance walls and cladding
-which has now been uploaded to Zutec. Please review the rest of the Piers and the CP for any other
-areas and systems omitted from Zutec and provide your updates as required to ensure the Zutec
-system is fully updated and useable for snagging and de-snagging.
-Subject Inspection Following Ceiling Panel Fall Incident
-Dear Sir,
-We write with reference to the Contractor's recent incident where a previously installed ceiling panel
-became dislodged and fell 25 meters, landing in close proximity to personnel operating at level 2 of the
-CP Area of the MTB.
-The Engineer and the Employer are yet to receive any progress updates as to the agreed and required
-reinspection
-of each installed ceiling panel that was detailed in post incident meetings and to be
-conducted as a matter of priority.
-The Engineer requires the Contractor to provide the following overdue information for the ceiling panels
-and the inspection hatches:
+Re: Wall Starter Reinforcement Certification
 
-• A specific strategy detailing the re-inspections and what they will entail, as well as confirmation
-of the re-testing criteria, and method.
-• It was also suggested that the removal of the polythene and the required cleaning of these
-panels will be done simultaneously, please confirm.
-• Program scheduling the start and completion of each section, including inspection milestones.
-• Prevention measures to avoid any further disturbance of panels and inspection hatches.
-• Detail the WIR process and communication to the Engineer.
-• Contractor's point of contact who will be leading this inspection activity. The Contractor is required to
-respond with all the information requested within 3 working days upon
-receipt of this letter.
-Subject: Project Director- Absenteeism
 Dear Sir,
-Further to the Principals Meeting of 24 April 2018, the Contractor records the absence of the
-Subcontractor's Project Director Mr. Nicholas Galati from said meeting. This absence was without prior
-notification and is of further concern since Mr. Galati is also the Subcontractor's appointed
-representative.
-The failure to attend the aforementioned meeting and a number of high level management meetings
-over
-the last few months has been noted by the Principals and for the avoidance of doubt is entirely
-unacceptable without prior notification, explanation and delegation of authority pursuant to Clause
-12.8.6
-Conditions of Subcontract.
-Notwithstanding the above, the Subcontractor is to advise the Contractor forthwith when Mr.Galati will
-return to resume his duties and obligations under the Subcontract.
-However, should Mr Galati be unable to perform his duties and obligations under the Subcontract,
-which
-include representation at high level management meetings, the Subcontractor pursuant to Clause 12.8
-of
-the Conditions of Subcontract shall confirm in writing a suitable replacement for due consideration by
-the
-Contractor.
+With reference to the above subject regarding the wall starter reinforcement certification, and in
+response to your letter ref: (2) above wherein you stated that:
+“… in clause 4.4, that the works are on a Lump Sum basis and that you have been given ample
+opportunity to check and verify quantities and have done so to your satisfaction. On this basis, there is
+no requirement for a Variation Order to be issued as the quantity risk is included within your scope of
+work”,
+
+we wish to respond as follows.
+We note that our Contract and the scope of works has been agreed and has been and continues to be
+certified on a re-measurable basis. This is clearly, stated under the Letter of Acceptance (LoA) Clause 4.2,
+which specifically states that “…The Contract is in re-measurable basis…”. Therefore, your comment that
+the works are on a Lump Sum basis is not correct and is refuted.
+For the avoidance of doubt, we have attached hereto an extract of the LoA page 6 of 8, for your
+reference, wherein clause 4.2 is shown. It is worth mentioning that Clause 4.4 which was referenced in
+your abovementioned letter ref: (2), is clearly not applicable as seen in the attached extract of the LoA.
+In addition, we put on record that to date as per Interim Payment Application No. 6, the total amount
+which has been incorrectly not certified by you associated with the wall starters is AED 160,135.81.
+Therefore, we kindly request you to proceed with all necessary actions to correct and certify the works
+and include the wall starter quantity within the wall reinforcement accordingly, as explained in our
+letter ref: (1).
+In view of the above, we reiterate that our position remains as comprehensively set out in our letter ref:
+(1) above, and we kindly request that the amount of AED 160,135.81, is corrected in the next Interim
+Payment Certificate and is released for payment to us accordingly.
+
+We trust you find the aforementioned self-explanatory, and you will carry out the necessary action as a
+matter of urgency.
 Yours faithfully,

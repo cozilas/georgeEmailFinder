@@ -1,14 +1,56 @@
-Subject: Back Charge Notification –Supply and Installation of Gratings at Central Pavilion
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0156
+Engineer’s Overdue Response to Operation & Maintenance Manual Submittal No.
+OMM/0401/0119 Rev. 02 - Baggage Handling System (BHS)
 Dear Sir,
-Further to our notice referenced in (3) and evidenced by your continuous failure to execute the
-aforesaid works in a timely manner, please be advised that we have appointed a third party to execute
-these works on your behalf and we have omitted these works from your scope in accordance with
-Clause 22.2.4 of the Subcontract.
-We hereby confirm our entitlement to deduct such amounts including but not limited to the enclosed in
-accordance to Clause 22.2.4. The omission as stated above is a result of your persistent failure to
-perform your obligations under the Subcontract Agreement.
-In addition, we shall back charge any amount that falls under your responsibility in accordance to Clause
-10.3.5 and 11.4, whereby you are liable to the Contractor for the costs arising out of your failure to
-perform your obligations under the Subcontract.
-The above is for your information and record.
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
+Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern potential delays to the Works due to your failure to respond
+to OMM/0401/0119 Rev. 02 within the review time expressly stipulated in the Contract.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Specifically we urge you to review and respond to our submittal without further undue delay. Kindly
+ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 26 May 2019, we issued Submittal No. OMM/0401/0119 Rev. 02 [dated 22 May 2019] in the manner
+shown in Table 1 below, seeking your approval of the Operation and Maintenance Manual for the
+Baggage Handling System(BHS) for the Project, as described and detailed therein.
+
+Table 1
+Item Date submitted Submittal Ref Rev
+Description of Contents Response due per Section
+013300 Response received
+Status Code
+Delay
+1
+26-May-19
+OMM/0401/0119
+02
+Baggage Handling System - Operation &
+Maintenance Manual 2-Jun-19
+128
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. On the basis that Operation and
+Maintenance Manual Submittal No: OMM/0401/0119 is shown to be at Rev. 02, then this ought to have
+been responded to by you 7 calendar days later, i.e. on or before 2 June 2019. However, Table 1
+indicates that at the cut-off date associated with the preparation of this Notice (i.e. 8 October 2019),
+you exceeded and are continuing to exceed the review period expressly stipulated in the Contract by
+128 calendar days. This is unacceptable, particularly at this stage of the Project.
+Potential Impact:
+The overdue response to Operation and Maintenance Manual Submittal No: OMM/0401/0119 Rev. 02
+has directly affected our ability to complete the Baggage Handling Systems Works and associated works
+such as delaying testing and commissioning. Notwithstanding the impact on Milestone MS07, this will
+continue to impact upon our ability to achieve Milestone MS09B and similarly if your long overdue
+response continues to remain outstanding, may delay achievement of Milestone MS09C.
+We should also add that all our rights and entitlements to recover the associated additional time and
+costs resulting from the aforementioned act(s) of prevention on your part will apply irrespective of any
+alleged failure on our part [which is denied], to transmit submittals to you in a timely manner.
 Yours faithfully,

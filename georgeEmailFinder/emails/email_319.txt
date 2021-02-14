@@ -1,12 +1,185 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0145
+Revised Rev. 01 Response to RFI/0401/17227 – Requirement for New Smoke Curtains to Lift
+Lobby to Level L.01 at Pier 2 and Pier 3 – Request for EI / VO
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+Overview
+Your revised Rev. 01 response to RFI/0401/17227 detailed in Annex A represents a change in design and
+scope and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Any requirement for additional works at this stage of the Project, such as that outlined herein, is likely to
+impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
 
-Subject:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+During BCC inspections held on 28 March 2019 and 14 April 2019, the House of Expertise (HOE) /
+Authority Having Jurisdiction (AHJ) raised the following queries / observations regarding the smoke / fire
+compartmentation to the ‘Service List Lobby’ and ‘Freight Lift’ to Level L0.1 to Pier 1 and Pier 3:
+•
+“Service lift lobby 0214 was not smoke compartmented as shown in the fire compartmentation
+drawing.”
+•
+“E-cart stagging [sic] lift Freight lift in Level 0.1, 1.0, 2.0 3.0 and Pax lift in level 2.0 3.0 pier head
+area is not smoke compartmented.”
+We clarified to HOE/AHJ during the inspection, that the Design of the ‘Service Lift Lobbies’ at Pier 2 and
+3 to L0.1 detailed in the IFC Drawings (refer to Figure 1 and 2 below) upon which our approved Shop
+Drawings were based, did not provide for any such compartmentation. We further clarified that the
+Freight Lift doors are in fact fire rated as per the Design and approved Material Submittals.
+Figure 1 – Pier 3 Level L0.1 Sector 3.15
+Figure 2 – Pier 2 Level L0.1 Sector 2.14
+IFC ref: MTC A 02 TB L0.1 3.15 00.452 05
+IFC ref: MTC A 02 TB L0.1 2.14 00.446 06
+Subsequent to which, we raised RFI/0401/17227 Rev. 00 on 13 July 2019, entitled ‘E-cart Lift Lobby Fire
+Compartmentation Comment on BBC Inspection’ together with the following attachments:
+•
+An extract from ZUTEC summarising the purported design / non-compliance issues pertaining to
+HOE/AHJ’s comments (i.e. ‘snag’ ID 95147 and ID 100602 (refer to Figure 3 below); and
+•
+A copy of the approved Material Submittal MS/401/LET/0040-02 dated 23 March 2016, and
+accompanying Certificate of Compliance, confirming the fire rating of the Freight Lifts doors.
+Within RFI/0401/17227 Rev. 00 we wrote to advise you that: “… since the lift door is fire rated, lobby
+compartmentation is not required. Engineer is requested to confirm the same.”
+Figure 3 – Extract from ZUTEC (i.e. ‘snag’ ID 95147 and ID 100602)
+Attached to RFI/0401/17227 Rev. 00
+We requested a response to RFI/0401/17227 Rev. 00 by 27 June 2019; however, you failed to reply until
+16 calendar days later on 13 July 2019. Nevertheless, the Employer’s Design Consultant (KPF) clarified
+that the HOE/AHJ’s comments were “meant to address the smoke compartmentation of the lobby, not
+fire compartmentation.” KPF further stated that “… the service lift lobby is not required to be smoke
+rated by code, however this is an ADAC/AHJ requirement. ADAC to advise”.
+For the avoidance of doubt, both the Employer’s Design Consultant’s comments and the Employer’s
+comments detailed in the response to RFI/0401/17227 Rev. 00 are reproduced in Figure 4 as follows:
+Figure 4
 
-WIR Issues
+However, on 30 July 2019, we received ‘additional clarification’ from you by way of a revised (Rev. 01)
+response to RFI/0401/17227, where both the Employer’s Design Consultant’s and the Employer’s
+comments had been revised. Notably, KPF’s comments which previously advised that “…the service lift
+lobby is not required to be smoke rated by code”, were deleted and similarly, ADAC’s comments that
 
-Dear Sir,
-Further to your letter received referenced (3) above, we hereby inform you that a letter has been
-prepared and sent to M/S Rasana, instructing them to proceed with immediate action to obtain a Code
-1 for the works as mentioned in your letter.
-This is for your information and records.
+originally suggested that “… Contractor may amend the mistake by either construct the smoke
+compartmentation or install smoke curtain at the elevator door…” was replaced by with alternative
+wording that states: “Contractor to either construct the smoke compartmentation or install smoke
+curtain at the elevator door.” Both sets of revised comments are reproduced in Figure 5 below:
+Figure 5
+Notwithstanding that any questions as to the fire rating of the elevator door was now deemed to be
+“irrelevant”, we nevertheless confirm that we have fulfilled our contractual obligations in so far as both
+elevators and the areas which they are compartmented have been constructed in accordance with the
+Employer’s Design Consultant’s design; namely the IFC Drawings and Specifications and the fire rating
+requirements have been achieved. We further reiterate that the Lifts/Elevators have been approved as
+mentioned above by virtue of the Status Code 2 response to MS/401/LET/0040 Rev. 02.
+As regards the smoke compartmentation of the Lift Lobbies, we also confirm that these have been
+constructed in accordance with approved Shop Drawings which have been based on IFC Drawings
+prepared by the Employer’s Design Consultants and issued by you (refer to Figure 6 for example).
+Figure 6 – Pier 3 Level 0.1 Sector 3.15
+Shop Drawing No: 401-JV-A-05-01-3.13D-BK-SD-001
+However, it is patently clear from the revised response to RFI/0401/17227, that you / the Employer’s
+Design Consultant / Employer are urging us to provide a new smoke curtain at the elevator door, and as
+such, this represents an attempt to introduce change to the existing design and scope of Works.
+What is particularly disconcerting, is we are expected to accommodate such a change and at such a late
+stage at the Project, but with “no additional time / cost”. This is unacceptable.
+We are not the designers for this Project, the Employer’s Design Consultant is. Consequently, we accept
+no liability or responsibility for any inconsistencies in the Design [which clearly this is, given that the
+HOE/AHJ’s have identified it as such]; this remains with the Employer’s Design Consultant. Our
+responsibility is to follow with due diligence the IFC Drawings and Specifications, and it is our position
+that we have discharged, and continue to discharge, this obligation with the necessary expertise, care
+and skill that could reasonably be expected from an experienced contractor.
+In any event, taking into consideration the HOE/AHJ comments stating the ‘Service Lift Lobby’ is not
+smoke compartmented, we note that even if a smoke curtain is installed at the elevator door as per the
+revised RFI/0401/17227 response, then the smoke compartmentation of the ‘Service Lift Lobby’ will not
+be fit for purpose, since the opening towards the corridor remains (Figure 7 refers).
+Figure 7
+It was for this reason, that a series of workshop meeting and discussions took place involving us, you
+and KPF and ADAC between 28 July 2019 and 10 September 2019 in order to resolve the ambiguity in
+the design and “to agree on a technical solution for the provision of [smoke] curtain” requested by AHJ
+/ HOE and the fact the “issued IFC did not include any smoke curtain … at those locations.”
+Moreover, according to both the original and revised response to RFI/0401/17227 the Employer gave us
+an option to either construct smoke compartmentation or install a smoke curtain. However, in its e-mail
+dated 28 July 2019 [3:54 PM], the Employer’s Design Consultant (KPF) made it abundantly clear that
+“after discussing with ADAC-AHJ … [a] … Fire Curtain is required.”
+In other words any earlier
+requirement for smoke compartmentation fell away, and a smoke curtain was insisted upon.
+This e-mail is also significant in so far as it records that “the Fire [smoke] curtain is clashing with MEP
+services with no back up information” and requested our assistance with resolving the same.
 
-Yours faithfully,
+The ensuing discussions included an e-mail dated 2 September 2019 [1:31 PM] from you in which with
+reference to a meeting between the HOJ / ARUP on that same date, it was confirmed that the smoke
+curtain was only required to L0.1, and you directed us to provide “the technical proposal for the
+provision of smoke curtain … in order to present it to the design consultant for their review …”
+We complied, and on 5 September 2019 [5:56 PM] advised you of the following:
+“The size of smoke curtain will be app 3000 mm width x 2700 mm height as per site condition at both
+Pier 2 and 3 Level 0.1.
+The requirements for smoke curtains are one group control panel and 50Hz, 230V, 13Amps, 0.75KW and
+Voltage free NC fire alarm signal and BMS interface. Circuiting information should be provided by design
+consultant. Secondary Steel Structure will be provided for smoke curtain and gypsum board wall above.
+Existing Crush barriers will be modified as per final curtain location.”
+The discussions culminated in receipt of two further e-mails from KPF on 9 and 10 September 2019 [5:44
+PM / 1:49 PM], in which we were informed that the proposed smoke curtain, approximate size of
+3,000mm wide x 2,700mm high, should “fully cover the opening to avoid smoke leaking through the
+sides”; while in relation to the circuiting information, we were told the “Contractor shall provide a new
+circuit for the smoke curtain from the nearest EM-RP panel fed from a 20A 30mA RCBO. The feeder
+cable size shall not be less than 2.5mm2 and shall be sized to compensate for voltage drop.”
+Given that the foregoing represents a significant variation to our Works, and in order to seek final
+confirmation from you, we then raised RFI/0401/17460 Rev. 00 on 15 September 2019, advising you of
+the following:
+“… according to IFC drawing MTC-G-04-TB-L0.1-3.51-00.320 [and] MTC-G-04-TBL0.1-2.51-00.318, only
+smoke partition required at marked location but in RFI reply 17227, JV was asked to provide smoke
+curtain subject to AHJ's comments. We kindly request you to send an El and update the architectural
+and electrical IFCs for required smoke curtains.
+Referring the attached e-mails … please be informed that there will be a modification at crush barriers,
+gypsum wall will be added, to provide the gypsum wall steel structure required.
+As noted, attached to RFI/0401/17227 Rev. 00 were:
+1.
+Copies of the various e-mails exchanged between us, you and KPF and ADAC in the period from
+28 July 2019 and 10 September 2019, including those cited above; and
+2.
+Two marked up extracts of IFC Drawing MTC-G-04-TB-L0.1-3.51-00.320 and MTC-G-04-TBL0.12.51-00.318, showing the location of the two new smoke curtains (refer to Figure 8 and 9).
+
+Figure 8 – Pier 3 Level L0.1 Sector 3.15
+MTC-G-04-TB-L0.1-3.51-00.320
+
+Figure 9 – Pier 2 Level L0.1 Sector 2.14
+MTC-G-04-TBL0.1-2.51-00.318
+
+We requested a response to RFI/0401/17460 on 21 September 2019; however, you failed to respond
+until 9 October 2019 but nevertheless were requested therein by the Employer’s Design Consultant to
+“provide a coordinated proposal to satisfy IFC and AHJ requirements”. Given the content of its e-mail
+dated 28 July 2019 [3:54 PM], cited above in which the Employer’s Design Consultant (KPF) made
+expressly said that “after discussing with ADAC-AHJ … [a] … Fire Curtain is required” ADAC-AHJ … [a] …
+Fire Curtain is required” then any purported failure on our part to adhere to the original IFC
+requirements [in terms of the G-series IFC Drawings], were for all intents superseded by not only the
+AHJ’s / KPF’s instance to have a fire curtain [in lieu of the smoke compartmentation] but also the
+significant amount of design development culminating in the additional electrical requirements that are
+both described above and subsequently confirmed within the response to RFI/0401/17460.
+
+In summary therefore, we write to inform you that the installation of two additional smoke curtains to
+the locations indicated and in accordance with the scope and design requested / acknowledged by you,
+will, when properly instructed, will result in substantial changes to our original scope of Works. Such
+changes will include inter alia the following, involving coordination of numerous subcontractors:
+•
+Installation of smoke curtains and associated systems;
+•
+Electromechanical installations;
+•
+Modifications to crush barriers;
+•
+Installation of steel structure; and
+•
+Additional gypsum walls to be added.
+SAA8 laid down mandatory procedures to be followed if additional works are required, and you have
+failed to follow these; an EI and VO are needed for us to proceed with the aforementioned changes.
+We therefore, take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
+Yours faithfully,

@@ -1,45 +1,66 @@
-Subject: Delay in Submission of As-built Drawings
-Dear Sir,
-Further to our letter ref. MTB/TCA/SMITH/L/000271 dated 17-Jan-18, regarding as-built drawing
-schedule, we regret to note that your as-built drawing submission schedule is yet to be received.
-In the absence of your response, with reference to the Target As-bu ilt Drawing Schedule Rev 02.1
-issued
-to yourselves under above mentioned TCAJV ietter, please be reminded that the scheduled dates are
-overdue.
-Moreover. it has been observed that your submission of as-built drawings of Pier 4 & Pier 3 have current
-ly
-become critical for the Project Handing Over.
-As per the Programme Rev. 10.4 and Project Close-out Forecasting Principle including As-built BIM
-Model
-submission and approval durations, final As-built Drawing submissions may not exceed the following
-latest
-dates for each stage of the building completion:
-• Pier 4 -- 03 May 2018,
-• Pier 3 -- 21 Jun 2018,
-• Pier 1 -- 12 Aug 2018,
-• Pier 2 -- 21 Sep 2018,
-• CP -- 16 Jan 2019 .
-Since the submission and approval of the handing over documentation is mandatory for obtaining the
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0263
 
-taking over certificate for each completion stage of the project, you are required to take the following
-necessary actions with immediat e effect:
-a) Provide mitigation plan (revised forecast dates) for all delayed as-built drawings.
-b) Provide revised submission plan for all balance as-built drawings in line with planned construction
-completion dates.
-c) Submit all balance as-built drawings for approval in an expeditious manner.
-d) Resubmit any Code 3 or Code 4 as-built drawings if applicable.
-e) Ensure compliance with CADD Manual Rev. 4 dated January 2012, Specifications Book 23,
-Appendix B.
-Subject AMC Area (Office Building) Outstanding & Interface Works Completion
-Dear Sir,
-Further to the above referenced letter (1) and (2) the Engineer would like to advise the Contractor that
-ARCO Interiors are progressing with their fit out installation works and in order not to adversely impact
-their progress we urge the Contractor to complete all outstanding and incomplete works in this Third
-Party, AMC area, Office Building L3.1, and ensure the completion of the snag and de-snag WIR process.
-The Engineer also highlights that the dates agreed in the coordination workshop on 27 February 2018
-between ARCO and the Contractor in the presence of the Engineer, regarding the completion dates of
-the interface services have been not been met despite the Contractor's commitment.
-The Engineer requests the Contractor to provide its completion strategy for the outstanding and
-interface works within the next 5 working days, upon receipt of this letter.
-Your urgent action in this matter is appreciated
+Delayed Access to Central Processor Retail Unit 2014 – Acts of Prevention on the part of Others –
+Delaying Completion of HVAC Testing and Commissioning Works
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A hereto, concern acts of prevention on the part of the Employer’s
+Other Contractor denying us access to Retail Unit 2014, which is delaying Testing and Commissioning
+Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Accordingly, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the delaying event described herein.
+ANNEX A
+Description of the Event
+On 1 April 2020, we submitted Re-Entry Permit / NOC RDD-1042, requesting re-entry / access to Central
+Processor (CP) Retail Unit (RU) 2014 to allow us to complete the Heat Ventilation Air Conditioning
+(HVAC) Testing and Commissioning (TC) Works. However, despite us raising RDD-1042 on 1 April 2020,
+it took you five (5) calendar days later, until 6 April 2020 to respond; which even allowing a nominal
+three-day turn-around time for you to process, meant it was returned two calendar days late (Table 1
+below, refers).
+Table 1
+NOC No.
+Rev
+Unit
+Description
+Date Request Issued
+[TCA JV to CMA]
+Response Due Response Received
+Reply Overdue By
+[calendar days]
+RDD-1042
+0
+2014 HVAC Testing and Commissioning
+01-Apr-20
+04-Apr-20
+06-Apr-20
+2 days
+Notwithstanding the late response, we further note that RDD-1042 had been returned back classified as
+“Rejected”, due to the Employer’s Tenant Contractor (M/s BWI) stating:
+“BWI Comments for RDD Permit: 1. BWI Storage area for tools and materials. No storekeeper and area is
+fully congested. Will approve once we are back on site”.
+We were informed of this by your e-mail dated 6 April 2020 [2:20 PM]. However, when we enquired as
+to when M/s BWI would be back on site, you informed vide e-mail also dated 6 April 2020 [6:02 PM],
+that the Employer’s Tenant Contractor “will be back at site in 20th of April” (refer to Figure 1). We then
+wrote to you again by way of a further e-mail dated 7 April 2020 [8.54 AM], giving you advance notice
+that this ‘event’ is “delaying our works” (copies of our various e-mail exchanges are attached at Annex B
+hereto):
+Figure 1
+
+However, despite you advising us that the Employer’s Tenant Contractor would return on 20 April 2020,
+this failed to happen. In fact, at the date of drafting this E-Notice (6 May 2020), we have yet to be
+provided access to RU-2014 to complete our Works. This is ‘act of prevention’ is entirely beyond our
+control and responsibility and is preventing us from completing testing and commissioning; and is likely
+to prevent us obtaining the Building Completion Certificate (BCC). This is critical in us achieving
+completion of Milestone MS09B and will invariably prevent us from achieving Substantial Completion
+(i.e. Milestone MS09C).
 Yours faithfully,

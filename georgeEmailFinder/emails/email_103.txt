@@ -1,23 +1,25 @@
-Subject: Request for Engineer's Instruction [RFEI/0401/0686]
-Dear Sir,
-Deflector 'Back-Pan' Flashing at Bottom ACP for Water/Sand Protection
-The Contractor refers to its Request for a Variation Order No. 1511 {1} in respect of the Consultant's
-direction that a deflector 'back-pan' flashing is added at the bottom of the aluminium composite panels
-(ACP}.
-Please note that neither the typical Tender/IFC section details of the roof edge panels indicate any
-'backpan'
-flashings to the ACP cladding nor does Specification 074101 identify such requirement; however,
-during the shop drawing review process, the Consultant directed the Contractor to add the said 'backpan'
-flashings to avoid accumulation of both sand and water. The Contractor further notes that, it was only
-when the deflector 'back-pan' flashings were incorporated to the subsequent revision of the abovelisted
-shop drawings that the Consultant assigned a code-2 to these submissions enabling the Contractor to
-proceep with the works.
-The Contractor confirms that early notice was given to the Engineer that these works constitute a
-Variation to the Contract and, moreover, the issuance of a formal Variation Order has already been
-requested (1}; yet, the Engineer's assessment of the Contractor's entitlement has not materialised to
-date. The Contractor requests therefore that the Engineer reviews the information provided and
-confirms
 
-that the deflector 'back-pan' flashing shall be installed via an Engineer's Instruction pursuant to Clause
-20.1.1{a) of the Conditions of Contract to enable the Contractor to proceed with the additional works.
-Yours faithfully
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 249 [post-SAA8]
+Absence of CMA and Profire Quality Control Inspectors (COVID-19)
+Dear Sirs,
+On 2 April 2020 we received letter ref: (1) from our Electrical Subcontractor (ANEL Emirates) notifying us
+that “without notice”, the CMA and Profire Quality Control (QC) Inspectors who were “supposed” to
+carry out the WIR inspection scheduled that day, did not report to site due to the COVID-19 issue.
+This is just one of many related issues that are continuing to delay and disrupt the progress of the
+Works, and clearly is having a direct impact on the completion and testing of the Electrical Systems
+installations.
+The failure of CMA and Profire Inspectors to attend the site, constitutes acts of prevention and/or
+breaches of Contract on the part of the Employer / Employer’s Personnel and / or Consultants, and
+accordingly we give you notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our
+right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Finally, in order to avoid a potential reoccurrence of the above “no show” on the part of your inspectors,
+can you kindly advise the inspectors’ working arrangements going forward so that we can plan
+accordingly.
+Yours faithfully,

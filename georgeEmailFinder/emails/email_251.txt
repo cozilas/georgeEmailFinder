@@ -1,30 +1,77 @@
-Subject: Re:Notice of Back Charge- Ms. Cloisall's Damage Notification on Pier 3 Level 2 Zone 3
-Dear Sir,
-We are in receipt of M/S Cloisall letter referenced (2) above and enclosed herewith which is selfexplanatory, regarding the damage caused as per the subject matter. Further to our review on the
-content of the abovementioned letter and previous correspondence related to the foregoing, we are of
-the opinion that you have not provided any records regarding the damage on the Glass Fin mentioned in
-your letter referenced (3) above.
-You are hereby requested to submit a damage report and/or any other records to substantiate your
-allegation mentioned in your letter referenced (3) above stating that the damages arose as a result of
-“our site team damaging a glass panel” installed by you whilst erecting the scaffolding for the ceiling
-works. As a result, it is noted that no clear evidence has been provided as proof that the damage, was
-actually caused by the wrongdoing of others. Moreover, you are reminded of your obligation to submit
-all evidence for any alleged damage in a timely manner.
-Furthermore, your statement that reworks for the replacement of the glass fin were “carried out in a
-congested area which unfortunately lead to the ceiling being damaged” does not relieve you from your
-responsibility to take care of any part of the Subcontract Works.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0184
+Engineer’s Unreasonable Snagging Comments regarding Sprinkler Installation at Pier 4 Sector 4.14C–
+Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate Variation / Change
+into Works
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters discussed in Annex A hereto, concern delays associated with the receipt of unreasonable
+snagging comments associated with the Sprinklers installation located at Pier 4 Sector 4.14C.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We write to notify you of our concern in relation to the following unfounded comment received from
+you via the ZUTEC system with Snag ID 211199 in the manner shown in Table 1 below, in relation to the
+sprinklers installation located at Pier 4 [above Level L3 ceiling] allegedly not being “…compliant…”
+Table 1
+Snag ID Date Active /
+Passive Level Room /
+Area System Defect
+Category
+Defect Description
+211199 24-Nov-19
+Passive L20
+SUBZONE-5E Sprinklers
+24 - Non-compliance with
+applicable standard/s “Installation of sprinklers is not compliant for the void area. Sprinklers are
+installed to a portion of the void space above Level 3 ceiling, central circular area above plant rooms and
+HVAC installation.”
+As noted, you allege that the “installation of sprinklers is not compliant for the void area [and that
+these] Sprinklers are installed to a portion of the void space above Level 3 ceiling, central circular area
+above plant rooms and HVAC installation”. Accordingly we have taken the liberty of attaching a marked
+up copy of the approved Shop Drawing No. 401-EF-F-02-31-4.14C-FF-SD-001 indicating the current IFC
+design pertaining to the sprinkler requirements to the noted areas which for ease of reference have
+been identified as ‘Void Space A’ and ‘Void Space B’ in the manner illustrated in Figure 1 below:
 
-Despite the lack of evidence provided thus far, we confirm that all information has been forwarded to
-M/S Cloisall for their review. Should M/S Cloisall provide any comments, these will be forwarded to you
-in due course. However, in absence of such information as stated above, such allegations cannot be
-ascertained.
-Furthermore, without prejudice to your rights under the Subcontract Agreement, we hereby notify you
-of our intention to close this issue should you fail to provide satisfactory records to substantiate your
-allegations.
-To conclude, failing to provide evidence as stated above, we shall hold you responsible and back charge
-all the reinstatement cost and other associated cost from your account according to the Conditions of
-Subcontract Agreement Clause 10.3 (Contractor's Claims) and Clause 12.12 (Other Contractors and
-Other Subcontractors) whereby you are liable for the loss and damages arising out of your action.
-The above is for your information and further action.
-
+Figure 1 - Extract of Shop Drawing No: 401-EF-F-02-31-4.14C-FF-SD-001
+indicates current IFC design requirements to void areas
+In this regard, we note that the Works associated with the installation of the sprinkler system located at
+the area of L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C, have been completed based on the IFC
+Drawings prepared by the Employer’s Design Consultant and issued by you. As mentioned above, the
+shopdrawing (Figure 1 refers) representing the IFC scope has also been approved by you.
+It is evidently clear that the sprinkler system shown in Figure 1 has been constructed in accordance with
+the approved Design. Hence, your statement suggesting that the “Installation of sprinklers is not
+compliant for the void area” is erroneous and cannot be accepted and is refuted accordingly.
+Given the approved Design, there is no requirement to install a Sprinkler System to ‘Void Space A’ as
+shown in Figure 1 above. For this reason we have responded to your comment via ZUTEC as follows:
+“Noted. Commented Void area is above the non-combustible room areas (staircase, ELV, SCR, Lift,
+Electrical closet) and same was approved without sprinklers. Refer [to] code 1 shop drawing 401-EF-F02-31-4.14C-FF-SD-001 rec-02 CODE 1 attached.”
+Furthermore, we note that the Works discussed herein for the Sprinkler System installed at the area of
+L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C, have been approved and handed over by us
+through Work Inspection Requests (WIR) and Works Completion Inspections (MCI). Consequently, you
+had every opportunity to raise any concern in relation to the installation of the Sprinkler System to this
+area prior to the handing over of the Works, but you failed to do so.
+In summary therefore, any further requirement to install an additional Sprinkler System to the area of
+L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C represents a change to the IFC Design.
+As you know, SAA8 laid down strict guidelines to follow if additional works are required and this appears
+to have been ignored. Hence this change will warrant a valid Engineer’s Instruction (EI) and a Variation
+Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with the express
+requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
+continue to proceed in accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

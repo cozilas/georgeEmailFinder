@@ -1,21 +1,37 @@
 
-Subject: Contractor's Claim: Compensation for the Employer's breach of Contract
+Subject Damage to Live Fire Line on 15 September 2019
 Dear Sir,
-The Contractor, pursuant to Sub-Clause 27.1.1 [Contractor's Claims] of the Conditions of Contract,
-hereby submits a Contractor's claim for compensation due to a breach of Contract by the Employer.
-The event or circumstance giving rise to the claim is as follows:
-The Contractor refers to the Specification Section 013115 [Coordination with Tenant Areas] Article
-1.5.(C), which states that: "To keep continuity within the MTB Construction Phase, the Tenant
-Contractors shall use the Contractor's major subcontractors including but not limited to; all Systems {IT,
-PA, Security and etc.}, Electrical, Plumbing, HVAC, and Waterproofing as based on unit rates from the
-BOQ. These various subcontractors shall be directly contracted to the respective Tenant Contractors"
-(emphasis added).
-The Contractor has been notified by our Electrical Subcontractor, through its letter reference: (1) above,
-that the electrical installation in the arcade retail circulation area was NOT carried out by our Electrical
-Subcontractor. We consider this as a breach of Specification Section 013115, and as such a clear breach
-of Contract by the Employer.
-In view of this breach, the Contractor hereby submits our claim for compensation, which is based on the
-Contractor's lost profits and lost overhead, which has been calculated based on unit rates in the BOQ
-and the quantities as per our Electrical Subcontractor's proposal to carry out the electrical installation in
-the arcade retail circulation area.
+We refer to the incident that took place on 15 September 2019 whilst conducting drilling works for the
+permeation grouting which clashed with a live fire water main and resulted in significant water loss
+into the surrounding ground and we raise the following concerns:
+1. The Contractor failed to adhere to their approved Method Statement, Risk Assessment and
+Project Health and Safety requirements at all times.
+2. The Contractor failed to submit an initial investigation and incident report indicating the root
+cause of this event, within 24hrs of the incident.
+3. To date, the Contractor has failed to report any water seepage I damage to adjacent areas
+that may be impacted by the incident.
+4. To date, the Contractor has failed to survey all existing and known monitoring points, in order
+to determine if any noteworthy change has occurred.
+5. Many of the current As-built Drawings have yet to achieve Code 1 status. The Contractor is
+therefore unable to rely on this information and must exercise all caution at site to verify the
+location of utilities, both permanent and temporary. This is not just limited to the MTB
+Contract but other interfacing Contracts and temporary works installations that may have
+been installed by others.
+6. The Contractor has failed to evaluate at site the accuracy of their As-built Drawings I BIM
+modelling with regard to permanent and temporary utilities I services, and provide a list of all
+latest drawings being utilised at site. A permit to excavate I drill must be developed with an
+adequate clearance form signed off by the Contractor and all relevant Subcontractors and the
+respective HSE department, prior to commencing works.
+7. Given the above failures, the Contractor is to demonstrate the integrity of their procedures
+
+through identifying existing underground utilities and services via trial trenches, scanning
+equipment, red-line marking, etc. and to establish necessary precautions, permits, and
+incident response plans for drilling around live/existing utilities.
+8. The Contractor is to consider submitting a setting-out survey report for the drilling location
+and justify and verify any clashing between utilities and drilling points.
+We advise that the Contractor will be held responsible for all costs associated with any remedial works
+necessary and that may be required to the surrounding ground consequent to any damage as a result
+of collapse due to the water accumulation within the open trenches.
+We hereby reserve the Employers' rights under Clause 10.3 of the Conditions of Contract for any
+delays and damages associated with the above.
 Yours faithfully,

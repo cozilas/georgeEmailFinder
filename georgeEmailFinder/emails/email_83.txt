@@ -1,198 +1,103 @@
-Subject:
-
-Extension to the Subcontract Time for Completion & Prolongation Cost Claims
-
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0209
+Power Supply & Distribution Box/Consumer Unit serving Fibre Consolidation Points (FCP) to FIDS
+– Request for IFC Drawings & Engineer’s Instruction
 Dear Sir,
-We hereby write with reference to Chadwick Technology L.L.C. letters referred to above, and in
-particular, to letter reference ADIA-NG-0390 dated 21 February 2018 entitled “Extension to the
-Subcontract Time for Completion & Prolongation Cost Claim – Submission no. 4” wherein Chadwick
-claim for an Extension of Time (EoT) of 1,230 days to the Works along with financial compensation in
-amount of AED 149,253,815 for interim prolongation costs associated with alleged delay events up to
-28th September 2017.
-In Chadwick’s narrative, Chadwick contends that it was prevented from starting the roofing works at the
-north‐west section of the Main Roof (gridline RP5 to RP0) in line with the original plan of the approved
-Subcontract Programme. Chadwick also contends that it was the Contractor’s failure to provide access
-to the steel structures in accordance with Appendix 5.A of Schedule 10 and the approved Subcontract
-Programme, and failure to complete the necessary steel purlin modifications to kitchen exhaust towers,
-specifically at gridlines RP5‐RP4, and the Contractor’s subsequent instruction to withhold decking works
-at gridline RP2‐RP0, all at the Main Roof. This, Chadwick claims, resulted in 1,230 days critical delay as of
-the cut‐off date of 28th September 2017.
-Chadwick follows by stating in the Executive Summary of its claim that it incurred critical delay and
-disruption to its Subcontract Time for Completion and its Subcontract Programme as a result of these
-delay events and is therefore entitled to an extension of the Subcontract Time for Completion,
-additional Costs, Loss and Expense and the right to Adjustment to the Subcontract Price. The claim
-submission relies on these delay events affecting the Central Processor (CP) Area, with the main driver
-of delay being the delayed access to the CP’s Main Roof.
+We refer to your letter ref: (1) following issuance of E-Notice No. 0209 (ref: 2) in which you aver inter
+alia that as the event was a known event prior to the effective date of SAA8 there is no entitlement to
+any additional time and / or cost, and our request for an Engineer’s Instruction is rejected.
+For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
+you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
+The facts of the matter remain as follows:
+•
+On 31 May 2017, we raised RFI/0401/14089 requesting updated small power layouts with
+power circuits for a number of items, including Dynamic Signs / FIDS and Fibre Consolidation Points
+(FCP).
+•
+As part of the reply received on 2 July 2017, the Employer’s Design Consultant [KPF] advised:
+“The Dynamic Signs that are to be connected to the 18 feeders available under [Bulletin] B227 are
+shown on the attached sketches” while “The power supply to the FCPs ... will be further detailed in the
+ongoing exercise that will be sent to the Contactor in due course for levels L0.0 and L2.0.”
+•
+On 7 August 2017, we received a Rev. 01 response to RFI/0401/14089, in which KPF advised us
+that “where ‘Future Provision’ is indicated … Contractor needs to install necessary containment to the
+Dynamic Sign Location,” while in relation to the Fibre Consolidation Points, KPF advised: “The power
+supply to the FCPs [for levels L0.0 and L2] ... is … detailed in the [attached] spreadsheet …”
+•
+The spreadsheet shows FCPs referring to ‘Future Provision (Bulletin 227.1 not issued)’; in other
+words, the requirements remained unclear and the electrical design was not yet available; hence it was
+reasonable to assume that details of the ‘power supply to the FCPs ... will be further detailed” as part of
+“the ongoing exercise” and would be issued in due course as part of Bulletin 227.1.
+However, Bulletin 227.1 was never issued.
+•
+On 5 September 2017 we advised you Power layouts were not included in the Rev. 01 response
+and urged you to “issue IFC documents immediately to allow us to proceed engineering …and
+procurement” and “FCP / outdoor access points …. are missing on the layouts …”
+•
+On 14 May 2018 you advised us the final load design of the distribution boards was closed in
+BP66; while the location of the FCP/outdoor access units were determined based on heat map studies.
+Again, you failed to provide the requisite IFC Drawings.
+•
+On 29 April 2018, we raised RFI/0401/16011 entitled ‘Requirement for Additional FCP Data
+points for Outdoor Wifi locations in Level 0.0’, in which we recorded that outdoor wi-fi access points had
+been provisioned in order to meet the wi-fi coverage requirements. We further recorded that there was
+currently no provision for the related data outlets shown on any of the IFC Drawings.
+•
+We advised: “In order to activate the Wifi access points, additional FCP data points along with
+related Power and FCP switch will be required to establish the network connectivity for the Wifi” and
+requested you provide us updated IFC Drawings showing the related FCP data outlets.
+•
+You responded on 22 May 2018. The response stated:
+The location of the supporting services for Wifi (power and data) is our responsibility.
+The location of the WiFi is our choice.
 
-Moreover, Chadwick asserts and considers in its claim submission that the delayed access to the Central
-Processor (CP) Area is a Contractor Culpable Event. Chadwick further contends it was the Contractor
-who failed in its’ obligation to provide access to the Subcontractor in accordance with Schedule 10 and
-the approved Baseline Rev. 1 Subcontract Programme and Clause 10.1.
-TCA-JV hereby notes that Chadwick’s previous Extension of Time (ADIA-NG-0355 dated (3rd September
-2017) was for 1,040 days with interim prolongation costs claimed AED 126,903,815.00 for delay events
-up to 29th June 2017 and anticipated the Completion Date with the requested extension of time as 11th
-August 2018.
-It is TCA-JV’s view that Chadwick Technology has failed in its various claim submissions to prove its
-compliance with the Subcontract's contractual requirements as listed below. Should Chadwick believe
-that this is not the case then TCA-JV welcome a response from Chadwick setting out the facts and
-demonstrating that Chadwick has complied with its necessary obligations under the Subcontract.
-Notwithstanding the foregoing, and on a without prejudice basis, TCA-JV herewith comment below on
-the substantive issues in relation to the claims submitted;
-EoT Claim Comments;
-We hereby note the following comments on your claim for extension of time that renders it incomplete,
-non-compliant and currently unacceptable, and request that Chadwick to revise its’ submission in light
-of the said comments:
-Chadwick’s Programme used in the Delay Analysis:
-The delay analysis was conducted on a programme other than the approved baseline programme, and
-other than the programme which was amended by Chadwick and based on their request and later on
-agreed by TCA-JV to correct the scheduling anomalies that were present on Chadwick’s baseline
-programme as per Appendices.
-The subcontract allows for Schedule changes provided that a compelling reason for such change is
-present and justifiable (such as an incorrect links, or other major flaws), and conditions the approval of
-such changes by the second party in order to accept the use of such changed programme. Instead,
-Chadwick’s approach in its current delay analysis is to keep introducing changes to the programme logic,
-durations and dates across each claim window in a compounded manner, which is not an acceptable
-practice, neither industry wise or contractually.
-Developing a claim on a programme that is constantly changing logic at each time window without any
-support as to why a logic change was introduced in a claim-window (which is what Chadwick has
-conducted), and without prior consent from TCA-JV, renders Chadwick’s delay analysis to be non-
-
-credible. It lacks a common base with its’ previous analysis windows and subsequently renders the
-outcome to be invalid.
-We also note Chadwick’s failure to follow TCA-JV’s revised programme under the HoA Agreement
-(Revision 6 Programme) when Chadwick was instructed to do so (please refer to JV’s letter 17th March
-2015 reference MTB/TCA/CHADWICK/L/000205) and Chadwick’s failure to provide a revised programme
-of its own that copes with an updated project delivery strategy which was instructed by the Employer
-and fully communicated across the entire project, and which was followed by all parties concerned.
-This particular case shall be viewed in line with the contractual sub-clauses 16.3.5 and 16.5.9.
-Periods and Method used to conduct Chadwick’s Time Impact Analysis:
-The delay analysis was conducted on time windows of ‘three months’ which is larger than the
-contractually stipulated ‘monthly’ intervals for interim claims, which, in addition for not being
-contractually compliant, does not serve as a good representation to the overall performance of the
-project as a whole during the claimed window(s).
-It is also noted that the “FRAGNETS” used to describe the delay event is assuming the effects stretching
-into unsubstantiated and assumed ‘future dates’ and thus creating an overly prospective impact that is
-not being supported or proven to be of the factual case.
-Despite Chadwick’s submission dates of these interim claims well beyond and after the delay fragnets, in
-addition to the above, TCA-JV notes that the data records in Chadwick’s claim windows are not aligned
-with the data records that Chadwick has reported / communicated in its weekly or monthly reports
-under the same periods.
-We also note other anomalies with Chadwick’s claim programme data and the progress trackers
-Chadwick is reporting to the project team. In this regard, Chadwick is instructed to correct the duration
-of its claim windows to fit the contractual stipulated time, and to employ the correct ‘Time Impact
-Analysis’ approach, while maintaining to use the correct data records in its analysis programs as to avoid
-to over-delay or stretch delay events.
-Events used in Chadwick’s Claim:
-Chadwick’s submitted extension of time, claims compensation for the entire project, whilst its analysis is
-based on a fractional analysis that is restricted to a limited event namely ‘access delays’ in the ‘Central
-Processor Roof Cladding’ areas only, whilst overlooking other events in the same area, and other events
-that occurred in other project areas such as the Piers, Gatehouses, Wrappers, Infills and Skylights. In this
-regard, such an abstract partial event claim made into a time window is deemed partial, incomplete and
-unacceptable.
-
-TCA-JV’s records indicate that other events in the Central Processor area, either Employer related, or
-Subcontractor culpable related, were overlooked while certainly having an effect on the overall progress
-and completion of the works. These events need to be incorporated into Chadwick’s analysis in order to
-comprehensively allow TCA-JV to assess Chadwick’s entitlement for time and cost compensation.
-Moreover, we also note that whilst the Central Processor areas were part of the initial Critical Path of
-Chadwick’s approved baseline programme, other delays in other areas that happen to form a larger
-percentage of the project workload rendered these areas to be critical as well, and by Chadwick
-overlooking these events, their respective effects from its analysis is unacceptable as it deems the
-outcome of Chadwick’s analysis to be limited, restricted, partial and incomplete.
-Accordingly, Chadwick’s delay analysis needs to be revised and resubmitted as to include all known
-events that affected all of the project areas of Chadwick’s scope of works, and caused by all parties, be it
-Chadwick delays, Employer delays (Bulletins and Briefing Packs), Main Contractor delays, and/or other
-Subcontractor delays. This is required in order to establish the net time and cost entitlement in a fair
-and reasonable way to allow the parties to concentrate its efforts to draw to a net entitlement and fair
-determination.
-Chadwick’s Mitigation and Concurrency:
-Chadwick’s extension of time requests and the associated delay analysis did not include any
-consideration towards establishing mitigation measures, and it has failed to demonstrate concurrent
-delays caused by Chadwick, despite both requirements being part of Chadwick’s contractual
-requirement (refer you subcontract clauses and Particularly the Specification of “Program Project
-Control Requirements”.)
-
-Chadwick’s Mapping Notices against Delay Events:
-Chadwick should accompany its’ time impact analysis submission with a detailed schedule of the delay
-notifications that it has issued along with an allocation of the notification toward the event presented in
-its’ EoT Submission. In addition, Chadwick needs to attach physical copies of the notifications
-themselves to the submission.
-Establishing Entitlement - The Relationship between Extension of Time and Prolongation Costs:
-It is noted that entitlement to an extension of time does not automatically entitle the Subcontractor to
-prolongation costs incurred due to the additional time required to complete the Works. The Subcontract
-
-does not provide a direct link between an entitlement to an extension of time and the entitlement to
-compensation for the additional time spent in completing the Works.
-Despite this, Chadwick asserts an entitlement to additional payment for its prolongation and disruption
-costs, pursuant to Clauses 16.5 [Extension of Subcontract Time for Completion] and 27.1
-[Subcontractor's Claims]. These clauses do not, in fact, create any basis or grounds for additional
-payment for prolongation and disruption costs as alleged. Clause 27.1 is a procedural clause concerning
-the notification and submission of claims, and as such, Chadwick has so far, failed to establish any bona
-fide basis or grounds for its claim. Accordingly, Chadwick must establish an entitlement to claim
-additional payment for prolongation and disruption costs (or any other additional payment) by specific
-reference to the Subcontract giving rise to an entitlement to an additional payment.
-Upon review of Chadwick’s prolongation costs (ADIA-NG-0363 Dated 30.Sep.17) the costs submitted
-should be actually incurred and calculated during the periods when the delaying events impacted the
-progress of the Works, and under the various different locations of your works on site, not over the
-extended duration at the end of the subcontract period. Accordingly, Chadwick’s entitlement to
-additional or increased costs must be clearly linked to the actual delay event, in specifically affected
-areas of the works on-site, and to the period where the actual delay was experienced.
-Chadwick is thereby required to separate its resources and associated costs under prolongation to be
-apportioned into the following sections of its scope of works, this to further compliment the individual
-areas of its works which were, or may have been effected by different delaying events (not just relative
-to Central Processor).
-a.
-b.
-c.
-d.
-
-Central Processor
-Piers & Gatehouses
-Wrappers & Infill
-Skylights
-
-Upon review of Chadwick’s Staff Costs, Chadwick is further required to separate its staff resources and
-associated costs under prolongation to be apportioned under the following criteria headings;
-1.
-2.
-3.
-4.
-5.
-
-Indirect Staff
-Direct Staff
-Core Staff
-Location Staff
-Task Staff
-
-(considered as prolongation)
-(not considered as prolongation, i.e. – production related staff)
-(general staff related to all the works & activities – full scope)
-(specific to separate locations or sections of scope on site ‘a to d’)
-(specific to individual tasks in separate locations on site)
-
-In relation to the following heads of claim (1 & 2 below) which were submitted by Chadwick as separate
-claimed amounts, these costs have not been substantiated in any format or quantitative manner.
-Therefore, the JV cannot adequately assess these costs for there is currently nothing available to review
-or assess. These costs are global and have no substantiated information provided to them to
-
-demonstrate how they were calculated or justified as actual costs/claims incurred with relative
-substantiation. Chadwick is to provide further substantiation in relation to these heads of claim if any
-real assessment is to be carried out.
-1.
-2.
-
-Disruption Costs
-Escalation Costs
-
-Chadwick’s claim fails to apply and link any purported costs to the periods where excusable and
-compensable delays were actually experienced, instead referring to the total overrun period beyond the
-Time for Completion (extended completion dates).
-Once Chadwick establishes adequate entitlement to prolongation costs by virtue of an excusable and
-compensable delay event, it is required to demonstrate that it actually suffered loss and/or expense
-under such an event at the time the event occurred and under the specific location or section of works
-on site.
-For the avoidance of doubt, the above is not, of itself to be considered as an admission of any
-entitlement to an extension of the Time for Completion and/or payment of additional Costs, nor does it
-constitute a waiver of any of the terms of the Subcontract.
+Provision of power and data is our responsibility.
+Should a WiFi device require new power and data, we were to relocate and coordinate.
+•
+While we are clear about the requirements relating to the power and data provisions for the
+Wifi, the response completely overlooked what was being asked in relation to the power supply
+requirements for the additional FCPs; there was no mention whatsoever regarding the FCPs.
+Again, you failed to provide the requisite IFC Drawings.
+•
+The matter however fell silent until receipt of your e-mail dated 25 June 2019 issued in relation
+to the ‘External FIDS / IP65 Enclosure’, where you advised that “you are to follow the IFC …”
+•
+Following which, on 29 December 2020, you then wrote informing us that:
+“The delivery of the Wi-Fi and Security equipment (Cameras) functionality is to be treated separately
+from the external Signage Power (Bulletin 227 Rev 001) given the fact that the Contractor was fully
+aware that the FCP needed power to deliver the full functionality of the Security Cameras and Wi-Fi as
+per the DPS Specification which was never descoped.”
+•
+You have since repeated this exact same sentence in your letter ref: (1).
+As noted in our letter (ref: 2): we are fully aware the FCP needs power to deliver the full functionality of
+the Security Cameras and Wi-Fi. This is not the issue. The issue is the lack of IFC Drawings showing the
+power supply requirements for the additional FCPs located within the FIDS. As was clearly set out in
+letter ref: (2): Given the continued absence of us being provided any IFC Drawings, then how are we to
+know what those power requirements are in terms of cabling and consumer units etc.?
+It is patently clear that rather than address the issue and provide us the updated IFC Drawings, you have
+elected to ignore the evidence of fact described above or missed the crux of the issue entirely.
+Our position remains as set out in letter ref (2). we have no design liability under the Contract to design
+the power supply requirements for the FCP devices in the external signage, and urge you to liaise with
+the Employer’s Design Consultant, KPF, whose liability this is, and between you, provide us properly
+coordinated and fully detailed IFC Drawings reflecting the FCP power provisions under cover of an EI.
+However, despite our repeated requests, including without limitation, those raised on 31 May 2017, 5
+September 2017 and 29 April 2018 [described above], you have consistently failed to provide the IFC
+Drawings showing the power supply requirements for the additional FCPs located within the FIDS.
+It is because of these failures [acts of prevention] on your part and the part of the Employer’s Design
+Consultant that this issue cannot possibly be construed as forming part of the ‘Included Circumstances’
+per Clause 1.7.4 of SAA8. As previously stated in ref: (2); SAA8 cannot reasonably be interpreted as
+requiring us to absorb delays of unknown (possibly unlimited) duration occurring pre/post 4 September
+2018, particularly where the resolution of the matter causing the delay remains with the Employer / the
+Employer’s Personnel / the Consultants. We remind you that the Employer’s Design Consultant
+previously assured us in its Rev 00 and Rev. 01 responses to RFI/0401/14089 that the power supply to
+the FCPs would be “further detailed …in due course”, while the response to RFI/0401/16011 ignored our
+request to be provided with updated IFC Drawings showing the related FCP data outlets entirely.
+The continued failure on your / the Employer’s Design Consultant’s part to provide us with IFC Drawings
+in confirmation of the power supply cables and distribution box/consumer units serving the FCPs to the
+FIDS to Levels L0.00 and L2.0, is continuing to affect commissioning of the security cameras and Wi-Fi;
+and will invariably impact on our ability to obtain the Building Completion certificate (BCC). This is
+essential to achieving Milestone MS09B and will invariably impact MS09C (Substantial Completion).
+Consequently, and contrary to your assertion in letter ref: (1), our E-Notice No. 0209 does have merit.
+In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

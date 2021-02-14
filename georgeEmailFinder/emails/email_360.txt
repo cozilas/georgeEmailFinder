@@ -1,17 +1,72 @@
-Dear Sir,
-lan Neville - Project Director
-AUH.06.10.0401
-Midfield Terminal Building- General Contractor
-SC/006- MEP Work (Mechanical Works)
-Nil
-Contractor's Instruction Ref: Cl/00603 - Instruction to Proceed with Plumbing &
-Drainage Works to Security Booths on DAS Bridge, L2.0 Departure Curb
-Please find attached Contractor's Instruction Ref: Cl/00603 which is self explanatory.
-In pursuant to Clauses 11.3 and 20.1.1 (a) of the Conditions of Subcontract, you are hereby instructed to
-proceed with the works as specified therein.
-Whilst this instruction is issued in pursuant to Clause 20.1.1(a), the Subcontractor will be required to
-demonstrate contractual entitlement to a Variation for each and every item and provide all the
-necessary
-substantiations to verify the cost of each potential Variation.
-Your cooperation to carry out the above Instruction with due expectation is required .
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0120
+
+Delays Cause and Effect Testing and Commissioning due to Delayed Response to NOC Request to Create
+Opening within AMC Walls to Level L3.1 to install Fire Smoke Damper Actuators, FSD-CS-L3.1-017 and
+027 and Failure to Issue an Engineer’s Instruction to rectify damage caused by Other Contractor
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Annex A records delays to the cause and effect testing and commissioning due the delayed receipt of an
+NOC approving the installation of two Fire Smoke Damper Actuators, to the Airport Management Centre
+(AMC) to L3.1, as well as delayed receipt of an instruction to rectify damage to power cables.
+Potential Impact
+Disruptions and delays on the part of others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+Ordinarily we would be requesting your prompt action, guidance, decision or further instruction as may
+be applicable to resolve the matters referenced herein in order to mitigate such delay and/or disruption
+to the Works. However, on the basis the NOC was issued, there is no action on your part.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 30 June 2019, we wrote under letter ref: (1) requesting you to provide the necessary approvals /
+NOC to create an opening within existing [false] walls to the Airport Management Centre (AMC) to Level
+L3.1 to install two Fire Smoke Damper (FSD) Actuators, FSD-CS-L3.1-017 and FSD-CS-L3.1-027.
+Attached to our letter ref: (1) was a request for installation issued by way of No Objection Certificate
+(NOC) ref: No: N-441, two photographs (one for each FSD Actuator) plus a marked up IFC Drawing. We
+also identified that the ‘Duration’ of the noted installation Works was 10 days.
+You failed to reply. This caused us to forward our NOC request to the Employer by e-mail dated 8 July
+2019 [10:40am] (ref: 2) requesting “urgent approval” in order to proceed with the works.
+The Employer failed to reply also.
+We then e-mailed you on 21 July 2019 [at 3:44pm] (ref: 3) in which we notified you of the following:
+“We have not obtained attached NOC last 3 weeks and it is affecting directly Office C&E. Please provide
+advance NOC to start balance works asap.”
+The approved NOC was eventually received on 24 July 2019 attached to your Transmittal Advice No.
+MTC-CMA-TCA-0401-TML-06426, also dated 24 July 2019 (ref: 4) duly signed by the Employer’s Other
+Contractor, ARCO, as well as yourselves (AECOM) together with a series of four (4) comments; i.e.:
+1.
+“To coordinate with ARCO site Engineer”;
+2.
+“Opening to be done to allow T&C for fire alarm interface”;
+3.
+“Photos attached for the FSD behind wall base build by ARCO”; and
+4.
+“TCA JV to be responsible for any damages.”
+We record that 24 July 2019 is 24 calendar days after our NOC request was initially issued, which at this
+late stage of the Project may have a consequential impact on our progress and delay us.
+We also take this opportunity in reminding you of another factor affecting completion of the cause and
+effect testing and commissioning and that is the rectification of the damage to the previously handed
+over fire and life safety services within the AMC Room to L3.1 caused by the Employer’s Other
+
+Contractor, for which an Engineer’s Instruction is required and remains outstanding. Our earlier letters,
+including without limitation, letters dated 11 February 2018 and 12 March 2018 refers ref:
+MTB/TCA/AECOM/L/012420 and MTB/TCA/AECOM/L/012610 respectively; with the latter letter
+advising you that a formal Variation Order / Engineer’s Instruction shall be required for inter alia “reinstallation and re-testing and commissioning and for the certification process.” Moreover, despite a
+subsequent NOC request having been approved under your Transmittal Advice MTC-CMA-TCA-0401TML-05881, allowing the damaged circuits to be rectified, the effected works have still failed to be
+remedied. Our letter dated 3 June 2018 (MTB/TCA/AECOM/L/013095) noting “…NOC is approved
+subject to agreed changes been recorded on a revise drawings and share officially with TCAJV”.
+We therefore urge you to issue the necessary Variation Order / Engineer’s Instruction together with
+revised Drawings without further undue delay; albeit any potential delays arising from this particular
+issue will be assessed from the Effective Date contained in SAA8 (i.e. 4 September 2018) on the basis it
+cannot possibly be constructed as forming part of the ‘Excluded Circumstances’ referenced therein.
+Resultant Impact:
+As noted above, the openings in the walls to the AMC are required to install two Fire Smoke Damper
+(FSD) Actuators, necessary to allow testing and commissioning of the fire alarm interface. However, the
+resultant delay in approving our NOC Ref: N-441 has the potential to cause delay and disruption to our
+Works. Not only does this potentially delay cause and effect testing and commissioning but will
+invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
+potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
 Yours faithfully,

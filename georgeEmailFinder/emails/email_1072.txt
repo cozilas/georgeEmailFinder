@@ -1,0 +1,22 @@
+Subject: Value Engineering Item Arch-91 Omit Adjustable Top Hats Sections at Main Roof
+Dear Sir,
+We write to advise the Engineer that Value Engineering Item Arch-91 savings have not been realized.
+Please be advised that the IFC Drawings were reissued as originally provided (i.e. by retaining the top
+hats). As such the Value Engineer Item savings were not realized as intended.
+The Value Engineering Item description states the following;
+' .. Omit the adjustable top hat sections at main roof. Rotate the structural metal deck on main roof by
+90 degrees and use deeper metal deck section to maintain overall roof build up height. No impact on
+form and curvature of roof profile is accepted ... '
+Given the minimum radii of 16m (N-S direction) and 448m (E-W direction) and the purlin geometry, it
+appears that it was not possible to maintain the original double curvature/warping of the roof. We
+therefore conclude that the Employer requires the top hats in order to maintain the original shape of
+the roof.
+Based on our own investigations, it became abundantly clear that a facetted profile cannot be
+overcome by modifications to the supporting structure of the roof. This conclusion is supported by
+our specialty Subcontractor M/s Chadwick SEC (LLC) as per the enclosed hereto letter ref. ADIA-NG0039 dated 17 July 2013.
+Furthermore, Arch-91 was proposed solely on the basis of omitting the top hats as defined for the
+Value Engineering Item. Clearly this was not achievable without reverting to the top hat such than
+" ... No impact on form and curvature of the roof profile."
+Having reinstated the top hats, we respectfully request that the proposed Value Engineering Item
+savings for Arch-91 be returned to the Contractor.
+Yours faithfully,

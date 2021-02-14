@@ -1,38 +1,27 @@
-Stuart Matthews
-Subject: RE: Notice of Delay for Side Opaque Bridge Input Information
+Subject MTB Chilled Water Piping Rectification Works Due to Settlement of External CHW
+Piping-Request for an Engineer's Instruction
 Dear Sir,
-The Contractor confirms receipt of letter reference (1) wherein the Subcontractor claims that the
-Contractor's failure to provide the handrail and slab edge design details is having both cost and time
-impact on the Subcontract Works. To be clear:
-The Subcontractor shall provide its own framing following the structural IFC design and in line
-with the principles set out in the IFC architectural packages. This is clearly stated in paragraph 2 of
-the 'Narrative for Fa!;ade Package Subcontract' which is an integral part of Schedule 0 [Scope of
-Subcontract Works] of the Subcontract and reads as follows: 'The steel structure demonstrated on
-the architectural drawings is indicative only. The scope of steel structure works are clearly defined
-in the structural steelwork drawings (i.e. Books 2i, 2j and 2k}. The Facade Sub-Contractor is
-expected to provide all the framing system required to support his own cladding system and
-coordinate his works with all related trades including structural steel to provide a full solution'.
-The Subcontractor is still expected to resubmit its shop drawings for the approval of the fascia
-cladding considering the above and in accordance with the modulation defined in (2) and (4).
-The Subcontractor is also requested to leave 350 mm at each side of its fascia joint to allow for
-the provision of a support framing for these handrail posts (if required).
-The Contractor is currently coordinating with the Other Subcontractor Leader Metal to obtain
-confirmation on the size of the penetration into the Subcontractor's top panel (if any is required);
-however, such detail requires KPF finalises the design for the additional steel frame to support the
-aluminium parapet and handrail at the opaque bridges. Please be aware that the Contractor has
-already notified the Engineer that any further delays in the completion of KPF's detailed design
-may impact the Works via its Notice of Likely Delay No. 2713 (3). Hence, the Contractor advises
-that the Subcontractor proceeds with the submission of its shop drawings whilst including a note
 
-on the drawings that the top panels will be finalised upon receipt of the final details from KPF. For the
-sake of clarity, the Contractor confirms that the design details pending confirmation shall not
-prevent the Subcontractor from submitting its shop drawings or continuing with the remaining items of
-work associated to this fascia.
-Subject:Prohibition Notice - Unsafe Installation of Arch Cladding Panels
-Dear Sir,
-Please find attached Prohibition Notice reference MTC-CMA-0401-HS-REP-SPN-00015 dated 26th
-February 2018 which is self-explanatory.
-Pursuant to Clause 11.3 [Instructions of the Contractor] of the Conditions of the Subcontract, you are
-hereby instructed to fully comply with the attached Prohibition Notice specified therein.
-Should you have queries, please do not hesitate to contact us.
+We write with reference to correspondence (1) in relation to the above subject and we note that an
+Engineer's Instruction is not required to be issued as according to Clause 3.1 C of Section 017700 of
+the Specification it is the Contractor's responsibility to rectify any defect in the system and ensure that
+all the systems and equipment are maintained properly.
+Further, we highlight that the Contractor has neither investigated the root cause nor provided any
+substantial evidence to prove that the leakage was caused due to subsidence around the external pipe
+installed by the Other Contractor as stated in correspondence (1). The Engineer has previously
+requested the Contractor to excavate the external area where the thrust block has been installed and
+to carry out a survey to assess any possible settlement in the installed external CHW network,
+however, the Contractor has not proceeded accordingly.
+With regard to the lay-up chemical, and as you are aware, this had to be added based on the
+recommendation of the specialist water treatment company employed by ADAC/DCP as a preventive
+measure. This was introduced to avoid any possible contamination of the entire MTB/DCP CHW
+network that would lead to a full system flushing and indirectly impacting the cooling to the MTB
+building. Until such time the Contractor evidences that they are not responsible for the defect, the
+Contractor shall be responsible for the cost associated with the rectification. The quantity of chemical
+to be added has been reduced based on the several discussions ADAC/CMA/CxA and the DCP
+Contractor had with M/s. Cooltech.
+Currently, the rectifi cation works for the leaking BTU meters have been completed successfully;
+however should any subsequent defects manifest as a result of exte rnal subsidence, the Cont ract or
+remains responsible to address any defective ground and infrastructure supported thereon and at
+their own cost.
 Yours faithfully,

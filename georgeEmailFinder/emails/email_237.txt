@@ -1,13 +1,16 @@
-Subject: Interim Variation Order
+Subject BMS Server Redundancy I Virtualization
+Cross Ref (1) MTG-TCA-AECOM-l-010657 dated 16 May 2017
 Dear Sir,
-We refer to the below referenced RFVOs assigned to execute the works pursuant to Conditions of the
-Subcontract sub-clause 20.1.1., for your information and record.
-IV0-004: RFV0-754, 920, 921, 922, 923, 924,925, 1123, 1124 &1125.-SC/019 (Change Management)
-These works have been evaluated in the interim for the lump sum valuation of AED 1,071,296 as per
-sub-clause 2.1 of Amendment Agreement No.1. We shall update you about outstanding Change
-Management approvals in line to the Engineers certification in due course. Please confirm your
-acceptance of this Interim Variation Order by signing and stamping both copies of the Interim Variation
-Order and returning the same to us immediately. One fully and duly executed Interim Variation Order
-shall be provided to you as a confirmation to enable the incorporation of your Interim Payment and the
-Subcontract Value Adjustment accordingly.
+The Engineer writes in relation to the Contractors above referenced letter (1) and all other associated
+
+correspondence, regarding BMS Server redundancy and virtualization.
+The Contractor is requested to provide a ROM proposal in accordance with Clause 20.1.1(b) of the
+Conditions of Contract and an associated Time Impact Analysis (TIA) for the proposed recommended
+BMS redundancy based on the following options:
+Option 1 - Virtualized environment utilizing the infrastructure provided by the Contractors ICT
+Subcontractor (TAV IT).
+Option 2- Additional hardware server to be utilized as a redundant node.
+The Contractor is requested to provide the above ROM options and related TIA's at the soonest
+opportunity so as to enable the Employer tG make the necessary informed decision in relation to
+additional BMS Server redundancy.
 Yours faithfully,

@@ -1,0 +1,70 @@
+Subject:Initial Review of the Subcontractor’s Extension of Time Claim No.4
+Dear Sir/Madam,
+Further to the Subcontractor’s letter reference (1) above, wherein the Subcontractor has submitted its
+interim claim no.4 for an extension of time and additional costs; the Contractor’s comments are as
+follows:
+1.
+The Subcontractor has failed to demonstrate contractual compliance in its claim. For example:
+a.
+the Subcontractor only relies upon weekly reports for contractual compliance, no other
+documents have been provided to support the alleged delay events;
+
+b.
+the Subcontractor’s delay event narratives should contain (but do not) contractually compliant
+references to exhibits such as, timely delay notices, relevant correspondence, minutes of meetings, etc.;
+2.
+The Subcontractor’s delay analysis methodology is acceptable in name only (Time Impact
+Analysis ‘TIA’); it has been poorly executed and is fatally flawed/not fit for purpose. Examples of
+unacceptable practices within the Subcontractor’s TIA are; a.
+Delay events/fragnets which extend long after the claimed delay period/time slice or window,
+some extending to December 2018, i.e. theoretical beyond what is acceptable in a TIA.
+b.
+The Subcontractor states that it has made amendments to its progress updates whilst preparing
+the delay analysis. However, these changes are not listed or explained within the Subcontractor’s Claim
+No.4 submission.
+c.
+The Subcontractor has presented Claim No.4 as two ‘windows’; i.
+Window 1 starts January 2018 and ends March 2018 with an impacted completion to 25
+September 2019;
+ii.
+There is no TIA analysis/window for the period April 2018 to June 2018 (however the events
+relied upon in the narrative span January 2018 to August 2018);
+iii.
+Window 2 starts in July 2018 and ends in August 2018 with an impacted completion of 6th
+August 2019; which is an earlier impacted completion than Window 1;
+iv.
+The Subcontractor has requested an Extension of Time based on the impacted completion of
+Window 1. However, the final window shows the consolidated impacted completion date. Therefore,
+the EOT claimed should not be more than that shown in Window 2.
+d.
+The impacted programmes contain actual dates after the cut-off date (data date); these should
+be corrected/removed as appropriate.
+e.
+The impacted programmes contain constraints, which should be reviewed and wherever
+possible removed, and an explanation must be provided, as to the effect of retaining or removing the
+constraint(s).
+f.
+Notwithstanding issues of causation and substantiation of the events, the Subcontractor’s
+submission fails on the basis of a preliminary technical review of its TIA methodology.
+3.
+The Subcontractor’s claim nos. 2 and 3 - submitted via references (2) and (3) respectively - also
+failed to provide acceptable delay analyses. For example, the Subcontractor’s submissions do not
+consider the full period of its subcontract period following EOT1 (refer table below).
+EOT# Mosart Analysis Start Mosart Analysis Cut-Off Contractor Comment
+EOT1 Not applicable Not applicable
+EOT2 8-Dec-16
+30-Apr-17
+Start should be 5-Mar-15
+EOT3 1-May-17
+31-Dec-17
+EOT4 1-Jan-18
+31-Aug-18
+Refer item 2.c.ii
+The Subcontractor is kindly requested to provide the abovementioned information (including where
+appropriate soft copies such as Primavera P6.XER files) and re-submit its claim as soon as practicably
+possible, to enable the Contractor to perform a detailed review of the Subcontractor’s entitlement to
+extensions of time and/or costs.
+Please note that this letter is not, of itself, to be considered as an admission of any entitlement to an
+extension of time and/or additional payment, nor does it constitute a waiver of any of the terms of the
+Subcontract.
+Yours faithfully,

@@ -31,7 +31,7 @@ bool checkForWord(string file,string keyword){
    // int c = getch();
 }
 int splitEmails(string file,vector<bool> &emailCheck){
-    string endings[] = {"Yours Faithfully","Yours faithfully","Respectfully","Sincerely","Regards","Kind Regards","Best Regards","Sincerely yours","Sincerely Yours","Yours sincerely","Yours Sincerely","Yours truly","Yours Truly","Thank You.","Thank you.","Thank You,","Thank you,","yours faithfully","sincerely","Kind regards","Kind Regards","Best regards","Best Regards","sincerely yours","yours sincerely","yours truly","Yours Truly","thank you","Thank you"};
+    string endings[] = {"Yours Faithfully","Yours faithfully","Yours truly","Yours Truly","yours truly","Yours Truly"};
     fstream TheFile;
     //TheFile.open("C:/Users/cozilas/Desktop/hw10/ex2/GeorgeArab/emails/Hello.txt", ios::in);
     TheFile.open("./emails/database.txt", ios::in);
@@ -44,7 +44,7 @@ int splitEmails(string file,vector<bool> &emailCheck){
         while (getline(TheFile, Line)) {
                 savingText+=Line;
                 savingText+="\n";
-                for(int i = 0;i<29;i++)
+                for(int i = 0;i<6;i++)
                 {
                     if (Line.find(endings[i]) != string::npos)
                     {
@@ -114,7 +114,7 @@ int main(){
 
       //  cout<<"Use the 'print' conmmand if you wish to print the emails found"<<endl;
         cout<<"enter keyword you want you find : ";
-    while(cin>>keyword)
+    while(getline(cin,keyword))
     {
 
         if(keyword == "print"){

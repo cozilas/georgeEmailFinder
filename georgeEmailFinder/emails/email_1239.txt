@@ -1,0 +1,35 @@
+Subject: Post Heads of Agreement Concurrency Review up to 1 January 2017
+Dear Sir,
+Further to recent discussions between representatives of the Contractor and the Employer I Engineer,
+the
+Contractor herewith provides proposed timetables for the preparation of a detailed concurrency review
+for the period between 5 March 2015 and 1 January 2017. These are attached hereto.
+In order to undertake the concurrency review exercise in parallel with the preparation of the revised TIA
+submissions (also requested by the Employer I Engineer), the Contractor proposes the adoption of a
+'Windows' form of delay analysis to establish the existence of any concurrent Contractor (i.e. culpable)
+delay in the period between 5 March 2015 and 1 January 2017.
+The 'Windows' methodology will utilize 'Cleaned Up' versions for the Contractor's monthly updates a
+predefined
+time slice periods.
+The 'Windows' methodology establishes the progressed status of the works at the start of the time slice
+period and then the progressed s.tatus of the works at the conclusion of the time slice period.
+Once the status of the works at the start and conclusion of the time slice period has been established
+then
+. the programmes can be investigated to identify those specific activities giving rise to critical delay to
+the
+various Project Milestone during the time slice period.
+This process will establish which part'r' is responsible for the critical delay, and in so doing, will also
+identify, what if any period of critical delay is deemed to be a Contractor concurrent culpable delay.
+It should be noted that accuracy of such a Concurrency review is governed by the duration of the time
+slice periods. The greater the time slice periods the less accurate the conclusions will be.
+The Contractor has provided 3 time slice option for consideration, these being 1 month, 2 month and
+
+3 month time slice periods.
+Based upon the provided timetables, the concurrency review exercise will be complete as follows;
+1 month Time Slice periods- 8 October 2017;
+2 month Time Slice periods- 23 July 2017; and
+3 month Time Slice periods- 25 June 2017;
+The three options and associated timetables are provided for the Employers I Engineer's consideration
+and the Contractor requests the Employer I Engineer to confirm which time slice period is to be adopted
+so the exercise can commence.
+Yours faithfully,

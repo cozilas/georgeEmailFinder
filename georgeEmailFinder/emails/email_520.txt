@@ -1,0 +1,29 @@
+Subject:
+
+CP L0.1 Mezzanine Expansion joint profile
+
+Dear Sir,
+We are in receipt of your letter referenced (1) wherein you alleged that the expansion joint EXP-02 at CP
+level 0.1 is additional to your scope of works and requested a Contractor’s Instruction.
+Please note that detail 3 in IFC A-81-702 and detail A1 in A-81-502 show in sections the expansion joint
+cover assembly in the exact same location where it occurs in the cross referenced part plans IFC A-81413 and A-81-415. Also, IFC A-81-413 defines the subject expansion joint cover as “Interior-Floor
+expansion joint cover assembly type*EXP”. The aforementioned part plans do not provide the expansion
+join type, however, in accordance with the IFC design Specification section 079500 [Expansion Control],
+throughout the project in Front of House (public) areas, wherever an expansion join cover in Floor to
+Floor connections occurs, the expansion joint cover is type EXP-02.
+In addition to the above, the fact that the expansion joint cover type was not given in the IFC, although it
+was defined as an expansion joint in IFC-A81-413, is covered by the Specification section 079500
+[Expansion Control] Paragraph 1.4 A2 (PERFORMANCE REQUIREMENTS) “As scope and performance
+documents, the Drawings and Specifications do not necessarily indicate or describe in detail all work
+required for the full performance and completion of the Works. Contractor is responsible for developing
+and completing the design in accordance with the Contract Documents, and shall provide all items
+required for proper completion of the Works without adjustment to the Contract price”.
+In view of the above, it is clear that the mentioned works do not introduce any design change, neither a
+new type of expansion joint, hence are not considered to be additional to your scope of works.
+
+You are hereby reminded that any delays, costs, claims, losses and/or expenses and the like incurred by
+us arising as a result of your failure to complete the aforementioned activities in a timely manner, will be
+solely your responsibility as per the Subcontract Agreement Clauses including but not limited to 10.3
+[Contractor’s Claims], 12.12.4 [Other Contractors and Other Subcontractors] and 16.6 [Delay Damages]
+We consider the matter closed and instruct you to proceed with the works without any further delay.
+Yours faithfully,

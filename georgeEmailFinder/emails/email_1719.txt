@@ -1,0 +1,94 @@
+Dear Sir,
+The Engineer's Assistant (EA) refers to the Contractor's submission referenced above, valuation of the
+Central Cooling Plant variation. The Contractor is required to re-submit the valuation taking the
+following into consideration:
+•
+Implementation of the optimizations (SCH-10/20 chilled water pipes + 1.0 Aluminum jacketi ng
+for piping to be 0.3mm foil) as agreed during the meeting on Sunday 6 November 2016 (refer to M006LBE-ENG-MOM-01127} to be confirmed by the Contractor.
+•
+Feedback from the discussion between the EA and the Contractor to be confirmed and
+implemented by the Contractor.
+•
+
+Contractor to check if there is a need for VRV units.
+
+•
+The EA has reviewed the quantities included in the valuation and has concerns and requests that
+the Contractor review quantities in the following areas, noting that the list is not exhaustive:
+1.
+
+HVAC Equipment
+
+•
+
+Isolating Butterfly Valve (DN 200mm} - quantity of 220 considered too high.
+
+•
+Contractor to check and confirm provision with regards to water cooled chillers and chilled
+water treatment system.
+•
+
+The quantity for galvanised steel ductwork to be checked with the CCP drawings.
+
+•
+Smoke ventilation ductwork - The EA considers that this is not required. The Contractor to
+check and confirm.
+•
+
+Insulation for the smoke and extract duct to be justified.
+
+•
+Motorized smoke fire dampers - rate and quantities to be checked. The Contractor to confirm
+why motorized smoke fire damper are required if there is no smoke exhaust.
+2.
+
+HVAC System Tunnel
+
+•
+Access ladders, steel access platforms etc. - value included considered too high and should be
+substantiated.
+
+Dear sir
+This is an instruction under Sub-Clause 13.1.1 to amend Engineer's Instruction referenced above. The
+nature and extent of the amendment is outlined below:
+
+Engineer's Instruction reference MOOG-QRC-EMT-IST-00166; Appendix A - 'Centralised Cooling System',
+Volume 5, Sub Clause 3.6.2 h) currently states that,
+
+"The concept for power supply and distribution in the Central Cooling Plant of Ras Bu Abboud remain as
+it is in the stations. The Contractor scope includes all design and installation of the power supply and
+distribution equipment (from 33kV switchgear downwards) required for the Central Cooling Plant of Ras
+bu Abboud to properly operate."
+
+This instruction amends the above Volume 5, Sub Clause 3.6.2 h) as,
+
+"The concept for power supply and distribution in the Central Cooling Plant of Ras Bu Abboud remain as
+it is in the stations. The Contractor scope includes all design and installation of the power supply and
+distribution equipment (downstream of 415V Main Distribution Boards, provided by others as in the
+Stations) required for the Central Cooling Plant of Ras bu Abboud to properly operate."
+
+Note that all previous instructions and correspondence related to this matter are to be reviewed and
+aligned with this instruction.
+Dear sir
+This is an instruction under Sub-Clause 13.1.1to amend Engineer's Instruction referenced above . The
+nature and extent of the amendment is outlined below:
+
+Engineer's Instruction reference MOOG-QRC-EMT-IST-00166; Appendix A - 'Centralised Cooling System',
+Volume 5, Sub Clause 3.6.2 h) currently states that,
+
+"The concept for power supply and distribution in the Central Cooling Plant of Ras Bu Abboud remain as
+it is in the stations. The Contractor scope includes all design and installation of the power supply and
+
+distribution equipment (downstream of 415V Main Distribution Boards, provided by others as in the
+Stations) required for the Central Cooling Plant of Ras bu Abboud to properly operate."
+
+This instruction amends the above Volume 5, Sub Clause 3.6.2 h) as,
+
+"The concept for power supply and distribution in the Central Cooling Plant of Ras Bu Abboud remain as
+it is in the stations. The Contractor scope includes all design and installation of the power supply and
+distribution equipment {downstream of Main Distribution Boards and MV switchgears, provided by
+others as in the Stations) required for the Central Cooling Plant of Ras bu Abboud to properly operate." .
+
+Note that all previous instructions and correspondence related to this matter are to be reviewed and
+aligned with this instruction.
+Yours faithfully,

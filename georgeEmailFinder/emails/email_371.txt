@@ -1,11 +1,82 @@
-Dear sir
 
-You are kindly advised that the decorative lighting trays in the above mentioned location has been
-descoped
-from your scope of works with immediate effect.
-This decision has been made by Management as ways of mitigating the huge delays caused by AI Ghurair
-in this regard and also achieve the specific milestone required on the project.
-Therefore you are instructed not to proceed with any works pertaining to the aforesaid location. We will
-be advising you of the de-scoped scope value in due course.
-This is for your utmost attention and immediate action.
+Subject Monthly Updated Programmes
+Dear Sir,
+We write to reiterate our ongoing concerns regarding the accuracy of the submitted Monthly Updated
+Programmes.
+The purpose of the Monthly Updated Programme, and as you are aware, is to provide a complete and
+accurate report of the Project's status, records and progress. Pursuant to Clause 16.3.2 "Such updated
+Programme shall be submitted with the Contractor's monthly progress report {clause 12.27} {Progress
+Report) and shall be at least as detailed as the initial Programme developed pursuant to clause 16.3.1
+and shall show actual start and finish dates for activities and the forecast start and finish dates for
+activities have not yet started or finished. The Employer, the Engineer and the Consultant shall be
+entitled to rely upon the Programme when planning their activities".
+We note that the Monthly Updated Programme for the month ending May 2019 evidenced no delays
+whatsoever to Milestone MS9C. We further note that to date, the Contractor's Management and
+Principals have repetitively committed, during the weekly Chairmans' Meetings and up until the last
+meeting dated 26 June 2019, that the project completion date remains 31 October 2019. The same
+was committed to in all weekly Risk Committee Meetings.
+Although the updated Programme is expected to be predicting an accurate completion date, we
+record that on 30 June 2019 the following dates for Milestone MS9C were issued via (1) in TIA No.1 for
+alleged delays post SAA8, and via (2) for the completion of the subsidence work:
+1. MS9C completing by 6 April 2020 (1).
+2. MS9C completing by 31 October 2020 (2).
+The updated Programme is therefore considered to be outdated and misleading to all Project Parties
+and Stakeholders. As reiterated earlier by the Engineer via the monthly responses to previous updated
+Programmes (refer to attached emails) the logic adopted in the Programme is also not accepted.
+Accordingly, the Contractor's failure to provide an updated Programme which is in compliance with
+the Contract requirements can result in preventing the Engineer from effectively assessing any
+submitted claims in a timely manner and in hindering the Employer, the Engineer and the Design
+Consultant on relying upon the Programme when planning their activities.
+We refer the Contractor to the NCR issued via (3) for the Progress Programme and Monthly Report
+submission delays and non-compliance with the Contractors' contractual obligations. This NCR shall
+remain open as it is still pending the Contractor's rectification and compliance, and shall be revisited
+by the Engineer based on the current development.
+Pursuant to Clause 16.3.3, the Contractor is urgently requested to submit a revised Programme
+
+complying with the requirements set out in Clause 16.3.1, not later than 7 days from the date of
+receipt of this letter.
+We hereby reserve the Employers' rights pursuant to Clause 10.3 of the Conditions of Contract for any
+delays and/or costs incurred as a result of the Contractor's delays and non-compliance .
+yours faithfully
+
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0113
+Engineer’s Response to RFI/0401/17064 – Re-introduction of Door No. L30-0672-01 – Request
+for Engineer’s Instruction (RFEI) / Variation Order (VO)
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+Overview
+Your response to the RFI/0401/17064 detailed in Annex A represents a change in design and scope and
+requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 24 April 2019, we raised RFI/0401/17064 (dated 23 April 2019), requesting further clarification as to
+whether Door Ref: ‘L30-0672-01’ (Located in the Janitor’s Closet to the Public Male Toilets within Sector
+5.23 to Level L3.0, that had previously been omitted from our scope), was required or not.
+We requested a response to RFI/0401/17064 by 30 April 2019; however, you failed to reply for a further
+11 calendar days, i.e. on 11 May 2019. Added to which you advised that the door in question “still
+exists” but is not a TPS [Toilet Partition] door. Moreover, attached to your response was two (2)
+sketches enumerated as ‘ASK 4065 (RFI-17604)’ Sheet 1 of 2 and Sheet 2 of 2; which for all intents,
+consists of a marked up / clouded IFC Drawing plus a partial extract of a revised Door Schedule.
+On this basis, it is clear that the re-introduction of door ‘L30-0672-01’ represents a change. However,
+given that SAA8 laid down strict guidelines to follow if additional works are required and you appear to
+have ignored those obligations, then this change will warrant a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
+as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
+is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
+the additional time and/or costs impacts have been agreed between us beforehand.
+
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted herein. We trust this is clear.
 Yours faithfully,

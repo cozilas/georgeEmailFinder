@@ -1,54 +1,97 @@
-Subject: Outstanding Payment to Sub-Subcontractor
-Dear Sir,
-We have received under cover of AECOM Transmittal Advice Form MTC-CMA-TCA-0401-TML-01448
-dated 181
-h March 2015, detailed particulars from the Employer Representative pertaining to alleged
-non-payment by you to your 2nd tier suppliers for goods manufactured and delivered to the Project.
-This issue is highly embarrassing as the notification has come directly from the Employer. The
-information that has been made available to us is that your main suppliers of ductwork have now
-ceased production until such time as payment is made. For ease of reference we have been advised
-that;
-1. Rapid Cool have no Gl Ducts in manufacture for the MTB Project as they are
-awaiting payment from PCEJV
-2. BK Gulf has not manufactured any Gl Ductwork for the project for 3 weeks due to
-late ·payments from PCEJV.
-3. China State have not manufactured any Gl Ductwork for the MTB Project for 3
-months and are awaiting a AED 5,000,000.00 Payment
-4. Noor AI Yemen are no longer prepared to supply Gl Ductwork to the MTB Project
-due to consistent late payments by PCEJV
-5. Gulf Ducts are no longer prepared to supply Gl Ductwork to the MTB Project due to
-consistent late payments from PCEJV
-6. Seagull are currently supplying Fire Rated Ductwork to the MTB Project but have
-raised concerns/ issues with regards to the outstanding payments due from PCEJV
-7. EFECO are the only company currently manufacturing & delivering Gl Duct to the
-MTB Project.
-The aforementioned is completely unacceptable. You have previously been advised under cover of
-letter MTB/TCA/PCEJV/L/001189 dated 22nd Feb 2015 that such actions will not be tolerated and that
-there are mechanisms within the contract to deal with the same. For ease of reference we once again
-would make reference to the following Clause 21.3 of the Sub-Contract Agreement between PCEJV &
-TCAJV in that;
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0235
+Changes Introduced to the VESDA panels located Inside the CP Staircase 05/41 Level 3.0 –
+Request for Engineer’s Instruction (EI) / Variation Order (VO)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The event detailed in Annex A hereto, represents a change in design and scope and requires a valid EI
+and VO in order for us to integrate the same into the Works.
 
-Subject: Notice to Correct: Sub-subcontractor Performance
-Dear Sir,
-We hereby write pursuant to the Subcontract Agreement referenced 1) above for "Design (If any),
-Supply,
-Installation and the Rectification of defects therein of the Internal Flooring Stone Work Package" and
-with
-regards to the above mentioned subject matter.
-We have been informed by you during the meeting of March 28th 2016 held in our office, that you have
-instructed your screeding subcontractor to stop all screeding works in the project. Your decision has
-been
-taken without seeking any advice and coordination with the TCAJV Management Team or Construction
-Management Teams. Your actions are jeopardizing the progress not only of the stone flooring works but
-of all activities in progress at the site, and such can create delays to the project for which you will be
-held
-responsible.
-According to Subcontract Clause 12.10.4 [Sub-subcontractor Performance], the Subcontractor shall not
-suspend or terminate a Sub-subcontract without the prior written approval of the Contractor, such
-approval not to be unreasonably withheld or delayed. Therefore in line with Sub Contract Clause 22.1
-[Notice to Correct], which states that "If the Subcontractor fails to carry out any obligation under the
-Subcontract, the Contractor may by notice require the Subcontractor to make good the failure and to
-remedy it within a specified reasonable period,." your are required to take corrective actions
-immediately.
-This is for your information, record and further action to correct as a m
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+Background
+On 14 March 2017 we raised RFI/0401/13453 Rev. 00, requesting clarification from you / Employer’s
+Design Consultant (KPF) of the following design coordination issues concerning the ‘Air Aspiration Pipe
+Connection to Utility Walls’, primarily relating to the exposed pipework connecting to the air aspiration
+panels located inside the utility walls to Level L2.0 (our question reproduced in Figure 1 refers).
+Figure 1 – RFI/0401/13453 Rev. 00 (Question)
+On 15 April 2017 you responded to RFI/0401/13453 Rev. 00 in the manner shown in Figure 2:
+Figure 2 – Response to RFI/0401/13453 Rev. 00
+This E-Notice No. 0235
+Thereafter, on 1 May 2019 we raised RFI/0401/17079 Rev. 00, requesting clarification from you and/or
+the Employer’s Design Consultant (KPF) of the following matter in relation to the installation of the Very
+Early Smoke Detection Apparatus (VESDA) panels located above the ceiling inside the refuge area of CP
+staircase 05/41 landing at Level L3.0, in the manner shown in Figure 3 below.
+Figure 3 – RFI/0401/17079 Rev. 00
+RFI/0401/17079 Rev. 00, was issued consequent on your response to RFI/0401/13453 Rev. 00, which
+failed to resolve the issue appropriately and therefore left the matter pending. This was due to the fact
+that not only did there exist deficiencies in the IFC Design but also you failed to provide a resolution to
+the issue which simply related to clashes / obstructions between existing ductwork i.e. Heating,
+ventilation, and air conditioning (HVAC) and the VESDA panels to be installed in the same area.
+Appended to RFI/0401/17079 Rev. 00, were a series of attachments:
+•
+A plan layout of the concerned location (reproduced in Figure 4 below);
+Figure 4
+•
+3D sketches indicating the area where the VESDA panels would be installed, demonstrating that
+the location where VESDA panels would be installed is occupied / clashing with the HVAC shaft. The
+various 3D sketches attached thereto are partially reproduced in Figure 5 below:
+Figure 5
+
+•
+Photographs showing the location where the VESDA panels would be installed and the HVAC
+ductwork obstructions in the concerned location (refer to Figure 6 below):
+Figure 6
+At its simplest, RFI/0401/17079 Rev. 00 pointed out the clashes, the actual site conditions and the latest
+BIM coordination, showing that there is insufficient space to accommodate the VESDA panels. In which
+respect we provided two options therein (reflected in Figure 3 above), which could be utilised and could
+provide a resolution to this matter and requested you to clarify and advise accordingly.
+We requested a response to RFI/0401/17079 Rev. 00 by 7 May 2019. However, you failed to reply until
+26 calendar days later on 2 June 2019. Notwithstanding the prolonged period in responding, the
+Employer’s Design Consultant (KFP) advised the following (reproduced in Figure 7):
+Figure 7
+Moreover, the Employer’s Fire Safety Consultant (Profire) also responded to RFI/0401/17079 Rev. 00, in
+the manner shown in Figure 8 below:
+Figure 8
+Not only did KPF’s and Profire’s responses to RFI/0401/17079 Rev. 00 fail to provide any resolution to
+the matter but we were asked to provide another proposal in regards to overcoming the obstructions
+and the installation of the VESDA panels. In this regard, we reiterate once again that we are not the
+designers for this Project, the Employer’s Design Consultant is. Consequently, we accept no liability or
+responsibility for any inconsistencies in the Design; neither do we accept any responsibility for
+overcoming any inconsistencies in the Design; this remains with the Employer’s Design Consultant.
+The facts remain as follows: We proceeded with the installation of the VESDA panels at the stability
+core wall (external side). Notwithstanding the fact that you failed to provide a suitable Design and/or a
+design solution to the matter, after the completion of the installation of the VESDA panels to the
+stability core wall (external side), you then subsequently requested us to conceal / cover the VESDA
+panels so that they are not visible to the public. In which respect we reinforce the fact that the Design,
+IFC Drawings and approved Shop Drawings, do not indicate any concealment / coverage of the VESDA
+panels and consequently this represents a defector variation and change to our scope of Works.
+In this regard, SAA8 laid down strict guidelines to follow if additional works are required and therefore
+the aforementioned change will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if
+you require us to proceed with integrating the revised scope into the Works.
+We therefore, take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC Design to the extent we are able to.
+Finally we note that since this issue has not been appropriately addressed and resolved by you and the
+Employer’s Design Consultant, despite RFI/0401/13453 Rev. 00 having been raised and responded to
+prior the Effective Date included in SAA8 (4 September 2018), this matter cannot possibly be construed
+as being deemed to be included within the ‘Contractor’s Settled Claims’ (SAA8 Sub-Clause 1.7.2) and
+‘Included Circumstances’ (per SAA8 Sub-Clause 1.7.4). That said kindly note that the effects of delay
+associated with this matter will nevertheless be analysed from 4 September 2018 onwards.
 Yours faithfully,

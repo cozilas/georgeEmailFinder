@@ -1,0 +1,14 @@
+Subject: Unfair comments in response to Document Submittal DS/0401/8280 Rev.
+Dear Sir,
+The Contractor writes with reference to the receipt of the Engineer's Status Code 3 'Revise and
+Resubmit' response to Document Submittal No. DS/0401/8280 Rev. 00 - 'ITF Interface Verification
+Test Procedure for Fire Alarm System and Lighting Control System (FAS-LCS), and wishes to convey
+its displeasure at the Engineer's unfair and unjustified comments issued in relation thereto.
+The IVTP Test Cases have been derived and developed based on the approved FAS LCS lCD and no
+
+reference of the Exit Route lighting scenarios were mentioned and commented in the approved lCD.
+The Engineer is therefore urged to re-consider its comments forthwith and I or further elaborate
+upon the basis of the current Status Code 3 response to Document Submittal No. DS/0401/8280
+Rev. 00 and re-code the document to Code 2 to avoid the unnecessary prolonged approval process
+and delay the Delivery schedule of the IVTPs.
+Yours faithfully,

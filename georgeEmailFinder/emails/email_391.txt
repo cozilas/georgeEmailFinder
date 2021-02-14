@@ -1,0 +1,171 @@
+Contract Abbreviations
+Airport Management Centre (AMC)
+Airport Operational Systems (AOS)
+Acceptance Test Protocol / Authority To Proceed (ATP)
+Baggage Handling System (BHS)
+Baggage Handling Control Room (BHCR)
+Baggage Information Display System (BIDS)
+Baggage Labeling and Tracking System (BLTS)
+Baggage Reconciliation System (BRS)
+Boarding & Disembarkation Route Management (BDRM)
+Building Management System (BMS)
+Building Completion Certificate (BCC)
+Common Use Passenger Processing (CUPPS)
+Configuration Status Accounting (CSA)
+Configuration Items (CI)
+Commissioning Inspection Request (CIR)
+Departure Control System (DCS)
+Departure Access Structure (DAS)
+Document Object Model (DOM)
+Extra Low Voltage (ELV)
+Final Distribution Boards (FDB)
+Fire Alarm System (FAS)
+Fixed Ground Power (FGP)
+Flight Information Display System (FIDS)
+Fire Smoke Damper (FSD)
+Hold Baggage Screening System (HBSS)
+High Level Design (HLD)
+Initial Site Acceptance Test (ISAT)
+Integrated test facility (ITF)
+Information and Communication Technology ('ICT')
+
+Internal Long Spam Structure (ILSS)
+IVT (Interface Verification Test)
+Lighting Control System (LCS)
+Lift Elevator Travelator (LET)
+Local Area Network (LAN)
+Lock Out Tag Out (LOTO)
+Low Level Design (LLD)
+Network Management Systems (NMS)
+Non-Operational Trial Period (NOTP)
+Notice of Intent (NOI)
+Master System Integration (MSI)
+Master Antenna Television System (MATV)
+Mechanical Works Completion Inspection (MCI)
+Operational Readiness & Airport Transition (ORAT)
+Passenger Boarding Bridge (PBB)
+Preconditioned Air (PCA)
+Performance Testing (PT)
+Public Address Voice Alarm System (PAVA)
+Round-trip time (RTT)
+Round-trip delay time (RTD)
+Standard Operating Procedures (SOP)
+Security Access Control System (SACS)
+Standalone Functional Acceptance Test (SFAT)
+Standalone Functional Acceptance Test Procedure (SFATP)
+Traveler Document Authentication System (TDAS)
+Test Inspection Requests (TIRs)
+Virtual routing and forwarding (VRF)
+Visual Docking Guidance System (VDGS)
+Video Surveillance System (VSS)
+l. (AAA) - Authentication, Authorization and Accounting
+2. (ADAC) - Abu Dhabi Airport Company
+3. (ADIA) - Abu Dhabi International Airport
+4. (ANSI) - American National Standards Institute
+5. (ASCII) - American Standard Code for lnformation Interchange
+6. (ATM) - A-synchrone Transfer Message
+7. (BMS) - Building Management System
+8. (BSI) - British Standards Institute
+9. (BMS) - Building Management System
+10. (CMS) - Cable Management System
+I l. (CPU) - Central Processing Unit
+12. (CV) - Curriculum Vitae
+13. (DDS) - Detailed Design Specification
+14. (DHCP) - Dynamic Host Configuration Protoco15. (DHHS) - Department of Health and Human Services
+16. (DLP) - Defects Liability Period
+17. (DNS) - Domain Name Servers
+18. (EDP) - Electronic Data Processing
+
+19. (FCC) - Federal Communications Commission
+20. (GUI) - Graphical User Interface
+21. (HTTP) - Hypertext Transfer Protocol
+22. (ICD) - Interface Control Document
+23. (IEC) - International Electro technical Commission
+24. (tree) - Institute of Electrical and Electronic Engineers
+25. (IP) - Internet Protocol
+26. (IPS) - Intrusion Prevention System
+27. (ISO) - International Standard Organization
+28. (ITIL) - Information Technology Infrastructure Library
+29. (ITS) - Information Technology System
+30. (LAN) - Locdl Area Network
+31. (LCD) - Liqdid Crystal Display
+32. (LDAP) - Lightweight Directory Access Protocol
+33. (MAC) - Media Access Control
+34. (MCR) - Main Communication Room
+35. (MPLS) - Multi-protocol Label Switching
+36. (MTBF) - Mean Time Between Failures
+37. (MTB) - Midfield Terminal Building
+38. (MTC) - Midfield Terminal Complex
+39. (MTTR) - Mean Time To Repair
+40. (NAC)- Network Access Control
+41. (NAT) - Network Address Translation
+42. (NEC) - National Electrical Code
+43. (NFPA) - National Fire Protection Association
+44. (NIC) - Nerwork Interlace Card
+45: (NMS) - Network Management System
+46. (NRTL) – Nationally Recognized Testing Labarotory
+47. (NTP) – Network Time Protocol
+48. (O/S) – Operating System
+49. (OSHA) - Occupational Safety and Health Administration
+50. (ORAT) - Operational Readiness and Transfer
+51. (PMI) - Project Management Institute
+52. (QoS) - Quality of Service
+53. (RAID) - Redundant Array of Inexpensive (or Independent) Disks
+54. (SLA) - Service Level Agreement
+55. (SMP) - Symmetric Multi-Processing
+56. (SNMP) - Simple Network Management Protocol
+57. (TC) - Telecommunications Cabinet
+58. (TCP/P) - Transport control protocoVlnternet protocol
+59. (TFTP) - Trivial File Transfer Protocol
+60. (UL) - Underwriters Laboratories
+61. (UPS) - Unintemrpted Power Supply
+62. (VLAN) - Virtual LAN
+63. (VPN) - Virtual Private Network
+64. (WAN) - Wide Area Network
+65. (WIFI) -WirelessFidelity(similartoWLAN)
+66. (WLAN) - Wireless LAN
+
+Subject:Delay in Lighting Fixtures Installation and Lighting Control System Commissioning
+Dear Sir,
+We write with reference to your letter (1) in which you advise us of alleged delays pertaining to the
+Lighting Fixtures Installations and Lighting Control System Commissioning. We therefore take the
+opportunity in addressing similar allegations outlined in your letter (ref: 2) within this response also.
+Although we acknowledge the contents of both letters ref: (1) and (2), and remain fully committed to
+progressing the installation of the Lighting Fixtures and Lighting Control System Commissioning as
+expeditiously as possible, we are compelled to advise you of various factors that have contributed to
+both delaying and disrupting our progress that are out with our reasonable control and responsibility.
+Firstly, as you are only too aware, there is a disparity between the IFC electrical design and the works we
+have constructed according to that IFC design, and the electrical design that ADDC inspector are
+excepting when undertaking inspections during the Form 4 approval process, and accordingly are
+expecting us to undertake last minute design changes to ensure the electrical installations are code
+compliant. We have previously written to you on this matter on various occasions, including inter alia
+our letter (3) which includes a copy of the agreement between ADAC and ADDC the responsibility of
+design compliance with ADWR 2009 remains with you and we shall follow IFC Drawings for the electrical
+installations. We shall not be responsible for comments from the ADDC inspection Engineer against any
+design non-compliance with ADWR 2009, ADWR 2014 or ADDC preferential requirements for the
+electrical installations during Stage 3 and 4 of ADDC inspection and approval process.
+Secondly, the haphazard manner in which ADDC inspectors have been reviewing and approving the Case
+ID submissions has created unplanned and unexpected delays, outside of our control. An example of
+this is where multiple Case IDs are grouped and submitted together where all but one of the Case IDs
+were approved one was rejected.
+Although we acknowledge that you have assisted the Case ID approval process, and liaised with ADDC in
+improving the process by resubmitting the panels excluding the rejected one, ADDC have expressly
+requested that we have to resubmit the approved Case IDs a second time without the rejected one,
+whilst we address ADDC’s comments for the rejected one. Thus the approved panels in that Case ID
+have to be resubmitted one more time in order to get acceptance officially which has imposed an
+unwarranted time delay simply due to a procedural matter. We were therefore left to accommodate a
+frustrating procedure that unnecessarily created a duplication of efforts for many of the Case ID
+approvals and in many instances where Case IDs are being rejected by ADDC due to design related issues
+for which we are not responsible. As a result, the lost time cannot be recovered in full.
+In many instances, as a direct and consequential effect of the above factors, the initial rejection of an
+individual Case ID has impacted the approval process by as much as one calendar month. Consequently,
+the commissioning period has been drastically reduced due to the lost time associated with the Case ID
+approval process. Nevertheless, we have endeavoured to recover lost time, as well as continue to use
+our best endeavours to complete the Works as soon as practicable. For example, during May 2019 we
+doubled our Electrical Panel Commissioning Team from 20 teams to 40 and from mid-June 2019
+onwards, we will increase to 40 to 60 teams. In addition, we are assisting our electrical Subcontractors’
+DB Commissioning Team, increasing the numbers to 80 teams.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for factors that are beyond our reasonable control and responsibility. .
+Yours faithfully,

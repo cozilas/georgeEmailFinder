@@ -1,0 +1,44 @@
+
+Dear Sir,
+
+We refer to the Engineer's Assistant's response to M006-GDB-ARC-RFl -00052 - Lifts at Entrances, which
+states:
+
+"In accordance with ER Vol.6 Section 11.4.5.23.1, Minimum 2 no.of lifts are acquired per station
+entrance for each station to satisfy the Employer's Requirements for access for all the station during
+operation hours and 24\7 access for all pedestrian underpass."
+
+Please note that the above-mentioned clause does not exist; however,we believe that the Engineer's
+Assistant is referring to ER Volume 6, 11.4.6.23.a) which states "The design will provide for heavy duty
+transit lifts for 24-hour a day use in transportation terminals..."
+
+Additionally, ER Volume 6, 11.4.4.4.4.a) states "...Each entrance shall optimally have at least one
+escalator, lift and stair..."
+
+ABM1 shows a single lift at entrances, and we have been directed by Qatar Railto follow ABM1 at the
+Design Escalation Meeting of 28/01/15.
+
+Our assumption is that only a single lift is needed at each entrance in order to comply with the above
+requirements. If that single lift is non-operational (for example, during lift failure), then PRMs,
+(passengers with reduced mobility), may still enter/ex it the system by using the lift at another
+alternative entrance, and if required, the subway is still accessible from within the station.
+
+Lift maintenance can be outside operational hours, noting that operational hours of the stations are not
+24 hours.
+
+If the subway is being used solely for crossing the street, then in the event that the station only has two
+entrances and one of the lifts is non-operational, PRMs still have the possibility of crossing the road at
+grade, (and in fact that many PRMs not using the metro would prefer to do this based upon travel time
+waiting for lifts down and back up again). Note that the term PRM encompasses many disabilities
+
+including visual or aural impairment, elderly, those on crutches, etc. and not all are wheelchair users,
+nor will all prefer to use lifts.
+
+Finally, our view is that the 24 hour operation mentioned above relates to the lift motor specification,
+rather than lift operating 24 hours per day.
+
+You are kindly requested to issue the necessary instruction for the provision of two lifts per station
+entrance for each station.
+
+We remain at your disposal for any further information and/or clarification.
+Yours faithfully,

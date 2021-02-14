@@ -1,47 +1,111 @@
-Subject Clause 27.1.5 (b)- Further Interim Particulars
-Dear Sir,
-We write with reference to correspondence {1) regarding the submission of Interim Particulars and Time
-Impact Analyses {TIAs).
-The Contractor attempted to justify its noncompliance by referring to part of Clause 27.1.9 without
-demonstrating its compliance with the entirely Clause 27.1.9. We reiterate the full wording of Clause
-27 .1.9 "The requirements of this clause 27.1 are in addition to those of any other provision of the
-Contract which may apply to a claim. If the Contractor fails to comply with this or another such provision
-in relation to any claim, any extension of the Time for Completion, reimbursement of additional Cost
-and/or adjustment to the Contract Price shall take account of the extent (if any) to which the failure has
-prevented or prejudiced proper investigation of the claim, unless the claim is excluded under clause
-27.1.2"
-We reiterate again that it is the Contractor's obligation to adhere to the Contractual process in respect
-to the submitted claims and we once again record that the Contractor has failed to submit the required
-TIAs {27.2 Conditions of Contract).
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0280
+Delays due to Modifications and Damage to Previously Constructed Works to Pier 3 Rooms near GH 36
+by the Employer’s Other Contractor – Request for Engineer’s Instruction (EI) and Variation Order (VO) in
+Order to Rectify Damaged Works – Request for Cancellation of Unreasonable Commented NCR-01529
+Dear Sirs,
 
-Subject Clause 27 .1.5(a)- Interim Particulars of the Basis of Claim Delay Notice No. 1021
-Dear Sir,
-We write with reference to the above correspondence (1) wherein the Contractor submitted the Interim
-Particulars in relation to Delay Notice No. 1021 issued via {3) for alleged delay subject: "Unreasonable
-Status Code 3 Rejection of Electrical Work Inspection Requests (WIR) in relation to the Installation of
-Lighting Fixtures, Conduits, Boxes, Public Address Devices, Cable Trunking, and Cable Tray for Earthing
-and Bonding".
-We record that the Contractor in correspondence (1) has not evidenced the impact of the alleged delay
-to its programme and furthermore has not stated the implemented mitigation measures for the
-avoidance of the alleged delay in accordance with the Programme Project Control Requirements {Clause
-1.3.7). Furthermore, the Contractor has failed to submit a Time Impact Analysis as required under Clause
-27 .2.1 of the Conditions of Contract.
-The Engineer also records that the Contractor has failed to comply with the provisions of Clause 27.1.5
-of the Conditions of Contract to submit full supporting particulars of the basis of the claim.
-Subject:
-Dear Sir,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A hereto, concern delays associated with modifications and damage to
+our Works in Pier 3 Rooms near GH 36 by the Employer’s Other Contractor which requires rectification
+and as such requires the issuance of an EI and VO in order for us to do so. We also urge you to close out
+NCR-01529 on the basis your comments are unreasonable and not applicable to the matter at hand.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+In or about May 2019, we handed over a series of rooms located at Pier 3 Rooms Near GH 36, broadly
+consisting of: ADAS BTW Central Centre; Ramp Management Centre; Corridor; Deployment Office; Ramp
+Operations – General Office; Conference Meeting Room; and Emergency Shower; the Works within
+which were all signed off and agreed by you as being accepted and fit for purpose. These same rooms
+and areas were then handed over and occupied by one of the Employer’s Third-Party Contractors
+(Etihad).
+Sometime later however, on 31 December 2019, we received Non-Conformance Report (NCR) 01529
+(ref: 1) in which, with reference to Site Memo No. 03380 (issued in relation to Pier 4), you alleged that
+we were somehow responsible for the damage caused by rain water/grouting fluid to our previously
+installed carpets, painting and other internal finishes (including MEP works) due to heavy rainwater
+infiltration. You further alleged that this was due to a purported failure on our part to divert the
+accumulation of rain water/grouting fluid trapped by the temporary embankment that is being used as a
+drilling platform.
+In our subsequent Corrective Actions dated 27 February 2020, we recorded that Site Memo No. 03380
+“is for Pier 4 and the NCR [01539] is for Pier 3 area. Therefore, Site Memo will be submitted separately
+as this is not affecting NCR issues.” We also attached a series of site photographs showing no damage
+had been found in any of the noted rooms. Nevertheless, the Preventative Acton we suggested was
+thus: “The area to be prepared for a diversion of rain water in order not to overflow inside the building
+in case [of rain].”
+However, in your response to our commented Site Memo No. 03380 received by us on 2 March 2020,
+for the proposed Corrective and Preventative Action (CAPA) was commented as follows (see Figure 1
+below):
+Figure 1
+For the reasons set down in our various e-mails issued during May 2020 (copies attached at Annex B
+hereto), we reject this NCR and insist that it be closed. This includes amongst others our email dated 28
+May 2020 [Thursday 2:12 PM], wherein we summarised the chronology of the events associated to this
 
-Delay Notice - Outstanding works at LB2/LB1
+matter. In our email, we explained that, following the recent adverse weather condition and the heavy
+rainfall which has affected the project, water penetrated the concerned rooms. As a result, you
+requested us to carry out rectification works such us removing the water, cleaning and drying the
+carpet. These rectification works have been carried out by us albeit the rooms had been handed over to
+you previously and are no longer within our scope, but as a gesture of good will, we had agreed to do so.
+Accordingly, following the completion of the associated remedial works, any such NCRs’ raised
+associated to damage caused to the concerned rooms due to the rainwater penetration, such as the
+NCR ref: (1), should have been closed out by you immediately. However, this failed to take place, thus
+the issuance of this E-Notice.
+Following the completion of the rectification works on our part after the rainfall, as noted above,
+another of the Employer’s Other Contractors (M/s EAG) proceeded with their works in the same area /
+rooms, after the relevant No-Objection-Certificate (NOC) ref: 0401/TPA/221 was approved / issued by
+us. Subsequent to which our installed works have been disturbed and damaged in the manner
+illustrated in Figure 2 below.
+Figure 2
+As evident from the photos shown above, it is clear that our installed and handed over works have been
+disturbed / modified / damaged by the Employer’s Other Contractor; and is certainly not in any way
+damaged due to the effect of water ingress as result of the rainfall / rainwater penetration, nor are they
+related to the open NCR ref: (1) comments mentioned above. Specifically, our works have been
+damaged as follows:
+•
+Gypsum boards have been cut around the MEP services;
+•
+Carpets have been cut and removed;
+•
+Floors have been raised and removed around the MEP services;
+•
+Ceiling tiles removed; and
+•
+Other general damages to the rooms.
+We wish to put on record that this issue is not of our doing or responsibility, and any rectification /
+remedial works necessarily required at this stage to our completed Works, will invariably delay us.
+Consequently, the purpose of this E-notice is three-fold:
+•
+Firstly, we wish to notify you that the above noted disturbances and damage is directly
+attributable to the Employer’s Other Contractor as mentioned above (it is not our doing or
+responsibility);
+•
+Secondly, we hereby request that you immediately withdraw or close out NCR-01539 and
+retract the statements made, which considering the circumstances, are entirely unreasonable; and
+•
+Lastly, we also request that you issue us an EI / VO that will enable us to complete the
+rectification and replacement of the damaged works noted above.
+In respect of this last item, please note that on the basis we will be required to undertake additional
+works due to the actions and activities of the Employer's Other Contractors, such as any necessary
+repairs to our works, which would result in us incurring additional expense and/or requiring additional
+time, we would require you to issue us a Variation Order / Engineer's Instruction as per the
+requirements of SAA8.
+Meanwhile, the various acts of prevention on your part and/or the part of the Other Contractors have
+delayed and disrupted our Works. This event will impact upon our ability to achieve Milestone MS09B
+and Milestone MS09C. Accordingly, we maintain all our rights under the express provisions of
+Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 SubClause 1.1] to an extension to the Time for Completion and the associated costs arising from this event,
+described herein.
 
-With reference to the above subject matter and in continuation to our letter reference (1) above we
-hereby enclose photographic evidences in response to your letter reference (2). The enclosed
-information is self-explanatory and provides our comments in regards to your concerns raised in your
-letter reference (2).
-We reiterate once again that you are required to take immediate action, at no additional cost to us, in
-order to complete the aforementioned area(s) and submit your planned completion date with
-mitigation measures to recover the delays caused by you.
-We reserve all of our rights under the Subcontract Agreement and we hold you completely culpable for
-all costs and delays incurred associated with your outstanding works.
-We trust you find the aforementioned self-explanatory and your utmost attention and further action is
-required.
+In summary, we request your urgent action to resolve the matters noted above in order to mitigate
+delay and/or disruption to the Works; and urge you to take whatever action is required on your part, to
+prevent any further damage occurring to our previously completed Works by the Employer's Other
+Contractors.
 Yours faithfully,

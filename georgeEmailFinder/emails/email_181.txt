@@ -1,23 +1,27 @@
-Paul
-Subject: Value Engineering Item Arch-91 Omit Adjustable Top Hats Sections at Main Roof
-Dear Sir,
-We write to advise the Engineer that Value Engineering Item Arch-91 savings have not been realized.
-Please be advised that the IFC Drawings were reissued as originally provided (i.e. by retaining the top
-hats). As such the Value Engineer Item savings were not realized as intended.
-The Value Engineering Item description states the following;
-' .. Omit the adjustable top hat sections at main roof. Rotate the structural metal deck on main roof by
-90 degrees and use deeper metal deck section to maintain overall roof build up height. No impact on
-form and curvature of roof profile is accepted ... '
-Given the minimum radii of 16m (N-S direction) and 448m (E-W direction) and the purlin geometry, it
-appears that it was not possible to maintain the original double curvature/warping of the roof. We
-therefore conclude that the Employer requires the top hats in order to maintain the original shape of
-the roof.
-Based on our own investigations, it became abundantly clear that a facetted profile cannot be
-overcome by modifications to the supporting structure of the roof. This conclusion is supported by
-our specialty Subcontractor M/s Chadwick SEC (LLC) as per the enclosed hereto letter ref. ADIA-NG0039 dated 17 July 2013.
-Furthermore, Arch-91 was proposed solely on the basis of omitting the top hats as defined for the
-Value Engineering Item. Clearly this was not achievable without reverting to the top hat such than
-" ... No impact on form and curvature of the roof profile."
-Having reinstated the top hats, we respectfully request that the proposed Value Engineering Item
-savings for Arch-91 be returned to the Contractor.
+Subject: Flood damage in basement levels LBl and LB 2
+Dear Sirs,
+We refer to your letter noted above and would record the following points:
+1. Having inspected our Works and the surrounding installatons and not having found any cause
+of our making, our report was raised simply to identify possible sources of the root cause;
+2. Our initial report on the root cause of the flood was issued to you over two weeks ago: to
+some extent this is, as you say, a statement of opinion but we are under no obligation to
+provide anything further. To date nothing has been issued to us that sets a cont ra ry position;
+3. It has been stated that you would issue your review of our report, but at t he time of writing
+this is still await ed;
+4. Given that the root cause of the flooding does not arise from any act or omission of the
+Contractor; and given that we had warned of possible insufficiency in site-wide storm-water
+disposal provision; and given t hat nothing tangible was done by ADAC or Aecom to act
+prudently as required under the Contract: then such an event can be said to constitute an act
+of Gross Negligence as defined under the Contract and any indemnity offered by Sub-Clause
+24.1.1 is thereby extinguished;
+5. Similarly as the root ca use is not of our making, t hen Sub-Cla use 24.2.2 to which you refer
+cannot be relevant. The obligation to 'ca re for the Works', on its widest interpretation, does
+not extend to an obligation to remedy damage caused by faulty design. TCA JV is not
+responsible for the design of the storm-water system and there is nothing in Clause 24 that
+transfers design liability to TCA JV or renders TCA JV liable for insuring against design errors.
+We have covered the manner in which we believe the project should jointly move forward in the urgent
+rectification of this damage in separate emails and discussions and suggest that your efforts be more
+focused on cooperative endeavour to this end. We shall continue to urge that in parallel you issue both
+your detailed response to our initial report and your own hydraulic investigations, as this data has been
+requested by the insurer for his information.
 Yours faithfully,

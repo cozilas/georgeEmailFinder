@@ -1,78 +1,38 @@
-Subject :
-
-Re: Cloisall Disruption Claim -Wall Cladding
-
-Dear Sir,
-We refer to your letter reference CLO/0401/MTB-CEILING/CONT/11576/18 dated 18 February 2018
-[received on 18 March 2018] regarding your Wall Cladding Disruption Claim and note that whilst you
-refute our rejection of the claim, you have failed to address the deficiencies that we identified and
-communicated to you via our letters referenced MTB/TCA/CLOISALL/L/001220 and 001266 dated 5th
-February 2018 and 10th March 2018 respectively.
-In this regard we again note:
-(i)
-The ‘measured mile’ analysis is not supported by sufficiently detailed and objectively verifiable
-contemporary records. Moreover, if as you assert, the classification between Ceiling, Junction and Wall
-Cladding is of no relevance (insofar as materials and/or installation criteria does not change) then why is
-the unit rate for Wall Cladding almost 30% higher than that for Ceiling (& Junction) Cladding?
-
-(ii)
-You have not provided:
-a.
-An ‘as planned & resourced schedule’ for the Wall Cladding.
-b.
-A full breakdown of all BOQ unit rates related to Wall Cladding.
-c.
-The causal link between each of the alleged disruption events and Contractor culpability.
-d.
-The causal link between each of the alleged disruption events and the effect(s) / cost(s) claimed.
-e.
-Contemporary records (capable of being objectively verified) of the work (location, quantities
-and times) impacted by each of the alleged disruption events, the name, designation and role of each
-person and the relevant particulars of all other resources included in the calculation of the additional
-Cost claimed.
-f.
-Actual Cost (not rates) of each resource, verified as applicable by Employment contract, salary
-slip, third party order, invoice and evidence of payment.
-g.
-Evidence of measures taken to mitigate the effects of each disrupting event.
-(iii)
-You have not abated actual Cost for:
-a.
-Subcontractor’s risk events e.g. errors in tender, quality and quantity of resources, supervision,
-availability of materials and equipment, weather, defective work etc.
-b.
-Duplication of resources (in particular Supervision, Foreman and Scaffold) included in your
-valuation of variations and other claims e.g. Prolongation Cost Claim.
-c.
-Items that you failed to timely notify and/or claim as variations e.g. instructed changes in the
-design and/or sequence and/or method of executing the works
-d.
-Items that you have failed to timely notify and/or claim that have prejudiced any related
-entitlement we might otherwise have had to make a ‘back-to-back’ claim against the Employer or to levy
-a back-charge against a subcontractor
-Whilst your claim submission is voluminous, size is no substitute for quality; it is of a global nature,
-largely vague and its shortcomings readily evident in the few pages pertaining to your valuation and also
-in your subsequent attempts to provide the further information we have requested. The single sheet of
-A4 that you adduce as evidence of the (otherwise unsupported) actual cost of scaffolding deployed for
-Wall Cladding is typically deficient, includes a period beyond that over which you say the disrupted Wall
-Cladding Works were executed and in any event falls within the ambit of (iii) c. and d. above.
-Your selective citation of the UAE law that you ostensibly interpret to support your failure to comply
-with your contractual obligations regarding the timely notification and valuation of claims must of
-course be read in the context of the entire law. In this regard we note the following provisions of the
-UAE Civil Code, relating to the status of the terms and conditions to which the parties to a contract have
-expressly agreed
-Article 243(2)
-With regard to the rights (obligations) arising out of the contract, each of the contracting parties must
-perform that which the contract obliges him to do
-
-Article 265(1)
-If the wording of a contract is clear, it may not be departed from by way of interpretation to ascertain
-the intention of the parties
-
-In summary, we are confident in our rejection of your claim and that an impartial third party would
-similarly find your claim lacking in the fundamental elements and detail necessary to make any award.
-We therefore maintain our view that your submitted claim has no merit and of our valuation of it as Nil.
-We shall respond to you separately regarding the other claims that you have submitted for alleged
-disruption that we have also assessed as lacking in the fundamental elements and detail necessary to
-make any award.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0237
+Re-Grouting Works to Pier 4 (GH 38) and Cracking to LB.1 Raft Slab
+Dear Sir
+We refer to the cracking that appeared during week commencing 13 March 2020 to the Level LB.1 Raft
+Slab and following the joint meeting held on 23 March 2020 (ref: 1) would like to confirm that we have
+so far undertaken the following measures and/or preliminary site investigations:
+1.
+The additional re-grouting works to Pier 4 (adjacent GH38) were stopped immediately on 18
+March 20 as soon as the cracks had been found to have occurred to the Basement Level LB.1 slab (SSL
++3.0) by building division. A time frame of the additional re-grout works together with the drilling fluid
+loss consumption for each point is attached at Annex A for reference.
+2.
+4 piezometers have been installed within the additional re-grouting zone (1 outside the D-wall
+and 3 inside) in order to start monitoring the water table level. Locations of the Piezometers and reading
+for last few days are attached hereto (refer to Annex B).
+3.
+Installation of additional 5 piezometers are ongoing (additional 3 piezometers on airside away
+from the additional re-grouting zone and 2 Piezometers at the landside zone). Annex C refers.
+4.
+Inquiries / site visits were undertaken on 21 and 22 March 2020 with a dewatering company
+(Transmak), with a view to installing a suitable dewatering system to try and lower the water level in the
+immediate vicinity in order to reduce the pressure to the basement slab to avoid continuity of cracking
+(refer to attached e-mail at Annex D). We awaiting their feedback.
+5.
+Discussions with BAUER and their geotechnical consultant (Orbit) remain ongoing associated
+with undertaken a geophysical survey at the Basement Level LB.1 slab area (at the location of the
+observed cracking), in order to identify what exactly is beneath the Level LB.1 raft slab.
+6.
+Discussions for potential coring through the raft slab are also on-going (the coring will provide
+relief holes with packers to extract the water). This option may be implemented immediately after the
+geophysical survey while waiting the dewatering company’s technical suggestions.
+In light of the potential seriousness of this issue, we urge you to insist that the MTB Designer, i.e. the
+Employer’s Design Consultant (ARUP) take an active part in respect of the above as a matter of urgency
+and lead the ongoing investigation and provide direction for further investigation and/or the required
+rectification/reinstatement works. Meanwhile, please consider this letter as an advance notification,
+pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), that the
+events and/or circumstances described above are likely to cause delay and disruption to the Works.
 Yours faithfully,

@@ -1,70 +1,73 @@
-Subject: Descope of Lozenges
-Dear Sir,
-With reference to the above subject and in continuation to our letter referenced (3) and your letter
-referenced (4) above, find below our response for the matter subject.
-Please note that, your statements in your letter referenced (4) above are in fact incorrect and show your
-deliberate misinterpretation and denial of your own commitments. We refer to the Commercial Meeting
-held at our Office on Thursday 09 November 2017 and in particular to your apparent refusal to proceed,
-without the issuance of a revised Variation Order, with the additional works that we have instructed you
-to implement, by way of Variation Order No 16.
-For ease of reference, we present herewith, the history of events associated with the foregoing, in an
-attempt to resolve this matter at once:
-•
-•
-•
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0170
+Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting Finalisation of
+Snagging, De-Snagging and T&C Activities to L2.0
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
+Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to the processing of re-entry permit / NOCs and
+activities of Others affecting finalisation of snagging, de-snagging and T&C activities to Level L2.0
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Specifically we urge you to review and respond to Contractor’s Material submittals without further
+undue delay. Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+In the period between 17 October 2019 and 31 October 2019, we submitted various Re-Entry Permits /
+NOCs, requesting permission to re-enter various Duty Free and F&B Outlets to Level L2.0 to allow us to
+complete various Works, such as snagging, des-snagging and testing and commissioning activities. These
+Permits or NOCs include the following 26 nos. of RDD Form 15s summarised in Table 1 below:
+Table 1
+Sr. No. NOC No.
+Rev
+Room No.
+Description
+Date Request Issued
+[TCA JV to CMA]
+Response Due Response Received
+Reply Overdue By
+[calendar days]
+1
+RDD-489
+0
+2091 Isolator , LOTO & install MCCB 17-Oct-19
+20-Oct-19
+The information recorded in Table 1 shows the NOC reference number, the revision, the description of
+works and room number, plus the date the request for an NOC was made, and when the response to
+our request for access was due; the latter being based on a nominal three-day turn-around time. In
+other words, approval is traditionally granted within three (3) days from our request being issued.
 
-Variation Order 16 has been issued to Cloisall on 19th March 2017 for the “Lighting Lozenges
-subsequent to the benchmark approval at L0.0” of 173 No Lozenges amounting AED
-6,837,389.85;
-On 24th July 2017 you have accepted the Variation order via letter referenced (5) above stating
-that in case there is a cost variance in fabric requirement, Cloisall may request a revised
-Variation;
-TCAJV and the Employer requested you to follow the original IFC fabric requirements. However,
-you have suggested and insisted on the change of fabric. The suggestion for the change was
-acknowledged in several meetings with the participation of the Employer, where it was agreed
-that there will be no cost and time impact;
-
-•
-
-Following the agreement that there will be no cost-time impact on the fabric change, you
-submitted a transmittal ref MTB-CLO-TCAJV-T2479 dated 30th October 2017, requesting
-additional AED 3,197,094.21 for the change (an increase in the order of approximately 47% over
-the amount agreed);
-• On 19th November 2017, a meeting was held, where you were requested to provide a fully
-substantiated cost. Unfortunately no supporting documentation have been provided to date;
-• Thereafter a reduction in the quantity of the lozenges from 173 No to 10 No was requested by
-the Employer;
-• You have submitted ROM108 Rev02 for the 10 No of lozenges via transmittal referenced (8)
-above in which the price was increased significantly from AED 1,037,855.00 to 2,371,215.62
-compared to the price agreed in Variation Order 16;
-• You have failed to provide the substantiation for the increase and refused to proceed on site
-without the acceptance of the additional unsubstantiated AED 1,301,246.57. This demonstrates
-your intention not to continue performance of your obligations under the Subcontract and
-complete the works and as per Clause 22.2.2 [Termination by Contractor for Subcontractor
-Default], entitles us to terminate the part of the works affected;
-• In addition to the above, it is also noted that, during our email correspondence (email sent by
-your representative on Sunday, December 10, 2017 5:02 PM) you stated that “The initial price
-was grossly underestimated by M/s. SAS and subsequently corrected in the recent submissions
-based on the design development process and obtaining related costing based on the
-aforementioned…”; It is noted that, even though the statement regarding the alleged
-underestimation of the price has no Contractual value, due to the fact that all agreed Variation
-Orders are binding under the Subcontract, nevertheless, we requested you to provide all
-substantiation for review and evaluation as mentioned herein;
-• Thereon, we requested you via official correspondence and several email correspondence to
-submit the substantiation of the increase in price, but you failed to do so as per referenced (7)
-above;
-• Moreover, the lozenge benchmark has already been approved in December 2017 by the
-Employer with few minor comments. The final approval has been given by the Employer to you
-on 14th January 2018 after rectifications have been completed by you;
-• Since the situation became critical, we issued the letter referenced (3) above, omitting the
-sections of the mentioned Subcontract Works.
-In light of the above explanations, please be informed that the value of the variation will be
-implemented as negative AED 6,837,389.85.
-The additional cost that you claim associated with the benchmark should be submitted as a separate
-RFVO with full substantiation including quotations, invoices, drawings, quantity take off etc. for our
-assessment and issuance of separate Variation Order.
-You are hereby reminded that any delays, costs, losses and/or expenses and the like incurred by us
-and/or Other Subcontractors arising as a result of failure to action Contractor’s Instructions shall be
-solely at your responsibility and recoverable from you pursuant to the subcontract agreement clauses
-including but not limited to 12.12.4, 16.6.1 and 22.2.4, in addition to other relevant clauses.
+However, the information recorded in Table 1 further records that at the cut-off date associated with
+the preparation of this Notice (i.e. 4 November 2019), while only 1 out of the 26 NOC requests listed
+therein have been responded to, the response was issued 9 days late. This also demonstrates that for
+the remaining 25 NOC requests, the responses are exceeding and by all accounts continuing to exceed
+the three day turn-around response time by periods of upwards of 15 calendar days late.
+This is unacceptable, particularly at this stage of the Project. This is made worse by the fact that not
+only have we previously written to you on matters such as this by way of our letter ref (2) but we have
+issued various reminders to you, including e-mails dated 20, 26 and 30 October 2019 (copies attached)
+but these have been overlooked and the status of the overdue NOC requests remain.
+The purpose of this E-notice is two-fold: Firstly, we wish to notify you of appreciable concerns we have
+in relation to the NOC process, specifically a failure on your to process our requests for re-entry
+promptly and issue the approved NOCs in an timely manner, and Secondly the invariable impact that
+this failure has on our ability to complete the snagging, des-snagging and testing and commissioning
+activities, amongst other things; and accordingly urge you to ensure that the responsible third-party (i.e.
+Employer’s Tenants) responds to the requested NOC issuance in a prompt and timely manner.
+Potential Impact:
+Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
+Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
+Consequently, the more we are prevented from working due to the combined effects of the above, the
+more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
+specifically, we urge you assist with the prompt processing of our Re-Entry Permits allowing us access as
+well as urging the Employer’s Other Contractor to work with us so as not to delay our Works. Kindly
+ensure that such matters are resolved immediately from the date of receipt of this Notice.
 Yours faithfully,

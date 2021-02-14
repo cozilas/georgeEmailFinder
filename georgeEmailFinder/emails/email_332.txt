@@ -1,15 +1,84 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0142
+Engineer’s Response to RFI/0401/17329 – Introduction of new Door No. L01-3008.01 – Request
+for Engineer’s Instruction (RFEI) / Variation Order (VO)
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+Overview
+Your response to the RFI/0401/17329 detailed in Annex A represents a change in design and scope and
+requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Any requirement for additional works at this stage of the Project, such as that outlined herein, is likely to
+impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 14 April 2019, we raised RFI/0401/17038 Rev. 00 requesting further clarification and confirmation
+from you regarding the relocation and deletion of a number of doors to Level L0.1, sectors 5.17 and
 
-Subject:Back Charge Notification for Materials
-Dear Sir,
-We write with reference to the enclosed quotations referenced in (3) & (4) and LPOs referenced in (5)
-above regarding the aforesaid subject, please be advised that we have placed an order for the materials
+5.22. This included without limitation, requesting confirmation as to whether Door ‘L01-0065.04’ and its
+associated access control requirements, was to be deleted or not from our scope of Works.
+We requested a response to RFI/0401/17038 Rev. 00 by 22 April 2019; however, you failed to reply until
+15 May 2019. Notwithstanding, you confirmed that Door ‘L01-0065.04’ was ‘deleted’ and moreover,
+that the “Deleted door [does] not need SACS”. However, you then subsequently provided ‘additional
+clarification’ by way of a Rev. 01 response to RFI/0401/17038 Rev. 00, issued on 28 May 2019; consisting
+of a partial extract of a revised Door Schedule enumerated as ‘ASK-4068 (RFI-17038) Sheet 01 of 01’, in
+confirmation that inter alia Door ‘L01-0065.04’ was listed as “Deleted”.
+Following which, we raised RFI/0401/17329 Rev. 00 on 24 July 2019, having identified that despite Door
+‘L01-0065.04’ having been confirmed by you as ‘deleted’, the same door number was in fact shown on
+the IFC Drawings to have been assigned to another door located in the BHS shaft; and it seemed the IFC
+Drawings had not been updated following the response to RFI/0401/17038 Rev. 00:
+“Please note that … door L01-0065.04 is omitted under … RFI-17038 and the combined door schedule is
+updated for this door [also] … which confirms [the] omission of this door as well. However we realized
+that the same door number [L01-0065.04] is given for another door located on BHS shaft area on IFC (A02-458_05) under bulletin-51 which seems IFC was not updated based on those RFI responses.”
+In other words, despite Door ‘L01-0065.04’ having been omitted under RFI/0401/17038 Rev. 00, the
+same door tag was shown on another door also located in sector 5.12 (refer to Figure 1 below):
+Figure 1 – Extract of IFC A-02-458_05
+Within RFI/0401/17329 Rev.00 we elaborate on the extent of the anomaly, where we state: “… this door
+tag seems removed in other bulletins without any cloud however IFC A-04-218_06 still indicated.” An
+extract of IFC A-04-218_06 is provided in Figure 2 below:
+Figure 2 - Extract of IFC A-04-218_06
+While in another revision to the IFC, namely IFC A-02-458_11, Door ‘L01-0065.04’ was still shown to
+exist, yet the other door in the BHS shaft area, the door tag number was not shown (Figure 3 below):
+Figure 3 – Extract of IFC A-02-458_11
+It was because of these inconsistencies and the fact the IFC Drawings had not been updated according
+to your earlier RFI response, that we raised RFI/0401/17329 Rev. 00 on 24 July 2019, requesting further
+clarification for the two doors shown in IFC A-02-458_11 (Figure 1): i.e. (1) Door ‘L01-0065.04’ which we
+were led to believe had been omitted but for some reason was still shown in the IFC Drawings; and (2)
+the other Door to the BHS Shaft area which was shown in the IFCs without / with a door tag number. In
+addition to asking you to re-confirm whether the previously omitted door was required or not, we also
+requested confirmation of all necessary technical information in respect of the door to the BHS shaft
+area that was currently missing / not indicated on any IFC Drawings:
+“…Please advise and kindly provide the related door requirements (door type, fire rating requirement,
+hardware set, SACS requirement, linked to fire alarm etc. …) for this related door located at BHS Shaft. If
+SACS is required please provide IFC information related to Access control, Power & Data”.
+You responded to RFI/0401/17329 Rev. 00 on 8 August 2019, and referred us to a series of five (5)
+attachments appended thereto i.e. ‘ASK-4099 (RFI-17329) (3 Sheets)’ and ‘YSK-0400 (2 Sheets) RFI
+17329’; consisting of three marked up / clouded sketches [based on IFC Drawings]; one partial extract of
+a revised Door Schedule, and one Access Control Schedule. Collectively the attachments to your
+response to RFI/0401/17329 Rev. 00 confirmed that: (1) Door ‘L01-0065.04’ has been deleted in its
+entirety and no longer formed part of our scope of Works; and (2), confirmed the inclusion of an entirely
+new door tag number i.e. ref ‘L01-3008.01’ (refer to Figure 4 below) for the door located in the BHS
+shaft area which was either incorrectly shown as being L01-0065.04’ or was not shown at all.
 
-on your behalf due to your failure to fulfill your subcontract obligation with regards to procurement and
-delivery of the required materials in a timely manner.
-We hereby confirm our entitlement to deduct such amounts including but not limited to the enclosed in
-accordance with Clause 10.3 (Contractor’s Claims), from your interim payments accordingly.
-In addition, we shall back charge any amount that falls under your responsibility in accordance to Clause
-10.3.5 and 11.4, whereby you are liable to the Contractor for the costs arising out of your failure to
-perform your obligations under the Subcontract.
-This is for your information and record.
+Figure 4 – RFI/17329 - ‘ASK-4099 (RFI-17329) Sheet 01 of 03’
+On the face of it, both the revised Door Schedule and Access Control Schedule attached as part of your
+response to RFI/0401/17329 Rev. 00 provided all of the technical information required i.e. Door Type,
+Dimensions, Fire Rating, SACS etc., necessarily required to install Door ‘L01-3008.01’. That said, it is
+clear that the introduction of door ‘L01-3008.01’ represents a change. However, given that SAA8 laid
+down strict guidelines to follow if additional works are required and you appear to have ignored those
+obligations, then this change will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if
+you require us to proceed with integrating the revised scope into the Works.
+We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
+as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
+is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
+the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted herein. We trust this is clear.
 Yours faithfully,

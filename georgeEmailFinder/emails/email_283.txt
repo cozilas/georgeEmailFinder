@@ -1,27 +1,88 @@
-Subject: Clarification on ADAC's Tax Registration Number (TRN)Customs Importer Code
-Dear Sir,
-In view of the VAT implementation from 1st of January 2018, in order to custom clear the shipments
-upon
-arrival at Abu Dhabi Ports, the consignee's Tax Registration Number (TRN) should be linked to their
-customs importer code.
-Kindly confirm that ADAC's TRN is linked to their customs importer code to avoid any concerns during
-the
-customs clearance.
-Subject: Variation Order No. 116 - Engineer's Instruction No. 23 -Steel Structure
-Dear Sir,
-We acknowledge receipt of your Variation Order No. 116 under the letter referenced
-MTC-CMA-TCA-0401-LTR-08739 dated 02 January 2018.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0175
+Late and Unreasonable Status Code 3 Comments Issued in Reply to Document Submittal No.
+DS/0401/2875 Rev. 03 – Configuration Management Plan
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to the progress and completion of the Works due to
+the Engineer’s late and unreasonable Code 3 comments issued in response to Document Submittal No.
+DS/0401/2875 Rev. 03, rejecting the previously approved ‘Configuration Management Plan’.
 
-We accept and agree to Variation Order No. 116 on the basis that the following items are not included
-and
-shall be evaluated separately:
-Additional costs associated with design, engineering, contract administration, project administration and
-site supervision for the changes;
-Any costs associated with disruption, acceleration or price escalation;
-Through the assessment process carried out by CMA, this RFVO has been agreed to the extent detailed
-and signed for by AECOM and TCAJV on the RFVO agreement sheet. Changes to Moment Connections,
-Connections designed by Engineer and Connection designed by Contractor have not been agreed. These
-are noted on the signed agreement sheet and submitted separately for evaluation .
-Accordingly, and as requested, we hereby return the signed originals of the attached Variation Order.
-Once both Originals are signed by all parties, please provide one original to us for our records.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 14 August 2019, we submitted DS/0401/2875 Rev. 03, seeking your approval of the Configuration
+Management Plan (CMP) in the manner set out in Table 1 below. According to Section 1.0 ‘Scope’, the
+CMP describes the overall technical and administrative direction and control of all systems under the
+Master Systems Integration (MSI) scope during the Integration Test Facility (ITF) testing through the Site
+testing and commissioning activities. The CMP is therefore of significant importance.
+Table 1
+Item Date submitted Submittal Ref Rev
+Description of Contents Response due per Section
+013300 Response received
+Status Code
+Delay (Calendar Days)
+1
+14-Aug-19
+DS/0401/2875 03
+Configuration Management Plan
+21-Aug-19
+5-Nov-19
+3
+83 days
+In addition to indicating when the CMP was submitted, the information recorded in Table 1 shows when
+the response to DS/0401/2875 Rev. 03 was due and when the response was actually issued
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our submittals. On the basis that DS/0401/2875 Rev. 03 is
+at Rev. 03 then this ought to have been responded to by you 7 calendar days later, i.e. by 21 August
+2019. However, Table 1 shows that you exceeded the review periods expressly stipulated in the
+Contract, by a total of 83 calendar days. At this stage of the Project, this delay is unacceptable.
+We further record that your response to DS/0401/2875 Rev. 03 contains what we contend are a series
+of additional and / or unreasonable Status Code 3 comments, despite DS/0401/2875 having previously
+been granted Status Code 2 approval vide your reply to Rev. 02. By way of example:
+•
+Section 5.2.2.1.1 (No update made in the section, yet you have issued 3 additional comments in
+the Code 3 version);
+•
+Section 5.2.2.1.3 (No update made in the section, yet you have issued 8 additional comments in
+the Code 3 version);
+•
+Section 5.2.2.1.4 (No update made in the section, yet you have issued 1 additional comment in
+the Code 3 version);
+•
+Section 5.2.2.1.6 (Minor update made in the section by changing the word "designate" to
+Configuration Change Coordinator. However, yet you have issued 15 additional comments not in the
+update but in the other paragraphs within the section);
+•
+Section 5.2.2.1.7 (No update made in the section, yet you have issued 5 additional comments in
+the Code 3 version); and
+•
+Section 5.2.2.2.1 (No update made in the section, yet you have issued 3 additional comments in
+the Code 3 version).
+At the risk of being repetitive, all of the sections with your comments except for those that we had
+previously updated and you had commented on, are new comments or comments that were not
+
+provided in the previous Code 2, Rev. 02 of DS/0401/2875. For brevity, we have not repeated these
+comments here, but nevertheless maintain that there was nothing to have prevented you from
+identifying or bringing our attention to such comments during your review of DS/0401/2875 Rev. 02.
+This unreasonable practice which erroneously identifies alleged comments has to cease forthwith, but in
+the meantime continues to have major ramifications on the Project, particularly at this stage.
+Resultant Impact:
+Meanwhile, the protracted time taken by you to respond to DS/0401/2875 Rev. 03 coupled with your
+unreasonable Code 3 comments, particularly at such a late stage of the Project has the potential to
+delay and disrupt our Works. Specifically, the Configuration Management Plan is essential in so far as it
+affects Testing and Commissioning, which is similarly essential in enabling us obtain the Building
+Completion Certificate (BCC). This is critical to achieving Milestone MS09B. Consequently, the more you
+unduly prolong the approval of CMP and subject it to unnecessary and unreasonable Status Code 3
+comments, the more likely this will prevent us from achieving Substantial Completion (MS09C).
 Yours faithfully,

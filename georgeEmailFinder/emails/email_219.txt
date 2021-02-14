@@ -1,29 +1,35 @@
-Subject RE: Limited Work Front for Finishing and Handing Over
+Subject Delay in Central Processor Cause and Effect Documents Submission
 Dear Sir,
-Further to the Subcontractor's letter reference (1), the Contractor wishes to clarify as follows:
-1. In respect of the Subcontractor's alleged delays in obtaining the acceptance certificates, the
-Contractor notes that these delays may be attributable to the incomplete handing-over deliverables
-made by the Subcontractor. Accordingly, and as advised via the Contractor's letter reference (2), the
-Subcontractor is requested to attend the close-out coordination meeting which is the right forum to
-address these topics.
+We write with reference to correspondence (1), and we refute the Contractor's assertions and
+respond as follows:
+The Contractor's statement "we have submitted our various Submittals to you in a timely manner" is
+factually incorrect. It is clear that the Contractor has failed to submit most of the documents related to
+the Cause and Effect testing in advance of the Central Processor's Cause and Effect testing that was
+scheduled to commence on 06 February 2019 in line with the SAA8 Rev 11.2 Baseline Programme. In
+addition to this, the Contractor has spent an extensive amount of time in resubmitting the revisions of
+every document and this delay has added further risks to the Contractor's Target Programme
+Completion dates. Tables 1 and 2 (attached) provide a summary status of the Contractor's Cause and
+Effect documents that have been submitted to date. From the attached Tables, it is evident that the
+Contractor's document submissions remain inadequate and therefore, it requires another cycle of
+submission and reviews. The Engineer notes with concern the continual Contractor's failure to
+adequately address the Design Consu ltant's review comments entirely, despite several workshops
+taking place between the Contractor, Design Consultants, AHJ, and Engineer in resolving the issues.
+Through several correspondence, deficiencies of the submitted various document revisions were a
+lack of coordination between the f ire alarm drawings and other systems and equipment controlled or
+monitored by the fire alarm.
+We reiterate that the delays to the completion of Cause and Effect testing is one of the main drivers
+significantly impacting the Project's critical path and a cause of irrecoverable schedu le delays. As the
+Contractor continues to resubmit the above documents, the completion of the Cau se and Effect
+test ing in the MTB is likely to be further delayed. These delays have a negative impact on the BCC
+inspections and subsequent approval, Taking Ove r, and Substa ntial Com pl etion. These delays are
+ma inly attributed to the uncoordinated engineering management and the shortage of Contractor
+resources and are, therefore, the Contractor's own delays.
 
-2. In relation to the production of the portable planters being interrupted by the lack of site accessibility,
-the Contractor notes that the Subcontractor was instructed in May 2017 to commence the delivery of
-portable planters (PS-1.0) to Site; however, the Subcontractor did not proceed accordingly because it
-did not have sufficient resources in its factories to assemble the two halves of the portable planters. The
-Contractor refutes therefore that the delays in the progress of the portable planters' works result from a
-site accessibility issue; these de lays are attributable to the lack of manufacturing capacity of the
-Subcontractor.
-In addition to the above, the Contractor notes that the Subcontractor has provided no details in respect
-of the additional cost and/or time incurred.
-Notwithstanding this, should the Subcontractor still intend to claim compensation from the Contractor
-visa- vis the above described events, the Contractor reminds the Subcontractor of his obligation to
-submit a fully detailed claim within twenty-eight (28) days from the date of the events which allegedly
-gave rise to the claim pursuant to the requirements of sub-clause 27.1.5. Furthermore, the
-Subcontractor is also obligated to submit a Time Impact Analysis in accordance with sub-clause 27.2.1
-within twenty-one (21) days in order to enable the Contractor to review any entitlement the
-Subcontractor may have for additional time and/or cost.
-The Contractor urges therefore the Subcontractor to comply with the above stated contractual
-obligations as this will form part of the basis of the Contractor's assessment of the Subcontractor's
-submitted delaying events.
+The contractor has not evidenced any entitlement to any extension to the time for completion as
+detailed in the engineer’s letters.
+In light of the above, the contractor is directed to take inmmediate mitigation measures and all
+necessary actions to expedite the resubmission of a fully compliant cause and effect documentnation in
+order to recover the delatus caused byu the contractor to date.
+We hereby reserve the employer’s rights under clause 10.3 of the conditions of contract for any
+damages the employer may incur as a result of the contractor;s slow progress and inaction.
 Yours faithfully,

@@ -1,21 +1,14 @@
-Dear sir
-We write in relation to RFVO {1) related to Engineer's Instruction No. 430- De-scope of Beam Seating
-Compensation. In the Request for Variation Order, the Contractor claimed that due to the instruction to
-de-scope beam seating, considers the omission a breach of Contract and that as a result is entitled to
-recovery of costs and profit associated with the omission. The Contractor has calculated the costs that it
-considers is entitled based on 11.11% (Overheads and Profit) of the omitted Scope - Beam Seating i.e
-
-AED 22,190,603.75. The RFVO is for the amount of AED 2,465,378.08. The Conditions of Contract are
-very explicit with regards to varying works. The definition of Variation in the General Conditions (Clause
-1.1) includes; " .... a) the addition, omission or substitution of any work or any part thereof" The
-Engineer considers that the omission of the beam seating falls within the definition of Variation and
-rejects the Contractor's assertion that issuance of Engineer's Instruction No. 430 constitutes a breach of
-Contract.
-With regard to the Contractor calculation of the amount due (AED 2,465,378.08 for profit and
-overheads}, the Engineer has previously written to the Contractor (letter reference 6102} referring to
-Schedule 6- Bills of Quantities (of the Conditions of Contract)- Preamble 12;
-"The rates inserted in the Bill of Quantities will be used to value any Variations to the Works, whether
-omissions or additions. The Contractor shall not be entitled to payment for profit and overheads on the
-value of any omitted Works" Based on the Contractor's submission, RFV0/0401/1408 is rejected and a
-Variation Order in the amount requested will not be issued.
+Subject:Handed Over MEP and IT Services in AMC, Damaged/Removed by Other Contractors – AMC
+Damage Report
+Dear Sir,
+With references to the Contractor’s letters reference (1) and (2) above, the Contractor encloses the
+“AMC Damage Report” regarding the damages to the handed over MEP and IT services at AMC Room214 in Office Building Level 3.1, caused by Other Contractors.
+The Contractor reiterates that, the Contractor shall not be responsible for the protection of the MEP and
+IT services in the aforementioned area, as these services have been installed, inspected and handed
+over to the Employer through WIR procedure. As such, the Contractor shall not be responsible for any
+system failure or certification process related to these MEP and IT services.
+Please be advised that, an Engineer’s instruction pursuant to Sub-Clauses 11.3.3 and 20.1.1 (a) of the
+Conditions of Contract, and/or a formal confirmation of Variation, in accordance with Sub-Clause
+20.1.4.(b) of the Conditions of Contract, shall be required for the re-installation, re-testing and
+commissioning works, and for the certification process.
 Yours faithfully,

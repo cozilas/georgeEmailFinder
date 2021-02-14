@@ -1,0 +1,420 @@
+Subject: Contractor Claim for Adjustment of Contract Price -Claim No 496 Omission of Value Engineering
+Items STRUC-02 and STRUC-09
+
+We refer to RFVO's reference (01) and {02) issued to you for the adjustment of the Contract Price due to
+the insufficiency of value engineering undertaken by the Employer to achieve the saving associated with
+the following Value Engineering Items (VEl), respectively:
+• Replace curved plate girders with trusses (STRUCT-02); and
+• Replace the curved plate secondary girders by trusses (STRUCT-09).
+It is a factual and undisputed fact that IFC Drawings issued for the implementation of VEl's STRUC-02
+and
+STRUC-09 did not incorporate the intended scope of the respective VEl documents as set out in
+Schedule
+24 and Schedule 6 of the Contract. As a result, the Employer materially failed to realize the accepted
+savings included in the Contract Price for which the Contractor now seeks to recover payment for the
+original Works as set out in the Contract.
+• From a VEl Bill of Quantities point of view, the value of relevant Works is expressed by the "omit"
+value of the original Works and the "add" value of the VEl Works, the net result being the value of VEl
+savings included in the Contract Price. The VEl values were expressly established in this
+manner to indicate the 'provisional' nature of these values and allow for their reversal or readjustment
+according to Employer responsibility outcomes.
+• From a VEl Contract compliance point of view, the Engineer is required to issue IFC Drawings
+adopting VEl's. To the extent that an IFC Drawing falls short or omits the implementation of the
+intended VEl scope, such shortfall or omission constitutes a Variation. ·
+• From a discrepancy I inconsistency between Contract documents point of view, IFC Drawings that
+do not conform to the VEl documents require the Engineer to resolve the discrepancies I
+inconsistencies between the IFC documents and VEl documents. A resolution which does not
+conform to the order of precedence of a VEl document over a Drawing would constitute a
+Variation.
+In the event the Engineer were to give precedence to IFC Drawings at the expense of a higher priority
+VEl
+document (being opposite to the Contract document order of precedence), this would be a Variation.
+Refer to Conditions of Contract (CoC) clauses 9.6.1 and 9.6.2 that state, inter alia, " ... the resolution of
+any
+such inconsistency, ambiguity and/or discrepancy in or between the documents referred to in clause
+9.6.1
+above shall not be construed as a Variation, provided the Engineer shall resolve such inconsistency,
+ambiguity and/or discrepancy by deferring to the order of precedence set out above ... "
+Therefore, an instruction issued pursuant the Contract which constitutes a Variation should be
+confirmed
+by a Variation Order in accordance with the right to vary provisions of Contract and recorded in a Time
+Cost/Record for the adjustment of the Contract Price and Time for Completion.
+Although the Engineer agreed that the matter should be resolved by means of a Variation Order, the
+Engineer has unjustifiably prevaricated on the matter resulting in the withholding of payment for Works
+already completed. This whilst continuing to indefinitely delay the issuance of a straight forward
+Variation
+Order; particularly in light of the queries raised in Engineer's letter ref. (02).
+The Contractor hereby provides the Engineer with notice of claim pursuant to clause 27.1 for the
+adjustment of the Contract Price arising from non-compliant Drawings issued by the Engineer pursuant
+to
+CoC clause 9.10 for Construction purposes (IFC Drawings).
+
+Find below the relevant facts and circumstances in the context of each Party's rights and obligations
+under
+the Contract.
+1. Relevant Facts and Circumstances of Value Engineering Items STRUCT 02 and 09
+During the period immediately following the signature of the Contract in which the Employer was
+purportedly engaged with the design Consultant to adopt the agreed VEl's for the purpose of
+incorporating the necessary changes and issuing IFC Drawings, the Contractor became concerned that
+no
+discussions or queries were being raised in connection with the VEl implementation. This prompted the
+Contractor to seek visibility into design changes for which AED 1 billion savings had been included in the
+Contract. Please refer to query seeking visibility into the process issued to ADAC (acting as the Engineer
+at
+the time) ref. (21) above. No reply was received to the aforementioned letter.
+Specifically the Contractor was concerned for:
+• deviations and variance that could result in negative commercial impacts from false savings being
+taken without corresponding VEl's being implemented;
+• delays in the delivery of such significant amount of change in the short time frame allowed in
+Schedule 15 for the completion of VEl design effort; and
+• potential abortive Works arising from IFC Drawings issued without the implemented VEl's.
+Refer to letter from ADAC ref. (20) above wherein the Employer "Issued for Construction" documents
+were issued without any Value Engineering changes. The performance principle that a failure to
+implement VEl's has commercial consequences was
+acknowledged by the Employer as recorded in AECOM minutes ref. (19) and other minutes for various
+other VEl's such as minutes ref. (17) above.
+The lack of VEl design implementation progress and the omission of VEl's STRUC-02 and STRUC-09 was
+recorded in Contractor letter ref. (18), in which the Engineer was notified that an analysis of the
+proposed
+VEl tri-chord structural steel truss by the Employer's structural engineering consultant could not be
+adopteq.
+The aforementioned letter indicated "that the value engineering savings intended will not be achieved"
+and reported further that the "remit of the current {ARUP} design exercise excludes the arches and
+backstays which limit the full potential of the [VEl} savings". Although we requested "that the Engineer
+investigate fully the potential of increasing the structural depth I zone to accommodate the tri-chord
+truss
+solution and realising the savings anticipated by the VE," we point out that no reply was offered by the
+Engineer in response to letter ref. (18) or the requests contained therein.
+Further to the notice in Contractor's letter ref. (18), the Engineer issued minutes ref. (16) confirming the
+Employer's agreement with the Employer's Consultants to abandon VEl STRUC-02 and STRUC-09.
+To avoid the potential for fu rther simulations to the contrary, it is well understood by the Parties as well
+as the Engineer that having accepted the VEl's on a fixed price basis, the Employer was obliged to
+implement the VEl's by adopting, incorporating and integrating these items within the overall design and
+to deliver "Issued for Construction" documents strictly according to the intents and representations set
+out in the VEl scope of Works.
+The Engineer and the Employer fully recognized and understood that the abandonment of a VEl design
+implementation was an Employer responsibility and that such action would jeopardize the Employer's
+right to the accepted cost saving considerations. The Contractor offered that to the extent a VEl cannot
+be adopted, the un-adapted portion of a VEl (or in the case of VEl STRUC-02/09 alternative designs)
+would constitute a Variation. The un-implemented (omitted) VEl would be adjusted by means of a
+
+Variation Order according to the revised (or omitted) VEl scope as represented the final IFC Drawings)
+which would be used to re-evaluate the VEl value and adjust Contract Price accordingly.
+To clarify and avoid any misunderstandings regarding the Employer's VEl obligations and to avoid the
+potential for disputes, the Contractor proposed a contractual mechanism to accommodate for variances
+in
+the Employer's VEl design delivery and the necessary adjustments to the VEl savings. These principles
+were put forth in Contractor letter ref. (13) above, and were implicitly understood and agreed by the
+Engineer in confirmation letter ref. (15).
+Despite the structural engineer's unequivocal position regarding the viability of VEis STRUC-2 and
+STRUC09 and the Employer's agreement as established in references (18) and (16), Engineer's Transmittal ref.
+(14) issued to provide a status of the Employer's progress to "CLOSE OUT" VEl's continued to
+ambiguously
+indicate the status of VEl STRUC-02 and STRUCT-09 as "OPEN" (as opposed to "CLOSED").
+The Contractor subsequently notified the Engineer in letter ref. (11) that the Contractor will not proceed
+with any further alternative Structural Steel proposals (many which were initiated at the Contractor's
+cost
+in an attempt to make up for the Employer's short fall in realizing the VEl savings) due to the diminishing
+returns and like delays to the progress of the Works.
+Considering the short time period (within 120 day from the Commencement Date) in which the
+Employer
+VEl deliverables were be completed (i.e. 22 December 2012), no information regarding the VEl design
+implementation plan, progress or results of the Employer initiatives were provided. The Contractor
+received sporadic Bulletins indicating changes to previously issued IFC Drawings. Neither the Engineer
+nor the Employer offered any guidance, explanation or rationale regarding the details of the VEl
+implementation despite having requested visibility into the process. As a result the Contractor issued
+letter ref. (10) to clarify in sufficient detail the level of completion of each
+VEl. The Contractor provided a matrix identifying the Drawings and Specifications by cross-referencing
+to
+VEl no. and requested the Engineer to confirm accuracy and if such documents constituted all the
+relevant
+documents associated with each VEl. It is important to note that no reply was given to Contractor letter
+reference (10) above.
+At the time the Engineer had issued Bulletin 6 in transmittal ref. (12) which contained only seven (7)
+revised lfC Drawings (out of an anticipated 53) indicating modifications associated with VEl STRUC
+02/09.
+Although we never received any confirmation to the contrary, no further advice or instruction was
+issued
+by Engineer to indicate the conclusion of, or finalization of VEl STRUC-02 or STRUC-09.
+This state of affairs continued until the Contractor re-opened discussion to close out open VEl actions via
+letter ref. (09) above, wherein we provided a Value Engineer Status Log which classified the
+implementation of each Contract VEl as "YES", "MAYBE" or "No" according to IFC documents received at
+the time. The Contractor classified STRUC-02 and STRUC-09 both as "NO"; meaning not implemented
+with the remark "The VEl is being reviewed" to re-evaluate the VEl values.
+The Engineer initially responded in letter ref. (06) by acknowledging receipt and confirming the total
+value
+of the VEl savings of AED 1,011,413,937.04 included in (i.e. forms part of) the Contract Price.
+In accordance with the obligations establish in the Contract and the principles in the aforementioned
+
+correspondence we set out to close out VEl STRUC-02 and STRUC-09 by re-evaluating the VEl savings
+according to the values actually rea lized in the relevant IFC Structural Drawings. These were submitted
+as
+Requests for Variation Order (RFVO) No. 500 and 401, ref. (08) and (07), respectively:
+• RFV0-500 requested an adjustment in the Contract Price equal to full VEl value (AED
+48,620,160.00) for non-implementation of STRUCT-02 ; and
+• RFV0-401 requested an adjustment in the Contract Price equal to (AED 49,630,882.99) for partial
+implementation of STRUCT-09.
+Although the Engineer took an unreasonably period of time to review to evaluate the VEl STRUC-02 and
+STRUC-09 RFVOs, the review by the Engineer appeared to reach the conclusion that a Variation Order
+would be issued, but for the assessment of the revised va lue of the partial savings with respect to
+VEISTRUC09.
+The Contractor offered savings based on reductions in structural steel weight by calculating the
+difference
+between the original Drawings and IFC Drawings issued during the course of the Contract and the
+contract
+unit rate whereby the RFVO value proposed stood at AED 49,630,907.00.
+However, the Engineer's assessment indicated that the VEl is not a Variation and the VEl quantities are
+the
+Contractor's responsibility. In addition, the Engineer further alleged that using the weight as a measure
+for evaluating the Variation Order removes the risk of the accuracy of the BOQ quantities (based on
+weight of steel). The Engineer proposed that the value of VEl should be assessed according to a
+percentage of steel modified and projecting the ratio to total amount of the intended VEl savings. The
+Engineer's method derived a RFVO value of AED 46,675,371.60.
+The Contractor did not accept the Engineer's interpretation or method for the reassessment of the
+realized VEl value and notified the Engineer accordingly in letter ref. (OS) above, which also provides
+details of the above Engineer's assessment.
+The Contractor maintained that in order to achieve the savings contemplated in VEl STRUC-09 (and
+STRUC-02), the redesign of the structural steel components would have to achieve the net reductions
+set
+out in VEl definition. The Engineer's assessment that the net savings may be expressed in terms of a
+percentage of the component structure by using a notional multiplier of net savings as if it were a
+standalone
+lump sum item of non-VEl Works (which it is not) is not consistent with the intents under the
+Contract or the agreed Engineer principles for the managing VEl changes. The Engineer subsequently
+followed through with letter ref. (04) above which provided the Engineer's
+status of each VEl in a parallel but separate classification. Wherein, the Engineer classified both STRUC02
+and STRUC-09 as "MAYBE" without any further explanation. It is worth noting that the Engineer advised
+in letter ref. (04) "where there is a difference between our respective statuses we have included a
+commentary ... explaining why we consider a VEl has been achieved."
+On 14 February 2016 the Contractor provide Notice of Likely Delay ref. (1) warning the Engineer
+regarding
+the consequences of the protracted failure to agree a legitimate request for a Variation Orders. in
+respect
+of RFV0-500 (STRUCT-02) and RFV0-401 (STRUCT-09) : The Engineer was warned that the failure to
+
+refund the Contractor's monies has impacted the Contractor's (primarily the Central Processor
+Structural
+Steel Subcontractor) cash flow and in turn the Contractor's Structural Steel Progress (the effects of
+which
+have already resulted in real delays).
+On 6 April 2016 Engineer letter ref. (02) sought answers to a list of investigative questions regarding the
+Contractor's RFV0-500 (STRUCT-02) and RFV0-401 (STRUCT-09). We noted that most of the Engineer's
+questions appear to be deliberately ambiguous and in certain instances disingenuously contrived.
+Particularly since the Engineer has agreed to the Variations as a means for resolving VEl discrepancies
+and
+for having previously issued Variation Orders for the express purpose of re-evaluating and adjusting the
+Contract Price for similar VEl issues.
+We consider that the Engineer ought to be fully aware of each Party's rights and obligations in respect of
+any VEl since the Engineer was appointed on 16 August 2012; presumably steeped in the history of the
+MTB Contract, and having been party to confirming fundamental principles regarding the administration
+of VEl variations, which the Engineer confirmed to the Contractor in writing on 21 November 2012 in ref.
+(13) as follows:
+"We refer to your Jetter ref MTB/TCA/AECOM/U000093 dated 4 November 2012 in respect of
+the implementation of Value Engineering items.
+We note your concern that the final "Issued for Construction" drawings may differ from the
+agreed Value Engineering items and we confirm that should these differences be direct
+omissions or major alterations then a Variation Order will be considered."
+Notwithstanding, the Engineer's potential ignorance of the relevant facts and circumstances the
+Contractor acting in good faith offered answers in letter ref. (01) (erroneously dated 20 April 2014,
+should
+be 2016), with reservation that such were provided without prejudice to the Contractor's rights and
+entitlement under the Contract and at Law.
+The section below sets out the terms and condition of the Contract which entitle the Contractor to an
+adjustment of the Contract Price as requested in RFV0-500 and RFV0-401 as a result of the Employer's
+omission of Value Engineering Items STRUC-02 and STRUCT-09, respectively.
+2. Basis for Entitlement to a Variation
+Further to Contractor letters ref. (01) and (03) we wish to add the following:
+For clarity and technical correctness, "Accepted Value Engineering item" is not a defined Contract term.
+Therefore, notwithstanding several occurrences of such terms as 'Accepted Value Engineering item' or
+'Accepted Value Engineering Items', all such instances mean "Value Engineering Items" as defined in the
+Contract:
+"Value Engineering Items means the items so described and set out in Schedule 24 (Provisional
+Value Engineering Items and Value Engineering Items), which shall be holistically explanatory
+along with Schedule 6 (Bill of Quantities);" (emphasis added). The word "accepted" is a redundant
+descriptor used to differentiate from the Provisional Value
+Engineering Items that were also cited in Schedule 24 and Schedule 6, but were not included or forming
+part of Contract Price.
+It is worth emphasising that all the value engineering items in schedule 24, whether those included in
+the
+Contract Price or not, were all selected by the Employer from a larger group of pre-contract value
+engineering initiatives. The Employer was the sole party responsible for selecting and accepting
+~ontractor proposals anq for ultimately including those selected ones in ~he Contract Price.
+
+The important distinctions between the "accepted" Value Engineering Items (or VEl 's) and any other
+part
+of the Works is that the VEis are set out in both of Schedule 24 and Schedule 6 to mutually and
+harmoniously establish the intended scope of the Works. It should be apparent that the VEl's were
+undeveloped designs by virtue of not being incorporated into the Drawings and Specification.
+The definition cited above is intended to rightfully protect the rights of both Parties due to the nature of
+Works which at the time of execution of the Contract had not yet been developed and incorporated in
+to
+the Drawings and Specification. It was set forth by the Employer in order to conclude the Contract award
+in advance of undertaking the necessary Drawings and Specification changes to give effect to the
+precontract
+VEl proposals.
+In this manner the Employer accepted the Contractor proposal and committed to implement the VEl's
+post Contract. As such the fulfilment of VEl implementation obligation was and remains solely at the
+Employer's risk. The Employer's obligations to adopt and implement the VEl's are set out in CoC clause
+9.7.1 (as per added emphasis below):
+"9.7.1 The Contractor shall be deemed to have scrutinised, prior to the Effective Date, the
+Specification Drawings and all of other relevant parts of the Contract and shall be
+responsible for identifying and carrying out any further design necessary to allow the
+proper execution and completion of the Works. For the avoidance of doubt, the design
+of Value Engineering Items and Provisional Value Engineering Items shall be the
+responsibility of the Employer." (emphasis added)
+The time table of the Employer's obligation to develop the design and details of such Value Engineering
+Item and to issue corresponding "Issued for Construction" Drawings and/or Specifications is set out in
+CoC
+clause 9.10.1 and 9.10.2
+"9.10.1 The Specification and Drawing Release Schedule1 (including any Value Engineering
+Items) sets out the dates that the Engineer shall release drawings and/or
+specifications for use by the Contractor for construction purposes." (emphasis added)
+"9.10.2 The Contractor acknowledges and agrees that the Time for Completion and the
+Contract Price are inclusive of all Value Engineering Items. Provided the obligations
+under clause 9.10.1 are fulfilled on or before the dates set out in the Specification and
+Drawing Release Schedule (but subject to compliance by the Contractor with clause
+9.10.3 below) the Contractor shall not be entitled to any extension of the Time for
+Completion, reimbursement of additional cost or an adjustment to the Contract Price in
+relation to Value Engineering Items. For the avoidance of doubt Value Engineering
+Items shall not be construed as Variations." (emphasis added)
+It is worth pointing out that members of the Engineer's team have incorrectly implied that the last
+sentence above is grounds for denying the Contractor a Variation. It should be equally clear now, as it
+was
+at the time the Contract that, "Value Engineering Items" in CoC clause 9.10.3 is in reference to those set
+out in CoC 9.10.1, which the Engineer was purportedly required to issue as IFC's i.e. "for construction
+purposes".
+To resolve the deliberate and obvious conflicts, discrepancies and inconsistencies between the VEl's on
+one hand, and the original Contract Drawings and Specification, on the other, and to ensure the
+overriding
+intents of the VEl scope of Works (as should be delivered by the Engineer pursuant to 9.10.1}, over
+those
+
+represented in the original Contract Drawings and Specification, the Parties agreed the Contract
+documents order of precedence set out in CoC clause 9.6.1 as follows:
+"9.6.1 The documents forming the Contract are to be taken as mutually explanatory of one
+another. For the purposes of interpretation, in the event of any inconsistency,
+ambiguity or discrepancy between any two (2) or more documents, the documents
+shall take precedence in the following order:
+(a) Schedule 1 (Contract Particulars);
+(b) these Conditions of Contract;
+(c) Schedule 11 (Payment Terms);
+(d) Value Engineering Items;
+(e) Supplemental Clarifications;
+(f) Tender Bulletins;
+(g) Schedule 12 {Specification);
+(h) Schedule 17 (Drawings);
+(i) Schedule 6 (Bill of Quantities) (excluding the quantities which are for information
+only); and
+(j) the other Schedules and any other documents forming part of the Contract."
+(emphasis added}
+"9.6.2 The Contractor shall immediately notify the Engineer in writing if it finds any
+inconsistency, ambiguity and/or discrepancy in any of the documents referred to in
+clause 9.6.1 or between any of the documents referred to in clause 9.6.1 and the
+Engineer shall issue any clarification and/or instruction necessary to resolve such
+inconsistency, ambiguity and/or discrepancy. The Contractor shall not be entitled to
+any extension of the Time for Completion, reimbursement of additional cost or an
+adjustment to the Contract Price as a consequence of such clarification or instruction.
+For the avoidance of doubt, the resolution of any such inconsistency, ambiguity and/or
+discrepancy in or between the documents referred to in clause 9.6.1 above shall not be
+construed as a Variation, provided the Engineer shall resolve such inconsistency,
+ambiguity and/or discrepancy by deferring to the order of precedence set out above
+unless such interpretation would result in an unreasonable or manifestly absurd result."
+(emphasis added}
+The Contract documents order of precedence intended to ensure the supremacy of VEl scope Works and
+the corresponding consideration for the same, by setting out the Value Engineering Items above all of
+other documents including the Specification (Schedule 12} and the Drawings (Schedule 17).
+Whereas, the Contract definition of Value Engineering Items was meticulously and deliberately set out
+to
+mutually and harmoniously define the VEl by the VEl schematic documents (in Schedule 24) as well as
+the
+VEl and quantities in VEl BOQ documents (Schedule 6}.
+By referring to CoC clause 9.6.1 (d), the Engineer should be fully aware that no Schedule number is
+associated with "Value Engineering Items" on line (d) (as compared to the other Contract documents
+listed therein}, which is also relevant to the Engineer's obligations under CoC clause 9.10 for Drawings
+and
+Instructions. These provisions of the Contract are fundamental terms and conditions of the Contract
+For the avoidance of any doubts, the parts of the Provisional Value Engineering Items and Value
+Engineering Items (Schedule 24} document, together with the parts of the Bill of Quantities (Schedule 6)
+that set out VEl Works are elevated to level 'd' in CoC clause 9.6.1, notwithstanding that the Schedule 6
+and Schedule 24 are set at lower levels of precedence 'h' and 'i', respectively.
+
+De·spite the unstudied conceptual nature of the Structural Steel VEl, STRUC-02 and 09 set out finite
+values
+based on the Contract defined units of measure for the savings element, i.e. tons of structural steel.
+Where in, both Parties understood and agreed that in order to realize the va lue of such VEl concepts
+the
+Employer is required to develop such concepts in order to realize (or equally meaningful "preserve") the
+VEl values included in the Contract Price.
+By setting about to execute the Contract on a fixed price basis before implementing the VE l design, the
+Employer knowingly accepted the responsibility for the VEl outcomes and the risks associated with
+achieving the VEl savings. The Engineer and the Employer always understood their responsibility to
+deliver
+IFC Drawings for which the Employer accepted the associated design liabilities.
+As such the Employer shall always remain responsible for the outcome of VEl design, including any
+variances from the quantum of savings. Notwithstanding any reversals to the contrary, the Engineer
+acknowledged and confirmed that with VEl quantum variances constituted Variations. The Engineer is
+fully aware that such variances are driven by the reliability of the original concepts and efficacy and/or
+viability ofthe Employer's VEl design.
+For clarity regarding what may be deemed a Drawing under the Contract, CoC clause 1.1 provides the
+following:
+"Drawings means the drawings of the Works set out in Schedule 17 (Drawings), and any
+additional and modified drawings issued by (or on behalf of) the Employer in accordance with
+the Contract;"
+Moreover, CoC Clause 21.2 expressly allows for the Adjustment of the Contract Prices as follows:
+"21 .2.1 The Contract Price shall only be adjusted in the specific circumstances and by the
+specific amounts expressly provided for in:
+(a) clause 9.10 (Drawings or Instructions);
+(b) ....
+If the Contractor incurs any Cost as a result of any of the matters set out above the
+Contractor shalf give notice to the Engineer and shall be entitled subject to clause 27.1
+{Contractors Claims) to payment of any Cost, which shall be added to the Contract
+Price.
+After receiving the notice set out above the Engineer shall proceed in accordance with
+clause 11.4 (Determinations) to agree or determine the matters contained in such
+notice.
+Where any entitlement under this provision originates from any failure by the
+Employer and that failure was caused by any error or delay by the Contractor,
+including an error in or delay in the submission of any of the Contractor's Documents,
+the Contractor shall not be entitled to any cost whatsoever." (emphasis added)
+Kindly be advised that the provisions of CoC 21.2.1 expressly provide for the Contractor's entitlement to
+Contract Price adjustment due to circumstances arising from the performance of the Employer
+obligations under CoC clause 9.10 in accordance with the order of precedence set out in CoC clause
+9.6.1. The Engineer is notified that the provisions of CoC Clause 27.1.5 (c) are deemed to have been fully
+complied with by referring to the Contractor's final particulars established in Contractor's RFV0-401 ref.
+(07) dated 30 April 2015 and RFV0-500 dated 11 April 2015 for the adjustment to the Contract Price.
+Having taken more than 411 days to review, assess, consider and interrogate the Contractor's request
+for
+Variation Orders according to the agreed principles under the Contract, the Contractor considers that
+information and requirements of CoC clause 27.1.5 and 27.1.6 have been satisfied.
+
+This notice of claim is issued by the Contractor for the purpose of satisfying CoC 21.2.1 and 27.1 in order
+to invoke the Contractor's right to:
+a) The release of payment for parts of VEl Works where Value Engineering has not been achieved,
+pursuant the Employer's obligations to under CoC 27.1.7 and 21.2.1, which respectively provide:
+and
+"Each interim payment shall include amounts for any claims that have been reasonably
+substantiated as due under the relevant provision of the Contract;" (CoC 27.1.7) and
+"If the Contractor incurs any Cost as a result of any of the matters set out above [(a) clause
+9.10 (Drawings or Instructions)] the Contractor shall give notice to the Engineer and shall be
+entitled subject to clause 27.1 {Contractors Claims) to payment of any Cost, which shall be
+added to the Contract Price." (CoC 21.2.1),
+b) An Engineer's determination for the adjustment to be made to the Contract Price as required
+pursuant to 27.1.8 (b) and 21.2.1, which respectively provide:
+"The Engineer shall proceed in accordance with clause 11.4 (Determinations) to agree or
+determine: the additional payment and adjustment to the Contract Price (if any) to which
+the Contractor is entitled under the Contract." (CoC 27.1.8 (b)), and
+"After receiving the notice set out above the Engineer shall proceed in accordance with
+clause 11.4 (Determinations) to agree or determine the matters contained in such notice.
+(CoC 21.2.1)
+We respectfully request the Engineer to consider the facts and circumstances as well as the rights and
+obligations of the Parties under the Contract for the purpose of making a fair determination strictly in
+accordance with CoC clause 11.4.
+For avoidance of doubt this claim is related to the reversal of Value Engineering Savings only as set out
+in
+Requests for Variation Orders nos. 500 and 401 ref. (07) and (08) due to the non-implementation of the
+VEl Works and resultant execution of the original Works. It does not include any consideration for delays
+nor any Extension of Time, prolongation costs or other damages arising from the execution of the
+original
+Works and I or non-payment of the completed Works; as notified in letter ref. (03), the effects of which
+are ongoing and for which we expressly reserve our rights.
+Yours faithfully,

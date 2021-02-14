@@ -1,12 +1,38 @@
-Subject: Schedule of OHP% & Manpower Supply Rates for Back Charge Account
+Subject: MTA Underground Utility CAD FILES (in CD) and WIRs from Potable Water, Fire Water,
+Communication and Chilled Water.
 Dear Sir,
-In line with our support to all the Subcontractors who may require our assistance for supplying of
-labours, materials, plants, tools, equipment or any facilities in connection with their respective Scope of
-Works, please be informed the Over Head and Profit (OHP) % and Manpower Supply Rates shall be
-applicable as shown in the enclosed schedule.
-In addition, please be advised in the event that we have carried out the works on your behalf due to
-your failure to perform any part of your Scope of Works, the above OHP% shall be deemed applicable
-and the same will be incorporated in your back charge account accordingly. Please note the
-aforementioned OHP% and rates shall be adjusted without prior notice as and when deemed necessary.
-We hope the above clarifies the situation.
+We write in regard to the provision of information on MTA Project Utilit ies located around and
+within MTB areas through your transmittal No.: MTC-CMA-TCA-0401-TM L-06627 received on 09th
+Dec 2019.
+We have reviewed and examined the provided information/data and we would like t o draw your
+attention to following issues:
+- CAD drawings provided within the attached CD under above mentioned t ransmittal have the same
+content/information that TCAJV had received via CMA letter "MTC-CMA-TCA-0401-LTR11081" dated on 23/10/19, including only MTA Project shop drawings, not the As-Built Drawings as
+requested by TCAJV, since Aug-2019. Our BIM team has been checking the provided CAD drawings
+within the transmittal and confirmed that our standpoint regarding the modeling of MTA utilit ies is
+still the same (please refer to attached e-mail from TCAJV-BIM Engineer - Attachment - 1), merely
+due to absence of information. The hardcopies provided for MTA Project Site Inspection Records (L& T)
+and survey readings are
+scanned copies, mostly un-clear and un-readable layouts and do not include any clear survey reports.
+Enclosed survey reports within the provided site inspection records show t he Leve ling Inst rument
+readings only, without having the location and coordinates for where the level reading had been
+taken (sample attached for your easy reference- Attachment- 2).
+Thus, we kindly notify you that the provided information of the other contractors services/utilities
+does not reflect the actual installation conditions and it has not been provided in a format or quality
+allowing us to utilize or proceed, as requested on several occasions over the past 5 months, as we
+have just been provided with scanned-hardcopies.
+At this juncture we are compelled to remind you that we are not responsible to review and clarify
+the site records of other contractors work in order to produce the as-built drawings on behalf of the
+
+them. You as the Engineer have the contract ual obligation to review, clarify and validate all of the
+other contractors work and supply TCAJV with the accurate information required from the as-built
+drawings in a STANDARD, USABLE FORMAT that can be easily converted to 3D model in order to start
+verifying the instructed grouting works via Bulletins 261.2 and 262.2 and prepare and submit all of
+required shop drawings for approval, prior to commencing any site works.
+Based on the above, we are unable to continue these works in alignment with the target program,
+until such time the required information is provided for the instructed works, for which we reserve
+our right under the provisions of the Contract Sub-Clauses 15.5.2 and 27.1.1 for additional time and
+cost. Hence, we have no other option but to return the transmittal, as received, back to you
+(Attachment- 3).
+This is for your information, records and immediate action accordingly.
 Yours faithfully,

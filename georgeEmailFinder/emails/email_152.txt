@@ -1,16 +1,273 @@
-Subject:
+ANNEX A
+DESCRIPTION OF THE EVENT
+Background
+In the period between 17 May 2018 and 9 July 2018, we submitted the following seven (7) Benchmark
+Documents pertaining to various aspects of the Airport Operational Systems vide a corresponding
+number of Document Submittals [issued for ‘Information Only’] all of which were subsequently returned
+classified Status Code 5“Review Not Required” between 26 June 2018 and 26 September 2018 (Table 1
+refers).
+Table 1
+Item Date submitted Submittal Ref Rev
+Document No. Rev.
+Description
+of
+Contents
+Response received
+Status Code
+1
+29-May-18
+DS/0401/13128 00
+MTB-0401-AOS-GEN-013
+00
+Local Departure
+Control System (LDCS)
+Benchmark Document 12-Jul-18
+5
+2
+17-May-18
+DS/0401/13091 00
+MTB-0401-AOS-GEN-014
+00
+Baggage
+Reconciliation System (BRS)
+Benchmark Document 26-Jun-18
+5
 
-Reply – 2nd BIM Quotation
+3
+22-May-18
+DS/0401/13104 00
+MTB-0401-AOS-GEN-015
+00
+Common Use
+Passenger Processing System
+(CUPPS) Benchmark Document 26-Jun-18
+5
+4
+22-May-18
+DS/0401/13105 00
+MTB-0401-AOS-GEN-016
+00
+Common Use
+Self Service (CUSS)
+Benchmark Document 12-Jul-18
+5
+5
+05-Jun-18
+DS/0401/13170 00
+MTB-0401-AOS-GEN-018
+00
+Airport
+Operational Database / Resource Management System (AODB/RMS)
+Benchmark Document 12-Jul-18
+5
+6
+09-Jul-18
+DS/0401/13261 00
+MTB-0401-AOS-GEN-019
+00
+Information
+Broker (IB)
+Benchmark Document 26-Sep-18
+5
+7
+09-Jul-18
+DS/0401/13262 00
+MTB-0401-AOS-GEN-020
+00
+Flight
+Information Display System (FIDS)
+Benchmark Document 26-Sep-18
+5
+It is important to note that we issued the above Rev 00 submittals as “Issued for information”
+considering the scope of the attached documents is to provide reference only (comparison history of
+other airports).
+Following which, on 21 January 2020, during TM review meeting, you (CMA) requested that the above
+documents should be submitted for approval. We then submitted the same Benchmark Documents
+albeit enumerated as Rev. 1, under the following revised Document Submittals (i.e. Rev. 01), but on this
+occasion were “Submitted for your approval” as expressly requested by you (refer to Table 2 below):
+Table 2
+Item Date submitted Submittal Ref Rev
+Document No. Rev.
+Description
+of
+Contents
+Response received
+Status Code
+1
+20-Feb-20
+DS/0401/13128 01
+MTB-0401-AOS-GEN-013
+01
+Local Departure
+Control System (LDCS)
+Benchmark Document 2
+20-Feb-20
+DS/0401/13091 01
+MTB-0401-AOS-GEN-014
+01
+Baggage
+Reconciliation System (BRS)
+Benchmark Document 3
+20-Feb-20
+DS/0401/13104 01
+MTB-0401-AOS-GEN-015
+01
+Common Use
+Passenger Processing System
+(CUPPS) Benchmark Document 4
+20-Feb-20
+DS/0401/13105 01
+MTB-0401-AOS-GEN-016
+01
+Common Use
+Self Service (CUSS)
+Benchmark Document 5
+20-Feb-20
+DS/0401/13170 01
+MTB-0401-AOS-GEN-018
+01
+Airport
+Operational Database / Resource Management System (AODB/RMS)
+Benchmark Document 6
+20-Feb-20
+DS/0401/13261 01
+MTB-0401-AOS-GEN-019
+01
+Information
+Broker (IB)
+Benchmark Document 7
+20-Feb-20
+DS/0401/13262 01
+MTB-0401-AOS-GEN-020
+01
+Flight
+Information Display System (FIDS)
+Benchmark Document In the event you failed to respond to each of the revised submittals listed above. You did however email us on 20 February 2020 [12:19 PM] requesting that we re-issue the exact same benchmark
 
-Dear Sir,
-We write with reference to your 2nd BIM Quotation submitted vide letter referenced in (5) above.
-We hereby confirm our acceptance of your quotation subject to the following;
-1.
-A Variation Order to the Subcontract Agreement referenced in (2) will be issued for this
-additional scope hence all terms of the subcontract shall be applicable.
-2.
-Since this BIM cost is part of Engineering Costs, the existing agreed Payment Terms shall be
-applicable to this Variation Order.
-In light of the above, we look forward to your confirmation of the above in order to issue a Variation
-Order without delay.
+documents albeit under an entirely new document submittal reference number, which in your words,
+would “allow for [a] full 21 day review cycle [time]”. Accordingly, you asked us to withdraw each of the
+foregoing document submittals “to avoid [AECOM] returning these as Code 4 [Rejected]”. For the
+avoidance of any doubt as to what was stated, an extract of your email is reproduced in Figure 1 below:
+Figure 1
+While we acknowledge your statement that “this is the first review of the submittal[s]” on the basis that
+the initial submittals were issued for information and the subsequent submittals issue for approval,
+given that each of the documents appended thereto are effectively the same, we fail to see why they
+should be re-issued under an entirely new document submittal – unconnected with the first issue. On
+the basis that you have a long history of failing to respond to our submittals within the response times
+stated in the Contract (per Specification Section 013300 ‘Submittal Procedures’) [which as you know
+provides us with entitlement to extensions to the Time for Completion], then it would appear that by
+insisting that we re-issue each document under a new submittal reference, this effectively allows you to
+‘re-set the clock’, taking advantage of a much longer response time (i.e. 21 calendar days as opposed to
+14 calendar days).
+This we believe is unreasonable, especially considering the documents attached to our submittals
+remain unchanged. It is also unreasonable at this stage of the project, for you to allow yourself a 21
+calendar day turn-around period to review and approve the attached documents, especially when it has
+been agreed that irrespective of what is specified in the Contract, all submittals must be reviewed and
+returned within 7 days or less . However, given your propensity to delay reviewing our submittals, this is
+unlikely; and the chances of further delays being caused as a result of such delay to the said submittals is
+likely to increase.
+That said, notwithstanding our appreciable concerns regarding your review of our benchmark
+submittals, we complied with your request and withdrew the Rev. 01 document submittals listed in
+Table 2 and on 25 February 2020, re-issued the AOS benchmark submittals under an entirely new set of
+Rev. 00 submittals in the manner shown in Table 3. Accordingly, we wish to stress that our response to
+your request has been made in the spirit of cooperation and is made without prejudice to our rights
+under the Contract.
+Table 3
+Item Previous DS Ref New DS No.
+Date Submitted Document No. Document Description
+1
+DS/0401/13128-01
+DS/0401/15359-00
+25-Feb-20
+MTB-0401-AOS-GEN-013
+Local Departure Control System (LDCS) Benchmark Document
+2
+DS/0401/13091-01
+DS/0401/15360-00
+MTB-0401-AOS-GEN-014
+Baggage Reconciliation System (BRS)
+Benchmark Document
+3
+DS/0401/13104-01
+DS/0401/15361-00
+MTB-0401-AOS-GEN-015
+Common Use Passenger Processing System (CUPPS) Benchmark Document
+4
+DS/0401/13105-01
+DS/0401/15362-00
+MTB-0401-AOS-GEN-016
+Common Use Self Service (CUSS)
+Benchmark Document
+5
+DS/0401/13170-01
+DS/0401/15363-00
+MTB-0401-AOS-GEN-018
+Airport
+Operational Database / Resource Management System (AODB/RMS)
+Benchmark Document
+6
+DS/0401/13261-01
+DS/0401/15364-00
+MTB-0401-AOS-GEN-019
+Information Broker (IB)
+Benchmark Document
+
+7
+DS/0401/13262-01
+DS/0401/15365-00
+MTB-0401-AOS-GEN-020
+Flight
+Information Display System (FIDS) Benchmark Document
+Our main concern and the purpose of this E-Notice is to draw your attention and put on record that not
+only your request to resubmit the documents is unreasonable as explained above and is contrary with
+the spirit of cooperation and progress of the works, but at this stage of the project, as recorded above,
+will invariably delay the approval / closing of the Traceability matrix Performance Test (TMPT). Especially
+given that you have 21 calendar days to approve each of the documents as opposed to 14 calendar days.
+It is also worth noting that within your email received on 20 February 2020 [12:19 PM] there was further
+email exchange between your representatives on 20 February 2020 [11:03 AM] (Figure 2 refers):
+Figure 2
+Essentially, your comment that“…These were all originally submitted for “information”, therefore were
+reviewed as code 5…” is an admission and an acknowledgment on you part that the attached documents
+had been accepted as submitted in 2018 for information only, hence, they have been suitably given
+Status Code 5. Moreover, your request for us to submit the documents for ‘Approval’ was only raised
+during the Traceability Matric (TM) closure workshop attended by us, yourselves, ADAC, DEERNS etc. on
+21 January 2020 and it was followed by your e-mail request (per Figure 1 above). This demonstrates that
+you had every opportunity to raise any concerns you might have had on this issue in 2018, but you failed
+to do so.
+Moreover, we are perturbed with your comment that the documents “need to be submitted for
+approval, as we cannot close some of the contract requirements without approval of the documents.
+They are related to performance test and justification of the performance hardware”. Our concern
+derives from the fact that according to the wording of Specification Section 274233 (‘Local Departure
+Control System’) we simply have to ‘deliver a benchmark document’; there is no express reference to us
+submitting them ‘for ‘approval’. In essence the benchmark documents form part of the deliverables and
+are not required to be submitted for approval. The relevant extract of Specification Section 274233 is
+reproduced in Figure 3.
+Figure 3
+In addition, the statement made in your email shown in Figure 2 above, where you state “The
+Contractor was told they need to submit again for approval […] Please ask the Contractor to withdraw
+and submit under new DS numbers. Alternatively, should I return all as code 4?” [emphasis is made to
+the question-mark (?)], implies that the requirement for us to resubmit the benchmark documents is
+neither compulsory nor contractual, but it is subjective and based on your representatives’ opinion.
+Accordingly, we draw you attention to a similar scenario, where on 8 April 2017, we submitted
+Document Submittal No: DS/0401/8435 Rev. 00 covering issuance of Document Ref: MTB-0401-MSIAOS-PE-014, ‘Airport Integration Platform (AIP) Schema’ for “Information Only”. This was responded to
+by you on 25 April 2017 classifying the submittal as Status Code 5 ‘Review not required’ together with a
+comment that states ‘Contractor is responsible to maintain and update this document when required’.
+There was no requirement then to re-submit this document for approval. Therefore this begs the
+question why are we required to re-submit the exact same AOS benchmark documents summarised
+above “For Approval”?
+Your actions in this regard fails to take cognisance of the critical final stage the project is current at, nor
+are they conducive to the spirit of cooperation when our joint focus should be on working together to
+ensure we complete the Works as soon possible; rather this represents an act of prevention on your
+part.
+Based on the foregoing, it is evidently clear that your request for us to resubmit each of the benchmark
+documents under completely new submittal documents with entirely new references is unreasonable
+
+and at this stage of the project will delay the approval / closing of TMPT. This was entirely avoidable.
+Hence we urge you to proceed at the earliest, with the approval of the benchmark documents listed in
+Table 3 above, but in the meantime also approve /close-out the TMPT as soon as possible, to avoid any
+further delays. Please note that any delays incurred to date or which may be incurred by us as a result of
+your failure to approve / close-out the TMPT due to the abovementioned matter, shall be at your risk.
+In conclusion and in keeping with the purpose and spirit of SAA8 we intend to keep you / the Employer
+appraised (including by way of the Risk Mitigation Meetings) of the impact of the abovementioned
+delays.
 Yours faithfully,

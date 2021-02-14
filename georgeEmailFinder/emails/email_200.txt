@@ -1,26 +1,113 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0208
+Late & Unreasonable Status Code 3 Comments on Shop Drawing Introducing Additional Aircraft Contact
+Detectors to Passenger Boarding Bridges (PBBs)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays to the Works due to the late and unreasonable Status
+Code 3 comments issued in response to Shop Drawing No: 401-TH-S-03-10-0.00-GA-SD-010 Rev 02,
+introducing additional Aircraft Contact Detectors to the PBBs (i.e. representing a change in design and
+scope); requiring a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
 
-Subject: Clause 27.1.1: Notice of Claim Delay Notice No. 1002- Engineer's Instruction No. 725
-Dear Sir
-The Contractor acknowledges receipt on 11 February 2018 of Engineer's Instruction No. 725 ('EI No.
-725')
-under letter ref: 2, instructing the Contractor to implement Bulletin 247 in relation to the 'Lift Directory
-Schedule', in accordance with the information appended thereto.
-A preliminary review of El No. 725 indicates that this Instruction will have direct impact on the
-completion
-and installation of all Lift Directory Signs, plus associated works. Therefore, El No. 725 will potentially
-impact on the Contractor's ability to achieve inter alia Milestones MS9A.6, MS08A, MS08B, MS09A.1,
-MS09A.2, MS09A.3, MS09A.4, MS09A.5, MS09A.6, MS09A.7, and Milestones MS09B and MS10.
-Furthermore, prior to the receipt of El No. 725, the Contractor received El No. 586 on 8 August 2016
-(letter ref: 1) instructing to place the Lift Directory Signage Content on hold. Thus, the Contractor hereto
-requests the Engineer to confirm if El No. 725 releases the works originally placed on hold by El No. 586.
-Therefore, in accordance with Conditions of Contract Sub-Clause 16.5.2 and 27 .1.1, the Contractor
-hereby
-notifies the Engineer of its entitlement to claim:
-(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(a)
-'Variation'; and
-(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Sub-Clause 20.3
-'Variation Procedure'.
-Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
-in
-due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 12 December 2019 we submitted Shop Drawing Submittal No. SDS/0401/S/1306-05 requesting the
+final approval of Shop Drawing No: 401-TH-S-03-10-0.00-GA-SD-010 Rev. 02, for the Passenger
+Boarding/Link Bridge (PBB) ‘General Drawing’, in the manner shown in Table 1 below.
+Table 1
+Date Submitted Submittal Ref No:
+Rev
+Description of Contents Response due per Section
+013300 Response Received
+Status Code
+Response Overdue By
+12-Dec-19
+SDS/0401/S/1306
+05
+Shop Drawing No: 401-TH-S-03-10-0.00-GA-SD-010 Rev.
+02 Passenger Boarding/Link Bridge (PBB) ‘General Drawing’
+19-Dec-19
+20-Jan-20
+3
+32 days
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. On the basis that our Submittal is at Rev.
+05, then this ought to have been responded to by you 7 calendar days later, i.e. on 19 December 2019.
+However, Table 1 shows that you exceeded the contract review periods by 32 calendar days. Any delay
+to our submittals, is unacceptable, particularly at this stage of the Project.
+Notwithstanding, we further records that you returned the attached Shop Drawing classified as Status
+Code 3; the primary basis of which is reflected by the following [unreasonable] comments:
+“Note: When will the PBB stop? After the first detector hits the aircraft fuselage or when the second
+detector does? If possible provide 3 detectors. The PBB will stop when 2 of 3 detectors will touch
+fuselage. Otherwise fuselage damage will be possible!” [Refer to Figure 1]
+Figure 1
+In light of the fact that the entire PBB bridge together with all its parts and components including the
+Aircraft Contact Detectors (ACD), are factory-made and assembled by the manufacturer in Spain as a
+single composite unit and are delivered to the site ready and are fit for purpose and moreover satisfy
+the performance requirements for which they are intended in the Contract, and more significantly, have
+already been approved, we consider your Code 3 comments unreasonable and without merit.
+Therefore, for the reasons outlined above and further explained below, it is our contention that these
+comments [and hence the Status Code 3 rejection of Shopdrawing ref: 401-TH-S-03-10-0.00-GA-SD-010Rev 02] is not only unreasonable but totally unfounded. This is despite the PBBs (and the ACDs) being
+compliant with the Contract, their intended purpose and are up to the industry’s codes and standards,
+after having been assembled, tested, delivered and handed over to you through the Work Inspection
+Requests (WIR) and Commissioning Inspection Requests (CIR) processes.
+Notably, the previous revision to Shop Drawing No: 401-TH-S-03-10-0.00-GA-SD-010, i.e. Rev. 01 had
+already been approved by you with Code 2 comments via your response to SDS/0401/S/1306-03
+received by us on 29 January 2014 (Figure 2 refers). Nevertheless, the shopdrawing was resubmitted
+after correcting a drafting error thereupon, in regards to the ‘Autoleveler Buzzer’ on the Passenger
+Boarding Bridge cabin. Accordingly, our Shop Drawing was re-submitted for information purposes and
+not necessarily to seek any approval or recoding, since it had already been approved with Code 2.
+Figure 2 – Extract from our previously approved Code 2 Shop Drawing
+No: 401-TH-S-03-10-0.00-GA-SD-010-Rev01 (issued vide SDS/0401/S/1306-03)
+
+We further record that not only did you return our Shop Drawing No: 401-TH-S-03-10-0.00-GA-SD-010Rev 01 with Status Code 2 [“Exemptions as Noted, Revise and Resubmit for Record”] as stated above,
+but it is also worth mentioning that no reference is made nor any comments are annotated thereupon
+concerning the ACDs installed on PBBs. For clarity and the avoidance of doubt your comments to
+SDS/0401/S/1306-03 received on 29 January 2014, are reproduced in Figure 3 below.
+Figure 3
+This demonstrates to us that you had every opportunity to raise any concerns you might have had on
+Aircraft Contact Detectors six years ago, i.e. in 2014; but you failed to do so. It is also noteworthy that
+your team had also undertaken numerous inspections and conducted functional tests on a mock-up PBB
+unit, prior to manufacturing in Spain, and no comments were made during any of the inspections either
+in relation to the requirement for additional ACDs. We further record the Contract Documents including
+without limitation the PBB Specification do not provide any information or any references whatsoever in
+support of any requirement to install 3 Nos of ACDs to the PBBs as per your Code 3 comments issued in
+response to the Shop Drawing submitted via SDS/0401/S/1306-05.
+Consequently, if you had any concern on the number of ACDs, or you wished to instigate changes to the
+ACDs and the PBBs, then you had every opportunity in advising us prior to releasing and approving (with
+Code 2), your response to SDS/0401/S/1306-03 on 24 January 2014 and most importantly prior to the
+manufacturing and delivery of the PBBs from the manufacturer/supplier.
+In light of the foregoing, we are appreciably perturbed to now be informed – albeit surreptitiously
+through comments annotated on a Shop Drawing – that you require changes to the ACDs installed on
+the PBBs; rather than formally, as is normally the case, by issuing us revised IFC Drawings and an EI.
+In view of the circumstances summarised above, your comments are not only mistimed, but
+unreasonable and without merit. You have also failed to take cognisance of the ramifications on the
+project if you insist on instigating any changes – particularly at such a late stage of the Project.
+Consequently, we record that your comments affect all PBBs installed in the Project. This is
+notwithstanding the immense amount of disruption that would be caused to the completed works.
+Therefore, in order for us to undertake and instigate changes such as those noted herein, we will require
+fully coordinated revised IFC Drawings encapsulating the changes introduced in your SDS response
+before we consider acting on any proposed changes. In which respect, we remind you yet again that
+SAA8 laid down mandatory procedures to be followed if additional works are required, in so far as an EI
+and VO are required first for us to proceed with any of the aforementioned changes.
+The provisions of Clauses 2.29 to 2.31 of SAA8’ pertaining to Variations are clear; we are not to proceed
+with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
+respect, it is your obligation to issue this Record first if you wish to instigate change; this is only after the
+additional time and/or costs impacts have been agreed between us beforehand.
+Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
+Meanwhile, given the unreasonable nature of your Status Code 3 comments issued in response to
+SDS/0401/S/1306-05, we request that you immediately re-code it to a minimum of Status Code 2.
 Yours faithfully,

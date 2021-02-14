@@ -1,21 +1,91 @@
 Subject:
 
-Inspection Following Ceiling Fall Incident
+Reinforcement Missing from the Site
 
 Dear Sir,
-Kindly find enclosed the Engineer’s letter referenced (1) above which is self-explanatory. Specifically, the
-Engineer’s letter is regarding an incident on site where a previously installed ceiling panel became
-dislodged and fell at level 1 of the CP area. For clarity and for the purpose of interpretation, “the
-Contractor” in the Engineer’s letter shall be read as “the Subcontractor”.
-In light of the above, you are instructed pursuant to Clause 11.3 [Instructions of the Contractor] to
-immediately take appropriate action and submit all required information and comply with the
-Engineer’s request accordingly.
-You are hereby advised to implement strict preventive measures in order to avoid such incidents in the
-future. Accordingly, any delays, costs, losses and/or expenses and the like incurred by us and/or Other
-Sub-Contractors arising as a result of the aforementioned issue, will be solely your responsibility
-including but not limited to Clauses 10.3 [Contractor’s Claims] and 12.12 [Other Contractors and Other
-Subcontractors] and shall be deducted/backcharged from your interim payments accordingly
-You are therefore required to reply with all the information requested within 3 working days upon
-receipt of this letter. This is for your utmost attention and immediate action.
+We refer to our ongoing discussions and email correspondences regarding the missing rebars on site and
+we wish to clarify our position as discussed below.
+Firstly, we would like to point out that our scope of works consists of only the installation of
+reinforcement and excludes any material supply of reinforcement. The only materials supply under our
+scope of works, as specified in our Quotations and the Letter of Acceptance (LOA) is formwork,
+scaffolding, and shoring materials only.
+Accordingly, since the beginning of the project the control over the orders and arrangement of
+deliveries for all reinforcement materials used for the works on site, has been entirely your (ABJV’s)
+responsibility. Therefore, from the commencement of the works, all of the rebars have been ordered
+and delivered on site, based on the site program of works, without ADMC’s involvement.
+It is worth noting that in numerous instances, many of the rebars delivered and stored on site, have
+been delivered significantly much earlier than the planned installation date. An example, is the rebars
+for walls at DAF Building from 8.4 m to 13.08, which were delivered to the site in March 2020, but the
+planned installation date was much later. We note that the actual installation for this part of the walls,
+commenced in October 2020, seven (7) months after the delivery.
+As a consequence of these early deliveries, bulk quantities of reinforcement remained unused for a long
+period of time at the area allocated by you, where the reinforcement under our scope is stored (Marina
+area/yard). This has caused vast quantities of rebars being piled up at the Marina yard in a disorganized
+manner which has caused us a lot of delays in the collection of rebars for the works (Figure 1 below
+refers). We note that the Marina yard, is an area allocated for offloading and storing of materials, not
+only for ADMC but for other Subcontractors working on this Project as well.
 
-Yours faithfully,
+Figure 1 – Marina Yard
+
+In addition, it is worth noting once again, that as per the Responsibility Matrix (Quotation ref: ADMCACCIONA-BESIX-DAF-QTE-0127_Rev.05 dated 12 January 2020, Item A2), the unloading of rebar
+
+materials at the site was agreed to be placed within 30m from the fixing location; however, this has not
+been materialled yet and is causing a lot of delays.
+We also note that the space adjacent to the DAF Building, where we are working, is limited, and for that
+reason, the Marina yard continues to be at a distance of about 1km away from the works which is
+causing significant delays, in handling, loading, transporting and unloading materials for the works.
+Moreover, we also note that in many instances, rebars have also been found at the laydown area, which
+is another material laydown area, which where ADMC’s materials are not typically stored. Specifically,
+the mentioned rebars in this area, were found without tag numbers. Evidently, this is causing a lot of
+disorderliness, loss of materials, as well as, mishandling of materials from other Subcontractors on site.
+Some of these issues have already been discussed in our letter ref: ADXB-LTR-2020-0195 dated 19 July
+2020, wherein we informed you that this matter is having a detrimental impact on our works and is
+delaying the process of finding, selecting, segregating, and loading the suitable rebars for our works.
+With the said letter we also requested your support to ensure that the rebars are placed in an orderly
+manner and also to an adjacent distance within 30m from the fixing location to avoid any further delays.
+However, we regret to note that no action has been taken thus far on your part, and the difficulties and
+delays associated with this matter continue to date.
+Nevertheless, at the date of writing this letter, this issue has caused a lot of discussions, disagreements,
+and consequent delays to the works. An example of the numerous discussions and delays, are the emails
+attached to Annex A hereto, wherein a quantity of approximately 22Ton of reinforcement planned to be
+installed in our part of the works cannot be found on site.
+Therefore, taking into consideration the abovementioned, we put on record that we are not responsible
+and we cannot be held liable for the 22 Tons of reinforcement which appear to be missing from the site.
+Therefore, your comment in the email dated Tuesday, November 3, 2020 12:37:10 PM attached to
+Annex A, stating that “…until ADMC will provide an acceptable justification for the missing rebar
+quantity, this additional steel order will be made in ADMC account”, is refuted. In this regard, we note
+that we have already explained our position regarding this matter and we hereby expand on our
+position via this letter.
+Furthermore, in our email dated Saturday, June 20, 2020 9:10:00 AM, attached to Annex B hereto, we
+informed you about an incident where your personnel was found to be loading rebars that were
+intended and planned to be used in our part of the works. Specifically, one of your foremen, removed
+the bar-mark tags and loaded bundles of rebars on a trailer, which were then, taken away to be used in
+other parts of the works. We note that we had not been informed about your intention to take rebars
+which were intended to be used by us, and no prior coordination was carried out between us. We also
+note that this was not the first time, that reinforcement planned to be installed by us, was taken from
+the Marina yard and was used elsewhere.
+This issue has become even more complicated since, on or about the beginning of June 2020, after your
+request, we have taken control of the reinforcement orders to the site. Thus, from June 2020 onwards,
+we are placing the orders of reinforcement via emails, and the reinforcement is delivered and placed in
+the Marina yard.
+
+Given the above, we have now found ourselves in a situation where, circa 22 Tons appear to be missing
+from the site, and as per the emails attached to Annex A hereto, ABJV is seeking to backcharge the
+amount of this quantity on our account, which we strongly object.
+We have also attached to Annex C hereto, another email dated Thursday, November 12, 2020 5:01:21
+PM, which is self-explanatory. Specifically, the email is regarding several rebars intended to be installed
+by us on the DAF Building walls. However, these rebars were found to be cut and bent by you or other
+Subcontractors, for works other than the works which were allocated to be installed to. These rebars
+were found in the laydown area, which as mentioned above, is not an area dedicated for ADMC’s
+materials.
+Consequently, we would like to clarify that we will not accept any backcharge for any reinforcement
+quantity missing from the site. Therefore, we kindly request you to take all necessary measures and
+arrange the delivery of the assumed missing quantity of reinforcement required for the works to avoid
+any further delays to the completion of the works.
+Moreover, we strongly advise you to address the disorganization issue of the Marina yard immediately,
+and conduct a survey, segregate the rebars properly and assess the effective utilization of the rebars
+with the aim of improving and optimizing the utilization. Once this is established, we can then
+reevaluate the quantities of rebars and the relevant circumstances accordingly.
+We trust you find the aforementioned self-explanatory, and you will carry out the necessary action as a
+matter of urgency.
+Yours faithfully,.

@@ -1,35 +1,94 @@
-Subject: Delay Notice No. 997 - Delays to 56 nos. of MEP Shop Drawing Submittals
-Dear Sir,
-submitted on 2 January 2018, due to AECOM Live-Link Workflow Limitations
-On 2 January 2018, the Contractor submitted a total of 56 nos. of predominantly Mechanical, Electrical
-and Plumbing (MEP) Shop Drawing Submittals, collectively encompassing a total of 129 nos. of Shop
-Drawings. The Shop Drawing Submittal schedule included at Annex A hereto refers. However, all 56 nos.
-of Shop Drawing Submittals were placed 'on-hold' by the Engineer "due to the Live/ink workflow
-limitation[s], and were only stamped received by 11 January 2018" as notified within the Contractor's
-subsequent letter to the Engineer dated 15 January 2018 (ref: 2).
-Article 1.3 of Specification Section 013300 'Submittal Procedures' governs the processing time by which
-the Engineer is contractually obligated to respond to the Contractor's submittals. On the basis that each
-of the submittals listed in Annex A are shown to be at Revision 02 or higher, then these ought to have
-been responded to by the Engineer 7 calendar days later, i.e. on 9 January 2018. However, Annex A
-shows that at the date of preparing this Delay Notice (which is 7 February 2018), the Engineer has
-exceeded and continues to exceed the review period for a further resubmittal review expressly
-stipulated
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0185
+Subsidence Rectification Works – Heaving to Pier 2 (MV Chamber and Grease
+Interceptor Pit) and Pier 4 (Earth Pits and GSE Road to GH38-GH39, and Sewer Manholes, S2307A and
+S2308A) – Request for Engineer’s Instruction
+Dear Sir
+We refer to the recent e-mails exchanged between us in the period from 19 November 2019 and 16
+December 2019 [copies attached] associated with the observance of heaving to the ground levels and /
+or various chambers, pits and manholes adjacent to Piers 2 and 4, following grouting works.
+Specifically, we write with reference to the following:
+1.
+Head of Pier 2 – GH10-GH11, MV chamber;
+2.
+Pier 2-GH19, Grease interceptor GIP 02;
+3.
+Pier 4- GH38-GH39 ,earth pits and GSE road; and
+4.
+Head of pier 4 area (sewer manholes S2307A and S2308A areas).
+Details pertaining to each of these areas and the content of our related e-mails are described below:
+(1)
+Head of Pier 2 – GH10-GH11, MV Chamber
+In our e-mail dated 12 December 2019 [4:15 PM] we advised you of the following:
+“… we noticed that the MV chamber at head of pier 2 (L&T scope) start to heave with a few block points
+and permeation grout points as highlighted in attached layout ... [we further record that] the calculated
+weight of the chamber [is] approximately 200 Tons without taken in[to] consideration the top part of
+the chamber …
+We hereby submitting the site records for drilled points around the chamber with the blocked and
+grouted points for your review and providing the required design method of grouting the area around
+the MV chamber.
+We would like to remind you that BAUER are employed through TCAJV for work execution not for design
+purposes, the design responsibility remain under CMA & NACO which they must supply the contractor
+with the suitable design.”
+(2)
+Pier 2-GH19, Grease Interceptor GIP 02
+In our e-mail dated 14 December 2019 [5:12 PM] we advised you of the following:
 
-at Article 1.3.A.3 (d) of Specification Section 013300, by 29 calendar days. The Contractor contends that
-this constitutes a breach of Contract or an act of prevention on the part of the Employer's Personnel.
-Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
-hereby notifies the Engineer of its entitlement to claim:
-(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
-(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
-the alternative, damages for breach of Contract.
-Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
-in
-due course pursuant to Conditions of Contract Sub-Clause 27.1.5{a), (b) and (c).
-Subject: Incoming and Outgoing Correspondences Log
-Dear Sir,
-In reference to the above letter and in order to streamline the correspondences between us, enclosed
-incoming and outgoing correspondences log has been prepared by our Document Control Group.
-You are kindly requested to sign (by your representative identified under the Subcontract), stamp and
-return these logs as acceptance of the transmittal of these communications. A duly signed and stamped
-copy of the same will be delivered back to you for your records.
+“Please be noted that we observed heave on the GIP02 near gatehouse 19 (refer to attached e-mail
+from BAUER). Could you please review and advise the way forward to continue the required grouting
+works at mentioned area.
+This for your information, records and actions.”
+(3)
+Pier 4- GH38-GH39, Earth Pits and GSE Road
+In our e-mail dated 24 November 2019 [2:12 PM] we provided by way of any attachment “an as-built
+survey after grouting for the top of earth pit manholes and curbstones between GH38 & GH39.”
+This was forwarded on to the Employer’s Specialist Engineering Consultants (RHDHV) by way of your email dated 27 November 2019 [9:40 AM] advising them of the following:
+“Please see attached surveys carried out which indicate the heave experienced at the Earth Pits within
+GH 38-39 (S2301-S2301A).
+The above is for your information and feedback.”
+(4)
+Head of Pier 4 area (Sewer Manholes S2307A and S2308A areas)
+While there is no definitive e-mail available on this matter, we know that you have been made aware of
+the heave to the head of Pier 4 through daily survey works and reports, which caused you to issue us
+Site Memo No: MTC-CMA-0401-QC-MEM-03404, dated 11 December 2019, which states:
+“CMA have observed pavement lift and heave along Gatehouses 38, 39 (earth pits area) and 36
+(inundation area) on the GSE Road, concrete barriers along GH 19 and 36 access area and L& T MV
+Chamber at GH 11. These heave has been physically observed in several areas of permanent works
+during and after the permeation grouting of the area.
+This also advises us of the following ‘Requirements’ in so far as we are required to:
+1.
+Ensure all permanent underground utilities installed and completed on these areas should be
+properly monitored and any level deviations shall be reported to CMA.
+2.
+Exercise effective monitor in order to minimize unwanted movements on the completed works.
+3.
+Any damages, including other contractors completed works, occurred due to these heave
+movements shall be rectified, reinstated and tested and will be submitted though WIR for CMA
+approval.
+The amount of deviation in levels identified in the ground levels and / or various chambers, pits and
+manholes adjacent to Piers 2 and 4 varies significantly. By way of specific example, recent findings of
+the heave to Grease Interceptor GIP 02 adjacent GH19 to Pier 2, indicates that it has heaved +47mm.
+We have, by virtue of our various communications, meetings and discussions, as well as by way of our emails including those described above, together with accompanying survey reports, informed you of all
+level deviations in order for you to instruct us. However, at the date of preparing this notice (18
+December 2019), you have failed to do so. It is for this reason that we raise this E-Notice No. 0185.
+We again remind you that we are not the designers for this Project, the Employer’s Design Consultant is,
+and it is their responsibility, under your guidance, to provide us with the design of the subsidence
+remediation measure. As such we are dependent upon being provided critical design information in a
+timely and prompt manner, not just for the principle remediation measures but also to address issues
+such as those identified herein as soon as they arise. It is therefore essential that we receive a fully
+designed, complete and properly instructed Issued for Construction set of documentation, reflecting the
+Employer’s Design Consultant’s recommendations to address the heaving identified herein.
+Until such time as we are in receipt of the same, then we are prevented from completing the grouting
+works to the notes areas to Piers 1 and 4. This will delay the Time for Completion of the Works.
+To conclude therefore, it is our contention that the various events and circumstances outlined above
+constitutes acts of prevention and/or breach of Contract on the part of the Employer and / or the
+Employer’s Personnel and / or the Consultants, and accordingly we hereby give you notice, pursuant to
+Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

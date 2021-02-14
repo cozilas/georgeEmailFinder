@@ -1,0 +1,60 @@
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0033 [Post SAA8]
+Code 3 Small Power Shop Drawings SDS/0401/E/0253-16 - Update
+Dear Sir
+This letter serves as an update to E-Notice No. 0033 issued by way of our e-mail ref: (1).
+By way of reminder: On 21 October 2018, we submitted Shop Drawing Submittal SDS/0401/E/0253 Rev.
+16 requesting your review and approval of four Electrical Small Power Shop Drawings appended thereto.
+However, not only did you fail to respond to this submittal until 1 November 2018 which is seven
+calendar days later than the review period expressly stated in the Contract (refer to Article 1.3 of
+Specification Section 013300), but all 4 Shop Drawings were unreasonably granted Status Code 3 with no
+clear reason for doing so. This is despite them incorporating the E-Gate designs instructed by
+ADAC/CMA via EI-739, concluded during workshops dated 4 and 12 2018, and formalised via the
+response to RFI/0401/15949; hence the issuance of our E-Notice issued under e-mail ref: (1).
+Our E-Notice No. 0033 also served to insist that given the invalidity of the Status Code 3 response, you
+re-code the Shop Drawings no later than 15 November 2018. However, you failed to do so.
+You did however eventually acknowledge your original Status Code 3 was unreasonable when on 16
+December 2018 you re-coded all four Electrical Small Power Shop Drawings and returned them to us;
+which is 56 calendar days later than the response due date specified in the Contract (Table 1 refers).
+Table 1
+SN
+Submittal Ref: Rev.
+Drawing No. Description
+Date Submitted
+Response
+Due Date
+Response Deceived
+Delay
+(days)
+SDS/0401/E/0253
+16
+401-AN-E-09-20-5.17B-SP-SD-001
+Electrical Small Power
+Plan, L2.0, Sector 5.17B 21-Oct-18
+28-Oct-18
+01-Nov-18
+(Code 3)
+4
+401-AN-E-09-20-5.17D-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.17D
+401-AN-E-09-20-5.22B-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.22B
+16-Dec-18
+(Code 2)
+56
+401-AN-E-09-20-5.22D-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.22B
+It is clear that the late and unreasonable Status Code 3 response to the above noted Shop Drawings /
+Submittal constitutes an act of prevention and/or breach of Contract and accordingly, we give you
+notice pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+
+Interim and/or final details of the time impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Yours faithfully,

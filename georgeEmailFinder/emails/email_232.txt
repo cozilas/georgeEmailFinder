@@ -1,30 +1,56 @@
-Subject:Re: Notification of Back Charge-Temporary Power Connections to P3 & P4
-Dear Sir,
-We write with reference to the enclosed letters received from M/s Anel referenced through (2) to (5)
-and our letter reference (1) regarding the aforesaid subject. We regret to inform you that due to your
-continual delays and your lack of performance have resulted to time delays which subsequently affected
-other trades.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0197
+Delays caused due to the Engineer’s Failure to proceed with Snagging Inspections for works associated
+to all disciplines (MEP, Civil, Finishes, Security Systems etc.)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays consequent on your failure to proceed with multiple
+snagging inspections, for works associated with all disciplines (MEP, Civil, Finishes, Security Systems,
+etc.).
+Potential Impact
+Delays and disruption due to the events and circumstances outlined in Annex A, particularly at this stage
+of the Project, will, if allowed to continue, invariably knock on and impact upon our ability to achieve
+Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 
-As discussed in our letter reference (1) your failure to deliver equipment bands, light boxes and glass
-screens timeously, has resulted in the temporary termination of electrical works and subsequent
-abortive works, in the subject areas performed by M/s ANEL.
-In view of the above and in continuation to references (1) and (2) to (5) enclosed herewith, you are
-notified that the abortive works as described in the enclosed letters, will be backcharged including all
-associated amount(s) from your account pursuant to Clauses 10.3 [Contractor's Claims] and Clause
-12.12 [Other Contractors and Other Subcontractors].
-It is noted that your delays have been an ongoing issue which has been notified to you in numerous
-correspondences. Moreover, we write to express our disappointment that the situation has not
-improved despite our recurrent instructions to proceed with the works without any delay. You are
-hereby reminded of your obligations as set out under the Subcontract Clause 16.1.1 [Commencement of
-Subcontract Works] which states that you are obliged to progress the Subcontract Works with due
-expedition and without delay, and should neither delay nor adversely affect the performance of TCAJV
-or Other Subcontractors.
-Concluding the above, you are to implement mitigation measures to increase the efficiency of the
-construction of the Subcontract Works and coordinate with other Subcontractors to avoid further
-progress issues.
-Please be informed that all associated delays, costs, losses and/or expenses incurred by the Contractor
-and/or other Contractors and/or Subcontractors and the Employer, arising as a result of the above, shall
-be recovered from you in accordance with the Subcontract Clauses 10.3 [Contractor’s Claims], and
-16.6.1 [Delay Damages] in addition to other relevant Contract Clauses.
-This is for your information record and necessary action
+ANNEX A
+Description of the Event
+We write to notify you of appreciable concerns we have with respect to your delays to proceed with
+snagging inspections for works associated to all disciplines (MEP, Civil, Finishes, Security Systems, etc.).
+Specifically, once a room or areas is completed, we are submitting a Work Inspection Request (WIR)
+requesting the final inspection and approval of the Works for each respective discipline. However,
+significant delays are being observed from each of your respective teams/disciplines which are required
+to proceed with the snagging inspections. Consequently, hundreds of snagging inspections remain open
+in ZUTEC; an extract of which is attached at Annex B hereto. This shows that as at 3 January 2020, there
+were a total of 620 nos. of inspections outstanding affecting all manner of works and disciplines.
+This number of outstanding inspections on your part is unacceptable, particularly at this stage of the
+Project. We have issued numerous reminders to you by way of e-mails as well as raised various ENotices , but these have been overlooked and the status of numerous pending inspections remains.
+It is for this reason we are raising this E-Notice to notify you of your failure to proceed with the
+inspections and request your prompt action to resolve the matter in order to mitigate such delay and/or
+disruption to the Works. Moreover, while we appreciate ZUTEC is a live system and changes daily, it is
+imperative that any delays on your part, is mitigated in full; otherwise we envisage the delays
+proceeding with snagging inspections will only worsen and in actual fact they have actually worsen
+already.
+Consequently, any delay to inspections has to cease forthwith, but in the meantime the effects of delay
+continues to have major ramifications on Room Completion, Snagging and De-Snagging and Defects
+Management. We therefore urge you to proceed with the snagging inspections. This will enable us to
+close the snagging inspections on ZUTEC system including those listed in the attached schedule.
+This is a matter that was and remains wholly avoidable, especially at such a late stage of the Project and
+is unnecessarily delaying us for which we hold you entirely culpable. Considering the volume of
+inspections needed to be actioned by you then any acts of prevention on your part will only continue to
+impact on our ability to expedite room completions and conclude our Works throughout the MTB.
+Resultant Impact
+Meanwhile, the various delays and acts of prevention on your part outlined herein, is undeniably
+causing delay and disruption to completion of our Works. Although we consider that MS06B has been
+achieved, to the extent that it is not, which is denied, then the effects of delay associated with the
+matters identified above, will impact upon achievement of Milestone MS06B as well as Milestone
+MS06A. If matters continue then this will invariably knock on and impact upon our ability to achieve
+Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

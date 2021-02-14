@@ -1,18 +1,80 @@
-Subject: Site Observation Prior to Screed Cracks & Damages in CP Level 2.0
-Dear Sir,
-This correspondence refers to the above mentioned subject and project.
-Ref:
-1
-MMM/19/MTB/023 '
-It was observed that TCA JV has already opened the access and allowed the use to pedestrians and
-deliveries above a newly casted screed in zone 27 after less than 48 hours from casting completion.
-The screed has been casted only on February 14th and the drop hammer test is to be executed after 14
-days from date of casting in order to assure that the screed has reached its full strength as per our
-approved Method Statement.
-Such action has already resulted in visible and extensive damages to the screed compromising its quality
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0050
+Security Management Information System (SMIS) Graphical User Interface (GUI) – Outstanding
+Confirmation of Requirement for 2D / 2.5D Maps
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described herein
+may cause delay [and/or disruption] to the Works, and accordingly seek your swift resolution of the
+same
+The Event(s):
+On 28 August 2018, under letter ref (1), we wrote to advise you that we had yet to receive confirmation
+from you as to how to proceed with the SMIS mapping and specifically whether you wished to integrate
+either 2D or 2.5D maps into the Management Information System (SMIS) Graphical User Interface (GUI).
+This letter was generated on the basis that despite the SMIS maps being discussed at a meeting held on
+22 April 2018 and subject to the Employer’s e-mail dated 23 April 2018, plus a Live Demonstration
+(showing multiple map options integrated into the SMIS GUI) held in April 2018, and detailed in an email dated 14 May 2018 from the Specialist SMIS subcontractor, ATLAS, all of which were referenced
+and attached to letter ref: (1), we had yet to be informed of which option you and / or the Employer
+wished to implement.
 
-and chemical repairs will be futile is such case.
-Kindly note that Mosart will not be held responsible for any damages to the screed and to the stone yet
-to be installed and all additional repairing works resulting from such action to be done will be
-backcharged to TCA JV.
+At this point, it is worth noting that although Article 2.7.G ‘Site and Building Visualization’ of
+Specification Section 281100 ‘Security Management Information System’ calls for 3D visualisation, we
+understand that it was the Employer who was desirous that 2D [or 2.5D] mapping shall be implemented
+on the SMIS GUI – this having been ‘triggered’ by demonstrations carried out by ATLAS proving that 3D
+maps were unusable (evident from the Employer’s e-mail dated 23 April 2018). This E-Notice No. 0050
+therefore is not so much concerned with any purported ‘change’ in mapping requirements per se, but
+rather centres on delay in us being issued with confirmation from you / the Employer as to whether we
+are required to implement 2D or 2.5D maps and the ramifications of the delayed decision making
+process on completion of the Works.
+Further explanation as to the history of events associated with this particular ‘event’ follows:
+It was because of a failure on your part to respond to our letter ref: (1) that we issued ‘Likely Delay
+Notice No. SAA8 – 001’ by way of our letter dated 9 October 2018, ref: (2). In addition to this further
+letter reminding you of the events described above, we informed you the SMIS Initial Site Acceptance
+Test (ISAT) test could not take place as the MAPs, being an integral part of the test, had not yet been
+developed because a decision had yet to be made on whether 2D or 2.5D maps were required.
+Accordingly, we urged you to reply with a decision on this by 14 October 2018, but unfortunately you
+failed to do so. You did however reply by way of letter ref: (3) advising us that we would be informed of
+the Employer’s decision “shortly”, but meanwhile rejected ‘Likely Delay Notice No. SAA8 – 001’ on the
+basis this ‘event’ pre-dates the effective date of SAA8 and is captured under SAA8 Clause 1.7.2 and SAA8
+Clause 1.7.4. That said however, and notwithstanding your position on this, you elected to remind us
+that the mechanism for notifying you of delaying events and other risk items such as this is provided for
+under SAA8 Clause 2.2.5.
+Despite us writing to you again on 20 October 2018 vide letter ref: (4) contesting your rejection of ‘Likely
+Delay Notice No. SAA8 – 001’ for the reasons set out therein, you continued to rebut this in your letter
+ref: (5) dated 24 October 2018. It was however unfortunate, that notwithstanding our respective
+positions, the Employer’s decision and confirmation of the requirement for 2D or 2.5D Maps remained
+outstanding – despite you advising that we would be informed “shortly”. This was the case in October
+2018 and remains the case at the time of preparing this E-Notice No. 0051, which is 24 February 2019,
+i.e. four months later.
+Meanwhile, the matter was discussed at the Risk Committee Meetings. This includes the meeting held
+on 11 November 2018, the Meeting Minutes at ref: (6) refers, which records that ‘ADAC expects to
+confirm map requirements by end Nov’. Clearly the Employer’s intentions failed to materialise by this
+time also. The Meeting Minutes at ref: (6) also records that in the intervening period, in an effort to
+mitigate delays to the Works, we, in conjunction with ATLAS, elected to proceed with 2D maps to limited
+locations (i.e. to Pier 4 for example), in order to avoid reworks once the actual mapping requirements
+are confirmed.
+The implementation of the maps on the SMIS for the Project is crucial as it is an essential prerequisite
+and must be in place prior populating the SMIS GUI with the circa 13,000 end devices. The requirements
+of the Employer must therefore be advised forthwith to avoid further delay and re-work to completed
+areas.
+Potential Impact:
+The delay in us being informed of the Employer’s preferred mapping requirements (i.e. 2D or 2.5D), will,
+if allowed to continue, affect our ability to achieve the completion dates for the SMIS system
+configuration, SMIS ISAT and all SMIS related interface testing activities, End User training, Performance
+Testing and Final Systems Acceptance. Consequently, this will invariably impact on achievement of
+Milestone MS09B.
+Action Required:
+
+We therefore request your prompt action, guidance, decision or further instruction as may be applicable
+to resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
+Because of the potential seriousness of this matter, we urge you to advise the Employer’s requirements
+for the SMIS mapping as soon as possible, irrespective of your position outlined in your previous letter
+ref: (5). In which respect, we maintain the contention that our request for confirmation of the
+Employer’s mapping requirements is tantamount to a ‘request for information’ and on the basis a
+response to the same has not been ‘issued by the Employer and/or the Engineer’, despite our repeated
+requests that he / you does so, then this falls outside of the ‘Included Circumstances’ pursuant to Clause
+1.7.4 of SAA8.
+Consequently, we hereby reserve all our rights under the provisions of Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs due to the event(s) and circumstances described
+herein.
 Yours faithfully,

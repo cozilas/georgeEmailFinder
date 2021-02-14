@@ -1,16 +1,103 @@
-Subject:Subsidence Rectification – Grouting – Expiration of Ultra Fine Cement
-Dear Sirs,
-We refer to your e-mail dated 29 April 2020 (ref: 1), and attach hereto an ‘Ultra Fine Cement Tracking
-Log (Expiry Dates) (Update Date: 26.04.20)’, which serves to provide you an update of the status of the
-Ultra Fine Cement available on site, in terms of defining: the total quantity available; the dates when the
-material was delivered; and the dates when the material will expire and corresponding quantities.
-Please note that as result of the UAE Governmental Authorities’ edicts associated with the Coronavirus
-(COVID-19) pandemic, including without limitation, the traffic restrictions and other matters previously
-notified by way of letters ref (2) and (3), and the impact this has had on the grouting works, combined
-with the failure on your part and the part of the Consultants to issue necessary instructions defining the
-scope of grouting works, the Ultra Fine Cement will expire before the full quantity can be utilised.
-We therefore notify you that we will not be held responsible or liable for such events and circumstances
-and accordingly reserve our right to recover the direct costs associated with procuring additional Ultra
-Fine Cement to supplement the quantities of material that will invariably expire, as well as reserve our
-right to recover any associated delays and the costs of such delays; either under the Contract or at law.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0209
+Power Supply & Distribution Box/Consumer Unit serving Fibre Consolidation Points (FCP) to FIDS
+– Request for IFC Drawings & Engineer’s Instruction
+Dear Sir,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0209 (ref: 2) in which you aver inter
+alia that as the event was a known event prior to the effective date of SAA8 there is no entitlement to
+any additional time and / or cost, and our request for an Engineer’s Instruction is rejected.
+For the reasons comprehensively set out in Annex A to letter (2) we disagree; and it is clearly evident
+you have elected to ignore the content of our notice and/or missed the crux of the issue entirely.
+The facts of the matter remain as follows:
+•
+On 31 May 2017, we raised RFI/0401/14089 requesting updated small power layouts with
+power circuits for a number of items, including Dynamic Signs / FIDS and Fibre Consolidation Points
+(FCP).
+•
+As part of the reply received on 2 July 2017, the Employer’s Design Consultant [KPF] advised:
+“The Dynamic Signs that are to be connected to the 18 feeders available under [Bulletin] B227 are
+shown on the attached sketches” while “The power supply to the FCPs ... will be further detailed in the
+ongoing exercise that will be sent to the Contactor in due course for levels L0.0 and L2.0.”
+•
+On 7 August 2017, we received a Rev. 01 response to RFI/0401/14089, in which KPF advised us
+that “where ‘Future Provision’ is indicated … Contractor needs to install necessary containment to the
+Dynamic Sign Location,” while in relation to the Fibre Consolidation Points, KPF advised: “The power
+supply to the FCPs [for levels L0.0 and L2] ... is … detailed in the [attached] spreadsheet …”
+•
+The spreadsheet shows FCPs referring to ‘Future Provision (Bulletin 227.1 not issued)’; in other
+words, the requirements remained unclear and the electrical design was not yet available; hence it was
+reasonable to assume that details of the ‘power supply to the FCPs ... will be further detailed” as part of
+“the ongoing exercise” and would be issued in due course as part of Bulletin 227.1.
+However, Bulletin 227.1 was never issued.
+•
+On 5 September 2017 we advised you Power layouts were not included in the Rev. 01 response
+and urged you to “issue IFC documents immediately to allow us to proceed engineering …and
+procurement” and “FCP / outdoor access points …. are missing on the layouts …”
+•
+On 14 May 2018 you advised us the final load design of the distribution boards was closed in
+BP66; while the location of the FCP/outdoor access units were determined based on heat map studies.
+Again, you failed to provide the requisite IFC Drawings.
+•
+On 29 April 2018, we raised RFI/0401/16011 entitled ‘Requirement for Additional FCP Data
+points for Outdoor Wifi locations in Level 0.0’, in which we recorded that outdoor wi-fi access points had
+been provisioned in order to meet the wi-fi coverage requirements. We further recorded that there was
+currently no provision for the related data outlets shown on any of the IFC Drawings.
+•
+We advised: “In order to activate the Wifi access points, additional FCP data points along with
+related Power and FCP switch will be required to establish the network connectivity for the Wifi” and
+requested you provide us updated IFC Drawings showing the related FCP data outlets.
+•
+You responded on 22 May 2018. The response stated:
+The location of the supporting services for Wifi (power and data) is our responsibility.
+The location of the WiFi is our choice.
+
+Provision of power and data is our responsibility.
+Should a WiFi device require new power and data, we were to relocate and coordinate.
+•
+While we are clear about the requirements relating to the power and data provisions for the
+Wifi, the response completely overlooked what was being asked in relation to the power supply
+requirements for the additional FCPs; there was no mention whatsoever regarding the FCPs.
+Again, you failed to provide the requisite IFC Drawings.
+•
+The matter however fell silent until receipt of your e-mail dated 25 June 2019 issued in relation
+to the ‘External FIDS / IP65 Enclosure’, where you advised that “you are to follow the IFC …”
+•
+Following which, on 29 December 2020, you then wrote informing us that:
+“The delivery of the Wi-Fi and Security equipment (Cameras) functionality is to be treated separately
+from the external Signage Power (Bulletin 227 Rev 001) given the fact that the Contractor was fully
+aware that the FCP needed power to deliver the full functionality of the Security Cameras and Wi-Fi as
+per the DPS Specification which was never descoped.”
+•
+You have since repeated this exact same sentence in your letter ref: (1).
+As noted in our letter (ref: 2): we are fully aware the FCP needs power to deliver the full functionality of
+the Security Cameras and Wi-Fi. This is not the issue. The issue is the lack of IFC Drawings showing the
+power supply requirements for the additional FCPs located within the FIDS. As was clearly set out in
+letter ref: (2): Given the continued absence of us being provided any IFC Drawings, then how are we to
+know what those power requirements are in terms of cabling and consumer units etc.?
+It is patently clear that rather than address the issue and provide us the updated IFC Drawings, you have
+elected to ignore the evidence of fact described above or missed the crux of the issue entirely.
+Our position remains as set out in letter ref (2). we have no design liability under the Contract to design
+the power supply requirements for the FCP devices in the external signage, and urge you to liaise with
+the Employer’s Design Consultant, KPF, whose liability this is, and between you, provide us properly
+coordinated and fully detailed IFC Drawings reflecting the FCP power provisions under cover of an EI.
+However, despite our repeated requests, including without limitation, those raised on 31 May 2017, 5
+September 2017 and 29 April 2018 [described above], you have consistently failed to provide the IFC
+Drawings showing the power supply requirements for the additional FCPs located within the FIDS.
+It is because of these failures [acts of prevention] on your part and the part of the Employer’s Design
+Consultant that this issue cannot possibly be construed as forming part of the ‘Included Circumstances’
+per Clause 1.7.4 of SAA8. As previously stated in ref: (2); SAA8 cannot reasonably be interpreted as
+requiring us to absorb delays of unknown (possibly unlimited) duration occurring pre/post 4 September
+2018, particularly where the resolution of the matter causing the delay remains with the Employer / the
+Employer’s Personnel / the Consultants. We remind you that the Employer’s Design Consultant
+previously assured us in its Rev 00 and Rev. 01 responses to RFI/0401/14089 that the power supply to
+the FCPs would be “further detailed …in due course”, while the response to RFI/0401/16011 ignored our
+request to be provided with updated IFC Drawings showing the related FCP data outlets entirely.
+The continued failure on your / the Employer’s Design Consultant’s part to provide us with IFC Drawings
+in confirmation of the power supply cables and distribution box/consumer units serving the FCPs to the
+FIDS to Levels L0.00 and L2.0, is continuing to affect commissioning of the security cameras and Wi-Fi;
+and will invariably impact on our ability to obtain the Building Completion certificate (BCC). This is
+essential to achieving Milestone MS09B and will invariably impact MS09C (Substantial Completion).
+Consequently, and contrary to your assertion in letter ref: (1), our E-Notice No. 0209 does have merit.
+In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

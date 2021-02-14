@@ -1,100 +1,60 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0098
-Delays to the Time for Completion of the Works due to Delays to Receipt of Subsidence
-Works Instructions and Subsidence to Other Areas of the MTB
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0033 [Post SAA8]
+Code 3 Small Power Shop Drawings SDS/0401/E/0253-16 - Update
 Dear Sir
-We refer to the successive correspondences issued in relation to the subsidence that continues to occur
-at the Midfield Terminal Project, including without limitation the letters identified in ref: (1), and in
-particular our letters ref: (2), (3) and (4), and hereby submit this Delay Notice in consideration that the
-events and/or circumstances described herein are delaying and disrupting the Works.
-We have approached this Delay Notice in two parts:
-1.
-Delays to Receipt of Subsidence Works Instructions; and
-2.
-Subsidence to Other Areas of the MTB
-Both parts are examined briefly as follows:
-(1)
-Delays to Receipt of Subsidence Works Instructions:
-We continue to be perturbed and alarmed by the inordinate amount of time it takes you to address
-many of the issues associated with the subsidence; in particular, the length of time taken to provide a
-response to the 3rd Geotechnical Report, the delays associated with the backfilling material, as well as a
-failure to issue us a complete, fully designed and properly instructed Issued for Construction set of
-documentation for the remedial works and the lengthy delays issuing us with instructions generally.
-Firstly, on 20 November 2018 (letter dated 5 November 2018, ref: MTB/TCA/AECOM/L/013676), we
-issue you with a 3rd ‘Geotechnical Report: MTB – Investigation of Manhole Subsidence, Issue C’, dated 4
-
-October 2018 [with ‘Areas 3, 6, 7 and 8 added as well as other missing information’]. In the event
-however, it was not until 121 calendar days later, on 21 March 2019 (letter dated 11 March 2019, ref:
-MTC-CMA-TCA-0401-LTR-10507), that you finally provided us with comments as well as attaching a
-document issued by the Employer’s Consultant (NACO) replying to the 3rd Geotechnical Report.
-This is an inordinate amount of time that could and should have been avoided.
-Secondly, you have habitually issued us ‘requests’ for us to undertake a successive series of testing and
-subsidence related remedial works, without properly instructing us in writing in accordance with the
-requirements of Clause 11.3 (‘Instructions of the Engineer’). Many of your ‘requests’, and our replies to
-such are to be found within the Schedule of Correspondence included at Annex A hereto.
-By way of specific example, on 19 February 2019 (letter ref: MTB/TCA/AECOM/L/013992 dated 5
-February 2019), we wrote in response to your letters ref: MTC-CMA-TCA-0401-LTR-10403, LTR-10405
-and LTR-10407, advising you the content were recognised as being issued under Sub-Clause 11.3.3 of
-the Conditions of Contract in so far as the instructions issued therein constitute Variations. However,
-while acknowledging that you have since issued letter dated 28 May 2019 (ref: MTC-CMA-TCA-0401LTR-10728), instructing us to proceed with the works outlined in the letters referenced therein, this
-‘instruction’ was (1) limited to Clause 11.3, (2) failed to provide a number of instructions (it failed to
-address the additional requirements requested in your MTC-CMA-TCA-0401-LTR-10407 for example),
-and as such (3) was limited to instructing tests / trials and not to undertake specific remedial works.
-Moreover, we further record that the blanket ‘instruction’ issued by way of your letter dated 28 May
-2019 (ref: MTC-CMA-TCA-0401-LTR-10728) attempts to instruct some of the various testing / trial
-related matters that were first bought to your attention nine (9) months ago, in September 2018.
-Again, this is an inordinate amount of time that could and should have been avoided.
-Thirdly, we also remind you again that as advised within many of our previous letters, including without
-limitation, our letter ref: (2), you have still failed to provide a complete, fully designed and properly
-instructed Issued for Construction set of documentation for the remedial works in respect of not only
-the subsided and subsiding MTB perimeter, but also the sub-building infrastructure.
-Therefore how can we possibly be expected to address the requisite remedial works and mitigate delays
-to the completion of this Project, if you continually delay issuing us the necessary Instructions?
-Fourthly, we draw attention to the issue of the unsuitable backfilling material, and as advised in many of
-our previous communications, including inter alia RFI/0401/17083 dated 1 May 2019 and letter ref: (3),
-it is patently clear from the results of the various tests undertaken to date, that the backfill material that
-has been made available to us [Stockpile 3] and which you have indicated should be used for the
-subsidence remedial works, is inappropriate for its intended use. Our geotechnical expert, Robert Bird
-Group has advised they ‘do not recommend the use of this material as fill …’
-Accordingly, as advised in letter ref: (3), we cannot agree to use the fill material from Stockpile 3 and
-consequently until such time as you advise and instruct us which fill is appropriate and can be used as
-part of the subsidence remedial works, we are prevented from proceeding with any backfilling works.
-Additionally, we also draw your attention to the further delays that will ensue due to your instruction
-issued by way of your letter dated 29 May 2019 (ref: MTC-CMA-TCA-0401-LTR-10737), requiring us to
-arrange to return the remaining sample of stockpile material back from the Fugro test facility in Hong
-Kong to the Fugro test facility in Dubai so at to undertake the collapse testing locally in the UAE.
-While we are complying with your instruction, we see little merit to be gained from further testing of
-the fill material. We have already advised you that the fill material from Stockpile 3 is inappropriate for
-its intended use and your requirement for further testing is simply delaying matters even further.
-If however, you elect to ignore the advice of our geotechnical expert, and continue to press on with
-instructing us to use the same backfilling material from Stockpile 3 as part of the remedial works despite
-it being unsuitable, not only do we believe you have failed to address the issue of establishing the root
-cause of the problem, but we strongly contend that such remedial works will be to no avail and the
-
-same problems will continue to occur. If this is indeed the case, and you insist on instructing us all the
-same, we cannot and will not be held responsible or liable for any resultant consequences.
-(2)
-Subsidence to Other Areas of the MTB:
-Finally, as you are aware, the subsidence that has occurred and continues to occur on this Project, is not
-just limited to the sewer and storm water manholes and pipework, but has also begun to occur to the
-sub-building infrastructure; and moreover, is not just limited to the [MTB] Works but has begun to affect
-the MTA Contractor’s Works undertaken by L&T. In fact, the grout injection works carried out as part of
-L&T’s own subsidence remedial measures have proved counter-productive in so far as it has caused
-‘heave’ of the underlying substructure resulting in our pipes and manholes to settle.
-In summary therefore, it is our contention that the various events and circumstances outlined above
-constitutes acts of prevention and/or breach of Contract on the part of the Employer, the Employer’s
-Personnel, the Consultants and the Other Contractors on the Site, and accordingly give you notice,
-pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+This letter serves as an update to E-Notice No. 0033 issued by way of our e-mail ref: (1).
+By way of reminder: On 21 October 2018, we submitted Shop Drawing Submittal SDS/0401/E/0253 Rev.
+16 requesting your review and approval of four Electrical Small Power Shop Drawings appended thereto.
+However, not only did you fail to respond to this submittal until 1 November 2018 which is seven
+calendar days later than the review period expressly stated in the Contract (refer to Article 1.3 of
+Specification Section 013300), but all 4 Shop Drawings were unreasonably granted Status Code 3 with no
+clear reason for doing so. This is despite them incorporating the E-Gate designs instructed by
+ADAC/CMA via EI-739, concluded during workshops dated 4 and 12 2018, and formalised via the
+response to RFI/0401/15949; hence the issuance of our E-Notice issued under e-mail ref: (1).
+Our E-Notice No. 0033 also served to insist that given the invalidity of the Status Code 3 response, you
+re-code the Shop Drawings no later than 15 November 2018. However, you failed to do so.
+You did however eventually acknowledge your original Status Code 3 was unreasonable when on 16
+December 2018 you re-coded all four Electrical Small Power Shop Drawings and returned them to us;
+which is 56 calendar days later than the response due date specified in the Contract (Table 1 refers).
+Table 1
+SN
+Submittal Ref: Rev.
+Drawing No. Description
+Date Submitted
+Response
+Due Date
+Response Deceived
+Delay
+(days)
+SDS/0401/E/0253
+16
+401-AN-E-09-20-5.17B-SP-SD-001
+Electrical Small Power
+Plan, L2.0, Sector 5.17B 21-Oct-18
+28-Oct-18
+01-Nov-18
+(Code 3)
+4
+401-AN-E-09-20-5.17D-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.17D
+401-AN-E-09-20-5.22B-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.22B
+16-Dec-18
+(Code 2)
+56
+401-AN-E-09-20-5.22D-SP-SD-001
+Electrical Small Power Plan, L2.0, Sector
+5.22B
+It is clear that the late and unreasonable Status Code 3 response to the above noted Shop Drawings /
+Submittal constitutes an act of prevention and/or breach of Contract and accordingly, we give you
+notice pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 of our right to claim:
 (i)
 An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
 (ii)
 An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
 in the alternative, damages for breach of contract.
-We also give you notice in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our
-right to claim an extension of time and the payment of additional Costs pursuant to Sub-Clause 15.2.4
-(b), (c) and (d), and Sub-Clause 21.2.1 (j), on the basis that all of the works subject to your ‘instructions’
-issued to date requiring us to uncover and test various sewer and storm water manholes and pipelines
-[previously subject to your inspection and approval through the WIR process], have in fact, been found
-to have been carried out by us in accordance with the Contract.
-Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+
+Interim and/or final details of the time impacts and adjustments to the Contract Price relating to this
 event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

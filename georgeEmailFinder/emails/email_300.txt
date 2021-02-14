@@ -1,83 +1,46 @@
-Subject Basement Water Leaks
-Construction Management Agency
+Subject: Engineer's Instruction No. 7768- Bullet in 262.2 - Pier 2 Grouting Works
 Dear Sir,
-We refer to the evaluation of the current leak condition, rectification methodology and the site
-investigation report- " Leakages in carpark, pump room and utility rooms" enclosed in letter (1) and
-respond as follows:
-Concrete durability requirements were established considering the design life of the building and
-hence the building substructure was designed to be water tight. The repeated and widespread
-distribution of observed leaks indicates that the waterproofing system has been compromised in
-multiple locations thus allowing long term, persistent ingress of groundwater through the basement
-structure.
-There have also been numerous instances of crystal salt deposits observed on the internal concrete
-surfaces which is indicative of high salinity groundwater. The salinity of the water present in the
-structure and its effects has not been determined by the Contractor nor considered within the leak
-report commissioned.
-Ingress of aggressive groundwater and the attack/corrosion of the concrete and reinforcement due to
-exposure to corrosive compounds such as sulphate and /or chloride ions may result in significant
-degradation of the structure and potential durability issues and service life reductions.
-Prolonged water ingress also acts as a transit route for moisture and dampness with in the building
-resulting in associated environmental hazards, which can become airborne and spread throughout the
-building fabric.
-The Contractor has been carrying out resin injection of concrete in the leak affected areas from 2014
-to date, however, water ingress, repeat leaks and new leak locations are still occurring. Considering
-t hat injection resin repairs have been going on for more than five (5) years without arresting the
-leakage the Contractor needs to reassess its repair methodology and explore whether a more effective
-/permanent rectification solution should be considered, especially as use of current repair method
-during building operations has the potential to be enormously disruptive and incur considerable OPEX
-costs to the owner.
-The entry of groundwater through the basement slabs and walls will potentially introduce additional
-costs to operate and maintain the facility including potential loss of availability and function for the
-building owner. The Contractor has not considered how areas of the basement that are covered-up
-and concealed will be systematically monitored in future to ensure no leakage is present. The
-potential for latent defects within the concrete structure and the long term risks and impact on design
-service life resulting from water ingress has not been fu lly addressed by the Contractor.
+We write with reference to your letters noted above. Engineer's Instruction (EI ) No. 776B enclosed
+with your above referred letter, instructed us to implement Bulletin No. 262.2 with immediate
+effect.
+The instruction contained fifty-seven IFC Drawings, consisting of one cover page, three index sheets
+(Index Sheets 1, 4 and 6; whereas Sheets 2 and 3 presumed missing), eleven coordinates sheets
+11II
+and forty-two detailed layout drawings to indicate the grouting point locations. There was no key
+IIII
+plan for the zones around Pier 2 Area, nor were they annotated by any means of a direction
+indicator, as all were rotated to fit the paper work-space.
+Within these fifty-seven (57) drawings, there are 14 completely new IFC drawings corresponding to:
+MTA Storm and Sewage (5 No Drawings: Drawing No 961 through 965),
+MTA Storm and Sewage Coordinates Table(s) (2 No Drawings: No. 967 and 968)
+MTA Utilities (5 No Drawings: Drawing No 981 through 985) and
+MTA Utilities Coordinates Table(s) (2 No Drawings: No. 987 and No. 988)
+Above referred drawings are adding 986 new grouting points, most being clouded to annotate
+"Subject to further review upon additional CPT information being provided. Will be updated in
+Future Bulletin". These new points are located adjacent to the services installed by the MTA
+Contractor, Larsen and Toubro (L&T), and it assumed the grouting is required to improve the
+ground conditions below these services.
+In past meetings both you and Employer's representative have stated that the subsidence around
+the building has been caused by the "groundworks, either cut or fill, done by TCA JV". When
+confronted with the fact that many other areas around the building not part of our Works have
+suffered and continue to suffer subsidence, we have been advised to ''demonstrate" . We submit
+that your instruction to grout under the installation of other contractors in an area that does not
+form part of our Site constitutes the required 'demonstration'.
+Setting aside the insufficiency of information provided we regret that we consider your instruction
+to be invalid as it exceeds the Engineer's Authority, in that it requires us to work in an area that is
+beyond our Site: we are not able to carry out any of the works implied by this instruction. Should
+the Employer desire this additional grouting to be carried out, we would expect that he direct you
+to issue us with an El providing fully detailed information including accurate as-built drawings and
+requesting us to provide a ROM in respect of the following:
+(i) a price for the additional works;
+(ii) a fragnet for the additional works; and
+(iii) the integration of the fragnet within Programme Rev 11.2 to demonstrate the
+effects (if any) on the Milestones;
+(iv) given the ongoing failures evident in the current installation, such a ROM would
 
-The Contractor has taken steps to inject cracks to arrest the water ingress, however, water ingress
-follows the path of least resistance and so as leaks are repaired this has forced water to find an
-alternative path where cracks persist and become pathways through the structural elements, leading
-to leaks elsewhere. The Engineer again concurs with Section 7 Part (ii) of the report which
-recommends that 'the leaking joints have to be injected not only at locations where they are leaking
-but for the entire length, as water has a tendency to leak through the path of least resistance and
-once it is sealed, new leakage can happen at adjacent locations' .
-The report cites codes and standards for crack widths and analysis for deriving appropriate repair
-solutions and advises that for a maximum allowable crack width of greater than or equal to 200 ·.
-microns cracks need to be sealed by injection for exposure class XS2 + XS1 + XS3 . Furthermore, the
-report advises that whilst the injection materials used currently are suitable for penetrating cracks up
-to 200 microns width, it is suggested to use a resin that has the capability to penetrate cracks up to
-100 microns. We request the Contractor to confirm if this recommendation has been implemented.
-The Engineer concurs with the reports observations and conclusions and would further advise that the
-Contractor has failed to conduct a regular crack monitoring regime to identify and track crack
-locations and propagation. The Contractor has acted to the contrary and has covered up and put out
-of reach many areas where ground water has since ingressed. Over time th is water penetration has
-manifested itself in building void areas, wall and floor finishes, steel imbeds and steelwork supports
-and accessories affixed thereto. There is also evidence of excessive corrosion of exposed
-reinforcement steel. Whilst the report notes that injection has taken place, it is advised that the
-injection ports were fixed too close to the cracks and the cracks were found to be injected
-haphazardly.
-The Contractor is in a situation whereby it is impossible to rectify defective works without stripping
-out all materials and finishes to get back to the structural elements and to map all cracks equal to or
-greater than 200 microns and to inject same. This will require all metal elements affixed to the
-concrete structure to be removed, stripped back to the base metal and re-galvanized.
-Concerning the widespread observations of corroded bolts, nuts and washers, it is evident that
-aggressive rusting has taken place which calls into question the quality and suitability of these fixings
-and the galvanizing process. The Contractor is requested to engage a metallurgical test agency to
-conduct testing on these fixtures and fittings and to confirm compliance with the Contract
-specification.
-The Contractor should engage a specialist corrosion / concrete / petrographic specialist company to
-further test and analyses the existing structure, particularly the effects and potential risk for localized
-steel corrosion and concrete attack. Testing and analysis would be expected to include, but not
-limited to, non-intrusive field rebar scanning, concrete core sampling and testing, concrete dust
-sampling and testing, petrography analysis, half-cell potential tests and groundwater chemical testing
-and analysis. The specialist will provide an estimate of the current concrete design life and can
-determine the necessity (if any) and options for remedial works.
-Lastly, it is evident that the contractor has taken action at site to cover up areas where
-dampness/corrosion existed. This is completely unacceptable and must stop. The contractor must act
-openly and transparently with the engineer to engage in a systematic process to identify all areas that
-require treatment and to undertake all necessary steps to remediate the works to bring the building into
-compliance with the contract requirements.
-It is critical that the contractor takes immediate action to fully understand this scope and to factor this
-into their overall schedule for completion.
-For your reference, please find enclosed a selection of leak maps and photos which captures a sample of
-leak location and types encountered.
-Yours faithfully
+exclude all costs and liability in respect of the removal and reinstatement of
+concrete apron, drainage and other works - we suggest these would have to be
+carried out by the original contractor.
+We advise that due notification be given to the Employer's insurer of these failing installations, as
+they will not be covered by the CAR Policy for this Project.
+Yours faithfully,

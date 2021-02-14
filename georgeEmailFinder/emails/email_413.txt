@@ -1,43 +1,103 @@
-
-Potential Impact:
-Acts of prevention such as those outlined above, will at this stage of the Works, prevent us from
-obtaining the Building Completion Certificate (BCC). This is critical is us achieving Milestone MS09B, and
-if in the event matters such as these will continue, then the more likely these will invariably knock-on
-and resultantly prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0087 [post-SAA8]
-Installation of Hollow Metal Doors - Unreasonable Status Code 3 Comments issued in response to Work
-Inspection Requests (WIRs) - Update
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0100 (post SAA8)
+Engineer’s Response to RFI/0401/16803, RFI/0401/16865, RFI/0401/16852, RFI/0401/16929 –
+Requirement for Door Position Sensor to Shaft Access Hatches – Request for Engineer’s Instruction /
+Variation Order (VO)
 Dear Sir
-This letter serves as an update to E-Notice No. 0087 issued by way of our letter ref: (1).
-By way of reminder, our E-Notice No. 0087 sent via letter ref (2), notified you about numerous Work
-Inspection Requests (WIRs) following our request for final inspection and approval of the installation of
-numerous Hollow Metal Doors and Hardware that were subjected to a series of unreasonable Status
-Code 3 comments. Although our E-Notice No. 0087 focussed on the unreasonable comments endorsed
-on seven (7) WIRs covering the installation of 12 Hollow Metal Doors and Door Hardware to Gatehouses
-GH01, GH02, GH47, GH48 and GH49, we made in abundantly clear at the time that there were
-potentially 100’s of WIRs the responses to which contained similar unreasonable comments; this had
-the potential to affect to all of the areas of the Main Terminal Building (CPA and Piers 1 to 4).
-However, despite us providing various indicative examples of the types of comments endorsed on the
-WIR responses justifying precisely why the inspectors’ comments were unreasonable and urging you to
-retract the Status Code 3 comments and re-issue the WIRs [certainly for the seven WIRs subject to our
-letter ref: 1), we note that to-date, no action has been taken on your part to re-code them.
-We also made it clear in letter ref: (1) that we would be reviewing all of the responses to all of the WIRs
-subject to your unreasonable Status Code 3 responses to determine the exact quantity of doors
-affected. We have now completed this exercise and at Annex A hereto, is a detailed list of all the WIRs
-containing unreasonable comments, which are of a similar nature as those identified in our letter ref: 1);
-this information [detailed in Annex A] demonstrates that 932 nos. of doors are affected.
-We reiterate that such comments are without doubt unreasonable and are in indicative of general
-comments reflecting the opinion of the inspector as opposed to specific comments. Consequently, we
-once again urge you to withdraw the comments and annotate each WIR Status Code 2 or higher.
-Meanwhile, we maintain that the various events and circumstances detailed herein constitute acts of
-prevention and/or breaches of Contract on the part of the Employer’s Personnel and therefore give you
-notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of contract.
-Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
-event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
+may cause delay and/or disruption to the Works, hence we seek your swift resolution of the same.
+The Event(s):
+Between 30 January 2019 and 11 March 2019, we submitted the following four (4) RFIs, requesting
+further clarification of the design and scope of works associated with various shaft accesses located
+inside of the BOH rooms to various areas and levels of the Main Terminal Building (Table 1 refers).
+Specifically, the existing IFC Drawings failed to provide any details on the precise location and design of
+the access panels, hence, the RFIs provided some recommendations based on the site conditions.
+Table 1
+Item Date Submitted RFI No. Description
+Date Reply Required By Date
+of
+Response
+Overdue
+By
+1
+30-Jan-19
+RFI/0401/16803
+Wall Access Panel Setting Outs inside the Rooms-L0.0L0.1
+11-Feb-19
+29-May-19
+107 days
+2
+21-Feb-19
+RFI/0401/16865
+CP – LB.1, L0.0, L0.1, L1.0, L3.0 Access Hatch Location
+28-Feb-19
+01-Jun-19
+93 days
+3
+18-Feb-19
+RFI/0401/16852
+Piers Shaft Access Door Confirmation 02-Mar-19
+29-May-19
+88 days
+4
+11-Mar-19
+RFI/0401/16929
+Access Door added in HVAC Room for Shaft 54 11Mar-19 29-May-19
+79 days
+Firstly, we wish to record the inordinate amount of time taken by you to respond to each of the RFIs
+listed above. At this stage of the Project, for you to take upwards of 107 calendar days to reply and
+respond to the various matters subject to these RFIs, is wholly unacceptable and will invariably knock on
+and have a consequential impact on our progress and delay us; this delay was wholly avoidable.
+It is therefore ironic that your delayed responses, which we hasten to add, details a requirement for
+additional work [see below], contain comments to the effect that we are expected to agree to carry out
+such work but ensure “there are no adverse time or cost impact[s] to the Client”.
+Secondly, having provide you with a detailed study of the location of the access panels to various areas
+and locations of the MTB, taking cognisance of the status of the Works, we are somewhat taken back by
+your responses, all of which inform us that “[you / the Employer’s Design Consultant] take no exception
+to the Contractor's proposals to coordinate appropriately sized maintenance access …”. This comment is
+then followed by a lengthy list of requirements including without limitation a comment that “All access
+panels to be equipped with SACS type-0 (Door position sensor)”, which you brazenly expect us to
+provide and/or comply with but not only does this fall outside of our scope of works and will warrant
+and EI / VO, but as noted, we are expected to accommodate the time and cost impacts.
+This is unacceptable also.
+We wish to put on record that your response to all four (4) RFIs listed in Table 1 have requested the
+provision of SACS Type-0 (Door Position Sensors) which represent substantial changes to our scope of
+Works, since the requirement for shaft access doors and accompanying sensors is not mentioned in the
+Specifications nor are they detailed within any current IFC Drawings. If so instructed, this will involve
+the following additional works involving the coordination of numerous subcontractors:
+•
+Procurement and installation of DPS systems;
+•
+Connect the DPS to the closest Door Control Unit (DCU). In case there are no DCUs in the area
+surrounding the access door, a new DCU will have to be installed; and
+•
+In case a new DCU is installed, data outlets and power to the DCU are required to be installed.
+
+In light of the foregoing, in the event that any RFI responses attempt to introduce additional works
+beyond our existing scope, and that of our Subcontractors, which clearly the RFI responses do so in this
+case, then this requires a valid Engineer’s Instruction (EI) and a Variation Order (VO).
+The SAA8 laid down strict guidelines to follow if additional works are required. However, on the face of
+it, you failed to honour those obligations and an EI and VO are needed for us to proceed with the
+implementation of SACS type-0 (DPS) on wall access panels for shaft accesses, as discussed above.
+We therefore, take this opportunity in reminding you of the provisions of Clause 2.29 to Clause 2.31 of
+SAA8 pertaining to Variations, in so far as we are not to proceed with any Variation until a Variation
+Order and a Time/Cost Record have been issued first. In which respect, it is your obligation to issue this
+Time/Cost Record first if you wish to instigate change; this is only after the additional time and/or costs
+impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above. We trust this is clear.
+Potential Impact:
+Any requirement for additional works, in this case, the provision of SACS type-0 (DPS) to wall access
+panels for shaft accesses and to the various areas and levels noted above , at such a late stage of the
+Project, is very likely to impact upon our ability to achieve Milestone MS9C (Substantial Completion).
+Action Required:
+It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

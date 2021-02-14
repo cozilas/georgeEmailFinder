@@ -1,44 +1,22 @@
+
 Dear Sir,
-This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
-both price
-and any potential time impact for a proposed Variation by the Engineer regarding work under the
-contract. The Variation as proposed:
-The following Emplover's Requirements:
 
-Volume 6, Sub-Clause 13.3.4.6 a) ii
-Delete the following Sub-Clause:
+The Contractor refers to letter reference 1) and the latest discussions regarding the Engineer's
+Assistant's request for a revised quotation and programme for the design and construction of the
+amended pedestrian Access and Underpass walkways at Souq Waqif Station.
 
-"50% of the·lighting luminaries shall be equipped with batteries (self-contained) for 1.5 hours, to avoid
-total darkness in the event of failure of the normal power supply."
+Further to the Engineer's Assistant's request, the Contractor encloses herewith its revised quotation for
+the amended pedestrian Access and Underpass walkways at Souq Waq if Station.
 
-And replace with the following :
-Within the tunnel, fifty percent (50%) of the lighting luminaires shall be powered by the Uninterrupted
-Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwork Contractor) to provide
-the minimum required luminance level for 1.5 hours.
+The estimated structural, civil, MEP, architectural finishes and utility relocation design and construction
+cost is provided for budgeting purposes only, and it does not include any other additional cost that may
+arise as a consequence of a late Instruction, such as the cost of rework or abortive design, especially for
+the Souq Waqif current subway configuration and station concourse level. These costs (if any) will be
+addressed under separate cover.
 
-The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
-the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries. Both power cables shall be
-Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754 , Fire Ratedf Resistive according
-to IEc 60331 and Steel Wire Armoured (SWA).
+Given the limited amount of time and information available at this stage, the programme for the design
+and build of the amended pedestrian Access and Underpass walkways will be provided under separate
+cover.
 
-Volume 6, Sub-Clause 13.3.4.6 a) iv Delete the following Sub-Clause:
-
-"30% of the cross passage lighting luminaries shall be equipped with self-contained batteries (selfcontained - non maintained) for 1.5 hours, to avoid total darkness in the event of failure of the normal
-power supply."
-
-Louis Berger @ egis rail
-LB ER JV
-
-And replace with the following:
-
-Within the cross passages, thirty percent (30%) of the lighting luminaires shall be powered by the
-Uninterrupted Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwork
-Contractor) to provide the minimum required luminance level for 1.5 hours.
-
-The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
-the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries. Both power cables shall be
-Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
-to !Ee 60331 and Steel Wire Armoured (SWA).
-The Contractor shall submit the quotation within 14 days from receipt of this direction.
-
+We remain at your disposalfor any further information and/or clarification.
 Yours faithfully,

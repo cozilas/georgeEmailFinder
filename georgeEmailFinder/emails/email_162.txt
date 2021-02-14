@@ -1,24 +1,23 @@
-Subject: Product Substitution for BRS Hand-Held Terminal Material
-Dear Sir,
-We write with reference to your letter (1), which alleges t hat you were unable to complete the testing
-as a result of our fai lure to provide t he applicable battery charger for the Hand-Held Terminal (HHT)
-sample on 26 September 2019.
-In response, we totally disagree that we fa iled to provide the battery charger.
-Our Subcontractor (SITA) confirmed that after report ing to them t hat the HHT battery was dra ined of
-charge, we informed ADAC's Operation Team to return to SITA's office so that t he HHT could be
-recharged. SITA charged the batteries within a few hours and returned t hem to ADAC's Operation
-Team immediately afterwards.
-ADAC's Operation Team subsequently carried out all relevant t esting on that day.
-The sole reason why we were unable to provide the charger to ADAC's Operat ion Team on 26
-September 2019 was that it was not _possible to obtain the necessary security device pass for the
-charger at short notice.
-In the future, should ADAC wish to carry out any fu rther testing, the devices and th e chargers are
-available with SIT A and can be handed over at any time on request.
-Following the tests, on your request, we subsequently submitted a further product substitution
-material approval request via our lett er (2) wit hin the timeframe agreed with ADAC/CMA at progress
-meetings.
-Considering the above, it is evident t hat we are not culpable for any delays associated with HHT.
-Delays with the approval of the HHT is clearly a consequence of acts of prevention by you and the
 
-Employer.
-Yours faithfully
+Code 1 = NO EXCEPTION TAKEN
+Code 2 = EXCEPTIONS AS NOTED REVISE AND RESUBMIT FOR RECORD
+Code 3 = REVISE AND RESUBMIT
+Code 4 = REJECTED
+Code 5 = REVIEW NOT REQUIRED
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0173
+Damage to Carpets to Room 221 at Pier 2 Level 1.0 caused by the Employer’s Contractor (Al Hussain) Request for Engineer’s Instruction / Variation Order
+Dear Sirs,
+We refer to your letter ref: (1) responding to our E-Notice No. 0173 (letter ref: 2) in which you state
+amongst other things that you do not consider that “the submitted E-Notice has any merit”.
+While acknowledging your statement that the Employer’s Other Contractor (Abu Hussain Contracting
+Company LLC) shall be responsible for the rectification / repair of the damaged carpets in Room 221 at
+Pier 2, and that [other than completion of the remaining base build works], we will not be held
+responsible, please note that any entitlement to an extension to the Time for Completion will not be
+negated by this acknowledgement and the works of Others. Accordingly, contrary to your opinion, the
+submitted E-Notice and the events recorded therein, does have ‘merit’; particularly if the repair works
+delays our remaining Works us even further, in which case, our entitlement remains intact.
+Therefore, for the reasons set out in our letter (ref: 2), we maintain our positon as stated therein; and
+maintain all our rights under the provisions of Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1
+[which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time for Completion and
+any associated costs arising from the events described in letter ref: (2) and the acts of Others.
+Yours faithfully,

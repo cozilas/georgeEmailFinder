@@ -1,10 +1,69 @@
-Subject RFVO's - Extended Dates
-Dear Sir,
-The Engineer acknowledges receipt of the Contractor's RFVO's (1) and (2), however it is our position
-that the Contractor does not have any entitlement for additional cost for these works under the
-Variation Clause.
+Subject:
+Wall System
 
-Should the Contractor believe it has an entitlement for additional cost then it is required to follow the
-contractual process under Clause 27.1 of the Conditions of Contract.
-Please withdraw these RFVO's accordingly.
+Changes of Fire Rated Ceiling from a Hanging Ceiling System to a Fixed Wall-to-
+
+Dear Sir,
+In continuation to our meetings regarding the above subject matter and our letter referenced (1) above,
+we place on record that there has not been any official response to our mentioned letter and the matter
+is still currently ongoing without a resolution. Therefore, to provide clarity on this matter, we have
+summarised the main points of our letter referenced (1), in an effort to resolve this matter to enable us
+to proceed with the works without delay. The detailed history of events has already been provided via
+
+our letter reference (1), therefore we hereby provide a summary of the main points of our mentioned
+letter.
+It is noteworthy to reiterate that the responsibility for the Design of the works and consequently design
+compliance with the codes and Local Authority requirements remains solely with the
+Engineer/Employer. During the Tender we had limited information with respect to the type of the fire
+rated ceilings and to date there is no Specification available for a 2 hour fire rated ceilings in the
+Contract Documents.
+During the Tender the Engineer via Tender Queries 12 Tender Bulletins 01 to 18, specified GYB-01
+(regular non-fire rated gypsum board) to be used in egress passageways. Moreover, the Engineer stated
+that “fire rated ceiling areas are defined in G-04 set” wherein there is no such information available in G04 drawings. The Engineer also stated that “rated ceilings at egress passageways (Rated GYB-01 ceilings
+to be issued at a later date)”.
+After the submission of BAFO, on May 2012 the Engineer issued the revised Tender Drawing (IFT) MTC A
+62 TB_L_ _ _ _ 00.640 D_ dated 24 May 2012 inclusive of the detail (Detail No 8) for the required
+properties of the Fire Rated Ceiling in the egress passageways. The drawing indicated GYB-04 gypsum
+board which was in contradiction to the previous comments made on the Tender Bulletins, wherein you
+specified GYB-01.
+Kindly be informed that, as at the date of this letter, there is also a contradiction on the IFC drawings,
+wherein IFC drawing ref. MTC A 62 TB_L_ _ _ _ 00.640 00 shows GYB-04 (fire resistant gypsum board)
+but the legend of the current IFC ceiling plans (A-42 series) still shows the ceilings as GYB-01 which is a
+regular non-fire rated gypsum board.
+It is also noteworthy that via RFVO/0401/1325-SC/039/B Rev. 00 dated 23 January 2018 we have
+mutually agreed in principle on a Variation to include gypsum LID system, incorporating top and bottom
+fire rated gypsum boards in various areas in the project.
+Please note that the new the system provided by the Engineer (Detail no.8 in Drawing MTC_A-62 _B_L_
+_ _ _ 00.640(00)), has no cross reference of this section in the IFC ceiling drawings. Additionally, after
+investigating the matter we are of the opinion that the referred section cannot be considered a fire
+rated ceiling system from both sides due to the fact that it has exposed framing structure in the ceiling
+void which does not meet the Civil Defence Requirements. Furthermore, UAE Fire & Life Safety Code of
+Practice item 35.2, does not permit a 'hanging system' for such a fire rated ceiling from top. In addition
+to the above our opinion is based on the below facts:
+i.
+There is no certification available for a horizontal shaft wall system to be used as a rated ceiling
+system;
+ii.
+This type of system is not available from any manufacturer in UAE;
+iii.
+The IFC configuration shows a hanging system with the fire direction from the bottom which is
+not valid for fire direction from the top;
+iv.
+GYB-04 horizontal shaft wall ceiling system is shown in IFC drawings. This system is from USG
+and listed in their brochure. USG website mentions that this system is not UL tested. This system
+considers the fire direction from the corridor side and there are limitations to the width of the system.
+In view of the above points you are kindly requested the following:
+i.
+Provide certification for the requested system to be used as a rated ceiling system;
+ii.
+Advise of a manufacturer in UAE that can provide the system requested;
+
+iii.
+
+Kindly advise on point (iv) above.
+
+We respectfully request you to issue an Engineer’s instruction and revised Drawings and/or Specification
+and advise on the issues raised above and in our letter referenced (1) to avoid further delays.
+At this juncture, we reserve all of our rights derived under the Contract and inform you that we will not
+be held liable for any delays in regards to this matter.
 Yours faithfully,

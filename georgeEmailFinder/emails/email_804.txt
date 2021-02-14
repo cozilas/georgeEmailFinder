@@ -1,20 +1,477 @@
-Subject:
 
-RE: Reply - Store Yard - Unsecured East Airfield Near A TCC
+Subject: Prolongation claim of CCM
+
+Specific Comments
+The following comments are specific to the cost submissions made by CCM and must be read in
+conjunction with the covering letter attached and its General Comments section:
+1. General
+− CCM have submitted actual and forecasted additional costs; the forecasted costs have
+been projected up to 30 June 2019, which do not reflect actual costs incurred;
+− CCM use the exchange rate relevant to the date of their tender submission (17 July 2014)
+and apply it to the conversions of all EUR / USD to AED thereafter. However, the applied
+exchange rates must be relevant to the time the costs are incurred;
+− In certain instances, CCM have not substantiated their costs with sufficient evidence and
+will therefore be required to provide more records to fully demonstrate actual loss within
+their compensable periods;
+− Upon receiving all necessary evidence, the JV will then assess if such costs are attributable
+and reasonable.
+2. Contractual Costs
+2.1. Performance Bond
+− CCM asserts that due to the fact they are not a local company their Italian bank (i.e. Banco
+Popolare Di Milano) have had to provide a bond to the local HSBC in Abu Dhabi, who in
+return have provided the necessary performance bond. A copy of HSBC’s Performance
+Bond for the project has been provided;
+− The arrangement with the Italian bank appears to be supported with Italian bank records,
+correspondence and statements showing the relevant bank fees included in their costs
+submissions. However, this evidence is in Italian, and must be re-issued in English before
+it can be fully verified;
+− CCM have not provided any evidence of the original fee agreements with both banks in
+question;
+− The figures provided within 1.1.1 [Summary of Italian Bank Charges & Annual Fees] do not
+match the amounts within the summary sheets;
+− The bank correspondence dated 15 November 2015 appears to confirm a conversion rate
+of AED4.460 against the debited amount of EUR9,777.18 – such rate is considerably lower
+that the one used in CCM assessment and would therefore need to be reassessed
+accordingly;
+− Further explanation and justification is required for the 26% Withholding Tax to Italian
+Government.
+2.2. Advance Payment Guarantee
+− CCM have submitted additional fees associated with the extension of four Advance
+Payment Guarantees;
+− Records of four Advance Payment Guarantees from National Bank of Abu Dhabi have been
+provided;
+− CCM have not provided any evidence of the fee agreement with the banks regarding the
+APGs;
+− CCM have provided what appears to be Italian bank statements showing the relevant
+bank fees included in their costs submissions; however, this evidence is in Italian, and
+must be re-issued in English before it can be verified.
+
+2.3. Insurance Fees
+− Plant, Machinery and Equipment Insurance: CCM’s have provided debit notes to evidence
+their additional premiums against the extended periods from May 2016 to May 2018;
+CCM need to provide copies of all revised agreements showing the additional premiums,
+and proof of payment from their account;
+− Workman’s Compensation Insurance: CCM’s have provided debit notes to evidence their
+additional premiums against the extended periods from May 2016 to May 2018; CCM
+need to provide copies of all revised agreements showing the additional premiums, and
+proof of payment from their account;
+− Public Liability Insurance: CCM’s have provided debit notes to evidence their additional
+premiums against the extended periods from May 2016 to May 2018; CCM need to
+provide copies of all revised agreements showing the additional premiums, and proof of
+payment from their account;
+− Professional Indemnity Insurance: CCM’s have provided debit notes to evidence their
+additional premiums against the extended periods from May 2016 to May 2018; CCM
+need to provide copies of all revised agreements showing the additional premiums, and
+proof of payment from their account;
+− Marine Cargo Insurance: CCM have provided a debit note against this insurance, which
+demonstrates a premium amount of AED 36,897, dated July 2015. In their summary
+schedule CCM have pro-rated the premium over a 36-month period, and confirmed this is
+the minimum deposit premium, actual cost will be deducted per each shipment. CCM
+have not provided evidence of this policy in full and its agreed premium. Notwithstanding
+this, and in the absence of evidence to the contrary, the JV would not consider this
+insurance time related;
+− Upon receiving all necessary documents, the JV will then assess if such costs are
+attributable and reasonable.
+2.4. Commercial License
+− CCM’s additional costs include for the extension of their local commercial license. These
+costs have been supported with various receipts;
+− TCA JV understands that CCM has been set up locally solely to service this Project.
+However, in absence of further evidence to support this, their commercial license fees are
+being considered an overhead cost i.e. not time related.
+2.5. Warranty
+− CCM have submitted additional costs associated with the extension of material
+warranties. As their manufactures have refused to extend the warranties, CCM are
+seeking compensation for maintaining such warranties against plywood, plastic laminate,
+krion, paint, powder coating etc;
+− CCM have calculated their compensation using an arbitrary 1% against the ‘current’ value
+of works (i.e. measured works plus variations);
+− This approach is however not correct; the applied 1% is unsupported and the current
+value of works includes for plant and labour, which is not relevant to this cost head;
+− CCM need to consider each warranty individually, on a case by case basis i.e. original
+warranty period, extended period, what it covers and assess the typical failure rates of the
+material using published guides.
+
+2.6. Finance Charges
+− CCM finance charges are linked to 1) delayed certification of retention; 2) delayed
+certification of original preliminaries due to ‘on-hold’; and 3) delayed certification of
+prolongation costs;
+− Delayed certification of retention: CCM have applied a simple interest rate of 16% against
+5% retention and 1145 delays delay; The 16% interest rate is supported with an email
+from a National Bank of Abu Dhabi representative and is based on a cash loan without
+any security. CCM’s calculation does not take into consideration release of retention in
+two parts i.e. part 1 at the Taking Over Certificate and part 2 after the Defects Liability
+Period;
+− Delayed certification of original preliminaries due to ‘on-hold’: CCM costs in this instance
+are related to a portion of their works that were placed on hold by the Engineer. CCM
+have provided evidence of the related instructions issued by the JV and the Engineer and
+stated: CM requests compensation for the delay in assessing and certifying Prolongation
+costs, which have been incurred since 12 May 2016. However, no evidence has been
+provided to demonstrate that the aforementioned instructions have lead to critical
+delays of the subcontract works. Further, the additional costs have been calculated after
+the original contract period, using an arbitrary spread of preliminaries against an applied
+simple interest charge of 16%, which is not correct. Notwithstanding any entitlement
+argument, additional costs should be calculated at the time they are incurred;
+− Delayed certification of prolongation costs: CCM have calculated these additional costs
+using an estimated monthly prolongation charge of AED 700,000, and applied this to the
+extended period between the original contract completion date and the projected
+revised completion date. Notwithstanding any entitlement arguments, CCM have not
+substantiated or evidenced the estimated prolongation charge, and the additional costs
+should be calculated at the time they are incurred, but from the impacted period.
+Prolongation costs are based upon actual costs incurred at the time of the compensable
+delay period.
+2.7. Overhead
+− CCM are seeking the recovery of head office overheads against suspended works and
+prolongation, however the basis of these costs is not entirely clear;
+− It appears to be calculated by CCM as an unabsorbed overhead albeit no supporting
+information has been provided. For a claim for unabsorbed overheads to succeed CCM
+would need to demonstrate loss of opportunity and an actual under recovery of overhead.
+No such evidence has been provided;
+− In addition, an item for overheads on prolongation costs has been claimed, and it appears
+that this may be a claim for additional overheads;
+− Generally, CCM are required to satisfy the requirements set out in the General Comments
+of this letter, and in particular paragraphs (d)(i) to (d)(iv).
+3. Staff Costs
+3.1. CCM are claiming significant amounts against direct labour under this cost head, which are not
+time related costs. As a result, the JV have therefore categorised staff costs in accordance with
+the following.
+
+3.2. Core Staff - the JV has taken an example month (i.e. 201701) and assessed CCM’s cost
+submission against time related 'Core' staff and their applicable cost heads – for the avoidance
+of doubt the costs heads are only applicable if expressly stated in the employee’s employment
+contract and supported with evidence to demonstrate actual costs incurred. Further it is noted
+that although certain positions would be considered core staff, the applicable CCM staff are not
+based in the UAE. In consideration of this, and in the absence of evidence to the contrary, such
+staff and their costs would be considered an overhead;
+−
+
+−
+
+−
+
+−
+
+−
+
+−
+
+−
+
+Basic Salary: CCM have provided a variety of evidence to support their staff salaries i.e.
+CCM employment contracts or UAE labour contracts or invoices from Third Parties etc. In
+certain instances, the documents have been provided in Italian and would therefore need
+to be translated to English in order to verify. Further, to substantiate each individual core
+staff working on the Project, CCM need to provide applicable pay slips, proof of payment
+and timesheets etc.
+Accommodation: CCM have provided copies of hotel invoices, which are only applicable to
+2017. No evidence has been provided to support the staff with local tenancy agreements
+in the UAE i.e. Monica Mombrini. CCM have provided copies of cheques addressed to
+Mubarak Hamad Mohammed Marzouq, but it is unclear what they are for. Further
+substantiation is required to support these costs;
+Food: CCM have provided receipts for Nick Toft and Monica Mombrini. However, further
+substantiation is required to link these receipts to the alleged personnel i.e. bank cards to
+confirm bank details on the receipts. Upon receiving all necessary documents, the JV will
+then assess if such costs are attributable and reasonable. As confirmed above, Nick Toft is
+not based in UAE, so such costs would be treated as an overhead until evidence has been
+provided to the contrary;
+Ticket: No flight tickets and receipts have been provided for Nick Toft, David Richardson
+and Patrizia Marinoni in this month, although it is noted that other months have evidence
+of flight costs. The JV will only consider additional flight costs against the core staff based
+in the UAE. Therefore, as Nick Toft, David Richardson and Patrizia Marinoni are not based
+in UAE, such costs would be treated as an overhead until evidence has been provided to
+the contrary. In general, it must be noted that any additional flight costs should be
+apportioned across the employee’s yearly employment and in accordance with their
+employment contract. Such costs can then be applied to the compensable delay periods;
+Transportation: CCM have provided one lever arch folder of petrol and taxi receipts which
+are mainly attributed (in writing) to Monica Mombrini expenses in 2016. However, the
+authenticity of these receipts is somewhat unclear and further evidence would be
+required to demonstrate them (i.e. who is paying and/or getting reimbursed for the taxis)
+before the JV can apply their attributable and reasonable measures;
+Gratuity: CCM have calculated gratuity based upon the employee’s salary, which is
+inclusive of ‘other attendance’. This is not correct as gratuity is typically calculated from
+the employee’s basic salary. Further, CCM are claiming gratuity against third party staff
+(ex. Sumant Sharma), which is equally not correct as this would be paid by their direct
+employer. Generally, CCM must provide record of employee's employment history etc to
+establish what gratuity each employee is entitled too;
+Handphone: Receipts have been provided for Du and Etisalat top-up phone cards, with
+handwritten notes allocating various staff names to each. Upon inspection of the relevant
+Employee Contracts, the JV note their contracts do not include for such expenses. i.e.
+
+−
+
+−
+
+−
+
+Sherwin Borras / Pitchanan Sriraj (Khun Mai). Provided the relevant Employee Contract’s
+include for such expenses, CCM need to provide evidence to demonstrate how these
+expenses have been paid and reimbursed if applicable. The JV will then assess each
+expense on its reasonableness;
+Visa: Invoices and receipts have been provided in support of these costs. In general, it
+must be noted that any additional visa costs should be apportioned across the employee’s
+yearly employment and in accordance with their employment contract. Such costs can
+then be applied to the compensable delay periods;
+Health Insurance: CCM have provided evidence (i.e. invoice and receipt) of an insurance
+premium starting February 2017. Although a breakdown has been provided to show how
+the premium is split between CCM staff members, CCM are required to provide evidence
+of their original premium and confirmation that this is included in their employment
+package. Further explanation is required from CCM to explain how they have calculated
+the additional insurance costs against each of the applicable staff;
+Cleaning: In certain months CCM have submitted costs and records for cleaning services of
+‘Villa no.3’ (i.e. the maid and cleaning products). While it is not clear of the relevance to
+Villa no.3, the JV would not consider such costs claimable under prolongation.
+
+3.3. Location – such staff maybe considered time related if CCM can sufficiently demonstrate and
+evidence that such staff were impacted by compensable delays and could not be relocated
+elsewhere as part of their contractual obligation to mitigate any adverse impact. However, in
+absence of further evidence to support this, these staff costs would be considered as task
+related.
+3.4. Task (Activity) / Production / Overhead – such designations are not considered to be time
+related and therefore not applicable to prolongation costs.
+4. Labour & Transportation
+4.1. Labour Accommodation
+− CCM has split these costs into the following heads: 1) Villa Rental; 2) Villa Elect & Water;
+3) Villa Cleaning; 4) Technician Handphone; and 5) Technician Food;
+− Although CCM have provided records against each cost heads, these costs are associated
+with direct works which are generally considered a task related cost. CCM have not
+demonstrated why they should be considered in prolongation costs.
+4.2. Labour Transportation
+− Similarly, although its appears CCM have provided lease agreements, invoices and
+receipts, transportation for direct works is generally considered a task related cost. CCM
+have not demonstrated / justified why this should be considered in prolongation costs;
+− Notwithstanding the above, CCM appear to be seeking reimbursement of one off
+purchase costs, which essentially do not form part prolongation costs.
+5. Other Preliminaries
+5.1. Site Office
+− Generally on-site offices costs would be considered time related, excluding one off costs
+that would have been incurred in any event;
+− However, CCM appear to have submitted costs linked to what appears to be off-site
+offices, identified as office no. 406, 501, 502 and 511. To support these costs CCM have
+
+−
+
+provided both various and partial lease agreements, invoices and receipts, which include
+for one off costs and miscellaneous monthly charges such as phone services;
+In the absence of an explanation to the contrary, such costs would be considered part of
+the subcontractor’s overhead costs.
+
+5.2. Office Equipment Consumables / Internet / Software costs / Refreshments/ Cleaning Products
+etc.
+− Generally, such on-site office costs would be considered time related (excluding one off
+costs that would have been incurred in any event);
+− However, CCM appear to have submitted costs linked their off-site offices and supported
+them with partial records. CCM must separate out such costs and present the records
+only relevant to the on-site office consumables, before the JV can assess the
+reasonableness of these costs;
+− In the absence of an explanation to the contrary, such costs would be considered part of
+the subcontractor’s overhead costs.
+5.3. Site Maintenance and Running Costs
+− Generally, such costs are considered time related within reason, excluding one off costs
+that would have been incurred in any event;
+− CCM costs included for 1) health & Safety; 2) first aid, and 3) latrines and ablutions;
+− The Health & Safety costs may comprise an element of time related expense, albeit a
+number of the costs appear to be for purchases which may therefore have been incurred
+in any event and without further information it is difficult to establish that all costs
+claimed under head are truly time related costs. Further, in certain instances the monthly
+costs confirmed within the CCM’s summary schedule do not correlate with records
+provided i.e. CCM are claiming AED 60.00 in February 2017 for H&S within their summary
+schedule, but their provided records (both pdf form and within the lever arch files) add up
+to AED 407.00;
+− The First Aid costs may be a time related expense although it is not clear from the records
+provided what they relate to and whether or why they would be time related;
+− The latrines and ablutions may also be time related with further justification and
+substantiation from CCM. However, the supporting records show a number of back
+charges from the JV which appear to be task related and link to direct labour. In the
+absence of an explanation to the contrary, such costs would be considered as task related
+costs;
+− Generally, the JV will only assess an applicable time related costs and supporting records,
+then determine if they are attributable and reasonable.
+5.4. Project Manager’s Vehicle - Depreciation
+− Generally, such costs are considered time related within reason, excluding one off costs
+that would have been incurred in any event;
+− CCM have submitted depreciation costs against the Project Manager’s Toyota Prado. To
+calculate this CCM has presented both the purchase value in 2010 and a supporting email
+from an Abu Dhabi Insurance company estimating its value in 2017. CCM then apply a
+period of 14 months into it 2017 value plus the one-off costs incurred to transfer the
+vehicle from Abu Dhabi;
+
+−
+
+−
+
+The method adopted by CCM is not clear for several reasons; 1) the transportation of the
+vehicle from Qatar should not be included in depreciation; 2) the vehicle would not have a
+residual value at the end of the 14-month period, which is not correct; 3) depreciation of
+time related assets must be supported with audited records/accounts;
+Further, it is not clear if this vehicle is for CCM’s name Project Manager, MS Monica
+Mombrini, as taxi costs have been attributed to her elsewhere in CCM’s 2016 cost
+submission. Further clarification is required from CCM on this.
+
+5.5. Project Manager’s Vehicle – Petrol / Maintenance / Insurance / Inspection tests / Vehicle Pass
+− Generally, such costs are considered time related within reason, excluding one off costs
+that would have been incurred in any event. However;
+− CCM have not submitted all records evidencing their monthly costs;
+− CCM have provided cash receipts from the ADNOC petrol station Khalifa City, New Airport
+Road, but it cannot be determined if these receipts are linked directly with alleged vehicle
+as no registration has been recorded on them;
+− Generally, as there seems to be a crossover of taxi expenses in 2016 for MS Monica
+Mombrini, further clarification is required from CCM on these costs heads.
+
+5.6. Office Driver and Vehicle
+− CCM have submitted costs and records against the following cost heads: rental, petrol,
+parking, insurance, site vehicles pass etc;
+− In the absence of an explanation to the contrary, such costs would be considered part of
+the subcontractor’s overhead costs and/ or task related costs depending on the vehicle’s
+usage and passengers.
+
+1.
+Executive Summary
+Al Ghurair (herein referred to as AGC) has submitted numerous revisions of their total costs associated
+with the Project until 31 October 2017. The latest value of AGC’s Claim for these historical costs is in the
+amount of AED 264,091,538. Subsequently, after numerous meetings and discussions, we have
+completed our assessment as AED 250,511,625. Furthermore, we have only been able to identify
+payment substantiation linked to the project in the amount of AED 220,289,985.
+Above assessment does not take the AED 35M contribution from AGC into account.
+Out of the ten (10) categories assessed, four (4) has major variances between claim and assessment,
+largest being in the Material and Staff Costs.
+All details regarding the aforementioned are given in detail, below.
+2.
+Background
+TCA JV started in November 2017 an open-book audit on AGC’s historical costs incurred up to and
+including 31 October 2017 on the Project in order to agree on a reasonable amount for a financial
+settlement. The first two submissions were inadequate in order for TCA JV to assess. The later
+submissions improved after workshops with AGC in which the information required was explained, in
+order to finalise the task.
+
+Framework Document (herein referred to as FD) was produced between Senior Management and
+Pinsent Masons and a draft was issued to AGC on 21 December 2017. The FD was subject to a number of
+comments and revisions and was agreed but never eventually signed between the Parties.
+In meetings between the Parties and in order to close out the total costs incurred; AGC agreed to
+remove the Stores & Inventory materials from their Claim which reduced the amount by circa to AED
+18m. Staff Costs have also been re-submitted with around AED 2m of costs removed from their Claim.
+These items are the largest Variances between AGC’s original and latest submission.
+
+3.
+
+Commercial Position
+
+AGC has been certified AED 226,995,112.92 up to September 2017. This includes AED 42.7 M on account
+payment against historical costs, as addressed under FD. Since October 2017 AGC has not submitted any
+Interim Payment Application for their progress of works, but issuing claims on "Interim Total Costs
+Incurred”.
+TCA JV has assessed the numerous submissions by AGC and they have been split into the following ten
+(10) categories. A summary of TCA JV’s assessment and AGC’s submission values are summarised as
+follows:
+(i)
+Hired Labour Supply - TCA JV’s assessment is in the amount of AED 15,855,899 based on receipt
+of invoices and supplier timesheets specifying the project name. It was not possible to link the proof of
+payment to the project but the supplier invoices and timesheets were deemed adequate to conclude
+this item. The value of this item has been agreed with AGC.
+(ii)
+Outsourcing Design and Engineering – TCA JV’s assessment is in the amount of AED 7,189,688.
+All invoices, LPO’s, cheques and wire transfers can be linked to the project and are deemed adequate.
+The value of this item has been agreed with AGC.
+(iii)
+Materials – TCA JV’s audited assessment value for the claimed invoices is in the amount of AED
+87,416,063. AGC’s revised submission value is AED 92,765,094. The discrepancy is based on glass
+erroneously delivered in duplication and the code status of the MIR’s for the materials. TCA JV has not
+allowed for any code 3 & 4 status materials within the value of our assessment. The value of this item
+has not been agreed with AGC.
+(iv)
+Site & Other Expenses – TCA JV’s audited assessment value is AED 15,880,113. All items
+excluding circa AED 80k of items have been agreed with AGC. We are awaiting the submission of
+invoices to be supplied for the items that are yet to be agreed. The value of this item has not been
+agreed with AGC.
+(v)
+Project Management Cost – TCA JV’s assessment is in the amount of AED 20,634,617.53 against
+AGC’s Claim value amounting to AED 21,781,369. The variance is based on JV’s assessment of the Staff
+incentives and fringe benefits considered to be less than AGC’s claim. Unknown Staff members have also
+been removed. The value of this item has not been agreed with AGC.
+(vi)
+Design and Engineering Cost – TCA JV’s assessment is in the amount of AED 23,453,744.68
+against AGC’s Claim value amounting to AED 25,472,283. The discrepancy is based on our assessment of
+the Staff incentives and fringe benefits considered to be less than AGC’s claim. We have also removed
+
+members of staff we believe never worked on the project. The value of this item has not been agreed
+with AGC.
+(vii)
+Finance Cost – TCA JV’s assessment value is based on AGC’s Claim and is in the amount of AED
+9,109,911. The value of this item has been agreed with AGC.
+(viii)
+Manufacturing Cost – In order to fully assess AGC’s Claim for Manufacturing Costs, a comparison
+was completed between market rates we had back-charged to AGC on the project against the rates they
+had provided for the cost of the Materials they had fabricated for the project. The rates applied by AGC
+are considerably less than the market rates we applied against their account. When considering what it
+would have been, to purchase the material from elsewhere in the market, the manufacturing cost from
+AGC seems reasonable. The value of this item is provisionally agreed in the amount of AED 19,085,245
+but I would recommend the Procurement Department to obtain additional rates for comparative
+purposes.
+(ix)
+Site Installation Labour – Due to the large volume of timesheets, TCA JV’s assessment value of
+AED 20,438,162 is based on a fair rate applied to each of the four (4) categories of AGC’s labour force.
+TCA JV also selected six (6) days from every month and applied the abated percentage to the total Claim.
+The agreed percentage of 94% has been applied against AGC’s Claim. The value of this item has been
+agreed with AGC.
+(x)
+AGC Production Labour – Due to the large volume of timesheets, TCA JV’s assessment value of
+AED 17,268,278 is based on selecting twenty-five (25) days of timesheets and applying the abated
+percentage to AGC’s claim. The agreed percentage is 95% of AGC’s claim value. The delta is based on
+hours claimed by AGC against the actual hours on the timesheets. The value of this item has been
+agreed with AGC.
+
+4.
+
+Conclusion & Recommendation
+
+Conclusion
+It is recommended that TCA JV issue the latest assessment which details the Variances between the
+accounts in order for these items to be agreed between the Parties. The value of the Materials Claim
+needs to be agreed between AGC and Senior Management as there is a large value of Code 3&4
+Statuses, Duplicated glass deliveries and poor Quality glass within AGC’s Claim. AGC are disputing that
+this should be removed from their Claim. AGCA staff members’ allocation to the project has also been
+questionable, with various TCAJV staff members highlighting an ‘overstated’ involvement of certain
+AGCA staff claimed throughout the duration of scheme. In addition to the above, certain fringe benefits
+(particularly ‘incentive payments’) are in dispute until a more representative sample can be provided.
+Recommendation
+
+Based on the information provided above, the recommendation would be to address our determination
+for historical costs to AGC in the amount of AED 215,511,625 (inclusive of AED 35M – AGC’s contribution
+to historical costs).
+Subject: Obstruction to Other Contractor at Downtown Fashion Arcade
 
 Dear Sir,
-We acknowledge receipt of your letter reference (2) wherein you shared your disagreement with the
-back-charge notification sent via our letter referenced (1) in respect of the security measures deployed
-on your behalf at the store yard.
-Your attention is drawn to paragraph 4.2.13 of Schedule 0 [Scope of the Subcontract Works] of the
-Subcontract Agreement which states that you shall “provide own security for own working and storage
-areas”. In this regard, due to the fact that you are one of the companies benefiting from the use of the
-store yard near the ATCC; therefore, the security measures shall be on account of the companies using
-the land. We reiterate that you have failed to provide the requisite security at the store yard, hence, we
-have provided the security on your behalf, accordingly.
-Finally, we confirm that the provisions of Sub-Clause any delasds [Contractor’s Claims] of the Conditions
-of Subcontract have been complied with whilst giving reasonable notice to the Subcontractor that
-deductions may be applied for the security measures deployed by the Contractor on behalf of the
-Subcontractor at the store yard.
-We trust the above is clear and consider this matter closed.
+In response your letter referenced (1), we would like to highlight that the works had been previously
+completed, but due to various design changes and CI’s, we had to revisit these areas to carry out the
+additional works which have been instructed by the Engineer. Please see below the summary and status
+of works that have impacted the mentioned areas:-
+
+Area impacted Description
+Status Comments
+All Arcades
+Increase in fire pipe size Works Completed.
+Refer
+to
+letter
+MTB/TCA/AECOM/L/012648
+All Arcades
+Additional lighting and lighting control circuits Under review with ARUP, CMA and TCA
+Engineering. Refer to email (attached)
+All Arcades
+Re-cabling of the isolators power supply.
+Awaiting CI and signed sketch to be
+issued. (CMA) Refer to email (attached)
+Luxury Fashion & Watches and Jewellery
+Additional Power supplies for FIDS
+signed sketch to be issued.
+Refer to email (attached)
+
+Awaiting CI and
+
+All Arcades
+Additional RPS supplies Works ongoing, signed sketch received Mid-June 2018 Refer
+to email (attached)
+
+As you can see from the above status, there are still pending engineering issues which have to be
+finalized before the site construction team can proceed. We kindly inform you that, we will not be held
+liable for any delays / disruptions to the release of the mentioned areas to the Employer and/or other
+contractors due to the late instruction and design changes within the arcades.
 Yours faithfully,

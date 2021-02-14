@@ -1,71 +1,35 @@
-Subject:Engineer’s Instruction No. 773A – Bulletin 259.1 – Pier 4 Soil Rectification Works for the Sewage
-Network
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0101 [Update]
+Gatehouse GH49 – Damage to PCA Pit Due to Grouting Works by Others – Update – Further Damage to
+GH49 PCA pits plus Damage to GH1 PCA Pits
+Dear Sirs,
+This letter serves as an update to E-Notice No. 0101 issued by way of our letter ref: (1).
+The Event(s):
+By way of reminder our letter ref: (1) notified you of potential delays consequent upon damages to the
+Pre-Conditioned Air (PCA) pit adjacent to Gatehouse GH49, which appear to be attributable due to the
+effects of pressure grouting undertaken by the MTA Contractor (L&T) while carrying out remedial works
+in an effort to alleviate the subsidence occurring on this Project.
+This update to letter ref; (1) serves to notify you that not only has more damage occurred at another
+location adjacent to Gatehouse GH49, but to notify you that damage has also occurred to Gatehouse
+GH1 – the photos included herein at Annex A refers. These photos provide irrefutable evidence that
+large areas adjacent to our PCA pits have been completely removed by L&T and that the continual
+pressure grouting appear to have caused undue stress/pressure around the pits causing the concrete to
+buckle and shatter; or in other words, caused an upheave in pressure and “burst” the concrete.
+We therefore suggest that L&T expose the duct bank connection and HDPE pipe connections to the pits
+to ensure that the integrity of the same has not been compromised by the movement of the pits.
+This is an unforeseen event, and is not of our doing or responsibility but is clearly at the risk of others.
+Any remedial works necessary to address the upheaval and make good the concrete has the potential to
+delay and disrupt the progress and completion of our Main Terminal Building (MTB) Works, and
+constitute an act of prevention or breach of Contract on the part of the Employer’s Other Contractor.
 
-Dear Sir,
-We write with reference to the captioned matter and your letters ref: (1) and (2) above.
-On 12 June 2019, we received Engineer’s Instruction (EI) No. 773 appended to your letter ref: (1),
-instructing us pursuant to Clause 11.3 (Instructions of the Engineer) of the Conditions of Contract and
-Clause 5 (Subsidence) of the Settlement Agreement and Amendment No. 8 (SAA8), “to implement
-Bulletin No. 259 with immediate effect, as detailed in the enclosed scope in Attachment A (2 pages).”
-Also attached was a CD, containing a total of fifteen (15) IFC Drawings, consisting of two (2) revised IFC
-Drawings and thirteen (13) new IFC Drawings. Your covering letter ref: (1) and the accompanying
-Employer’s Design Consultant’s Transmittal No: KPF-PD-2132-TRS-1011 dated 20 May 2019, identifies
-Bulletin 259 as being associated with ‘Soil Rectification Works for the Pier 4 Sewage Network.’
-According to the Change Register attached to EI No. 773 (Bulletin 259), the ‘Reason for Change’ is given
-as ‘updated to suit …’ and ‘VR 328’ [not seen by us], while the ‘Description of Change’ refers to amongst
-other things, ‘Coordinates of Grout Points’ and ‘Detailed Layout of Grout Points.’
-However, circa two weeks later, on 27 June 2019, you then issued EI No. 773A under letter ref: (2),
-instructing us also pursuant to Clause 11.3 of the Conditions of Contract and Clause 5 of SAA8 “to
-implement Bulletin No. 259.1 with immediate effect …” Again, your cover letter and the attached KPF
-Transmittal shows Bulletin 259.1 relating to ‘Soil Rectification Works for the Pier 4 Sewage Network.’
-Attached to EI No. 773A (Bulletin 259.1) was a further CD, but on this occasion it contained a total of
-eleven (11) IFC Drawings; one of which was simply re-issued from Bulletin 259 and remained at Rev. 0
-[despite now being associated with Bulletin 259.1]; one was a completely new IFC Drawings; while the
-remaining nine (9) IFC Drawings were revised (Rev. 01) from the earlier versions of Bulletin 259.
-It is for this reason that we write to you – as the revised drawings show additional grouting much of
-which we believe to be outside the zone of influence of the sewer and therefore unrelated to the sewer
-rectification works. This represents additional works for which a valid Engineer’s Instruction (EI) [issued
-pursuant to Clause 20.1.1(a) of the General Conditions of Contract] and a Variation Order (VO) are
-required.
-Using two of the drawings attached to EI No. 773A (Bulletin 259.1) as a basis, we hereby provide an
-indication of some but not all of the extent of the additional grouting required as part of Pier 4 Soil
-Rectification Works. The following marked-up extracts of Drawing No MTC C 05 AS_L0.0 6.00_.736 Rev.
-01 (for S-2303 and S-2304 braches) and Drawing No MTC C 05 AS_L0.0 6.00_.738 Rev. 01 (for S-2301 and
-S2301A branches) reproduced in Figure 1 and Figure 2 below respectively, refers.
-Figure 1 – Indicative Example of Extent of Additional Grouting to Pier 4:
-Extract from Drawing No MTC C 05 AS_L0.0 6.00_.736 Rev. 01
-Figure 2 – Indicative Example of Extent of Additional Grouting to Pier 4:
-Extract from Drawing No MTC C 05 AS_L0.0 6.00_.738 Rev. 01
-Not only is much of the additional grouting works outside the zone of influence of the sewer, and
-therefore unrelated to the sewer rectification works, but we also question the requirement for this
-grouting in the first place as it appears to be grossly disproportionate to the size and type of pipe,
-namely a UPVC pipe of small diameter (63 mm to 100 mm) acting under pressurised (ie not gravity) flow
-conditions. We request that you make this known to the Employer and advise him that there will be
-significant cost implications which will not be borne by us and likely will not be borne by the insurers
-either (assuming: (a) that they admit liability; and (b) that the costs are not excluded by the LEG 2/96
-provision in the insurance policy) on the grounds of proportionality and betterment.
-The SAA8 laid down mandatory procedures to be followed if additional works are required by the
-Employer, and you have failed to follow these. As EI No. 773A is non-compliant with SAA8 we require
-you to withdraw it.
-
-In the meanwhile, should the Employer desire this additional grouting to be carried out, we would
-expect that he direct you to issue us with an EI requesting us to provide the following:
-(i)
-a price for the additional works;
-(ii)
-a fragnet for the additional works; and
-(iii)
-the integration of the fragnet within Programme Rev 11.2 to demonstrate the effects (if any) on
-the Milestones.
-Meanwhile, until such time as the necessary actions are taken by you and the Employer in accordance
-with SAA8 Clause 2.29, we will not be implementing the additional grouting works.
-As regards your reference to Cause 5 (Subsidence) of SAA8, in addition to it not being relevant as the
-additional grouting is unrelated to the subsided sewer, we also record that as previously advised in
-other correspondence from us (including without limitation, our letters dated 24 February 2019 ref:
-MTB/TCA/AECOM/L/013965 and dated 8 April 2019 ref: MTB/TCA/AECOM/L/014206), unless and until a
-supplemental agreement is executed between us and the Employer as previously agreed that deals with
-the representations made by the Employer to us, Clause 5 has no effect.
-Finally, by copy of this letter to the Employer, we suggest that he notify the insurer of his requirement
-for this additional grouting as we believe that it may not be covered by the present insurance claim for
-the subsided sewer.
+Potential Impact:
+Acts of prevention such as those outlined above, will at this stage of the Works, prevent us from
+obtaining the Building Completion Certificate (BCC). This is critical to the achievement of Milestone
+MS09B, and if in the event, matters such as these continue, then the more likely these will invariably
+knock-on and resultantly prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

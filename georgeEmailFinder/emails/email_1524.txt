@@ -1,11 +1,20 @@
 
 Dear Sir,
-The Engineer's Assistant acknowledges receipt of your letter reference M006-GDB-COM-LTR-03702
-received on 4 February 2016.
 
-In accordance with the Engineer's Assistant's letter referenced M006-LBE-COM-LTR-01504 and the
-Contractor's letter referenced M006-GDB-COM-LTR-02897, the amended period within which the
-Engineer's Assistat is required to respond to Contractor's Claim No.035 (January 2016 Update) ends on
-17 March 2016 an will be automatically renewed by a further 42 days, on a rolling basis.
+Further to the attached letter, which relates to RFI M010-SPJ-ENG-13-RFl-00005_GLD UG_BACSSCADA Interface, the Engineer's Assistant requests the Contractor to provide the following information:
 
+•
+The total number of 10 points managed by BACS system and can be exchanged with SCADA
+system:
+
+•
+
+The corresponding type of 1/0 (DI, Al, DO, AO);
+
+•
+The list of protocols to be supported by the BAGS system (PLC & servers) for interface with
+SCADA system and confirm these protocols include IEC 60870-56104, MODBUS TOP and OPC:
+
+The En ineer's Assistant now requires the Contractor to address the above information within two (2)
+weeks fr m receipt of this letter.
 Yours faithfully,

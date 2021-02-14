@@ -1,13 +1,22 @@
 Dear Sir,
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute
+a variation.The nature and extent of the variation is provided below. The fo l owi ng Employer's Requi
+rement:
+Volume 6, Section 13, Figure E1: Station Power Systems Block Diagram - Scope Demarcation:to be
+deleted.
 
-The Engineer's Assistant refers to letter reference 1). wherein the Contractor was directed to submit a
-quotation for any cost or time impact and subsequently reminded by reference 2). Although the
-Contractor failed to respond, Engineer's Instruction reference 3) was issued and followed by reference
-4) and 5), confirming the provisions of Sub-Clause 13.2.1 still applied. The last reminder, reference 7),
-was due by 25 August 2016.
+Volume 6, Section 13, Sub-section 13.3.4.4 (f}: Stand-by Diesel Generators - to be deleted.
 
-The Engineer's Assistant must now conclude that the Contractor is unwilling to provide the directed
-quotation given that a total period of 511 days have lapsed without submission of a quotation.
-Absent compliance with the Engineer's direction, the Engineer is now compelled to complete his assess
-ent of the Variation without input from the Contractor.
+Volume 6, Section 14 (Electrical & Mechanical Room Requirements) - are to be amended to remove
+Diesel Generators and Tanks as follows:
+
+Figure E.1: Station Power Systems Block Diagram - Scope Demarcation - to be added.
+
+Diesel Generators and Tanks are deleted from the metro stations as Qatar Rail's multiple redundancies
+in the power supply system are by means of two Station Power Supply Substations (SPS) at either site of
+a metro station. At this level there is 100% SPS redundancy. If SPS 1 fails, SPS 2 can provide the full load.
+The room allocation for the Diesel Generators (70 m2) is to remain for Systems use. The room allocation
+for
+Diesel Tanks (30 m2) is to be utilized by the Civil Works Contractors.
 Yours faithfully,

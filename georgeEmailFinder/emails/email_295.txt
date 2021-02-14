@@ -1,16 +1,19 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0167
-Delays caused due to the Engineer’s Failure to proceed with Snagging Inspections for works associated
-to all disciplines (MEP, Civil, Finishes etc.)
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0168
+Delays due to ADDC Rejection of Electrical Design: Fuse Connection Units for Urinals and Autotaps
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern delays consequent on your failure to proceed with multiple
-snagging inspections, for works associated with all disciplines (MEP, Civil, Finishes, etc.).
+The matters described in Annex A concern delays consequent upon ADDC’s rejection of the electrical
+installations due to a fundamental disparity and variance between the IFC Design [which we have
+constructed the Works in accordance with] and the applicable codes and regulations governing the
+electrical design [for which the Employer’s Design Consultant, KPF, is responsible for].
 Potential Impact
-Delays and disruption due to the events and circumstances outlined in Annex A, particularly at this stage
-of the Project, will, if allowed to continue, invariably knock on and impact upon our ability to achieve
+Delays and disruption due to the events and circumstances outlined in Annex A hereto will, if allowed to
+continue, knock on and delay energisation of critical areas of the Project, and will impact on our ability
+to hand over the affected areas. This will invariably knock on and impact upon our ability to achieve
 Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
@@ -19,35 +22,72 @@ Kindly ensure that such matters are actioned immediately upon receipt of this e-
 Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
-Description of the Event
-We write to notify you of appreciable concerns we have with respect to your delays to proceed with
-snagging inspections for works associated to all disciplines (MEP, Civil, Finishes, etc.). Specifically, once a
-room or area is completed, we are submitting a Work Inspection Request (WIR) requesting the final
-inspection and approval of the works for each respective discipline. However, significant delays are
-being observed from each of your respective team/disciplines required to proceed with the snagging
-inspections. Consequently, numerous snagging inspections remain open in ZUTEC; an extract of which is
-attached for information hereto. This shows that at the cut-off date associated with the preparation of
-this Notice (i.e. 31 October 2019), there were 41 inspections outstanding for various disciplines, albeit
-the total number of snags to be inspected amount to 1,400 nos. in total.
-It is for this reason we are raising this E-Notice, to notify you regarding your failure to proceed with the
-inspections and request your prompt action to resolve the matter in order to mitigate such delay and/or
-disruption to the Works. Moreover, while we appreciate ZUTEC is a live system and changes on a daily
-basis, it is imperative any delays on your part / your teams’ part are mitigated in full; otherwise we
-envisage the delays proceeding with snagging inspections will only worsen.
-Consequently, any delay to inspections has to cease forthwith, but in the meantime the effects of delay
-continues to have major ramifications on Room Completion, Snagging and De-Snagging and Defects
-Management. We therefore urge you to proceed with the snagging inspections. This will enable us to
-close the snagging inspections on ZUTEC system including those listed in the attached schedule. This is a
-matter that is wholly avoidable, especially at such a late stage of the Project and is unnecessarily
-delaying us for which we hold you entirely culpable. Considering the volume of inspections needed to be
+On 3 July 2019, the Abu Dhabi Distribution Company (ADDC) undertook an inspection on the Fuse
+Connection Units (FCU) for the Auto Tap and Urinal Flush Controller [Case ID 7673541157], but was
+rejected due to a purported failure of the electrical wiring installations to comply with the Electrical
+Wiring Regulations on the basis the “Water-proof sockets and switches shall be used in damp areas”.
+Further to which on or about 14 July 2019, we received Non-Conformance Report (NCR) No. MTC-CMA0401-CM-NCR-01315 (dated 9 July 2019) which in addition to advising us of the above, urged us to
+provide a detailed survey of all project areas “to assure full compliance with ADDC regulations.”
+For the reasons set out in other letters, including without limitation our letter dated 18 June 2019 (ref:
+MTB/TCA/AECOM/L/014460), we maintain that we have constructed the Works [and specifically the
+electrical installations] in accordance with the IFC Drawings reflecting a design for which the Employer’s
+Design Consultant [KPF] is unequivocally responsible for, not us. However, there appears to be a
+fundamental variance between the IFC Design [which we have constructed the works in accordance
+with] and the applicable codes and regulations governing the electrical design [for which the Employer’s
+Design Consultant, is responsible for], and against which ADDC is inspecting; hence the reason for its
+rejection of the electrical installations such as that identified above. The above issue is one of a number
+of issues where it is evidently clear there is lack of coordination on your / the Employer’s / Employer’s
+Design Consultant’s part to liaise with ADDC and resolve electrical design related issues associated with
+the NOC previously issued by ADDC at the end of 2014 / early 2015.
+We therefore take this opportunity in reminding you of the following matters of fact:
+On 19 February 2015 (letter ref: MTC-CMA-TCA-0401-LTR-03206) you wrote to us in connection with
+‘Close-Out of ADDC Activities’ informing us that “… the Employer has confirmed that [our] electrical
+services shop drawing will not be submitted to ADDC. Attached to this letter is the ADDC NOC to allow
+you to proceed with the ADDC Stage 3 Application.” This NOC and accompanying letter was prompted
+by the Employer's email request dated 19 November 2014, seeking relaxation of certain ADDC approval
+procedures. The attached ADDC NOC advised the Employer that based on the Employer’s e-mail
+requesting “relaxation [of] and [for ADDC] to accept the deviations for some of the major comments
 
-actioned by you then any acts of prevention on your part will only continue to impact on our ability to
-expedite room completions and conclude our Works throughout the MTB.
-Resultant Impact
-Meanwhile, the various delays and acts of prevention on your part outlined herein, is undeniably
-causing delay and disruption to completion of our Works. Although we consider that MS06B has been
-achieved, to the extent that it is not, which is denied, then the effects of delay associated with the
-matters identified above, will impact upon achievement of Milestone MS06B as well as Milestone
-MS06A. If matters continue then this will invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+raised by ADDC ...” [therefore bypassing Stage 2 ‘Shop Drawing review’], ADDC said it had “no objection”
+for the Employer to proceed to Stage 3 ('Application for Connection'); as long as the Employer is satisfied
+with the consultant’s design. Moreover, within its NOC dated 22 December 2014, ADDC further stated
+that: “[The Employer] ADAC shall ensure that all the installations will comply with the Electricity Wiring
+Regulations 2009 and [accordingly ADAC] shall be responsible for any issues and implications arising out
+of the above deviations at any time.”
+A further copy of ADDC's NOC was issued to us under cover of your letter dated 3 March 2015 (ref:
+letter ref: MTC-CMA-TCA-0401-LTR-03264) confirming the agreement to bypass Stage 2 and proceed
+directly to Stage 3. This meant that we were no longer required to submit shop drawings to ADDC for
+approval but were expressly directed by you to proceed with the electrical installations based on the
+Engineer-approved shop drawings; our shop drawings being developed from and based upon the IFC
+Design Drawings. This was subsequently re-confirmed within our letter dated 22 June 2015 (ref:
+MTB/TCA/AECOM/L/004999) in which we advised you that in consideration of the NOC, and that as part
+of the relaxation of the ADDC approval process, the Employer assumed responsibility for any issues
+arising therefrom, and we would not be held liable for any comments from ADDC inspectors for any
+non-compliance with ADWR 2009, or ADWR 2014, or for any preferential requirements for the electrical
+installations during Stage 3 or 4 of the ADDC inspection / approval process.
+However, it is clear the Employer failed to take on and administer that responsibility and through you,
+are attempting to hold us liable for various issues identified in the IFC Electrical Design by ADDC
+inspectors that have been ‘rejected’ during subsequent ADDC inspections. Once such issue is that
+identified above: namely that “Water-proof sockets and switches shall be used in damp areas”.
+We remind you that the subject of wet and damp area has also been discussed variously between us and
+culminated in the issuance on 24 July 2018 of Engineer’s Instruction No. 749 (via your letter dated 23
+July 2019, ref: MTC-CMA-TCA-0401-LTR-09749) instructing us to upgrade elements of the electrical
+design. However, having followed your Instruction (EI No. 749) we note that the foregoing comments
+from ADDC cited above, is out of the scope of the exercise and definition of the wet areas.
+We are therefore appreciably disappointed to find out yet again that you are not taking any proactive
+action to resolve these types of rejections but leave it to us solve the problem with ADDC; this takes
+time, added to which, it is severely disrupting our progress and that of our subcontractors.
+If the Form 4 inspection process continues to be affected on the grounds of electrical design related
+matters, which are out with our scope of works and responsibility and is not addressed forthwith
+between the Employer/Employer’s Design Consultant and ADDC, then this will continue to prevent
+energization of the final Distribution Boards and resultantly will have a direct and consequential effect
+on the inspection process and similarly effect the project testing and commissioning schedule. This will
+impact our ability to achieve Milestone MS09B and achievement of Milestone MS09C.
+We urge you to ensure the issue is resolved between the Employer’s Design Consultant and ADDC.
+Finally, while acknowledging that many of the letters associated with this event pre-date SAA8, this
+matter cannot possibly be construed as forming part of the ‘Included Circumstances’ (as per Clause 1.7.4
+of SAA8) as SAA8 cannot reasonably be interpreted as requiring the Contractor to absorb delays of
+unknown (possibly unlimited) durations post 4 September 2018, particularly where the resolution of the
+matter causing the delay lies with the Employer. We contend that in these circumstances, the
+responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
 Yours faithfully,

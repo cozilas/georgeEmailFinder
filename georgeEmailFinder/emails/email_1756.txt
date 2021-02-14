@@ -1,27 +1,26 @@
 Dear Sir,
 
-The Contractor has raised concerns to the Engineer’s Assistant in several Commercial discussions
-regarding the double negative effect which is caused on the Contract price due to the duplication of
-QAR 7,400,000 deduction made in the monthly Payment Certificate in the committed cost section as
-“Adjustments to Accepted Contract Amount” and also in the deductions section of payment details as
-“Other Deductions” against the agreed deduction for the removal of the demolition works from the
-Contract Price.
+It is to hereby inform the Engineer’s Assistant the following:
 
-Contract Vol 2, part 2, Clause.9.1.1.4, (c) reads as below:
+1)
+Engineer’s Assistant vide Letter reference 2) above, In accordance with Sub-Clause 14.4.1 and
+Section 9.2.1 of Volume 2 Part 2, issued a Statement of No Objection for Lead Designer Deliverable Plan,
+Lead Designer Mobilization Plan, DVE Deliverable Plan and DVE Mobilization Plan which were initially
+submitted by Contractor vide its Letter Ref. M006-GDB-ENG-LTR-00217 and M006-GDB-ENG-L TR-00220
+dated 15 March 2015.
 
-“The Contractor shall ensure that the first Interim Payment Certificate issued includes the agreed
-deduction of QAR 7,400,000 for the removal of the demolition works and the Contract Price will be
-reduced accordingly.”
+2)
+These plans were resubmitted through an Acconex workflow so that, they can be made
+traceable by getting SONO through a workflow but, the Engineers Assistant revised the status of the
+Lead Designer Mobilization Plan and the other plans are still pending Engineer’s Assistant review and
+approval. Details as below:
 
-With reference to Contract Vol 2, part 2, Clause.9.1.1.4, (c), the Contractor understands that, the
-deduction of QAR 7,400,000 shall be made from the Contract Price against the removal of the
-demolition works as these works were carried out by some other Subcontractor.
+Lead Designer Mobilization Plan (M006-GDB-ENG-PLN-00027) - Issued NOWC from SONO.
+Lead Designer Deliverable Plan (M006-GDB-ENG-PLN-00026) - Overdue since 14 Sept 15.
+DVE Deliverable Plan (M006-GDB-ENG-PLN-00028) - Overdue since 16 Sept 15.
 
-The Contractor fails to understand the reduction QAR 7,400,000 in the Contract Price as well as the
-deduction of QAR 7,400,000 from payment certificate no.3 made by the Engineer’s Assistant.
-
-The Contractor believes that QAR 7,400,000 against the removal of the demolition works are wrongly
-deducted from the Payment Amount and requests the Engineer’s Assistant to revert back the same in
-the forthcoming payment certificate.
+Since, the above plans are deliverables of PLMS 01 Payment Milestone, the Contractor hereby requests
+the Engineers Assistant to kindly expedite the Acconex review process of the above plans and issue a
+Status of No Objection.
 
 Yours faithfully,

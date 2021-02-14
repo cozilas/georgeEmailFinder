@@ -1,41 +1,26 @@
-Subject Violation of ADDC regulation - LV Building Wire Joints, Notice pursuant to Clause
-Dear Sir,
-We write with reference to correspondence (1) to (3) wherein the Engineer recorded its increased
-concerns regarding the Contractor's failure to effectively manage the performance of its
-Subcontractor (ANEL).
-Notwithstanding the seriousness of the issue, to date the Contractor has not presented a coherent
-and plausible mitigation plan for the rectification of the defective works of its Subcontractor. The poor
-quality of workmanship of your Subcontractor has an adverse effect not only to the quality and safety
-of the installation but it also has a cascading delay impact to all associated interfacing works and the
-potential to delay the Substantial Completion Date.
-It is unacceptable at this critical stage of the Project that the Contractor has not implemented
 
-immediate measures to manage this issue. The management and supervision of your Subcontractor
-remains minimal and we evidence daily failures of the QC department and site interface management
-by the Contractor to monitor and implement the required quality process.
-The Contractor's presentation to ADAC's Chairman on 13 November 2018 attempted to simplify the
-root cause ofthe issue and the proposed corrective actions do not address the measures needed to be
-taken for the proper management of your Subcontractor, measures for the improvement of the
-quality of the Works, and also how you will ensure that all non-compliant works are being replaced to
-achieve compliance with the Contract. Last but not least, the Contractor has not presented any
-mitigation measures to be implemented to ensure that the Programme of Works for Anel and other
-interfacing Contractors and Third Parties shall not be affected.
-The Contractor shall focus its efforts to address all the above stated concerns and improve the
-unacceptable safety and quality of its Works. Recent examples of the poor workmanship were
-recorded on 13 November 2018 for the FDB verification (Form 04-submission) and are as follows:
-• Wires are crossed between one trunking to adjacent trunking;
-• Cut wires laid inside trunking;
-• Cable trunking cover blocked by other services;
-• Dust and debris found inside cable trunking;
-• Cable overcrowded in cable trunking and congested;
-• Cable dressing within trunking not done;
-• Exposed wire above false ceiling.
-We hereby notify the Contractor that all Works which are found to be non-compliant with the
-Contract shall be rejected and the Contractor shall make good the defect and ensure compliance with
-the Specifications (Clause 15.4.1 Conditions of Contract). For the avoidance of doubt, and pursuant to
-Clause 15.4.3 of the Conditions of Contract, the Contractor shall not be entitled to any extension of
-the Time for Completion, reimbursement of additional costs and/or adjustment to the Contract Price.
-Pursuant to Clause 12.10 of the Conditions of Contract, the Contractor is required to rectify its
-Subcontractors performance. The Contractor is requested to immediately address the above stated
-concerns.
+Subject:Validity of the Subcontractor's Advance Payment Bond
+
+Dear Sir,
+The Contractor writes with reference to the validity of the following Bond(s) of the Subcontractor:
+Name Reference No. Amount (AED) Current Expiry Date
+Advance Payment Bond (Amendment No. 20) 123020375070-XF
+2019
+
+1,334,957.00
+
+01
+
+January
+
+Please be informed that, pursuant to the provisions of Schedule 11 [Payment Terms] and Clause 12.5
+[Maintenance of Performance Security and Bonds] of the Conditions of Subcontract, the Contractor
+requests that the Subcontractor extends the validity of the above listed Bond(s) until 31 October 2021
+considering the forecast Project’s completion date as 31 October 2019. Please be reminded that, in
+accordance with Clause 12.5.5, the Subcontractor shall extend the validity of its Advance Payment
+Bond(s) twenty-eight (28) days prior to the relevant expiry date.
+The Contractor urges therefore the Subcontractor to comply with the aforementioned contractual
+obligations and to provide the extended security within seven (7) days of this notice.
+Please finally note that the Contractor is unable to disburse due payments to the Subcontractor until
+such time as it receives the original copy of the extended Advance Payment Bond(s).
 Yours faithfully,

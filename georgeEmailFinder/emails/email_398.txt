@@ -1,27 +1,49 @@
-Subject: Loose soil permeation grouting under manholes and pipes
-Dear Sirs,
-We refer to above noted letter (1), further clarified instruction (2), weekly progress meetings on
-MTB Subsidence Works and hereby submit enclosed comparison sheet for the tender carried out
-for Pier 4 Area Grouting Works (Attachment-!}.
-Kindly note that all bidders have been requested to price the works under equal terms and
-conditions, with the consideration of same timeline.
-While reviewing the comparison sheet, please consider following:
-1. All bids are re-measure basis (Bauer on point base, Zetas and Keller on linear meter
-drilling, tam pipe and grouting), i.e. in case the grout quantity changes or the depth of
-rock layer is reached at a shallower level than 12 meters, there can be saving in Zetas
-and Keller prices.
-2. All parties have bid on red and yellow zones -total price for each package comprises
-both zones.
-3. All parties have bid on UFC and OPC+SR basis, this is clearly identified in the
-comparison sheet. UFC is available within 15 days according to ZETAS, 4-5 weeks
-according to BAUER and KELLER.
-4. Additional test and verification requirements (being not available on site) has been
-priced by Zetas only, Keller's response pending.
-You are kindly requested to advise on following:
-1. Which subcontractor to be used for Pier 4 works
-2. Approval of Zetas and Keller as subcontractor for remaining works, to enable
-competitive bidding
-3. Exact instruction in respect of what type of cement is to be used where (not only for
-this area, for future as well), in consideration with the fact that UFC can be made
-available 4-5 week longest
+
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0105 [post-SAA8]
+Drawing Backgrounds – As-Built Conditions Not Matching Shop Drawings
+Dear Sir
+We write with reference to our letter ref: (1).
+By way of reminder, our letter ref: (1) was issued in direct response to various allegations made by you
+in relation to our As-Built and Shop Drawing submittals, principally the purported poor quality of our
+submission and those of our subcontractors, and the unreasonable rejection by you of the same.
+However, it has become increasingly apparent that you are continuing to unreasonably reject our AsBuilt and Shop Drawing submittals due to issues relating to the ‘backgrounds’, where the background
+information and arrangements detailed on our As-Built Drawings and Shop Drawings do not reflect
+[match] the actual as-built condition constructed on the site. Indeed, the various ‘As-Built Package
+Status’ reports issued by you to date, contain a series of statements including inter alia the following:
+‘As built condition does not match approved Shop Drawing’
+‘Drawings not coordinated in the SDS and there is no coordination in the As-Builds …’
+‘..As Built drawings are changed from approved shop drawings (layout …) … as Built drawings will not be
+reviewed … until [this] information is provided.’
+‘As-built drawing submitted when verified at site are different …’
+As previously advised in our letter ref: (1), the issue of As-Built and Shop Drawings not matching the
+actual as-built conditions on site is in the majority directly related to the introduction by you and the
+Employer of the unorthodox and extra-contractual Briefing Pack (‘BP’) design development process. If
+
+you recall, you insisted on instructing the resultant myriad changes to the Works developed from 100+
+BPs back to us by way of 11,600+ signed-off ‘Document Record Sheets’ [i.e. sketches]; albeit issued as
+‘IFC’ in lieu of traditional fully completed and properly coordinated IFC Drawings.
+Given this, combined with the fact that the 11,600+ sketches were issued by you via circa 80 separate
+Engineer’s Instructions in a late, ad-hoc and piecemeal manner over a period of some three and a half
+years, and the fact we were compelled to develop our Shop Drawings based on sketches [as ordered by
+you] absent IFC Drawings, it is not surprising that ‘as built conditions do not match Shop Drawings’.
+However, it appears that our As-Built and Shop Drawing submittals are being unreasonably rejected due
+to purported issues relating to the ‘backgrounds’, for which we are clearly not culpable nor liable – this
+remains your responsibility and that of the Employer and / or Employer’s Design Consultant.
+In the meantime, this ‘issue’ continues to have a major impact on our ability to obtain ADDC approval
+and similarly is impacting the completion of the As-Built LOD 500 BIM models; which have a direct
+impact on achievement of Milestone MS09B and will invariably knock on to Milestone MS09C. In which
+respect, any delays consequent upon the rejection of our As-Built and Shop Drawing submittals due to
+the drawing backgrounds e.g. as built conditions not matching Shop Drawings [as opposed to any
+potential on-going or remaining delays attributed to the BP design development process], cannot
+possibly be construed as forming part of the ‘Included Circumstances’ per Clause 1.7.4 of SAA8.
+Accordingly, we hereby notify you pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 that
+the events and circumstances detailed above constitute acts of prevention and/or breaches of Contract
+on the part of the Employer’s Personnel and therefore give rise of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

@@ -1,111 +1,27 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0121
-Kitchen & Smoke Extract Fan Installation in Hotel Building Level L3.4
+Subject: Delay in Procurement and Installation of Glass Wall Lining and Glass Screen
+Dear Sir,
+We write with reference to your letters ref {1), ref {2) & ref {3) in which you advise of purported
+delays to the planned deliveries and subsequent construction activities related to internal glass
+works.
+The content of your letter is inaccurate and paints a misleading picture of events at site related to the
 
-Response to RFI/00401/17163 and SDS/0401/M/1375-01
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays to completion of the Works due to various acts of
-prevention on the part of the Employer’s Personnel and / or the Consultants that will require a revised
-response to RFI/00401/17163 and the re-coding of SDS/0401/M/1375-01 in order to resolve.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 26 May 2019, we raised a Field Modification Request (FMR) by way of RFI/0401/17163, in which,
-with reference to the Hotel - Building Management Mechanical Rooms – advised of the following:
-‘The kitchen extract fan is mounted to a floating slab which as per the attached detail sketch BP 10 is
-1000mmmm and the Cork sheet surrounding the floating slab is 100mm (50mm from each side).
-However and as per site conditions, the floating slab is 890mm and the cork sheet 210mm (105 from
-each side). Kindly confirm’
-Attached was a marked up sketch from Briefing Pack 10 titled ‘Hotel - Building Management Mechanical
-Rooms Layout’, Sketch No. 401-JV-BP10-34-5.00-GA-SKFC-002_R00_220817 [BP ref: sketch ‘ASK-008
-(BP10)’, IFC ref: MTC A 02 TB_L3.4 5.32 00.846] (refer to Figure 1), plus a partial extract of the same
-showing the variance between what is indicated thereupon and that which is ‘per site conditions’ and
-the subject of our FMR (refer to Figure 2 below).
-Figure 1
-Figure 2
-It is important to point out that sketch ‘ASK-008 (BP10) was signed by you on 16 October 2017.
-We requested a response to RFI/0401/17163 by 2 June 2019. You failed to reply until 26 June 2019 (ref:
-1). Further, rather than address the question being asked, KPF replied in the following manner:
-‘The contractor's proposal and the provided detail are not acceptable. As commented on the response
-of SDS-0401-M-1375-00 and 01 which are reviewed as Code 3, the details shown on the drawing are not
-in accordance with the workshops/agreements made during BP-10 and noted in the CMIRs, i.e. BP10ACSK-001. As per BP-10 the Contractor should be following the detail shown on BP10-ACSK-001
-(attached to the response for ease of reference). This detail was developed to prevent noise breakout
-from the fan into the Central Processor and Hotel Building.’
-
-In addition to enclosing a Change Management Information Request (CMIR) dated 7 March 2016, also
-attached to the response to RFI/0401/17163 was a copy of Sketch No. BP10-ACSK-001 entitled ‘Hotel
-Roof Fan Room – Acoustic Requirements’. We note this is dated 29 February 2016 (Figure 3 refers).
-Figure 3
-We make the following comments and observations in respect of the above:
-1.
-We are somewhat surprised at KPF’s reference to an out of date sketch, given that Sketch No.
-BP10-ACSK-001 (Figure 3 refers) to which KPF refer is dated 29 February 2016 and was for all intents
-superseded by ‘ASK-008 (BP10)’ (Figure 1 refers) dated 16 October 2017.
-2.
-Moreover, given that ‘ASK-008 (BP10)’ was signed off as agreed by various parties, including you
-– as the Engineer for the Project – on 16 October 2017, in keeping with the Briefing Pack design
-development process [in so far as we were to instructed generally at the outset of the Briefing Pack
-design development process to consider signed-off BP sketches as ‘issued for construction’], we
-complied and constructed the works on site according to that sketch.
-3.
-Moreover, according to a series of e-mails exchanged between 7 June 2017 and 13 September
-2017 [copies attached, ref: (2)] the mechanical fan room sketch [which was later to become ‘ASK-008
-(BP10)’] was widely circulated to all parties and at no time was challenged by KPF, or any other party for
-that matter; including for example, neither you nor ARUP.
-4.
-Meanwhile, on 31 December 2018, we received a Status Code 3 response to our Shop Drawing,
-Fan Typical Installation Details for KEF-CS-L3.4-02 and 03, SEF-CS-L3.4-01 (Sector 5.32B) issued under
-Shop Drawing Submittal No: SDS/0401/M/1375-01 (ref: 3) the basis of the rejection being that the fan
-details were purportedly not in accordance with BP10-ACSK-001 – which we have established above,
-was superseded by ‘ASK-008 (BP10)’ (refer to Figure 1).
-5.
-Under the circumstances we believe the Status Code 3 comments to be invalid and urge you to
-assist with arranging to have SDS/0401/M/1375-01 re-coded as minimum Status Code 2.
-In addition to the above, we received an e-mail from you dated 3 July 2019 [timed at 6:42pm] which
-provided two e-mails from the Employer’s Design Consultant [ARUP] one of which was dated 17 June
-2017 and one dated 3 July 2019, which in summary stated that following a review of the sketch detail
-appended to RFI/0401/17163 i.e. ‘ASK-008 (BP10)’ (Figure 1), ARUP advised that they were of the view
-that “the current as built configuration will not achieve the IFC intent” and “Reverberant noise will be
-transmitted to the Hotel resulting in noise levels above the target of NR35 for bedrooms.” ARUP further
-stated that they recommended that we either implement the detail shown upon BP10-ACSK-001 (Figure
-3 refers), or provide an alternative solution which they opine meets the IFC design intent complete with
-all supporting documents, including the provision of acoustic calculations.
-This triggered a further round of e-mails between us [copied to KPF and ARUP] up to 25 July 2019
-[copies of the e-mails issued from 17 June 2017 to 25 July 2019 are included, ref: (4)], during which we
-agreed to undertake sound measurements to establish whether the IFC design intent to the affected
-Hotel Fan Rooms had been achieved or otherwise. Our e-mails dated 18 July 2019 and 25 July 2019
-confirm that the readings from the noise measurements taken at different levels in the Hotel Building
-confirm that they are “within the design requirement range of NR35”, and this “proves that the detail
-provided in RFI-17163 prevents noise breakout in the Hotel building.”
-In view of the above, we request that (1) you issue a revised response to RFI/0401/17163 correcting the
-reference to an out of date sketch and that you properly address the FMR described therein; and (2),
-you re-code the current response to SDS/0401/M/1375-01 as minimum Status Code 2.
-However, until such time as you do so, we are prevented from completing our Works to the Hotel Fan
-Rooms to Level L3.4 which is preventing the sign-off of the related Work Inspection Request (WIR).
-Resultant Impact:
-
-The delays to completion of the aforementioned works and delays to sign-off of the related WIR will at
-such a late stage of the project, cause delay and disruption to our works. This has the potential to
-invariably knock on to testing and commissioning and impact upon our ability to achieve Milestone
-MS09B, and may also prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-It is for this reason therefore that we issue this E-Notice requesting your prompt action, guidance,
-decision or further instruction as may be applicable to resolve the matters referenced herein in order to
-mitigate such delay and/or disruption to the Works. This includes without limitation:
-1.
-Issuing a revised response to RFI/0401/17163 in the manner identified above; and
-2.
-Re-coding the current response to SDS/0401/M/1375-01 to Status Code 2.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+subject works.
+We do not agree or accept any alleged failure in procurement. The glass in question for more than
+twelve months relates to the replacement of previously installed glass. In addition, glass has been
+affected by MEP modifications and other works either varied or instructed by you. Due to the nature
+and speciality of the individual types of glass to be replaced, it is not possible to plan or manage the
+procurement in an efficient manner.
+The internal glazing package has already passed to the snagging stage; however, you are not
+accepting the glass replacements and varied works as snagging items, which we feel is unreasonable.
+As of week-ending 20 June 2019, we have achieved approximately 95% installation of internal glass.
+The remaining 5% is targeted to be installed by the end of September 2019. This forecast however,
+does not and cannot consider any future breakages or changes instructed at site.
+From the outset, we have applied and continue to apply mitigation measures to this package. Such
+measures include the deployment of our own glass suppliers, controlling all work orders and the
+internal glazing procurement system. In cooperation with AGC, our external consultants who we
+engaged 2.5 years ago and remain with us to date, we are managing the internal glazing installation
+programme.
+We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing
+our obligations within the shortest possible time, without compromising on safety and quality, but
+will not be held responsible for such factors as those outlined above for which we are not culpable.
 Yours faithfully,

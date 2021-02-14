@@ -1,42 +1,25 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0059
-Delays to Completion of Guinault-Lebrun’s Works due to the Activities of the Employer’s
-Other Contractor (L&T) to Gatehouses GH1, GH4, GH20 and GH40
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described herein
-may cause delay [and/or disruption] to the Works, and accordingly seek your swift resolution of the
-same.
-The Event(s):
-On or around 13 March 2019, it became apparent that the activities and works of the Employer’s MTA
-Contractor (‘L&T’) in and around Gatehouses GH1, GH4, GH20 and GH49, has affected, and by all
-accounts continues to affect, the works being undertaken by our specialist subcontractor, Messrs.
-Guinault-Lebrun (‘GL’) responsible for the Pre-Conditioned Air (‘PCA’) system for the MTB project.
-There are two principle issues for which we request your assistance in resolving, which are: (1) delays to
-handover by MTA and (2) delays resultant on damage being caused by L&T to the PQC works.
-Delays to Handover:
-We have been awaiting completion and handover of the following outstanding works for which L&T are
-responsible. This is delaying completion of the PCA installations and testing and commissioning:
-•
-GH 20 Duct Bank to PCA Pit; and
-•
-GH 4 Duct Bank and Gantry.
-Damage to PQC Works:
 
-We also wish to bring to your attention that as clearly evidenced by the attached photos, damage has
-been caused to GL’s pit cover and frames to Gatehouses GH1 and GH49, due to the MTA contractors’
-excavation of the PQC around the pits. This will delay our commissioning works and will necessitate
-return visits to repair as well as re-commissioning of pit mechanisms, following PQC completion.
-Potential Impact:
-As noted above, a combination of the delays being caused to handover due to outstanding works of L&T
-to Gatehouses GH4 and GH49, and the delays consequent on damage being caused by L&T to the PQC
-works in and around Gatehouses GH1 and GH49, will invariably delay the completion of GL’s PCA works
-to these areas and similarly impact on completion of the resultant testing and commissioning.
-The combined effect of the above is likely to delay GL’s completion beyond its 31 May 2019 deadline.
-If this continues, this has the potential to impact upon our ability to achieve Milestone MS09B.
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as may be applicable
-to resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs due to the event(s) and circumstances described herein.
+Subject: Clause 27.1.1: Notice of Claim, Delay Notice SAAB-0020-ICT-WLAN-ETIHAD
+Dear Sir,
+Lounges- Supply of Wi Fi Access Points
+We acknowledge receipt of your letter reference (1} and provide our detailed response below.
+We note your comments concerning the procedure set down in Clause 2.26 of the Settlement
+Agreement and Amendment No. 8 ('SAA8'} and we have now put measures in place to ensure that we
+comply with this process.
+It is, however, our view that SAA8 does not obviate the requirement for the Contractor to issue a notice
+of claim for extension of time and/or additional costs in circumstances where the Contractor's progress
+of the Works is adversely affected by a breach of Contract or an act of prevention (such as in the
+circumstances which form the subject matter of our letter reference (2}). In such instances, while we will
+certainly bring the matter to the attention of the Engineer and the Employer by way of the SAA8 Clause
+2.26 email notice procedure, we are of the view that we are also obliged to issue a parallel notice under
+the provisions of Clause 27.1 of the Contract. Should we be incorrect on our understanding of t lh is
+matter, we would be obliged if the Employer would issue a letter confirming that the notices
+requirements under Clause 27.1 of the Contract are superseded by the provisions of SAA8 and are thus
+rendered redundant.
+In the meanwhile, your reminder to us concerning the procedural requirements set down in the
+Contract governing claims is noted, and we will endeavor to comply with these. More importantly (in
+our view), in keeping with the purpose and spirit of SAA8 we intend to keep the Engineer and the
+Employer appraised (including by way of the Risk Mitigation Meetings) of the impact of any delays such
+that these can be investigated in a timely manner and dealt with appropriately by the responsible Party
+(or Parties) .
 Yours faithfully,

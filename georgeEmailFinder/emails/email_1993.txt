@@ -1,84 +1,94 @@
 
 Dear Sir,
 
-Further to the Engineer’s Instruction of reference 6) issued pursuant to General Condition (“GC”) 13.1.1
-of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to the abortive
-and / or additional design works pursuant to its GC 13.2.2 obligations.
+The Contractor refers to its previous correspondence under letters references 2) and 3) with regards to
+the Station Area Planning.
 
-This evaluation of abortive design costs does not rely upon the actual costs brought forward by M/s
-Atkins and the Contractor’s respective determinations but on the same principle put forward by the
-Engineer’s Assistant via letter reference 3) in quantifying the abortive design costs in relation to the
-cross-passages
+On 01 September 2015, the Employer submitted to the Contractor, by means of an informal email under
+reference MOOO-QRC-INFM-010596 - CP0_ 15_04534 SAP for Gold Line Underground Stations, the
+following SAP drawings:
 
-Provided that the instruction of letter reference 6) was received in parallel with those of letter
-references 5) and 7), and, that the effect in both cases has been the occurrence of concurrent abortive
-design in relation to the passageways, the Contractor concludes that the cost of abortive design arising
-out of the instruction of letter reference 5) is deemed to be included within the valuation of letter
-reference 2).
+Sect
+Document No.
+Title
+Ver
+Status
+Date
 
-All necessary proof therefore comprising of the relevant outgoing design transmittals to the DVE prior to
-the receipt of the Engineer’s Instruction of letter reference 6), i.e. a comprehensive ‘list of deliverables’
-which form the basis of the Contractor’s entitlement, can be found in attachment 2) of letter reference
-2).
+1
+15
 
-On the basis of the Engineer’s Assistant pricing methodology therefore, the Contractor has thus far
-evaluated several elements of abortive design costs, all of which have been summarized in table 1)
-below. The relevant head of claims by Atkins have also been included for information only, so as to
-enable a direct comparison of the amounts involved.
-
-SN
-Discipline
-
-Abortive Design (QR)
-
-(Pursuant to EA’s methodology) Abortive Design (QR)
-(Claimed by M/s Atkins)
-1
-
-Passageways (FCN 071) 31,849,158
-
-16,822,148
+CPO 14 74001 Ras Bu Abboud Station Area Planning Key Plan V9_0
 
 2
 
-Travellators (FCN 071) Incl. in 1)
-
-Incl. in 1)
+CP0_14_74021 Qatar National Museum Station Area Planning Key Plan V13_0 Baseline V1
+19-Aug-15
 
 3
 
-Cross Passages (FCN 64.1)
+CP0_ 14_74121 Al Sudan Station Area Planning Key Plan V15 0 Baseline V1
 
 4
+15
 
-OTE / UPE Opening Sizes (FCN 133)
+CPO 14 74061 Bin Mahmoud Station Area Planning Key Plan V7_0
 
-326,946
+Baseline V1
 
-197,513
+27-Aug-
 
 5
+15
 
-Doha Zoo Remote Entry (FCN 101)
+CP0_ 14_74161 Sport City Station Area Planning Key Plan
 
-Incl. in 1)
+Baseline V1
 
-317,047
+23-Aug-
 
-Total (QR)
+6
 
-33,018,607
+CP0_ 14_74201 Al Aziziyah Station Area Planning Station Area Key Plan
+Baseline V1
+23-Aug-15
 
-842,503
+V8_0
 
-1,244,697
+Baseline V1
 
-18,581,405
+27-Aug-
 
-Table 1: Cost Summary for Abortive Design Valuations
+23-Aug-15
 
-The Contractor reserves its rights to recover any time related costs in connection to this Variation which
-shall be addressed under a separate cover. We remain at your disposal for any further information
-and/or clarification.
+V1 1_0
 
+In addition, the Contractor has obtained informal SAP drawings for the Al Sadd (V8_0) and AlWaab
+(V11_0) Stations from CPO.
+
+Upon receipt of the above drawings, the Contractor duly informed the Engineer's Assistant, under letter
+reference 2), that notwithstanding the absence of formal issuance of the SAP drawings from the
+Engineer under the relevant instruction, the Contractor would proceed with the detailed design in order
+to mitigate further delay and urged the Engineer and the Employer to assist in obtaining the SAP
+drawings for the remaining stations (Souq Waqif and Joaan) as soon as possible.
+Astonishingly, the so called "latest" drawings also included older versions of SAP requirements. For
+Qatar National Museum Station the Engineer's Assistant provided V 12_0 (V13_0 was provided by the
+Employer to the Contractor on 01 September 2015) and for Bin Mahmoud Station the Engineer's
+Assistant provided V6 O (V7_0 was provided by the Employer to the Contractor on 01 September 2015).
+
+Subsequent to the Engineer's letter reference 1), the Contractor received from the CPO (via email on 25
+November 2015) an updated summary table outlining the latest SAP drawings for all Stations. The table
+below presents the current status:
+
+Change on size of Entrance 1.2 and road layout; Plaza landscaped area added
+
+Further to the above, it is evident that the SAP requirements are in continuous development. It is also
+evident that there is a disconnect between the information provided by the Engineer's Assistant's and
+the information that is current with the CPO.
+
+On the other hand, the Contractor shall not accommodate any further SAP related changes to the design
+unless formally instructed. Such instruction, if issued by the Engineer, will inevitably cause further delay
+and will be addressed in accordance with the provisions of the Conditions of Contract.
+
+We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

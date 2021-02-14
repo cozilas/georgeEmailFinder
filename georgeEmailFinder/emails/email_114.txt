@@ -1,81 +1,14 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0247
-Siemens Access to MTB RTUs (MV SCADA System) – Introduction of Changes to the Scope of
-MTB Works – Request for Engineer’s Instruction / Variation Order
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A hereto, concern changes to the existing scope of Works and requires a
-valid Engineer’s Instruction and Variation Order in order for us to integrate the same into the Works.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 25 March 2020, we received your letter dated 22 March 2020 (ref: 1) entitled ‘Siemens Access to
-MTB RTUs (MV Scada System)’, informing us of the following:
-‘In order to resolve the issues experienced during a number of demonstrations over the past few
-months relating to the communications and automatic functionality of the MV SCADA system, [the
-Employer’s Third-Party Contractor] Siemens have proposed to convert the installed communications
-network to the Managed Network System (MNS).
-The proposed solution entails the removal of the redundant GPRS modems from the RTUs and
-replacement with Moxa switches (the attached Siemens presentation provides the scope details). The
-new switches will utilize the existing 48 Volt power supplies and do not require the shutdown of the
-substations, therefore avoiding any disruption to the TCA JV's ongoing works.’ [Bold and underlined for
-emphasis]
-Amongst the attachments appended to your letter, were a series of schematic drawings prepared by
-Siemens, showing the intended changes to the Remote Terminal Units (RTU) installed in the Substations.
-Extracts from some of the salient schematic layouts are reproduced in Figure 1 to Figure 3 below:
-Figure 1
-
-Figure 2
-Figure 3
-It is evidently clear from the content of and attachments to your letter ref: (1) that the proposed works
-intended to be undertaken by Siemens introduces changes to the MTB scope of works and deliverables;
-consisting of the removal of the GPS modem (a component that is part of the RTU specified in
-specification “RTU for DMS 261300”) which is to be replaced with a Moxa switch.
-Even by your own admission, you acknowledge that the works proposed by Siemens to the RTUs (MV
-SCADA System) are changes and are intended to be rolled out for the whole of the MTB:
-‘The automatic functionality is fundamental to the Fire Life Safety and Power Reinstatement design
-strategy and needs to be demonstrated and accepted by the CxA prior to completion, therefore the
-modifications will need to be undertaken prior to Taking Over of the Works. Initially this activity will
-cover the Loop 2 MV fiber optic network which composed of 16 substations and will be demonstrated to
-CxA to prove its functionality … Upon successful demonstration and confirmed compliance to the
-Project's requirement, the same process will be applied to the rest of the MTB substations.’
-Your letter also made reference to Conditions of Contractor Clause 12.11 (‘Cooperation’) and Clause
-12.12 (‘Other Contractors’) and requested that we coordinate with Siemens in order “to guarantee the
-interoperability of RTU and DMS system” and concluded with statement that “an NOC will be submitted
-to the Contractor to us in order to allow Siemens to proceed with the installation of the Moxa switches.”
-
-However, in your subsequent letter dated just five days later i.e. 30 March 2020 (ref: 2) which also
-served as ‘Notice to Correct’, you informed us that we had not taken any measures to manage our
-Electrical Subcontractor (ANEL) and ensure compliance with the provisions of Conditions of Contract
-Clauses 12.11 and 12.12 with the Employer’s Other Contractor (Siemens). In which respect you included
-an extract of Section 261300-46 ‘Remote Terminal Units (RTU) for Distribution Management System
-(DMS)’ pertaining to coordination with DMS supplier for the interoperability between RTU and DMS (see
-Figure 4 below):
-Figure 4
-The above extract from Article 1.07 (‘RTU Components Characteristics and Services’), does not extend to
-include changes and replacement of the components of equipment that has already been procured and
-installed under the same specification; which is what you appear to be suggesting in letter ref: (2).
-The fact remains, the proposed works to be undertaken by Siemens represents changes to the MTB
-scope of works and deliverables, in which respect we remind you that SAA8 laid down strict guidelines
-to follow if additional works are required and these modifications will warrant a valid Engineer’s
-Instruction (EI) and a Variation Order (VO) if you require us to proceed with integrating any scope
-changes into the Works.
-Accordingly the express provisions of Clauses 2.29 to 2.31 of SAA8 are patently clear: We are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-such as but not limited to issuing us with the modified IFC Drawings and/or Specification necessary for
-the execution of such Works we are unable to proceed with implementing the changes noted above.
+Subject COVID-19 Reporting
+Dear Sir,
+We write to convey the Employer's directive with regard to the appropriate reporting protocols for
+suspected COVID-19 cases associated within the MTC Programme.
+The Contractor is required to follow these instructions without exception, update their internal plans
+and procedures to incorporate and communicate throughout the Contractor's staff accordingly.
+We appreciate the current concerns in relation to COVID-19, however it is paramount that all
+communications are accurate, informative, and professional at all times.
+On a further note, we expect the Contractor to fully implement and maintain all their COVID-19
+contingency and preventative arrangements at all times as well as demonstrating full compliance with
+all MTC Programme requirements and local authority directives. The Contractor is required to conduct
+regular compliance checks to assess their alignment with all these requirements.
+Thank you in advance for your understanding and cooperation.
 Yours faithfully,

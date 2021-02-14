@@ -1,52 +1,26 @@
-Subject P4 Interim Maintenance Concerns
-Dear Sir,
-We write with reference to the Site Observation Report (1) and NCR (2) regarding the poor
-maintenance of the MEP equipment. We note that a series of meetings took place (refer to attached
-MOM) as well as site visits to discuss the issues with the Contractor's FM Team. It is very critical that
-the Contractor takes actions expeditiously and whilst the identified issues are still at an early stage
-(concerns circa 6% of the building) and before the remaining 94% is turned over to operations.
-As you can see from the attached report, the Engineer has pointed out several important issues.
-When we questioned the issues in the report during the meetings as well as at site reviews at the FMC
-Office, the below listed concerns have been raised:
-1. BMS as witnessed at the FM's BMS station on 28 May 2019 is showing many errors. Many
-sensors have faulty readings. Some are not communicating at all- many FCUs and VAVs. This
-is a serious concern. PCE/Siemens has noted these faults but have not returned back with
-answers or the required corrections until now.
-2. The Contractor's FM Team has been internally documenting and communicating many issues
-such as the ones pointed out in the SOR as early as October 2018, however, the Contractor
-has not implemented any actions in order to rectify the issues. The Contractor needs to make
-sure that proper and timely action is taken for the corrections by its Subcontractors. The
-Engineer has taken some samples of these "FM Site Observation Reports" (please refer to the
-attachment) during our meetings but the Contractor needs to share the entirety of these
-reports along with an action plan.
-3. The Engineer also found that the BMS workstation in the FMC Room does not have the full
-license as the one in the FCC. For example, the set points are not visible to the FM operators
-available 24/7 at the BMS Station. This will create issues in the monitoring of the system.
-4. Although the building received BCC and is deemed as ready for full automation on 15 March
 
-2019, your FM team obtained the BMS password from PCE on May 1, i.e. six and a half weeks
-later.
-5. Some rooms are reported to be over-cooled such as the SCRs and electrical rooms. Physical
-temperature readings have been recorded as low as 17 or 18 degrees whereas the set point
-for the equipment is 22 or 23 degrees. It is not surprising that there is condensation in some
-rooms due to temperature fluctuations such as these.
-6. Leak Detection System (LDS) panels in Gate Houses are reported to be not communicating
-with the BMS. LDS is your only defense if your CD pump malfunctions. If LDS is not working
-the Contractor is to explain how will it monitor the potential water leaks in SCRs? Such leaks
-can be very costly to the IT equipment inside the racks below.
-7. The Observation Report/NCRs also points to the existence of dirty ducts. Until the snagging
-and de-snagging of the building is complete, more dust is expected to be generated as could
-be evidenced from presence of dust in the air within Pier 4. The same is more pronounced in
-other piers and will ultimately have a negative impact on the previously approved duct
-cleaning process and a series of duct cleaning validation process should be adopted by the
-Contractor to meet the Project's Specification requirements.
-The above list is not exhaustive and there are further issues that are also related to maintenance. The
-Contractor is therefore requested to immediately proceed with the required actions in order to rectify
-the above and set up a meeting with your construction, commissioning, and FM Teams along with the
-Employer, the Engineer and CxA representatives in order to provide a clear way forward regarding
-hpw these issues and concerns will be resolved before the r~~t of the building reaches the same level
-of completeness as in Pier 4.
-We note that any delays associated with the above concerns shall be solely attributable to the
-Contractor and we hereby reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of
-Contract.
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0101
+Gatehouse GH49 – Damage to PCA Pit Due to Grouting Works by Others
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
+may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
+The Event(s):
+At Annex A hereto we enclose a series of photographs showing damage to the Pre-Conditioned Air (PCA)
+pit adjacent to Gatehouse GH49 taken on the morning of the 3 June 2019, which appears to be
+attributable due to the effects of pressure grouting undertaken by the MTA Contractor (L&T) while
+carrying out remedial works in an effort to alleviate the subsidence occurring on this Project.
+The photographs indicates a large area adjacent to the PCA pit having been subjected to pressure
+grouting and this appears to have caused undue stress/pressure around the pit causing the concrete to
+buckle and shatter, or in other words, caused an upheave in pressure and “burst” the concrete.
+We suggest that L&T expose the duct bank connection and HDPE pipe connections to this pit to ensure
+that the integrity of the same has not been compromised by the movement of the pit.
+This is an unforeseen event, is not of our doing or responsibility but is clearly at the risk of others, but
+any remedial works necessary to address the upheaval and make good the concrete has the potential to
+delay and disrupt the progress and completion of our Main Terminal Building (MTB) Works, and
+constitute an act of prevention or breach of Contract on the part of the Employer’s Other Contractor.
+While writing wish to draw your attention to the fact that since the photographs included at Annex A
+were taken, L&T have broken out the PQC slab immediately adjacent the PCA pit to Gatehouse GH06
+[the photos attached at Annex B refers]. Therefore, if this area is to be grouted also, we request that
+you inform us as to what measures they have/will put in place to avoid any potential reoccurrence.
 Yours faithfully,

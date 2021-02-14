@@ -1,13 +1,28 @@
 Dear Sir,
-This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
-both price and any potential time impact for a proposed Variation in relation to a new Simulator Centre
-at Qatar Aeronautical College. The quotation shall include Civil/Structural, MEP, Architectural Finishes
-and Utility Diversions Design and Construction Costs.
 
-The preliminary layout for the proposed building and the identified location within the Aeronautical
-Campus is attached.
+The Engineer's Assistant refers to letter reference 1). wherein the Contractor was directed to submit a
+quotation for any cost or time impact and subsequently reminded by reference 2). Although the
+Contractor failed to respond, Engineer's Instruction reference 3) was issued and followed by reference
+4) and 5), confirming the provisions of Sub-Clause 13.2.1 still applied. The last reminder, reference 7),
+was due by 25 August 2016.
+The Engineer's Assistant must now conclude that the Contractor is unwilling to provide the directed
+quotation given that a total period of 511 days have lapsed without submission of a quotation.
+Absent compliance with the Engineer's direction, the Engineer is now compelled to complete his assess
+ent of the Variation without input from the Contractor.
+Dear Sir,
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation (both as to price and
+any possible time impact) for the Variation proposed by the Engineer, namely the deletion of the Diesel
+Generators in Stations and Tunnel Power Supply Substations .
 
-Please cpntact Mr. Andy Battershill, Qatar Rail Senior Project Manager to arrange a meeting for further
-informatiGn in relation to the proposed Variation.
+The proposed variation allows for Diesel Generators to be deleted from metro stations as Qatar Rrail's
+multiple redundancies in tne power supply system are by means of two Station Power Supply
+Substations (SPS) at either site of a metro station. At this level there is 100% SPS redundancy . If SPS 1
+fails, SPS 2
 
-Yours faithfully,
+can provide the full load. The room allocation for Diesel Generators (70m2
+
+is to remain for Systems use.
+
+The room allocation for Diesel Tanks (30m2) can be deleted, providing the overall space requirements
+for the stations are met.
+The Contractor shall submit the quotation within 14 days of this direction. Yours faithfully,

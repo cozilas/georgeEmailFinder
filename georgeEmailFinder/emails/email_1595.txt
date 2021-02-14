@@ -1,17 +1,107 @@
 
-Dear Sir,
-This is an instruction under Sub-Clause 3.3. 1 regarding the execution of the work under the Contract.
-The followi ng Employer's Requirement:
-Volume 5 Sub-Clause 2.2.1.2, is deleted in its entirety and is replaced with:
+Dear Mr. Sims,
 
-The underground Ras Bu Abboud (former Airport City North) Station and Structures contains one light
-maintenance lane, one washing lane, 12 dedicated short train stabling tracks and service building
-facilities located southwards of the station box. These facilities are directly connected to Ras Bu Abboud
-Station with cross overs located to the south of the station box. The main tracks allow for a minimum
-operational speed of 80km/h from either Blue or Gold Line to the NOIA Rail Terminal. The light
-maintenance lane, washing lane, stabling tracks and service building facilities shall be designed
-according to the attached, Tables 1 and 2 and Drawing No. 1. The Contractor shall be responsible to
-develop a design for the light maintenance lane, washing lane, stabling tracks and service building
-facilities consideri ng a 12m deep underground exclusion zone over the stabling yard to avoid
-encroachment to Ashghal's ROW, according to the attached Drawing No. 2.
+ACTION INFO. F-UP
+
+ALYSJ JV has reviewed your Reference letter and provides the following rough order of magnitude,
+based on Contractors study, for Employers perusal. ALYSJ JV informs the Employer that though the
+number of chiller yards decreased thus providing a more environmentally user friendly and esthetic
+concept, it shows an increase in cost.
+
+The following information provides the Employer with an appraisal of the Contractors works entailed in
+deliveringa central cooling system or plant (CCP) with a comparison to what was understood at tender
+stage. Note that current concept encompasses all relevant MEP and civil works associated with the
+contractual scope a_nd that the CCP is an attempt by the Contractor to capture said facility turnkey.
+Also note, aside from the Feasibility Study/Report, no specific Civil Works/MEP technical design or
+drawings have been produced or detailed.
+
+Said study reveals the use of three (3) CCP's providing chilled water for all stations, adjoining tunnel
+sections, switch boxes and stabling facility when applicable, as illustrated in the attached feasibility
+study. The CCP chillers will be centrifuge l water cooled, coupled with cooling water towers (CT's). The
+number of chillers and CT's within the CCP shall be such that the total cooling capacity will be provided if
+one chiller or tower is out of service. Similarly all three CCP facilities shall be located above switch boxes,
+facilitatingan accessible and maintainable facility. Said facilities will have 2 levels;the lower level will
+house the chillers, the chilled water network, pump-station and the electrical substat on.The upper level
+will be equipped with the cooling towers, the roof will be grated at grade.
+
+The CCP's locations and sizes are:
+
+CCP-1; will be constructed on top of the switchbox located southwards of Airport City North Station. The
+approximate dimensions are; bottom level 1.440m2 (24m x 60m x 6m High), top level 1.440m2 (24m x
+60m x llm High) with grated roof.
+CCP-2; will be constructed on top of the switchbox near Al Saad Stadium. The approximate dimensions
+are; bottom level 2.400m2 (24m x 100m x 6m High),top level 2.400m2 (24m x 100m x 11m High) with
+grated roof.
+
+ALYSJ
+joint venture
+
+CCP-3 (this is a future option); constructed on top of the switchbox at the south West end of Muaither
+Station. The approximate dimensions are; bottom level 1.440m2 (24m x 60m x 6m High), top level
+1.440m2 (24m x 60m x m High) with grated roof.
+
+The CCP scope allowed for is as follows: Civil works (as described above) Chillers
+Cooling towers with pumps
+Primary chilled water circulation pumps Secondary chilled water circulating pumps
+Accessories and devices required for the operation of the system Control and monitoring devices
+Plant management system Unique station heat exchangers
+
+Substantial increase in chill water pipe works with accessories and with foam-glass type insulation
+(SOmm thickness) and aluminium cladding 0.6mm, up to heat exchangers (single supply and return loop
+only)
+Cooling water pipe works with accessories
+Electrical Substation housing the transformers, MCC's and standby generators
+Building services for the CCPs and the Substation inclusive but not limited to lighting, domestic water,
+life safety systems, fire suppress ion and drainage.
+Back of house finishes
+The cost is inclusive of design, procurement, installation and test and commissioning. Not included in
+the CCP scope:
+Generators for standby power and accessories
+Architectural finishes
+External utilities (lighting, fire fighting,irrigation, drainage) Landscape architecture
+Hardscape
+Additional connections to the public networks
+The cost saving corresponding to the smaller required station power supply (SPS) and equipment
+(transformers, Main LV switchboard etc.) for each location is not considered in the estimate, since the
+SPS equipment is not part of our scope of work.
+
+The indicative difference in price between the current concept and the CCP design is as follows: CCP-1
+has a difference of +109 .lSM QR
+CCP-2 has a difference of +186.76M QR
+CCP-3 has a difference of +92.76M QR
+
+The Total difference in price between the current concept and the CCP design is:+388.67 M QR.
+Dear Sir,
+
+Further to your feasibility study and your estimate (reference 2) concerning the Central Cooling System
+for the Gold Line,we need your cost analysis fo...,the implementation of the new concept of stations and
+tunnel cooling.
+
+According to your feasibility study, this new concept results in a lower number of chiller yards to be
+constructed above the stations. We need your analysis of the cost Impact on the project, both on the
+civil contract and the provisional sum, with in particular:
+
+1.
+The estimated cost saving due to the non-construction of chiller yards above all the stations and
+lower stakeholder interfaces constraints (civil D&B contract);
+2.
+The estimated cost saving due to the non-provision, installation and T&C of the station chiller
+units for all the stations (Provisional Sum);
+)
+3.
+
+The estimated cost of the centralcooling plants construction (civil D&B c:Ontract);
+
+4.
+The estimated cost provision, installation and T&C of the central cooling plants (Provisional
+Sum);
+5.
+
+The estimated cost of the pipe network to be implanted in the tunnel (ProvisionalSum).
+
+For each of the above items, please provide us with a detailed breakdown In terms of numbec of units
+considered for each of the stations.
+
+We also need your detail assessment of program impact for the implementation of the Centralised
+Cooling System.
 Yours faithfully,

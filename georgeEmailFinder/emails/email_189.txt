@@ -1,21 +1,110 @@
-Dear Sir,
-We refer to our letter (1) following issuance of our E-Notice Nos. 0088 (2) and 0149 (3), in which we
-reminded you that we are being prevented from completing the installation of security screening
-equipment and security systems devices due to the activities of the Employer's Fit Out Contractor(s).
-On the basis the affected areas will not be made available to us to allow the installation of t he various
-items of equipment prior to the scheduled completion dates, we suggested that you either allow us to
-defer installation until the defects liability period or we free issue the equipment for the Employer to
-install directly. However, our letter (1) and hence this suggestion was either overlooked or ignored.
-Consequently your inactivity coupled with the activities of the Employer's Other [Fit -Out] Contract or(s)
-are continuing to prevent us from completing the installations of the security screening equipment and
-security systems devices and accordingly the events subject to our E-Notice Nos. 0088 and 0149 (letters
-ref: 2 and 3) are continuing to have an impact on our progress and will delay the Time for Completion.
-In order to resolve matters, we respectfully suggest that you issue us with an Engineer's Instruction that
-either (1) deletes the affected elements of the secu rity screening equipment installations and security
-systems devices (Duress Alarm, Baggage Labelling and Tracking System, and Cameras) from our scope of
-Works, or (2) agrees to delay the installation the security and screen ing equipment unt il post -BCC.
-Please issue such instruction forthwith in confirmation your preferred way forwards.
-Meanwhile, we continue to reserve all our rights under the provisions of the Conditions of Contract
-Sub-Clauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension
-to the Time for Completion and any associated costs arising from the event(s) described herein.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0213
+Engineer’s Unreasonable Comments Annotated on NCR-01159 to Carry out Full Surveys for all installed
+HVAC Cladding at Level 1.0 Pier 1– Request for Engineer’s Instruction (EI) and Variation Order (VO) in
+order to integrate Change into Works
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A hereto, concern delays associated with the receipt of unreasonable
+comments endorsed on NCR-01159 ref: (1), associated with installed HVAC Claddings located at Level
+1.0 Pier 1 and the requirement for us to carry out “a site-wide report with programme for rectification”.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We have appreciable concerns in relation to unreasonable comments annotated on Non-Conformance
+Report (NCR) No: MTC-CMA-0401-CM-NCR-01159 received on 20 November 2019 (Table 1 below), in
+relation to the requirement for us to carry out a “site vide report with programme for rectification”.
+Table 1
+NCR ID Date Issued
+Date Received Location
+Description
+Defect Description
+MTC-CMA-0401-CM-NCR-01159 18-Nov-19
+20-Nov-19
+Level 1.0, Pier 1 HVAC Cladding Quality
+“During site visits, CMA has observed non-compliant installed cladding as demonstrated in
+attached site photos, which is not acceptable. The Contractor needs to take necessary corrective action
+of these observations, as part of CAPA. Contractor to provide a site wide report with programme for
+rectification.
+•NCR not accepted for P1; refer to attached site photos, the contractor has not fully addressed the CMA
+concerns
+•This NCR has been previously partially accepted for P4 & P4 GHs
+•NCR is still open […]
+• […] Partially closed for P4 & P4 GHs.
+• The Contractor to address the cases for all other areas included in the NCR and shall apply for final
+close-out.”
+
+The requirement for us to “… provide a site wide report with programme for rectification…” has been
+triggered due to a combination of various issues, some of which occurred after the Heating Ventilation
+Air Conditioning (HVAC) Cladding works had been completed. This is acknowledged by us within NCR01159 wherein we stated the following under the ‘Proposed Corrective Action’ (Figure 1 refers):
+Figure 1
+As noted in the comments recorded under the heading ‘Investigative and Root Cause Analysis’ (refer to
+Figure 1 above), the “Duct cladding damages… [and] workmanship related issues [are alleged to have]
+resulted from poor coordination of S/C [Subcontractors] and lack of supervision of site workforce”.
+Further to which, and under the heading ‘Proposed Corrective Action’ it was confirmed that “Following
+the action done in Pier 4 which was previously accepted by CMA, Pier 1 and related gatehouses have
+been rectified in line with the advance site verification with CMA dated 16-Nov-19. This is for partial
+closure for Pier 1 and related gatehouses only, remaining areas shall be applied separately later”.
+In instances such as this, as well as other instances where there is evidence to suggest that poor quality
+and workmanship has occurred in our works due to, for example, coordination issues and/or supervision
+from our part, then it goes without saying that upon identification of the cause and extent of damages
+caused and/or the reasons for any non-conformance, then the damage and non-conformance will be
+remedied and rectified immediately, as has been successfully proven previously. Accordingly, you will
+be requested to close out any such NCRs following completion of any associated remedial measures.
+However, your request for us to undertake “a site wide report with programme rectification…” of all the
+areas where HVAC cladding has been installed based on a single NCR regarding the quality of a limited
+amount of cladding to one isolated location, is taking matters too far; and your request and expectation
+for us to do this at this stage of the Project, is not only excessive and unreasonable, but unnecessary.
+This is due to the fact that all of completed works to these areas are currently undergoing inspections.
+Amongst other things, you have not taken cognisance of the myriad works/areas that are currently
+being inspected [not just those noted above] and there is a distinct failure on your part to consider the
+effects, ramifications as well as the practicalities involved if such unreasonable requests become
+common place.
+This issue as well as other similar issues in relation to NCRs that have been raised for specific matters
+associated with the quality of our installed works and / or alleged non-conformances have been
+discussed numerous times between us. Specifically, we have advised you that the processes specified
+by the Contract associated with investigating whether the works are compliant or not, are currently
+ongoing. This is established via the Work Inspection Requests (WIR), Commissioning Inspection
+Requests (CIR), snagging, de-snagging, preparation of punch-lists and final handing over, all of which are
+currently being carried out. Therefore, any quality issues, damages and / or poor workmanship in
+relation to the installation of the HVAC cladding, will be found, examined and rectified.
+Consequently, it is not practical at this stage of the Project [where all parties including yourself, should
+be focussed on expediting and not hindering completion] to ask a full “site wide report” if you observed
+a minor amount of damage to some HVAC cladding to a discrete, limited area of the Works.
+Moreover, full site wide surveys / reports of this nature will require the allocation of a vast amount of
+resources and will necessitate complicated coordination and permits from numerous other trades, and /
+or other contractors [particularly at this stage of the Project, when as stated above, the focus should be
+on completion], while inspections (i.e. WIR, CIR, snagging, de-snagging, punch-lists) are currently being
+carried-out as per the Contract requirements for the same works. Therefore, we strongly advise and
+reiterate that this is unnecessary, excessive and will only delay the Time for Completion of the Works.
+We are also given to understand that further NCRs are continuing to be issued by you conveying similar
+requirements to those described above. This will simply exacerbate matters further still.
+
+For the avoidance of doubt, we reiterate that if damages are found into the works which we are liable /
+accountable for during the WIR/CIR/snags etc. inspections, then we will allocate resources for the
+rectification of all non-compliance and will ensure adherence to the target schedule for completion.
+Therefore, we would argue that we are under no obligation to carry-out independent surveys for each
+location where HVAC cladding has been installed as requested in your NCR comments. Nonetheless, if
+you insist us to do so, then this will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
+In which case, as you know, SAA8 laid down strict guidelines to follow if additional works are required
+and this appears to have been ignored. Hence this will warrant a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with independent surveys into the Works.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you issue us the necessary Instruction / VO, we are unable to proceed
+with implementing such investigations etc., noted above and will continue to proceed in accordance
+with the current WIR, CIR, snagging, de-snagging, punch-list processes and final handing over.
 Yours faithfully,

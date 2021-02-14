@@ -1,65 +1,25 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0255
-UAE Governmental Authority Edict – Notice from Abu Dhabi Municipality Department of
-Transport – 11 April 2020 – Restriction of Worker Movement
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 254 [post-SAA8]
+ADM Inspection Delay (COVID-19)
 Dear Sirs,
-We refer to our letters to the Employer including without limitation letters ref: (1) and (2) and our
-subsequent letters ref: (3) and (4) notifying you of the ramifications on the Project consequent on the
-UAE Governmental Authorities’ edicts associated with the Coronavirus (COVID-19) pandemic.
-During the early hours of Saturday 11 April 2020, we received a Notice from Abu Dhabi Municipality –
-Department of Municipalities and Transport, informing us as well as other companies, that although
-companies are allowed to transfer workers within the Abu Dhabi areas: Abu Dhabi, Al Ain and Al Dharfa;
-in order to curb the spread of COVID-19, “it is prohibited to transfer workers from Abu Dhabi to other
-Emirates and vice versa (from other Emirates to Abu Dhabi Emirates)” with “immediate effect”.
-This particular edict had a detrimental impact on our progress and that of our subcontractors, resulting
-in a significant drop in manpower levels on the day the restrictions on travelling between emirates came
-into force. This is illustrated by the following comparison between the subcontract manpower numbers
-recorded on 7 April 2020 and those recorded on Saturday 11 April 2020 (refer to Table 1):
-Table 1
-COMPANY
-07-APR-20
-21-APR-20
-AL GHURAIR CONSTRUCTION 87
-77
-ASSA ABLOY / PROMETAL
-16
-16
-BAUER INTERNATIONAL 51
-36
-CHADWICK TECHNOLOGY
-6
-6
-CLOISALL (CEILING)
-59
-0
-CLOISALL (PAVILION) 13
-0
-DEEMAH STONE
-80
-22
-GULF PRECAST 8
-8
-INTERNATIONAL DECOR 23
-23
-JANGHO
-51
-36
-
-MOSART MARBLE & MOSAIC 79
-0
-NAFFCO
-107
-0
-OTIS 149
-85
-PCE JV 538
-42
-TOTAL: 1,267 351
-The information recorded in Table 1 serves to demonstrate a 72.3 % drop in subcontract personnel
-levels between 7 April 2020 [1,267 persons] to 21 April 2020 [351 persons], i.e. 916 persons less.
-We further note that the above figures do not take account to the delay and disruption caused to other
-resources as the police restrictions enforced at the border between Dubai and Abu Dhabi on 21 April
-2020 resulted in major traffic jams, severely impacting our own site personnel and site office staff also.
-in summary, we hereby notify you pursuant to Sub-Clause 2.26 of the Settlement Agreement and
-Amendment No. 8 (‘SAA8’) that the various events and circumstances described and detailed above,
-have delayed and disrupted the Works and invariably will critically delay the Time for Completion.
+We refer to our Delay Notice No. 0254 issued by way of letter ref: (1), notifying you of our entitlement
+to additional time and payment due to the “no show” on the part of CMA and Profire QC Inspectors to
+attend the WIR inspection scheduled on 2 April 2020 as a consequence of coronavirus (COVID-19)
+related issues.
+It has since come to our attention that the ADM inspections of the Plumbing Installations that were due
+to take place this week are also affected. Specifically, we have come to know that the ADM and AECOM
+inspectors have been advised to be tested for the coronavirus owing to suspicion as to their exposure to
+the virus. We believe that until such time as the results become available, they are all self-quarantining.
+The failure of ADM and AECOM inspectors to attend the site constitutes acts of prevention and/or
+breaches of Contract on the part of the Employer/Employer’s Personnel and/or Consultants, and as such
+we give you notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to
+claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Finally, in order to avoid a potential reoccurrence of the above on the part of AECOM inspectors, can
+you kindly advise the inspectors’ working arrangements going forward so that we can plan accordingly.
 Yours faithfully,

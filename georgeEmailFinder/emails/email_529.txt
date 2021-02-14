@@ -1,19 +1,108 @@
-Subject: Submission of consolidated list of the outstanding doors issues for clarification/confirmation by
-the Engineer
+Subject: Recovery of Overhead, Profit and Attendance due to the Omission of Defined
+Provisional Sum for Hotel Fit Out
 Dear Sir,
-Further to our letter referenced (1) and the email correspondences enclosed, we hereby submit as per
-your request the consolidated list of the outstanding doors issues which require clarification and/or
-confirmation by the Engineer.
-We reiterate that many issues remain unresolved including discrepancies between the Door Schedules
-and the SACS Schedules, as well as matters relating to fire life safety interface requirements. Therefore,
-the enclosed consolidated list has been prepared as a comprehensive schedule of issues, incorporating
-all of the latest comments, documents etc. issued by the Engineer and relates to the doors that remain
-outstanding.
-The Engineer is kindly requested to use the enclosed list of doors to confirm and/or clarify the
-information and officially issue it back to us by confirming and/or amending it respectively as per the
-Employer’s latest requirements.
-Once we receive the confirmation as discussed above and all technical issues are resolved, we will
-continue to work together to identify and endeavour to agree which changes (if any) have been
-subsumed by Settlement Agreement and Amendment No. 8.
-This is for your information, records and urgent action.
+We write in response to your letter reference (1) rejecting our claim for damages for breach of contract
+for instructing the omission of works for the purposes of giving that work to another contractor(s). As
+we have previously explained, it is considered a breach of contract for the Engineer to omit works to
+give to other contractors. (See references 2 and 5.) All of the counter arguments that you have made to
+date fail as a matter of law.
+First, you attempt to excuse your conduct by referring to the definition of "Variation" in Clause 1.1, i.e.,
+that a Variation includes "a) the addition, omission or substitution of any work or any part thereof". You
+read this provision as entitling the Engineer to omit works, for whatever, without consequence. This is
+wrong.
+Every single commentary, and every court that has interpreted such language, has come to the
+conclusion that "a provision giving the owner or his [engineer] a power to make omissions only
+contemplates genuine omissions, that is, works which it is intended should not be carried out at a11".1
+For example, in Carr v JA Berriman Pty Ltd, the contract contained a clause saying that: "The Arch itect
+may in his absolute discretion, and from to time, issue .... written instructions or written directions ... in
+regard to the ... omission ... of any work."'2 In holding that it was a breach of contract for the architect
+to invoke t his clause to omit works to give to other contractors, the High Court in Australia reasoned:3
+The clause is a common and useful clause, the obvious purpose of which - so far as it is
+re levant to the present case - is to enable the architect to direct additions to, or
+substitutions in, or omissions from, the building as planned, which may turn out, in his
+opinion, to be desirable in the course of the performance of the contract. The words
+quoted from it would authorise the architect (doubtless within certain limits, which
+were discussed in R v Peto (1826) 1 Y & J 37; 48 E.R. 577 to direct that particular items of
+work included in the plans and specifications shall not be carried out. But they do not,
+in my opinion, authorise him to say that particular items so included shall be carried
+out not by the builder within whom the contract is made but by some other builder or
+contractor. The words used do not, in their natural meaning, extend so far, and a
+power in the architect to hand over at will any part of the contract to another
+contractor would be a most unreasonable power, which very clear words would be
+required to confer. (Emphasis added.)
+Similarly, in Gallagher v. Hirsh,4 the contract provided that: "Should the [employer] at any time during
+the progress of the said building request any alteration, deviation, additions or omiss ions from the said
+contract he shall be at liberty to do so,[ ... ]." In finding that the employer breached th e contract in
+omitting this work
+to award to another contractor, the Appellate Division in New York State held that:
+The words are, 'additions or omissions from the said contract,' evidently meaning
+additions t o or omissions from t he work to be done under said contract, which clearly
+negatives the idea that they were intended to mean that the [employer] should have
+the right to omit the work from the plaintiff's contract, in order to give the contract
+to another to do the same thing. (Emphasis added.)
+
+Thus, established law clearly holds that Clause 1.1 cannot be invoked to support the Engineer's position.
+Indeed, this body of law is explicitly acknowledged in COC Clause 22.2.4, which the Engineer has refused
+to consider or address. (See re ference 5 wherein the Contractor explained the significance of this
+provision.)
+As we have previously explained, Clause 22.2.4 would have been unnecessary if the Cont ract provided
+the Engineer the right to omit works to give to other cont ractors. It further demonstrat es that the
+Parties knew how to expressly provide the Employer this right when they intended to do so. Indeed, if
+the Employer could omit works for whatever reason, Clause 22.2.4's grant of authority to omit works for
+cause would be entirely redundant for the autho rity already confe rred under Clause 1.1. Even more, t
+he Engineer could avoid the Contractor's procedural protections afforded by Clause 22.2.2 by instruct
+ing a simple omission under Clause 1.1. Thus, the Engineer's interpretation co uld not have been what
+the Parties intended .
+Second, the Engineer cl aims that the defin ition of "Defined Provisional Sum" supports its position. The
+Contract defines "Defined Provisional Sum" in Clause 1.1 to mean "a sum included in t he Contract Price
+...
+for the execution of any part of the Works ... which sum may be used, in whole or in part, to not at all,
+on
+the instructions of the Engineer." As you have previously st ated, this too means that the Engineer can
+omit
+such works, fo r whatever, without consequence.
+The authorities are again in agreement that th is language does not permit th e Engineer to omit Defined
+Provisional Sums in order to award that work to other contractors. To the contrary:
+Provisional sum work has been treated as definitive and not contingent, so that its
+omission under a power to vary, if intended to have t he work done by another
+Contractor, has been held to be outside the power and in breach of contract entitling
+t he Contractor to damages.5
+For example, in Hydro Holdings, the contract included a provisional sum for a nominated subcontractor
+but
+the employer directly awarded the subcontract to another contractor. In holding that the employer's
+omission of provisional sum work to reallocate to another contractor constituted a breach of contract,
+the
+Court held that:
+Under the terms of most contracts, an employer who exercises a power to omit work
+must genuinely require the work not to be done at all, and cannot exercise such a
+power with a view to having the work carried out by someone else.5
+Similarly, in Amec Building Limited v Cadmus Investments Co Limited, the employer omitted work
+relating to
+a provisional sum and later awarded it to a third party. The court noted that the contract provided the
+architect "the power ... in his sole discretion to withdraw any work from provisional sums for whatever
+reason if he considers it in the best interests of the contract or the employer so to do." Despite this, the
+court affirmed the award of lost profits for the omission of provisional sum work to give to another
+contractor .7
+It is therefore resoundingly clear that the Engineer's interpretation of the term "Defined Provisional
+Sum"
+does not support the Engineer's position.
+Last, the Engineer attempts to rely upon BOQ, Schedule 6, Preamble 12 which states that "[t]he Co
+ntractor
+shall not be entitled to payment for profit and overheads on the value of any omitted works." First, this
+
+clause is inapplicable because the Contractor is seeking damages for a breach of contract and not for an
+omissions. As Emden's Commentary notes, "if an omission takes away work in order to have it carried
+out by
+another contractor, it seems unlikely this will be a variation, but will be a breach of contract."8 As such,
+this
+clause is not relevant and does not exculpate the Employer from paying the Contractor what is due as a
+matter of law. In any event, for the same reasons explained above, the words "omission" within
+Preamble
+12 does not extend to this scenario and, thus, Preamble 12 is simply not relevant.
+***
+The Engineer's letter is not only devoid of legal support, it is refuted by all legal sources that have
+addressed
+the language that the Engineer invokes to support its position.
+Given this, the Contractor requests a meeting to discuss a path forward in resolving this dispute, and the
+Contractor's related claim stated in Reference 5.
 Yours faithfully,

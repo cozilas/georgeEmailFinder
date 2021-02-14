@@ -1,76 +1,128 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0216
-GF Signage WIR at C11 Hold Room 501 – Unreasonable Status Code 3 Comment on WIR-FIN-36699 –
-Request for Engineer’s Instruction and Variation Order
-Dear Sir
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0212
+Engineer’s unreasonable comments annotated on NCR-01462 - Gaps Between Type-3 Glass Down Stand
+and GRC ceiling located at the RCP artwork CP L2.0 – Request for Engineer’s Instruction (EI) and
+Variation Order (VO)
+Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concerns delays to the Works due to the Engineer’s unreasonable
-Code 3 response to WIR-FIN-36699 associated with a request to clarify the correct location of signage.
+The matters discussed in Annex A hereto, concern delays associated with the receipt of unreasonable
+comments endorsed on the Non-Conformance Report (NCR) ref: (1), associated with the Gaps Between
+Type-3 Glass Downstand and GRC ceiling panels, located at the RCP artwork CP Level 2.
 Potential Impact
 Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 14 November 2020, we received your Status Code 3 response to Work Inspection Request (WIR) No:
-WIR-FIN-36699 Rev. 01 pertaining to ‘Installation of Signage Structure with Fascia, utilities & equipment
-except FIDS type GF (WF-PC-L2.0-37, WF-PC-L2.0-039) – Ground mounted in Pier 2 L20, Room 0832,
-
-Pavilion C11, Holdroom C39, Grid Lines E28 – E23’. [TCA JV – if this issue relates to C39 and C41 signage
-than why are the e-mails between you and CMA entitled Signage at C11 Holdroom? Please clarify]
-The CMA Inspector Comments are reproduced in Figure 1 below.
+We write to notify you of our concerns in relation to the receipt on 22 October 2019 of the following
+comments detailed within Non-Conformance Report (NCR) No: MTC-CMA-0401-CM-NCR-01462 (ref: 1),
+associated with a purported non-conformance, namely: ‘Gaps between Type-3 Glass Down Stand and
+GRC Ceiling’ located below the RCP Artwork void at CP Level 2 (refer to Figure 1 below).
 Figure 1
-Particular attention is drawn to the penultimate comment (item 8) which states: “C39 & C41 signage are
-installed at the Holdroom/Gatehouse # C39, contractor to clarify which is the correct signage.”
-We are surprised to receive such a comment, i.e. requesting us to “clarify which is the correct signage”
-especially considering that the signage has been installed in accordance with the IFC Design Drawings.
-Our e-mail dated 21 January 2020 [8:17 AM] is synonymous with this very point; recording that having
-followed the IFC and approved Shop Drawings, “can you please clarify why we are getting code 3?”
-However, in your subsequent e-mail dated 2 February 2020 you advised the following:
-“We have done our inspection and we address the comments and we done a follow up site walk on site
-found the same. We are clarifying the correct signage to be installed on site.
-The installation is as per IFC and approved shop drawing, however the actual installation is incorrect
-signage pertaining to the actual area.
-Can you please provide any documents other than the IFC and Shop Drawing, e.g RFI is any.”
-We are appreciably confused by this statement. On the one hand, you acknowledge “The installation is
-as per IFC and approved shop drawing” yet on the other hand you state that “the actual installation is
-incorrect signage pertaining to the actual area”. Either the signage is correctly installed in the correct
-area as per the IFC Drawings and approved Shop Drawings, or it has not. In our view, it has. However,
-this comment appears to suggest otherwise. And we fail to see the relevance of providing “any RFI”?
-If you allege that the installation of noted signage is incorrect in any way, either in terms of the physical
-installation and / or the area or location where it is installed, then the burden of proof remains on you
-to support such allegation and to specify – in clear unambiguous language – how it is incorrect?
-However, in your e-mail dated 2 February 2020 you failed to do so. This caused us to raise a further email dated 2 February 2020 [2:21 PM] asking you to clarify how the signage installation is wrong:
-‘We are following official documents and IFC and SD are official documents. Please provide us an official
-document showing that these signage installation is wrong.’
-This is not an unreasonable request to make. It is unfortunate therefore than rather than issue a clear
-definitive response, your further e-mail dated 2 February 2020 [4:57 PM] states [ambiguously]
-‘The official documents that we provided is the comments on WIR, we already done the inspection via
-WIR. Please comply with our comments and justify.’
-We are extremely surprised by your response. We simply made the point that we have complied with
-the IFC and Shop Drawings – which we consider to be ‘official documents’ – yet you refer back to the
-WIR? To put it simply, you have issued a comment in reply to WIR-FIN-36699 Rev. 01 regarding either
-the alleged incorrect installation or location of the signage. All we asked was for you to clarify how the
-signage installation or location is incorrect. We have advised you that we have complied with the IFC
-Design Drawings and approved Shop Drawings, yet you continually fail in advising us that it is incorrect.
-However, having challenged your Code 3 comment asking for direction, not only you have asked us to
-provide any RFI or other documents in order for you to justify why the signage is incorrect, but expect us
-to comply with your comments and for us to justify why the signage location or area is incorrect.
-At the risk of being repetitive, if you allege that the installation of the noted signage is incorrect in any
-way, either in terms of the physical installation and / or the area or location where it is installed, then
-the burden of proof remains on you to support such allegation and to specify how it is incorrect. It is not
-for us to try and interpret, second guess or assume what you mean, when your directions are unclear.
-Please therefore address this matter forthwith and if any change is required to the location and / or the
-installation of the noted signage, then you are requested to issue us an EI and / or variation Order.
+It is alleged that the gaps between Type-3 Glass Down-Stand and GRC Ceiling do not comply with
+approved Shop Drawings and that the brackets within the gaps are visible from below. Attached to NCR01462 were a series of photos. A further photo [not attached] is reproduced in Figure 2 below;
+Figure 2
+The issue subject to NCR-01462 was originally detailed in Site Memo No: MTC-CMA-0401-QC-MEM02713 received on 17 January 2018, but as noted your subsequent comments issued to us on 18 January
+2019, “This Site Memo is converted to NCR (MTC-CMA-0401-CM-NCR-01462).” We note that NCR-01462
+formalising the alleged non-conformance was not issued to us until 22 October 2019.
+Attached to NCR-01462 is the following:
+•
+A series of seven (7) photos showing the gaps between Type-3 glass and GRC ceiling located
+below the RCP Artwork void at CP Level 2 (refer to Figure 3 for indicative examples);
+•
+Extracts from Shop Drawing No: 401-AG-A-03-20-5.17C-GS-SD-001-Rev 03 ‘Type 3 Glass Down
+Stand Partial Plan & Section Level 2.0 Sector 5.17C’, classified Code 2 ‘Exemptions As Noted Revise &
+Resubmit For Record’ of Details 3, 4 and 5 (Figure 4 refers); and
+•
+Extract of Details 1 and 2 from Shop Drawing No: 401-AG-A-08-00-0.00-GS-SD-054-Rev 01 ‘Type
+3 Glass Down-Stand Vertical Details’, which was approved Code 2 (Figure 5 refers).
+Figure 3
+Figure 4 – Shop Drawing No: 401-AG-A-03-20-5.17C-GS-SD-001-Rev 03
+(Type 3 Glass Down Stand)
+Figure 5 – Shop Drawing No: 401-AG-A-08-00-0.00-GS-SD-054-Rev 01
+(Type 3 Glass Down Stand Vertical Details)
+We note that in NCR-01462 you advise us of “the gap between glass Type-3 Down stand (GLZ-11)” and
+at the same time you state that the “GRC ceiling does not comply with approved shopdrawing”.
+However, what you failed to state is that the particular “Shop Drawing” you are referring to, is the two
+Shop Drawings mentioned above, which relate to the Composite Cladding and Internal Glazing only
+(executed by M/s Al Ghurair) and not the GRC ceiling works (executed by M/s Gulf Pre-Cast).
+This is evident from Details 3, 4 and 5 of Shop Drawing No: 401-AG-A-03-20-5.17C-GS-SD-001-Rev 03
+(Figure 4), enlarged extracts of which are reproduced in Figure 6 below, where each of the typical
 
-Meanwhile, until such time as further clarity is provided by you in respect of this signage, then this WIR
-remains open and the act of prevention on your part will no undoubtedly contribute in delaying the
-close out of inspections of the signage within the Terminal Building. If this continues, then this will
-invariably impact upon our ability to achieve Milestone MS09B and Substantial Completion (MS09C).
+sections state that “GRC PANELS BY OTHERS/TCAJV”. Consequently, the works related to GRC ceiling
+panels, do not form part of the two Shop Drawings referenced in NCR-01462 (Figure 4 and Figure 5).
+Figure 6
+In which case, your comment alleging that the “GRC ceiling does not comply with approved
+shopdrawing”, is misleading since the GRC Ceiling Shop Drawings are prepared separately and the
+related works associated with the actual GRC ceiling panels subject to the NCR [executed by M/s Gulf
+Precast] are subject to other Shop Drawings. Accordingly, the GRC ceiling panels have actually been
+constructed as per GRC Ceiling Shop Drawing No: 401-GP-A-06-TP-5.00-PRB-SD-1866-Rev 02 (Figure 7
+refers), which has been prepared, submitted and approved with Status Code 2 via email (attached to
+Annex B hereto), dated 22 November 2015 [Sunday 2:32 PM].
+Figure 7 – Shop Drawing No: 401-GP-A-06-TP-5.00-PRB-SD-1866-Rev 02
+(GRC Ceiling Panels)
+In this regard, it is worth noting that the GRC Ceiling Panel Shop Drawing (Figure 7 refers) has been
+prepared based upon and adheres to IFC Drawing No: MTC-A-51-TB-L_._-_._-00.118-V00, ‘GLASSSCREEN-ART-WORK-VOID-SET-OUT,-TYPE-3’ (Figure 8 refers).
+Figure 8 – IFC Drawing No: MTC-A-51-TB-L_._-_._-00.118-V00
+(Glass Screen Art Work Void Set Out)
+In addition, the Section Details (‘Section Detail 2 & 3’) in IFC Drawing No: MTC-A-51-TB-L_._-_._-00.118V00 (Figure 8), in fact specify voids between the suspended Type 3 glass Down Stand and GRC ceiling
+panels. The void indicated in Section Details 2 & 3 of the said IFC Drawing, can be clearly seen and is
+highlighted in Figure 9 below. Essentially, the IFC Design indicates that that such voids or gaps will in
+fact exist between the suspended Type 3 glass down stand and GRC ceiling panels, due to the geometry
+and the distribution of each element installed as per the Design. Simply, some locations between the
+Type 3 glass down stand and GRC ceiling will consist of voids and some will not, and this is a result of the
+Design provided by you. Accordingly, this addresses and responds to your NCR ref: (1) comments
+wherein you stated that “The size of the gap is varying from no gap to a large gap.”
+Moreover, the GRC ceiling panel width is at 775mm and does not change throughout the perimeter of
+the GRC ceiling panels placed around and under the L10 RCP artwork, which are installed next to the
+suspended glass down-stand below the highest point of the GRC. As a result shopdrawing ref: 401-GP-A06-TP-5.00-PRB-SD-1866-Rev 02 for the GRC ceiling panels (Figure 7 refers), has been prepared in the
+same manner keeping the width of the GRC ceiling panels at 775mm as shown in Figure 10 below.
+Moreover, as per ‘Section Detail 2’ (Figure 9 refers) of the IFC Drawing, the brackets are exposed and
+visible and no additional closure is indicated to be installed thereto.
+Figure 9 – Extracts from IFC Drawing No: MTC-A-51-TB-L_._-_._-00.118-V00
+Section Detail 2 and Section Detail 3
+Figure 10 – Extract from Shop Drawing No: 401-GP-A-06-TP-5.00-PRB-SD-1866-Rev 02
+Sections 1-1 & 2-2,
+Moreover, the approved Shop Drawing No: 401-GP-A-06-TP-5.00-PRB-SD-1866-Rev 02 Section AA & BB,
+provides the scallops’ details, with the levels, i.e. levels’ differences from edge point to the middle point,
+the dimensions to each point of the sloped scallops respectively, the scallops’ geometry etc. as shown in
+Figure 11 below.
+Figure 11 - Extract from Shop Drawing No: 401-GP-A-06-TP-5.00-PRB-SD-1866-Rev 02
+Sections A-A & B-B
+
+In effect, when combining all the information provided in the IFC Drawings and the approved Shop
+Drawings, considering the specified size of the glass down stands and the GRC ceiling panels, together
+with the geometry and the level differences of the scallops, then after combining all these elements
+together, it results in various gaps between the suspended glazing and the GRC ceiling panels.
+In summary therefore, based on the foregoing analysis, it is evidently clear that the gaps mentioned in
+your NCR comments, are a result of combining all these dimensions, sizes and geometries as indicated in
+the Design Intent, the Design, IFC Drawings and Shop Drawings, as outlined above.
+On this basis, we consider your comments annotated upon in NCR-01462 to be both unreasonable and
+misleading; and therefore in consideration that the said Works have been constructed as per the
+approved Design, then we kindly request you to close out NCR-01462 as soon as possible.
+We note at present it remains unclear from the NCR comments whether or not you wish to instigate any
+changes to the existing design and our Work scope. If this is indeed the case, and you wish to modify the
+design, this will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
+In which case, as you know, SAA8 laid down strict guidelines to follow if additional works are required
+and this appears to have been ignored. We therefore take this opportunity in reminding you of the
+provisions of Clauses 2.29 to 2.31 of SAA8 pertaining to Variations, in so far as we are not to proceed
+with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
+respect, it is your obligation to issue this Record first if you wish to instigate any change; and this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Despite this event having it origins in 2018 [as noted above], we wish to make it clear that its cannot
+possibly be construed as forming part of or ‘Included Circumstances’ (per Clause 1.7.4 of SAA8) and will
+be included within any forthcoming Time Impact Analysis, albeit in recognition of the Effective Date
+included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8 cannot reasonably
+be interpreted as requiring the Contractor to absorb delays of unknown (possibly unlimited) duration
+occurring pre/post 4 September 2018, particularly where the resolution of the matter causing the delay
+lies with the Employer. We contend therefore that under the circumstances the responsibility, under
+the Contract (as amended by SAA8), for such delays lies with the Employer.
 Yours faithfully,

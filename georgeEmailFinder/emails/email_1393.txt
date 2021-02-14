@@ -1,32 +1,72 @@
 Dear Sir,
 
-The Contractor refers to its Notice of Claim Nr 30 (the "Notice") issued under cover of reference 1.
+It has been brought to the Contractor's attention that the Employer and the Engineer's Assistant are of
+the view that the costs of employing a Design Verification Engineer ("DVE") to review and verify
+Provisional Sum works are deemed to be included within the initial Contract Price (defined as the
+Contract Price as of the date of the Letter of Acceptance) and are not deemed to be covered within the
+Provisional Sums included within the Accepted Contract Amount.
 
-However, with respect to subject matter of the aforementioned Notice, the following relevant issues
-have now come to the Contractor's attention:
+However, it is the Contractor's position that the aforementioned view of the Employer and the
+Engineer's Assistant is incorrect. This is because the Contract does not state that the costs of employing
+a Design Verification Engineer to review and verify Provisional Sum works are deemed to be included
+within the Contractor 's initial Contract Price.
 
-1.
-The Contractor's MEP Designer, Messrs WS Atkins Overseas, has now advised the Contractor
-(via the farmer's attached letter of 23 September 2015 reference M006-ATK-COM-LTR-00685) that it is
-now able to hold its initial price of QAR 13 million for the design of the 3 above Stations (included within
+In an attempt to further the Employer's case, clause 9.1.2.5 f ii H of Volume 2 of the Contract has been
+quoted to the Contractor . However, it is this clause which confirms that the Contractor's
+aforementioned position on this matter is correct. Clause 9.1.2.5 f ii H (first sentence) states that " The
+Design Verification Engineer'sscope of work will apply to all defined works within the Accepted Contract
+Amount, covering both the lump sum and the Provisional Sum portions of the Accepted Contract
+Amounf' (emphasis added).
 
-its Subcontract) if it is instructed to proceed with same by 30 November 2015, notwithstanding the
-original Subcontract latest instruction date of 31 August 2015.
+The "Accepted Contract Amount" is the summation of the Contract Price (as of the date of the Letter of
+Acceptance) and the Provisional Sums. This is clear from (1) the definition of the "Contract Price" within
+Sub- Clause 1.1.4.2 of the General Conditions of Contract which states that the " Contract Price as of the
+date of Letter of Acceptance, means the Accepted Contract Amount less Provisional Sums..." and (2)
+Sub-Clause
+1.1.4.1 of the General Conditions of Contract which states that the "Accepted Contract Amount means
+the amount stated in the Letter of Acceptance ..." Schedule B of the Letter of Acceptance states that the
 
-2.
-Following the Contractor's programming re-assessment, the longstop date for an instruction
-from the Engineer to proceed with the MEP design to the said 3 stations so that no delay is incurred to
-the completion of the Stations' Designs by their respective Time(s) for Completion, is 25 October 2015.
+Accepted Contract Amount of QAR 12,256,005,898 is equal to the summation of the Contract Price of
+QAR 5,945,936,898 and the Provisional Sums amount of QAR 6,310,069,000. Accordingly , the quoted
+extract from Clause 9.1.2.5 f ii H of Volume 2 of the Contract confirms that the scope of verification by
+the DVE within the Contract is the scope of defined works covered by the Accepted Contract Amount,
+i.e. the scope of works contained within the initial Contract Price and the scope of works contained
+within the Provisional Sums.
 
-Consequently, for the above reasons, the Contractor now withdraws Notice of Claim Nr 30.
+ALYSJ
+joint venture
 
-However, the Contractor still provides, via this letter, its notice in accordance with General Condition
-("GC")
-8.3.7 of the probable future event or circumstance which will affect the Contract Price and delay
-execution of the Works if the Contractor does not receive the Engineer's instructions by 25 October
-2015, pursuant to GC 13.7.1, to execute the MEP designs to the 3 above mentioned stations.
-Dear Sir,
+Clause 9.1.2.5 f ii H (last sentence) further states that "...The Accepted Contract Amount includes the
+DVE's full scope of work which includes checking and certifying the provisional sum elements of the
+Works" (emphasis added). This sentence of clause 9.1.2.5 f ii H demonstrates that the Accepted Contract
+Amount, not the Contract Price, includes for the cost of the DVE scope of works in connection with the
+Provisional Sums as the Accepted Contract Amount includes the Provisional Sums scope of works.
+Consequently, the cost of the DVE scope of works in connection with the Provisional Sums is deemed to
+be included within the Provisional Sums and not within the Contract Price. If the Employer required the
+Contractor to have included for the cost of the DVE scope of works in connection with the Provisional
+Sums within the Contract Price and did not intend for such DVE costs to be deemed to be included
+within the Provisional Sums then the aforementioned extract from Clause 9.1.2.5 f ii H should have
+included reference to "the Contract Price" in lieu of reference to "the Accepted Contract Amount. " In
+other words, had clause 9.1.2.5 f ii H stated 'The Contract Price includes the DVE's full scope of work
+which includes checking and certifying the provisional sum elements of the Works' the Contractor would
+have been obligated to have included within the Contract Price for the cost of the DVE scope of works in
+connection with the Provisional Sums.
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the variation is provided below.
+The Employer and the Engineer's Assistant are aware that the Contractor 's current Subcontract with
+Mott MacDonald Ltd for executing the DVE services excludes the DVE scope of works in connection with
+the Provisional Sums. Now that Provisional Sums works are being undertaken the Contractor has to
+appoint a DVE to undertake the DVE scope of works in connection with the works covered by the
+Provisional Sums. As the costs of the DVE scope of works in connection with the Provisional Sums' scope
+of works are included within the Provisional Sums and are not deemed to be included within the
+Contract Price, the Contractor therefore requires the Engineer's Assistant's instruction by return under
+Sub-Clause 13.7.1 of the General Conditions (Volume 3) of the Contract to instruct the expenditure of a
+Provisional Sum, in part, for the appointment of a DVE to carry out the DVE scope of works in
+connection with the Provisional Sums. This may include an instruction from the Engineer's Assistant to
+proceed in accordance with the Provisional Sum procurement protocol contained within Appendix 6 of
+the General Conditions of Contract.
+
+The Contractor therefore looks forward to receipt of the Engineer's Assistant's instructions (together
+with receipt of the Employer's specific written approval of such instruction required in accordance with
+Sub-Clause 3.1.4(n) of the General Conditions of Contract) on this matter by urgent return.
+
 Yours faithfully,

@@ -1,46 +1,20 @@
-Subject: Engineer's Instruction No. 7768- Bullet in 262.2 - Pier 2 Grouting Works
+Subject Engineer's Delay Notification- Slow Progress to As-Built Submissions
 Dear Sir,
-We write with reference to your letters noted above. Engineer's Instruction (EI ) No. 776B enclosed
-with your above referred letter, instructed us to implement Bulletin No. 262.2 with immediate
-effect.
-The instruction contained fifty-seven IFC Drawings, consisting of one cover page, three index sheets
-(Index Sheets 1, 4 and 6; whereas Sheets 2 and 3 presumed missing), eleven coordinates sheets
-11II
-and forty-two detailed layout drawings to indicate the grouting point locations. There was no key
-IIII
-plan for the zones around Pier 2 Area, nor were they annotated by any means of a direction
-indicator, as all were rotated to fit the paper work-space.
-Within these fifty-seven (57) drawings, there are 14 completely new IFC drawings corresponding to:
-MTA Storm and Sewage (5 No Drawings: Drawing No 961 through 965),
-MTA Storm and Sewage Coordinates Table(s) (2 No Drawings: No. 967 and 968)
-MTA Utilities (5 No Drawings: Drawing No 981 through 985) and
-MTA Utilities Coordinates Table(s) (2 No Drawings: No. 987 and No. 988)
-Above referred drawings are adding 986 new grouting points, most being clouded to annotate
-"Subject to further review upon additional CPT information being provided. Will be updated in
-Future Bulletin". These new points are located adjacent to the services installed by the MTA
-Contractor, Larsen and Toubro (L&T), and it assumed the grouting is required to improve the
-ground conditions below these services.
-In past meetings both you and Employer's representative have stated that the subsidence around
-the building has been caused by the "groundworks, either cut or fill, done by TCA JV". When
-confronted with the fact that many other areas around the building not part of our Works have
-suffered and continue to suffer subsidence, we have been advised to ''demonstrate" . We submit
-that your instruction to grout under the installation of other contractors in an area that does not
-form part of our Site constitutes the required 'demonstration'.
-Setting aside the insufficiency of information provided we regret that we consider your instruction
-to be invalid as it exceeds the Engineer's Authority, in that it requires us to work in an area that is
-beyond our Site: we are not able to carry out any of the works implied by this instruction. Should
-the Employer desire this additional grouting to be carried out, we would expect that he direct you
-to issue us with an El providing fully detailed information including accurate as-built drawings and
-requesting us to provide a ROM in respect of the following:
-(i) a price for the additional works;
-(ii) a fragnet for the additional works; and
-(iii) the integration of the fragnet within Programme Rev 11.2 to demonstrate the
-effects (if any) on the Milestones;
-(iv) given the ongoing failures evident in the current installation, such a ROM would
+We write with reference to the Contractor's correspondence (1), regarding the slow progress with the
+As-Built submissions in response to our correspondence (2) and (3) .
+The Contractor is referred to correspondence (2) to (10) where the Engineer's concerns rega rding the
 
-exclude all costs and liability in respect of the removal and reinstatement of
-concrete apron, drainage and other works - we suggest these would have to be
-carried out by the original contractor.
-We advise that due notification be given to the Employer's insurer of these failing installations, as
-they will not be covered by the CAR Policy for this Project.
+Contractor's slow progress, poor quality of models, coord ination issues etc., have been recorded in
+detail. The Engineer retains and reiterates the position conveyed in the above referenced
+correspondence.
+We again refe r to the Contractor's As-Built Schedule Rev. 6.0 and Rev. 7.0 and the weekly updates
+provided to the Engineer for reporting progress. The Contractor has been failing to achieve t he
+planned monthly targets consistently and as a result the Contractor's As-Built Schedule Rev 7.0 has
+become redundant as noted in co rrespondence (2) and (3).
+We note t hat the Contractor has failed to submit drawings in a t imely manner as per Sect ion 0133 00
+requirements and has cont inuously slipped on t heir planned targets. Moreover, the Contractor
+continues to deviate from addressing t he act ual reasons for t heir delays and the on remedying t his
+situation despite the notifications issued by the Engineer.
+The Contractor is therefore requested to exert its efforts on completing the submittals in line with its
+submitted target (As-Built Schedule Rev.08) and mitigate the delays caused to date.
 Yours faithfully,

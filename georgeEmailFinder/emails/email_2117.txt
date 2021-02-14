@@ -1,27 +1,27 @@
 Dear Sir,
 
-The Engineer's Assistant (EA) refers to your letter at reference 1) above.
+N/A
 
-EA notes the content of your letter stating that "...the Contractor would like to confirm that there will be
-no cost or time savings associated with civil works." but reminds Contractor that the Contractor's Claim
-Number 40, referenced 2), claims for additionalcivil design.
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the var iation is provided below.
 
-In light of the above, EA requires the Contractor to submit a full and finalestimate in the form of
-quotation under Sub-Clause 13.2.2,which should include the following:
+The followi ng Employer's Requirement:
 
-(a)
+Volume 6, Employer's Requirements - Section 13, Item 13.3.3.12 Elevators, Escalators and Autowalks a) Design Philosophy (iii).
 
-a detailed scope of the Variation (including any drawings or technicaldetails);
+Autowalks shall be provided for the horizontal movement of passengers in the pedestrian tunnels,
+where people need to walk long distances. Autowalks shall be provided for pedestrian bridges exceeding
+40m length and that lead to station's remote entrances.
 
-(b)
+is amended as follows:
 
-a detailed breakdown of the price for which the Contractor would carry out the Variation;
-
-(c)
-
-the effect (if any)of the proposed Variation on the Time for Completion and the programme.
-
-Furthermore, EA reiterates that for proposed variations as well as for varied works the Contractor
-should use the contractual mechanism provided by Clause 13 and awaits the Contractor withdrawalof its
-Claim
+Autowalks shall be provided for the horizontal movement of passengers in the pedestrian tunnels,
+where people need to walk long distances. Autowalks shall be provided for pedestrian bridges and
+underpasses exceeding 100m length that lead to station's remote entrances. For bridges and
+underpasses between 40m and 100m in length the Contractor shall consider the maximum walking
+distance to the station, the catchment area of the station and the passenger numbers when deciding if
+an autowalk is required, and if there is not a requirement for an autowalk the contractor shall make
+passive provisions in the bridge/underpass structure to allow for the future installation of an autowalk.
+The runoff at either end of an autowalk shall be 6m, and if two or more autowalks are used in a
+structure the distance between them shall be minimum 12m .
 Yours faithfully,

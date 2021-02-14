@@ -1,10 +1,14 @@
 Dear Sir,
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
+both price
+and any potential time impact for a Variation proposed by the Engineer regarding work under the
+contract. The Variation as proposed:
+Contractor is instructed to include, as a new addition, the following requirements within Volume 5 SubClause 3.5.14
 
-The Engineer's Assistant acknowledges Contractor's letter as referenced above and provides clarification
-with regard to Engineer's Instruction 86. The SAP drawing CP0_14_74061 Rev V6_0 as referenced in
-Engineer's Instruction No.86 is replaced with SAP drawing CP0_14_74061 Rev V7_0 that was issued to
-Contractor under Employer's emailtransmittal MOOO-QRC-INFM-010596 dated 01 September 20 15.
-The Engineer's Assistant also acknowledges that Contractor is impfementing the SAP requirements for
-Bin Mahmoud Station in accordance with drawing CP0_14_74061 Rev V7_O as previously stated by
-Contractor under \ontractor's letter reference M006-GDB-ENG-L TR-00337 date 07 September 2015.
+Volume 5,Sub-Clause 3.5.14
+Lot 2.2 , Al Sadd Station, entrance adjacent to Al Shamouk tower, provision for vertical transportation
+will be 2 escalators and 1 elevator as per attachment.
+
+The
+ntractor shall submit the quotation within 14 days from receipt ofrth:-i':s"" d:i:r:e-"c:"t..i.o,rn- .------------ For an on behalf of the Engineer
 Yours faithfully,

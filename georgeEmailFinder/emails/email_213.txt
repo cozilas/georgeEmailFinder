@@ -1,27 +1,32 @@
-Subject MTB Chilled Water Piping Rectification Works Due to Settlement of External CHW
-Piping-Request for an Engineer's Instruction
+Subject Delay Notification - Failures to Submit WIRs with Complete and Correct
+Documentation
+Cross Ref. None
 Dear Sir,
 
-We write with reference to correspondence (1) in relation to the above subject and we note that an
-Engineer's Instruction is not required to be issued as according to Clause 3.1 C of Section 017700 of
-the Specification it is the Contractor's responsibility to rectify any defect in the system and ensure that
-all the systems and equipment are maintained properly.
-Further, we highlight that the Contractor has neither investigated the root cause nor provided any
-substantial evidence to prove that the leakage was caused due to subsidence around the external pipe
-installed by the Other Contractor as stated in correspondence (1). The Engineer has previously
-requested the Contractor to excavate the external area where the thrust block has been installed and
-to carry out a survey to assess any possible settlement in the installed external CHW network,
-however, the Contractor has not proceeded accordingly.
-With regard to the lay-up chemical, and as you are aware, this had to be added based on the
-recommendation of the specialist water treatment company employed by ADAC/DCP as a preventive
-measure. This was introduced to avoid any possible contamination of the entire MTB/DCP CHW
-network that would lead to a full system flushing and indirectly impacting the cooling to the MTB
-building. Until such time the Contractor evidences that they are not responsible for the defect, the
-Contractor shall be responsible for the cost associated with the rectification. The quantity of chemical
-to be added has been reduced based on the several discussions ADAC/CMA/CxA and the DCP
-Contractor had with M/s. Cooltech.
-Currently, the rectifi cation works for the leaking BTU meters have been completed successfully;
-however should any subsequent defects manifest as a result of exte rnal subsidence, the Cont ract or
-remains responsible to address any defective ground and infrastructure supported thereon and at
-their own cost.
+We record our concerns regarding the Contractor's failure to raise Work Inspection Requests with
+complete and correct documentation. The Contractor was advised in the past on the issue of missing
+and/or incomplete documentation that are required to be submitted with the WIRs in accordance
+with the Project's procedures. However, the Contractor has failed to act in addressing this issue.
+Recently, the Contractor has submitted further WIRs that are not compliant to the Project's
+procedures. For instance, the Contractor has issued WIR-YOU-00029 with incorrect inspection
+description for Electronic Display (ED) and ITP for the ED and was used for the inspection of the BRS
+BLP Enclosure. The applicable Shop drawings were also omitted.
+We record that although the ITP used for the inspection is not correct for the installation, the
+Contractor has acknowledged that the items being offered for inspection are ready for Engineer's
+inspection. This casts doubt on the extent of the Contractor's QA verifications related to non relevant
+construction activities such as "Wall is cleared without re-bars ... ", "height is maintained at all points
+... ", "Adequate Hilti Chemical bolts to be provided" which are not applicable to a wheeled, floor
+standing enclosure.
+These along with other discrepancies were noted and brought to the Contractor's attention.
+However, the Contractor chose to ignore the Engineer's comments and issued WIR-YOU-00030 and
+WIR-YOU-00031 without rectifying the Engineer's earlier comments. In particular, we also record the
+Contractor's failure in obtaining the Engineer's approval for all applicable engineering and
+construction documents. The Engineer notes that the works were performed by the Contractor
+without an approved Installation Method Statement. The Contractor remains responsible for all rework
+requi red to bring the works into compliance when the documents are submitted and approved.
+Another example is the Contract or issued WIR-S ITA-00417 and WIR-S ITA-00425 without submitting
+the approved BRS IP54 En closure WIRs and the detailed drawings for the system being offered for
+inspect ion. The description for the works to be inspected for WIR-SITA-00417 reads "Mock Up - Site
+Installation of BRS Rugged Workstation Enclosure IP 54", however, the works offered for inspection
+are the BRS workstation and peripherals.
 Yours faithfully,

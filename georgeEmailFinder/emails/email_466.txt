@@ -1,25 +1,125 @@
+Subject:
+Sector 5.18 & 5.23
 
-Subject: Clause 27.1.1: Notice of Claim, Delay Notice SAAB-0020-ICT-WLAN-ETIHAD
+Letter of Justification of Concrete Lid Slab under Escalators and Stairs at CP L2.0
+
 Dear Sir,
-Lounges- Supply of Wi Fi Access Points
-We acknowledge receipt of your letter reference (1} and provide our detailed response below.
-We note your comments concerning the procedure set down in Clause 2.26 of the Settlement
-Agreement and Amendment No. 8 ('SAA8'} and we have now put measures in place to ensure that we
-comply with this process.
-It is, however, our view that SAA8 does not obviate the requirement for the Contractor to issue a notice
-of claim for extension of time and/or additional costs in circumstances where the Contractor's progress
-of the Works is adversely affected by a breach of Contract or an act of prevention (such as in the
-circumstances which form the subject matter of our letter reference (2}). In such instances, while we will
-certainly bring the matter to the attention of the Engineer and the Employer by way of the SAA8 Clause
-2.26 email notice procedure, we are of the view that we are also obliged to issue a parallel notice under
-the provisions of Clause 27.1 of the Contract. Should we be incorrect on our understanding of t lh is
-matter, we would be obliged if the Employer would issue a letter confirming that the notices
-requirements under Clause 27.1 of the Contract are superseded by the provisions of SAA8 and are thus
-rendered redundant.
-In the meanwhile, your reminder to us concerning the procedural requirements set down in the
-Contract governing claims is noted, and we will endeavor to comply with these. More importantly (in
-our view), in keeping with the purpose and spirit of SAA8 we intend to keep the Engineer and the
-Employer appraised (including by way of the Risk Mitigation Meetings) of the impact of any delays such
-that these can be investigated in a timely manner and dealt with appropriately by the responsible Party
-(or Parties) .
+With reference to the above subject and the emails enclosed herewith requesting us to provide further
+explanation on the matter; we hereby provide the history of events associated with the works as per the
+subject matter:
+•
+Based on the Design as per IFC Drawings series ‘G’, the works for fire compartmentation under
+the escalators and stairs at CP L2.0 Sector 5.18 & 5.23, consist of a 2-hour fire resistance rating. The IFC
+Drawings however, do not specify the type of material or system to be used for the 2-hour fire
+resistance rating (i.e if it is a lid system with gypsum or concrete or any other material or any other
+system);
+•
+As a result, due to the inefficiencies in the Design and the incomplete information provided to
+us in the Contract, we raised the RFI referenced (1), requesting more clarity in regards to the 2-hour fire
+resistance rating to be constructed, at the mentioned locations;
+•
+Specifically, with RFI 7941 we requested clarity on:
+(i)
+how the drywalls under the escalators and stairs will be structurally supported on the top; and
+(ii)
+what are the exact compartmentation requirements within the drywalls under the escalators
+and stairs.
+•
+In accordance with the Fire Strategy Report [Volume 3 of 4 DESIGN REPORTS Book 20 of 24], a 2hour fire resistance rated system must be constructed under the escalators and stairs. As stated above,
+the IFC drawings do not provide details in regards to the system and material to be used. Therefore, the
+mentioned RFI was raised to provide more clarity on the Design. In the said RFI, we also requested the
+Engineer to issue IFC drawings based on the requirements accordingly;
+•
+The Engineer responded to the RFI indicating a 2-hour fire resistance rated gypsum lid system,
+with steel structural framing, as shown in the drawing ‘ASK 1782’, attached in RFI 7941 (also enclosed
+herewith). Please note that the system shown in the drawing ‘ASK 1782’ has never been issued to us as
+an official Engineer’s Instruction (EI). Also, the Engineer responded to our comments about the
+structural support on top of the drywalls by clarifying that the drywalls must be extended to the
+underside of the fire rated ceiling below the escalators;
+•
+We note that RFI 7941 was issued and was responded incorporating information only for the
+escalators and stairs at CP L2.0 Sector 5.23. We also note that the escalators and stairs at CP L2.0 CP
+
+Sector 5.18 have similar function with the escalators and stairs of Sector 5.23. However, the Engineer
+did not specify in its RFI response about the requirements of the 2-hour fire resistance rating at Sector
+5.18;
+•
+Subsequently to the RFI response, we had meetings for Briefing Pack (BP) 12 and 16, where we
+discussed the requirements for the 2-hour fire resistance rated system and we requested further
+clarification for the system required at Sector 5.18;
+•
+During the BPs mentioned above, we were provided with sketches ‘ASK 3184 BP 16 (Sheet 02 of
+03)’ enclosed herewith, which also show a 2-hour fire rated lid system under the escalator and stairs at
+sector 5.18, but did not provide any information on the material to be used;
+•
+It is a common practice between the parties during the BPs, to jointly sign sketches which are
+then subsequently used for implementation of the works on site. In this case during BP 12 and 16, we
+did not sign any sketch. As per the Engineer’s explanation during the meeting, a new Bulletin would be
+issued, providing an Engineer’s Instruction for these works accordingly;
+•
+We put on record that Bulletin 218 (B218) which was issued after the BPs 12 and 16, did not
+include any drawings or further information as previously informed by the Engineer, for the 2-hour fire
+rated lid system. We enclosed herewith, the Minutes of Meeting of 3rd November 2016, where this
+issue was discussed and as seen in item 40, the Engineer stated that “-all other outstanding arch
+sketches mentioned in the above list dated 160816 (except the 3 nos Gas and downstand) will be issued
+in a new bulletin”. Please note that the sketches mentioned by the Engineer in the above MoM, are yet
+to be received.
+•
+In addition, please note that the Design of the Glass Reinforced Concrete (GRC) Arrival tunnel
+shown in IFC drawing ref ‘MTC A 07 TB L 00. 456.00’ from Level 3 to Level 1, does not indicate any
+structural support for the GRC tunnel, apart from the structural slab on level 2. As per the IFC Drawings,
+we note that the only support for the GRC’s structural load (which is significantly heavy), would be from
+the lid system to be constructed, under the escalator and stairs. Therefore, it is an undisputed fact that a
+lid system incorporated by gypsum material, would not have been sufficient to take the structural load
+of the GRC tunnel;
+•
+For the reasons stated above, we had further meetings with the Employer, where it was agreed
+to proceed with a 2-hour fire rated concrete instead of a gypsum material in both locations at CP L2.0
+Sector 5.18 and 5.23. The main reasons which a decision was taken by the parties to proceed with a
+concrete solution, for the 2-hour fire rated lid system instead of gypsum as initially discussed in RFI
+7941, are the following:
+(i)
+due to the significant heavy load of the GRC arrival tunnel which would be supported by the
+concrete lid system under the escalators and stairs;
+(ii)
+the works have been expedited using concrete instead of gypsum since concrete can be
+constructed faster; and
+(iii)
+the MEP services can be hanged from the concrete lid system but not from a gypsum lid system.
+•
+In light of the aforementioned, it has been jointly agreed with the Employer, to proceed with the
+works of a 2-hour fire resistance rated concrete lid system in both locations at CP L2.0 Sector 5.18 &
+5.23;
+•
+Consequently, the shopdrawings for the ‘General Arrangement’, ‘MEP’ and ‘Structural works’
+have been submitted incorporating the 2-hour fire resistance rated concrete lid for approval, which has
+been constructed. However, the comments received by the Engineer and the Engineer’s Design
+Consultant for the shopdrawings of ‘General Arrangement’ and ‘Structural works’ have been code 3. The
+Engineer’s reason providing code 3 for the aforementioned submitted shopdrawings ref
+‘SDS/0401/S/4092-00 & SDS/0401/S/4096-00’, has been due to the Engineer’s response in RFI 7941,
+requesting a 2-hour fire rated gypsum system. However, the Engineer has not taken into consideration
+
+that the RFI response requesting a 2-hour fire rated gypsum lid was superseded and replaced by a 2hour fire rated concrete lid, after the subsequent discussions with the Contractor and the Employer;
+•
+It is worth mentioning that, the ‘MEP’ shopdrawings which incorporate the 2-hour fire rated
+concrete lid constructed, have received code 2. Also, our structural calculations submitted via
+DS/0401/11842 for the 2-hour fire rated concrete lid for the locations discussed herein, have also
+received code 2;
+•
+All of the above, have been discussed numerous times and have been agreed with the Employer
+prior to implementation;
+•
+Currently, there are numerous open Work Inspection Requests (WIRs) and NCR-01011 which are
+required to be closed so that we can finalize the works.
+In view of the above and the fact that the events discussed herein have been previously agreed with the
+Employer and consequently the Engineer, we kindly request you to re-code the shop-drawings, enclosed
+in the list herewith.
+Additionally, we wish to confirm that the events and circumstances discussed herein are deemed to be
+known events that occurred prior to the ‘Amendment Effective Date’ included within Settlement
+Agreement and Amendment No. 8 (SAA8), i.e. 4 September 2018; and accordingly are considered to be
+subject to SAA8 Sub-Clause 1.7.2 (‘Contractor’s Settled Claims’) and/or Sub-Clause 1.7.4 (Included
+Circumstances’).
+In view of the above and your request to provide further explanation on the history of events, we trust
+you find the aforementioned self-explanatory and will carry out the necessary action as a matter of
+urgency.
 Yours faithfully,

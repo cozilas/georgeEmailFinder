@@ -1,25 +1,121 @@
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0198
+Engineer’s Response to RFI/0401/17401 – Additional Works Introduced at the Wall of Level L3.2
+ceiling at the Hotel Building – Changes in Scope – Request for Engineer’s Instruction (EI) / Variation
+Order (VO)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Your response to RFI/0401/17401 detailed in Annex A hereto, represents a change in design and scope
+and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
 
-Subject:Wire Joints in FDB Panels
-Dear Sir,
-We write with reference to your letter (1) in which you advise us of the discovery of wire joints inside an
-energized FDB panel at Pier 3, during an inspection.
-We take such an occurrence seriously and have held countless meetings with our Subcontractor (Anel)
-on the matter of wire joints and confirm that Anel site management has carried out a thorough internal
-investigation into why this deviation of workmanship took place.
-Anel has acknowledged the unacceptable practice and workmanship and the poor decision making
-taken by members of their installation team.
-Consequently, we assure you that Anel’s manpower is being managed closely by our site supervision and
-QA/QC team, to ensure that there is no repetition.
-This occurrence came about as a result of the requirement for repositioning [relocating] of Residual
-Current Circuit Breaker with Overcurrent Protection (RCBO) to meet the load balancing of the overall
-circuit. This re-work was instructed by you through Briefing Pack 20. Therefore, we do not concur with
-you that the RCBO internal wire jointing issues at this location and at other locations, is a major
-contributor to the Project’s delays.
-Subsequently, an inspection was carried out with you at the location where RCBOs with the noncompliant jointed wires have been replaced and the related NCR has been closed.
-Meanwhile, we continue to conduct daily onsite meetings with your team members as well as
-submitting weekly progress reports to you which detail the positive progress made week on week
-against the subject activities.
-We conclude by reiterating that we remain fully committed to ADAC, the Project and to completing our
-obligations within the shortest possible time, without compromising on safety and quality, but will not
-be held responsible for such factors as those outlined above for which we are not culpable.
+Description of the Event
+On 25 August 2019 we raised RFI/0401/17401 (ref: 1), requesting clarification from you and/or the
+Employer’s Design Consultant (KPF) in relation to clashes in the existing IFC design and specifically the
+clash between the gypsum GYP ceiling located at CP Level L3.2 Hotel Building and an existing steel beam
+(Figure 1 refers). In addition, we also requested further clarification as to whether or not there is a
+requirement to provide any finishes to the wall at CP Level L3.2 Hotel Building.
+Figure 1 – Extract from IFC Drawing No: MTC-A-32-TB-L_._-5.32-00.540 06
+(Reflected Ceiling Section)
+Appended to RFI/0401/17401 were the following attachments:
+•
+‘Sketch 01’ (reproduced in Figure 2 below) and ‘Sketch 02’ (reproduced in Figure 3 below)
+indicating the exact location of the discussed clash between steel beam and GYP ceiling;
+Figure 2
+
+Figure 3
+
+•
+Photographs i.e. ‘Sketch 03’, ‘Sketch 04’ and ‘Sketch 06’ (‘Sketch 06’ is as per Figure 4 below)
+showing the exposed steel beam at the concerned location at CP Level 3.2 Hotel Building;
+Figure 4
+•
+A sketch enumerated as ‘Sketch 05’ (as per Figure 5 below), which provides a suggestion as to
+how to avoid the clash with the existing steel beam; and
+
+Figure 5
+•
+An extract of RFI/0401/16877 submitted on 24 February 2019, within which we requested you
+to clarify the ceiling type located at CP Level 3L.2 Hotel Building discussed herein. You later responded
+on 18 March 2019 clarifying that gypsum ceiling 'GYP-01' shall be provided to the concerned location
+and requested us to “…to provide related shop drawing together with the interface details of all the
+adjoining trades for the Consultants approval”.
+Therefore, after your request received via RFI/0710/16877, to provide a “…shop drawing together with
+the interface details of all the adjoining trades…” to the Employer’s Design Consultant (KPF), we
+submitted the requested shop drawing via SDS/0401/A/4818 and also via RFI/0401/17401 enclosed
+thereto and as shown in Figure 5 above. Specifically, as shown in ‘Sketch 05’, the GYP ceiling has been
+lowered to avoid clash with the existing steel beam. Figure 6 below has been added / reproduced in
+order to compare the GYP ceiling shown in the IFC Drawing No: IFC ref MTC-A-32-TB-L_._-5.32-00.540 06
+(Figure 1) with our Shop Drawing (Figure 5).
+Figure 6
+Shop Drawing versus IFC Drawing No: MTC-A-32-TB-L_._-5.32-00.540 06
+Accordingly, via RFI/0401/17401, we requested you to clarify and advise the following:
+•
+Whether you accept the GYP ceiling at CP Level 3.2 Hotel Building to be lowered as shown in our
+‘Sketch-05’ attached thereto and reproduced herewith in Figures 5 and 6 above, in order to avoid clash
+with the existing steel beams;
+•
+The movement joint detail as marked-up in our ‘Sketch-06’ (Figure 4 point 2 refers); and
+
+•
+Whether you require or not a finish surface/material at the bottom of the wall ‘Sketch-06 and
+05’ (Figures 4 and 5 refers), since this is a visible surface to the public but the Design and IFC Drawings
+do not show any finishing surface/material thereon.
+We requested a response to RFI/0401/17401 by 4 September 2019. However, you failed to reply until
+19 calendar days later on 23 September 2019. Notwithstanding the prolonged period in responding, the
+Employer’s Design Consultant (KFP) advised the following (reproduced in Figure 7):
+Figure 7
+In this regard, KPF inter alia approved the lowering of the GYP ceiling and referred us to the attached
+marked-up sketches thereto, wherein KPF provided further comments (Figure 7, item 1 refers). Also KPF
+advised on the movement joint as requested (Figure 7, item 3 refers). Furthermore, the main changes
+introduced via KPF’s response to RFI/0401/17401 are listed as items 2 and 4 shown in Figure 7 above
+wherein KPF stated that “… 2- There is another exposed steel seen on the photo provided in the RFI
+which needs to be closed with the gypsum wall with changing the curvature of the wall…”, and referred
+us to the attached marked-up comments reproduced in Figure 8 below.
+Figure 8
+In addition, the other main change introduced by KPF’s comments which states that “…4- Provide a
+stainless steel band at the bottom of the wall similar to top of the wall with the same height of the
+band” is also reproduced in Figure 9 below.
+Figure 9
+
+In summary, we note the Design, IFC Drawings and the approved Shop Drawings, do not indicate any
+gypsum wall to cover the exposed steel seen in Figures 4 and 8, nor is there a stainless steel band
+required to be installed to the bottom of the wall at CP Level 3.2 Hotel Building (Figure 9 refers).
+We reiterate once again that we are not the designers for this Project, the Employer’s Design Consultant
+is. Consequently, we accept no liability or responsibility for any inconsistencies in the Design; this
+remains with the Employer’s Design Consultant. In this regard, we put on record that the Works have
+been constructed by us based on IFC Drawings prepared by KPF and issued by you.
+In conclusion therefore, it is evidently clear that your/KPF’s response to RFI/0401/17401:
+•
+to cover the exposed steel beam with a gypsum wall while “keeping the starting point of curve”
+of the wall…”;
+•
+to “provide a stainless steel wall expansion point”; and
+•
+to “provide a stainless steel band at the bottom of the wall similar to top of the wall with the
+same height of the band”
+represents a change.
+However, SAA8 laid down strict guidelines to follow if additional works are required and therefore the
+aforementioned change will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you
+require us to proceed with integrating the revised scope into the Works.
+We therefore, take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

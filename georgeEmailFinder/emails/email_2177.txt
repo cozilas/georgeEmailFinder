@@ -1,21 +1,63 @@
 Dear Sir,
-The Engineer's Assistant (EA) refers to your letter at reference 2) above.
 
-EA notes the content of your letter stating that the "design has been developed on the basis of the
-Engineer's Instruction, and issued to the market as part of the MEP packages the Employer will gain the
-full benefit associated with this Instruction". However this conflicts with Claim Number 47 referenced 1),
-where additionaldesign costs are being pursued.
+The Contractor acknowledges receipt of letter reference 1) and hereby informs the Engineer's Assistant
+that, pending execution of the as-built survey for all the Tunnel sections, the as-built Tunnel data and
+the wriggle alignment designs shall be done using the current chainages and introducing
+additionalchainage break points, as appropriate. These will be submitted to DVE for certification and to
+the Engineer's Assistant for review.
 
-The Engineer's Assistant reminds the Contractor of its obligation under sub-clause 13.2,which includes;
-(a)
+Upon completion of the above mentioned activities, and once the Contractor has received the chainage
+values at the interface points with Msheireb Station and with Blue Line at Ras Bu Abboud, the wriggle
+alignment drawings will be revised and submitted adopting the new chainage system which shall be
+continuous without any chainage breaks.
 
-a detailed scope of the Variation (including any drawings or technical details);
+In addition, the Engineer's Assistant is hereby informed that only alignment drawings and features on
+the alignment drawings will be updated to reflect the new chainage, and that a covering report
+explaining the relationship between the new and old chainage will accompany the final set of drawings.
 
-(b)
+The As-built Data as described above can only be submitted to DVE for certification and to the
+Engineer's Assistant in order to obtain SONO, prior to performing the last update of the chainage "once
+the as-built track alignment has been received from MS/ Contractor".
 
-a detailed breakdown of the price for which the Contractor would carry out the Variation
+The Contractor further records that the dates for receiving the as-built track alignment from the Railway
+Systems Contractor (MMHKT) are unknown and hereby requests the Engineer's Assistant to clarify the
+timing for the last item from the Engineer's Instruction (E.I.) no.139
 
-It is for th Contractor to determine the method by which it is to comply, for which Contractor has 14
-days. The Contr ctor's quotation should be forthcoming without further delay.
+In order to complete the above Works in the necessary time-frame, the Contractor kindly requests the
+Engineer's Assistant to:
+Clarify if all the chainages in all the directions will be positive, meaning we will have no negative
+chainages, neither from Msheireb to Al Aziziyah nor from Msheireb to Ras Bu Abboud;
+Provide chainage values at the interface points with Msheireb Station and with Blue Line at Ras Bu
+Abboud;
+Clarify when the Contractor will receive the as-built track alignment from MMHKT. We remain at your
+disposal for any further information and/or clarification.
+Dear Sir,
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
+both
+price and any potential time impact for provision of the as-built drawings in accordance with the new
+alignment baseline as outlined hereunder:
+1.
+
+Setting Msheireb station (centre of platforms Gold and Green/ Red) as chainage 0+000
+
+2.
+Calculating chainage from Msheireb with positive increment into all directions of the Network
+and elimination of chainage gaps
+
+3.
+
+Using the same start chainage at line branches
+
+4.
+Introducing chainage 0+000 for Blue Line at Al Sadd Station with positive increments to north
+and south
+
+5.
+Incorporation of the chainage into theoretical as-built alignment and preparation of the as-built
+drawing based on the new chainages
+6.
+Last update of the chainage once the as-built track alignment has been received from
+MSIContractor. (on\y minimum deviations expected that do not affect the Civil D&B as-built drawings)
+The Contrrctor shall submit the quotation within 14 days from receipt of this direction.
 
 Yours faithfully,

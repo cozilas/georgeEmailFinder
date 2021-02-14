@@ -10,7 +10,8 @@ Overview
 Your response to RFI/0401/17582 detailed in Annex A hereto, represents a change in design and scope
 and requires a valid EI and VO in order for us to integrate the same into the Works.
 Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
@@ -31,8 +32,7 @@ to the following comment in relation to the entire grading platform area:
 [Bold and underlined for emphasis]
 Attached to Profire’s letter were a series of photos, including without limitation the photos that are
 reproduced in Figure 1 below, which amongst other things, shows the grading platform area.
-
-Figure 1 - Grading Platform Area
+Figure 1 - Grading Platform Area
 CP North Pavilion Sector 5.11C, 5.11D, 5.16B, Level L2.0 to Level L3.0
 Profire’s MCI report (WIR Number PF MCI-SUP-191022-CP L2.0 TO L3.0 CS-10 Iteration 10, Revision 02’),
 dated 22 October 2019 concluded with the following result (reproduced in Figure 2 below):
@@ -53,7 +53,8 @@ Attached to RFI/0401/17582 Rev. 00 were the following attachments:
 A copy of Profire’s letter ref: 191022-PF-IR-31809-GM dated 22 October 2019 wherein Profire
 has provided the MCI report and photos (Figure 1 refers) from the inspection held on 22 October 2019
 at CP North Pavilion Sectors 5.11C, 5.11D, 5.16B, to Levels L2.0 to L3.0.
-•
+
+•
 A copy of Profire’s letter ref: 191021-PF-IR-31789-JM dated 21 October 2019, wherein Profire
 has provided the MCI report and enclosed photos from another MCI held on 21 October at CP South
 Pavilion Sectors 5.19D, 5.24B Level 3.0 Room CS 53 Zone.
@@ -78,8 +79,7 @@ Pavilions have been competed based on IFC Drawings prepared by the Employer’s 
 and issued by you. Shop Drawings representing the IFC scope have been approved by you also.
 Therefore given the approved Design, there is no requirement for us to provide a “thin galvanized steel
 plate” to the noted areas as a means of “closing the grating between the light fittings”
-
-Nevertheless, it is evidently clear that this requirement has been insisted upon by Profire (HOE / AHJ)
+Nevertheless, it is evidently clear that this requirement has been insisted upon by Profire (HOE / AHJ)
 and the need to for us to provide a “thin galvanized steel plate” as a means of “closing the grating
 between the light fittings” represent a unequivocal change to the existing IFC Design. Consequently this
 is not a ‘code compliance’ issue for which we are purportedly responsible for, as implied from the

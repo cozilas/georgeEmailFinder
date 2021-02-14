@@ -1,26 +1,65 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0242 [post-SAA8]
-BCC NOCs for Piers 1 and 3 – Delays to ADCD and ADM Inspections
-Dear Sir,
-It has come to our attention that the final inspections which were recently undertaken by ADCD and
-ADM associated with the BCC NOCs for Piers 1 and 3, have been affected by a series of events and
-circumstances. These include but are not necessarily limited to those summarised below:
-•
-Problems associated with the granting of access into CDP portal for ADCD inspector.
-•
-Technical issued relating to ADM’s request to implement the inspection remotely [due to the
-coronavirus] and securing a visual contact between our site engineers and the ADM inspector.
-•
-The inspection to Pier 3 was planned to be conducted simultaneously with Pier 1, but due to
-issues related to ADM inspection centre, the inspection was postponed from Wednesday to Sunday.
-However, the inspection was subsequently cancelled due to a number of obstacles.
-Accordingly, we hereby notify you pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 that
-the various matters highlighted above constitute acts of prevention and/or breaches of Contract on the
-part of the Employer/Employer’s Personnel/Consultants giving rise of our right to claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of Contract.
-Interim and/or final details of the associated time impacts and adjustment to the Contract Price will be
-provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5 (a), (b) and (c).
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0255
+UAE Governmental Authority Edict – Notice from Abu Dhabi Municipality Department of
+Transport – 11 April 2020 – Restriction of Worker Movement
+Dear Sirs,
+We refer to our letters to the Employer including without limitation letters ref: (1) and (2) and our
+subsequent letters ref: (3) and (4) notifying you of the ramifications on the Project consequent on the
+UAE Governmental Authorities’ edicts associated with the Coronavirus (COVID-19) pandemic.
+During the early hours of Saturday 11 April 2020, we received a Notice from Abu Dhabi Municipality –
+Department of Municipalities and Transport, informing us as well as other companies, that although
+companies are allowed to transfer workers within the Abu Dhabi areas: Abu Dhabi, Al Ain and Al Dharfa;
+in order to curb the spread of COVID-19, “it is prohibited to transfer workers from Abu Dhabi to other
+Emirates and vice versa (from other Emirates to Abu Dhabi Emirates)” with “immediate effect”.
+This particular edict had a detrimental impact on our progress and that of our subcontractors, resulting
+in a significant drop in manpower levels on the day the restrictions on travelling between emirates came
+into force. This is illustrated by the following comparison between the subcontract manpower numbers
+recorded on 7 April 2020 and those recorded on Saturday 11 April 2020 (refer to Table 1):
+Table 1
+COMPANY
+07-APR-20
+21-APR-20
+AL GHURAIR CONSTRUCTION 87
+77
+ASSA ABLOY / PROMETAL
+16
+16
+BAUER INTERNATIONAL 51
+36
+CHADWICK TECHNOLOGY
+6
+6
+CLOISALL (CEILING)
+59
+0
+CLOISALL (PAVILION) 13
+0
+DEEMAH STONE
+80
+22
+GULF PRECAST 8
+8
+INTERNATIONAL DECOR 23
+23
+JANGHO
+51
+36
+
+MOSART MARBLE & MOSAIC 79
+0
+NAFFCO
+107
+0
+OTIS 149
+85
+PCE JV 538
+42
+TOTAL: 1,267 351
+The information recorded in Table 1 serves to demonstrate a 72.3 % drop in subcontract personnel
+levels between 7 April 2020 [1,267 persons] to 21 April 2020 [351 persons], i.e. 916 persons less.
+We further note that the above figures do not take account to the delay and disruption caused to other
+resources as the police restrictions enforced at the border between Dubai and Abu Dhabi on 21 April
+2020 resulted in major traffic jams, severely impacting our own site personnel and site office staff also.
+in summary, we hereby notify you pursuant to Sub-Clause 2.26 of the Settlement Agreement and
+Amendment No. 8 (‘SAA8’) that the various events and circumstances described and detailed above,
+have delayed and disrupted the Works and invariably will critically delay the Time for Completion.
 Yours faithfully,

@@ -1,51 +1,18 @@
-Dear Mr. Abbas,
-KPF refer to the AECOM Transmiltal as per reference 1) and the enclosed TCA-N
-letter as per reference 2) regarding Stainless Steel Handrails (BAL-04) Works on 12.0
-Extemal Areas (DAS, VIP Drop-off, and VVIP Cmb).
-We refer to the meeting held on 16 Jan 2018 between ADAC, CMA, KPF and TCA-N
-where comments on the DS/0401/4828 were discussed in detail for each revision of
-the calculations explaining the Code 3 comment. From the review, it was demonstrated
-that the Design Consultants comments were valid and for that reason the
-contractor updated and re-submitted the calculations 5 times to address the comment
-until il reached the last revision where one Code 3 was pending to be addressed:
-6/imes of Code 3 comments:
-o Most comments were adequately addressed Howeve1; the section just ahove
-the stiffeners 011 the end post is figzu-ed at 200mm wide (page 41, pdf 49) hut
-c?ppears to lJe only 163mm wide (lost page, pdf 112). Proportioning for the
-nmmwer section, the post is just harely overstressed (1 OJ%).
-
-o Tile end post has 4. 7mm of detection (pe1pendiculor to plate) from pre-tension
-of the cables and temporary loads, occupants may perceive the bow in
-the plate
-The conclusion of the meeting was that the Contractor would review the comments
-again in comparison to the MTL approved calculations and for the design consultants
-to do the same so a solution can be reached to move forward.
-We also noted to the Contractor that per Specification Section 057300, the handrail
-and post/fixings fall under the performance requirement that places the onus for the
-design squarely on the contractor to satisfy aesthetic effects and performance requirements
-in accordance with the Contract Documents.
-Furthermore, the Specification together with the Drawings establish requirements for
-aesthetic effects and performance requirements. As scope and performance documents,
-the Drawings and Specifications do not necessarily indicate or describe in detail
-all work required for the full performance and completion of the Works. Contractor
-is responsible for developing and completing the design in accordance with the
-Contract Documents, and shall provide all items required for proper completion of
-the Works.
-Subsequently, another meeting/workshop was held with ADAC, KPF & TCA-N dated
-15 March 2018 where IFC drawings, load and performance criteria and handrail designs
-were discussed sharing the information between the MTL and the MTB and it
-was concluded that the action is with the contractor to explore the following options:
-(refer to e-mail sent to ADAC dated 15 March 2018)
-a) Re-submit the mentioned document submittal DS/0401/4828 addressing the
-one pending comment on the DS to match the shop drawings so works can
-progress accordingly.
-b) Use the base plates/brackets for the MTL but the thickness, size and anchor
-bolts would need to increase to meet the load criteria for MTB. Calculations
-would need to be submitted for review accordingly.
-To date, we did not receive the revised calculations from the Contractor.
-Based on the aforementioned, we reject the contractor delay claim in its entirety since
-the Contractor received all technical information enabling them to proceed and reiterating
-that the contractor is responsible for the detailed design of the handrail and
-post/fixings.
-We consider this topic as closed as far as concerned KPF.
+Subject:SAA8 Sub-Clause 2.26, E-Notice No. – E0028 – Overdue MEP RFI Responses
+Reference:
+1. Schedule Attached
+Dear Sir,
+We write in connection with the above mentioned subject and notify you pursuant to Sub-Clause 2.26 of
+the Settlement Agreement and Amendment No. 8 that this event may cause delay to the Works and
+therefore we seek your swift resolution to avoid any future disruption or delay pertaining to this matter.
+The Contractor is providing the Engineer on a weekly basis a list of the MEP RFIs for which the responses
+are pending with the Engineer. The RFIs are categorized based on their pending duration and priority. As
+can be seen from the attached lists that were provided to the Engineer in the past, many of the RFI
+responses were received by the Contractor after their due date and some others were received after a
+period of over two months. This in turn is preventing the Contractor from proceeding with the related
+works to meet the associated deadlines/milestones.
+Your further guidance, decision and/or instruction is required by no later than 07 November 2018 to
+proceed at the very latest; failing which the Works are likely to be delayed and/or disrupted.
+We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
+extension to the Time for Completion and additional Costs arising from the above described event.
 Yours faithfully,

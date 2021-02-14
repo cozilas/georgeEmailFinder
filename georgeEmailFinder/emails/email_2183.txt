@@ -1,29 +1,20 @@
 Dear Sir,
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. Th nature and extent of the variation i proviqed below.
-Contractor to provide the as-built drawings in accordance with new alignment baseline as outlined
-hereunder:
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation that shall include
+both price and any potential time impact in relation to a Variation proposed by the Engineer regarding
+work under the contract.
 
-•
+The Variation as proposed:
 
-Setting Msheireb station (centre of platforms Gold and Green/Red) as chainage 0+000
+Currently the allowable Voltage Drop (VO) - from the Station Power Substation (SPS) 33kV/415V
+transformer secondary winding to the final load - is 2.5% in accordance witt1 the Kahramaa specification
+in "Regulations for the Installation of Electrical Wiring, Electrical Equipment and Air Conditioning
+Equipment " sub-clause 604.
 
-•
-Calculating chainage from Msheireb with positive increment into all directions of the
-Network and elimination of chainage gaps
-•
+The change intends to extend the allowable VD limit to 6% for the lighting loads and 8% for any other
+load in accordance with BS7671 and IEC 60364-5-52, and the Kahramaa - Qatar Rail (QR) agr ement that
+the latter i.e. QR is responsible for the power distribution net1..vork downstream the Bulk Power
+Substa!lons (BPS).
 
-Using the same start chainage at line branches
-
-•
-Introducing chainage 0+000 for Blue Line at Al Sadd Station with positive increments to north
-and south
-•
-Incorporation of the chainage into theoretical as-built alignment and preparation of the as-built
-drawing based on the new chainages
-•
-Last update of the chainage once the as-built track alignment has been received from MSI
-Contractor. (only minimum deviations expected that do not affect the Civil D&B as-built drawings)
-
+The Co ractor shall subm;t the quotat;on w;1h;n 14 days from rece;pt of th;s d;rect;on.
 Yours faithfully,

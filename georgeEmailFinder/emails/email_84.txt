@@ -1,13 +1,42 @@
-Subject: Contractor’s Subsidence related Daily Reports
-Dear Sir
-We write with reference to the contractor’s obligation to provide daily and weekly reports to the
-engineer and we note that the quality and accuracy of the reports are not in accordance with the
-required standards of the contract.
-It is imperative that these reports are corrected and a greater emphasis shall be given to this reporting
-and monitoring tool. These reports are a mechanism for the contractor to ensure their production is on
-target and to support their reporting to the engineer and the employer.
-The contractor shall ensure that the reports are submitted daily, noting that thus far they are submitted
-5 to 13 days late and also that they rectify their QA/QC process and improve the accuracy of the reports.
-We hereby reserve the employer’s rights pursuant to clause 10.3 of the conditions of contract for all
-delays associated with the above non-compliance of the contractor.
-Yours faithfully
+
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 262 [post-SAA8]
+Availability of Zutec Online Platform
+Dear Sirs,
+On 20 April 2020, we received your e-mail (ref: 1), informing us that “it is highly likely that Zutec will not
+be accessible to the MTB Project after 22 April [2020]” and advised of recommended steps to secure
+data.
+The following day, on 21 April 2020, we received your letter (ref: 2) in which you confirmed that the
+Zutec licence and services would expire on 22 April 2020, and beyond this date, Zutec would not be
+accessible / operational for the MTB Project. Your letter also served to re-affirm your earlier
+recommendation for us to take whatever steps were necessary to recover all our Project data from
+Zutec, including inter alia, CIR, WIR, Asset Tagging, Room Completion and Snagging data, plus associated
+tracking logs and attachments.
+You further advised that from this point onwards, it is necessary for the Project to revert to processing
+the submission of all relevant submittals manually vide document control and supported by excel
+trackers and reporting tools; albeit we are required to ensure the same level of reporting to that of the
+Zutec system.
+However, in our e-mail dated 21 April 2020 [3:02 PM] (ref: 3), we informed you that, despite us trying to
+download as much information as possible [given the fact you provided us very little notice], the Zutec
+developer had implanted a ‘road block’ by imposing a daily download limit. This severely hampered our
+ability to recover our Project data from Zutec in an efficient, expeditious and progressive manner.
+We take this opportunity in reminding you that when Zutec was first introduced, various meetings were
+held between us and the Employer and culminated in us writing to you on 8 November 2016 (ref: 4), in
+which we set out what was mutually agreed upon in relation to the implementation of the Zutec system.
+Point 6 of our letter clearly stated that the Employer was to provide us with an offline snapshot of all the
+Zutec data, for our records. This was acknowledged by way of your letter dated 27 February 2017 (ref:
+5).
+Accordingly, we maintain that the Employer had an obligation to provide us a complete set of off-line
+date and records, prior to the instigating the closure of the Zutec system and denying us, or limiting, our
+access.
+Therefore, in light of the various acts of prevention on the part of the Employer, and / or the Employer’s
+Personnel and / or the Consultants and / or the Employer’s Other Contractor described above, we
+hereby give you notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to
+claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Yours faithfully,

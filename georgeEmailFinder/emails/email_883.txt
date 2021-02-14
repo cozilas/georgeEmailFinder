@@ -1,29 +1,22 @@
-Subject:
-
-Re: Central Processor Level 2, Pier 1 Connection – Instruction to Close Metal Ceiling - CVI
-
+Subject Use of Aluminum Composite Panels (ACP}
 Dear Sir,
+It has been established that there are significant differences between the con.figuration of the ACP
+assemblies and the original test data provided by the Contractor. These differences include but not
+limited to, variations in the cavity width of the assemblies and the jointing arrangement between
+panels.
+The use of ACP and associated assemblies fall under the Curtain Walling Specification (074201) which is
+a
+performance specification. Therefore, it is the Contractor's responsibility to demonstrate such
+assemblies meet the requirements of the International Building Code (IBC} 2006, which forms the basis
+of the Fire Strategy for MTB.
+Section 1407.10.4 of the 2006 version ofthe IBC requires metal composite materials containing plastic to
+be tested to NFPA 285 Standard Fire Test Method for Evaluation of Fire Propagation Characteristics of
 
-Subject:
-Removal, Relocation and Installation of HVAC Duct and Associated Accessories Due to
-Clash with Ceiling at CP, L2.0, Sector-5.24C, 5.24D & 5.30A - Remedial Works
-Dear Sir,
-We refer to your cost submission of 0401-PCEJV-RFVO-0153 via document transmittal reference MTBPCEJV-TCAJV-G-TN-02662 dated 06 November 2018 with an amount of AED 8,746.13 related to the
-abovementioned subject.
-Further to our review on your request for a Variation, we would comment as follows:
-•
-We have at no point issued to you an instruction to proceed with the above mentioned works in
-order to resolve the clashing issues of services with the ceiling.
-•
-This is a coordination issue where clashing issues are due to the MEP services not following the
-coordinated BIM model as issued to relevant Subcontractors.
-It is abundantly clear that the said elements are caused by your failure to properly coordinate in order to
-avoid such occurrences, as per Clauses 12.11 [Cooperation] and 12.12 [Other Contractors and Other
-Subcontractors] of the Subcontract Agreement.
-Accordingly, in line with the Sub-Clauses 16.5 [Extension of Subcontract Time for Completion], 21.2
-[Adjustments to the Subcontract Price] and 11.4 [Determinations] of the Conditions of Subcontract, we
-hereby reject this cost submission for any entitlement to an extension of Subcontract Time for
-Completion or any adjustment to the Subcontract Price.
-We trust the aforementioned is self-explanatory, however, if you seek further clarification, please do
-not hesitate to contact the undersigned.
+Exterior Non Load Bearing Wall Bearing Assemblies Containing Combustible Components.
+Please provide evidence you have met your contractual obligations with respect to the fire performance
+of such assemblies. This evidence shall include but not limited to:
+• Identification of the various different configurations of assemblies involving the use of ACP.
+• Fire test data from an accredited testing house which demonstrates such configurations do not
+adversely affect the overall fire performance of the assemblies in comparison to the criteria
+detailed in NFPA 285.
 Yours faithfully,

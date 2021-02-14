@@ -1,43 +1,437 @@
-Subject: NCR 827: Unapproved Bearing Usage -Close Out
+Final Account Agreement .(FAA-Louvre-PE-01)
+PERI Co. L.L.C.
+This Final Account Agreement is made the 22nd day of May 2017 between;
+ASOLOUVRE JV a locally formed Joint Venture with joint and several liability between
+Arabtec Construction LLC, Licence No. 216599 having its registered office at PO Box 3399, Dubai, United
+Arab Emirates and
+Constructora San Jose S.A., Licence No. CN-1411989 having its registered office at PO Box 94035, AlFalah Street, Al Hilal Bank Building, Abu Dhabi, United Arab Emirates and
+Oger Abu Dhabi LLC, , Licence No CN-1053372 having its registered office at PO Box 35656, Abu Dhabi,
+United Arab Emirates
+(together referred to as the "Contractor");
 
-The Contractor refers to Non-Conformance Report No. 827 (NCR-827) issued by the Engineer in respect
-of the
-unapproved use of multi-rotational bearings in the arches I buttresses of the central processor. This NCR
-is
-based on the non-approval of the material submittals for the installed bearings and these submittals
-have not
-been accepted by the Engineer because the corresponding laboratory tests have not yet taken place. In
-other
-words, at present the only basis for NCR-827 is the pending testing of the bearings.
-In relation to these laboratory tests, please be reminded that in November 2017, the Contractor queried
-the
-Engineer whether a cost saving proposal could be a waiver of the bearing testing requirements (5). The
-Engineer responded to the Contractor requesting the submission of a commercial proposal in
-accordance
-with Clause 20.3 of the Conditions of Contract (4). The Contractor proceeded accordingly and submitted
-a
-cost saving proposal on 25 February 2018 (3), i.e. eight months ago. Please note that the Contractor
-issued
-this proposal upon the Engineer's request and placed the laboratory tests on hold awaiting tne
-Employer's
-issuance of the Variation Order.
-This Variation was an integral part of the settlement proposal agreed upon by the Contractor. Moreover,
-all
-communications pertaining to this change were exchanged before the effective date of 04 September
-2018,
-so this issue clearly predates the Settlement Agreement and Amendment No.8 (SAA8) and has been
-captured
-under Clause 1.7.2 and Clause 1.7.4 of SAA8.
-Notwithstanding this, the Engineer has recently rejected the Contractor's close-out request for NCR-827
-stating that this non-conformance cannot be accepted for closure until the Contractor's Request for a
-Variation Order No. 1923 is accepted by the Employer. To be clear, this issue has already been settled
-with
-the Employer and the Variation has already been agreed as part of SAA8. The Engineer shall not defer
-the
-issuance of revised Specifications whereby it is confirmed that testing the spherical bearings in a
-laboratory is
-no longer a requirement of the Contract.
-The Engineer is requested to expedite the formalisation of this change and subsequently proceed with
-the
-closure of NCR-827.
+and
+PERI Co. L.L.C., License No. CN-1175036, whose registered office is situated at P.O. BOX 37460, Abu
+Dhabi, United Arab Emirates (the “Subcontractor”).
+
+WHEREAS
+A.
+The Tourism Development And Investment Company PJSC (the "Employer") and the Contractor
+entered into a contract for the Main Contract Works for the Louvre Abu Dhabi (the "Contract").
+
+B.
+The Contractor and the Subcontractor (collectively, the "Parties”) entered into a contract, ASOPE-35 Rev.01 dated 28 May 2013 (the "Subcontract Agreement") pursuant to which the Subcontractor
+agreed to Supply and Hire of Formwork material for all vertical elements for Substructure and
+Superstructure for the complete Project for the Louvre Abu Dhabi.
+C.
+One member of ASO LOUVRE JV, Oger Abu Dhabi L.L.C., was excluded from the management
+board of ASO LOUVRE JV on 13 March 2017 in accordance with the terms of the joint venture
+agreement made between the members of ASO LOUVRE JV. Accordingly, Oger Abu Dhabi L.L.C. is no
+longer empowered or required to take any further action on behalf of ASO LOUVRE JV, including
+executing this document.
+
+D.
+The Parties agree this Final Account Agreement represents of all matters related to the
+Subcontract Agreement.
+
+E.
+The Parties have agreed that in the event of any inconsistency between the Subcontract
+Agreement and the Final Account Agreement, the terms of the Final Account Agreement shall take
+precedence.
+
+F.
+It is understood by the Parties, that these Recitals shall form an integral part of this Final
+Account Agreement
+
+G.
+Therefore in consideration of the premises, agreements and obligations contained in this Final
+Account Agreement, the Parties agree
+
+1
+
+DEFINITIONS
+
+1.1
+“Claims” means all existing, future, known, and unknown claims, demands, and causes of action
+for all existing, known, and unknown damages and remedies that arise out of or in connection with the
+Subcontract Agreement, that have been or could be brought by the Subcontractor in any court, tribunal
+or forum, in the UAE or any other jurisdiction arising out of or in connection with the Subcontract
+Agreement. Under this definition, “Claims” includes, but is not limited to, all claims, demands, and
+causes of action of any nature, whether in contract or in tort, or arising under or by virtue of any code,
+law or regulation, for past, present, known, and unknown injuries, property damage, and all other losses
+and damages of any kind, including but not limited to the following: all actual damages, property or
+economic damage, all penalties of any kind, any tax liabilities or other penalties, damage to business
+
+reputation, loss profits or goodwill, consequential damages, damages ensuing from loss of credit,
+prejudgment and post judgment interest, and costs and legal fees. This definition further includes, but
+is not limited to, all elements of damages, all remedies, and all claims, demands, and causes of action
+that are now recognized by law or that may be created or recognized in the future by any manner,
+including without limitation by code, law, regulation, or judicial decision. This definition further
+includes, but is not limited to, all claims, demands, and causes of action, which the Subcontractor may
+have now or in the future by virtue of assignment or otherwise, arising out of the manner in which their
+insurers and counsel handled, settled, or defended any claims, demands, or causes of action asserted by
+the Subcontractor.
+1.2
+
+“UAE” shall mean the country of the United Arab Emirates.
+
+1.3
+
+“AED” shall mean United Arab Emirates Dirhams.
+
+2
+
+THE FINAL AGREEMENT SUM
+
+2.1
+The Parties agree that the Final Agreement Sum for all goods and services provided under the
+Subcontract Agreement together with all Claims or other issues, in accordance with the terms of the
+Subcontract Agreement is AED 7,846,195.27 less nil retention, less Backcharge deduction of AED 46.00,
+RESULTING IN A TOTAL OF AED Seven Million, Eight Hundred Forty-Six Thousand, One Hundred FortyNine Dirhams and 27/100 Fils (AED 7,846,149.27) and that such sum reflects the agreed final account
+value due under the Subcontract Agreement. This Final Agreement Sum is full consideration for all costs
+that are payable by Contractor to the Subcontractor in connection with the Subcontract Agreement.
+2.2
+The Parties agree that such Final Agreement Sum includes the sale by the Subcontractor of all
+materials listed in Appendix C to the Contractor for the sum of AED 0.01. The Subcontractor agrees the
+title of these materials transfers to the Contractor upon execution of this agreement and the
+Subcontractor expressly waives any rights to contest their title thereafter. The Subcontractor also
+discharges and releases any and all liens, claims and encumbrances that may have or hereafter accrue
+on or against the Contractor regarding these materials.
+2.3
+The Parties further agree that such Final Agreement Sum is subject to the Subcontractor
+performing all outstanding obligations listed herein and/or required by the laws of the UAE and/or
+required by the Subcontract Agreement. In the event of the Subcontractor failure to perform any or all
+of his outstanding obligations, the Parties agree that the Contractor has the absolute right to set off any
+amounts that are / or may be due to the Subcontractor as a consequence of the Subcontractor failure to
+
+fulfil his outstanding obligations under any agreement that the Contractor or the parties forming the
+Contractor may have now or in the future with the Subcontractor.
+2.4
+Any amount of set-off pursuant to clause 2.3 above is without prejudice to the rights of the
+Contractor or Subcontractor in any subsequent negotiations or legal proceedings to vary the amount
+claimed and set-off by the Contractor.
+2.5
+Irrespective of any provision in this Agreement, the Final Agreement Sum may be amended
+exclusively in respect of
+(a) the issuance of a Variation Order by the Contractor for unknown matters arising after the effective
+date of this Final Account Agreement. In such instance a revised Final Account Agreement shall be made
+between the Parties for the additional item and any future demands made pursuant to this clause do
+not in any way vitiate any other agreements of the Parties in this Final Account Agreement which will
+remain unchanged.
+(b) the apportionment of Delay Damages to the Subcontractor where Delay Damages are levied by the
+Employer.
+(c) the Contractor may backcharge or set-off any sums incurred due to any Subcontractor nonperformance or default and/or any SCV camp costs for Subcontractors workers.
+
+3
+
+3.1
+
+PAYMENTS AND RETENTION
+
+The above Final Agreement Sum shall be subjected to nil retention sum.
+
+3.2
+The cumulative total of payments made by the Contractor to the Subcontractor on the date of
+signing this Final Agreement is AED 7,681,955.24.
+
+3.3
+Therefore, a ‘’Final Account Payment’’ of AED One Hundred Sixty-Four Thousand, One Hundred
+Ninety-Four Dirhams and 03/100 Fils (AED 164,194.03) is agreed by the Parties as full and final
+settlement of the Final Agreement Sum and is due to be paid by the Contractor to the Subcontractor
+and shall only become eligible for payment if the Release of Liens, Claims And Encumbrances Form and
+this Final Account Agreement have been signed by the Subcontractor and issued to the Contractor.
+3.4
+
+The payment described in 3.3 shall be issued in two payments as 3.4.1 and 3.4.2
+
+3.4.1 AED 82,097.02 (Eighty Two Thousand, Ninety Seven & 02/100 United Arab Emirates Dirhams) to be
+issued by 31st of May 2017 or within (14) fourteen days of compliance with all payment conditions of
+Clause 3.3, whichever is later. The Subcontractor must submit a relevant invoice at least Fourteen (14)
+days prior to the payment due date. The payment due date shall be extended by the corresponding
+delayed invoice days if any.
+
+3.4.2 AED 82,097.01 (Eighty Two Thousand, Ninety Seven & 01/100 United Arab Emirates Dirhams) to be
+issued by 30th of June 2017 or within (14) fourteen days of compliance with all payment conditions of
+
+Clause 3.3, whichever is later. The Subcontractor must submit a relevant invoice at least Fourteen (14)
+days prior to the payment due date. The payment due date shall be extended by the corresponding
+delayed invoice days if any.
+
+4
+OUTSTANDING OBLIGATIONS.
+THE SUBCONTRACT WORKS / WARRANTIES / GUARANTEES
+
+4.1.
+
+Not applicable.
+
+5
+
+DISPUTES / ARBITRATION
+
+5.1
+Any disputes arising from this Final Account Agreement shall be resolved in accordance with the
+relevant provisions stated in the Subcontract Agreement (Clause 11, Settlement of Disputes).
+
+6
+
+GOVERNING LAW
+
+6.1
+This Final Account Agreement and the Subcontract Agreement shall be governed by, construed
+by and take effect in accordance with the laws of the United Arab Emirates.
+.
+
+7
+
+RELEASE AND DISCHARGE
+
+7.1
+Upon execution of this Final Account Agreement, the Subcontractor agrees to release and
+discharge the Contractor from liability for all Claims in relation to or arising out of or in connection with
+the Subcontract Agreement and any subsequent monies or remedies due whether arising under the
+Subcontract Agreement or otherwise in law.
+8
+
+CONFIDENTIALITY
+
+8.1
+The information in this Final Account Agreement is strictly confidential. The Parties agree to
+maintain strict confidentiality and shall not disclose the contents to any third party without mutual
+consent in respect of the information contained herein.
+
+9
+
+MISCELLANEOUS
+
+9.1
+Except as expressly stated in this Final Account Agreement, this Final Account Agreement will
+not relieve the Subcontractor from its obligations, or prejudice the Contractor’s rights, under the
+Subcontract Agreement.
+9.2
+If any provision of this Final Account Agreement or part is rendered void, illegal or
+unenforceable in any respect under any law, the validity, legality and enforceability of the remaining
+provisions shall not in any way be affected or impaired. In such event, the Parties shall use their
+reasonable endeavors’ to negotiate an acceptable substitute provision or part as soon as possible.
+9.3
+Each of the Parties represents, warrants, and agrees that in executing this Final Account
+Agreement it has relied solely on the statements set forth herein and the advice of its own counsel.
+Each of the Parties further represents, warrants, and agrees that in executing this Final Account
+Agreement it has placed no reliance on any statement, representation, or promise of the other Party, or
+any other person or entity not expressly set forth herein, or upon the failure of any of the Parties or any
+other person or entity to make any statement, representation or disclosure of anything whatsoever.
+9.4
+This Final Account Agreement shall be binding upon each of the Parties hereto and each of their
+respective successors, legal representatives, and assigns.
+9.5
+Each of the Parties warrants and represents that it is fully entitled and duly authorized to enter
+into and deliver this Final Account Agreement. In particular, and without limiting the generality of the
+foregoing, each of the Parties warrants and represents that it is fully entitled to enter into the covenants
+and undertake the obligations set forth herein.
+9.6
+Each of the Parties warrants and represents that its representative signing this Final Account
+Agreement possesses all necessary capacity and authority to execute this Final Account Agreement.
+9.7
+This Final Account Agreement is the final written expression and the complete and exclusive
+statement of all the agreements, conditions, promises, representations, and covenants between the
+Parties with respect to the subject matter hereof and supersedes all prior or contemporaneous
+agreements, negotiations, representations, understandings, and discussions between and among the
+Parties, their respective representatives, and any other person or entity with respect to the subject
+matter covered hereby.
+9.8
+This Final Account Agreement shall become effective on the date first above written.
+9.9
+Each of the Parties shall each bear his or its own respective legal fees, expenses and costs
+incurred in connection with this Final Account Agreement (including fees, expenses and costs) and the
+preparation, implementation and performance of this Final Account Agreement.
+EXECUTION PAGE
+The Contractor
+Signed by
+for and on behalf of Arabtec Construction LLC as the Contractor: )
+)
+)
+Duly authorised person
+Signed by
+for and on behalf of San Jose Constructora SA as the Contractor: )
+)
+)
+Duly authorised person
+
+The Subcontractor
+Signed by
+for and on behalf of
+as the Subcontractor: )
+)
+)
+Duly authorised person
+Signed by
+for and on behalf of
+as the Subcontractor: )
+)
+)
+Subcontractor Company Stamp
+
+Duly authorised person
+
+APPENDIX A
+RELEASE OF LIENS, CLAIMS AND ENCUMBRANCES
+(01 pages x 2 copies)
+
+RELEASE OF LIENS, CLAIMS AND ENCUMBRANCES
+PERI Co. L.L.C., License No. CN-1175036, located at P.O. BOX 37460, Abu Dhabi, United Arab Emirates
+(hereinafter called the “Subcontractor”), has furnished labour materials, services and or equipment to
+ASOLOUVRE Joint Venture (hereinafter called the “Contractor”) under Subcontract Agreement ASO-PE35 Rev.01 (hereinafter called the ‘Subcontract Agreement’) to the Tourism Development And
+Investment Company PJSC (hereinafter called the “Employer”) for the Louvre Abu Dhabi (hereinafter
+called the “Contract”) at Abu Dhabi, UAE.
+
+The Subcontractor hereby, discharges, waives and releases any and all liens, claims and encumbrances
+that may have or hereafter accrue on or against the Contractor and/or Employer and/or the Contract on
+account of labour materials, services and equipment furnished by the Subcontractor.
+The Subcontractor confirms that all labour materials, services, licenses and equipment, performed or
+supplied to date by or through the Subcontractor or incorporated in the Contract are free from any
+claims, liens, or encumbrances. The Subcontractor confirms that payment has been made by the
+Subcontractor to all persons working on the Contract and entitled to compensation on said Contract
+including to all workmen, (sub) Subcontractors, suppliers, labourers, and materialmen who may have
+delivered materials or rented equipment to or performed work at or on behalf of the Contract.
+The Subcontractor shall and does hereby indemnify, save harmless, and defend the Contractor from and
+against any and all liabilities, claims, damages, liens, or loses, penalties, fines, forfeitures, suits, and the
+
+costs of expenses incident thereto (including all costs, professional and attorney’s fees) which the
+Contractor may incur, or become responsible for, by reason of the filing of any claims, notices, liens,
+encumbrances, suits against the Employer and/or the Contractor and/or the Contract, whether or not
+resulting from the negligence of the Employer and/or Contractor, which in any way may arise out of, or
+be incidental to, work undertaken or done under and/or pursuant to said Subcontract Agreement.
+
+Signed: ______________________________ Date: ___________________________
+Name _____________________________
+
+Title:
+
+Company Stamp
+
+_____________________________
+
+RELEASE OF LIENS, CLAIMS AND ENCUMBRANCES
+PERI Co. L.L.C., License No. CN-1175036, located at P.O. BOX 37460, Abu Dhabi, United Arab Emirates
+(hereinafter called the “Subcontractor”), has furnished labour materials, services and or equipment to
+ASOLOUVRE Joint Venture (hereinafter called the “Contractor”) under Subcontract Agreement ASO-PE35 Rev.01 (hereinafter called the ‘Subcontract Agreement’) to the Tourism Development And
+Investment Company PJSC (hereinafter called the “Employer”) for the Louvre Abu Dhabi (hereinafter
+called the “Contract”) at Abu Dhabi. UAE..
+
+The Subcontractor hereby, discharges, waives and releases any and all liens, claims and encumbrances
+that may have or hereafter accrue on or against the Contractor and/or Employer and/or the Contract on
+account of labour materials, services and equipment furnished by the Subcontractor.
+The Subcontractor confirms that all labour materials, services, licenses and equipment, performed or
+supplied to date by or through the Subcontractor or incorporated in the Contract are free from any
+claims, liens, or encumbrances. The Subcontractor confirms that payment has been made by the
+Subcontractor to all persons working on the Contract and entitled to compensation on said Contract
+including to all workmen, (sub) Subcontractors, suppliers, labourers, and materialmen who may have
+delivered materials or rented equipment to or performed work at or on behalf of the Contract.
+The Subcontractor shall and does hereby indemnify, save harmless, and defend the Contractor from and
+against any and all liabilities, claims, damages, liens, or loses, penalties, fines, forfeitures, suits, and the
+costs of expenses incident thereto (including all costs, professional and attorney’s fees) which the
+Contractor may incur, or become responsible for, by reason of the filing of any claims, notices, liens,
+encumbrances, suits against the Employer and/or the Contractor and/or the Contract, whether or not
+resulting from the negligence of the Employer and/or Contractor, which in any way may arise out of, or
+be incidental to, work undertaken or done under and/or pursuant to said Subcontract Agreement.
+
+Signed: ______________________________ Date: ___________________________
+
+Name _____________________________
+
+Title:
+
+Company Stamp
+
+_____________________________
+
+APPENDIX B
+FINAL ACCOUNT SUM BREAKDOWN
+
+All figures shown are in AED
+
+Final Account
+Item
+1.00
+
+SUBCONTRACT
+Subcontract Value
+
+Previously Paid Final Account Payment
+
+2,357,789.34
+
+2,357,789.34
+
+-
+
+2.00
+
+Variation Orders / MCIs
+Extra Works
+4,578,000.08 4,595,300.40 (17,300.32)
+Settlement of Lost Items
+303,659.46
+266,779.54
+36,879.92
+Settlement of Damages
+606,746.38
+462,131.96
+144,614.42
+
+3.00
+
+Sale of Material to the Contractor as Appendix C
+
+0.01
+
+Sub-Total
+
+164,194.03
+
+7,846,195.27
+
+7,682,001.24
+
+Final Account
+
+Gross Amount
+Subcontract Retention
+
+Back Charges
+
+7,846,195.27
+
+0.00
+
+0.01
+
+Previously Paid Final Account
+Payment
+
+7,682,001.24
+
+164,194.03
+
+0.00
+0.00
+0.00
+_____________________________________________
+7,846,195.27
+7,682,001.24
+164,194.03
+(46.00)
+
+(46.00)
+
+(0.00)
+
+7,846,149.27
+
+7,681,955.24
+
+164,194.03
+
+Net payable
+APPENDIX C
+LIST OF SOLD MATERIAL
 Yours faithfully,

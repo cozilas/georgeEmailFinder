@@ -1,17 +1,210 @@
-Subject Notice of Proceeding with the Works for the MATV as per IFC Drawings
-Dear Sir,
-We write with reference to correspondence (1) wherein the Contractor informed that it considers the
-received Code 3 for its Shop Drawing ref. 401-AN-E-01-GE-0.00-SL-SD-089 to be unfair and that it will
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0226
+Engineer’s Unreasonable Comments issued in reply to Commissioning Inspection Request (CIR) COMCIR-0401-TAVIT-0531 regarding LAN Performance Tests
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A hereto, concern delays associated with the receipt of unreasonable
+comments by CxA endorsed on CIR-0531 (ref: 1), relating to the Local Area Network Performance Tests.
+Potential Impact
 
-proceed as per the IFC Drawings instead of addressing the comments and resubmitting the Drawing.
-We would remind the Contractor that the maximum distance limitation of 2000 meters mentioned in
-the shop drawing is factually incorrect and the same has been confirmed by your supplier. We also note
-from your supplier's letter that the distance of the Fiber pulled between the LNB ref 2353 and the OP/RF
-Converter Quattro ref. 237002 cannot exceed the 4000 Meters distance (see enclosed email
-correspondence and supplier's letter).
-It is evident that the Contractor's submitted shop drawing was based on incorrect assumptions which
-necessitated unwarranted multiple workshops with the Engineer and the Employer to seek an alternate
-solution.
-We note the Contractor's comment that it will proceed as per the IFC Drawings, however we note that
-the provided Code 3 was justifiable given the miscalculations by the Contractor.
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We have appreciable concerns in relation to the receipt on 23 January 2020 of unreasonable Status
+Code 3 comments annotated on Commissioning Inspection Request (CIR) No: COM-CIR-0401-TAVIT0531 (ref: 1) via the ZUTEC software, in relation to the Local Area Network (LAN) Performance Tests (PT)
+conducted by the Employer’s Commissioning Consultant (CxA). This follows the recent LAN PT to the
+Information and Communication Technology (ICT), Airport Operational Systems (AOS) and Security
+Systems, which we hasten to add, were conducted between 28 July 2019 and 8 August 2019. It
+therefore is frustrating for you to take several months to code the CIR for the LAN PT; this protracted
+period is unacceptable.
+By way of background, according to industry technical standards backed by Specification Section 272100
+(‘Local Area Network Equipment’), the LAN timers are required to check the data redundancy from each
+respective timer device installed in the Project. Simply put, in the event of any network failure, the LAN
+timers are used to calculate the time which it takes for the data / ‘traffic’ to shift from one timer device
+to another timer device in the event the network signal / device(s) has been lost or is corrupted.
+In the event however, the unreasonable Code 3 comments annotated on CIR No: COM-CIR-0401-TAVIT0531 was triggered by the aggressive configuration of the installed timers while testing the convergence
+between the timers installed for the LAN. The fact that the manufacturer (Cisco) of the LAN timers and
+associated systems, had clearly suggested not to use the aggressive configuration during the testing of
+the timers. Interestingly this was also confirmed by you, by way of your previous email sent to
+us/CxA/ADAC/Cisco dated 7 February 2018 [Wednesday 9:23 AM] reproduced in Figure 1 below.
+Figure 1
+Via your email [in Figure 1 above], you openly acknowledged and confirmed that “…Cisco advised that
+using the aggressive timers is not a recommended practice and therefore all agreed that TAV-IT should
+revert to the timers recommended by Cisco. ADAC and the design consultant accepted this as well”.
+This is also confirmed by Cisco on their email sent to us / TAV IT on 18 December 2016 [Sunday 8:38 PM]
+a partial extract of which is reproduced in Figure 2 below, where Cisco confirm inter alia, that “Going
+very aggressive on all protocols timers is not recommended because this case cause[s] false alarms and
+cause unnecessary flapping and convergence”. We herewith attached a full copy a copy of Cisco’s email
+at Annex B which also provides various different cases in regards to the configuration of the LAN timers.
+Figure 2
+Your email dated 7 February 2018 (Figure 1 refers), is essentially a confirmation of the agreement made
+between the parties i.e. TCAJV, TAVIT, ADAC, CMA, CXA, that the configuration of the LAN timers would
+be set to ‘relaxation’ as per Cisco recommendations, while performing the tests and that the data
+recovery mechanisms of the timers, would not be configured / set as indicated in Specification 272100,
+
+since the Contract Specification provide very stern recovery times, which could not be reasonably form
+part of the PT cases nor could form part of the documentation and submissions, also confirmed by Cisco.
+In view of the above, it is evident that it has been mutually agreed between all parties i.e. TCAJV / Cisco
+/ CMA / CxA / ADAC / Employer’s Design Consultant to run the LAN Performance test with Cisco’s
+recommended timers and that the timers during PT were going to be used for the record only along with
+the performance/failover of applications; consequently, LAN aggressive timers were not to be used.
+Additionally, Cisco (Figure 2 refers), has in fact provided technical details and reinforced the avoidance
+of using aggressive timers and essentially advised that the Contract Specification provides very stern
+recovery mechanisms which as per Cisco, are not advisable to be used in the LAN of the MTB systems.
+For the avoidance of doubt, the Contract Specification 272100 Section 2G (Redundancy) specifies that:
+“Recovery mechanisms shall be deployed as part of the network implementation and shall be tuned to
+achieve less than 0.25 second recovery time, both during the failure of a link and less than 0.5 seconds
+for device recovery and during the (automatic) recovery of the link or device.”
+In this regard, Cisco advised “Timer requirements should not be applied to all technologies especially
+that every type of device and technology has its own protocols and timers to converge. This is mainly
+the reason where the timers of 500ms and 250ms can’t be met in the security frame (WAN, FW, IPS
+etc.). On the other hand, those timers were met in the LAN testing (access, core, distribution) related
+scenarios”, meaning they are different network devices with different features but with similar failure
+scenarios.
+It is also worth noting, Cisco’s comments [reproduced in Figure 2] stating that their suggestions listed
+thereto are based on industry “…standards and it will apply to all vendors and not only Cisco…”. In the
+same manner, Cisco advised that “…there are certain limits that no vendor can exceed due to standard
+and best practices…” Therefore, this clearly demonstrates that there are certain industry standards that
+shall be used in regards to the LAN performances and consequently the relevant LAN timer recovery
+mechanisms and these standards do not necessarily meet the requirements specified in the Contract.
+Moreover, Performance Testing (PT) methodology and tests packs have been workshopped for review
+and approval during January 2019, wherein feedback has been provided by you / ADAC / CxA on the test
+procedures presented and how these procedures must be reported. However, during these workshops,
+many documents were rejected by you due to purported errors in documentation and the reports for all
+systems were requested to be resubmitted. Consequently, despite multiple workshops having been
+carried out with CxA, wherein all of the above mentioned issues were explained, yet again, we received
+your Status Code 3 rejection comments for the LAN timers’ recovery mechanisms.
+It is also worth noting, that during the Performance workshops in January 2019 with CxA, the
+requirement for aggressive LAN timers recovery mechanisms as per your Code 3 comments, had never
+been raised by CxA and was never requested during the approval of Performance test pack or during the
+official performance testing. Moreover, MATV associated testing was not part of the performance
+testing and was to be demonstrated separately from Performance Testing; this was previously conveyed
+to you via our letter dated 27 June 2019 (ref: MTB/TCA/AECOM/L/014493). We therefore consider your
+Code 3 comments pertaining to the MATV-FIDS are completely irrelevant and unfair on this occasion.
+Additionally, we remind you that the Design of the WLAN and LAN has been validated, reviewed and
+approved by Cisco on 9 February 2018 (refer to their letter in Figure 3). We point out Cisco’s comments
+that state we “have reflected Cisco’s recommendations in the LAN LLD [Low Level Design]
+documentation attached hereto in respect to the Cisco components and that Cisco has verified that said
+LLD aligns with Cisco’s best practices for LAN LLD under LAN Specification Section 272100 Rev 02 of
+RFP…”
+Figure 3
+
+In addition to all of the above, the information recorded in Table 1 below, records all your particular CIR
+comments in question, alongside which we have provided a detailed response justifying why we believe
+those comments are unreasonable. We believe this ‘exercise’ to be self-explanatory.
+Table 1
+Item Engineer’s Comments Contractor’s Response
+1
+"Local Area Network Performance Test. Refer Specification 272100, Section 2.2 Network
+Architecture, ""G. Redundancy. 2. Recovery mechanisms shall be deployed as part of the network
+implementation and shall be tuned to achieve less than 0.25 second recovery time, both during the
+failure of a link and less than 0.5 seconds for device recovery and during the (automatic) recovery of the
+link or device.”
+“Contracor has failed to meet the above requirements for Unicast traffic in Test Cases 7.1, 7.5, 7.6, 7.7,
+7.8, 7.9, 7.11 & Multicast traffic in Test Cases 7.1, 7.15. Contractor to clarify." During
+the
+LAN
+Standalone Functional Acceptance Test (SFAT) / Integration Test Facility (ITF) testing to meet the
+specification timers , Protocols convergence aggressive timers has been used, wherever timers didn’t
+meet. However Cisco clarification was provided / submitted not to use the aggressive timer which can
+cause false alarms and cause unnecessary flapping and convergence. And, the Standalone Functional
+Acceptance Test (SFAT) / Initial Site Acceptance Test (ISAT) of the LAN Test Inspection Requests were
+submitted along with the manufacturer recommendation and were approved by Cisco respectively.
+2
+"Refer Specification 272100, Section 3.3 QUALITY CONTROL AND TESTING, I. Performance Test:,
+4. Demonstrate security of all interfaces with other networks and systems, against external and internal
+threats.
+a. The Contractor to hire independent, ISO 27001 certified, security testing specialist, to carry out and
+demonstrate the security tests. b. The Contractor to present the credentials of at least 2 specialist to the
+Engineer for approval. c. Any deficiencies identified by the specialist to be rectified at no cost.
+Contractor to comply to this requirement and provide relevant reports for sign-off."
+Please refer to
+0401/TAVIT-GEN-MTB-T-0014 for security test procedure plan.
+Please refer to 0401-MTB-TC-020 for the security test results and findings / response which are covered
+under TAVIT scope that has been carried out before the performance test was conducted.
+3
+"Handling and Closure of NIVP/NICD is pending from TCAJV, which is agreed to be a
+Perfromance Testing deliverable.
+As per the process agreed ""1. The NICD will be converted to a NIV Checklist. 2. The Subcontractor will
+then fill in the details 3. These will then be verified by JV 4. JV and subcontractor will sign this document
+which will be submitted as an appendix to the Performance Test report 5. The PT report will be coded
+and closed by CxA/Engineer."" ADAC/CXA has not yet received NIVP documents for ICDs in scope.
+Contractor to rectify and resubmit."
+NICD document validation screenshots will be attached to the
+LAN PT CIR
+4
+“Refer Specification 274210, which requires FIDS to be capable of displaying MATV video as part
+of the flight information pages, or even as full screen television services. Specification states " MATV
+video streams shall be incorporated in the page layout by using the URL of the unicast page or multicast
+stream in the web page or as a separate window. Video shall be windowed, or displayed in full page
+according to the signage requirement." This has not been demonstrated yet. Contractor to provide
+status, plan for overall testing of FIDS along with MATV.”
+Based on the meeting scheduled and
+agreed with Cisco, TAVIT/TCAJV/CMA and ADAC on 25-Dec-19 and in consideration of the current
+design, the Proposed solution is to merge the (MATV and FIDS) VRF in order to achieve the multicast
+functionality between MATV and FIDS VRF. However, within VRF (MATV, FIDS and IPT) multicasts
+functionality has been demonstrated during SFAT/ISAT/PT. Please refer the test cases: 1.20, 1.21.
+5
+“Refer Current LAN Low Level Design which is approved by CISCO team. Currently the Contractor
+is unable to transmit Multicast in between FIDS to MATV VRFs. TCAJV has raised a Cisco TAC case, " SR
+
+687617403 : Nexus Support for Multicast traffic over 2 or more vrf" . Cisco has stated that the current
+hardware has limitations and this cannot be achieved. Contractor to clarify, rectify and demonstrate a
+complete working solution.”
+Based on the meeting scheduled and agreed with Cisco,
+TAVIT/TCAJV/CMA and ADAC on 25-Dec-19 and in consideration of the current design, the Proposed
+solution is to merge the (MATV and FIDS) VRF in order to achieve the multicast functionality between
+MATV and FIDS VRF. However, within VRF (MATV, FIDS and IPT) multicasts functionality has been
+demonstrated during SFAT/ISAT/PT. Please refer the test cases: 1.20, 1.21.
+6
+“Contractor has not followed process stated in approved documents such as "Configuration
+Management Plan" etc and the requirements of the Specification.”
+LAN CMP document has been
+attached to Annex C
+7
+“Contractor has not provided list of issues, Root Cause Analysis, fixes and changes performed to
+the system.” This has been covered in the issue tracker sheet. Please refer to NCR “MTC-CMA-0401CM-NCR-01394” which will be submitted separately.
+8
+“Contractor to provide details as per guidelines stated in documents such as CMP etc.” LAN
+CMP document has been attached to Annex C
+9
+“Contractor to provide all details of issues, changes etc from ISAT stage of the project. Refer NCR
+"MTC-CMA-0401-CM-NCR-01394" for more details.”
+Please refer to NCR “MTC-CMA-0401-CM-NCR01394” which will be submitted separately.
+10
+“Contractor has provided "ADAC MTB SIEM" use cases in this document. Contractor has stated
+the test cases required to be finalized for deployment. Contractor to conduct a joint workshop with
+ADAC / CMA/ CXA to take inputs and take necessary actions if any.”
+This has been communicated to
+ADAC/CMA/ and TCAJV as per the attached email. However, the extra SIEM licenses have to be provided
+by ADAC, in order to facilitate the additional use cases.
+11
+“Configuration of end devices description is missing in Access Switches in MTB. Contractor to
+rectify and revert.”
+The port level description is defined on all the uplinks and for systems in
+DC/MCRs.
+12
+“There are multiple Interfaces which are Code3, NMS-UPS for SCR/ANEL, MCR/ANEL,
+SCR/BOND, NMS-IPDU, BMS-NMS which as per agreement with ADAC IT teams, this will be replaced
+with Schnider DCIM solution. DCIM Solution to be demonstrated and signed off with CXA/ADAC for all
+UPS in scope.” As per the agreement these interfaces will be resolved upon DCIM approval.
+In summary therefore, and in light of the fact that the completion of all works associated with LAN
+Performance Tests for the ICT, have been completed following the manufacturer’s specific
+recommendations and are consequently fit for purpose and moreover satisfy the performance
+requirements for which they are intended in the Contract; in which case we consider your comments
+made to (CIR) No: COM-CIR-0401-TAVIT-0531 (ref: 1) to be unreasonable and without merit.
+On this basis, we kindly request you to proceed at the earliest to close out CIR ref: (1) to avoid any
+further delays. Please note that any delays incurred to date or which may be incurred by us as a result of
+your failure to approve / close-out CIR ref: (1) due to the abovementioned matter, shall be at your risk.
+In conclusion and in keeping with the purpose and spirit of SAA8 we intend to keep you / the Employer
+appraised (including vide the Risk Mitigation Meetings) of the impact of the abovementioned delays.
 Yours faithfully,

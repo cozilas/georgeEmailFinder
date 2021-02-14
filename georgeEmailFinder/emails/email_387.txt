@@ -1,8 +1,38 @@
-Subject: Chairman's Meeting
-Dear Sirs,
+Dear Sir,
+We refer to the Rev. 11.2 Programme update for the month of May 2019 (2) and hereby record the
+delays by the Contractor to FDB Form 4 submissions to ADDC, and energization in the Central
+Processor and Pier 2 as follows:
+1. In the Central Processor and Pier 2 the FOB Form 4 submissions to AOOC, and energization
+planned up to May 2019 were not achieved.
+2. The majority of FOB energization planned finish dates are delayed within the range of 8 to
+131 days since the planned completion dates in the January 2019 update i.e. in four months.
+3. The Contractor has re-sequenced the non-progressed FOB energization activities to eliminate
+its effects in this updated Programme. As a result, commissioning activities are stacked
+excessively in the Programme, without any justification of how resources on site will be either
+increased or productivity improved. This is not acceptable.
+Table 1 below demonstrates the activities in the Central Processor which have failed to achieve the
+Rev 11.2 Programme dates and require immediate improvement.
+Table 1: Progress of FOB Form 4 Submission and Energization in Central Processor as of 14 Jun 2019
+We acknowledge the various efforts taken by the Contractor to improve the progress of FDBs
+completion, however, it is evident that the Contractor and Subcontractor have not yet attained the
+desired momentum in order to recover the shortfalls to date. The Contractor's failure to achieve the
+planned progress to the FDB energization works will have an adverse effect on the completion of
+testing and commissioning of various building systems and interface testing in the MTB. Also, the slow
+progress in both ADDC Form 4 submission and subsequent energization still remains the dominant risk
+to commence and/or complete the Cause and Effect testing in the MTB. These delays are attributed to
+the wire joints rectification work, uncoordinated Testing and Commissioning schedule and shortage of
+Contractor resources and are therefore the Contractor's own delays.
+Further, we note that in the updated Programme (2) the Cause and Effect timeline has been revised
+from the Rev 11.2 Baseline Programme, and according to this revised timeline, the Central Processor
+Cause and Effect testing is now planned to commence on 23 June 2019. We reiterate that considering
+the remaining duration and the extensive amount of commissioning works required to be completed,
+it is also unlikely the revised target of Cause and Effect testing scheduled to complete on 30
+September 2019 can be achieved unless appropriate and immediate mitigation measures are
+implemented to expedite progress.
+In light of the above, the Contractor is directed to take immediate mitigation measures and all
+necessary actions to expedite the progress of ADDC Form 4 submission and energization activities in
 
-We refer to our letter cited above and note you are continuing to confirm certain aspects of the
-discussions that take place at the Chairman's meetings.
-We stand by the points made in our letter and remain content to rely upon the facts in respect of all
-aspects of our works, recorded as required by the Contract.
+the Central Processor and Pier 2 in order to recover the delays caused by the Contractor to date.
+We hereby reserve the Employers' rights under Clause 10.3 of the Conditions of Contract for any
+damage the Employer may incur as a result of the Contractor's slow progress.
 Yours faithfully,

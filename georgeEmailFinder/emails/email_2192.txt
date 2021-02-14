@@ -1,11 +1,48 @@
+
 Dear Sir,
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a
-variation.The nature and extent of the variation is provided below.
 
-Delete the Empl oyer's Requi rement Volume 6. Sub-Clause 13.2.4. 1 (c)
+This is an instruction under Sub-Clause 13.1.1 to initiate a variation. The nature and extent of the
+variation is outlined below.
+Volume 7, Sub-Clause 13.3.3.15 c)
 
-"At each station the Contractor shall provide a single cooled water storage buffer tank with a minimum
-capacity of 70m3 for the I-type stations and 140 m3 for the X-type stations to serve the AHU's in the
-event of power loss of the chilled water source".
+Sub-Clause 13.3.3.15 c) is deleted in its entirety and replaced with the following:
+Sub-Clause 13.3.3.15 Repair of Segments.
+
+c)
+Categories of segment defects are defined as minor, medium and major, as shown in the table
+below:
+
+"Minor"
+
+"Medium"
+
+"Major"
+
+Broken edge < 5mm Air holes < Bmm
+Crack width < 0.15mm Crack depth < 20mm No need for repair Broken edge 5mm to 25mm Air holes
+Bmm to 14mm
+Crack width 0.15mm to 0.20mm Crack depth < 20mm
+
+Surface depression < 20mm Can be repaired
+0.20mm Crack depth > 20mm
+
+Broken edge > 25mm Air holes > 14mm Crack width >
+
+Surface depression > 20mm Will be rejected
+i-
+
+Minor defects can be accepted without repair.
+
+iiMedium defects can be repaired only after the detailed method statement has been given a
+SONO from the Engineer. This does not release the Contractor from his obligations to satisfy the
+Employer's Requirements, including but not limited to Volume 7, Clause 12.3.1.1 Precast concrete
+segmental linings shall be of waterproofing class 1.
+iiiWhere a major defect occurs prior to the final placement of the relevant segment in the tunnel
+it will be rejected.
+iv-
+
+All Segment defects that are in contact with the gasket must be repaired.
+
+Contractor is required to provide a detailed written cost assessment of any potential impact as
+subsequence of this Engineer's Instruction.
 Yours faithfully,

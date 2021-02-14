@@ -1,32 +1,56 @@
+
 Dear Sir,
 
-This is a direction under Sub-Clause 13.2.1for the Contractor to submit a quotation,both as to price and
-any possible delay for the Variation proposed by the Engineer as outlined below:
+Further to the Engineer's Instruction of reference 4) issued pursuant to General Condition ("GC") 13.1.1
+of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to the varied
+scope, quantities and direct costs in accordance with its GC 13.2.2 obligat ions.
 
-a)
-Delete the entrance at bus terminal including shelter, lifts and escalators and,delete the entire
-subway leading to bus terminal;
-b)
-In connection with the above entrance, delete the design scope (up to M3 stage) instructed
-under Engineer's Direction issued under letter reference 2),
-c)
-Construct a subway and open well staircase in the 'Right of Way' of the lane (sikka) as indicative
-ly shown in the enclosed sketch titled 'Option e - Final Situation';
-d)
-Construct a subway and provide a standalone pop-up lift as indicatively shown in the enclosed
-sketch titled 'Option e - Final Situation';
-e)
-Design only of enhancement to the existing lane (sikka) to provide a comfortable shaded
-walkway at grade to ensure better connectivity to the bus terminal. Curtailthe design at M3 stage,
-aligning with the above Engineer's Direction issued under letter reference 2);
-f}
+The Contractor's detailed valuation of this variation is enclosed as attachment 1 to this letter and
+summarized in table 1) below. Further supporting particulars in relation to the Contractor's pricing
+methodology can be found in attachments 2, 3, 4 and 5.
 
-Modification to the existing parking and service road arrangement to accommodate the new
+SIN
 
-lift position
-g)
-Contractor shall interface with Al Fardan properties for temporary works and to confirm
-the final location of the open staircase and the pop-up lift.
+Additional Works
 
-The Contractor shall submit the quotation within 7 days of this direction.
+Amounts (QAR)
+
+1)
+
+Smoke Shaft Deletion
+
+(421,639.99)
+
+2)
+
+Additional Jet Fan Requirements
+
+3)
+
+Additional Design Costs 146,416.91
+
+Total
+
+1,981,405.54
+
+2,256,628.63
+
+Table 1) Summary of Valuation
+
+The deletion of smoke shafts is a result of MSl's TVS design development. Along with the deletion of the
+smoke shafts MSI introduced new jet fan niche requirements for the Al Sudan and Sport City
+switchboxes and relocated one set of jet fans in the Bin Mahmoud switchbox. This design development
+is clearly shown in the revision 1 of the respective ICD's when compared to their revision 0, all enclosed
+to this letter in attachment 4).
+
+At the time of the Instruction reference 4) the construction of the smoke shaft at the Bin Mahmoud
+switchbox had no option but to continue as the late design change would have directly impacted the
+programme. Therefore no cost saving has been considered in relation to the aforement ioned smoke
+shaft. This smoke shaft forms an integral part of the emergency exit structure and its final design is
+currently being developed.
+
+The interim adjustment of the Contract Price is of the net amount of QAR 1,981,405.54 . The Contractor
+reserves its rights to recover any time related costs in connectio n to this Variation which shall be
+addressed under a separate cover.
+
 Yours faithfully,

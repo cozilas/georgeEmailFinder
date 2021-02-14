@@ -1,99 +1,16 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0189
-Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting Finalisation of
-Snagging, De-Snagging and T&C Activities to L2.0 (as of 15 December 2019)
-Dear Sir,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays to the processing of re-entry permit / NOCs and
-activities of Others affecting finalisation of snagging, de-snagging and T&C activities to Level L2.0
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Specifically we urge you to review and respond to Contractor’s Material submittals without further
-undue delay. Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-In the period between 20 November 2019 to 12 December 2019, we submitted various Re-Entry Permits
-/ NOCs, requesting permission to re-enter various Duty Free and F&B Outlets to Level 2.0 to allow us
-complete various Works, such as snagging, de-snagging and testing and commissioning activities. These
-Permits or NOCs include the following 28 nos. of RDD Form 15s summarised in Table 1 below:
-Table 1
-Sr. No. NOC No.
-RU No. /Room No.
-Description
-Date Request Issued
-[TCA JV to CMA]
-Response Due Response Received (as of 15-Dec-19) Reply Overdue By
-[calendar days]
-1
-RDD-606
-2082 fire alarm
-20-Nov-19
-23-Nov-19
-Not received 22.00
-days
 
-2
-RDD-608
-2037 fire alarm T&C 20-Nov-19
-23-Nov-19
-Not received 22.00
-days
-3
-RDD-617
-2037 Clearing of Room snagging
-20-Nov-19
-23-Nov-19
-Not
-received
-22.00 days
-28
-RDD-698
-MOFA Fire extinguisher
-12-Dec-19
-15-Dec-19
-Not
-received
-The information recorded in Table 1 shows the NOC reference number, the description of works and
-room number, plus the date the request for an NOC was made, and when the response to our request
-for access was due; the latter being based on a nominal three-day turn-around time. In other words,
-approval is traditionally granted within three (3) days from our request being issued.
-However, the information recorded in Table 1 further records that at the cut-off date associated with
-our email sent to you on 15 December 2019 (enclosed herewith), none of the NOCs have been
-responded to on 15 December 2019. Therefore, this demonstrates that for the all of the 28 NOCs
-requests, the responses are exceeding and by all accounts continuing to exceed the three day turnaround response time by periods of upwards of 22 calendar days late.
-This is unacceptable, particularly at this stage of the Project. This is made worse by the fact that not
-only have we previously written to you on matters such as this by way of our letters
-MTB/TCA/AECOM/L/0014336 dated 20 May 2019 and MTB/TCA/AECOM/L/0014983 dated 5 November
-2019, but we have issued various reminders to you, including but not limited to our e-mail 15 December
-2019 (copy attached hereto), but this has been overlooked and the status of the overdue NOC requests
-remain.
-The purpose of this E-notice is two-fold: Firstly, we wish to notify you of appreciable concerns we have
-in relation to the NOC process, specifically the failure on your part to process our requests for re-entry
-promptly and issue the approved NOCs in a timely manner, and Secondly the invariable impact that this
-failure has on our ability to complete the snagging, des-snagging and testing and commissioning
-activities, amongst other things; and accordingly urge you to ensure that the responsible third-party (i.e.
-Employer’s Tenants) responds to the requested NOC issuance in a prompt and timely manner.
-We also put on record that there have been numerous instances of significant delays to respond to our
-NOCs, wherein your substantial overdue responses were received, only to observe that the NOC was
-rejected. This is unacceptable. We reiterate once more that in order to avoid any further delays, we
-advise that in these instances, you may possibly either reject the NOC within the three (3) days turnaround response period so we can take action accordingly or provide an alternative date instead.
-Potential Impact:
-Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
-Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
-Consequently, the more we are prevented from working due to the combined effects of the above, the
-more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
-specifically, we urge you assist with the prompt processing of our Re-Entry Permits allowing us access as
-well as urging the Employer’s Other Contractor to work with us so as not to delay our Works. Kindly
-ensure that such matters are resolved immediately from the date of receipt of this Notice.
+Subject Settlement Observed in Asphalt and Manholes at DAS LO.O
+Dear Sir,
+We write with reference to the Non Conformance Reports (NCR's) (1) and (2) regarding the above
+subject. The recent settlement observed in the asphalt and manholes at DAS LO.O has raised concerns
+which must be proactively addressed by the Contractor. The Engineer further draws the Contractor's
+attention to the ongoing asphalting works being carried out at the same location (see enclosed photo
+dated 13 December 2019), and requests that the Contractor urgently submits the required CAPA's to
+close out these NCR's.
+We urge the Contractor to immediately attend to the above in order to identify the root cause of this
+observed settlement, and to competently safeguard against any potential future settlement.
+We hereby reserve the Employer's rights under Clause 10.3 of the Cond itions of Contract for any
+delays and consequential damages resulting from the Contractor's fa ilures to address these
+noncompliant
+works.
 Yours faithfully,

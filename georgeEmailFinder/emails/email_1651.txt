@@ -1,37 +1,76 @@
 Dear Sir,
+Further to the Client's letter reference 1), the Consultant is hereby instructed to proceed with the
+implementation in the design of the changes as described in the enclosed MSI ICD Register Group 2 and
+3 Classifications, as a result of the ongoing interfacing process with MSI and in order to ensure
+compliance with MSI functionalrequirements.
 
-The Engineer’s Assistant is hereby notified of the ongoing dispute between the Contractor and the BACS
-Subcontractor in respect of the armored instrumentation cable requirements as evidenced in
-attachment 1) enclosed to this letter. In escalating the matter to the Employer, the Contractor
-summarizes hereunder all aspects in relation to the subject and the aforementioned dispute between
-the Contractor and the Subcontractor for the sole purpose of obtaining the necessary directions on how
-to proceed with the works.
+The design group changes are defined as follows:
 
-Table 1) Correspondence with BACS Subcontractor Re. Armored Cable Requirement of attachment 1)
-The Engineer’s Assistant should note that the requests for additional payment stem from the simple fact
-that the same had allegedly not been accounted for during the Framework Agreement tender process
-undertaken between the Employer and the Subcontractor. Said assertion may or may not be true but in
-any event should not become the basis of an event or circumstance of impeding nature to the execution
-of the works.
+First Stage:
+Group 1 Design Changes - These changes will be incorporated in the DD2 Arc/Str/MEP deliverables
+which will be submitted according to the Design Programme issued on 23 November 2015 with letter
+reference M006- ATK-COM-LTR-00826.
 
-The Contractor has not up-lined the Subcontractor’s request for additional payment to the Employer
-since the provision of armored instrumentation cables does not classify as a change to the works. This is
-evidenced in attachment 2) to this letter whereby the relevant QCS 2014 specifications, Section 21 –
-Part 06 [Cables and Small Wiring] state: “Instrumentation Cables – Digital Signals: (f) galvanized steel
-wire armor”.
+Second Stage:
+Group 2 Design Changes - The design changes that affect the MEP pricing will be incorporated before
+the issuance of the MEP Tender Bulletin. The BIM models must be updated to include the Group 2
+Design changes, and the updated BIM model will be issued to the Architectural Branding Consultant on
+03 January 2016 to enable the start of the M3 design.
 
-Moreover, the Contractor has become aware that the other Metro Lines currently proceed with their
-respective BACS works with the supply and installation of non-armored cables. Again this may or may
-not be true but surely consists of a deviation from the Employer’s Requirements, one which the
+Third Stage:
+Group 3 Design Changes - These design changes will be incorporated upon the confirmation of the
+Engineer or the Client.
 
-Contractor would require an official waiver and / or relaxation by the Employer prior to incorporating
-into its works.
+We confirm that this instruction is given pursuant to Sub-Clause 4.4 [Variations] of the Agreement.
+Accordingly, the Consultant is requested to submit a proposal for this variation pursuant to Sub-Clause
 
-In conclusion therefore, the Contractor kindly requests from the Engineer’s Assistant clear direction as
-to whether armored BACS instrumentation cables should be provided as part of its scope of works,
-whether in whole or in part. Should the Engineer’s Assistant or the Employer express the view that
-armored cables will not be required for the whole or part of the works the same should be issued by
-way of an official waiver or via the official Request for Change (RFC) process of amending the Employer’s
-Requirements.
+4.4.2. Upon receipt thereof, the Client shall make a fair adjustment to the Agreed Compensation in
+accordance with Sub-Clause
+4.4.1.
 
+For the avoidance of doubt, the Consultant is reminded of its obligations under Sub-Clauses 4.4.4 - 4.4.7
+of the Agreement and is hereby informed that the urgent incorporation of these instructions to the
+design is of vital importance for the timely completion of the Works.
+
+We remain at your disposal for any further information and/or clarificatio '
+Dear Sir,
+
+The Client refers to letter 1) whereby the Consultant requested a formal direction for a) the design of
+the concourse slab for Al Sadd Station in the FoH public toilets areas and b) incorporation of MSI
+requirements for openings at concourse slab .
+
+Further to the above, the Client directs the Consultant as follows:
+
+a)
+The Consultant is hereby instructed to make provisions (recesses) of 250mm depth in the
+concourse slab of Al Sadd Station for the drains in the FoH public toilets areas marked-up on the
+enclosed Public Facilities Floor Plan at Al Sadd concourse level, considering the drain locations from the
+signed-off ICD reference M006-GDB-ARC-ICD-00006 Rev.3.
+
+Moreover, the Consultant is expected to optimize the width of these recesses in correlation with the
+drainage Design.
+
+b)
+The Consultant is hereby instructed to incorporate in the design the two openings in the AlSadd
+concourse slab at gridlines T-2 and T-3 highlighted in blue on the enclosed layout, as a result of the
+ongoing interfacing process with MSI and in order to ensure compliance with MSI
+functionalrequirements.
+
+In addition, the Consultant is informed that this instruction amends the size and location of the
+corresponding openings at gridlines T-2 and T-3 from MSl's ICD 00066 previously instructed by the Client
+under letter reference 2).
+
+The Client confirms that this instruction is given pursuant to Sub-Clause 4.4 (Variations] of the
+Agreement. Accordingly, the Consultant is requested to submit a proposal for this variation pursuant to
+Sub-Clause 4.4.2. Upon receipt thereof, the Client shall make a fair adjustment to the Agreed
+Compensation in accordance with Sub-Clause 4.4. 1.
+
+For the avoidance of doubt, the Consultant is reminded of its obligations under Sub-Clauses 4.4.4 - 4.4. 7
+of the Agreement and is hereby informed that the urgent incorporation of these instructions to the
+design is of vital importance for the timely completion of the Works.
+
+Regarding the openings in the Al Sadd concourse slab at gridlines W-14 and W-15 marked-up on the
+layout enclosed in the Consultant's letter reference 1), the Consultant is informed that these changes
+were instructed by the Client under letter reference 2). No further amendment to these openings is
+currently foreseen.
 Yours faithfully,

@@ -1,35 +1,50 @@
-Subject: Agreement of principle issues
+Subject: RE: Post SAA8 Sub-Clause 2.26: E-Notice No. 0180
+Engineer’s Response to RFI/0401/17582 – Introduction of Galvanised Steel Plates to North and South
+Pavilions – Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
+Variation / Change into Works
 Dear Sirs,
-We refer to meetings that took place at senior level between the Part ies on 14 and 22 January 2020
-in respect of the way forward to completion of this Project.
-We are pleased to confirm mutual agreement on the principle issues as follows:
-1. TCA JV commits to fund their own cost, which inclusive of JV staff, labour and equipment etc.
-until the Substantial Completion date. The total contribution from JV will be approximat ely
-300M AED.
-2. OPTION A: ADAC will return the current Retention Bond in the sum of 860 M AED in exchange
-for the provision of cleared funds to the project by the Banks in the same value. ADAC and JV
-will administer this amount through an Escrow Account.
-Option B: Parties will jointly appoint a 3rd Party to assess the Claims and Variations submitted
-by TCA JV to ADAC that is approximately 1.3 BAED. The non-binding outcome of the 3rd Party
-assessment value will define the amount ofthe Retention Bond that will be returned back to
-TCA JV. The target duration to fin "alize this process is maximum 6 weeks.
-3. TCA JV through their bank will issue an Advance Payment bank guarantee for 25 1 M AED
-within a week in favor of ADAC, ADAC will release the payment as long as the JV clea rly shows
-and evidence the distribution of the Payment to t heir respect ive subcont ract ors.
-4. TCA JV Project Management Organizat ion will be modif ied with replacing some of the key
-staff. The revised organizat ion will be officially submitted to ADAC.
-5. ADAC has requested to finalize t he sett lement agreement wit h TAV IT.
-6. It was highlighted by TCA JV management that, Side Agreement topic, which covers the
-Variation Orders and Subsidence subjects, will be elevated to higher Governmental
-Authorities for conclusion.
-7. TCA JV will submit a schedule to ADAC defining the completion status by 30 June 2020
-(minimum achievements are agreed that PIERS and CP Cause & Effect will be finalized by AHJ)
+We refer to your letter ref: (1) following issuance of our E-Notice No. 0180 (ref: 2) in which you allege
+that we are somehow responsible for the provision of galvanised steel plates to both the North and
+South Pavilions and are not entitled to a Variation [and additional time].
+For the reasons comprehensively set out in our letter ref: (2) we disagree.
+We remind you that further to the Mechanical Works Completion Inspection (MCI) held on 22 October
+2019, we raised RFI/0401/17582 Rev. 00 on 5 November 2019, in confirmation of M/s Profire’s
+comments endorsed on WIR Number PF MCI-SUP-191022-CP L2.0 TO L3.0 CS-10 advising us “to add
+steel checkered plates above the entire grating area at the north pavilion”. We recorded that a similar
+inspection to the south pavilions were carried out by Ms/ Profire, with no comments whatsoever; hence
+no requirement for any checkered plate.
+We sought your further advice on how we were expected to address the above disparity in the two
+inspections, and in the event the checkered plate was required, then we asked that you provide revised
+IFC Drawings reflecting the Employer’s requirements for both Pavilions.
+We then received an advance response to RFI/0401/17582 on 19 December 2019 informing us
+“Contractor to provide galvanized steel plate underneath the grating area of North and South pavilions
+to provide a ceiling for up-right sprinkler operation.” This was followed by a formal response on 4
+December 2019, in which the Employer’s Design Consultant states:
+“… per ADAC-AHJ & HOE, the areas where the grating is located need to be comply with NFPA hence
+ceiling to be provided accordingly. However, to minimize works on site and to assist contractor with site
+progress, KPF and ADAC-AHJ would accept closing the grating between the light fittings with thin
+galvanized steel plate instead of creating a full floor …”
 
-and critical remaining works between pt of July 2020- 3Pt of August 2020).
-8. Subject to TCA JV completing the Works in accordance with the dates agreed and confirmed
-elsewhere in these minutes, and subject to the resolution in line with the process set out in
-the Contract of TCA JV's claims and ADAC's counterclaims, ADAC will release the remaining
-securities, if any, in accordance with the Contract.
-We thank you for your positive approach and commitment and confirm we are proceeding on the
-basis of these agreements: we trust this meets with your approval.
+As noted in E-Notice No. 0180 (ref: 2), given that the works at the North and South Pavilions have
+already been completed based on IFC Drawings and approved Shop Drawings, then the above
+requirements represents an unequivocal change in design and scope. This warrants provision of revised
+IFC Drawings reflecting the Employer’s changed requirements; and that we require an Engineer’s
+Instruction/variation Order if such works are to be undertaken.
+That said, in rejecting our E-Notice No. 0180 and our request for an EI / VO, you have sought to reply on
+the purported non-compliance with NFPA 13, Clause 8.6.4.1.1.1, as means of alleging we are not
+entitled to a variation. However, this Clause actually refers to ‘Distance below Ceilings’ which for the
+avoidance of doubt, is in fact, worded as follows:
+‘Under unobstructed construction, the distance between the sprinkler deflector and the ceiling shall be
+a minimum of 1 in. (25.4 mm) and a maximum of 12 in. (305 mm) throughout the area of coverage of
+the sprinkler.’
+In light of this, we fail to see the correlation between this and the requirement for us to provide “thin
+galvanized steel plate” to the north and south pavilions. Unless expressly provided for in the Contract,
+we are not responsible for the design of the Works; the Employer’s Design Consultant is. We are
+however entitled to additional time and cost in circumstances where the Employer varies the design
+(both the direct cost of the change as well as the cost of delays) such as in the instant matter and
+detailed within letter ref: (2).
+We therefore reiterate that until such time as you comply with the express requirements of SAA8
+relating to change (and issue us with revised IFC Drawings and a covering EI / VO), we are unable to
+proceed with implementing the additional works described above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

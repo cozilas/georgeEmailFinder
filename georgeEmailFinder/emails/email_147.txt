@@ -1,21 +1,34 @@
-Subject:Rejection of Additional Works: Verification Boreholes and Grouting
+Subject:Notification of Potential Damage to Utilities due to Engineer’s Verbal Directives to Increase
+Amount of Injected Grout from 200L to 300L to Various Areas
 Dear Sirs,
-We refer to the above referenced e-mails (copies attached) concerning the following matters:
+Specification Section 313223.33 governs ‘Loose Soil Zone Permeation Grouting under Manholes and
+Pipes’. Article 3.7.A ‘Utilities and Obstruction’ states that: ‘The Contractor shall undertake the Works in
+a manner such that existing services and utilities are not impacted, displaced or damaged by the
+grouting works.’ We further record Article 3.9.A.1.a (under ‘Acceptance Criteria’) states amongst other
+things that: ‘Permeation grouting shall be deemed successfully completed if … the following conditions
+are met: For treated soils at any point within treatment zone: a minimum of SPT N60 of 30 in
+accordance with BS EN ISO 22476-3. Where any SPT result is less that the minimum value, further details
+shall be provided to the Engineer. Further grouting may be required to improve the grouting where this
+criterion is not met.’
+With this in mind we wish to put on record that we have received a series of oral instructions from you
+where you have insisted that we increase the amount of injected grout from 200L to 300L at each layer
+through the TAM nozzle. This has been discussed during various meetings and workshops, and was most
+recently mentioned at Item 2.7 of the MTB Subsidence Weekly Meeting dated 2 March 2020 (ref: 4).
+However, having done so, and as recorded in inter alia the above referenced e-mails (refs: 1 to 3) [copies
+attached hereto], we have since observed heave to each of the following areas:
 1.
-RHDHV e-mail: 12 February 2020 relates to VBH suggestions for Sewer Line 2301 to LS22;
+E-mail dated 6 February 2020 relates to VBH results near MV Chamber at Head of Pier 2
 2.
-RHDHV e-mail: 17 February 2020 concerns additional verification SPT boreholes S2304 – S2305;
+E-mail dated 15 February 2020 relates to grouting works in the vicinity of GH19 and GH20
 3.
-RHDHV e-mail: 24 February 2020 associated with additional verification borehole to HM2301;
-and
-4.
-ADAC e-mail: 5 February 2020 relates to additional grouting to areas LS22 – 2301.
-All of the above referenced e-mails point to the requirement for us to undertake additional works;
-which we hasten to add, are to areas where our remediation works have already been completed and
-signed off by you. Moreover, the additional work has yet to be formally instructed by you. Therefore
-until such time as you issue us the requisite Engineer’s Instructions directing us to undertake the
-additional works, we are not obliged to undertake the same. Nor are we obliged to expend monies on
-what is transpiring to be a ‘trial and error’ empirical method of design. Therefore we will not be
+E-mail dated 16 February 2020 relates to grouting to sewer line on GSE read between GH08GH09
+The attached report from BAUER on GH (S1204 – S1205) provides further explanation on how the heave
+is activated. We are therefore appreciably concerned that the heave has the potential to damage the
+existing utilities in the immediate vicinity and therefore this letter serves to notify of this likelihood.
+On the basis of existing types of soil strata “with high silt and clay content”, this is classified as unpermeable soil; therefore increasing the injected grout quantities does not result in an increase in the
 
-entertaining any of the additional requirements described in and/or attached to the above noted emails. Any further work will cause us to revert to SAA8 i.e. ROM then a Variation instruction.
+specified strength of SPT N60 of 30. Increasing the volume of grout is more likely to cause potential
+heave and damages to the existing services and utilities. Hence, we do not accept any liability for
+resultant damage arising therefrom. Moreover, we further advise that to the extent that any potential
+damage causes delay, then we will be seeking to recover the associated additional time and costs.
 Yours faithfully,

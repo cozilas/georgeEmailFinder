@@ -2,76 +2,84 @@
 Dear Sirs,
 
 Further to the Contractor's fully detailed initial interim Claim Nr 036 submission issued under cover of
-reference 9 and, further to a subsequent January 2016 monthly Claim Nr 036 update issued under cover
-of reference 2, the Contractor hereby provides its February 2016 monthly update of said Claim in
+reference 7 and, further to a subsequent December 2015 monthly Claim Nr 036 update issued under
+cover of reference 3, the Contractor hereby provides its January 2016 monthly update of said Claim in
 accordance with General Condition ("GC") 20.1.6(b) of Volume 3 of the Contract.
 
-The quantum of the delay and the extension of time entitlement has not changed from the previous
-January 2016 monthly update for Claim Nr 036 contained within the below table:
+On 17 December 2015 the Contractor received the Engineer's/Engineer's Assistant's instruction , via
+reference 4 "to resume design activity for Al Rayyan Station and for the associated Tunnel Sections,
+effective the day after this letter is formally received by the Contractor via Aconex ." However, the letter
+was received on Thursday 17 December 2015; therefore, the actual day after receipt was Friday 18
+December 2015. Consequently, the next business day (pursuant to GC 1.4.2) within the Country/Qatar
+following receipt of the 17 December 2015 letter , was Sunday 20 December 2015 . This is therefore the
 
-Completion Milestone
+effect ive date for the lifting of the suspension of the designs to the associated Tunnel Sections to Al
+Rayyan Station. The Contractor has
 
-Contract "Time for Completion" (TND) Impacted I Delayed "Time for Completion" Due to Claim/Delay
-Event (Delay Event ended upon effective date of
+therefore revised its Time Impact Analysis ("TIA") accordingly based upon the 20 December 2015
+effective lifting of suspension date (the original TIA is included within Appendix B of the initial Claim
+submission).
+
+The revised TIA (hard and soft copies) is attached to this January 2016 update.
+
+The Contractor apologises for not addressing the lifting of the suspension within its December 2015
+update.
+
+The quantum of the delay and the extension of time entitlement now claimed within this interim
+January 2016 monthly update for Claim Nr 036 are contained within the below table:
+
+Completion Milestone Contract "Time for Completion" (TND) Impacted I Delayed "Time for
+Completion" Due to Claim/Delay Event (Delay Event ended upon effective date of
 20.12.15).
 
 Delay (Calendar Days) - Extension of Time Entitlement
 
 TUNNEL SECTION:
-Tunnel - Doha Zoo to Al
-Rayyan South (Design only) (Ref M006.YW.BB.ZOO)
-
+Tunnel - Doha Zoo to Al Rayyan South (Design only) (Ref M006.YW.BB.ZOO)
 31.07.16
-
+09.01.17
+162
+Tunnel - Al Rayyan South to Muaither (Design only) (Ref M006.YW.BB.RYS)
+31.07.16
 09.01.17
 
-162
-Tunnel - Al Rayyan South
-to Muaither (Design only) (Ref M006.YW.BB.RYS)
+162
 
-31.07.16
-
-09.01.17
-
-162
-
-Therefore, (as per the January 2016 Claim Nr 036 update) due to the Claim Event/Delay
-EvenVSuspension, the Contractor is currently entitled to an extension of 162 days to the Time for
+This January 2016 Claim Nr 036 update therefore demonstrates that, due to the Claim EvenUDelay
+EvenUSuspension, the Contractor is currently entitled to an extension of 162 days to the Time for
 Completion for (1) the (Design of) Tunnel Section 'Doha Zoo to Al Rayyan South' (Section Ref
+M006.YW.BB.ZOO) and,
+(2) the (Design of) Tunnel Section 'Al Rayyan South to Muaither' (Section Ref M006.YW.BB.RYS),
+pursuant to GC 8.4.1(b) and GC 8.9.1(a) of Volume 3 of the Contract and, pursuant to Article 172.1 (good
+faith) and Article 220 (unjust enrichment) of the Qatar Civil Code (Law No 22 of 2004).
 
-M006.YW.BB.ZOO) and, (2) the (Design of) Tunnel Section 'Al Rayyan South to Muaither' (Section Ref
-M006.YW.BB.RYS} , pursuant to GC 8.4.1(b) and GC 8.9.1(a) of Volume 3 of the Contract and, pursuant
-to Article 172.1 (good faith) and Article 220 (unjust enrichment) of the Qatar Civil Code (Law No 22 of
-2004).
+The Contractor also confirms that the following costs information in relation to Claim Nr 036 has been
+received by the Contractor over the past month. Accordingly, the Contractor also provides this January
+2016 Financial monthly update to Claim Nr 036.
 
-The Contractor confirms that no further costs information in relation to Claim Nr 036 has been received
-by the Contractor over the past month. However, to date, the Contractor has received no payment from
-the Employer with respect to Claim Nr 036. Accordingly, the Contractor provides this February 2016
-Financial monthly update to Claim Nr 036 as follows.
+On 21 January 2016, the Contractor received its Lead Designer's claim FCN 115 entitled "Resume Design
+to Al Rayyan Station" (reference M006-ATK-COM-LTR-00928, dated 21 January 2016 which is attached
+to this
 
-As mentioned within the January 2016 monthly update, the Contractor received its Lead Designer's
-claim FCN 115 with respect to the resumption of design to Al Rayyan Station and the related Tunnel
-Sections. The sum taken to value within the Contractor's Claim Nr 036 January 2016 monthly update
-with respect to FCN 115 is OAR 876,680.00 plus, the Contractor's overheads and profit ("OHP") addition
-of OAR 113,968 .00. Finance costs are therefore due from the Contractor's receipt of FCN 115 on 21
-January 2016:
+update letter). FCN 115 is a combined claim for the resumption of design/remobilization costs for the
+Lead Designer's design teams involved with (1) the suspended designs to Al Rayyan South Station
+(Contractor's Claim Nr 029) and, (2) the suspended designs of the tunnels associated with Al Rayyan
+South Station (Contractor's Claim Nr 036). It is difficult to currently separate these costs so, for the
+present January 2016 updates of the aforementioned Contractor's Claims; the Contractor has
+apportioned 50% of the FCN 115 claimed figure (i.e. 50% of OAR 1,753,360.00 = OAR 876,680.00) to
+each of the Contractor's Claim Nrs 029 and 036.
 
-(QAR 876,680.00 (50% of FCN 115 as per January 2016 update) + QAR 113,968.00 (OHP on last)) x 39
-days (21 January 2016 to 29 February 2016)/365 days x 4.25% p.a. (Finance rate) = QAR 4,499.00.
+The Contractor's overheads and profit "(OHP") upon same is therefore: OAR 876,680.00 x 13% (OHP
+rate) = OAR 113,968.00.
+This provides a January 2016 updated Financial Summary for Claim 036 as follows :
 
-OHP upon Finance costs = OAR 4,499.00 x 13% (OHP rate) = QAR 585.00.
+FINANCIAL SUMMARY
 
-Therefore, total Finance Costs including OHP upon same = QAR 4,499.00 + QAR 585.00 = QAR 5,084.00
-
-This provides a February 2016 updated Financial Summary for Claim 036 as follows:
-
-FINANCIAL SUMMARY
-
-Description of Value/Cost
+Description of Value/Cost
 
 Qatari Riyals
 
-Contractor's Direct Suspension Costs
+Contractor 's Direct Suspension Costs
 
 TBC
 
@@ -80,28 +88,29 @@ Contractor's MEP Designer's Suspension Costs (Awaited)
 
 TBC
 
-Contractor's Architectura l Finishes Designer's Suspension Costs (Awaited)
+Contractor's Architectural Finishes Designer's Suspension Costs (Awaited}
+
 TBC
-Contractor's Vertical Horizontal Transportation Subcontractor's Costs (Awaited)
-TBC
+
+Contractor's Vert ical Horizontal Transportation Subcontractor's Costs (Awaited) TBC
 Contractor's Controls Subcontractor's Costs (Awaited)
 
 TBC
 
-Contractor 's Design Verification Engineer's Costs for Lump Sum Works (Awaited)
+Contractor's Design Verification Engineer's Costs for Lump Sum Works (Awaited} TBC
+Contractor's Design Verification Engineer's Costs for Provisional Sum Works (Awaited)
+
 TBC
-Contractor's Design Verification Engineer's Costs tor Provisional Sum Works (Awaited)
-TBC
+
 Contractor's Overheads & Profit 113,968.00
 Finance Costs (and OHP upon same)
+Total Claim (to date)
 
-5,084.00
+TBC
 
-Total Claim (to date i.e. to 29 February 2016)
+990,648 .00
 
-995,732.00
-
-Accordingly, Claim Nr 036's revised and claimed value to 29 February 2016 is QAR 995,732.00.
+Accordingly , Claim Nr 036's revised and claimed value to date is QAR 990,648.00.
 
 As the Claim Event giving rise to this Claim has a continuing effect and the Contractor is still collating
 further particulars, the Contractor shall be submitting further interim Claim submissions with respect to

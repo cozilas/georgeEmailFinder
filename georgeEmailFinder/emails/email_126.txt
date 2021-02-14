@@ -1,90 +1,16 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0240
-External FDB ADDC Approval – Requirement for Additional Type Test or GRP Enclosure– Request for
-Engineer’s Instruction (EI) and Variation Order (VO)
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters recorded in Annex A describe an attempt made by you at instigating changes to our existing
-scope of works associated with the ‘External FDB ADDC Approval’ which will require a valid Instruction
-and Variation Order in order for you to decide whether we are required to provide a type test of GRP
-enclosure.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 24 February 2020 [6:43 PM], we e-mailed our Electrical Subcontractor (ANEL) in connection with the
-‘External FDB ADDC Approval’ asking them to approach the manufacturer of the FDB (SCHNEIDER), for
-‘[an undertaking letter] and approach to ADDC for the approval of external FDB panels similar to
-attached block set approval processes was followed. Otherwise we are not able to close ADDC inspector
-comment’.
-ANEL replied on 25 February 2020 [8:22 AM] and advised us of the following:
-‘Schneider already discussed with ADDC and ADDC agreed with Schneider under the condition where
-ADAC needs to give acceptance as per the project specification approval
+Subject:
+Pipe Brackets for Support of Storm & Sewage Network at Airside, Pier 3 Head.
+Dear Sir,
+We refer to receipt of Bulletin 268 issued under letter ref: (1) and the ongoing discussions between
+ourselves and CMA/ADAC/NACO in relation to the storm and sewer pipe network supports at the Airside
+Pier 3 head, and herewith attach a structural design report that proves safe usage of the pipe brackets
+considering worst case loading scenarios as well the as built conditions of the noted area.
 
-Please find the attached conversation about it where AECOM accepted that installed material as per
-approved material. Hence ADAC need to provide letter to ADDC about this acceptance than it will be
-cleared
-Actually we assumed that this issue was closed last December. Anyhow this is the last situation and we
-are waiting ADAC/AECOM action on this’
-The above e-mails were forwarded to you on 25 February 2020 vide our e-mail at 11:55 PM in which we
-advised that ‘actions with you please advise.’ However, you failed to respond prompting us to e-mail
-you again on 8 March 2020 at 1:56 PM. You replied on 5 March 2020 [5:10 pm] stating:
-‘We discussed the same with ADAC and ADDC last Thursday and the conclusion can be summarized as
-follows:
-1.
-The contractor to provide type test for the installed panels approved by ADDC based on the
-installed enclosure (to proof the panel suitability for outdoor applications as well as ADDC approval for
-such application (As that is not currently available, please start the process with ADDC noting that ADDC
-rep had taken couple of photos during the last rain where water had seeped inside the panels despite it
-should be rated for outdoor application).
-2.
-Alternatively, study the option of providing GRP enclosure and that can be presented to ADDC
-as plan B.’
-We make the following comments and observations in relation to the above:
-1.
-The FDB equipment have been approved
-2.
-Following approval, the first batch of FDBs were assembled and inspected as benchmark, and
-prior to shipping Factory Acceptance Tests were undertaken, the execution of which was witnessed and
-approved by you (the Engineer) and the Employer’s Design Consultant.
-However, you are now expecting us to decide whether we “provide a type test for the installed panels
-approved by ADDC based on the installed enclosure (to proof the panel suitability for outdoor
-applications as well as ADDC approval for such application)” or “Alternatively, study the option of
-providing GRP enclosure ….” This expectation on your part is unreasonable.
-We have already supplied and installed the FDB equipment that complies with the requirements of the
-Contract and complies with the requirement of the Employer. It is not for us to decide to provide a type
-test or a GRP enclosure. This decision is for you and Others to make, not us.
-The corrective action here is for you to approach the Employer and for the Employer to draft an
-undertaking letter to ADDC confirming that all external panels are fabricated /delivered / installed as per
-specified and accords to the IFC design, and that the FDB equipment was approved by the Employer.
-This will eliminate any ADDC’s comments and concerns.
-However, you are now requesting us to undertake to provide a type test or provide a GRP enclosure;
-both of which are additional to our existing scope. This represents an attempt at changing the existing
-IFC requirements and an attempt at varying our scope of Works without adopting the contractual
-mechanism for instigating any change in design, this will require the provision of revised IFC Drawings
-and an accompanying Engineer’s Instruction/Variation Order for us to integrate such change into the
-Works.
-We therefore take this further opportunity in reminding you of the provisions of Clause 2.29 to Clause
-2.31 of Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we
-are not to proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued
-first. In which respect, it is your obligation to issue this Record first if you wish to instigate change to the
-Project; this is only after the additional time and/or costs impacts have been agreed between us
-beforehand.
-Therefore given that SAA8 laid down strict guidelines to follow if additional works are required and it is
-patently clearly this has been ignored, then this change will warrant a valid Engineer’s Instruction (EI)
-
-and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
-Works.
-Meanwhile, until such time as you take the action required of you in accordance with the express
-requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
-continue to proceed in accordance with the existing IFC design to the extent we are able to.
+Kindly note that an advance copy of this report was issued to you on 15 March 2018. Nevertheless, we
+herewith submit this report formally as requested to do so by you. Note also that this report is issued
+for CMA/ADAC/NACO review and confirmation. We remind you that we are not the designers for the
+Project, and accept no liability for the design. Therefore, the Employer’s Design Consultant will need to
+satisfy itself as to the calculations set out in the attached report. Following which, we look forward to
+receipt of your formal instruction for us to proceed with the requisite installations.
+This is for your kind information, record and necessary actions.
 Yours faithfully,

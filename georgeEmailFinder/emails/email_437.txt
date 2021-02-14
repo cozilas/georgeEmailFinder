@@ -1,38 +1,50 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0077
-Engineer’s Instruction No. 764 – Suspension – Glass Cladding in North Lounge Area and Engineer’s
-Instruction No. 765 – Proposal – Omit Class Cladding
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0088
+Delays to Installation of BLTS Portals and Recheck Stations to Level L0.0 due Inaction by the
+Employer / Employer’s Other Contractor (Fit-Out Works)
 Dear Sir
-On 28 January 2019, we received two Engineer's Instructions (‘EI’) under cover of your letters ref: (1)
-and (2) above, associated with the Glass Cladding Works in North Lounge Area to Level L2.0 of the
-Central Processor Area, both of which will have time and cost implications; hence this Delay Notice.
-Firstly, by EI No. 764 (ref: 1) you instructed us, in accordance with Conditions of Contract Clause 11.3
-and 16.7, ‘to suspend the Glass Cladding Works in North Lounge Room 88.C.L20.0711.05.AS ‘Lounge
-Lobby Tenant 047’ [as indicated in the sketch attached thereto entitled ‘Base Build Alteration Plan’]’
-EI No. 764 further stated that ‘the tenant (Etihad) will install its own cladding system in the locations
-shown therefore please suspend all Works necessary to minimise any abortive works accordingly.’
-Secondly, by EI No. 765 (ref: 2) you instructed us, in accordance with Conditions of Contract Clause 11.3
-and Sub-Clause 20.1.1(b), ‘to provide [you] a Rough Order of Magnitude (ROM) and proposal, for the
-omission of the Glass Cladding Works in North Lounge Room 88.C.L20.0711.05.AS ‘Lounge Lobby Tenant
-047’ [as indicated in the attached sketch]’ (this being the same sketch issued vide EI No. 764).
-We complied with your instruction and on or about 28 February 2019, submitted a ROM by way of
-Proposal Request Response (PRR) No. PRR/0401/0013-TCAJV Rev. 00 (ref: 3), which provided you with
-an initial valuation of the associated works in the amount of AED 443,560.47. This reflects inter alia the
-value of abortive work and additional shop drawings consequent on the Employer’s decision to change
-the scope of its design within the tenant area to Sections 5.15B and 5.14D to Level L2.0. In which
-respect, there has been a successive number of e-mails exchanged between us since February 2019 to
-date [May 2019] primarily associated with us endeavouring to agree upon the amount and value of work
-previously installed, as well as determine and agree upon the value of materials that were procured,
-manufactured and delivered but had yet to be installed, which are now omitted.
-Not only has the omitted works yet to be agreed between us at the date of writing [22 May 2019], but
-we are also understand the tenant’s revised scope [cladding system] has yet to fully crystallise.
-Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, we hereby notify
-you of our entitlement to claim:
-(i)
-An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.9.1(a)
-‘Consequence of Suspension’, or alternatively, Sub-Clause 16.5.1(c) ‘act of prevention’; and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Sub-Clause 16.9
-‘Consequence of Suspension’, or in the alternative, damages for breach of Contract.
-Interim and/or final details of the time impacts and adjustment to the Contract Price will be provided in
-due course pursuant to Conditions of Contract Sub-Clause 27 .1.5{a), (b) and (c).
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described herein
+may cause delay [and/or disruption] to the Works, and seek your swift resolution of the same
+The Event(s):
+On 30 April 2019, we received a letter from the Security Systems package subcontractor (‘ATLAS
+Security’); ref: MTB-ATLAS-TCA-L-0395, notifying us of a series of factors affecting the installation of the
+Baggage Labelling and Tracking System (BLTS) portals and re-check stations; including amongst other
+
+things, the effect that the delays to commencement and completion of the Employer’s Fit-out Works to
+Level L0.0 Sectors 5.12C and 5.22D is having on their works (refer to Table 1 below and the two marked
+up Shop Drawings appended hereto).
+Table 1
+Area Level Sector Remarks
+VIP Search Room
+L0.0
+5.12C Recheck station can be installed after completion of the works
+carried out by the Employer’s Other Contractor.
+VIP
+Floor must be completed by the Employer’s Other Contractor
+to facilitate the installation of the BLTS portals.
+Lounge 1
+The ceiling works carried out by the Employer’s Other Contractor
+must be completed to facilitate completion of the BLTS readers.
+First & Business
+5.22D Floor must be completed by the Employer’s Other Contractor
+to facilitate the installation of the BLTS portals.
+First & Business Search Room
+Recheck station can be installed after completion of the
+works
+carried out by the Employer’s Other Contractor
+Potential Impact:
+It is evidently clear that our ability to complete the BLTS and associated works to the areas indicated in
+Table 1 and reflected in the two marked up Shop Drawings appended hereto, have been and by all
+accounts continue to be delayed by acts of prevention on the part of the Employer and / or the
+Employer’s Other [Fit-Out] Contractor. If matters are allowed to continue, the delayed installation of
+the BLTS Works will have far wider ramifications and not only impact Testing and Commissioning but will
+invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
+potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Action Required:
+We therefore request your prompt action, decision or further instruction as may be applicable to resolve
+the matters referenced herein in order to mitigate such delay and/or disruption to the Works. Kindly
+ensure that such matters are resolved within ten (10) days from the date of this e-notice.
+Meanwhile, we hereby reserve our rights under the provisions of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [that have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time for
+Completion and any associated costs due to the event(s) and circumstances described herein.
 Yours faithfully,

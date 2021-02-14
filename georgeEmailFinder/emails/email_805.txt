@@ -1,23 +1,36 @@
+Subject:Clause 27.1.1: Notice of Claim
+Delay Notice No. 1099 – Delays to the Two-Hour Fire Rated Ceiling System
+Dear Sir
+On or about 7 October 2017, the Contractor raised RFVO/0401/1598-SC/039/B Rev. 00 associated with
+provision of a new 2 hour fire-rated ceiling system following the Engineer’s response to RFI/0401/10736.
+However, despite the Engineer not responding until in excess of four months later, on 26 February 2018,
+the Engineer was of the view that no Variation was warranted and no Instruction would be issued. This
+caused the Contractor to write to the Engineer on 10 March 2018 (ref: 1), comprehensively setting out
+the basis for entitlement to a Variation and an Engineer’s Instruction. The Engineer has so far failed to
+reply.
 
-Subject:RE: Notification of Back Charge - Store Yard - Unsecured East Airfield near ATCC
-Dear Sir,
-The Contractor acknowledges receipt of letter reference (1) wherein the Subcontractor shares its
-disagreement with the back-charge notification sent by the Contractor previously in respect of the
-security measures deployed on behalf of the Subcontractor at the store yard.
-The Contractor notes that the Subcontractor is aware that it shall ‘provide own security for own working
-and storage areas’. In this regard, the Subcontractor has been identified as one of the companies
-benefiting from the use of the store yard near the ATCC; therefore, the security measures shall be on
-account of the companies using the land (including the Subcontractor). The Contractor reiterates that
-the Subcontractor has failed to provide the requisite security at the store yard; hence, the Contractor’s
-letter reference (2).
-
-The Subcontractor further argues that it cannot trace a Contractor’s written instruction to deploy these
-security measures; however, the Contractor confirms that an instruction under Sub-Clause 11.3
-[Instruction of the Contractor] of the Conditions of Subcontract is not required if the works (or services)
-are already an integral part of the scope of the Subcontract.
-Finally, the Contractor confirms that the provisions of Sub-Clause 10.3 [Contractor’s Claims] of the
-Conditions of Subcontract have been complied with whilst giving reasonable notice to the Subcontractor
-that deductions may be applied for the security measures deployed by the Contractor on behalf of the
-Subcontractor at the store yard. Please refer to the Contractor’s letter reference (2).
-The Contractor trusts the above is clear and considers this matter closed.
+In its subsequent letter dated 25 June 2018 (ref: 2), the Contractor informed the Engineer that it has still
+yet to receive a response to its request for a VO and EI, and resultantly, this act of prevention was
+similarly preventing the ceiling works from proceeding. The Contractor reminded the Engineer of the
+main points at issue as well as urged the Engineer to issue revised IFC design information and
+accompanying Instruction.
+However, at the date of preparing this Delay Notice No. 1099, the Engineer has so far failed to reply.
+The Engineer’s continued failure to provide the requisite fire-rated ceiling design information is
+continuing to prevent the Contractor from coordinating and finalising the approval of Shop Drawings
+and undertaking the ceiling works. Absent any action on the Engineer’s / Employer’s Design
+Consultant’s part, this will impact the approval of Shop Drawings and Material Submittals, and impact
+procurement and installation of equipment, cabling and data provisions plus associated works. Such
+action or inaction represents a clear act of prevention on the part of the Employer’s Personnel and / or
+Consultants. Accordingly, this will invariably impact the Contractor’s ability to achieve inter alia
+Milestones MS06, MS08A, MS08B, MS09A.1, MS09A.2, MS09A.3, MS09A.4, MS09A.5, MS09A.6,
+MS09A.7, MS9A.6, and Milestones MS09B and MS10.
+Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
+hereby notifies the Engineer of its entitlement to claim:
+(i)
+An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of Contract.
+Interim and / or final details of the Time impacts and adjustment to the Contract Price, will be provided
+in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

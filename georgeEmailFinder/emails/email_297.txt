@@ -1,18 +1,83 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0169 [post-SAA8]
-Failure to Issue an Engineer’s Instruction for Outstanding Doors Issues
+Subject Basement Water Leaks
+Construction Management Agency
 Dear Sir,
-We refer to our numerous letters issued to date informing you about the on-going outstanding issues
-regarding the doors and specifically, letter ref: (1) expressing disappointment that you have elected to
-issue an EI only for 41 nos. doors, disregarding the remaining hundreds of outstanding door issues.
-Accordingly we hereby notify you pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 that
-the various events and circumstances constitute acts of prevention and/or breaches of Contract on the
-part of the Employer/Employer’s Personnel/Consultants giving rise of our right to claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of Contract.
-That said, in spite of our contractual rights, we confirm that we have proceeded to complete the
-Variation Works associated with the outstanding doors issues but our decision to proceed pending the
-issuance of an EI, is without prejudice to our right to claim cost and time in this respect.
-Yours faithfully,
+We refer to the evaluation of the current leak condition, rectification methodology and the site
+investigation report- " Leakages in carpark, pump room and utility rooms" enclosed in letter (1) and
+respond as follows:
+Concrete durability requirements were established considering the design life of the building and
+hence the building substructure was designed to be water tight. The repeated and widespread
+distribution of observed leaks indicates that the waterproofing system has been compromised in
+multiple locations thus allowing long term, persistent ingress of groundwater through the basement
+structure.
+There have also been numerous instances of crystal salt deposits observed on the internal concrete
+surfaces which is indicative of high salinity groundwater. The salinity of the water present in the
+structure and its effects has not been determined by the Contractor nor considered within the leak
+report commissioned.
+Ingress of aggressive groundwater and the attack/corrosion of the concrete and reinforcement due to
+exposure to corrosive compounds such as sulphate and /or chloride ions may result in significant
+degradation of the structure and potential durability issues and service life reductions.
+Prolonged water ingress also acts as a transit route for moisture and dampness with in the building
+resulting in associated environmental hazards, which can become airborne and spread throughout the
+building fabric.
+The Contractor has been carrying out resin injection of concrete in the leak affected areas from 2014
+to date, however, water ingress, repeat leaks and new leak locations are still occurring. Considering
+t hat injection resin repairs have been going on for more than five (5) years without arresting the
+leakage the Contractor needs to reassess its repair methodology and explore whether a more effective
+/permanent rectification solution should be considered, especially as use of current repair method
+during building operations has the potential to be enormously disruptive and incur considerable OPEX
+costs to the owner.
+The entry of groundwater through the basement slabs and walls will potentially introduce additional
+costs to operate and maintain the facility including potential loss of availability and function for the
+building owner. The Contractor has not considered how areas of the basement that are covered-up
+and concealed will be systematically monitored in future to ensure no leakage is present. The
+potential for latent defects within the concrete structure and the long term risks and impact on design
+service life resulting from water ingress has not been fu lly addressed by the Contractor.
+
+The Contractor has taken steps to inject cracks to arrest the water ingress, however, water ingress
+follows the path of least resistance and so as leaks are repaired this has forced water to find an
+alternative path where cracks persist and become pathways through the structural elements, leading
+to leaks elsewhere. The Engineer again concurs with Section 7 Part (ii) of the report which
+recommends that 'the leaking joints have to be injected not only at locations where they are leaking
+but for the entire length, as water has a tendency to leak through the path of least resistance and
+once it is sealed, new leakage can happen at adjacent locations' .
+The report cites codes and standards for crack widths and analysis for deriving appropriate repair
+solutions and advises that for a maximum allowable crack width of greater than or equal to 200 ·.
+microns cracks need to be sealed by injection for exposure class XS2 + XS1 + XS3 . Furthermore, the
+report advises that whilst the injection materials used currently are suitable for penetrating cracks up
+to 200 microns width, it is suggested to use a resin that has the capability to penetrate cracks up to
+100 microns. We request the Contractor to confirm if this recommendation has been implemented.
+The Engineer concurs with the reports observations and conclusions and would further advise that the
+Contractor has failed to conduct a regular crack monitoring regime to identify and track crack
+locations and propagation. The Contractor has acted to the contrary and has covered up and put out
+of reach many areas where ground water has since ingressed. Over time th is water penetration has
+manifested itself in building void areas, wall and floor finishes, steel imbeds and steelwork supports
+and accessories affixed thereto. There is also evidence of excessive corrosion of exposed
+reinforcement steel. Whilst the report notes that injection has taken place, it is advised that the
+injection ports were fixed too close to the cracks and the cracks were found to be injected
+haphazardly.
+The Contractor is in a situation whereby it is impossible to rectify defective works without stripping
+out all materials and finishes to get back to the structural elements and to map all cracks equal to or
+greater than 200 microns and to inject same. This will require all metal elements affixed to the
+concrete structure to be removed, stripped back to the base metal and re-galvanized.
+Concerning the widespread observations of corroded bolts, nuts and washers, it is evident that
+aggressive rusting has taken place which calls into question the quality and suitability of these fixings
+and the galvanizing process. The Contractor is requested to engage a metallurgical test agency to
+conduct testing on these fixtures and fittings and to confirm compliance with the Contract
+specification.
+The Contractor should engage a specialist corrosion / concrete / petrographic specialist company to
+further test and analyses the existing structure, particularly the effects and potential risk for localized
+steel corrosion and concrete attack. Testing and analysis would be expected to include, but not
+limited to, non-intrusive field rebar scanning, concrete core sampling and testing, concrete dust
+sampling and testing, petrography analysis, half-cell potential tests and groundwater chemical testing
+and analysis. The specialist will provide an estimate of the current concrete design life and can
+determine the necessity (if any) and options for remedial works.
+Lastly, it is evident that the contractor has taken action at site to cover up areas where
+dampness/corrosion existed. This is completely unacceptable and must stop. The contractor must act
+openly and transparently with the engineer to engage in a systematic process to identify all areas that
+require treatment and to undertake all necessary steps to remediate the works to bring the building into
+compliance with the contract requirements.
+It is critical that the contractor takes immediate action to fully understand this scope and to factor this
+into their overall schedule for completion.
+For your reference, please find enclosed a selection of leak maps and photos which captures a sample of
+leak location and types encountered.
+Yours faithfully

@@ -1,26 +1,70 @@
-Subject:Consolidated Delay Analysis for events between 4 September 2018 and 1 May 2019 (TIA No. 1 –
-Post SAA8)
+Subject:Pier 4 – Fire Evacuation Requirements – Impact on Subsidence Rectification
 Dear Sir
-We refer to your letter ref: 4 issued in reply to our letter ref: 3, following receipt of your letter ref: 2,
-responding to our Consolidated Delay Analysis (TIA No. 1 – Post SAA8) issued under letter ref: 1.
-We are perturbed by your dismissive reply (ref: 4) to our detailed response to your assessment of TIA
-No. 1 – Post SAA8 (ref: 3), with you alleging that “the Contractor’s response does not address the issues
-raised by the Engineer regarding deficiencies related to the Contractor’s claim … and thus the Engineer’s
-disapproval of the claim pursuant to Clause 27.1.6 of the Conditions of Contract remains.”
-Firstly, our letter (ref: 3) provided a comprehensive response to each of your comments detailed in your
-letter (ref: 4); we therefore fail to see how you could construe the content of our letter (ref: 3) “does not
-address” any of the issues raised by you. Secondly, we dispute your further allegations that our claim is
-in any way “deficient”. Any allegations of “deficiency” were address in our letter (ref: 3).
-While we note your closing statement that if we object to your disapproval of our claim, we should
-follow the process described in Sub-Clause 27.1.6 of the Conditions of Contract, we remind you that
-under the provisions of Sub-Clause 27.1.6, when responding to a detailed claim, and disapproving it,
-then you are contractually obligated to provide “detailed comments” in support of your disapproval.
-Other than the broad statements made by you which we have reproduced in the second paragraph
-above, we note that you failed to provide any detailed comments supporting your disapproval of our
-claim. Accordingly, we urge you to comply with the express provisions of Sub-Clause 27.1.6, and issue
-us with a comprehensive set of detailed comments justifying the disapproval of our claim.
-Meanwhile, for the reasons set out and analysed in TIA No. 1 – Post SAA8 (letter ref: 1) as well as further
-supported by our detailed letter (ref: 3), we maintain that are entitled to the extensions to the Time for
-Completion of the various Milestone Dates summarised at paragraph 4 of the Executive Summary, as
-well as recorded in Table 18.6 to our TIA No. 1 – Post SAA8 issued under letter (ref: 1).
+We write with reference to on-going discussions concerning the Pier 4 Fire Evacuation Plan, including
+without limitation the various e-mail communications referenced herein, and record the following:
+We are in the process of undertaking subsidence rectification works to the sewer and storm pipe line
+along with soil improvements. This is a work in progress but there currently exists an open trench of
+maximum width 9.5 meters and a depth of up to 6.5 meters running the entire length of Pier 4 (see
+attached photos for information). Notwithstanding, for the purpose of obtaining the Taking-Over
+Certificate (TOC) and at your request, we were asked to provide “a plan indicating what escape routes
+from the building can be made available from 16 Dec 19 so that we can get this approved in advance by
+AHJ. These must lead safely to the refuge zone on the apron and highlight any temporary works
+required.” This was to take “into consideration the programme for excavation/ backfilling to facilitate
+the subsidence works.”
+
+Following which you then notified us of the specific requirements of the Authority Having Jurisdiction
+(AHJ) in terms of us providing “full access at apron level to all landing valves, hydrants and breeching
+inlets. Access is also required to all egress and entry points in order to facility inspections, testing and
+emergency response to an incident”. While we took note of your comments, we respectfully advised
+you that were in the progress of on-going subsidence rectification works and while would endeavour to
+accommodate your requirements “these accesses are physically obstructed by ongoing activities.”
+We subsequently provided you with the following sketch drawings by e-mail on 13 November 2019
+[10:00 AM] illustrating a means by which the open excavation can be crossed in order to provide you /
+AHJ with access to the valves, hydrants and breeching valves, as well as the egress and entry points:
+1.
+Gatehouse Landing Valve Location;
+2.
+L1.0 Apron Escape Routes; and
+3.
+L2.0 Escape Routes
+However, by way of your e-mail dated 17 November 2019 [11:34 AM], you informed us of changes to
+the AHJ requirements in so far as “AHJ requires full access to each of … [individual breeching outlets] …
+so we are going to have to look at each one individually in terms of access.” This was later followed by a
+further e-mail dated 19 November 2019 [12:01 PM] advising us of inter alia the following:
+Our proposed “Typical Access to Breaching Inlets-Backfilling Not Completed” detail/section is
+rejected because you opined it did not provide safe access in the event of a fire. In lieu you requested
+that we provide a platform spanning the open excavations incorporating handrails on both sides. You
+further requested that we propose a platform mock-up for you review.
+You advised that clear access must be provided to all breaching inlets, landing valves and fire
+hydrants to both the MTB Building and Gatehouse and is to be maintained “at all times”
+You asked us to revise our drawings to shown all fire hydrant locations and fire appliances setup locations (to be utilised in the event of a fire). Safe access to all fire hydrants must be provided. A
+mock-up demonstrating safe access to be provided where excavations exist.
+This was followed by a meeting on 21 November 2019 in which you further qualified your access
+requirements, requiring provision of a circa 2 metre wide platform constructed within and running
+alongside the external façade of Pier 4 to the entire length of the open excavation. In addition, we were
+told to construct individual platforms that cross the open excavation thus providing separate bridges to
+each and every door, breaching inlet, landing valve and fire hydrant. However, this has since changed
+and as agreed at our meeting on 25 November 2019 you just require the bridges.
+Nevertheless, put in perspective, this will require:
+External breaching inlets to be fully accessible for the fire brigade: 9 Nos.
+Access to corridor doors leaving to outside escape routes: 10 Nos.
+Access to external doors connecting room directly to outside: 12 Nos.
+In all there are a total of 31 individual access points required. If we are to do as requested, this will
+result in a ‘forest’ of temporary works within the existing trench and will have major implications on our
+ability to complete the subsidence rectification works in accordance with our agreed programme.
+Notwithstanding the obvious physical constraints and obstructions the temporary works will cause us
+(severely disrupting and delaying our ability to progress the works in a regular and diligent manner); but
+our works will be further delayed by the time taken to obtain approval of drawings, mock ups and
+method statements; not to mention the additional time taken for us to procure, have the materials and
+equipment delivered to site, install them and have the temporary works inspected and approved.
+While appreciating the need to provide access for the reasons outlined above, we believe the time taken
+to obtain design approval together with the time taken to manufacture / procure and deliver all the
+items required for the temporary works to the extent you require, will be far longer than the time taken
+for us to complete the subsidence rectification works and back fill the area. We therefore urge you to
+
+reconsider your requirements and to adopt a pragmatic balanced approach allowing us to maintain the
+current course of action and for us to complete the rectification works as planned.
+After all, as noted at the outset of this letter, even by your own admission in your e-mail dated 10
+November 2019 [5:39 PM] you acknowledged that any agreed escape route plan must take to “into
+consideration the programme for excavation/ backfilling to facilitate the subsidence works.”
 Yours faithfully,

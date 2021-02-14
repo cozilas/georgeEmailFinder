@@ -1,6 +1,100 @@
-Subject: Delegation of the Contractor's Representative Authorities
-Dear Sir,
-Please be advised that Mr. Stephen Grisdale, TCAJV MEP Manager will be proceeding on holiday
-leave from oih November to 14th November 2019 and will be on duty on Saturday 16th
-November 2019. Mr. Mustafa Yuksel, Deputy Sr. MEP Manager (myuksel@tcajv.ae/ 0563191733) will act on his behalf during his leave.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0178
+Engineer's Response to RFI/0401/17385 – Introduction of Power Assistance to Hollow Metal
+Doors Reference Nos. 88-T-B20-0124.01 and 88-T-B20-0124.02 – Request for Engineer’s Instruction
+(RFEI) / Variation Order (VO)
+
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+Overview
+Your response to RFI/0401/17385 detailed in Annex A represents a change in the design and scope of
+Works and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+As you are only too aware, during the early part of this year, a series of workshops were held in order to
+resolve various discrepancies in design documents issued by you relating to doors, door hardware and
+associated systems. However, it was during these workshops, when discussing the Employer’s
+Requirements that we were informed that the technical information/requirements to 152 out of 383
+nos. of doors had changed compared to previously issued information. This has given rise to a number
+of letters and various Requests for Information (RFI) in which a number of changes were recorded by us.
+By way of specific example, on 21 August 2019, we raised RFI/0401/17385 requesting clarification as to
+whether two doors, i.e. Doors ‘88-T-B20-0124.01’ and ‘88-T-B20-0124.02’ require power assistance or
+not. Clarification was required due to the fact that on the one hand the hardware sets for Doors ‘88-TB20-0124.01’ ‘88-T-B20-0124.02’ were confirmed via the response to DS/0401/10839 received on 13
+January 2018 as being referenced ‘327’ (i.e. with Electric Hold Open Device’) [which means power is
+required]; yet on the other hand, the requirement for a commensurate Security Access Control System
+(SACS) and ‘Power Assist’ to each door was shown to be ‘N’, in other words, not required.
+That said, in the event that hardware set ‘327’ is required for these two Hollow Metal Doors then they
+will require a power supply for them to function and operate. However, a review of the corresponding
+Electrical IFC layouts shows no incoming power supply to the doors.
+It is because of this anomaly, that we were compelled to raise RFI/0401/17385 (refer to Table 1 below),
+requesting your assistance with providing further clarification as to the ‘Missing Power Supply on Hollow
+Metal Doors with Hold-Open Devices’ for these two (2) nos. of doors.
+Table 1
+Date Submitted RFI Ref: Rev
+Description
+Reply Req’d By Date
+Response
+Received
+Overdue By
+21-Aug-19
+RFI/0401/17385
+00
+Missing Power Supply on Hollow Metal Doors with
+Hold-Open Devices
+02-Sept-19
+11-Sept-19
+9 days
+Despite us requesting a response by a specific date (11 September 2019), you failed to reply until 9
+calendar days later, on 11 September 2019. Moreover, we note that the ‘Power Assist’ requirements to
+the noted 2 nos. of doors had changed from ‘Not Required (“N”)’ to ‘Required (“Y”)’ (Table 2 refers).
+Table 2
+
+Door DS/0401/10839
+Received on 13 January 2018 RFI/0401/17385
+Received on 11 September 2019
+Power Assist Power Assist
+88-T-B20-0124.01
+N
+Y
+88-T-B20-0124.02
+N
+Y
+We further record that attached to your response to RFI/0401/17385 was a sketch, enumerated as ‘ASK
+4105 RFI-17385 Sheet 01 of 01’, prepared by the Employer’s Design Consultant (KPF), consisting of a
+partial extract of a revised Door Schedule, changing the specific provision of power supplies for Doors
+‘88-T-B20-0124.01’ and ‘88-T-B20-0124.02’ from ‘Not Required (“N”)’ to ‘Required (“Y”)’.
+In addition, KPF’s response reads as follows:
+“The Contractor to tap-off the power supply from the nearest dedicated 'Door Access Ring' circuit where
+available. The total number of devices shall not exceed 10 nos. on each circuit. Where existing circuits
+are not available, the Contractor shall provide a new circuit from the nearest EM-RP panel fed from a
+16A circuit breaker. The feeder cable size shall not be less than 2.5mm2. Refer to ASK-4105 (RFI-040117385) (1 Sheet) for clarification.”
+It is patently clear that the information reflected in the sketch attached to your response to
+RFI/0401/17385 represents a change to the existing design and a change to our scope of works.
+In order for us to undertake and instigate changes such as those noted above, we will require fully
+coordinated revised IFC Drawings encapsulating the changes introduced in your RFI response, and
+further remind you that SAA8 laid down mandatory procedures to be followed if additional works are
+required, in so far as an EI and VO are needed for us to proceed with the aforementioned changes.
+The provisions of Clauses 2.29 to 2.31 of SAA8’ pertaining to Variations are clear; we are not to proceed
+with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
+respect, it is your obligation to issue this Record first if you wish to instigate change; this is only after the
+additional time and/or costs impacts have been agreed between us beforehand.
+Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to. We trust this is clear.
+We once again take this opportunity in reminding you that the responsibility under the Contract for the
+design of doors and the integration of those parts of the Works which are intrinsically linked to the
+doors, including hardware, security access control system, power supply and the like, lies with the
+Employer. Our responsibility is to follow with due diligence the Drawings and Specifications, and it is our
+position that we have discharged, and continue to discharge, this obligation with the necessary
+expertise, care and skill that could reasonably be expected from an experienced contractor.
 Yours faithfully,

@@ -1,23 +1,17 @@
-
-Code 1 = NO EXCEPTION TAKEN
-Code 2 = EXCEPTIONS AS NOTED REVISE AND RESUBMIT FOR RECORD
-Code 3 = REVISE AND RESUBMIT
-Code 4 = REJECTED
-Code 5 = REVIEW NOT REQUIRED
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0173
-Damage to Carpets to Room 221 at Pier 2 Level 1.0 caused by the Employer’s Contractor (Al Hussain) Request for Engineer’s Instruction / Variation Order
-Dear Sirs,
-We refer to your letter ref: (1) responding to our E-Notice No. 0173 (letter ref: 2) in which you state
-amongst other things that you do not consider that “the submitted E-Notice has any merit”.
-While acknowledging your statement that the Employer’s Other Contractor (Abu Hussain Contracting
-Company LLC) shall be responsible for the rectification / repair of the damaged carpets in Room 221 at
-Pier 2, and that [other than completion of the remaining base build works], we will not be held
-responsible, please note that any entitlement to an extension to the Time for Completion will not be
-negated by this acknowledgement and the works of Others. Accordingly, contrary to your opinion, the
-submitted E-Notice and the events recorded therein, does have ‘merit’; particularly if the repair works
-delays our remaining Works us even further, in which case, our entitlement remains intact.
-Therefore, for the reasons set out in our letter (ref: 2), we maintain our positon as stated therein; and
-maintain all our rights under the provisions of Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1
-[which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time for Completion and
-any associated costs arising from the events described in letter ref: (2) and the acts of Others.
+Subject Testing and Commissioning Request- Arcades Ceiling Opening
+Dear Sir,
+We write with reference to the enclosed email correspondence (2) to (4) in relation to the
+Contractor's requests to have temporary ceiling openings within the Employer's Other Contractor
+finished ceiling areas (M/s Clo isall).
+Following the meeting held on 8 January 2020 between the Employer, the Engineer and the
+Contractor and the Other Contractor (Cio isall) to discuss the Contractor's request for temporary
+openings for the ongoing commissioning works, Cloisall advised that the ceiling works have been
+completed in the arcade areas and also that there is no sufficient spare ceiling material available on
+site {5 panels) to close all the openings requested by the Contractor. Furthermore, it has been advised
+by Cloisall that the lead procurement time to deliver the material is approximately 2 months.
+Based on the above, the Contractor is requested to provide a layout marking all openings requ ired
+(with dimensions) for the commissioning works and the Contractor in accordance with Clause 12.12.4
+of the Conditions of Contract shall be liable to the Employer for the claim submitted by Cloisall and we
+hereby reserve the Employer;s rights pursuant to Clause 10.3 of the Conditions of Contract for any
+cost and/or damage associated with the above.
 Yours faithfully,

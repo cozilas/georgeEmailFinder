@@ -1,42 +1,72 @@
-Subject As-Built Drawing Submissions
+Subject:
 Dear Sir,
-We again bring to your attention the unacceptable quality of your submitted red-line and as-built
-documentation. This indicates that your drawings are not properly developed, coordinated or
-validated prior to submission to the Engineer.
-We have enclosed examples of what we deem as unacceptable and as extra cted from red-line and as
-built drawings submitted by the Contractor in September 2017. The reviewed files confirm that the
-drawings in their native format are not in compliance with ADAC's CADD Manual Rev 4.
-Whilst you have previously maintained that you are validating the quality control of submitted red-line
-and as-built documentation, it is clearly evident that your review system has failed. You are therefore
+1} Payment Certificate No 65
+2) Contractor's Letter ref. MTB/TCA/ AECOM/ L/ 009302 dated OS November 2016
+3} Contractor's Letter ref MTB/ TCA/ AECOM/ L/ 011117 dated 27 July 2017
+4} Engineer's Letter ref MTC-CMA-TCA-0401-LTR-07936 dated 08 August 2017
+Appendix H to Payment Certificate No 65
+We write in regard to Appendix H to Payment Certificate No 65 which lists AED 20,720,304.34 in money
+withheld in the May 2017 payment certificate as a result of the Contractor's alleged "non-completion of
+NCR's". This withholding is without any justification and contrary to the Contract and Law.
+First, the Engineer's deduction was procedurally improper. Before issuing a deduction, the Engineer was
+required by Clauses 10.3 and 11.4 of the Conditions of Contract and, by extension, Paragraph 5.3 of
+Schedule 11 (Payment Terms), to "consult with each Party in an endeavor to reach agreement." In clear
+violation of this, the Engineer issued Appendix H without first consulting with the Contractor. Had it
+properly consulted the Contractor, the Engineer would not have made many of the mistakes that it did.
+Because the Engineer defaulted in its contractual obligation, it was improper for the Engineer to
+withhold
+any monies. It is disingenuous for the Engineer to withhold money for some NCRs as a result of the
+Contractor's alleged hyper-technical Contractual violations and yet, at the same t ime, disregard the
+Contract by failing to follow the contractual procedures for withholding monies.
+Second, the Engineer improperly deducted ·AED 7,191,000 for NCRs issued after the period covered by
+Payment Certificate No 65. (Attachment 1.) Paragraph 5.2 of Schedule 11 temporally limits the scope of
+what may be included within an interim payment certificate to works done "up to the end of the month
+for which the Statement is submitted." These works were not deemed defective at the time of the
+payment certificate and the Contractor, being notified of them after the fact, had no opportunity to
+provide its view regarding the alleged defects. Therefore, such amounts should not have been withheld
+for the May 2017 payment certificate.
 
-required to complete your internal QC review of all red line and as-built drawings for accuracy,
-completeness and procedural compliance prior to submission to the Engineer. Based on the
-submissions received it is evident that you are neglecting to do so.
-The attached presentation provides you with examples of the issues identified. These issues could be
-summarized as follows:
-• Additional irrelevant details provided
-• Overlapped notations
-• Missing information (cut-off)
-• Key plan provided without references
-• Dimensions that do not reflect drawing accurately
-• Incorrect scale used in title block
-• Active layer not set to zero
-• Drawings not purged
-• Truncated text
-• Line weights not correct
-• Font issues
-Although these findings are from our cursory review, it is likely that these findings of non-compliance
-are widespread across all packages, therefore, you must review and validate the CADD standards
-requirements with your subcontractors.
-To avoid continued drawings rejection, the Contractor must take immediate measures and provide
-appropriate resources including the required QC Manager whose key personnel position remains
-vacant, in order to ensure that the submittals are prepared correctly. In addition we remind the
-Contractor that the current Engineering Manager has been rejected by the Engineer as it was found
-that she is not suitably qualified to fulfill this role. Given the above stated non-compliance, we
-reiterate that the Contractor is required to submit the curriculum vitae of a suitable candidate for this
-vital position. The Engineer does not accept responsibility for continued failings and will hold the
-Contractor fully accountable for all delays in red-line and as-built drawing submission and acceptance
-and the negative impacts that may result from these de lays.
-The Contractor is again reminded of its obligation under Specification Section 01 33 00 to formally
-provide a submittal register with the proposed submittal dates for your As-Built drawings.
+Third, the Engineer has failed to particularize or otherwise meaningfully assess the amounts that it has
+withheld for NCRs 482 and 813.
+• NCR 482: The Engineer issued an NCR regarding a stamp that the Contractor put on shop
+drawings disclaiming design responsibility for the works. This was because the design had
+been developed through Briefing Pack workshops and no detailed IFCs had been issued.
+(2) The Contractor protested in November 2016. Having not received a response for
+over 8 months, in July 2017, the Contractor again requested that the NCR be withdrawn.
+(3) The Engineer only responded to the Contractor's requests by letter dated 8 August
+2017 saying that NCR 482 was "technically valid." (4) We have been informed that the
+Engineer believes that the NCR should have been closed and has advised ADAC
+accordingly. The Engineer then assessed AED 1,500,000 against the Contractor's May
+2017 payment certificate.
+The Engineer's conduct, especially is delay in responding, is clearly unreasonable. Its
+decision to withhold monies for a time period covered by its delayed response is plainly in
+error. Even more, the Engineer's failure to particularize and substantiate the amount
+withheld is egregious. Damages for any contractual breach must be based on some
+reasonable estimate of the Employer's injuries. Punitive damages are not permitted by
+law.1 Despite this, the Engineer has not even attempted to justify the amount withheld
+rendering the withholding purely punitive. This constitutes a breach of Contract and UAE
+law. As such, the withholding of AED 1,500,000 clearly not technically valid.
+• NCR 810: Involves the withholding of AED 5,000,000 for alleged deficiencies with the
+Contractor's submitted monthly programs. The Contractor has separately written
+regarding this issue. Again, the Engineer has failed to even attempt to calculate any
+reasonable damages. Its assessment is arbitrary and punitive and therefore unlawful.
+Fourth, thirteen NCRs accounting for AED 3,315,000 relate to works for which the Contractor has
+remediated and is awaiting the Engineer's final sign-off. (Attachment 2.) The Contractor cannot be
+penalized through the withholding of monies due to the Engineer's failure to timely close NCRs.
+Fifth, the Engineer wrongfully deducted AED 386,000 for 4 NCRs (NCRs 716, 705, 728, and 782) that
+have
+already been closed by the Engineer and clearly cannot serve as grounds to withhold monies.
+Sixth, the Engineer deducted AED 15,000 for a disputed NRC (718) for which the Contractor has
+requested
+a "fair determination" that the Engineer has not issued. It is clear from the text and structure of
+Paragraph 5.3 and Clause 11.4 that the issuance of a determination is a condition precedent to
+withholding monies. Under any standard the Engineer has not rendered a determination.
+Paragraph 5.2 requires that the Engineer "act[] reasonably." It clearly did not do that here. The Engineer
+is
+expected to withdraw Appendix H and, after following the proper procedure, and remedying the
+deficiencies identified above, reissue whatever particularized withholdings as may be justified. We
+remind
+the Engineer of the Contractor's cash flow issues. The Engineer is thus put on notice that the Employer is
+liable for all consequences of its improper negative impact on the Contractor's cash flow and for interest
+charges on all improperly withheld monies.
 Yours faithfully,

@@ -1,18 +1,15 @@
-Subject :
 
-Requests for Details Approval via RFI
+Subject:Back Charge Notification for Materials
 
-Dear Sir,
-Please find attached a schedule of pending MIR’s which basis of rejection is that some minor details
-were constructed despite not being included in the relevant shop drawings; however, in all cases the
-correspondent shop drawings had already been approved with code 1 status.
-
-Please note that the re-submission of code 1 approved shop drawings at this juncture, when the
-pertaining works have already been executed and the specialized Design Consultant in no longer present
-on Site, does not make any practical sense. Therefore, the Contractor politely requests the Engineer to
-review and approve the missing details via dedicated ‘request for information’ submissions. This
-proposed methodology, which has met with the Engineer’s approval in previous instances, will prevent
-both the Contractor and the Employer from expending substantial design effort and incurring
-unnecessary costs.
-For the avoidance of doubt, the Contractor confirms that these design details will be included in the asbuilt documentation.
+Dear Sir,
+We write with reference to the enclosed quotations referenced in (3) & (4) and LPOs referenced in (5)
+above regarding the aforesaid subject, please be advised that we have placed an order for the materials
+on your behalf due to your failure to fulfill your subcontract obligation with regards to procurement and
+delivery of the required materials in a timely manner.
+We hereby confirm our entitlement to deduct such amounts including but not limited to the enclosed in
+accordance with Clause 10.3 (Contractor’s Claims), from your interim payments accordingly.
+In addition, we shall back charge any amount that falls under your responsibility in accordance to Clause
+10.3.5 and 11.4, whereby you are liable to the Contractor for the costs arising out of your failure to
+perform your obligations under the Subcontract.
+This is for your information and record.
 Yours faithfully,

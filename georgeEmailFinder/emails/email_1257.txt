@@ -1,21 +1,18 @@
-Subject: Contractor's Claim: Compensation for the Employer's breach of Contract
+Subject :
 Dear Sir,
-The Contractor, pursuant to Sub-Clause 27.1.1 [Contractor's Claims] of the Conditions of Contract,
-hereby submits a Contractor's claim for compensation due to a breach of Contract by the Employer.
-The event or circumstance giving rise to the claim is as follows:
-The Contractor refers to the Specification Section 013115 [Coordination with Tenant Areas] Article
-1.5.(C), which states that: "To keep continuity within the MTB Construction Phase, the Tenant
-Contractors shall use the Contractor's major subcontractors including but not limited to; all Systems {IT,
-PA, Security and etc.}, Electrical, Plumbing, HVAC, and Waterproofing as based on unit rates from the
 
-BOQ. These various subcontractors shall be directly contracted to the respective Tenant Contractors"
-(emphasis added).
-The Contractor has been notified by our Electrical Subcontractor, through its letter reference: (1) above,
-that the electrical installation in the arcade retail circulation area was NOT carried out by our Electrical
-Subcontractor. We consider this as a breach of Specification Section 013115, and as such a clear breach
-of Contract by the Employer.
-In view of this breach, the Contractor hereby submits our claim for compensation, which is based on the
-Contractor's lost profits and lost overhead, which has been calculated based on unit rates in the BOQ
-and the quantities as per our Electrical Subcontractor's proposal to carry out the electrical installation in
-the arcade retail circulation area.
+Notice of Back charge – Erection, Fabrication and Painting Works of Lift Shaft 95
+
+We write with reference to the enclosed LPO referenced in (2) above and hereby confirm that we have
+already arranged the Structural Steel Fabricator on your behalf, to execute the works mentioned therein
+as agreed with you and acknowledged by our Construction Manager.
+Pursuant to the Conditions of the Subcontract Agreement Clause 10.3 (Contractor’s Claims), we hereby
+confirm our entitlement to deduct such amounts but not limited to enclosed, from your interim
+payments accordingly. The basis of these backcharges is due to your failure to perform your obligations
+in connection with your Subcontract Works.
+In addition, we shall backcharge any amount that falls under your responsibility in accordance with
+Clause 12.12.4 (Other Contractors and Other Subcontractors), whereby you are liable to the Contractor
+for any Claim by the Employer, other Contractors or other Subcontractors for the costs as mentioned
+above.
+This is for your information and future reference.
 Yours faithfully,

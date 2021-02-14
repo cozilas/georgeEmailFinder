@@ -1,23 +1,54 @@
-Subject:
 
-Notice to Correct – Zone 11 Welcome Hall
+Subject:
 
-Dear Sir,
-We write further to our previous numerous notifications (emails hereby enclosed) regarding the
-discrepancies of the coordinates used in Zone 12 and 11 in the Welcome Hall area. We put on record
-that you have not used the approved coordinates for the works on site as per shop-drawings reference
-SDS/0401/A/1562-05 and that the actual coordinates of the works on site done by you do not match
-with the coordinates shown in your latest shop-drawings.
-We regret to notice that despite our instructions and notifications to correct, the discrepancy between
-actual works on site and your latest shop-drawings has not been rectified. Consequently, you are
-instructed pursuant to Clauses 11.3 [Instructions of the Contractor] and 22.1 [Notice to Correct] to
-immediately proceed with all required rectifications of the works on site based on the coordinates
-shown in your latest and approved shop-drawings.
-Please be informed that in case no immediate action is taken, we will have no other option than to
-deploy all necessary resources to complete the works on your behalf, which you will be backcharged
-accordingly as per Clause 10.3 [Contractor's Claims].
-In view of the above, please be informed that any delays, costs, losses and/or expenses and the like
-incurred by us and/or Other Sub-Contractors arising as a result of your failure to complete the
-aforementioned activities will be solely your responsibility pursuant but not limited to Clauses 10.3
-[Contractor’s Claims], 12.12 [Other Contractors and Other Subcontractors] and 16.6.1 [Delay Damages].
+Re: Application for Taking Over and Release of Retention Monies
+
+Dear Sir,
+We refer to your letters referenced (1) and (2) above and our discussion regarding the subject matter
+and we hereby inform you the following.
+Please be informed that pursuant to the conditions under Clause 8 [Retention] of Schedule 11 [Payment
+Terms], you are not entitled for the release of the retention amount against a corresponding Retention
+Bond as stated in your letter reference (1) above. For ease of reference, please note the following
+Clauses of Schedule 11:
+Clause 8.3 “No Retention Money shall be released, and the value of any Retention Bond shall not be
+reduced, on the issue of the Taking Over Certificate for Substantial Completion”.
+Clause 8.4 “When the Taking Over Certificate has been issued for NOTP Completion the Subcontractor
+may reduce the value of the Retention Bond so that the Total Retention is reduced by fifty percent
+(50%)”.
+Clause 8.5 “If the value of the Retention Bond is, as a result of paragraph 8.4, reduced to nil the
+Contractor shall:
+(a) promptly return the Retention Bond to the Subcontractor; and
+(b) the amount of Retention Money (if any) necessary to reduce the Total Retention to fifty percent
+(50%) of the Total Retention immediately prior to the value of the Retention Bond being reduced under
+paragraph 8.4 shall be certified by the Contractor for payment to the Subcontractor”.
+Clause 8.6 “Subject to paragraph 8.7, within eighty four (84) days after the expiry of the Defect Liability
+Period, the outstanding balance of the Retention Money shall be certified by the Contractor for payment
+to the Subcontractor and the Contractor shall return to the Subcontractor any Retention Bond that it
+holds”.
+Clause 8.7 “However, if any work remains to be executed or defect, deficiency or damage remedied
+under clause 19 (Defects Liability), the Contractor shall be entitled (at its sole discretion) to withhold the
+estimated cost of this work from the Retention Money until such work has been carried out and
+completed and/or the defect, deficiency or damage has been remedied”.
+In view of the above, please be informed that the return of the Retention Bond and the release of the
+retention monies are subject to the issue of TOC for NOTP Completion (Non-Operational Trial Period).
+Consequently, since TOC for NOTP completion has not been issued by the Engineer yet, which is further
+explained below, we are unable to proceed with issuance of the same. Therefore once the
+aforementioned is issued by the Engineer we shall proceed with the provisions provided within the
+Subcontract and described herein to release the Retention Bond and the retention amounts accordingly.
+In regards to your request as per your letter reference (2) wherein you have applied for a Taking Over
+Certificate (TOC), please note that the TOC is subject to the Engineer’s issuance. Pursuant to Clause
+18.1.1 [Taking Over of the Subcontract Works and Milestones] “Subject to clause 18.2 (Taking Over of
+Parts of the Subcontract Works) a Taking Over Certificate shall only be issued on Substantial Completion
+
+and NOTP Completion. […]”. Moreover, Clause 18.1.8 clearly specifies that “Notwithstanding the
+provisions of this clause 18.1, the Subcontractor agrees that receipt by the Contractor of the relevant
+Taking Over Certificate for the relevant part of the Works from the Engineer is a condition precedent for
+the issuance by Contractor of the relevant Taking Over Certificate for the relevant part of the
+Subcontract Works, unless otherwise agreed”. Accordingly, please be informed that the Engineer has
+not yet issued any TOC for any of the parts of the works for any of the Subcontractors in the Project.
+In response to your statement made in your letter referenced (2) above, regarding the expenses
+associated with the renewal of Insurance Policies, Bonds and Warranties, we would suggest that you
+continue submitting any costs related to your prolongation costs to ensure that all relevant evidences
+related to your prolongation costs are submitted for evaluation.
+We trust you find the aforementioned self-explanatory and clarifies the matter.
 Yours faithfully,

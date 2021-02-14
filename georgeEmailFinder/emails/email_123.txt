@@ -1,17 +1,15 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0240
-External Electrical Distribution Boards ADDC Approval – Request for Provision of Type-Tested Enclosure
-or GRP Enclosure – Request for EI and VO
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0240
+External FDB ADDC Approval – Requirement for Additional Type Test or GRP Enclosure– Request for
+Engineer’s Instruction (EI) and Variation Order (VO)
 Dear Sirs,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
 The matters recorded in Annex A describe an attempt made by you at instigating changes to our existing
-scope associated with the ADDC Approval of External Electrical Distribution Boards which will require a
-valid Engineer’s Instruction and Variation Order in order for you to us to provide either a Type-Tested
-Enclosure or a GRP Enclosure. The decision as to which option is required needs to be determined by
-you.
+scope of works associated with the ‘External FDB ADDC Approval’ which will require a valid Instruction
+and Variation Order in order for you to decide whether we are required to provide a type test of GRP
+enclosure.
 Potential Impact
 Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
@@ -31,21 +29,21 @@ comment’.
 ANEL replied on 25 February 2020 [8:22 AM] and advised us of the following:
 ‘Schneider already discussed with ADDC and ADDC agreed with Schneider under the condition where
 ADAC needs to give acceptance as per the project specification approval
-Please find the attached conversation about it where AECOM accepted that installed material as per
+
+Please find the attached conversation about it where AECOM accepted that installed material as per
 approved material. Hence ADAC need to provide letter to ADDC about this acceptance than it will be
 cleared
 Actually we assumed that this issue was closed last December. Anyhow this is the last situation and we
 are waiting ADAC/AECOM action on this’
-The above e-mails were forwarded to you on 25 February 2020 via our e-mail at 11:55 PM in which we
+The above e-mails were forwarded to you on 25 February 2020 vide our e-mail at 11:55 PM in which we
 advised that ‘actions with you please advise.’ However, you failed to respond prompting us to e-mail
-you again on 8 March 2020 at 1:56 PM. You replied on 8 March 2020 [5:10 pm] stating:
+you again on 8 March 2020 at 1:56 PM. You replied on 5 March 2020 [5:10 pm] stating:
 ‘We discussed the same with ADAC and ADDC last Thursday and the conclusion can be summarized as
 follows:
 1.
 The contractor to provide type test for the installed panels approved by ADDC based on the
 installed enclosure (to proof the panel suitability for outdoor applications as well as ADDC approval for
-
-such application (As that is not currently available, please start the process with ADDC noting that ADDC
+such application (As that is not currently available, please start the process with ADDC noting that ADDC
 rep had taken couple of photos during the last rain where water had seeped inside the panels despite it
 should be rated for outdoor application).
 2.
@@ -69,12 +67,12 @@ The corrective action here is for you to approach the Employer and for the Emplo
 undertaking letter to ADDC confirming that all external panels are fabricated /delivered / installed as per
 specified and accords to the IFC design, and that the FDB equipment was approved by the Employer.
 This will eliminate any ADDC’s comments and concerns.
-However, you are now requesting us to undertake to provide a type-tested enclosure or provide a GRP
-enclosure; both of which are additional to our existing scope. This represents an attempt at changing
-the existing IFC requirements and an attempt at varying our scope of Works without adopting the
-contractual mechanism for instigating any change in design, this will require the provision of revised IFC
-Drawings and an accompanying Engineer’s Instruction/Variation Order for us to integrate such change
-into the Works.
+However, you are now requesting us to undertake to provide a type test or provide a GRP enclosure;
+both of which are additional to our existing scope. This represents an attempt at changing the existing
+IFC requirements and an attempt at varying our scope of Works without adopting the contractual
+mechanism for instigating any change in design, this will require the provision of revised IFC Drawings
+and an accompanying Engineer’s Instruction/Variation Order for us to integrate such change into the
+Works.
 We therefore take this further opportunity in reminding you of the provisions of Clause 2.29 to Clause
 2.31 of Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we
 are not to proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued
@@ -83,7 +81,8 @@ Project; this is only after the additional time and/or costs impacts have been a
 beforehand.
 Therefore given that SAA8 laid down strict guidelines to follow if additional works are required and it is
 patently clearly this has been ignored, then this change will warrant a valid Engineer’s Instruction (EI)
-and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
+
+and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
 Works.
 Meanwhile, until such time as you take the action required of you in accordance with the express
 requirements of SAA8, we are unable to proceed with implementing the changes noted above and will

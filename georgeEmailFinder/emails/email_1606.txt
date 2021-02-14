@@ -1,72 +1,37 @@
+
 Dear Sir,
 
-Further to the letter of reference 3) and the Engineer’s Instructions of references 8) and 9) issued
-pursuant to General Condition (“GC”) 13.1.1 of Volume 3 of the Contract, the Contractor encloses
-herewith full particulars in relation to the abortive and / or additional design works pursuant to its GC
-13.2.2 obligations.
+Further to the CCP presentation of attachment 1) and as requested by the Engineer’s Assistant the
+Contractor summarizes herewith its cost estimate for the increased plant capacity and the extension of
+the chilled water reticulation network as required for accommodating the expected cooling loads of the
+Mushaireb station.
 
-The evaluation of abortive design costs of attachment 1) enclosed herewith supersedes the Contractor’s
-previous submissions for the same. Importantly, the Contractor no longer relies upon the actual costs
-brought forward by M/s Atkins and its respective determinations but on the same principle put forward
-by the Engineer’s Assistant via letter reference 6) in quantifying the abortive design costs in relation to
-the cross-passages.
+For the avoidance of doubt the Contractor hereby notes its reservations as to the accuracy of this
+costing exercise which is indicative only and subject to further change upon receipt of all necessary
+information, notably, conclusive clarifications on the CCP scope inconsistencies that were notified via
+letter reference 1).
 
-Similarly to the change in cross passage spacing requirements, fact is that prior to the receipt of the
-Engineer’s Instructions of letter references 8) and 9) the Contractor had already progressed with its
-passageways DD1 and DD2 design submissions pursuant to the Employer’s Requirements of Volume 6 of
-the Main Contract.
+The said inconsistencies relate to the base design but equally affect any departures therefrom.
+Notwithstanding the foregoing, the Contractor has performed its cost estimate for strictly budgetary
+purposes, as follows: With respect to the increased CCP plant capacity, the Contractor has performed
+its cost estimate on the basis of a QR 6,500 / RT unit rate. The said unit rate is inclusive of both
+structural and MEP cost components in relation to the respective design, procurement and installation
+works.
 
-The Contractor has enclosed in attachment 2) all relevant proof (in the manner requested by the
-Engineer’s Assistant via letter reference 3) comprising of the relevant design transmittals that were
-submitted to the DVE prior to the receipt of the Engineer’s Instructions of letter references 8) and 9), in
-effect, a comprehensive ‘list of deliverables’ which form the basis of the Contractor’s entitlement.
+Pursuant to the presentation of attachment 1), an increase of c. 11,5MW (equivalent to 3,270 RT) is
+expected for this purpose and hence the Contractor estimates that the increased CCP plant capacity
+would cost the Employer an additional QR 21,255,000.
 
-On the basis of the Engineer’s Assistant pricing methodology therefore, the Contractor has evaluated in
-attachment 1) to this letter the abortive design costs which have been summarized in table 1) below.
-The relevant head of claims by Atkins (FCN 071) have also been included for information only, so as to
-enable a direct comparison of the amounts involved.
+With respect to the extension of the chilled water reticulation system, the Contractor has performed its
+estimate on the basis of a QR 2,250 / meter of CHW pipe. The said unit rate is inclusive of the chilled
+water pipes and all necessary ancillary materials (such as valves, wash-outs, air vents, fiberglass
+insulation and cladding).
 
-SN
-Discipline
+The distance between the Souq Waqif and Mushaireb stations is c. 2km which translates into a CHW
+pipe run requirement of 4km in total and hence the Contractor estimates an additional cost to the
+Employer of the order of QR 9,000,000.
 
-Abortive Design (QR)
-
-(Pursuant to EA’s methodology) Abortive Design (QR)
-(Claimed by M/s Atkins, FCN071)
-1
-
-Lead Design
-
-30,203,791
-
-2
-
-MEP
-
-3
-
-Management Expenses, O/H, Profit
-
-1,645,366
-
-Total (QR)
-
-9,233,698
-
-4,941,717
-
-31,849,158
-
-Incl.
-
-2,646,733
-
-16,822,148
-
-Table 1: Cost Summary for Abortive Design Re Passageways Width Reduction & Change in Travellators’
-Requirements
-
-The Contractor reserves its rights to recover any time related costs in connection to this Variation which
-shall be addressed under a separate cover.
+As previously mentioned, the foregoing cost estimates are indicative only and have been provided in
+short notice for strictly budgetary purposes as verbally requested by the Engineer’s Assistant.
 
 Yours faithfully,

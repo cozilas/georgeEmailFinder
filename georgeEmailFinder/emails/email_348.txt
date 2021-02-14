@@ -1,81 +1,67 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0125
-Overdue Responses to the Contractor’s Material Submittals – Architectural, Structural, Civil, and MEP –
-as at 29 August 2019
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0132
+Provision of Additional Data Outlets for Existing Flight Information Display Screens to Check-In
+Island in Sector 5.22B to Level L2.0 – Engineer’s Response to RFI/0401/17254 – Request for Engineer’s
+Instruction and Variation Order
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern potential delays to the Works due to your failure to respond
-to various Material submittals within the review times expressly stipulated in the Contract.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+
+Overview
+The matters described in Annex A concern delays associated with the provision of additional data
+outlets required to Sector 5.22B to L2.0, introduced through the response to RFI/0401/17254.
 Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
+Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Specifically we urge you to review and respond to Contractor’s Material submittals without further
-undue delay. Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
 Description of the Event
-In the period between 25 June 2019 and 24 July 2019, we submitted the following five (5) Material
-Submittals seeking your review and approval of the various Structural, Architectural, Civil, and MEP
-materials detailed therein, in the manner set out and summarised Table 1 below.
+On 2 July 2019, we raised RFI/0401/17254 (dated 30 June 2019) entitled ‘Data outlets removed for
+existing FIDS [Flight Information Display Screens] (check-in L2.0-5.22B)’, having identified in certain
+information previously provided by the Engineer relating to the location and quantity of data points to
+the FIDS, where the data points had previously been deleted; requesting your advice on the same.
+Despite us requesting that you reply to RFI/0401/17254 by 10 July 2019, you failed to respond until 14
+calendar days later i.e. on 24 July 2019, as shown in Table 1 below. Moreover, your response directed
+us to reinstate the FIDS outlets as per the sketch attached thereto (Figure 1 below refers).
 Table 1
-Item Date submitted Submittal Ref Rev
-Description of Contents Response due per Section
-013300 Response received
-Status Code
-Delay (Calendar Days)
-1
-15-Jul-19
-MS/0401/E/0298
-04
-Lighting and Fixtures FOH – Type XT2 22-Jul19
-38 days
-2
-24-Jul-19
-MS/0401/S/0393
-01
-Stainless Steel Bridge Slide Covers
-07-Aug19
-22 Days
-3
-25-Jun-19
-MS/0401/C/0877
-01
-Key Cabinet & Keying Control System 09-Jul19
-51 Days
-
-4
-23-Jul-19
-MS/0401/C/0890
+Date Submitted RFI Ref: Rev
+Description
+Reply Req’d By Date
+Response
+Received
+Overdue By
+02-Jul-19
+RFI/0401/17254
 00
-Cured In Place Pipe (CIPP) Relining of Sewer
-Network
-13-Aug-19
-16 Days
-5
+‘Data outlets removed for existing FIDS (check-in L2.05.22B)’ 10-Jul-19
 24-Jul-19
-MS/0401/A/1765
-00
-Removable Stainless Steel Sump Cover and
-Knife Edge for Water Feature Area
-14-Aug-19
-15 Days
-We again remind you that Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the
-processing time by which you are contractually obligated to respond to our Submittals. On the basis
-that each of the five (5) Material Submittals listed in Table 1 are shown to comprise Rev. 00, Rev. 01 and
-Rev. 04 submittals, then these ought to have been responded to by the Engineer 21, 14 and 7 calendar
-days later respectively, i.e. in the period between 9 July 2019 and 14 August 2019. However, the
-information shown in Table 1 above, indicates that at the cut-off date associated with the preparation of
-this Notice (i.e. 29 August 2019), the Engineer exceeded, and is continuing to exceed the review periods
-expressly stipulated in the Contract by upwards of 51 calendar days.
+14 days
+Figure 1
+It is patently clear that the information reflected in the ‘modified’ sketch attached to your response to
+RFI/0401/17254 represents a change to the existing design and a change to our scope of works.
+This is likely to involve inter alia the pulling of new data cables to the new location from the nearest
+Satellite Communication Room (SCR) by the Information Technology subcontractor, BOND.
+In order for us to undertake and instigate changes such as those noted herein, we will require fully
+coordinated revised IFC Drawings encapsulating the changes introduced in your RFI response, and
+further remind you that SAA8 laid down mandatory procedures to be followed if additional works are
+required, in so far as an EI and VO are needed for us to proceed with the aforementioned changes.
+The provisions of Clauses 2.29 to 2.31 of SAA8’ pertaining to Variations are clear; we are not to proceed
+with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
+respect, it is your obligation to issue this Record first if you wish to instigate change; this is only after the
+additional time and/or costs impacts have been agreed between us beforehand.
+Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to. We trust this is clear.
 Potential Impact:
-It is our consideration that your delayed and overdue responses to the Material Submittals listed in
-Table 1 is hampering our ability to procure, deliver and subsequently install the noted materials for the
-Project, and as such will directly affect our ability to complete the related Works, especially at such a
-late stage of the Project. This will invariably impact upon our ability to achieve Milestone MS09B, and
-may also prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+We note that the foregoing events and/or circumstances may delay completion of Section 5.22B to Level
+L2.0, and your / Employer’s Design Consultant’s requirement to introduce fundamental changes to the
+
+electrical installations such as those outlined above, particularly at such a late stage of the Project, will
+invariably impact on our ability to obtain the Building Completion certificate (BCC).
+This is essential to achieving Milestone MS09B and may impact MS09C (Substantial Completion).
 Yours faithfully,

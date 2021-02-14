@@ -1,30 +1,19 @@
 
 Dear Sir,
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. Th nature and extent of the variation i proviqed below.
-Contractor to provide the as-built drawings in accordance with new alignment baseline as outlined
-hereunder:
+Further to the notice issued Linder General Condition of Contract, letter referenced item 1, the
+Contractor provides herein a, to date, assessment of costs associated with the variations to the designs,
+in accordance with GC 13.6. The value of the Variation, at this time, is the costs of the Design changes
+required for the Architectural, Structural, Geotechnical and MEP design works, as instructed by
+Engineer's Instruction Nr. 89, reference item 2.
 
-•
+Please note that the costs certified to date are the Contractors assessment of the lump sum fee change
+proposed by the Consultant and is subject to ongoing negotiations. The Contractor expects to be
+reimbursed for the Final agreed sum when ascertained and certified to the Consultant.
 
-Setting Msheireb station (centre of platforms Gold and Green/Red) as chainage 0+000
+The total costs certified to date including the Contractors addition for Overheads and Profit are
+QAR8,207,311 .81, (Qatari Riyals Eight million two hundred seven thousand three hundred eleven and
+eight one dirhams).
 
-•
-Calculating chainage from Msheireb with positive increment into all directions of the
-Network and elimination of chainage gaps
-•
-
-Using the same start chainage at line branches
-
-•
-Introducing chainage 0+000 for Blue Line at Al Sadd Station with positive increments to north
-and south
-•
-Incorporation of the chainage into theoretical as-built alignment and preparation of the as-built
-drawing based on the new chainages
-•
-Last update of the chainage once the as-built track alignment has been received from MSI
-Contractor. (only minimum deviations expected that do not affect the Civil D&B as-built drawings)
-
-Yours faithfully,
+We remain at your disposal for any further information or clarification.
+Yours faithfully

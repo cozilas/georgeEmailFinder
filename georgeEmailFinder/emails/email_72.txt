@@ -1,69 +1,30 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0266
-Removal of a Public Address and Voice Evacuation (PAVE) Speaker to Retail Unit 2061 located at CP
-Level L2.0 by the Employer’s Fit-Out Contractor (DEPA)
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 269 [post-SAA8]
+Delayed Confirmation of Required Grout Work Verification Boreholes to Pier 2
 Dear Sirs,
+On 7 April 2020 (ref: 1), we e-mailed the Employer’s Geotechnical Consultant (RHDHV) requesting their
+confirmation of the indicative locations of the remaining Verification Boreholes (VBH) to Pier 2 indicated
+on the attachment appended thereto. Following which, on 9 April 2020 (ref: 2), RHDHV responded and
 
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The events described in Annex A hereto records delays attributable to the removal of a previously
-installed PAVE Speaker within Retail Unit 2061 located at CP L2.0 by the Employer’s Other Contractor
-which requires rectification and as such requires the issuance of an Engineer’s Instruction (EI) and
-Variation Order (VO) in order for us to do so. Annex A also describes the fact that despite the speaker
-having been removed by an Other Contractor, you still felt is necessary to issue us an NCR (ref: 1). This is
-unreasonable and unnecessary.
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We wish to convey our concern regarding the removal of a previously installed Public Address and Voice
-Evacuation (PAVE/PAVA) speaker within Retail Unit 2061 located at CP L2.0, by the Employer’s Other
-Contractor, i.e. the Tennant Fitting-Out Contractor (DEEPA), the location of which is shown in Figure 1
-below.
-Figure 1
-Unfortunately, not only has the PAVE speaker been removed by the Employer’s Other Contractor
-without our permission and without us being notified beforehand (either by you or the Employer’s
-Other Contractor informing us of their planned intention), but in complete ignorance of the facts, you
-elected to issue us an NCR (ref: 1) relating to what you purport to be a “missing PAVA speaker” (refer to
-Figure 2 below) in an effort to shift the responsibility for the same upon us: which we refute in its
-entirety. We wrote informing you of our thoughts on the matter by email on 5 April 2020 [Sunday, 9:23
-AM] attached at Annex B hereto.
-Figure 2
-We therefore put on record that this speaker had previously been installed by us, and then subsequently
-inspected by you and handed-over via the Work Inspection Requests (WIR) process. It has however since
-been removed by the Employer’s Other [Tennant] Contractor without our prior knowledge or
-agreement.
-The absence of this speaker and the potential bearing on the functionality of the PAVE system means
-that we are prevented from completing Testing and Commissioning of the PAVE System to the Retail
-Unit 2061.
-We wish to put on record that this issue is not of our doing or responsibility, and any rectification /
-remedial works necessarily required at this stage to the PAVE system, will invariably delay us. Moreover,
-
-this act of prevention was entirely avoidable and as a result it is both delaying and disrupting our
-progress.
-Consequently, the purpose of this E-notice is three-fold:
-•
-Firstly, we wish to notify you that the removal of the PAVE speaker and the impact this has on
-the PAVE system is directly attributable to the Employer’s Other Contractor as mentioned above;
-•
-Secondly, to request that you immediately withdraw your NCR ref: (1) entitled ‘Missing PAVA
-Speaker in Retail 2061, CSP, L2.0’ as considering the circumstances, is entirely unreasonable; and
-•
-Lastly, to request the issuance of Variation Order (VO) / Engineer’s Instruction (EI) to enable us
-to complete the rectification and replacement of the PAVE speaker noted above. This is only after the
-additional time and/or costs impacts have been agreed between us beforehand.
-In this regard, SAA8 laid down strict guidelines to follow in the event that additional works are required
-and we therefore request that you issue us a VO / EI for the requisite rectification works to be
-undertaken and ensure we are appropriately reimbursed – both for the additional time, and the
-additional costs involved.
-Finally, we urge you to take whatever action is necessary on your part to prevent any further occurrence
-of damage being caused to our previously handed-over Works by the Employer’s Other Contractors.
+amongst other things requested confirmation of some missing grouting records. We complied and on
+13 April 2020 (ref: 3), forwarded a response from BAUER and accordingly requested “review and
+feedback.”
+However, despite issuing a succession of e-mails to RHDHV and you, requesting approval of the
+suggested VBH’s for remaining areas to Pier 2, including without limitation our e-mails dated 11 April
+2020 [8:24 AM], 26 April 2020 [10:11 AM], 7 May 2020 [9:10 AM], and 14 May 2020 [11:57 AM] (ref: 4),
+you failed to reply.
+In our last e-mail (ref: 4), made it patently clear that if you fail to reply [promptly] and provide
+confirmation / approval of the required VBH’s to Pier 2, we would have no option but to demobilize our
+geotechnical subcontractor company (Al Hai Mukkadam) in order to avoid incurring additional costs of
+idle time due to your failure to provide any further directives on the matter, despite our repeated
+requests that you do so.
+Once again however, despite our further request for “prompt actions and feedback”, you failed to reply.
+Therefore, in light of the successive acts of prevention described above, we hereby give you notice,
+pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

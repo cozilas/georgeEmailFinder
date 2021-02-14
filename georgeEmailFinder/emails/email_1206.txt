@@ -1,99 +1,14 @@
-Subject: Response to the Interim Extension of Time Claim Submissions in respect of
+Subject: Additional Management of Atlas Security
 Dear Sir,
-We refer to your letters listed on Attachment # 1 of this letter concerning the purported interim claim(s)
-submissions for an extension of time to which we offer the following comments:
-Please be informed that you have not fully complied with the Conditions of Subcontract, in particular
-with Subcontract Clause 16 and Clause 27, by failing amongst other things, to provide complete/full
-details of particulars for our review and evaluation.
-Despite the workshop meeting that was held at our site office on 26 November 2015 during which the
-procedure and methodology for submission of claims were explained; you, apparently, opted to submit
-your delay claims by using “Impacted As Planned Method”. This method does not correspond to the
-method of submission/assessment of claims defined under the Subcontract. We hereby take this
-opportunity to reaffirm that Time Impact Analysis (TIA) methodology is the only approved delay analysis
-methodology as stipulated under Subcontract clause 27.2.
-Notwithstanding the above, the adopted analysis by you does not rely on a true critical path analysis as
-we observe that you have not considered any actual progress having been made during the occurrence
-of the delay events. This is justification itself that you have been failing to fully comply with the
-conditions of the Subcontract; namely Sub-clauses 12.27 [Progress Reports] and 16.3.2 [Subcontract
-Programme] which details your obligations to submit both progress reports and an updated Subcontract
-Programme to us at least once each month.
-Yet, the Project record indicates that you have failed to produce an updated Subcontract Programme
-together with its monthly progress report in a consistent and timely manner. The monthly updated
-Subcontract Programmes form an essential part to any extension of time claim submissions of the
-Subcontractor and the absence of such critical information is preventing us from monitoring the
-progress and delays against your approved baseline programme. This circumstance, unless corrected,
-
-will not help you to prove your entitlement, if any. For that alone, we advise you to complete missing
-monthly reports and updates, which should have already been officially provided by you.
-We further observe that you, within your purported interim delay claim submissions, have failed to
-adequately demonstrate and substantiate any feasible argument/case/event. We, other than the
-aforementioned methodology comments, note the following:
-•
-Your interim ‘submissions’ are not presented in a proper format and to the extent that will
-enable us to understand the entitlement in relation to the delay events.
-•
-You have not been establishing the contractual liability for each delay event.
-•
-You have failed to adequately demonstrate the cause and the effect of the delay events. It
-appears from the interim submissions; you have merely listed in chronological order the pertinent
-exchanges of correspondence between the parties. We consider that this is insufficient to satisfy the
-burden of proof.
-•
-The entitlement within the alleged interim submissions has not been fully and accurately
-demonstrated by you. There is lack of progress reports, progress photographs, minute of meetings and
-statement of fact supporting your claims.
-At this juncture, in order to allow us to provide an assessment as per the Subcontract, you are requested
-to revise and resubmit its delay claims by adopting Time Impact Analysis (TIA) methodology as required
-by the Subcontract. Following are some basic requirements:
-•
-You should utilize your approved baseline programme (in accordance with rev.6 programme of
-the Contractor) as a base of its claims for the events occurred after 5 March 2015.
-•
-You are requested to update the utilized programme (without any logic change unless agreed
-otherwise) considering the site progress at the end of each time slice.
-•
-The intervals of TIA updates for each event should not be more than 1 month.
-•
-You are requested to prepare a detailed delay event table in a way that the table indicates
-including but not limited to delay event period, pertinent delay/claim notices and individual interim
-particulars submitted by you, if any. This will not only help you to explain the chronology of each delay
-event in more detail, but also constitute a record whether you have complied with the condition
-precedents under the Subcontract.
-•
-You are requested to establish the contractual liability for each delay event and provide succinct
-narratives of each delay to establish the cause and effect link.
-•
-You need to attach physical copies of notifications themselves in a chronological order rather
-than providing a list. This will also help you to clearly explain and argue its entitlement in accordance
-with the letters, inspection reports, requests for information (RFI) etc.
-•
-You are requested to include, within your submissions, predecessor and successor tables
-together with relationship and lag details for each delay event and the rationale behind your logic.
-•
-You are requested to use the actual data to the maximum extent for the FRAGNETS it has built.
-All activity durations in the ‘FRAGNETS’ especially procurement durations, if any, should be fully
-substantiated.
-•
-You are requested to demonstrate what actions it took to mitigate the impacts of each delay
-event as pursuant to Subcontract clause 16.5.3 (b), it is your obligation to take all reasonable actions to
-avoid or mitigate delays.
-•
-You are requested to provide ‘total float’, ‘planned duration’ and ‘at complete duration’ for each
-activity of delay events/FRAGNETS.
-•
-You are requested to demonstrate as to how the critical path is being impacted for each time
-slice. The rationale behind is to determine which delay event(s) is/are driving the critical path within
-each one month interval.
-
-•
-You are requested to provide programme snapshots of the milestones for each time slice (from
-a-base programme, b-progressed programme and c- impacted programme).
-•
-You are requested to prepare a detailed summary table depicting the results of TIA for all
-programs that are utilized.
-You must have expended considerable effort in developing your interim submissions. We suggest that
-you may wish to approach us for further guidance and assistance.
-In conclusion, you are requested to revise and resubmit your delay claims in line with the
-abovementioned requirements.
-The above is for your information and action.
-Yours faithfully,
+Further to the receipt of the above referenced correspondence regarding the extension of support to
+the
+Security Subcontractor we confirm that the information requested was provided via our revised ROM
+283
+issued to the Engineer on 27 November 2017.
+As noted within the aforementioned ROM, it is expected that additional funds will be required to
+continue
+to provide support to ATLAS Security until the expected completion date. It is our belief that additional
+costs will be incurred from the end of April 2018, at which time all additional support will cease.
+We await the receipt of an appropriate Variation Order to continue the provided support beyond the
+original AED 30 million budget.
+Yours faithfully

@@ -1,13 +1,42 @@
 
 Dear Sir,
 
-This is a proposal under Sub-Clause 20.1.8 to amend the period within which the Engineer's Assistant is
-required to respond to the Contractor's Claim received on 12 November 2015 under reference M006GDB-COM-LTR-02743.
+The Engineer's Assistant makes reference and records that MEP Design subm issions received to-date
+from the Contractor have not included BACS Design Submissions. The BACS Design is included within
+Contractor's scope obligations and is a major part of the MEP systems.
 
-The proposed period is 42 days, ending on 4 February 2016, automatically renewed by a further 42 days,
-on a rolling basis. Either Party can terminate the rolling extension by issuing a 28 days' notice to the
-other Party.
+Each MEP design submittal or groups of design submittals must be accompanied by a BACS Design
+Submissions which shall include, as a minimum, the following:
 
-Please confirm your approval by signing and returning this letter to the Engineer's Assistant.
+•
+
+A BACS report;
+
+•
+
+A Functionality report;
+
+•
+
+A Sequence of operations report;
+
+•
+
+A Set of schematics;
+
+•
+
+BACS Topology;
+
+•
+
+BACS Lay-out;
+
+•
+
+BACS 10 list;
+
+The Con ractor is required to provide within one week after the receipt of this letter a complete BACS
+Design S bmission schedule for all locations, such as station, stabling and emergency exit shaft.
 
 Yours faithfully,

@@ -1,17 +1,67 @@
-Subject: Variation Order No. 116 - Engineer's Instruction No. 23 -Steel Structure
+Subject: Substantiation of Contractor's Mark-Up for Variations
 Dear Sir,
-We acknowledge receipt of your Variation Order No. 116 under the letter referenced
-MTC-CMA-TCA-0401-LTR-08739 dated 02 January 2018.
-We accept and agree to Variation Order No. 116 on the basis that the following items are not included
-and
-shall be evaluated separately:
-Additional costs associated with design, engineering, contract administration, project administration and
-site supervision for the changes;
-Any costs associated with disruption, acceleration or price escalation;
-Through the assessment process carried out by CMA, this RFVO has been agreed to the extent detailed
-and signed for by AECOM and TCAJV on the RFVO agreement sheet. Changes to Moment Connections,
-Connections designed by Engineer and Connection designed by Contractor have not been agreed. These
-are noted on the signed agreement sheet and submitted separately for evaluation .
-Accordingly, and as requested, we hereby return the signed originals of the attached Variation Order.
-Once both Originals are signed by all parties, please provide one original to us for our records.
+We refer to your letter ref. LTR/01289 above and respond as follows:
+We do not agree that the Contract only includes an OHP percentage of 7% as shown in the DPS Bill No.4·
+of Schedule 6, nor do we agree that there is nothing in the Contract Documents to Support our opinion
+that the rates and prices in Schedule 6 contain profit. ·
+The rates and prices in Schedule 6 Bills of Quantity for measured works and Preliminaries comprise a
+Cost and a margin, as demonstrated in our letter ref: MTB/TCA/ADAC/L/000014 dated 18 July 2012, and
+as supported by Condition of Contract [CoC] Clause 20.3.3; wherein reasonable profit is added to
+reasonable Cost for Variation works where rates or prices within Schedule 6 BoQ are not relevant to the
+Variation works. It stands to reason therefore that the rates and prices in Schedule 6 contain Cost,
+overhead (as part of Cost definition, CoC 1.1 refers) and profit. It is this overhead and profit that we
+maintain is 11.11% on cost.
+
+We do not agree that that the 11.11% overhead and profit reflected in the breakdown submitted. in our
+letter ref: MTB/TCA/ADAC/L/000014 dated 18 July 2012 is "subjective". We did not receive any rejection
+of this breakdown and OHP percentage from the Engineer at that time and the Engineer has continued
+to use the rates and prices in the BOQ's for the purposes of .Variations.
+With regard to Ernst & Young's (E&Y) letter dated 10 M~kh 2014 and your selected quote therefrom
+that
+" ... The Form, which has been signed by ourselves solely for identification purposes and attached as
+Appendix I, is the responsibility of the management of the Joint Venture ... ", the reference to
+responsibility refers to the calculation of Total direct and indirect costs by the JV, the abstraction and
+summation of Provisional Sum and Daywork amounts from Schedule 6 by JV and the decision by JV to
+apply the percentage mark-ups JV elected to apply. E&Y cannot be responsible for this It was E&Y's
+responsibility, as stated in the first three steps of their work programme, to agree the items
+and amounts for total cost, mark up on cost, provisional sums, mark up on provisional sums and day
+works back the Budget. Their report indicates that the items and amounts have been agreed back to the
+Budget without any exceptions. Therefore, E&Y have demonstrated that the amounts stated in the
+Form, or "Schedule of Mark-Up Calculation", t ie back to the Budget without exception.
+With respect, your comments that the "Schedule of Mark-Up Calculation" is " .. .simply prepared [by
+E&Y] by using the total of the General Summary page ... " is preposterous, accusatory of professional
+negligence on the part of E&Y and without any comprehension of the processes stated by E&Y in their
+'Agreed upon Procedures'. It is in fact the process explained by E&Y in their enumerated paragraphs 1 to
+7 that explains the "Schedule of Mark-Up Calculation" and the compilation of the resultant numbers that
+match those in the Budget and in total the General Summary page of Schedule 6. Fortuitously and with
+respect, the Engineer's reverse calculation agrees with that of E&Y's. correct method of computation.
+We refer to your selected quote from E&Y's letter dated 10 March 2014 that " ... Because the above
+procedures do not constitute either an audit or a review made in accordance with International
+Standards on Auditing or International Standard on Review Engagements, we do 11ot express any
+assurance on the Form ... ", and your comment that" ... This could be interpreted that EY are unable to
+confirm that the figures stated on the Form (Appendix I to the letter) are correct ... ".
+E&Y have clearly stated in their Report that the work performed by them clearly indicated that the items
+reported on were agreed to the Budget with no exceptions noted; therefore there can be no doubt as to
+the correctness of the figures in the Form. The language used in E&Y's report is mandatory under the
+standards contained in paragraph 18 J of Section ISRS 4400 in the International Standards of Related
+Services.
+With regard to E&Y's comment that " ... other matters might have come to our[E&Y] attention that
+would have been reported to you [fCA JV] ... ",this language is mandatory under the standards
+contained in paragraph 18 K of Section ISRS 4400 in the International Standards of Related Services. It
+was
+not for E&Y to audit whether costs were correct or not for any items of work or materials, etc., but to
+establish that the amounts for total cost, mark up on cost, provisional sums, mark up on provisional
+sums
+and day works related back to the respective amounts contained in the Budget. This they did with no
+exceptions noted.
+E&Y's mandate was to calculate the percentage for mark-up on total direct and indirect costs- their
+reporting states that they recalculated the percentage at 11.234% with no exceptions noted.
+We have previously invited the Engineer and the Employer to our office to view the relevant sheet of
+our
+Budget, which reflects the items and amounts contained in E&Y's "Schedule of Mark-Up Calculation"; in
+the alternative a discussion with E&Y and ourselves.
+
+We trust that the above will be sufficient to demonstrate the mark-up included in the rates and prices
+within the Contract Price for Works excluding Provisional Sums and that all Variations 'on hold pending
+agreement of the mark-up can now be settled with an 11.11% mark-up on cost .
 Yours faithfully,

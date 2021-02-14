@@ -1,11 +1,36 @@
-Subject: Clarification on ADAC's Tax Registration Number (TRN)Customs Importer Code
+Subject: Substantiation of Contractor's Mark-Up for Variations
 Dear Sir,
-In view of the VAT implementation from 1st of January 2018, in order to custom clear the shipments
-upon
-arrival at Abu Dhabi Ports, the consignee's Tax Registration Number (TRN) should be linked to their
-customs importer code.
-Kindly confirm that ADAC's TRN is linked to their customs importer code to avoid any concerns during
-the
 
-customs clearance.
+We refer to your above referenced letter and would respond as follows. Firstly we would remind you
+that the only Overhead & Profit {OH&P) percentage (%) included in the executed Contract documents is
+the 7% shown for the Defined Provisional Sum (DPS) included in Bill No.4 of Schedule 6 (Bills of
+Quantities).
+We note that you maintain your opinion that based upon your data and knowledge that the applicable
+OH&P percentage for the measured works included in your Contract Price is 11.11%, however, we would
+advise that there is nothing in Contract documents that supports this position.
+In respect of your breakdown of the Contract Price, as required under Clause 21.6 of the Conditions of
+Contract, we would comment that this was prepared after the Contract award consequently the figure
+of 11.11% may be considered as subjective, therefore we require conclusive evidence from you or a firm
+declaration from EY that the mark-up of 11.11% was actually incorporated into your Contract Price at
+tender stage. Regarding EY's letter dated 10 March 2014 attached to your above referenced letter, we
+would comment as below:
+a) Within item 1 EY imply that the Form was prepared by the Joint Venture's management:
+"The Form, which has been signed by ourselves solely for identification purposes and attached as
+Appendix I, is the responsibility of the management of the Joint Venture" this indicates that the
+information was extracted from the budget of the Abu Dhabi Midfield Terminal Building Project by the
+JV Management. Therefore the "Schedule of Mark Up Calculation" is simply prepared by using the total
+of the General Summary page of Schedule 6 (AED 10,805,822,731) exclude the sums for Provisional
+Sums, the PS mark up and the dayworks equating to AED 9,784,499,462 and then dividing by the sum of
+AED 8,796,567,171 (the total direct and indirect costs) resulting in a mark-up of 11.23%. b) Paragraph 2
+on the second page states:
+"Because the above procedures do not constitute either an audit or a review made in accordance with
+International Standards on Auditing or International Standard on Review Engagements, we do not
+express any assurance on the Form" This could be interpreted that EY are unable to confirm that the
+figures stated on the Form (Appendix I to the letter) are correct. Furthermore paragraph 3, page 2,
+states that had they performed an audit or review in accordance with the International Standards on
+Auditing or International Standard on Review Engagements then "other matters might have come to our
+attention that would have been reported to you"
+In conclusion, until firm evidence is produced by yourselves or EY provide a clear statement that 11.11%
+is the true and correct mark up incorporated within your Contract Price then we maintain our opinion
+that a 7% allowance for 0 / H&P be used in the evaluation of variations.
 Yours faithfully,

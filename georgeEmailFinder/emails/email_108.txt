@@ -1,121 +1,49 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0244
-Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting HVAC Testing and
-Commissioning of Lighting Control System etc. – as at 6 April 2020
-Dear Sir,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays to the processing of re-entry permit / NOCs and
-activities of others affecting MEP works, HVAC testing and testing and commissioning of Lighting Control
-System.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Specifically we urge you to review and process Re-Entry Permit / NOCs without further undue delay.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-In the period between 16 March 2020 and 2 April 2020, we submitted the following twenty-eight (28)
-Re-Entry Permits / NOCs [RDD Form 15s] in the manner set out and summarised in Table 1 below,
-requesting permission to allow us to complete various Works, such as MEP, HVAC testing and
-Commissioning activities.
-Table 1
-Sr. No. NOC No.
-Rev
-Unit / Area
-Description
-Date Request Issued
-[TCA JV to CMA]
-Response Due Response Received
-Reply Overdue By
-[calendar days]
-1
-RDD-614
-6
-2101 HVAC testing 23-Mar-20
-26-Mar-20
-11 days
-2
-RDD-656
-3
-2037 HVAC testing 22-Mar-20
-25-Mar-20
-12 days
-3
-RDD-723
-2
-2028 Lighting control Commissioning / Snags 25-Mar-20
-28Mar-20 9 days
-4
-RDD-739
-2
-2033 Lighting control Commissioning / Snags 25-Mar-20
-28Mar-20 9 days
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 239 [post-SAA8]
+UAE Government Announcement dated 23 March 2020
+Change in Applicable Laws
+Dear Sirs,
+We refer to the following announcement made by Emirates News Agency (WAM) dated 23 March 2020
+ref: (1) (copy attached) in which the Ministry of Interior called upon members of the public to stay at
+home:
+‘ABU DHABI, 23rd March, 2020 (WAM) -- The UAE government has called upon the public to stay at
+home unless it's absolutely necessary to get essential supplies, such as food and medicine, or perform
+essential jobs.
+In a joint statement tonight, the Ministry of Interior and the National Emergency and Crisis and Disasters
+Management Authority urged UAE citizens, residents, visitors and all those living in the nation, to
 
-5
-RDD-743
-4
-2033 HVAC testing 17-Mar-20
-20-Mar-20
-17 days
-6
-RDD-904
-3
-2003 HVAC t&c
-22-Mar-20
-25-Mar-20
-12 days
-7
-RDD-957
-1
-2027 HVAC t&c
-23-Mar-20
-26-Mar-20
-11 days
-8
-RDD-971
-1
-2049 HVAC testing 23-Mar-20
-26-Mar-20
-11 days
-9
-RDD-989
-1
-2004 HVAC t&c
-22-Mar-20
-25-Mar-20
-12 days
-The information recorded in Table 1 shows the NOC reference number, the revision, the description of
-works and unit/area number, plus the date the request for an NOC was made, and when the response to
-our request for access was due; the latter being based on a nominal three-day turn-around time. In
-other words, approval is traditionally granted within three (3) days from our request being issued.
-However, Table 1 further records that at the cut-off date associated with preparation of this E-Notice
-0244 (i.e. 6 April 2020), none of the NOCs have been responded to. Therefore, this demonstrates that
-for all of the 28 NOC requests listed therein, the responses have exceeded and by all accounts are
-continuing to exceed the three-day turn-around response time by periods of upwards of 18 calendar
-days late. This is unacceptable. We have already issued a reminder to you vide our e-mail dated 6 April
-2020 (copy attached).
-The purpose of this E-notice is two-fold: Firstly, we wish to notify you of appreciable concerns we have
-in relation to a distinct failure on your part to process our requests for re-entry promptly and issue the
-approved NOCs in an timely manner, and Secondly, notify you of the invariable impact that this failure
-has on our ability to complete the MEP, HVAC testing and Testing and Commissioning of Lighting Control
-System, amongst other things; and accordingly urge you to ensure that the responsible third-party (i.e.
-Employer’s Tenants) responds to the requested NOC issuance in a prompt and timely manner.
-Potential Impact:
-Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
-Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
-Consequently, the more we are prevented from working due to the combined effects of the above, the
-more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
-specifically, we urge you assist with the prompt processing of our Re-Entry Permits allowing us access as
-well as urging the Employer’s Other Contractor to work with us so as not to delay our Works. Kindly
-ensure that such matters are resolved immediately from the date of receipt of this Notice.
+comply with the instructions and guidelines issued by competent health and security authorities,
+primarily limiting social contacts and avoiding crowded places to ensure their safety and wellbeing.
+"The public are also urged to use their own family cars with a maximum of three individuals per vehicle.
+They are also advised not to visit public places and maintain social distancing protocols during family
+gatherings as part of the precautionary measures taken to ensure public health and safety," added the
+statement.
+The two authorities also urged everyone not to visit hospitals except for critical or emergency cases and
+to use face masks.
+"Additional instructions will be issued later involving the use of public transport, taxis and other means
+of transportation," said the statement.
+The UAE law on communicable diseases, which includes fines and jail terms, will be enforced against all
+violators, added the statement.’’
+We draw attention to the final statement. Although not expressly referenced per se, the “UAE law” to
+which this refers, relates to UAE Federal Law No. 14 of 2014 on the Control of Communicable Diseases.
+It is our belief that the above announcement and the reference to the UAE Federal Law No. 14 of 2014
+on the Control of Communicable Diseases (copy attached), constitutes a Change in Applicable Laws in
+terms of the Conditions of Contract Clause 20.6 (‘Adjustments for Changes in Applicable Law’), especially
+given that the announcement was promulgated after the date of submission of our tender.
+‘Applicable Laws’ is defined in the Contract (Clause 1.1) as meaning:
+‘… any and all written and unwritten laws, treaties, regulations, regulatory approvals, standards,
+decrees, rules, decisions, judgments, orders, injunctions, authorisations, directives and/or other legal
+requirements of any Governmental Authority which are or may become during the currency of the
+Contract applicable to the execution and completion and operation … of the Works, the carrying out of
+the Project …’
+Accordingly, with reference to the UAE Government Announcement dated 23 March 2020, the
+developing circumstances, and to Chapter 5 of the Federal Law No. 14 of 2014 (Inspection and
+Penalties), we hereby give notice pursuant to Clauses 14.13, 16.5.2, 20.6.1, 20.6.2, 21.2, 27.1 and 27.2 of
+the Conditions of Contract of the Contract, of our entitlement to claim:
+(i)
+an extension of the Time for Completion for any such delay, if the Time for Completion is or will
+be delayed; and
+(ii)
+payment of any such Cost, which shall be added to the Contract Price.
+Accordingly, interim and/or final details of the associated time impacts and adjustment to the Contract
+Price will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5 (a), (b) and (c).
 Yours faithfully,

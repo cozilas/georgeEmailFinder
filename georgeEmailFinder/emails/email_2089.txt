@@ -1,43 +1,46 @@
-Dear Sir,
 
-With reference to the Engineer's letter reference 3 and the subsequent Engineer's Assistant's letter
-reference 2, the Contractor would like to confirm the following.
+Dear Sir,
 
-The Contractor hereby acknowledges receipt of the Engineer's Instruction to initiate a variation pursuant
-to Sub-Clause 13.1.1 of the General Conditions of the Main Contract. However, the Contractor refutes
-the Engineer's assertion that this may be an omission of work under the Contract. It is noted that the
-Engineer's Instruction amends the wording of Volume 6 - Employer's Requirements - Design
-Specifications -Sub-Clause
-10.5.1.2 d) [Cross-passageways] which shall now read, "Cross-passageways shall be provided in tunnel
-sections where they are required at a maximum distance of 244m between each other. The distance
-between a cross-passageway and an evacuation shaft, the station platform public area or a tunnel portal
-shall not be more than 500m. "
+The Contractor refers to letter reference 1) whereby the Engineer proposed for the Contractor's
+consideration and agreement the Employer's entitlement to cost savings in relation to the Variation of
+the Employer's Requirements in respect of tunnel cross passageway spacing.
 
-The Contractor affirms that the optimisation of the cross-passageways alignment was always an option
-for the Contractor pursuant to Volume 6 - Employer's Requirements - Design Spec ifications - Sub-Clause
-10.5.1.2
-e) [Cross-passageways] whereby , "the maximum distance may be increased, in special cases and subject
-to approval by Civil Defence, by up to 500m in accordance with the European TS/ for railway tunnels
-{TS/ SRT) if it can be demonstrated by engineering analysis that evacuation of the maximum train
-capacity load (1200p} into the non-incident tunnel can be achieved under tenable conditions and that
-the resulting risk for passengers would be acceptable and as low as reasonably practicable ...." These
-provisions have not been amended.
+The Contractor acknowledges receipt of the Engineer's proposal pursuant to Sub-Clause 3.5 of the
+General Conditions of Contract.
 
-Accordingly, the Engineer's request for the Contractor to provide an assessment of the adjustment to
-the Contract Price and the Schedule of Payments has no contractual basis.
+In this respect, the Contractor confirms that the Engineer's considerations that the cost savings should
+be based on the tendered schedule of rates for the provision of cross passageways.
 
-Notwithstanding the above, the Contractor has duly requested the Lead Designer to inform about the
-duration for the development of all necessary documents in accordance with the provisions of Volume 6
-- Employer's Requirements - Design Specifications - Sub-Clause 10.5.1 .2 e) [Cross-passageways]. The
-Lead Designer's
-response was received under letter reference 1 (enclosed herewith for ease of reference), informing
-that the requested documents can be produced within a period of no less than 5 months. However this
-period does not account for the interfacing that will also be required with QCD after the analysis.
+However, further to the review of the Engineer's proposal, the Contractor has identified a Contractor
+originated calculation error which must be corrected. This calculation error is related to item "Any
+testing and commissioning as deemed necessary in accordance with Employer's requirements (C8)
+(Revised Design)".
 
-In light of the above, the Contractor hereby confirms that they will proceed immediately with the design
-changes and the necessary construction in accordance with the Engineers Instruction to comply with
-QCD waiver and the change to Volume 6 Section 10, Sub-Clause 10.5.1.2. (d). In parallel with this, the
-Contractor will also carry out a detailed analysis to show if the evacuation can be achieved within
-acceptable limits or not.
+In its submission under reference M006-GDB-COM-LTR-02821 dated 05 January 2016, the Contractor
+adjusted the value of this item only by reference to the revised total length of the cross passages and did
+not consider at all the total tunnel length per section. This error has now been corrected and the revised
+calculation is enclosed herewith for the Engineer's ratification.
 
+In addition to the above, the Contractor hereby records its disagreement with the following Engineer's
+considerations:
+
+1.
+"Entitlement to time-based cost savings or savings associated with a reduction in construction
+risk have not been considered at this stage. " The Contractor avers that since the cost savings are based
+on the tendered schedule of rates for the provision of cross passageways, such savings are included
+therein.
+-2:-The-contractoravers-thatihe Engineer's-calculation of he-abortive-design is erroneous:-The
+weighting of work associated to the cross passageways design cannot be calculated by reference to the
+length of the cross passageways. This way of calculation might be computationally correct, however, it is
+completely wrong from an engineering perspective.
+3. The Contractor notes the Engineer's adjustment to the cost of the Engineering Analysis Report to
+reflect the Contractor's valuation of ATKINS' rates. However, ATKINS has disputed the Contractor's
+
+valuation of rates. In the event that ATKINS receives an arbitration award confirming their rates, the
+Contractor reserves the right to claim the full amount from the Employer.
+Further to the above, the Engineer is kindly requested to taking into consideration the Contractor's
+arguments presented herein and revise its proposal pursuant to Sub-Clause 3.5 of the General
+Conditions of Contract accordingly.
+
+We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

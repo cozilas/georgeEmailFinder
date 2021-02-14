@@ -1,69 +1,42 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0270
-Delayed Access to Retail Unit Nos. 2020, 2021, 2022, 2023, 2024, 2025 and 2027 – Delayed Completion
-of the Lighting Control Testing and Commissioning Works
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The events described in Annex A hereto, concern acts of prevention on the part of the Employer /
-Employer’s Personnel / Consultants / Employer’s Other Contractor, denying us access to Retail Units:
-2020, 2021, 2022, 2023, 2024, 2025, 2027 which has delayed the completion of the Lighting Control
-Testing and Commissioning.
-Potential Impact
-Acts of prevention on the part of others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-DESCRIPTION OF THE EVENT
-Background
-On 24 February 2020, we issued Re-Entry Permit Nos. RDD-917 and RDD-722 requesting permission to
-obtain access to and re-enter Retail Units (RU) Nos: 2020 , 2021, 2022, 2023, 2024, 2025 and 2027
-located at CP Level 2.0 Sector 5.14C, to undertake Commissioning Inspections of the Lighting Control
-systems (Table 1 refers):
-Table 1
-RDD No.
-Rev
-Unit
-Description
-Date Request Issued
-[TCA JV to CMA]
-Response Due Response Received
-Reply Overdue By
-[calendar days]
-RDD-917
-0
-2021, 2022, 2023, 2024, 2025 Lighting Control Commissioning / Programming
-24-Feb-20
-27-Feb-20
-25-Feb-20
-Nil days
-RDD-722
-1
-2027 Lighting Control Commissioning / Snags 24-Feb-20
-27-Feb-20
-27-Feb-20
-Nil days
-In the event however, despite Re-Entry Permit Nos. RDD-917 and RDD-722 having been responded to on
-25 and 27 February 2020 respectively, we were prevented from accessing RU Nos. 2020 , 2021, 2022,
-2023, 2024, 2025 and 2027 due to the occupation of the same areas by the Employer’s Other
-Contractor (Tenant’s Works), which in turn, prevented us completing the Lighting Control Testing and
+Subject:Re-Grouting Works to Pier 4 (GH 38) and Cracking to LB1 Slab
+Dear Sir
+We refer to your letter ref: (1) following issuance of our letters ref: (2) and (4), in which not only do you
+allege that we are directly responsible for the cracking to the Level LB.1 raft slab, but are attempting to
+hold us liable for delays following our decision not to continue with further grouting works given (a) the
+seriousness of the issue; and (b), pending definitive instructions from you as to how we are to proceed.
+We have consistently maintained that the subsidence that has occurred and continues to occur on this
+Project (affecting both the MTB Works and the MTA Works), is not of our doing. We further remind you
+that we are not the designers for this Project, the Employer’s Design Consultant is; it is their
+responsibility, under your guidance, to provide us with the design of all the subsidence remediation
+measures.
+The re-grouting works to Pier 4 was designed by the Employer’s Design Consultant and instructed by
+you. We have simply undertaken the grouting works as designed and instructed to do so. While we are
+aware of the requirement to improve the ground to achieve the minimum SPT N60 value of 30, it is the
+Employer’s Design Consultant who insisted on deeper grouting, despite us hitting ‘competent rock’ at a
+higher level to achieve the minimum SPT value, and despite it being apparent that some areas are
+unlikely to achieve this due to the non-porous nature of the material that will not allow any grout
+permeation to occur. It is as a result of works that we have been instructed to do that has caused the
+cracking to the raft slab to Level LB.1; it is not due to any fault or culpability on our part; nor can it be
+construed as such. That is why we object to you perceiving this as a ‘defect’ and unequivocally reject
+NCR-01630 (ref: 5).
+We have continually and consistently kept you and the Employer’s Design Consultant informed of all of
+the various actions that we have so far taken in relation to the cracking to the Level LB.1 raft slab while
+undertaking the re-grouting works to Pier 4 (GH 38); our letters ref: (2) and (4) refer. As noted therein
+we expressed our concerns about continuing with re-grouting works and that an already serious issue
+has the potential to become even more serious and could lead to more uplift and more cracks in the
+slab, that could affect the structural integrity of the structural slabs and walls. In light of this and in light
+of the fact that the Employer’s Design Consultant is responsible for the design of the subsidence
+remediation measures (and is responsible for the design of the structure of the MTB including the
 
-Commissioning Works. This is despite the fact that NOCs had been issued by you purportedly permitting
-us to access each of the respective areas.
-We wrote informing you this caused us to place our Commissioning Inspections “on hold” vide our email dated 1 March 2020 [3:56 PM], in the manner shown in Figure 1 below (copy attached at Annex B
-hereto):
-Figure 1
-This act of prevention has both delayed and disrupted our Works, and has undeniably impacted upon
-our ability to complete Testing and Commissioning and will invariably knock on and impact upon our
-ability to achieve Milestone MS09B. Similarly, this has the potential to prevent us from achieving
-Substantial Completion (i.e. Milestone MS09C). In view of this, then we hereby maintain all our rights
-and entitlements under Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1 [which have not been
-amended by SAA8 Sub-Clause 1.1] to an extension to the Time for Completion and the associated costs
-arising from the same.
+Basement), then it is imperative for him to take the lead and for you to instruct us following his
+recommendations.
+We must therefore insist that between you, you collectively lead any further investigations and provide
+clear and definitive instructions on any further investigation we may be required to undertake on your
+joint behalf, as well as instruct us to undertake the requisite rectification and reinstatement works.
+Meanwhile, it is our contention that your on-going failure to direct the Employer’s Design Consultant to
+assist and instruct us on this matter as previously requested in letters ref: (2) and (4) and repeated
+herein, are tantamount to acts of prevention, giving rise to our entitlement to claim an extension to the
+Time for Completion pursuant to Sub-Clause 16.5.1(c) and an adjustment to the Contract Price in
+accordance with Clause 21.1 pursuant to Clause 9.10, or in the alternative, damages for breach of
+contract.
 Yours faithfully,

@@ -1,16 +1,102 @@
-
 Dear Sir,
 
-The Contractor refers to the Appendix A to the Engineer's Instruction (E.I.) no.95 regarding changes in
-the location of the North-West remote entry at Doha Zoo Station received under letter reference 1).
+Further to the Engineer’s Direction of reference 2) issued pursuant to General Condition (“GC”) 13.2.1 of
+Volume 3 of the Contract and the Engineer’s Instruction under 13.1.1 of reference 1), the Contractor
+encloses herewith the revised particulars in relation to the varied scope, quantities, direct costs and
+time impact in accordance with its GC 13.2.2 obligations.
 
-The Contractor analyzed the Appendix A therewith and ascertained that land acquisition coordinates are
-missing from the information provided, therefore an informalrequest was sent (email from Ms.Artemis
-Anninou to Mr. James J. Quinlan dated 15 November 2015) to the Engineer's Assistant.
+Subsequent to the Contractor’s interim valuation issued under reference 3) the Contractor has further
+assessed the impacts of this Variation and has concluded that the following items will be severely
+affected both as to cost and time:
 
-Further to the above, the Contractor hereby kindly requests the Engineer's Assistant to provide the land
-acquisition coordinates for the Amendment of Remote Entry at Doha Zoo Station (YWST080). Upon
-receipt thereof, the Contractor will proceed with the implementation of E.I no.96 in the design.
+a.
+
+Design
+
+b.
+
+Land acquisition
+
+c.
+
+Traffic diversion
+
+d.
+
+Utilities diversion
+
+e.
+
+ELS
+
+f.
+
+Construction and site installation
+
+The Engineer’s letters of references 1), 2) and 4) contained a concept design with regards to the location
+and size of the Al Sudan remote entrance and the resulting re-alignment of the subway. The Contractor
+has made an evaluation summarized in Table 1 below, which is based on the provided concept design
+only and enclosed in Attachment 4).
+
+Full particulars of the Contractor's valuation of this variation are enclosed in Attachments 1) to 6) to this
+letter.
+
+SN
+
+DESCRIPTION
+
+Amount (QAR)
+
+A
+
+STRUCTURAL WORKS
+
+B
+
+DESIGN FEE CHANGE (Lead Design)
+
+940,322.22
+1,391,829.28
+
+Lead Design Only - Arch. FoH and MEP Design are not included
+C
+
+Reinstatement of Al Waab Street over and above original scope not incl.
+
+D
+
+9 Month Prolongation to TTM 168,854.40
+
+E
+
+9 Month Prolongation to Entrance Construction 3,496,592.16
+
+F
+
+VHTS (covered by Entrance Optimisation Variation)
+
+G
+
+Utility Diversion (to be covered by PS Protocol) not incl.
+
+TOTAL
+
+5,997,598.06
+
+Table 1: Summary of valuation
+
+not incl.
+
+The Contractor hereby provides its valuation of the adjustment to the Contract Price in the net amount
+of QAR 5,997,598.06 as detailed in Attachments 1) to 6).
+
+The Contractor’s assessment of the time impact shows that the completion of Entrance 2 will be delayed
+by nine (9) months due the re-sequencing of the Works. This will extend the duration of TTM
+accordingly. The Contractor is mitigating the time impact proactively in the proposed Programme.
+
+The Contractor kindly requests the Engineer to secure the necessary land for the temporary site
+installation.
 
 We remain at your disposal for any further information and/or clarification.
+
 Yours faithfully,

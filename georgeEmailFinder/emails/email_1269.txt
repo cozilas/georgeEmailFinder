@@ -1,21 +1,18 @@
 Subject :
 
-Request for Re-Coding Shop Drawings
+Requests for Details Approval via RFI
 
 Dear Sir,
-Please be advised that the Contractor rejects the comments recently received from the Design
-Consultant (ARUP) on the shop drawings listed below:
+Please find attached a schedule of pending MIR’s which basis of rejection is that some minor details
+were constructed despite not being included in the relevant shop drawings; however, in all cases the
+correspondent shop drawings had already been approved with code 1 status.
 
-The Contractor notes that these shop drawings have been rejected on a non-reasonable basis. For
-instance, ARUP refers the Contractor to the comments returned on the relevant calculations
-(DS/0401/11705-00); however, the said calculations are under review since 16 December 2017 and the
-Contractor has not yet received any comments.
-
-Further, the comments made by ARUP regarding coordination are not relevant as the towers included in
-these shop drawings were an integral part of Briefing Pack No. 59 and the necessary coordination had
-already taken place.
-Moreover, the previous submission made in respect of Briefing Pack No. 59 (DS/0401/7914-01), which
-included both calculations and drawings, is approved since April 2017.
-In view of the above, the Engineer is hereby politely requested to change the code status of the above
-listed drawings thus enabling the Contractor to proceed with the Works.
+Please note that the re-submission of code 1 approved shop drawings at this juncture, when the
+pertaining works have already been executed and the specialized Design Consultant in no longer present
+on Site, does not make any practical sense. Therefore, the Contractor politely requests the Engineer to
+review and approve the missing details via dedicated ‘request for information’ submissions. This
+proposed methodology, which has met with the Engineer’s approval in previous instances, will prevent
+both the Contractor and the Employer from expending substantial design effort and incurring
+unnecessary costs.
+For the avoidance of doubt, the Contractor confirms that these design details will be included in the asbuilt documentation.
 Yours faithfully,

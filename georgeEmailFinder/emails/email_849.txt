@@ -1,23 +1,123 @@
-Subject:
+1.
 
-Notice to Correct - Clear Laminated Glass at Duty Free Canopy & PPE sockets
+General Comments for Prolongation Costs
+1.1. Cost
+(a) An amount claimed as Cost must fall within the ambit of the definition of Cost that is set down in
+Sub-Clause 1.1 of the General Conditions of Subcontract; this provides that Cost must be reasonably
+incurred and excludes any profit, Disallowed Costs and expenditure incurred as a consequence of any
+default on the part of the Subcontractor. Disallowed Costs is also defined in Sub-Clause 1.1 and
+includes any costs arising out of or in connection with defects, certain sub-subcontractor cost etc.
 
-Dear Sir,
-With reference to above subject and in continuation to the above referenced correspondences (1&2),
-regarding the BoQ Bill Item No 4 (Clear Laminated Glass to Duty Free Canopy GLZ-37) and Bill Item No 11
-(PPE Sockets), you are informed that the works must commence immediately.
-Please be informed that Subcontract Clause 22.1 [Notice to Correct], states that "If the Subcontractor
-fails to carry out any obligation under the Subcontract, the Contractor may by notice require the
-Subcontractor to make good the failure and to remedy it within a specified reasonable period."
-Therefore, you are instructed pursuant to Clause [11.3 Instructions of the Contractor] of the
-Subcontract, to immediately proceed with the works within three (3) days of receipt of this letter, to
-complete the aforementioned works.
-Please be informed that in case no immediate action is taken, we will have no other option than to
-deploy all necessary resources to complete the works on your behalf, which you will be backcharged
-accordingly as per Clause 10.3 [Contractor's Claims].
-In view of the above, please be informed that any delays, costs, losses and/or expenses and the like
-incurred by us and/or Other Sub-Contractors arising as a result of your failure to complete the
-aforementioned activities will be solely your responsibility pursuant but not limited to Clauses 10.3
-[Contractor’s Claims], 12.12 [Other Contractors and Other Subcontractors] and 16.6.1 [Delay Damages].
-This is for your urgent action.
+(b) Cost must be actual and demonstrable expenditure incurred in order to place the claiming party
+back in the same financial position it would otherwise have been in but for the circumstance(s) giving
+rise to the claim. The claiming party is required to establish, as a matter of fact, that it has incurred
+additional costs directly as a result of the matter(s) complained of. In this regard the following three
+questions / limbs are relevant:
+(i) To what extent are the amounts claimed attributable to the matters relied on? Would
+the amounts claimed have been incurred in any event (albeit earlier or later than when
+actually incurred)? Are the amounts claimed one-off (specific to a particular task); time
+related (specific to a period of time); or volume related (specific to physical work)?
+(ii) Have the costs claimed been incurred? Can the amounts claimed be traced back to the
+accounting system for the project and payment evidenced?
+(iii) Are the costs claimed reasonable? Could the expenditure incurred reasonably have been
+avoided? Is there any duplication or excessive waste, was supervision, control etc. adequate?
+Was the procurement process appropriate and the contract terms reasonable and have the
+amounts claimed been calculated and paid in accordance with the appropriate terms of the
+relevant contract?
+(c) Where the factual information made available is insufficient to fully answer the three questions, it
+cannot be established whether, as a matter of fact, the claiming party has incurred additional costs
+directly as a result of the matter(s) complained of. It is for the Subcontractor to discharge the burden
+of proof that a cost has been incurred or will be incurred, and that any such cost is a consequence of
+the matters relied upon.
+(d) Forecast cost is an estimate of Cost for a period of time in the future which may or may not be
+incurred. Whilst useful for forecasting / budgeting purposes therefore, forecast cost cannot form part
+of any assessment until such time as the Cost is actualised. Where the period of time has already
+passed, Cost should be actualised and substantiated.
+1.2. Resources
+(a) Resources may be categorised as either ‘Time’ or ‘Activity’ (Task) related. Typically the
+allowances for time-related resources are included in the initial Subcontract Price via the General
+Items (Preliminaries) and allowances for activity-related resources are included in the unit rates for
+work items.
+(b) When the time for completion is extended, then it is only the time-related resources affected by the
+extension that may be compensated via a Prolongation Cost Claim. This would ordinarily be the time
+related resources that are generally required for the duration of the Project (‘Core’ resources) but may
+also include time related resources attached to a particular location or element of the Subcontract
+Works e.g. Pier 4 (‘Location’ resources) if the delay event impacts the critical path of the Works
+related to the Location.
+(c) By contrast, if activities are prolonged due to events impacting productivity, then the additional cost
+of activity-related resources may be sought via a Disruption Claim. Activity-related resources may
+not be included in a Prolongation Cost Claim.
+(d) Whether or not a time-related resource is categorised as Core or Location is a matter of fact for which
+evidence is required. In this regard, the consistency of resource presence over the Project is
+informative. Costs incurred consistently are potentially time-related costs, while costs incurred in
+isolated or discrete periods of time are more likely to be location and/or activity related.
+
+(e) Resources attached to offsite facilities (generally either an office or a factory) are not ordinarily
+claimable as time-related Core and instead are regarded as an overhead cost; a very rare exception to
+this may be where it is evidenced that the offsite facility was established and is maintained and
+operated solely for the Project.
+1.3. Evidence
+(a) Provide documents identifying the subcontractor and the Project, including:
+(i) Agreements / Contracts (and any amendments thereto);
+(ii) Delivery Tickets (Plant, Equipment, Vehicles, Fuel);
+(iii) Signed Timesheets recording hours worked per day and tasks undertaken;
+(iv) Consumption Reports (Fuel);
+(v) Persons to whom the resource is provided (Transportation and Accommodation);
+(vi) Invoices;
+(vii) Accounting Records / Ledgers;
+(viii)
+Payslips (Staff);
+(ix) Proof of Payment / Receipts / Bank Transaction Records;
+
+1.4. Common Observations
+(a) Resources that are most likely Location and/or Activity related (and hence ordinarily not directly
+affected by events causing a delay to the critical path Works) are to be excluded from the Prolongation
+Cost Claim e.g.
+(i) Staff
+a.
+b.
+c.
+
+Labour, Foremen, Supervisors - principally Activity-related;
+Engineering (Design & BIM) – principally Activity related
+Site Engineers, Project Engineers, Procurement, QHSE - principally Location or
+Activity-related.
+
+(ii) Plant and Machinery (&Vehicles)
+a. Tipper trucks / excavators / dumper trucks / wheel loaders / backhoe loaders / Mobile
+Scaffold – principally Activity-related;
+b. Cranage / Man lifts / Scissor lifts / Scaffolding - principally Location and/or Activity –
+related’ and
+c. Fuel (other than that consumed by Time-related resources)
+d. Rates for owned PM&V to be supported by evidence of the actual purchase cost in
+conjunction with the appropriate entry in the cost accounting system and the depreciation
+policy.
+(iii) Accommodation, Food & Transportation
+a. Exclude that provided to Location and/or Activity-related personnel
+(b) Bonds & Insurances
+(i) Exclude insurances procured on a corporate rather than project specific basis;
+(ii) The Cost of bonds and insurances is typically incurred annually and must accordingly be
+distributed evenly over the relevant period.
+(iii) Advance Payment Bonds: the bond repayment, amount of the bond and hence Cost is also
+Activity related;
+(c) Interest / Financing Costs
+
+(i) Subcontractors to evidence their general or project specific financial arrangements, and how any
+additional interest / financing costs have been incurred as a consequence of the prolongation.
+Claims for interest / financing charges based on a theoretical calculation adopting a hypothetical
+interest rate do not evidence any liability for a cost incurred and will not be accepted
+
+(d) Head Office Overheads
+(i) Any claim for "unabsorbed" overheads / loss of opportunity must evidence that resources were
+prevented from earning a contribution to overheads from other projects (tendering opportunities
+turned down or lost as a consequence of resources being retained on this project).
+(ii) Any claim for "additional overheads" must identify the actual additional resources utilised or the
+longer period that contemplated resources were dedicated to the project; also that the additional
+resources / longer period of deployment was outside the reasonable contemplation of the
+Subcontractor when the Subcontract was entered into and that the costs would not have been
+incurred in any event.
+(iii) In the absence of actual cost information, the use of an uplift percentage substantiated by audited
+financial accounts may be appropriate.
+(iv) The value of overheads claimed / recovered through variations and/or other claims to be credited.
+
 Yours faithfully,

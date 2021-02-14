@@ -1,233 +1,94 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0187
-Engineer’s Responses to RFI/0401/17445 Rev. 00 and Rev. 01 – Changes to External S10 Lights
-Setting-Out / Coordinates, located at the Landscape/Planters Area L0.0 – Request for Engineer’s
-Instruction (EI) / Variation Order (VO)
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0185
+Subsidence Rectification Works – Heaving to Pier 2 (MV Chamber and Grease
+Interceptor Pit) and Pier 4 (Earth Pits and GSE Road to GH38-GH39, and Sewer Manholes, S2307A and
+S2308A) – Request for Engineer’s Instruction
 Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
-Overview
-Your revised response to RFI/0401/17445 (rev. 00 and rev. 01) detailed in Annex A represents a change
-in design and scope and requires a valid EI and VO in order for us to integrate the same into the Works.
-Potential Impact
-Any requirement for additional works at this stage of the Project, such as that outlined herein, is likely to
-impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 9 September 2019, we submitted RFI/0401/17445 Rev. 00 requesting confirmation of the setting-out
-/ coordinates of the external S10 lighting located at L0.0 Sectors 7.14, 5.11, 5.26, 5.34:
-“Please refer to the attached sketches for the External S10 lighting setting-out in L0.0-External. Please
-note that the plants arrangement is as per BP58. Please Confirm”
-The attachments to RFI/0401/17445 Rev. 00 consisted of the following:
-1)
-Four (4) IFC Drawings consisting of the IFC A-94 Drawings showing the general arrangement plan
-and the indicative location of the external S10 lighting fixtures, positioned along the landscape
-perimeter of the landscape on the edge of the planters at Level 0.0 Sectors 7.14, 5.11, 5.26, 5.34;
-2)
-Five (5) Briefing Pack 58 (BP-58) sketches annotated as ‘Internal Planter Soft Landscape’ ande
-enumerated as ‘ASK 00024’, ‘ASK 00025’, ‘ASK 00026’, ‘ASK 00032’ and ‘ASK 00033’;
-3)
-One (1) approved Shop Drawing No: 401-AN-E-07-GE-0.00-LT-SD-124; and
-4)
-Two (2) sketches annotated as ‘North S10 light setting out’ and ‘South S10 light setting out’
-proposing/providing the exact setting-out/coordinates of the external S10 lights.
-As recoded in RFI/0401/17445 Rev. 00 (reproduced above), the arrangement of trees and plants shown
-in the Drawings/Sketches appended thereto, were according to BP-58, reflective of the location,
-quantity and type of the new plant layout to the ‘Hard and Soft Landscape L0.0 arrivals’ area (Figure 1
-refers). We note however that there is no reference made to, nor are any details provided in BP-58
+We refer to the recent e-mails exchanged between us in the period from 19 November 2019 and 16
+December 2019 [copies attached] associated with the observance of heaving to the ground levels and /
+or various chambers, pits and manholes adjacent to Piers 2 and 4, following grouting works.
+Specifically, we write with reference to the following:
+1.
+Head of Pier 2 – GH10-GH11, MV chamber;
+2.
+Pier 2-GH19, Grease interceptor GIP 02;
+3.
+Pier 4- GH38-GH39 ,earth pits and GSE road; and
+4.
+Head of pier 4 area (sewer manholes S2307A and S2308A areas).
+Details pertaining to each of these areas and the content of our related e-mails are described below:
+(1)
+Head of Pier 2 – GH10-GH11, MV Chamber
+In our e-mail dated 12 December 2019 [4:15 PM] we advised you of the following:
+“… we noticed that the MV chamber at head of pier 2 (L&T scope) start to heave with a few block points
+and permeation grout points as highlighted in attached layout ... [we further record that] the calculated
+weight of the chamber [is] approximately 200 Tons without taken in[to] consideration the top part of
+the chamber …
+We hereby submitting the site records for drilled points around the chamber with the blocked and
+grouted points for your review and providing the required design method of grouting the area around
+the MV chamber.
+We would like to remind you that BAUER are employed through TCAJV for work execution not for design
+purposes, the design responsibility remain under CMA & NACO which they must supply the contractor
+with the suitable design.”
+(2)
+Pier 2-GH19, Grease Interceptor GIP 02
+In our e-mail dated 14 December 2019 [5:12 PM] we advised you of the following:
 
-[according to the sketches provided thereto], with respect to the setting-out/coordinates of the external
-S10 lights.
-Figure 1 – BP-58 Sketch
-Internal Planter Soft Landscape ref ‘ASK 0033’
-In the same manner, the exact setting-out/coordinates of the external S10 lights, were similarly not
-shown on any of the IFC Drawings. Specifically, the IFC A-94 series Drawings, attached to
-RFI/0401/17445 Rev. 00, only show indicative locations, where the S10 external lights will be installed
-along the perimeter of the landscape on the edge of the planters as shown in Figure 2 below.
-Figure 2 - IFC Drawings A-94 series
-MTC-A-94-TB-L0.0-7.14-01.001 02 & MTC-A-94-TB-L0.0-5.11-01.001 03
+“Please be noted that we observed heave on the GIP02 near gatehouse 19 (refer to attached e-mail
+from BAUER). Could you please review and advise the way forward to continue the required grouting
+works at mentioned area.
+This for your information, records and actions.”
+(3)
+Pier 4- GH38-GH39, Earth Pits and GSE Road
+In our e-mail dated 24 November 2019 [2:12 PM] we provided by way of any attachment “an as-built
+survey after grouting for the top of earth pit manholes and curbstones between GH38 & GH39.”
+This was forwarded on to the Employer’s Specialist Engineering Consultants (RHDHV) by way of your email dated 27 November 2019 [9:40 AM] advising them of the following:
+“Please see attached surveys carried out which indicate the heave experienced at the Earth Pits within
+GH 38-39 (S2301-S2301A).
+The above is for your information and feedback.”
+(4)
+Head of Pier 4 area (Sewer Manholes S2307A and S2308A areas)
+While there is no definitive e-mail available on this matter, we know that you have been made aware of
+the heave to the head of Pier 4 through daily survey works and reports, which caused you to issue us
+Site Memo No: MTC-CMA-0401-QC-MEM-03404, dated 11 December 2019, which states:
+“CMA have observed pavement lift and heave along Gatehouses 38, 39 (earth pits area) and 36
+(inundation area) on the GSE Road, concrete barriers along GH 19 and 36 access area and L& T MV
+Chamber at GH 11. These heave has been physically observed in several areas of permanent works
+during and after the permeation grouting of the area.
+This also advises us of the following ‘Requirements’ in so far as we are required to:
+1.
+Ensure all permanent underground utilities installed and completed on these areas should be
+properly monitored and any level deviations shall be reported to CMA.
+2.
+Exercise effective monitor in order to minimize unwanted movements on the completed works.
+3.
+Any damages, including other contractors completed works, occurred due to these heave
+movements shall be rectified, reinstated and tested and will be submitted though WIR for CMA
+approval.
+The amount of deviation in levels identified in the ground levels and / or various chambers, pits and
+manholes adjacent to Piers 2 and 4 varies significantly. By way of specific example, recent findings of
+the heave to Grease Interceptor GIP 02 adjacent GH19 to Pier 2, indicates that it has heaved +47mm.
+We have, by virtue of our various communications, meetings and discussions, as well as by way of our emails including those described above, together with accompanying survey reports, informed you of all
+level deviations in order for you to instruct us. However, at the date of preparing this notice (18
+December 2019), you have failed to do so. It is for this reason that we raise this E-Notice No. 0185.
+We again remind you that we are not the designers for this Project, the Employer’s Design Consultant is,
+and it is their responsibility, under your guidance, to provide us with the design of the subsidence
+remediation measure. As such we are dependent upon being provided critical design information in a
+timely and prompt manner, not just for the principle remediation measures but also to address issues
+such as those identified herein as soon as they arise. It is therefore essential that we receive a fully
+designed, complete and properly instructed Issued for Construction set of documentation, reflecting the
+Employer’s Design Consultant’s recommendations to address the heaving identified herein.
+Until such time as we are in receipt of the same, then we are prevented from completing the grouting
+works to the notes areas to Piers 1 and 4. This will delay the Time for Completion of the Works.
+To conclude therefore, it is our contention that the various events and circumstances outlined above
+constitutes acts of prevention and/or breach of Contract on the part of the Employer and / or the
+Employer’s Personnel and / or the Consultants, and accordingly we hereby give you notice, pursuant to
+Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
 
-MTC-A-94-TB-L0.0-5.26-01.001 03
-
-&
-
-MTC-A-94-TB-L0.0-5.34-01.001 02
-
-In addition to the above, our approved Shop Drawing No 401-AN-E-07-GE-0.00-LT-SD-124 was submitted
-following the IFC A-94 Drawings, where the S10 lights are placed along the perimeter of the landscape
-on the edge of the planters (Figure 3 refers). We further record also that Shop Drawing No 401-AN-E07-GE-0.00-LT-SD-124 was returned by you classified as approved with Status Code 2 comments.
-Figure 3 – Shop Drawing No: 401-AN-E-07-GE-0.00-LT-SD-124
-As noted above, RFI/0401/17445 Rev. 00 was raised to confirm the final setting-out/coordinates of the
-S10 lighting fixtures, wherein we attached thereto two sketches enumerated as ‘South S10 light setting
-out’ and ‘North S10 light setting out’, in the manner shown in Figures 4 & 5 below (Figures 4 & 5 are a
-partial extract of the sketches), providing exact coordinates for the S10 Lighting Fixtures. These
-coordinates have been based on the planting layout. With RFI/0401/17445 Rev. 00 we requested your
-confirmation and approval of the coordinates/setting-out of the S10 Lighting Fixtures respectively.
-Figure 4
-Figure 5
-South S10 light setting out
-North S10 light setting out
-We requested a response to RFI/0401/17445-00 by 19 September 2019. However, you failed to reply
-until 48 calendar days later on 6 November 2019, wherein the Employer’s Design Consultant (KPF)
-simply stated the following:
-“External Light (S10) to be coordinated w/external landscaping design related to BP58. Therefore,
-AECOM landscape to review and respond”
-While the Employer’s Design Consultant (Landscaping) commented in the manner reproduced in Figure
-6 below:
-Figure 6 – Employer’s Design Consultant (Landscaping) Response to RFI/0401/17445 Rev. 00
-Notably the Employer’s Design Consultant (Landscaping) comments/response to RFI/0401/17445 Rev.
-00 (Figure 6 refers), failed to address the very matter which the RFI was raised for in the first place; and
-that is the provision and/or confirmation of the setting-out/coordinates of the S10 Lighting Fixtures. In
-lieu however, the Employer’s Design Consultant’s (Landscaping) response simply advised us to:
-1)
-Install the underground ducting/conduits for the future provision of the S10 Lighting Fixtures;
-2)
-It then directs us, to simply hold the installation of the S10 Lighting Fixtures until “…the
-landscape has been developed…”, in essence asserting that only then it will “…be more practical to
-assess, install (if required) and aim the light fixtures to the associated feature landscape items…”;
-
-3)
-The response continues to advise us that “In terms of sequence of works, typically the landscape
-should be installed prior to the lighting, hence the recommendation above.”
-Not only did the Employer’s Design Consultant (Landscaping) failed to address the matter requested of
-it; i.e. confirmation of the setting-out/coordinates of the S10 Lighting Fixtures, but it is arguable that the
-Employer’s Design Consultant (Landscaping) is essentially requesting that the works of the installation of
-the S10 Lighting Fixtures is to be placed on hold until the placement of plants and trees to the landscape
-area. This is unacceptable particularly at this stage of the Project. We therefore, strongly advise that
-the works for the installation of the S10 Lighting fixtures can and should continue without any further
-delay.
-What is also concerning is the Employer’s Design Consultant (Landscaping) statement as seen in item 2
-above which reads as follows
-“…Once the landscape has then been developed, it will then be more practical to assess, install (if
-required) and aim the light fixtures to the associated feature landscape items (Feature mounds / small
-shrubs etc. etc.”, [bold added and underlined for emphasis]
-The abovementioned Employer’s Design Consultant (Landscaping) statement appears to put to question
-the installation and or even the provision of the S10 Light Fixtures to the landscape. In this regard we
-put on record that all S10 Light Fixtures have been approved as per MS/0401/E/0310 Rev. 00, and have
-already been procured, delivered to the site and are ultimately only pending installation. In addition,
-attached to your response was an email sent from the Employer (ADAC) to you (the Engineer) dated 31
-October 2019 [Thursday 9:12 AM]. The email is reproduced in Figure 7 below:
-Figure 7 – 31 October 2019 [Thursday 9:12 AM]
-After reviewing the email shown above and attached to your RFI/0401/17445 Rev. 00, it appears that
-there is an internal discussion between yourselves and ADAC, discussing about what is possibly a change
-of the “…light fitting types…”. The email continues to record “…that the S10 lights are already delivered
-to the project and awaiting installation…”. It also requests you to “…inform the landscape designer to
-review the setting-out requirement as per their [the Designer’s] revised landscape design in BP-58”.
-The RFI/0401/17445-00 responses concludes with your (the Engineer) comments stating that:
-“Refer to landscape consultant’s response above and to the Client email under the “Supporting
-Documents”.”
-Subsequent to the receipt of your response to RFI/0401/17445 Rev. 00 discussed above, on 12
-December 2019 we received from you by way of a revised (Rev. 01) response to RFI/0401/17445, where
-your (the Engineer) comments had been revised. We note that your revised (Rev. 01) response to
-RFI/0401/17445 01 on 12 December 2019, is some 84 calendar days late, from the date this RFI was
-required to be responded. Both of the RFI responses are summarised in Table 1 below.
-Table 1
-Date Submitted RFI Ref: Rev
-Description
-Reply Req’d By Date
-Response
-Received
-Overdue By (calendar days)
-9 Sep 2019
-RFI/0401/17445
-00
-Confirmation for the External S10 lighting setting out
-L0.0
-19 Sep 2019
-6 Nov 2019
-48
-RFI/0401/17445
-01
-12 Dec 2019
-84
-Notably, your revised comment referred us to the attached CD thereto, providing the requested
-coordinates of the S10 Lighting Fixtures. Your revised comment is reproduced in Figure 8 below.
-Figure 8
-Notably, via revision 01 of RFI/0401/17445, you provided the coordinates/setting-out of the S10 lighting
-fixtures, as per our request. However, upon investigation we have identified that the S10 lighting
-fixtures are to be relocated and distributed inside the landscape/planters area rather than on the edge
-
-of the planters, as discussed above and as indicated in the IFC A-94 Drawings (Figure 2 refers) and also in
-the approved shopdrawing ref 401-AN-E-07-GE-0.00-LT-SD-124 (Figure 3 refers). For comparison
-purposes, Figures 4 and 5 (‘South S10 light setting out’ & ‘North S10 light setting out’) shown above are
-repeated below, along with the sketches attached to your RFI/0401/17445-01 response, enumerated as
-‘Reference RFI-17445 (Revised Response) Lighting Fixtures Type-S10 Coordinates SOUTH LANDSCAPE
-AREA’ and ‘Reference RFI-17445 (Revised Response) Lighting Fixtures Type-S10 Coordinates NORTH
-LANDSCAPE AREA’, which are also reproduced (partly) below in Figures 9 and 10. We note that a full
-scale of all four sketches which have been reproduced in Figures 4, 5, 9 and are attached to Annex B for
-ease of reference.
-According to the sketches (Figure 9 and Figure 10) attached to your revised response to
-RFI/0401/17445-01, the S10 lighting fixtures have been relocated inside the landscape/planters’ area
-nearby the trees and plants etc. as mentioned above. We reiterate that as per the IFC A-94 series
-Drawings and the approved Shop Drawing, the S10 Lighting Fixtures were indicated along the perimeter
-of the landscape on the edge of the planters, as shown in Figure 4 and Figure 5, and most certainly not
-inside the area of the landscape/planters as per your RFI/0401/17445-01 response. In this regard, we
-also inform you that all the S10 Lighting Fixtures have already been procured, fabricated and delivered
-to site together with the 1.5 metre cable and the attached IP (Ingress Protection) gland. Moreover, the
-installation of the conduits and pull boxes to the perimeter of the planters, has also been completed on
-site (Figure 11 refers).
-Figure 11
-The already installed conduits (200m) and cables (1500m) are highlighted in Figure 12 below (yellow
-lines) which is showing the cable laying route. Based on the coordinates provided as per your comments
-to RFI/0401/17445-01, the plants and trees are located far from the provided points and most of them
-will face cable shortage in length.
-Figure 12
-It is for this reason that we write to you, as the setting-out/coordinates proposed by you, essentially
-seek to introduce changes to the scope of our Works according to the current IFC Drawings, the
-approved Shop Drawing and the BP-58 sketches.
-It is clear therefore that the sketches annotated on RFI/0401/17445-01 providing the proposed settingout/coordinates of the South/North S10 Lighting Fixtures located at the L0.0 landscape area are an
-attempt to vary the design and will require a valid Engineer’s Instruction (EI) and a Variation Order (VO).
-Such changes will include inter alia the following, involving coordination of numerous subcontractors:
-•
-Since the installation of the conduits and pull-boxes to the planters’ perimeter have already
-been completed on site, the changes introduced via RFI/0401/17445-01 may result in having to remove
-the already installed containments and boxes accordingly, depending on your requirements. In which
-respect, these changes would consist of either:
-1) Removal of the already installed containment and relocate them to the desired location as per your
-request/instruction. This means that there will be abortive works and we will have to remove all the
-already installed containments (200m) and cabling (1500m) and start again from scratch; or
-2) All containments to remain at the existing location, but then we will have to procure new extended
-manufacturer cables together with the IP rated connectors and IP rated pull boxes. In the event that it is
-required to extend the cables and install them underground, this would require re-excavation of the
-completed/compacted soil to place the extended cables and proceed with all required backfill works;
-
-•
-Please note that all S10 Lighting Fixtures have been procured and delivered to the site and
-cannot be modified since they are factory-made. We put on record that any possible modification will
-compromise the IP rating and the warranty accordingly;
-•
-We note once again that the relevant Shop Drawing has already been approved showing the
-installation of the conduits, pull-boxes and S10 lights placed at the edge and adjacent to the edge of the
-planters, respectively. Therefore any changes will require the relevant drawings to be revised to show
-the newly introduced IP connectors and junction boxes;
-It is also worth mentioning that as per the comments of the Abu Dhabi Distribution Company (ADDC)
-during the site inspection (Form 4 inspections) that took place in August 2018, ADDC confirmed that the
-junction boxes are required to be fixed on the edge of the planters only. This means that we are not
-proceed with placement of any junction boxes and run electrical conduits in the middle of the planters.
-We have attached to Annex B and also reproduced in Figure 13 below, the relevant email sent from
-ADAC to us dated Wed 08-May-19 [12:54 PM]. Specifically, ADAC has clearly stated among others that
-“…no boxes shall be installed in the middle of the planters to avoid any mechanical damages risk […]
-2.Planter boxes shall not be installed in the middle of planter, only on the side walls…”.
-Figure 13
-Therefore, we are of the opinion that if the junction boxes and electrical conduits are installed in the
-middle of the planters/landscape, it is highly unlikely that this will be approved by the Authority Having
-Jurisdiction (AHJ) / House of Expertise (HOE).
-In summary therefore, we write to inform you that the revised locations of the S10 Lighting Fixtures, will
-result in substantial changes to our scope of Works. SAA8 laid down mandatory procedures to be
-followed if additional works are required, and you have failed to follow these; an EI and VO are needed
-for us to proceed with the aforementioned changes.
-We therefore, take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
-Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted above and will continue to proceed in
-accordance with the existing IFC design to the extent we are able to.
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
 Yours faithfully,

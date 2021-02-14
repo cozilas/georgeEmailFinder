@@ -1,11 +1,51 @@
+
 Dear Sir,
 
-Further to the Engineer's Assistant letters referenced above, the Contractor refers to its letter
-referenced 3 above whereby the Contractor presented its proposal for the optimization of the Station
-Entrances .
+This is a direction under Sub-Clause 13.2.1for the Contractor to submit a quotation both to timing and
+price for the Variation proposed by the Engineer.
 
-As stated in the above mentioned Contractor's letter, the Contractor requested the Engineer's Ass
-istant's acceptance of the Contractor's proposal, which is yet to be received. On receipt of this
-acceptance, the Contractor shall proceed to submit a quotation.
+The Variation as proposed:
+
+Optimization of the Station entrances as well as consideration whether a shelter shall be provided or not
+and inclusive of retail and waiting areas in specific locations (see attachments). Final number of vertical
+transportation elements shall be verified against the passenger demand figures by the D&B Contractor.
+
+The detailed geometry of the entrance is not part of this proposal and shall be subject to the detailed
+design by the Contractor, taking into consideration all constraints, especially with regard to the Public
+Right of Way and adjacent stakeholders.
+
+The following is a non-exhaustive list of requirements which may be adjusted to achieve the above.
+Furthermore the adjustments will be applied to all entrances that lead directly to underground stations
+and subways:
+
+The minimum length of run-off areas may be reduced to 4m for types other than A. Run-off
+areas shall not overlap.
+
+-
+
+Where waiting areas are required (types BW and BWR), a minimum of 6 seats shall be provided.
+
+For types BWR where retail areas are not specified in the attachment , a minimum area of 100
+sqm shall be provided.
+
+To optimize (reduce) the height of the shelters for all types apart from A, the following shall be
+assumed: lift speed 1m/s, car clear height 2.3m, headroom height 1.4m, min clearance between lift
+enclosure and roof 0.2m.
+
+-
+
+For types D and E stand alone lifts are acceptable.
+
+Type E does not have a shelter and the entrance door to the AC controlled area shall be
+provided underground. Adequate signage on the status of the station to be provided at surface level.
+Dear Sir,
+
+We refer to letter ref. M006-LBE-COM-LTR-01526 in which the Engineer's Assistant issued a Direction
+under Sub-Clause 13.2.1 for the Contractor to submit a quotation for a variation proposed by the
+Engineer.
+
+The requested information was due for submission on 4 January 2016, but has not been received to
+date. The Coratractor is required to submit the requested information within 7 (seven) days from the
+receipt of this letter.
 
 Yours faithfully,

@@ -1,29 +1,21 @@
-
-Subject: RE: Notice of Delay
+Subject: Contractor's Claim: Compensation for the Employer's breach of Contract
 Dear Sir,
-The Contractor acknowledges receipt of the Subcontractor's delay notice reference (1) in respect of
-code3 comments made by the Engineer on the Subcontractor's shop drawing submissions. To be clear:
-The Subcontractor's notice refers to Clause 9.10.4 of the Conditions of Subcontract; this clause
-specifically
-covers any delay triggered by a failure of the Contractor to issue a Specification, Drawing or instruction
-within a specific and reasonable timeframe. Hence, the provisions of Clause 9.10.4 of the Conditions of
-Subcontract do not relate to the Engineer's non-approval of the Subcontractor's shop drawings and
-therefore do not apply to the alleged delay event.
-Notwithstanding the above, the Contractor notes that the Subcontractor's letter reference (1) consist of
-a
-simple recollection of submissions which have not yet met with the Engineer's approval. In other words,
-the Subcontractor's letter reference (1) does not provide sufficient level of information in relation to the
-cause, effect (quantum), entitlement and substantiation of the claim.
-Should the Subcontractor intend to claim compensation vis-a-vis the notified event, the Subcontractor is
-reminded of his obligation to submit a fully detailed claim within twenty-eight (28} from the date of the
-events which allegedly gave rise to the claim pursuant to the requirements of Clause 27.1.5.
-Furthermore,
-the Subcontractor is also obligated to submit a Time Impact Analysis in accordance with Clause 27.2.1
-within twenty-one (21} days in order to enable the Contractor to review any entitlement the
-Subcontractor may have for additional time and/or cost.
-The Contractor urges therefore the Subcontractor to comply with the above stated contractual
-obligations
-as this will form part of the basis of the Contractor's assessment of the Subcontractor's submitted
-delaying
-events.
+The Contractor, pursuant to Sub-Clause 27.1.1 [Contractor's Claims] of the Conditions of Contract,
+hereby submits a Contractor's claim for compensation due to a breach of Contract by the Employer.
+The event or circumstance giving rise to the claim is as follows:
+The Contractor refers to the Specification Section 013115 [Coordination with Tenant Areas] Article
+1.5.(C), which states that: "To keep continuity within the MTB Construction Phase, the Tenant
+Contractors shall use the Contractor's major subcontractors including but not limited to; all Systems {IT,
+PA, Security and etc.}, Electrical, Plumbing, HVAC, and Waterproofing as based on unit rates from the
+
+BOQ. These various subcontractors shall be directly contracted to the respective Tenant Contractors"
+(emphasis added).
+The Contractor has been notified by our Electrical Subcontractor, through its letter reference: (1) above,
+that the electrical installation in the arcade retail circulation area was NOT carried out by our Electrical
+Subcontractor. We consider this as a breach of Specification Section 013115, and as such a clear breach
+of Contract by the Employer.
+In view of this breach, the Contractor hereby submits our claim for compensation, which is based on the
+Contractor's lost profits and lost overhead, which has been calculated based on unit rates in the BOQ
+and the quantities as per our Electrical Subcontractor's proposal to carry out the electrical installation in
+the arcade retail circulation area.
 Yours faithfully,

@@ -1,96 +1,30 @@
+Subject: Insufficient quality resources
+Dear Sir,
+We write to raise our concerns with reference to the reduction in the contractor’s dedicated quality
+resources. We understand that the contractor has recently demobilized the majority of the quality
+assurance and control team and consequently the quality department is unavailable to attend to quality
+concerns, meeting, site walks, audits and inspections and tests.
+The contractor does not currently have adequate resources to fulfill the requirement for quality
+management. We remind the contractor of its duty to implement a project quality management system
+to ensure compliance with specified contract requirements in accordance with section 014300 quality
+assurance and 014400 quality control testing.
 
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0259
-Late and Unreasonable Comments by the Employer’s Commissioning Consultant (CxA) annotated on
-ATPs during Water Heater Commissioning Inspections
-Dear Sir
-Pursuant to the Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we
-hereby submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described
-herein may cause delay [and disruption] to the Works, and seek your swift resolution of the same.
-Overview
-
-The matters described in Annex A concern potential delays due to unreasonable comments made by the
-Employer’s Commissioning Consultant (CxA) on Acceptance Test Procedures (ATP) ATP-49096 and ATP49153, during the water Heater Commissioning Inspections undertaken between 15 and 18 March 2020.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-DESCRIPTION OF THE EVENT
-Introduction
-We write to notify you of appreciable concerns we have in relation to unreasonable comments
-annotated on Acceptance Test Procedures (ATP) Refs: ATP-49096 and ATP-49153 by the Employer’s
-Commissioning Consultant (CxA), pertaining to the Water Heating Commissioning Works (refer to Figure
-1 below and Annex B hereto) during the inspections undertaken by CxA between 15 March 2020 and 18
-March 2020.
-Figure 1 – Comments Annotated Upon ATP-49096 and ATP-49153
-By CxA during inspections undertaken between 15 and 18 March 2020
-
-With respect to CxA’s comments “how [is] the ‘anti-scald’ protection … being implemented?” and “Is
-the anti-scald device integral to the TMV [Thermostatic Mixing Valve] or the water heater?”, we remind
-you that MS/0401/P/0059 Rev. 03 (‘Sanitary ware for ablution faucets and shower’) was previously
-approved Status Code 2 by you in circa five years ago on 15 April 2015. Notably, the Technical
-Compliance Sheet attached thereto clearly describes the shower faucets MEP-10 & 30 [specified by the
-Employer] to be “infra-red controlled single outlet for pre-mixed water supply” and include a “Single
-handed thermostatic and pressure balance valve” and “include hot and cold water indicators” as per EI213B (refer Figure 2).
-Figure 2
-We further record the previous comment that the “item is sensor operated and supplied with pre-mixed
-water” and that an ‘Anti-scald device is not part of this submittal”. In which respect, we wish to remind
-you also that Paragraph 2.2Af of Specification Section 224000 (Plumbing Fixtures) was amended by you
-in order to accord to MS/0401/P/0059 Rev. 00 and now reads as follows (refer to Figure 3 below).
-Figure 3
-Therefore, while an anti-scald device for the shower faucets (MEP10 & 30) was originally required, as
-per Specification Section 224000 (Plumbing Fixtures), it was clear from the amendments made by you
-thereto, that this requirement fell away and was no longer required given that, as per the express
-reference to MS/0401/P/0059 Rev. 03 [approved by you], the product [faucet] was to operate with
-mixed water.
-
-As per the Plumbing Fixtures Specification Section 224000, we also need to provide a TMV (Temperature
-Mixing Valve) compliant with ASSE 1016 (ASSE 1016 TMV is always utilized near the source of hot
-water) and shower mixing valves compliant with ASSE 1017. As explained above, the proposed and
-approved shower system (MEP-10 & 30) effectively eliminated the requirement to install an anti-scald
-system.
-For the sake of clarity, we note that an anti-scald system is essentially used only when there is a supply
-of hot and cold water separately to a source, in this case a shower faucet. Therefore, if for any reason
-there is only hot water available in the system, the anti-scald device will close the valve and will not
-deliver hot water to the source, i.e. the shower, preventing scalding to a person. For all intents, this
-process and the system utilised is essentially ASSE compliant. However, in the instant case, the shower
-faucet is only receiving pre-mixed water and consequently, there is no direct hot water supply to the
-showers in our system, meaning that the water will reach the source (i.e. shower) pre-mixed with an
-already regulated temperature. This is established by mixing hot and cold water near the source with
-the TMV installed.
-For reference, we have reproduced the ASSE Guidelines which explain the ASSE standards and codes
-mentioned above for the temperature control devices in domestic hot water systems (see Figure 4
-below).
-Figure 4
-In light of the foregoing, it is evidently clear that we complied with the Contract requirements in every
-respect and installed an infrared controlled single outlet for pre-mixed water supply in accordance with
-MS/0401/P/0059 Rev. 03 approved Status Code 2 by you. It is clear therefore that the installed system is
-fit for the purpose intended and is in line with the ASSE which also forms part of the Specification /
-Contract.
-We note also that the system was designed by the Employer’s Design Consultant. Consequently, we
-accept no liability or responsibility for any inconsistencies in the Design; neither do we accept any
-responsibility for overcoming any inconsistencies in the Design; this remains with the Employer’s Design
-Consultant.
-In summary, the Plumbing Fixtures Specification was changed by you to accord to MS/0401/P/0059 Rev.
-03 which was approved by you. Hence the system has been approved to include a pre-mixing valve
-instead of anti-scald system. Moreover, the system is in line with the ASSE codes and guidelines.
-In view of the facts presented above, it is clear that given the approved Material Submittal has been in
-existence for five years, and the works completed and signed off by you through the WIR process, CxA’s
-comments annotated on ATP-49096 and ATP-49153 are not only unreasonable but totally unacceptable.
-Given the critical stage the Project is currently at, then any delay to the Water Heating Commissioning
-Works will invariably delay the completion and approval of the Water Heating System and associated
-works and will impact on associated inspections, thereby invariably delaying the Time for Completion.
-Given the dependency that our testing and commissioning has on CxA’s review of the ATPs we urge you
-to take immediate action as necessary including involving the Employer, to insist that CxA immediately
-clears and/or withdraws the comments to avoid any further delays. Please note that any delays incurred
-to date or that may be incurred by us as a result of the above, shall be at your and/or the Employer’s
-risk.
-Meanwhile, the various delays and act(s) of prevention outlined herein, is delaying and disrupting the
-completion of our testing and commissioning. This will invariably knock on and impact our ability to
-achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
-Yours faithfully,
+It is of particular concern that the works are not being checked, reviewed and verified by the
+contractor’s quality control team to demonstrate and document compliance with the contract. As per
+enclosed documents the contractor is submitting work inspection notifications (WIR) through zutec
+without the necessary verification by the contractor’s quality control.
+We also observed that wir revisions and snagging closure requests are being raised by the contractor
+without first rectifying the works on site. Due to your lack of quality resources, our inspectors are
+conducting inspections directly with the subcontractors. We also observed that the quality control
+documentation in zutec is being filled / processed by unauthorized people such as the contractor’s
+secretaries and document controllers.
+The reduction in the contractor’s quality team at this critical stage of the project is of great concern and
+is not acceptable given the current delays to the project and will cause further detrimental impacts to
+the quality of the works. This is a breach of the contractor’s obligations under the contract and in
+particular of clause 14.8 of the conditions of contract and clause 1.4 of section 013103 of the
+specifications.
+We request the contractor to implement immediate measures to provide all necessary quality
+management and control resources required to fulfil its duties under the contract. We also request that
+the contractor provides its updated organization chart showing the project quality control team
+responsible for managing, performing and verifying the works.
+Yours faithfully

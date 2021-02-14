@@ -1,28 +1,21 @@
-Subject: Delay Notice No. 997 - Delays to 56 nos. of MEP Shop Drawing Submittals
+Subject: Target Programme to Completion Rev 10.2
 Dear Sir,
-submitted on 2 January 2018, due to AECOM Live-Link Workflow Limitations
-On 2 January 2018, the Contractor submitted a total of 56 nos. of predominantly Mechanical, Electrical
-and Plumbing (MEP) Shop Drawing Submittals, collectively encompassing a total of 129 nos. of Shop
-Drawings. The Shop Drawing Submittal schedule included at Annex A hereto refers. However, all 56 nos.
-of Shop Drawing Submittals were placed 'on-hold' by the Engineer "due to the Live/ink workflow
-limitation[s], and were only stamped received by 11 January 2018" as notified within the Contractor's
-subsequent letter to the Engineer dated 15 January 2018 (ref: 2).
-Article 1.3 of Specification Section 013300 'Submittal Procedures' governs the processing time by which
-the Engineer is contractually obligated to respond to the Contractor's submittals. On the basis that each
-of the submittals listed in Annex A are shown to be at Revision 02 or higher, then these ought to have
-been responded to by the Engineer 7 calendar days later, i.e. on 9 January 2018. However, Annex A
-shows that at the date of preparing this Delay Notice (which is 7 February 2018), the Engineer has
-exceeded and continues to exceed the review period for a further resubmittal review expressly
-stipulated
-at Article 1.3.A.3 (d) of Specification Section 013300, by 29 calendar days. The Contractor contends that
-this constitutes a breach of Contract or an act of prevention on the part of the Employer's Personnel.
-Therefore, in accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, the Contractor
-hereby notifies the Engineer of its entitlement to claim:
-
-(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
-(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
-the alternative, damages for breach of Contract.
-Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
-in
-due course pursuant to Conditions of Contract Sub-Clause 27.1.5{a), (b) and (c).
-Yours faithfully,
+Please find enclosed both an Excel and PDF version of Programme Rev 10.2 with a data date of 1'1
+August 2017. The Rev 10.2 Programme represents the collaborative effort between the Employer,
+Engineer, Contractor and Subcontractors to achieve substantial completion of the Works by 30 June
+2019. This Programme considers all constraints that you have identified, including all Variations
+instructed, as of 31 July 2017.
+At present, Programme Rev 10.2 is not an approved Programme as understood either under the terms
+of the Contract between the Employer and the Contractor or the terms of the Subcontract between the
+Contractor and the Subcontractor. However, the Engineer intends to use Programme Rev 10.2 for
+monitoring and control purposes with respect to the Contractor and Subcontractors until it is approved
+or superseded by a revised approved Programme. Accordingly, we would request you to provide us
+with, for monitoring and control purposes, your target programme to completion which aligns with
+Programme Rev 10.2. We would request you to provide this to us by 31 October 2017.
+Please note that this letter is not, of itself, to be considered as: (i) an admission of any entitlement to an
+extension of time and/or entitlement to additional payment; or (ii) requiring the Subcontractor to
+comply with an accelerated schedule; or (iii) constituting a waiver of any of the terms of the
+Subcontract.
+We look forward to your cooperation with this matter and timely receipt of your submission. Should you
+have any queries please do not hesitate, in the first instance, to contact our Senior Planning Manager.
+Yours faithfully

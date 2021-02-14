@@ -1,39 +1,10 @@
-Subject Delay Notification-WLAN Performance Test
+Subject Contractor's Claim for an Extension of the Time for Completion for events between 4
 Dear Sir,
-We write to record our concerns in relation to the frequent and uncontrolled shutdown of power in
-SCRs which are directly impacting the ongoing WLAN Performance Testing.
-Based on our ongoing coordination and workshop with the Contractor (attachment 1), we recorded
-that the Wireless team is unable to complete the WLAN performance test on a timely manner due to
-the uncoordinated power shutdown of the SCR which further leads to a shutdown of the LAN switches
-and associated WLAN access points of the given areas serviced by the impacted SCR.
-The completion of WLAN Performance Test throughout the MTB (all floors/levels) and up to 100m
-outside the Terminal Building is already delayed and has to be completed at the earliest to identify the
-WLAN blind spots in order to carry out rectification works.
-It is also important to highlight that the frequent uncontrolled shutdowns or brownouts will affect the
-networking devices, causing it to malfunction. One of the possible reasons could be due to the
-contents of the RAM not being refreshed on time, thereby becoming corrupted and needing a reboot
-to clear or, if in the middle of writing changes to flash when the power is lost, it can end up with a
-corrupted software image, refer to the Manufacturer's Statement (attachment 2) for further details.
-Please be reminded that for the outdoor area, WLAN Signal Coverage Testing was conducted at Gate
-House 44 in Pier 4 on 30th June 2019, and during the test we have identified a few WLAN signal blind
-spots at the Contact Stand and these have been reported and highlighted in the Contractor's report.
-Since then the WLAN blind spots in that area have not been rectified. Please refer to NCR reference
-"MTC-CMA-0401-CM-NCR-01368" that was issued to identify and record the Specification clauses that
-were not fulfilled by the Contractor during the WLAN Performance Test in that area.
-Moreover, considering it is a typical WLAN setup for most of the Gatehouses, except for a few
-Gatehouses where distance may vary (e .g. Code-F), the Contractor should immediately proceed with
-the rectification work in order not to delay the completion of the WLAN Performance Testing.
-Based on the above, it is evident that the Contractor is not in control of the ongoing WLAN testing
-activity and this appears to be due to the lack of adequate resources who are able to manage these
-works.
-
-Therefore, the Contractor is requested to immediately submit a detailed plan for remedying the above
-and within 7 days detailing a timeline and recovery measures that will be implemented as to ensure
-that a stable power is available during the testing activity and that rectification works are coordinated
-and executed promptly.
-The Employer and the Engineer have, on numerous occasions, requested the Contractor's MSI team to
-conduct the required due diligence and coordination as to deliver the MSI role, however, the
-Contractor did not proceed accordingly.
-We hereby reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of Contract for all
-delays and damages that may be incurred as a result of the Contractor's delays and inactions.
+We write with reference to correspondence (1) wherein the Contractor responded to the Engineer's
+assessment and disapproval of the Contractor's claim.
+It is the Engineer's determination that the Contractor's response does not address the issues raised by
+the Engineer regarding the deficiencies related to the Contractor's cla im (3) and thus the Engineer's
+disapproval of the claim pursuant to Clause 27.1.6 of the Conditions of Contract remains.
+Should the Contractor object, then the Contractor shall fol low the process described in Clause 27.1.6
+with regard to the Dispute Resolution.
 Yours faithfully,

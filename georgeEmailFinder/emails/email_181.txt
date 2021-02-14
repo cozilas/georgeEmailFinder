@@ -1,46 +1,27 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0218
-Damage to Passenger Boarding Bridge at GH10 due to Employer’s MTA Contractor
+Subject: Flood damage in basement levels LBl and LB 2
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Annex A records delays attributable to damages caused by the Employer’s Other [MTA] Contractor (L&T)
-to the Passenger Boarding Bridge (PBB) at Gatehouse GH10; which requires rectification and as such will
-require you to issue an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We herewith enclose a series of photographs at Annex B that collectively serve to evidence that damage
-has been caused to the previously installed and completed Passenger Boarding Bridge (PBB) to
-Gatehouse GH10 by the MTA Contractor (L&&), and specifically, damage to both the PBB and to a CCTV
-camera. Some of these photographs indicating the damage caused are reproduced in Photo 1 to Photo 5
-below:
-Photo 1 Photo 2
-Kindly note that we cannot be certain when the damage was caused by L&T; we do know however, that
-the last de-snagging inspection to the PBB was held on 2 May 2019 and the date the photos were taken
-is 26 January 2020. Irrespective of when caused, the resultant damage is not of our doing or
-responsibility, and any rectification / remedial works necessarily required at this stage, will invariably
-delay us.
-In which respect, as noted on our letter dated 16 February 2020 (ref:
-MTB/TCA/AECOM/L/015316), we are in the process of obtaining a detailed report from the PBB
-subcontractor (TKAS) to establish the full extent of damage caused and resultant impact. This will be
-forwarded to you as soon as it becomes available.
-As you know, SAA8 laid down strict guidelines to follow in the event that additional works are required
-and on the basis that the necessary repairs to the PBB and CCTV camera to GH10 will put us to
-additional expense [and time] we therefore request that you issue us a Variation Order (VO) / Engineer’s
-Instruction (EI) as necessarily required in order for us to undertake the remedial work and be paid
-accordingly.
-We also request you to take whatever necessary action is required on your part to prevent any further
-occurrence of damages to our previously completed Works by the Employer’s Other Contractors.
+We refer to your letter noted above and would record the following points:
+1. Having inspected our Works and the surrounding installatons and not having found any cause
+of our making, our report was raised simply to identify possible sources of the root cause;
+2. Our initial report on the root cause of the flood was issued to you over two weeks ago: to
+some extent this is, as you say, a statement of opinion but we are under no obligation to
+provide anything further. To date nothing has been issued to us that sets a cont ra ry position;
+3. It has been stated that you would issue your review of our report, but at t he time of writing
+this is still await ed;
+4. Given that the root cause of the flooding does not arise from any act or omission of the
+Contractor; and given that we had warned of possible insufficiency in site-wide storm-water
+disposal provision; and given t hat nothing tangible was done by ADAC or Aecom to act
+prudently as required under the Contract: then such an event can be said to constitute an act
+of Gross Negligence as defined under the Contract and any indemnity offered by Sub-Clause
+24.1.1 is thereby extinguished;
+5. Similarly as the root ca use is not of our making, t hen Sub-Cla use 24.2.2 to which you refer
+cannot be relevant. The obligation to 'ca re for the Works', on its widest interpretation, does
+not extend to an obligation to remedy damage caused by faulty design. TCA JV is not
+responsible for the design of the storm-water system and there is nothing in Clause 24 that
+transfers design liability to TCA JV or renders TCA JV liable for insuring against design errors.
+We have covered the manner in which we believe the project should jointly move forward in the urgent
+rectification of this damage in separate emails and discussions and suggest that your efforts be more
+focused on cooperative endeavour to this end. We shall continue to urge that in parallel you issue both
+your detailed response to our initial report and your own hydraulic investigations, as this data has been
+requested by the insurer for his information.
 Yours faithfully,

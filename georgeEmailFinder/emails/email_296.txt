@@ -1,73 +1,16 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0170
-Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting Finalisation of
-Snagging, De-Snagging and T&C Activities to L2.0
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays to the processing of re-entry permit / NOCs and
-activities of Others affecting finalisation of snagging, de-snagging and T&C activities to Level L2.0
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Specifically we urge you to review and respond to Contractor’s Material submittals without further
-undue delay. Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-In the period between 17 October 2019 and 31 October 2019, we submitted various Re-Entry Permits /
-NOCs, requesting permission to re-enter various Duty Free and F&B Outlets to Level L2.0 to allow us to
-complete various Works, such as snagging, des-snagging and testing and commissioning activities. These
-Permits or NOCs include the following 26 nos. of RDD Form 15s summarised in Table 1 below:
-Table 1
-Sr. No. NOC No.
-Rev
-Room No.
-Description
-Date Request Issued
-[TCA JV to CMA]
-Response Due Response Received
-Reply Overdue By
-[calendar days]
-1
-RDD-489
-0
-2091 Isolator , LOTO & install MCCB 17-Oct-19
-20-Oct-19
-The information recorded in Table 1 shows the NOC reference number, the revision, the description of
-works and room number, plus the date the request for an NOC was made, and when the response to
-our request for access was due; the latter being based on a nominal three-day turn-around time. In
-other words, approval is traditionally granted within three (3) days from our request being issued.
+Subject:Re: Engineer's Instruction No. 786 – Proposal - Outstanding Door Issues
+Dear Sir,
 
-However, the information recorded in Table 1 further records that at the cut-off date associated with
-the preparation of this Notice (i.e. 4 November 2019), while only 1 out of the 26 NOC requests listed
-therein have been responded to, the response was issued 9 days late. This also demonstrates that for
-the remaining 25 NOC requests, the responses are exceeding and by all accounts continuing to exceed
-the three day turn-around response time by periods of upwards of 15 calendar days late.
-This is unacceptable, particularly at this stage of the Project. This is made worse by the fact that not
-only have we previously written to you on matters such as this by way of our letter ref (2) but we have
-issued various reminders to you, including e-mails dated 20, 26 and 30 October 2019 (copies attached)
-but these have been overlooked and the status of the overdue NOC requests remain.
-The purpose of this E-notice is two-fold: Firstly, we wish to notify you of appreciable concerns we have
-in relation to the NOC process, specifically a failure on your to process our requests for re-entry
-promptly and issue the approved NOCs in an timely manner, and Secondly the invariable impact that
-this failure has on our ability to complete the snagging, des-snagging and testing and commissioning
-activities, amongst other things; and accordingly urge you to ensure that the responsible third-party (i.e.
-Employer’s Tenants) responds to the requested NOC issuance in a prompt and timely manner.
-Potential Impact:
-Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
-Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
-Consequently, the more we are prevented from working due to the combined effects of the above, the
-more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
-specifically, we urge you assist with the prompt processing of our Re-Entry Permits allowing us access as
-well as urging the Employer’s Other Contractor to work with us so as not to delay our Works. Kindly
-ensure that such matters are resolved immediately from the date of receipt of this Notice.
+We write with reference to your letter (2) in which you enclosed an Engineer’s Instruction (EI) No. 786
+requesting us to provide a Rough Order Magnitude (ROM) and a Time Impact Analysis (TIA) with respect
+to changes to 41 no. doors.
+We write to express our disappointment that you have elected to issue an EI only for 41 nos. doors
+disregarding the remaining hundreds of outstanding doors listed in our letter ref (1) and also in all of our
+E-Notices and Delay Notices listed in Annex A hereto.
+Consequently, we put on record, that despite our numerous requests to date, you have failed to provide
+clarification and/or issue EI’s for the respective outstanding doors.
+We therefore, inform you that your ongoing failures identified in our numerous correspondences are
+continuing to prevent us from the completion of the Works. Such acts of prevention on your part are
+undeniably causing delay and disruption to the completion of our Works and are continuing to prevent
+the achievement of Milestone MS09B and Milestone MS09C.
 Yours faithfully,

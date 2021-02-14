@@ -1,34 +1,72 @@
 Subject:
 
-Re: Refuge phone and signage configuration in egress staircases
-
 Dear Sir,
-We write in connection with the above mentioned subject and notify you that an Engineer’s Instruction
-is required to proceed with the works. We note that this issue was discussed during the Risk Committee
-Meeting on 4th November 2018 and via the minutes of meeting items no. 15 and C/T/1119, you
-requested us to proceed in line with the response on RFI 16110 and the refuge locations signed off in
-Briefing Pack 65.
-Please note that, the refuge phone signage schedule and map design were not provided during Briefing
-Pack 65 for each specific location, thus we raised this topic via our letter referenced (2) above where we
-informed you about the lack of information in regards to the design and the possible cost and time
-impact that this may have. The Engineer then responded with letter reference (3) requesting us to
-submit a detailed claim for the event that gave rise to this delay.
-In the meantime numerous meetings were taking place and the RFIs referenced (1) above had been
-raised to clarify the issues regarding the missing design. Subsequently, the RFIs were responded on 11th
-November 2018 which provided some of the information in regards to the design intent of the signage.
-Along with the information provided with the mentioned RFIs, an Engineer’s Instruction is also required
-to enable us to proceed with the works.
-Please note that due to the fact that the quantity and design were not finalised in the BP65, this issue is
-not deemed to be considered in the SAA8. Therefore, pursuant to the SAA8 Variation Clauses 2.29, 2.30
-and 2.31 [Variations], notwithstanding the terms of Conditions of Contract Clause 20.3 [Variation
-Procedure] the Engineer shall not instruct any Variation after the Amendment effective date of 4th
-September 2018 unless all the requirements of these SAA8 Clauses have been fulfilled in their entirety.
-Please let us know whether or not these changes are required, following which we will compile our cost
-and programme impact (if any) proposal for your and ADAC’s agreement. If and when we receive a
-Variation Order confirming agreement with our proposals we will proceed with these varied works.
 
-Your prompt action, guidance, decision or further instruction is required; failing which the works are
+Re: Request for Engineer's Instruction [RFEI/0401/0724]
+Door Clear Height Design Change, RFI/0401/16441 Response
+
+We are in receipt of your letter referenced (2) above, wherein you rejected our letter referenced (1)
+requesting you to issue an Engineer’s Instruction (EI), regarding the change of door height introduced via
+RFI/0401/16441 dated 17th September 2018, which dropped to 2200mm from door clear height
+2400mm.
+
+Please note that we refute the content of your letter referenced (2) and inform you the following:
+Bulletin 245 was issued by the Design Consultant to correct security and code deficiencies, regarding
+incorrect hardware sets and operational requirements. The door heights for these specific doors were
+never addressed in the door workshops. Door heights were most often changed due to briefing packs
+which were unrelated to door workshops. Hence, your comments in your letter referenced (2) about
+Bulletin 245 is not relevant with any of the issues mentioned about the doors in our letter referenced
+(1).
+You have also mentioned that “It is under the Contractor's obligations to highlight any such clashes prior
+to fabrication of the doors”, which we refute. This is due to the fact that all clashes were indeed
+highlighted by the Contractor and this was the main reason the numerous workshops were required, to
+resolve these issues. Please be informed that EI 681F was issued for implementation after all the
+discussions during the workshops and included information that superseded the previous information
+issued by the Engineer regarding the door height. Hence, EI 681F was clearly instructing us to implement
+and proceed with the door clear height 2400mm, which we did so.
+In regards to your comment that it is our “responsibility to provide coordination drawings indicating
+how work shown by different trades is interfaced”, we respond as follows:
+•
+We have only been provided with comments in the Door Schedule rev 31 on 21st March 2017
+(Bulletin 245), without any drawings;
+•
+We note that you as the party in charge of the design, are responsible for Design coordination
+with SACS, Fire Alarm, Power, and door functionality;
+•
+We also note that we have not been provided with adequate information that would enable us
+to prepare any drawings as per your comments in your letter referenced (2) above;
+•
+The design needs to be complete and be provided by the Engineer prior to the Contractor
+providing shop-drawings, which in this case it has not been completed yet. Doors do not require having
+shop drawings for each door. The door schedule and the hardware schedule are the most detailed
+information you can have for doors. As agreed during the workshops and numerous discussions, the
+schedules which provide information for specific issues, supersede any drawings issued previously and
+define how each door is fabricated;
+•
+We note that Door Schedule revision 32 and the related IFC drawings for fire, data and power
+have not yet been provided. Furthermore, we also note the discrepancies between schedules which
+have not been cleared and have to be resolved by the Engineer the soonest;
+•
+Coordination with other trades does not include design for the doors. The doors do not fall
+under Performance Specifications. Responsibility for the Design of the works is identified under the
+Contract and unless it is explicitly identified as a Performance Specification, the design is the
+Engineer’s/Employer’s responsibility. Therefore, we require a clear design by the Employer/Engineer
+regarding the doors.
+•
+Furthermore, SACS Types, Fire Alarm, Power must all be code compliant as well. As mentioned
+above, the responsibility of the Design and consequently design compliance with the codes and Local
+
+Authority requirements remains solely with the Engineer/Employer. Thus, as per the Contract, the
+responsibility for code compliance for the doors, SACS and Fire Alarm lies with the Engineer.
+In view of the above, we inform you that we are not able to prepare any shop-drawings without having
+received all of the aforementioned from the Engineer.
+Additionally, you are kindly reminded that e-notice “SAA8 Sub-Clause 2.26, E-Notice No. – E0007 –
+Discrepancies between Door Schedule Rev 31, SACS, Data and Power Provisions” and other
+correspondences have been submitted previously, informing you about all of the aforementioned door
+issues.
+Your prompt action, guidance, decision or further instruction is required, failing which the works are
 likely to be delayed and/or disrupted.
 We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
-extension to the Time for Completion and additional Costs arising from the above described event.
+extension of the Time for Completion and additional Costs arising from the above described event.
+
 Yours faithfully,

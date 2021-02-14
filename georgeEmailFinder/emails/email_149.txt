@@ -1,45 +1,114 @@
-Subject:
-Rejection of Non-Conformance Reports – Floor Damage – Various Disciplines
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0224
+Engineer’s Response to RFI/0401/17648 – Additional Works Introduced to Close the Gap
+Between the MPC panel and façade at Level 2.0 Departure Hall Sector 5.22 & 5.12 - Request for
+Engineer’s Instruction (EI) / Variation Order (VO)
 Dear Sirs,
-We refer to receipt on 5 and 8 March 2020 of the referenced Non-Conformance Reports (NCR) all dated
-4 March 2020 concerning ‘Flood Damage’ to the various works and disciplines identified in Table 1.
-Table 1
-Item Date of Receipt NCR No.
-Description
-1
-08-Mar-20
-MTC-CMA-0401-CM-NCR-1567 Telecommunications Infrastructure and Systems
-Works
-2
-08-Mar-20
-MTC-CMA-0401-CM-NCR-1577 External Works
-3
-08-Mar-20
-MTC-CMA-0401-CM-NCR-1582 BHS, PBSS, HBSS and ATRS Works
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Your response to RFI/0401/17648 detailed in Annex A hereto, represents a change to the design and
+scope of our Works and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+Sometime in or about end November 2019 / early December 2019, you e-mailed us a schedule entitled
+‘Interface Tracker’, detailing various site actions needed to be undertaken to previously completed
+works to the CP area Level L2.0 Office and Hotel following a recent site inspections by you / ADAC.
+One item in particular is item 31, which relates to the existence of a gap between the MPC panel and
+facade located at CP Level 2.0 Departure Hall Sector 5.22 and Sector 5.12 as indicated by the following
 
-4
-05-Mar-20
-MTC-CMA-0401-CM-NCR-1583 Civil and Architectural Works
-5
-05-Mar-20
-MTC-CMA-0401-CM-NCR-1584 Electrical Works
-6
-08-Mar-20
-MTC-CMA-0401-CM-NCR-1585 Lift, Escalator and Travellator Works
-7
-05-Mar-20
-MTC-CMA-0401-CM-NCR-1586 Mechanical Works
-The description provide for each of the alleged non-conformances listed in Table 1, remains the same
-for all seven NRCs, irrespective of the works and disciplines works; and reads as follows (Figure 1 refers):
+extract of the Interface Tracker’ in Figure 1, while some indicative site photos are provided at Figure 2
+below:
 Figure 1
-While we acknowledge our obligations to comply with Clause 12.1 of the Conditions of Contract, for the
-reasons explained in our letter ref: (8) replying to your letter ref: MTC-CMA-TCA-0401-LTR-11305 (ref:
-9), we refute that we are in any way responsible for the flooding. The prevention matter and breach of
-contract on the part of others was made clear in our letter ref: (10); hence the resultant damage is not
-of our making. Moreover, considering the works, plant and equipment subject to each of the disciplines
-noted in each NCR has been installed in accordance with the requirements of the Contract and signed
-off through the WIR process; then they cannot be construed as being defective or not fit for the purpose
-for which they are intended. On this basis we categorically reject all seven (7) NCRs referenced above.
-Therefore any necessary remedial works arising in consequence of the matters subject to each of the
-above noted NCRs will be addressed in the same manner and to the extent possible as per letter ref: (8).
+Figure 2
+Notably, the ‘Interface Tracker’ states inter alia that:
+•
+“The enclosure between MPC-11c and GYB-01 [is] as per approved shop drawing …”
+•
+“… as agreed with ADAC additional gypsum and EPDM to be provided in order to close gap. …
+Proposed detail has been sent to KPF … RFI to be raised for officially [sic] confirmation”.
+These comments tell us the following:
+1.
+That the works have been completed in accordance with approved Shop Drawings (in which
+respect Shop Drawings are directly derived from/based upon ADAC approved IFC Drawings);
+2.
+That both you and ADAC recognise that “additional” works are needed to close the gaps;
+3.
+That a proposed detail [using “additional gypsum and EPDM”] to close the gap already exists
+and this has been sent to the Employer’s Design Consultant [KPF] presumably for approval; and
+4.
+That we were ordered by you to raise a Request for Information to obtain official confirmation
+of the additional gypsum and EPDM detail required by you/ADAC to close the gaps.
+Accordingly we complied with your request and on 10 December 2019 raised RFI/0401/17648 together
+with the following attachments, seeking approval of a suggested detail in order to overcome what is in
+effect a deficiency in the IFC Design and to close the gap between the façade and MRC panels:
+•
+A copy of the ‘Interface Tracker’ comments ‘Item 31’ as shown in Figure 1 above.
+•
+Copies / extracts of IFC Drawing No: MTC-A-02-TB-L2.0-5.12-00.550_21 and IFC Drawing No:
+MTC-A-02-TB-L2.0-5.22-00.560_24, highlighting the exact locations of the gaps between MP-11C and
+Façade at CP Level 2.0 Departure Hall Sector 5.22 & 5.12; and
+•
+Three (3) sketches enumerated as ‘Sketch A’, ‘Sketch 01’, ‘Sketch 02’, which consist of a photo of
+the gap and sketches (reproduced in Figure 3 below), including suggestions to close the gap with EPDM
+and gypsum boards in the exact same manner as per your ‘Interface Tracker’ comments;
+Figure 3
+We requested your response to RFI/0401/17648 by 19 December 2019. However, you failed to reply
+until 7 calendar days later on 26 December 2019. Notwithstanding the prolonged period in responding,
+in its reply, the Employer’s Design Consultant (KPF) nevertheless advised us of the following:
+“No objection to contractor’s proposal. Contractor to submit relevant shop drawings showing the
+interfaces with the floor and ceiling. No cost / time.”
+Evidently, KPF’s response has confirmed the necessary changes required to the Works to accommodate
+the installation of EPDM and gypsum boards in order to close the gaps between MP-11C and Façade at
+CP Level 2.0 Departure Hall Sector 5.22 & 5.12. However, in doing so, we wish to stress the following:
+1.
+As noted above and acknowledged both you and ADAC, the works to CP Level 2.0 Departure Hall
+have been completed in accordance with the IFC Drawings and approved Shop Drawings .
+2.
+You and ADAC have already conceded that additional works are required as noted above.
+3.
+We complied with your directive to raise an RFI to obtain official confirmation of the additional
+gypsum and EPDM detail required to close the gaps. Consequently the details attached to our RFI were
+suggestions to overcome deficiencies that were inherent in the existing IFC Design.
+
+However, irrespective of who provided the detail in confirmation of the provision of additional gypsum
+and EPDM in order to close the gap, the detail is representative of additional works that is not currently
+shown in the IFC Drawing; and will require a VO / EI formally confirming that you require the same.
+However, what is particularly disconcerting is that, on the one hand KPF, are surreptitiously introducing
+changes to the Works through the ‘Interface Tracker’ and by way of its response to RFI/0401/17648, yet
+on the other hand, they are expecting us to absorb the associated additional time and cost, stating that
+these changes shall have “no cost/time”.
+At the risk of being repetitive, these works have been completed in accordance with the design shown
+on the IFC Drawings (Figure 6 refers). Therefore, the gaps are unequivocally a deficiency in the design for
+which the Employer’s Design Consultant is liable for, not us. We are not designers for the project’ we
+have simply offered a potential solution to overcome the noted deficiency as requested to do so.
+Figure 6 - IFC Drawing No: MTC-A-02-TB-L2.0-5.12-00.550_21
+Therefore, these works are additional and are a change to our scope of Works. As a result, if such works
+are to be undertaken, then we will incur additional time associated with the preparation and approval of
+Shop Drawings, plus additional time in procuring the EPDM and gypsum boards and installing them on
+site. There is also the direct cost associated with the procurement and installation of the additional
+EPDM/ gypsum boards utilising additional labour, plant and access scaffolding etc.; which will involve
+return visits to previously completed work/areas. Plus there are the costs of delay resulting therefrom.
+Therefore for KPF to expect us to absorb the costs and time for all of that is totally unacceptable.
+Further, as the Employer’s Design Consultant is the designers for this Project, we accept no liability or
+responsibility for any inconsistencies in the Design; this remains with the Employer’s Design Consultant.
+We further remind you that SAA8 laid down strict guidelines to follow if additional works are required
+and this change / additional variations works will warrant a valid Engineer’s Instruction (EI) and a
+Variation Order (VO) if you require us to proceed with integrating the revised scope into the Works.
+Accordingly the express provisions of Clauses 2.29 to 2.31 of SAA8 are patently clear: We are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing this change into the Works and we will continue to
+proceed in accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

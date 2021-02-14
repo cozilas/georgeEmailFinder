@@ -1,17 +1,23 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0189
-Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting Finalisation of
-Snagging, De-Snagging and T&C Activities to L2.0 (as of 15 December 2019)
-Dear Sirs,
-We refer to your letter ref: (1) following issuance of E-Notice No. 0189 (ref: 2) in which you allege that as
-a result of us re-entering the noted spaces we have disrupted the works of the Employer’s Other
-Contractors and that you “do not consider that the submitted E-Notice has any merit”.
-For the reasons comprehensively set out in Annex A to letter (2) and recorded below, we disagree.
-Firstly, for the record, your comment on us allegedly disrupting the works of Other Contractors is a
-statement of opinion and you have failed to provide any substantiation to support this statement.
-Secondly, while you acknowledge in your letter (ref: 1) that you have processed re-entry permits with a
-turn-around time of 3 working days “on average”, this is clearly not the case for all of the permits listed
-in Table 1 to Annex A of E-Notice No. 0189 (ref: 2); and as such represents act(s) of prevention.
-In view of this, then we maintain all our rights under the provision of Conditions of Contract Sub-Clauses
-16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
-for Completion and any associated costs arising from the event described in letter ref: (2).
+
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0184
+Engineer’s Unreasonable Snagging Comments regarding Sprinkler Installation at Pier 4
+Sector 4.14C– Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
+Variation / Change into Works
+Dear Sir,
+We refer to your letter ref: (1) following issuance of E-Notice No. 0184 (ref: 2) in which you opine,
+amongst other things, that “the void space current [sic] installed sprinklers do not meet the criteria for
+the omission of sprinklers as per NFPA-13 Clause 8.6.7.2” and that we are somehow responsible for the
+matters subject detailed in our letter ref: (2).
+For the reasons comprehensively set out in our letter ref: (2) we disagree; and it is clearly evident from
+your reply (1), you have either elected to ignore the content or missed the crux of the issue entirely.
+We remind you that the Works associated with the installation of the sprinkler system located at the
+area of L3.1 (HOTEL/OFFICES/LOUNGES) Pier 4 Sector 4.14C, have been completed based on the IFC
+Drawings prepared by the Employer’s Design Consultant; who, as the design consultant for the Project,
+are responsible for the design, not us. We have simply constructed the Works according to their design.
+Therefore any requirement for us to install any additional sprinklers to the area or vary what is currently
+shown on any IFC Drawings represents a change; and if you require us to proceed with integrating any
+changes or revisions to the Works, then you are obligated to issue us an EI / VO in order for us to do so.
+Meanwhile, until such time you take the action required of you and issue us an EI / VO in accordance
+with the express requirements of SAA8, we are unable to proceed with implementing any changes to
+the sprinkler system cited in letter ref: 2 and will maintain what is reflected in the existing IFC design.
 Yours faithfully,

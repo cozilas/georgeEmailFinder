@@ -1,70 +1,53 @@
-Subject Maintenance Concerns during Construction Stage
-Dear Sir,
-We write with reference to correspondence (1) regarding the poor maintenance of the MEP
-equipment and highlight the following concerns that require an urgent action by the Contractor:
-1. It is evident that there is no clearly defined transfer of responsibility within the TCAJV's
-organization namely between the FM team and the construction teams for maintenance. This
-has resulted in situations where the ownership/ responsibility for the maintenance activities
-appears to have been unclear to both teams and, as a consequence, the maintenance has
-been missed.
-The Contractor is therefore requested to provide an outline document detailing
-responsibilities by area/system and forward the same to the Engineer. The Contractor is to
-also clarify where maintenance has been missed what impact this could have on the
-respective system's warranty (s).
-2. There is an ongoing reliance on "manual" operation of commissioned plant and equipment,
-and this places the equipment at risk as many of the automatic protection features do not
-function correctly when the equipment is over-ridden. The Contractor shall generate a
-detailed plan for re-instatement of automatic control with immediate effect. Where
-equipment is to be retained in a non-operational state, this should be achieved via correct
-isolation using automatic control systems that are provided for this purpose.
-3. As many examples have been recorded of poor maintenance (e.g. CHW Flushing, Equipment
-Failures, AHU/HVAC Equipment Condition, etc.), we note that this raises concern regarding
-the condition of the equipment and systems at handover and the associated warranties. The
-required rectification and inspection of these equipment generates an unwarranted drain of
-TCAJV, Employer's/Engineer's and CXA's resources which does not support the drive towards
-project completion. As we are moving towards the final stages of the Project, we still note
-widespread concerns with maintenance and the subsequent performance reduction may
-impact the completion of the Project. All of the issues raised relating to maintenance require
-a corrective action ranging from cleaning or site repair to replacement of damaged
-equipment. With the current project delays, these impacts could not be entertained [refer to
-the attached document].
-4. As many areas are moving towards completion and many of the final finishes are being
-installed, we advise that these finishes generally require specific environmental conditions to
-avoid damage and/or loss of warranties. The observed maintenance failures relating to the
-HVAC system operation increases the probability of issues relating to finishes manifesting. We
-recommend an immediate review of the TCAJV's plan for implementation of the HVAC system
-operation within the building and would advise that the current conditions within the building
-are clearly out with the requirements of these finishes.
-5. An urgent refresh of the maintenance plans should be undertaken to align the transfer of
-responsibility (identified in Point 1 above) with the requirements for ongoing operation and
-maintenance in the increasingly completed environments. This plan should clearly identify:
-a. Definition of the procedures/pre-requisites for handover of responsibility
-b. Responsibility for maintenance defined by system/area, including organization charts
-with names/roles
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0123
+Overdue Response to Material Submittal MS/0401/C/0877 Rev. 01
+– Key Cabinet & Keying Control System
+Dear Sir
 
-c. Equipment schedules with current status (e.g. run/not run/etc.)
-d. PPM Schedules relating to equipment schedules
-e. Reactive and preventive maintenance procedures and identified teams' responsibilities
-f. Sample reports for formal maintenance reports and also reactive and preventive
-maintenance reports
-g. Details of transfer of responsibility for permit approval/permit process
-6. At present, the maintenance procedures that have been produced have been done separately
-for each of the main sub-contractors (PCEJV and ANEL). We suggest that the Contractor
-immediately generates a single holistic maintenance document that will allow for the overall
-management of the process and integration of maintenance activities with the ongoing
-commissioning and construction works. This single plan should include maintenance for all
-plant and equipment, regardless of sub-contractor or supplier and should cover not only the
-MEP equipment i.e. to include for LET, BHS and various Airport related Systems etc.
-The above concerns with maintenance have been an issue of discussion in all recent Risk Committee
-Meetings and at these meetings, it is understood that the Contractor agrees with the above concerns,
-however an action is yet to be taken to remedy this situation.
-The above is not an exhaustive list and there are further issues related to maintenance that would
-need to be considered. The Contractor is requested to immediately proceed with the required actions
-in order to rectify the above and set up a meeting with your construction, commissioning, and FM
-Teams along with the Employer, the Engineer and CxA representatives in order to provide a clear way
-forward regarding how these issues and concerns will be resolved before the rest of the building
-reaches the same level of completion of Pier 4.
-We note that any delays associated with the above concerns shall be solely attributable to the
-Contractor and we hereby reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of
-Contract for any damages the Employer may incur.
-Yours faithfully
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
+Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern potential delays to the Works due to your failure to respond
+to MS/0401/C/0877 Rev. 01 within the review times expressly stipulated in the Contract.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Specifically we urge you to review and respond to MS/0401/C/0877 Rev. 01 without further undue
+delay. Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 25 June 2019, we submitted Material Submittal No. MS/0401/C/0877 Rev. 01 [dated 20 June 2019]
+in the manner shown in Table 1 below, seeking your approval of the Key Cabinet and Keying Control
+System for the Project, as described and detailed therein. Attached thereto was a Reply to Comments
+Sheet, Software Format, Keyway Patent, a Photo of Sample, and One (1) Set of Samples.
+Table 1
+Item Date submitted Submittal Ref Rev
+Description of Contents Response due per Section
+013300 Response received
+Status Code
+Delay (Calendar Days)
+1
+25-Jun-19
+MS/0401/C/0877
+01
+Key Cabinet & Keying Control System 09-Jul19
+28 days
+Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
+you are contractually obligated to respond to our Submittals. On the basis that Material Submittal No:
+MS/0401/C/0877 is shown to be at Rev. 01 then this ought to have been responded to by you 14
+calendar days later, i.e. on or before 9 July 2019. However, Table 1 indicates that at the cut-off date
+associated with preparation of this Notice (i.e. 6 August 2019), you exceeded and are continuing to
+exceed the review period expressly stipulated in the Contract by 28 calendar days.
+Potential Impact:
+The delayed and overdue response to Material Submittal No: MS/0401/C/0877 rev. 01 is hampering our
+ability to procure, deliver and subsequently install the Key Cabinets and complete the Key Control
+Systems for the Project, and will directly affect our ability to complete the Works and consequently
+delay testing and commissioning. This will invariably impact upon our ability to achieve Milestone
+MS09B, and may also prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+
+Yours faithfully,

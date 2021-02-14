@@ -1,14 +1,121 @@
-Subject: SAA8: supplementary agreement
-Dear Sirs,
-We refer to your letter cited above and reiterate that the basis upon which SAA8 was executed was
-the understanding reached between senior members of the Parties, that a supplementary agreement
-would be issued within weeks of 20 September 2018, the date of its execution. Clause 5 of SAA8
-would thereby be superseded and provision would be made to pay the agreed sum in respect of
-variations that had been instructed after SAA8 negotiations had commenced.
-The purpose of our latest letter noted above was to record that the facts in respect of subsidence
-gathered over the intervening eleven months had strengthened the position of the JV, further
-supporting that understanding: two expert reports had confirmed that the cause of the subsidence
-was not materials or workmanship.
-We trust that you will now review our letter of 29 August 2019 in this context let us have your
-comments on our proposed draft of the supplementary agreement.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0157
+Responses to RFI/0401/17431 and RFI/0401/17440 – Additional Bollards to Level L1.0 BHS Area
+& Suspension of Installations / Changes in Requirements – Request for Engineer’s Instruction (RFEI) /
+Variation Order (VO)
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
+Overview
+The responses to RFI Nos. 17341 and 17440 Annex A confirms the requirement for additional bollards
+and represents a change in design and scope, while the Employer’s emails dated 1 and 7 October 2019,
+order us to suspend bollard installations and requires further changes respectively. While the
+suspension represents an act of prevention on the part of the Employer, any requisite change to the
+design and scope requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 29 July 2019, we raised RFI/0401/17341 Rev. 00 titled ‘FMR – Impact Protection for MEP Services in
+L1.0 BHS Areas’ together with a series of attachments [consisting of layout plans and sketch drawings]
+reflecting a series of eleven (11) ‘cases’ for “the additional impact protection required for the MEP
+services in BHS area at L1.0 CSP” following a meeting held with ADAC on 25 July 2019.
+Indicative examples extracted from some of the sketch drawings attached to RFI/0401/17341 Rev. 00,
+showing the various changes in requirements are reproduced in Figure 1 and Figure 2 below.
+Figure 1
+Figure 2
+
+We concluded RFI/0401/17341 Rev. 00 by requesting your confirmation of our understanding of the
+Employer’s requirements for us to proceed with the same and to close out NCR Nos 1267 and 1310.
+We received the response to RFI/0401/17341 Rev. 00 on 8 August 2019; which is two days later than
+requested. However, rather than receive a considered response, properly addressing the matter, we
+received the following reply from the Employer’s Design Consultant (refer to Figure 3 below):
+Figure 3
+The Employer’s response on the other hand, simply advised us to “update the drawing to represent
+what was discussed on the 25th July, as what was presented in this RFI does not”, while you elected to
+refer to the marked up ‘supporting documents’ attached thereto; with your commented responses
+annotated in yellow; indicative extracts of which are reproduced in Figure 4 and Figure 5 below:
+Figure 3
+Figure 4
+In our view, the sketch drawings attached to RFI/0401/17341 Rev. 00 adequately represented what was
+discussed at the meeting held on 25 July 2019, and served to reflect changes in the Employer’s
+requirements; especially considering that the sketches record “additional bollard to be provided”,
+“egress route to be adjusted”, and “crash barrier to be replaced with bollards” plus “bollards to be
+provided in front of the crash barrier”; and cannot be deemed to be “deviations” or are required to
+remedy “defects” as erroneously alleged by the Employer’s Design Consultant. It is however patently
+clear that the further comments annotated upon the sketches attached to the collective response to
+RFI/0401/17341 Rev. 00 have served to vary the Employer’s requirements even further. For example, “If
+possible put 4 x bollards around column...” and “…the bollards will likely be in the sweeping pathway of
+the dolly tugs and trains, therefore it is best to relocate the cabinets to the inside
+Further to the above, on 8 September 2019 we raised RFI/0401/17440 Rev. 00 and with reference to the
+Employer’s Design Consultant’s comments for cases 6, 7 and 8 (where we were advised to relocate the
+cabinets located in the BHS dolly pathways in lieu of providing bollards), we attached thereto a series of
+further sketches reflecting this change in requirements (refer to Figure 5 below):
+Figure 5
+We received your response to RFI/0401/17440 Rev. 00 on 12 September 2019. However, once again the
+Employer’s Design Consultant saw fit to repeat many of the same comments was were issued in reply to
+RFI/0401/17341 Rev. 00, but for the avoidance of doubt is reproduced in Figure 6 as follows:
+Figure 6
+We again reiterate that the sketch details attached to RFI/0401/17440 Rev. 00 cannot possibly be
+deemed to be “deviations” or reflect changes required to remedy “defects”; and moreover are not
+Contractor proposals per se, but represent our interpretation of recommended changes proposed by
+you in the response to RFI/0401/17341 Rev. 00. We note however that you failed to provide any
+comments in response to our RFI; the Employer on the other hand, advised it had “no objection to the
+relocation of the fire valve cabinets as confirmed by AHJ … and ADAC Operations …”
+Following the various workshop meetings held between our MEP team and you, the AHJ and ADAC, and
+having coordinated matters between us and ADAC Operations to agree on the extent of bollards
+required and their locations and having issued the above RFIs in confirmation of the same, we then
+continued to engage with our BHS subcontractor, CRISPLANT, to supply and install the bollards.
+However, having done so, we received an e-mail from ADAC on 1 October 2019 [1:06 PM] ordering us to
+“stop the installation of the extra BHS bollards until we conduct a joint walk with BHS ops and Etihad on
+Thursday morning”. The reason put forward for this suspension of works was because “I just don’t want
+them installed in a place that isn’t as effective as the OPS team think it should be.”
+
+Notwithstanding the fact the Employer has otherwise acknowledged that the additional bollards are
+exactly that, additional, it is clear that the Employer has stopped the bollard installations due to them
+‘changing their mind’ as to the locations of the bollards as well as the associated or related works.
+This was subsequently confirmed to be the case by virtue of the Employer’s further e-mail dated 7
+October 2019 [09:31 AM] which make reference to further changes in scope of works as follows:
+•
+1 x relocation of a VESA system (shown on last clash report)
+•
+1 x relocation of a isolator on column(shown on last clash report)
+•
+1 x cutting a concrete plinth.
+•
+2 x additional protection that was not on the original clash drawing
+•
+1 x additional concrete plinth extension with relocated existing steel barrier
+•
+1 x request to protect or relocate switch on electrical panel, CMA to confirm
+Attached to the Employer’s e-mail were a series of “self-explanatory photos of areas where the [above
+types of comments were made”; examples of which are shown in Figure 7 to Figure … below:
+Figure 7
+Figure 8
+Figure 9
+Figure 10
+
+Figure 11
+
+Figure 12
+
+In summary therefore, it is clear that the responses to RFI/0401/17341 and RFI/0401/17440 confirms
+the requirement for additional bollards requested by the Employer and represents a change in design
+and changes to our scope of Works. The Employer’s subsequent e-mails dated 1 and 7 October 2019 on
+the other hand, orders us to suspend bollard installations and requires further changes. While the
+suspension represents an act of prevention on the part of the Employer, any requisite change to the
+design and scope requires a valid EI and VO in order for us to integrate the same into the Works.
+We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
+as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
+is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
+the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted herein. We trust this is clear.
 Yours faithfully,

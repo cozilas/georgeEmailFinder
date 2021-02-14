@@ -1,93 +1,16 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0149
-Late / Unreasonable Response to Material Submittal MS/0401/A/1752 Rev. 00 – Supplementary Signage
-– Request for Engineer’s Instruction and Variation Order
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concerns delays to the Works due to the Engineer provided response
-to MS/0401/A/1752 Rev. 00 associated with a request to determine the location of the signage.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 6 May 2019, we submitted Material Submittal No. MS/0401/A/1752 Rev.00, together with Technical
-Data Sheets, Technical Compliance Sheets, Brochure, Photos and samples etc., in support of the 3M
-Vinyl Self Adhesive Stickers i.e. Statutory BOH Signage, affixed to inter alia doors and other surfaces;
-which you responded to on 18 June 2019 classified Status Code 2 in the manner shown in Table 1.
-Table 1
-Date submitted Submittal Ref Rev
-Description of Contents Response due per Section 013300
-Response Received
-Status Code
-Overdue By (Calendar Days)
-06-May-19
-MS/0401/A/1752
-00
-3M Vinyl Self Adhesive Stickers [i.e. Statutory BOH
-Signage]
-27-May-19
-18-Jun-19
-2
-22 days
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our Submittals. On the basis that Material Submittal No:
-MS/0401/A/1752 was at Rev. 00, then this ought to have been responded to within 21 calendar days.
-However, Table 1 shows that you exceeded this contractually based review period by 22 calendar days.
-Any delay in responding to our submittals at this stage of the project, is wholly unacceptable.
-
-We should also add that all our rights and entitlements to recover the associated additional time and
-costs resulting from the aforementioned act(s) of prevention on your part will apply irrespective of any
-alleged failure on our part [which is denied], to transmit any submittals to you in a timely manner.
-Notwithstanding, while accepting that Material Submittal No: MS/0401/A/1752 Rev. 00 was returned
-classified Status Code 2 ‘Exceptions as Noted’, and contained nine ‘General Comments’ and six ‘Detailed
-Comments’, one of these detailed comments includes inter alia the following statement: “Contractor to
-provide extracted door schedule and drawing elevation where these stickers will be located.”
-While accepting that under the provisions of Specification Section 101400 ‘Signage’, we are ‘responsible
-for the design of all signage products … to satisfy aesthetic effects and performance requirements in
-accordance with the Contract Documents,’ and that we are ‘responsible for developing and completing
-the design [of the signage] in accordance with the Contract Documents, and shall provide all items
-required for proper completion of the Works …’ we are not responsible for determining the location of
-the specified signage; and are certainly not under any obligation whatsoever to “provide extracted door
-schedule and drawing elevation where these stickers will be located.” This comment seem to suggest
-this is a simple matter and that there is a ‘one size fits all solution’. This is not the case at all. While we
-further acknowledge we have been provided a Signage Manual, this provides general information only
-relating to the signage such as ‘layout design principles’; it does not provide any detailed information
-such as properly coordinated fully complete IFC Drawings showing the precise location for each sign
-throughout the entire MTB. This is the responsibility of the Employer’s Design Consultant, not us.
-How can we be expected to complete the signage ‘in accordance with the Contract Documents’ if the
-Contract Documents [read IFC Drawings] do not indicate the precise location of each sign? It is not it is
-not up to us to second guess or otherwise estimate where the BOH Statutory Signage is to be located,
-which is what the foregoing statement seems to suggest. We also remind you that it is the Employer’s
-Design Consultant’s responsibility to issue us a complete finalised Door Schedule which he has yet to do.
-We therefore require properly coordinated fully complete IFC Drawings showing the precise location for
-each sign throughout the entire MTB, in order for us to complete our obligations under the Contract.
-This request is not new. On 5 May 2014 we raised RFI/0401/5079 advising you of the following in
-relation to the Statutory Signage: “There are no location plan drawings, details or spec for the Safety
-and Supplementary Signage which is mentioned in Signage Manual, Chapter 8. Please provide.”
-However your response to RFI/0401/5079 issued on 19 May 2014, advised us as follows:
-“Safety and & Supplementary signage is subject to actual fit out - incl. plant room configuration. Since
-much of the BoH spaces are defined by the actual machines (& selected technology), ducting' piping and
-(critically) the operational strategy, the statutory signage locations shall be determined when this fit out
-is confirmed.”
-Therefore, kindly liaise with the Employer’s Design Consultant as necessary to provide us with properly
-coordinated fully complete IFC Drawings as soon as possible showing the “statutory signage locations”
-together with an accompanying Engineer’s Instruction. Meanwhile, until such time as this is provided,
-we are prevented from installing the BOH Statutory Signage throughout the entire Terminal Building.
-Potential Impact:
-The late response to Material Submittal MS/0401/A/1752 Rev. 00 but predominantly, the unreasonable
-comment outlined above, expecting us, rather than the Employer’s Design Consultant to “provide [an]
-extracted door schedule and drawing elevation[s] where these stickers will be located”, will severely
-delay our ability to complete the BOH Signage for the Project. This has already started to impact on the
-Cause and Effect (C&E) inspection to Piers 1, 3 and 4 [evidenced from the attached e-mail from ProFire
-dated 11 July 2019 at 10:11 AM, ref: (2)]. If this continues, then this will affect our ability to complete
-testing and commissioning; and resultantly invariably impact upon our ability to achieve Milestone
-MS09B, and is also likely to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Subject:Delay Notification – Bulletin 218.1 Works
+Dear Sir,
+We write with reference to your letters (1) and (2) in which you advise us of delays by us pertaining to
+the late procurement of materials, affecting the line array speaker delivery.
+We remind you that the line array speakers were part of a Variation to our Contract, instructed by you
+under cover of Bulletin 218.1. At the time of issuing the bulletin, the manufacturer had ceased
+production of the specified product. It was therefore unavailable in the local and international market.
+However, after protracted dialogue with the manufacturer, our Subcontractor convinced the
+manufacturer to produce the 13 no line array speakers as a special ‘one-off’ for the MTB project.
+Consequently, delivery took much longer than anticipated, for the specified product.
+While we remain fully committed to ADAC, the Project and to completing our obligations within the
+shortest possible time, it is unfortunate you felt it necessary to issue us with a delay notice on this
+occasion when we did our utmost to accommodate you / ADAC in the manner described above.
+Under the circumstances we refute your wrongful allegations that the procurement delays are
+attributable to any perceived lack of coordination on our part and / or a shortage of resources.
 Yours faithfully,

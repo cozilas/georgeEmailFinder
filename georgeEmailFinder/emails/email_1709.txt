@@ -1,21 +1,39 @@
 Dear Sir,
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the variation is provided below.
+The Contractor refers to the Engineer’s letter reference 1) wherein the Engineer requested the
+Contractor to provide further substantiation for the 80:20 split proposed via letter reference 2) for
+backfilling the sides and top of the Stations.
 
-The followi ng Employer 's Requirements:
-Volume 5, Sub-Clause 2.2.16. Doha Zoo Station (formerly Al Waab I Furousiya Street Station)
+The Contractor has therefore analyzed the productivities of the backfilling on the sides and the top of
+the Stations on the basis of actual progress recorded for Sport City Switchbox.
 
-The followi ng to be added:
-2.2.16.3: North West remote entry of Doha Zoo Station to be located as per the attached drawing
-(Appendix A:
-Doha Zoo Station, Proposed North West Remote Entry Amendment) .
+The analysis is based on the activities 092G1070A1, -A2, -B1, -B2 and -C1 which correspond to the
+backfilling up to the roof level. The combined productivity of aforementioned activities is then
+compared to the activity 092G4070- which reflects the backfilling above roof level. The relevant extract
+from the CMP dated 13 April 2017 is enclosed in attachment 1) to this letter.
 
-The following Employer's Requirements:
+The results of the productivity analysis are summarized in the table below, the details of the calculation
+are enclosed in attachment 2) to this letter:
 
-Volume 8, Sub-Clause 6.3.3.2.3, drawing M006-QRC-UIF-DWG-YWSTZ00-00-231 02
+Backfilling level Productivity (m3/d)
+Up to Roof
 
-North West remote entry to be amended as per the following drawing:
+110
 
-Doha Zoo Station, Proposed North West Remote Entry Amendment (Appendix A)
-Yours faithfully,
+87%
+
+Above Roof
+
+728
+
+13%
+
+Cost Distribution
+
+With an 87:13 weighting based on actual productivities the above analysis yields a split of the backfilling
+milestones in excess of the 80:20 split proposed by the Contractor via letter reference 2).
+
+The Contractor kindly requests the Engineer to review the Contractor’s proposal of reference 2) and
+provide comments at the earliest.
+
+Yours faithfully,

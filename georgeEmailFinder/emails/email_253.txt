@@ -1,94 +1,66 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0185
-Subsidence Rectification Works – Heaving to Pier 2 (MV Chamber and Grease
-Interceptor Pit) and Pier 4 (Earth Pits and GSE Road to GH38-GH39, and Sewer Manholes, S2307A and
-S2308A) – Request for Engineer’s Instruction
-Dear Sir
-We refer to the recent e-mails exchanged between us in the period from 19 November 2019 and 16
-December 2019 [copies attached] associated with the observance of heaving to the ground levels and /
-or various chambers, pits and manholes adjacent to Piers 2 and 4, following grouting works.
-Specifically, we write with reference to the following:
-1.
-Head of Pier 2 – GH10-GH11, MV chamber;
-2.
-Pier 2-GH19, Grease interceptor GIP 02;
-3.
-Pier 4- GH38-GH39 ,earth pits and GSE road; and
-4.
-Head of pier 4 area (sewer manholes S2307A and S2308A areas).
-Details pertaining to each of these areas and the content of our related e-mails are described below:
-(1)
-Head of Pier 2 – GH10-GH11, MV Chamber
-In our e-mail dated 12 December 2019 [4:15 PM] we advised you of the following:
-“… we noticed that the MV chamber at head of pier 2 (L&T scope) start to heave with a few block points
-and permeation grout points as highlighted in attached layout ... [we further record that] the calculated
-weight of the chamber [is] approximately 200 Tons without taken in[to] consideration the top part of
-the chamber …
-We hereby submitting the site records for drilled points around the chamber with the blocked and
-grouted points for your review and providing the required design method of grouting the area around
-the MV chamber.
-We would like to remind you that BAUER are employed through TCAJV for work execution not for design
-purposes, the design responsibility remain under CMA & NACO which they must supply the contractor
-with the suitable design.”
-(2)
-Pier 2-GH19, Grease Interceptor GIP 02
-In our e-mail dated 14 December 2019 [5:12 PM] we advised you of the following:
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0182
+Delays to numerous Acceptance Test Procedures (ATP) and Commissioning Inspection Requests (CIR) Electrical, HVAC, Plumbing, Fire Fighting, BMS etc
+Dear Sirs,
 
-“Please be noted that we observed heave on the GIP02 near gatehouse 19 (refer to attached e-mail
-from BAUER). Could you please review and advise the way forward to continue the required grouting
-works at mentioned area.
-This for your information, records and actions.”
-(3)
-Pier 4- GH38-GH39, Earth Pits and GSE Road
-In our e-mail dated 24 November 2019 [2:12 PM] we provided by way of any attachment “an as-built
-survey after grouting for the top of earth pit manholes and curbstones between GH38 & GH39.”
-This was forwarded on to the Employer’s Specialist Engineering Consultants (RHDHV) by way of your email dated 27 November 2019 [9:40 AM] advising them of the following:
-“Please see attached surveys carried out which indicate the heave experienced at the Earth Pits within
-GH 38-39 (S2301-S2301A).
-The above is for your information and feedback.”
-(4)
-Head of Pier 4 area (Sewer Manholes S2307A and S2308A areas)
-While there is no definitive e-mail available on this matter, we know that you have been made aware of
-the heave to the head of Pier 4 through daily survey works and reports, which caused you to issue us
-Site Memo No: MTC-CMA-0401-QC-MEM-03404, dated 11 December 2019, which states:
-“CMA have observed pavement lift and heave along Gatehouses 38, 39 (earth pits area) and 36
-(inundation area) on the GSE Road, concrete barriers along GH 19 and 36 access area and L& T MV
-Chamber at GH 11. These heave has been physically observed in several areas of permanent works
-during and after the permeation grouting of the area.
-This also advises us of the following ‘Requirements’ in so far as we are required to:
-1.
-Ensure all permanent underground utilities installed and completed on these areas should be
-properly monitored and any level deviations shall be reported to CMA.
-2.
-Exercise effective monitor in order to minimize unwanted movements on the completed works.
-3.
-Any damages, including other contractors completed works, occurred due to these heave
-movements shall be rectified, reinstated and tested and will be submitted though WIR for CMA
-approval.
-The amount of deviation in levels identified in the ground levels and / or various chambers, pits and
-manholes adjacent to Piers 2 and 4 varies significantly. By way of specific example, recent findings of
-the heave to Grease Interceptor GIP 02 adjacent GH19 to Pier 2, indicates that it has heaved +47mm.
-We have, by virtue of our various communications, meetings and discussions, as well as by way of our emails including those described above, together with accompanying survey reports, informed you of all
-level deviations in order for you to instruct us. However, at the date of preparing this notice (18
-December 2019), you have failed to do so. It is for this reason that we raise this E-Notice No. 0185.
-We again remind you that we are not the designers for this Project, the Employer’s Design Consultant is,
-and it is their responsibility, under your guidance, to provide us with the design of the subsidence
-remediation measure. As such we are dependent upon being provided critical design information in a
-timely and prompt manner, not just for the principle remediation measures but also to address issues
-such as those identified herein as soon as they arise. It is therefore essential that we receive a fully
-designed, complete and properly instructed Issued for Construction set of documentation, reflecting the
-Employer’s Design Consultant’s recommendations to address the heaving identified herein.
-Until such time as we are in receipt of the same, then we are prevented from completing the grouting
-works to the notes areas to Piers 1 and 4. This will delay the Time for Completion of the Works.
-To conclude therefore, it is our contention that the various events and circumstances outlined above
-constitutes acts of prevention and/or breach of Contract on the part of the Employer and / or the
-Employer’s Personnel and / or the Consultants, and accordingly we hereby give you notice, pursuant to
-Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
-(i)
-An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern unreasonable delays on the part of CxA (the Employer’s
+Commissioning Consultant), to review, confirm and approve as necessary, substantial numbers of
+submitted ATPs and CIRs pertaining to numerous items of Electrical and Mechanical equipment.
+Potential Impact
+Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
+impacting on completion of testing and commissioning. This will invariably impact on our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+We write to notify you of appreciable concerns we have in relation to the protracted amount of time the
+Employer’s Commissioning Consultant (CxA) is taking to review our testing and commissioning
+documents, primarily numerous Acceptance Test Procedures (ATP) and Commissioning Inspection
+Requests (CIR), pertaining to various Electrical, HVAC, Plumbing, Fire Fighting and BMS equipment.
+As at Week 49 (i.e. 3 December 2019), we note there are 2,088 nos. of ATPs and CIRs currently in the
+possession of CxA, many of which have been in their possession for over two weeks. To illustrate this,
+we herewith provide the following status reports showing (the delays to CxA’s review of (1) our
+Mechanical ATPs and CIRs (refer to Figure 2); and (2) our Electrical ATPs and CIRs (refer to Figure 2).
+Figure 1 - Mechanical ATPs and CIRs in CxA’s possession
+as at Week 49 (3 December 2019)
+Figure 2 - Electrical ATPs and CIRs in CxA’s possession
+as at Week 49 (3 December 2019)
+The information recorded in Figure 1 and Figure 2, in terms of the overall numbers of Electrical and
+Mechanical ATPs and CIRs currently in the possession of CxA, is summarised in Table 1 below:
+Table 1
+Description
+ATP
+CIR
+Totals
+Electrical (LV, ELV)
+441
+960
+1,401
+Mechanical (HVAC, Plumping, Fire Fighting, BMS)
+525
+162
+687
+TOTAL: 966
+1,122 2,088
+This shows that 2,088 nos. of ATPs and CIRs are still with CxA, which at this stage of the Project is
+unacceptable and notwithstanding our observation that CxA do not have sufficient resources to review
+them, but will have major ramifications on our ability to complete testing and commissioning.
+What is particularly disconcerting is that not only have the review of our T&C documents been ongoing
+for a period of 1, 2 or more weeks, but the number of pending ATPs and WIRs appear to be increasing
+on a regular basis. This is a matter that is otherwise wholly avoidable. Therefore given the dependency
 
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.1 pursuant to Clause 9.10, or,
-in the alternative, damages for breach of contract.
-Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
-event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+that our testing and commissioning has on CxA’s review of the ATPs and CIRs, we urge you to take
+immediate and appropriate action as necessary including the involvement of the Employer, to insist that
+CxA increase its resources and immediately clears the backlog of impending reviews.
+Meanwhile, the various delays and acts of prevention outlined herein, is delaying and disrupting the
+completion of our testing and commissioning. This will invariably knock on and impact our ability to
+achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
 Yours faithfully,

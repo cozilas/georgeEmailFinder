@@ -1,43 +1,121 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0245
-Delayed Access to CP RU 2033 – Delaying Mechanical Commissioning Activities
-Dear Sirs,
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0244
+Delays to the Processing of Re-Entry Permit / NOCs and Activities of Others Affecting HVAC Testing and
+Commissioning of Lighting Control System etc. – as at 6 April 2020
+Dear Sir,
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
+Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters described in Annex A hereto, concern acts of prevention on the part of the Central
-Processor (CP) retail holder and the Employer’s Other Contractor denying us access to Retail Unit (RU)
-2033, which as a direct result, delayed us from completing our Mechanical Commissioning Activities.
+The matters described in Annex A concern delays to the processing of re-entry permit / NOCs and
+activities of others affecting MEP works, HVAC testing and testing and commissioning of Lighting Control
+System.
 Potential Impact
 Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-Although we have now been able to obtain access to complete our commissioning activities subject to
-the matters detailed in Annex A, we have nevertheless been delayed in completing our Works by the
-acts of prevention on the part of the Employer/Employer’s Personnel/Consultants/Other Contractors.
-Accordingly, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the delaying event described herein.
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Specifically we urge you to review and process Re-Entry Permit / NOCs without further undue delay.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
+In the period between 16 March 2020 and 2 April 2020, we submitted the following twenty-eight (28)
+Re-Entry Permits / NOCs [RDD Form 15s] in the manner set out and summarised in Table 1 below,
+requesting permission to allow us to complete various Works, such as MEP, HVAC testing and
+Commissioning activities.
+Table 1
+Sr. No. NOC No.
+Rev
+Unit / Area
+Description
+Date Request Issued
+[TCA JV to CMA]
+Response Due Response Received
+Reply Overdue By
+[calendar days]
+1
+RDD-614
+6
+2101 HVAC testing 23-Mar-20
+26-Mar-20
+11 days
+2
+RDD-656
+3
+2037 HVAC testing 22-Mar-20
+25-Mar-20
+12 days
+3
+RDD-723
+2
+2028 Lighting control Commissioning / Snags 25-Mar-20
+28Mar-20 9 days
+4
+RDD-739
+2
+2033 Lighting control Commissioning / Snags 25-Mar-20
+28Mar-20 9 days
 
-In order for us, and our Mechanical Works Subcontractor (M/s PCE JV), to complete the Mechanical
-Commissioning (MC) activities (i.e. predominantly the commissioning of Air Handling Units and Life
-Safety Systems), we require access to the Central Processor (CP) Retail Unit (RU) 2033 area. Specifically,
-there are 21 retail units located at the RU 2033 Tenanted areas, wherein MC activities are pending for
-completion, and access to this area is therefore essential to enable us to complete our Works.
-However, for reasons which are entirely beyond our control or responsibility, the CP retail holder
-together with the Employer’s Other Contractor (Messrs /s BW Interiors / Funtastic) for the Tenant’s
-works, stopped their activities on 24 March 2020, without any justification and/or clarification. This
-denied us obtaining access to the CP RU 2033 and resultantly delayed us completing the
-aforementioned MC activities.
-In this regard, we informed you about this matter via numerous emails copies of which are attached at
-Annex B hereto. In the event, our NOC was subsequently approved on or around 9 April 2020 but we
-were not provided the key for a further six days, i.e. on or around 15 April 2020. This means therefore
-that were denied access for some 22 calendar days, calculated from 24 March 2020 to 15 April 2020.
-Any delays to completion of our commissioning activities, irrespective of discipline, especially at this
-juncture of the Project, has the increasing potential to prevent us obtaining the Building Completion
-Certificate (BCC), which is critical in us achieving completion of Milestone MS09B. Consequently, the
-more we are prevented from completing our Works due to acts of prevention such as those outlined
-above, then the more likely this will prevent us from achieving Substantial Completion (i.e. Milestone
-MS09C).
+5
+RDD-743
+4
+2033 HVAC testing 17-Mar-20
+20-Mar-20
+17 days
+6
+RDD-904
+3
+2003 HVAC t&c
+22-Mar-20
+25-Mar-20
+12 days
+7
+RDD-957
+1
+2027 HVAC t&c
+23-Mar-20
+26-Mar-20
+11 days
+8
+RDD-971
+1
+2049 HVAC testing 23-Mar-20
+26-Mar-20
+11 days
+9
+RDD-989
+1
+2004 HVAC t&c
+22-Mar-20
+25-Mar-20
+12 days
+The information recorded in Table 1 shows the NOC reference number, the revision, the description of
+works and unit/area number, plus the date the request for an NOC was made, and when the response to
+our request for access was due; the latter being based on a nominal three-day turn-around time. In
+other words, approval is traditionally granted within three (3) days from our request being issued.
+However, Table 1 further records that at the cut-off date associated with preparation of this E-Notice
+0244 (i.e. 6 April 2020), none of the NOCs have been responded to. Therefore, this demonstrates that
+for all of the 28 NOC requests listed therein, the responses have exceeded and by all accounts are
+continuing to exceed the three-day turn-around response time by periods of upwards of 18 calendar
+days late. This is unacceptable. We have already issued a reminder to you vide our e-mail dated 6 April
+2020 (copy attached).
+The purpose of this E-notice is two-fold: Firstly, we wish to notify you of appreciable concerns we have
+in relation to a distinct failure on your part to process our requests for re-entry promptly and issue the
+approved NOCs in an timely manner, and Secondly, notify you of the invariable impact that this failure
+has on our ability to complete the MEP, HVAC testing and Testing and Commissioning of Lighting Control
+System, amongst other things; and accordingly urge you to ensure that the responsible third-party (i.e.
+Employer’s Tenants) responds to the requested NOC issuance in a prompt and timely manner.
+Potential Impact:
+Acts of prevention such as these will at this stage of the Works, prevent us from obtaining the Building
+Completion Certificate (BCC). This is critical in us achieving completion of Milestone MS09B.
+Consequently, the more we are prevented from working due to the combined effects of the above, the
+more likely this will prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
+specifically, we urge you assist with the prompt processing of our Re-Entry Permits allowing us access as
+well as urging the Employer’s Other Contractor to work with us so as not to delay our Works. Kindly
+ensure that such matters are resolved immediately from the date of receipt of this Notice.
 Yours faithfully,

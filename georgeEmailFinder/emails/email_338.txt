@@ -1,67 +1,20 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0141
-Engineer's Response to RFI/0401/17253 Rev. 00 – Introduction of Change / New Door – Request for
-Engineer’s Instruction (RFEI) & Variation Order (VO)
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Your response to RFI/0401/17253 detailed in Annex A hereto, represents a change in design and scope
-and requires a valid EI and VO in order for us to integrate the same into the Works.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 1 July 2019 we raised RFI/0401/17253 Rev. 00 (ref: 1), concerning certain ambiguities between the
-IFC Design Information (IFC Drawings and Door Schedule) relating to the ‘P2-P3 Level +33.75 Fan Room
-Doors’, and specifically whether the 2 Nos. Fan Room Doors (Door Tag Nos. 0353.03 and 0.367.03) were
-required or not. Specifically, we requested clarification in relation to the following:
-1.
-Door 0353.03 (located in Pier 2 Fan Room) was shown in IFC MTC-A-92-TB-L- 00.504.00 but it
-was shown to be deleted in the Door Schedule Rev 31. In addition to this we informed you that the same
-door is required according to IFC MTC-G-04-TB-L3.0-2.51-00.368 and MTC-G-04-TB-L3.0-3.51-00.370 to
-comply with the fire compartmentation requirements.
-2.
-Door 0.367.03 (located in Pier 3 Fan Room) was not shown in the Door Schedule Rev 31 or in the
-IFC Drawings, and accordingly we requested that you to clarify whether the noted door is required or
-not and if it is required, whether it requires security access control (SACS).
-3.
-In addition, we also requested that you issue the updated IFC Design Drawings for security
-(inclusive of access control schedule), the Government Structure Cable Network (SCN) and power
-required for the access control panels, reflecting the Employer’s varied requirements.
-We requested a response to RFI/0401/17253 by 7 July 2019. In the event however, you failed to reply
-for a further 18 calendar days, i.e. on 25 July 2019. Added to which you advised that “The door shown in
-the RFI attachment is from L3.1 and not L3.0” and confirmed that:
-1.
-Door 0353.03 is located in L3.1 Pier 2;
-2.
-Door 0367.03 is located in L3.1 Pier 3; and
-3.
-Both doors require SACS 2A;
-You also advised us the “Contractor is responsible to ensure that access control are fully coordinated
-with all other trades. Technical clarification and site coordination / No additional time/cost”.
+Subject Delay Notification - Concerns Over Site Based Resources due to Strike Action and
+Declining Staff Numbers
+Dear Sir,
+We write with reference to above and to highlight our concern over the recent TCAJV's labour strikes
+that has significantly reduced the site based manpower. We understand that approximately 2,000 site
+based operatives have withdrawn from site from 11th September 2019 and this position remained
+until 14 September 2019. This has resulted in vast areas of the site being completely un-resourced at
+this critical time of the Project.
+We wish to further highlight our serious concerns on the rapid decline of site based resources over
+recent weeks. As can be seen in the table below, the Contractor's total workforce has decreased by
+approximately 3,000 people since mid-August 2019 of which the number of Sub-contractor's
 
-Moreover, appended to your response were a series of six attachments enumerated as ‘ASK 4092 (RFI0401-17253)’ [sheet 01-03] [Architectural Details] and ‘YSK-398 (RFI-0401-17253)’ [sheet 01-03];
-[Security / Access Control System Details] consisting of:
-1.
-Four (3) marked up / clouded sketches / IFC Drawings; and
-2.
-Two (2) extracts of a revised Door Schedule.
-It is patently clear however that the attachments to response to RFI/0401/17253 represent a change in
-design and scope given that they collectively (1) confirm changes to Door ‘0353.03’ and (2) confirm the
-requirement door ‘0367.03’. However, given that SAA8 laid down strict guidelines to follow if additional
-works are required and you appear to have ignored those obligations, then this change will warrant a
-valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require us to proceed with integrating
-the revised scope into the Works.
-We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
-as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
-is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
-the additional time and/or costs impacts have been agreed between us beforehand.
+employees has fallen by approximately 2,500 people representing a reduction of 34%. This is
+concerning given the extent of works outstanding and the aggressive schedule to complete the
+Project. It is imperative that the Contractor immediately takes steps to dramatically increase their site
+based resources with suitably skilled and experienced staff and requisite site supervision/
+management teams to drive the Project to the Completion Date.
+We hereby reserve the Employer's rights pursuant to Clause 10.3 of the Conditions of Contract for all
+delays and damages that may be incurred as a result of the Contractor's delays and inactions.
 Yours faithfully,

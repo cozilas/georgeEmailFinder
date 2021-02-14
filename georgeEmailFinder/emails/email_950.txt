@@ -1,57 +1,12 @@
-Subject: Reply letter- Non-Conformance Installation of Frameless Glass Screen, Glass Fins
+Subject: Updated Fibrex Claim- Removal of GRC Panels due to AI Ghurair's Incorrect Surveys to Fins
 Dear Sir,
-and Associated Works
-
-We acknowledge receipt of your letter referenced in (9} above regarding your reply to TCA JV letter
-referenced (5}.
-However, kindly note that the tolerance of the glass fabrication/installation is 1mm, where the As-built
-is
-showing the fins' locations deviated from the models. At the time of installation most of the shop
-drawings for
-this area were code 3, which makes any BIM codes void as models should be updated to follow code 3
-comments.
-As you were aware that only approved and coordinated shop drawings are to be used for fabrication
-and any
-site installation. Therefore you went ahead with manufacturing and installation at your own risk.
-The Engineer's letter that was conveyed to you through TCA JV letter referenced (5} above, clearly
-observed
-in his report that your site installation is different as compared to the shop drawings, thus making shop
-drawings and models obsolete, until AGCA proceed to the remedial works.
-The continuous negligence of not following the approved shop drawings on site installations is the basis
-of this
-non-conformance.
-In addition, please note that at the attached study which is represents the comparison between the
-working
-points from the model and the IFC, the X values most of them are matching or within tolerance however
-the
-site as-built was wrongly installed which led AGCA to rectify. You are hereby reminded of your
-obligations as set out under the Subcontract which include, Subcontract
-Clause 16.1.1 provides that you are obliged to progress the Subcontract Works with due expedition and
-without delay, and should neither delay nor adversely affect the performance of TCAJV or Other
-Subcontractors.
-Moreover, Subcontract, Clause 16.6.1 provides that:
-((If the Subcontractor fails to comply with the approved Subcontract Programme, the Subcontractor
-shall
-without limitation indemnify and hold the Contractor harmless against and from the costs, losses and
-expenses
-( ... ) incurred by the Contractor in connection with the Subcontractor's delays {"Contractor Delay
-Costs").
-Contractor Delay Costs incurred by the Contractor shall be quantified by the Contractor at the time of
-such
-losses and claimed under clause 10.3 {Subcontractor's Claims). These costs and losses shall be
-recoverable by
-the Contractor against the Subcontractor as compensation for the losses suffered by the Contractor as a
-result
-of the Subcontractor's delay or non-compliance with the approved Subcontract Programme and
-irrespective of
-whether or not the Subcontractor's delay or non-compliance results in the Contractor incurring liability
-for
-delay damages to the Employer under the Contract."
-It is noted that any delays, costs, loses and/or expenses incurred by us and/or Other Subcontractor Is
-arising as
-
-a result of the above delays shall be at your risk and recovered from your account in accordance with
-the
-Subcontract clauses 10.3, 16.6.1 and other relevant clauses.
-This is for your utmost attention and immediate action.
-Yours faithfully,
+Further to our letter referenced in {3) above, we enclose herewith the "Updated Fibrex Claim for the
+Removal
+& Reinstallation of GRC Slab Edge Panels" in various Zones in the sum of AED 1,084,254.00 that will be
+backcharged
+to your account accordingly.
+Please be advised that all necessary breakdown and substantiation regarding this claim will be
+forwarded to
+your attention upon receipt of the same from Fibrex LLC.
+This is for your information and record.
+Yours faithfully

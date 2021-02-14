@@ -1,15 +1,14 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0132
-Provision of Additional Data Outlets for Existing Flight Information Display Screens to Check-In
-Island in Sector 5.22B to Level L2.0 – Engineer’s Response to RFI/0401/17254 – Request for Engineer’s
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0129
+Provision of Additional Power Supplies to Hold Open Doors to 8 Doors to Sections 5.16 and 5.21
+to Level L0.1 – Engineer’s Response to RFI/0401/17164 – Request for IFC Drawings plus Engineer’s
 Instruction and Variation Order
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern delays associated with the provision of additional data
-outlets required to Sector 5.22B to L2.0, introduced through the response to RFI/0401/17254.
+The matters described in Annex A concern delays associated with the provision of additional power
+supplies to eight Hold Open Doors to Level L0.1 introduced through the response to RFI/0401/17164.
 Potential Impact
 Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
 likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
@@ -21,33 +20,114 @@ Meanwhile, we hereby reserve all our rights under the provisions of the Conditio
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 2 July 2019, we raised RFI/0401/17254 (dated 30 June 2019) entitled ‘Data outlets removed for
-existing FIDS [Flight Information Display Screens] (check-in L2.0-5.22B)’, having identified in certain
-
-information previously provided by the Engineer relating to the location and quantity of data points to
-the FIDS, where the data points had previously been deleted; requesting your advice on the same.
-Despite us requesting that you reply to RFI/0401/17254 by 10 July 2019, you failed to respond until 14
-calendar days later i.e. on 24 July 2019, as shown in Table 1 below. Moreover, your response directed
-us to reinstate the FIDS outlets as per the sketch attached thereto (Figure 1 below refers).
-Table 1
+As you are only too aware, during the early part of this year, a series of workshops were held in order to
+resolve various discrepancies in design documents issued by you relating to doors, door hardware and
+associated systems. However, it was during these workshops, when discussing the Employer’s
+Requirements that we were informed that the technical information/requirements to 152 out of 383
+nos. of doors had changed compared to previously issued information; our letter ref (3) refers. This
+records that on 1 April 2019, we raised RFI/0401/17005 as a means to resolve remaining door issues,
+attached to which was a schedule of the 152 doors whose details had changed. We requested that you
+provide: (1) confirmation of the information reflected in the attached door schedule [reflecting the
+agreed changes, including without limitation, a request for the access control types and related
+information]; and (2), an updated door schedule and IFC Drawings in confirmation of the same.
+Despite us requesting that you reply to RFI/0401/17005 by 9 April 2019, you failed to respond until 30
+calendar days later i.e. on 9 May 2019 (see Table 1 below). Furthermore, not only did you fail to provide
+the updated Door Schedule and IFC Drawings information as requested, but some of the information /
+requirements to the 152 doors subject to RFI/0401/17005 had in fact been changed.
+Table 1 – RFI/0401/17005
 Date Submitted RFI Ref: Rev
 Description
 Reply Req’d By Date
 Response
 Received
 Overdue By
-02-Jul-19
-RFI/0401/17254
+01-Apr-19
+RFI/0401/17005
 00
-‘Data outlets removed for existing FIDS (check-in L2.05.22B)’ 10-Jul-19
-24-Jul-19
-14 days
+Workshop of 152 Outstanding Doors with Issues
+09-Apr-19
+09-May-19
+30 days
+
+Your response to RFI/0401/17005 reads as follows:
+“The 152 doors will have an updated door clear dimension, FA requirement, SACS type, hardware set
+and other details of the doors as per the workshop notes based on coordination of door functionality.
+Note that the same information has been confirmed on DS-14204 submitted by TCA-JV. Refer to the
+attached mark-up for additional notes. - Design coordination/Technical clarification [sic].”
+As noted by you, we had in the meantime, submitted Document Submittal No: DS/0401/14204 Rev. 00
+[on 24 March 2019] enclosing the same information relating to the ‘outstanding doors pending for
+confirmation by the Engineer (152 doors)’ that was attached to RFI/0401/17005, which you returned
+classified as Status Code 2 ‘Exceptions as noted’ together with comments on 25 April 2019.
+However, we have since found that 8 doors shown on the schedule of ‘outstanding doors pending
+confirmation by the Engineer’, required further clarification due to the fact that on the one hand the
+hardware sets were confirmed as being referenced ‘445-2’ (i.e. with Electric Hold Open Device) [which
+means power is required], yet on the other hand, the requirement for a commensurate Security Access
+Control System (SACS) and ‘Power Assist’ to each door was shown to be ‘N/A’ [not applicable], in other
+words, not required. That said, in the event that hardware set ‘445-2’ is required for these 8 doors then
+they will require a power supply for them to function and operate. However, a review of the
+corresponding Electrical IFC Layouts shows no incoming power supply to the doors.
+It is because of this anomaly, that we have been compelled to raise RFI/0401/17164 on 29 May 2019
+(refer to Figure 2 below), requesting your assistance with providing further clarification as to the
+‘missing power supply for [the] Hold Open Devices’ for these eight (8) nos. of doors.
+Table 1 – RFI/0401/17164
+Date Submitted RFI Ref: Rev
+Description
+Reply Req’d By Date
+Response
+Received
+Overdue By
+29-May-19
+RFI/0401/17164
+00
+Missing Power Supply for Hold Open Devices 06-Jun19
+26-Jun-19
+20 days
+Once again despite us requesting a response by a specific date (6 June 2019), you failed to reply until 20
+calendar days later, on 26 June 2019. Moreover, we note that the ‘Power Assist’ requirements to the 8
+nos of doors subject to this RFI had changed from ‘Not Required’ to ‘Required’ (Table 3 refers).
+Table 1
+Door RFI/0401/17005
+Response Rec’d 9 May 2019
+RFI/0401/17164
+Response Rec’d 6 June 2019
+Power Assist Power Assist
+88-T-L01-0013.01
+N
+Y
+88-T-L01-0013.02
+N
+Y
+88-T-L01-0013.03
+N
+Y
+88-T-L01-0013.04
+N
+Y
+88-T-L01-0013.05
+N
+Y
+88-T-L01-0013.06
+N
+Y
+88-T-L01-0013.07
+N
+Y
+88-T-L01-0013.08
+N
+Y
+We further record that attached to your response to RFI/0401/17164 were two (2) sketches,
+enumerated as ‘ESK-2719 RFI-0401-17164’ and ESK-2720 RFI-0401-17164’, prepared by the Employer’s
+Design Consultant showing the specific provision of [the additional] power supplies for [the] Hold Open
+doors’ [to sections 5.16 and 5.21 to L0.1]; extracts of which are provided in Figure 1.
 Figure 1
-It is patently clear that the information reflected in the ‘modified’ sketch attached to your response to
-RFI/0401/17254 represents a change to the existing design and a change to our scope of works.
-This is likely to involve inter alia the pulling of new data cables to the new location from the nearest
-Satellite Communication Room (SCR) by the Information Technology subcontractor, BOND.
-In order for us to undertake and instigate changes such as those noted herein, we will require fully
+
+Section 5.16 to Level L0.1
+Part Plan of MTC-E-09-TB-L0.1—5.16-001
+Section 5.21 to Level L0.1
+Part Plan of MTC-E-09-TB-L0.1—5.21-001
+It is patently clear that the information reflected in the two sketches attached to your response to
+RFI/0401/17164 represents a change to the existing design and a change to our scope of works.
+In order for us to undertake and instigate changes such as those noted above, we will require fully
 coordinated revised IFC Drawings encapsulating the changes introduced in your RFI response, and
 further remind you that SAA8 laid down mandatory procedures to be followed if additional works are
 required, in so far as an EI and VO are needed for us to proceed with the aforementioned changes.
@@ -58,10 +138,16 @@ additional time and/or costs impacts have been agreed between us beforehand.
 Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
 we are unable to proceed with implementing the changes noted above and will continue to proceed in
 accordance with the existing IFC design to the extent we are able to. We trust this is clear.
+We once again take this opportunity in reminding you that the responsibility under the Contract for the
+design of doors and the integration of those parts of the Works which are intrinsically linked to the
+doors, including hardware, security access control system, power supply and the like, lies with the
+Employer. Our responsibility is to follow with due diligence the Drawings and Specifications, and it is our
+position that we have discharged, and continue to discharge, this obligation with the necessary
+expertise, care and skill that could reasonably be expected from an experienced contractor.
 Potential Impact:
-We note that the foregoing events and/or circumstances may delay completion of Section 5.22B to Level
-L2.0, and your / Employer’s Design Consultant’s requirement to introduce fundamental changes to the
-electrical installations such as those outlined above, particularly at such a late stage of the Project, will
-invariably impact on our ability to obtain the Building Completion certificate (BCC).
+We note that the foregoing events and/or circumstances may delay completion of Sections 5.16 and
+5.21 to Level L0.1, and your / Employer’s Design Consultant’s requirement to introduce fundamental
+changes to the electrical installations such as those outlined above, particularly at such a late stage of
+the Project, will invariably impact on our ability to obtain the Building Completion certificate (BCC)
 This is essential to achieving Milestone MS09B and may impact MS09C (Substantial Completion).
 Yours faithfully,

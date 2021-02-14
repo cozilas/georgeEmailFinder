@@ -1,134 +1,85 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0117
-Additional Works associated with the Installation of Antennas to Piers 1 to 4 by an Other Contractor –
-Request for Engineer’s Instruction / Variation Order
+Subject: Subsidence - lack of complete and coordinated economic and appropriate design solution to the
+subsidence of the sewer and storm-water
 Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Annex A records a combination of delays on the part of the Employer’s Personnel/Other Contractor and
-the requirement for additional work that requires a valid EI and VO in order for us to proceed.
-Potential Impact
-Disruptions and delays on the part of others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 24 June 2019, we received an e-mail from a contractor to Etisalat, Comba-Telecom (ref: 1), informing
-us of a requirement to provide the following ‘logistical support’ in order for them to install three (3)
-antennas to the diffuser boxes to the main corridor areas to Level L2.0 to Pier 3 and Pier 4:
-1.
-Cutting to steel plates (50 x 50mm);
-2.
-Removal and subsequent replacement of mesh guards;
-3.
-Access hatches to the diffusers need to be unlocked and kept open; and
-4.
-Floor tiles adjacent to the diffuser panels need to be removed.
-Attached to their e-mail were two sketches identifying the location of affected diffusers (two located in
-Pier 3 and one in Pier 4), which according to Comba-Telecom represent the ‘RCP approved antenna
-locations’, plus two photographs; one of which is replicated in Figure 1 below:
+infrastructure
+We refer to our above noted letter and to a number of prior items of correspondence raising concern
+at the amount of time it is still taking for the Engineer to issue a complete and coordinated set of
+instructions that will allow us to plan, procure and execute the remedial works to the subsiding
+sewer, drainage and other mains services. Furthermore, the piecemeal and considerably delayed
+instructions received to date do not cover the subsiding duct banks and at the time of writing, are
+just beginning to address the supporting of the higher level storm-water services.
+We are concerned on a number affronts:
+1. Your ability to take advantage of the project insurances is predicated on the remediation of
+subsiding mains services. It is thought that permeation grouting is being specified by your
+designers because it actually offers a soil improvement advantages which may fall outside of
+your insurance. There are possibly cheaper, quicker and specifically engineered solutions that
+would give certainty of support to these services but would not remediate one of the possible
+root causes of this matter, being the specified backfill materials (see RJB Report 7 July 2019
+conclusion items 9 a.-c.);
+2. The permeation grouting solution is now being extended to areas that it is believed are not
+directly connected with the original subsidence but that have arisen because of the method
+of inundation water testing instructed by the Engineer that has directly led to significant
+subsidence b-eing observable over a number of days and from which tests water appears to
+have infiltrated and caused subsidence under areas of GSE road, wing walls and apron;
+3. Small diameter HDPE pipes at relatively high levels and not on the mains services routes are
+being included in extensive permeation grouting requirements;
+4. There are still areas of ground for which we have recently been instructed to provide yet more
 
-Figure 1
-This was later followed on 21 July 2019 by receipt of an e-mail from you at 4:13pm (ref: 2), in which you
-advise us of further ‘logistical support’ requirements and the need to provide Comba with ‘access and
-ceiling openings’ to Piers 1 and 2 in the manner reproduced in Table 1 below.
-Table 1
-Area Level Priority order Actions required from JV
-Logistics needed
-Pier 1 L3.0
-1
-Diffuser box opening is required at one location 3 holes on steel plate
-Pier 2 L2.0
-2
-GH 5, GH 12 & GH 14 : Lift lobby ceiling closure is pending
-Ceiling tiles are
-required at 3 locations
-L2.0 & L3.0
-2
-GH 11: temporary ceiling cuttings are required at lobby area
-4
-Ceiling cuttings
-L3.0
-2
-GH 18: Temporary ceiling cuttings are required in Lift lobby area 2
-Ceiling
-cuttings
-L2.0 & L3.0
-2
-GH 19: lift lobby access required
-Access card & work permission
-We replied on 22 July 2019 [1:00pm] (ref: 2) and on the basis the ‘logistical support’ is additional to our
-scope of Works, requested the provision of a formal instruction in order for us to proceed.
-Following a further round of e-mails, you advised us on 23 July 2019 (ref: 2) that the additional work was
-in our scope and referred us to Engineer’s Instruction (EI) No. 748; you further directed us to proceed
-with the works and the costs incurred in doing so “will be covered under that instruction”.
-For the reasons explained below, we disagree with your position.
-EI No. 748 was issued on 15 July 2018 via letter ref: (3) instructing us “to provide assistance to allow the
-Etisalat contractor to install additional antennas as per attached schedule”; namely the provision of:
-access openings to ceilings; access panels; riser openings and provision of mobile scaffold access towers;
-while the attached schedule indicates that such assistance was required to various levels to one (1)
-gatehouse to Pier 2, fifteen (15) gatehouses to Pier 3, and seven (7) gatehouses to Pier 4.
-The requirements reflected in the schedule attached to EI No. 748 are as follows:
-1.
-Total ceiling cuttings required :
-118 Nos.
-2.
-Number of riser openings required
-:
-39 Nos.
-We make the following comments:
-Firstly, despite EI No. 748 being issued in July 2018, giving the impression that the Etisalat contractor
-was due to commence its works within a reasonable time thereafter, it was not until almost one year
-later, on 22 May 2019, that Comba-Telecom raised a request for access (ref: 4). This was limited to
-requesting ceiling openings and riser shaft openings to Piers 3 and 4, and related to the following:
-1.
-Total ceiling cuttings required :
-207 Nos.
-2.
-Number of riser openings required
-:
-46 Nos.
-Not only was their access request issue late, but the number of ceiling cuttings and riser openings
-actually required are grossly in excess of that was promulgated at the time EI No. 748 was issued.
-Secondly, with the exception of the works required to Gatehouse 11 reflected in Table 1 above, the
-further ‘logistical support’ requirements listed in your e-mail dated 21 July 2019 (ref: 2), are not part of
-EI No. 748; despite your allegations that they are. Even if they were, which is denied, this does not
-detract from the fact that it took almost one year after EI No. 748 was raised, for Comba-Telecom to
-commence work. Hence, the additional time and cost impacts that have resulting therefrom cannot
-possibly be construed as forming part of the included circumstances per Clause 1.7.4 of SAA8.
-Moreover, given that our Works has advanced significantly since EI No. 748 was issued, we also put on
-record that the works to provide support to Comba-Telecom to Piers 1, 2, 3 and 4, will, at such a late
-stage of the Project, invariably result in consequential delay and disruption to our Works. This is
-notwithstanding the direct costs associated with the provision of access openings and mobile towers.
+CPT: we have had to bring the test rig back to the site again having completed the previous
+series of disjointed and protracted testing regimes when both we and the remediation
+specialists consider these to be unnecessary, given your designer's maxim that we need to
+achieve a CPT number at 30, which can be monitored in situ as work proceeds;
+5. The projected programme and total costs for this work continues to rise: you will recall that
+at the time of the SAA8 and the understanding in principle to the execution of its
+supplementary agreement, a figure of AED 200m was proposed as a reasonable estimate of
+the overall cost that would be reimbursed to us. Since then we have issued warnings of the
+time and amount being spent just on investigation work which currently stand at 9 months
+and circa AED 40m. When we reported an update to that budget at AED 365m in the above
+noted letter issued eight days ago we had not included any duct bank or storm-water line
+grouting and were still awaiting instructions for further areas of remediation.
+Last week we issued a high level programme incorporating the then instructed scope and that
+showed that the works could not complete before October 2020. Whilst one can argue over
+acceleration and increased resources it is clear that with the introduction of duct bank
+remedials and storm-water line grouting (with the specific logistics issues this presents), then
+however the works are resourced and planned it is unlikely the current scope can be
+completed until the third quarter of next year;
+6. In spite of project documentary evidence certified by the Engineer, together with 3rd party
+engineering reports commissioned by us from RJ Bird (RJB), all of which clearly show that we
+have constructed the Works in accordance with the Contract, it seems the Engineer and your
+specialist designers remain of the opinion that the fault in the subsiding infrastructure does
+not lay with the IFC documentation. We have repeatedly requested a determination by the
+Engineer on the root cause of this failure and, having received nothing but opaque references
+to future revelations, through our lawyers we have engaged a 3rd Party Expert to give opinion
+on this key matter. Our concern as repeatedly expressed is not only that responsibility does
+not lay with us but that the remedials currently instructed may only be a temporary fix
+because the root cause may lay at a level beneath the proposed discontinuous grout improved/
+reinforced soil crust. Further and perhaps more significant subsidence will
+thereafter become evident and which as a result of this 'crust' may be even more difficult to
+remediate.
+We have received a further update on the RJB report, a summary of which is appended to this
+letter: we would draw your attention to item the Conclusion section 9 where at second items
+b & c our activities are once again exonerated from the likely causes of the failure. Indeed if
+one reads the second sentence in paragraph 4 of the Report Summary it is stated that in
+respect of subsided manholes: 'It is important to note that past backfilling records show that
+some manholes are founded on backfill soil placed before MTB and pule cap contract
+commenced'. In other words subsidence has occurred on areas that were 'original ground
+levels' so far as the MTB Works are concerned.
+We respectfully suggest that the current protective and adversarial approach being taken to this
+matter by the Engineer and your design consultants and to which we have no alternative other than
+to react accordingly, is not helping either programme or cost control and is to the detriment of the
+best interests of all Parties to this Project. We feel that a review period where the root cause is
+determined which will lead to a permanent solution to this problem will allow the unfettered input
+from all parties in finding the best way forward. We certainly have no fear ofthe truth being revealed
+and are frustrated by our inability to control this matter as it is not our responsibility: we cannot but
+think that if this remediation had been a contractor designed issue then we would already have been
+nearing the completion of the work with time and cost certain and controlled.
 
-Also, given that the ‘logistical support’ to be provided to Comba-Telecom is additional to our scope, then
-we remind you that SAA8 laid down strict guidelines to follow in the event that additional works are
-required, and will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require us
-to proceed. However, it appears that you have overlooked or ignored this.
-Very simply, the provisions of Clause 2.29 to Clause 2.31 of SAA8 [pertaining to Variations] states that
-we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It is
-your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
-the additional time and/or costs impacts have been agreed between us beforehand. Therefore, until
-such time as you take the action required of you in accordance with SAA8 Clause 2.29, then we are
-unable to proceed with undertaking the additional works noted above. We trust this is clear.
-Resultant Impact:
-The requirements to provide access and ceiling openings and other associated works to various levels of
-Piers 1 to 4 to facilitate the installation of additional antennas by Comba-Telecom at such a late stage of
-the project will as noted, cause significant delay and disruption to our works. This has the potential to
-invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
-potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
-Action Required:
-It is for this reason therefore that we issue this E-Notice requesting your prompt action, guidance,
-decision or further instruction as may be applicable to resolve the matters referenced herein in order to
-mitigate such delay and/or disruption to the Works. This includes without limitation:
-1.
-Issuing such Instruction as necessary for us to instigate the required changes into the Works.
-Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+We strongly urge that a moratorium be placed on instructions from the Engineer, and that all
+remedial works are suspended pending a complete review and possibly expert-driven sanity check
+being made of the current situation. In parallel we will continue procurement without placing
+committed orders in respect of the current scope of works and will work up a more detailed,
+resource-loaded programme that recognises the logistical constraints resulting from the fact that
+part ofthe Airport may well be in public use from a date to be advised by you but that it is likely will
+be during the first quarter of 2020.
+We look forward to your urgent and positive response.
 Yours faithfully,

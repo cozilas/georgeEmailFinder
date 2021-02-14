@@ -1,7 +1,17 @@
-Subject Delegation of the Contractor's Representative Authorities
-Please be advised that the undersigned will be away from site starting Sunday, 21 October 2018 to
-Thursday, 25 October 2018 and will be back on duty on Sunday, 28 October 2018. Mr. Siva
-Kanagasabai, Deputy Project Director will act on my behalf during my leave.
-Therefore, during my absence Mr. Kanagasabai is hereby delegated the Contractor's Representative
-powers, function and authorities as granted.
+Subject: Request for Engineer’s Instruction [RFEI/0401/16346]
+Discrepancy between Door schedule and SACS schedule
+Dear Sir,
+The Contractor refers to the Request for Information referenced in (1), which has been sent to you on
+30th July 2018 in an attempt to clear all the remaining discrepancies between the security access control
+
+systems (SACS) current IFC and doors current IFC. Please note that the discrepancies found, are affecting
+many areas of the Project. Please also note that the discrepancies have an impact on the SACS (including
+data and power) and the doors & door hardware.
+This was never concluded before the Effective Date of 4th September 2018 and remains a contentious
+issue which is not subject to Sub-Clause 1.7.2 and 1.7.4 of the Settlement Agreement and Amendment
+Number 8.
+Consequently, the response received after the Effective date of 4th September 2018 constitutes a
+Variation to the Contract and the Engineer is hereby requested to issue an IFC door schedule for the
+changes, together with an Engineer’s Instruction (for SACS, Electrical, Gov-SCN and doors) pursuant to
+CC-20.1.1(b) to enable the Contractor to proceed with the additional works.
 Yours faithfully,

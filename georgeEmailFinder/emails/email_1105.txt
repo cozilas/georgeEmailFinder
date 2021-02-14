@@ -1,52 +1,38 @@
-Subject: Defects liability Period (DLP) 0 &M Services
-Dear Sir,
-The Contractor acknowledges receipt of Engineer's letters (1) and (2), and responds as follows:
-The purpose of this letter is to seek the Engineer's cooperation to finally resolve the ongoing matter of
-the
-provision of the DLP O&M Services, in accordance with clause 28.1 of the Contract. As the Engineer will
-no
-doubt agree, this matter has been the subject of discussions for a lengthy duration and it is in all Parties
-interests for the matter to be resolved quickly.
-By way of reminder, the Engineer initially gave conditional approval for the appointment of Gemma SpA
-("Gemma") as the Subcontractor to carry out the DLP O&M services. As the Engineer is aware, despite
-
-extensive efforts on the part of the Contractor, it has not been possible for the Contractor to obtain
-Gemma's agreement to the additional condition insisted upon by the Engineer. In this regard, we
-acknowledge the recent withdrawal of the conditional approval of Gemma by the Engineer in its letter
-ref
-(2L on the grounds that Gemma has failed to provide it with a "letter of commitment confirming Gemmo
-will be fully involved in the installation process of all specialist systems" and that "the TCA-JV will obtain
-Gemma's approval/acceptance of all relevant shop drawings".
-Notwithstanding the submission by the Contractor of the prequalification documents of Gemmo, and for
-the avoidance of any doubt, the Contractor emphasises that the Contract places no obligation on the
-Contractor to appoint a specialist subcontractor to carry out the DLP O&M Services. The Contractor also
-believes it is confusing for the Engineer to use the terminology of "independent FM Company" as there
+Dear Sirs,
+The Contractor confirms receipt of letter reference {1} wherein the Subcontractor argues that it has not
+yet received a response on its method statement and therefore it has been unable to expedite its
+progress
+whilst using scissor lifts. The Contractor notes the following:
+The first revision of the Subcontractor's method statement reference MS-1093-TEM-130 was
+received on 07 November 2017. The Contractor rejected this document with a code-3 due to the
+Subcontractor's proposed lifting operations not providing sufficient information in respect of the
+Subcontractor's compliance with the Contractor's Health and Safety requirements. The first
+revision ofthe method statement was returned to the Subcontractor on 15 November 2017.
+The second revision of the Subcontractor's method statement was received by the Contractor on
+21 November 2017 and forwarded to the Engineer on 29 November 2017. The second revision of
+this document was rejected by the Engineer with a code-3 and returned to the Subcontractor on
+11 December 2017. The Engineer provided numerous comments that required to be addressed by
+the Subcontractor.
+On 19 December 2017, the Subcontractor re-submitted its method statement; however this
+submission was incomplete as numerous documents requested previously by the Engineer had
+not been included (e .g. response/comment sheet, risk assessment, certificates, etc.). During the
+subsequent weeks the Subcontractor drip-fed the Contractor with the missing documents, yet
+some of these were still erroneous and/or incomplete (please refer to attached email
+correspondence) .
+The Subcontractor did not submit a revised method statement until 09 January 2018. This third
+revision of the method statement was forwarded to the Engineer who issued a code-2 on 07
+February 2018.
+In summary, any alleged delays incurred by the Subcontractor in obtaining the work permit for the use
+of
+scissor lifts results from its inability to make a proper and complete method statement submission.
+Furthermore, during this entire process the Contractor used its best efforts to assist the Subcontractor
+whilst organising workshops attended by representatives of its HSE and technical departments. This
+assistance I guidance aimed to prevent additional costs to the Subcontractor resulting from the Engineer
+exercising its rights under Section 1.1.3.A.3.g of Specification 01330 and back-charging the
+Subcontractor
+for further submittals reviews due to its negligence to transmit conforming submittals. To be clear, this
 is
-no reference or requirement under the Contract for this appointment of an "independent FM
-Company".
-The Contractor after having given extensive consideration as to what is in the best interest of the Project
-in relation to the DLP O&M Services, the Contractor has decided that it shall undertake the provision of
-the DLP O&M Services using an in-house Facilities Management (FM) team, comprised of competent
-senior airport facilities management professionals, with the appropriate levels of experience,
-qualifications and training. The Contractor further advises that the use of the in-house FM team meets
-the
-additional requirement of the Engineer in relation to being "fully involved in the installation process of
-all
-specialist systems" and "approval/acceptance of all relevant shop drawings" as the Contractor has been
-involved in these. The in-house FM team has already been involved in the following processes, in line
-with the Employer's
-requests:
-• Engaging with the O&M Manuals Preparation Process - reviewing the manuals from an
-operational point of view and making sure that they are fit for purpose;
-• Engaging with the Spare Parts Management Process - reviewing the Spare Parts Lists and
-determining the quantities of reliable spare parts stock level needed for uninterrupted operation;
-• Engaging with the Asset Management Process- participating in the Asset Management process to
-transfer know-how;
-• Conducting a Scope Analysis to Identify the Scope of the Project and conducting a scope gap
-analysis together with a scope variation analysis;
-• Engaging with High Level Equipment Strategy;
-• Engaging with Training Scheduling Process; and
-• Conducting the Response Time Assessment.
-The Contractor attaches hereto the details of our in-house FM approach for the DLP period, for your
-review and feedback.
+over and above any responsibility of the Contractor who deems prudent to remind that, pursuant to
+Clause 1.3 of the letter of Award, 'the Sub-Contractor is deemed to have full knowledge and
+understanding of the Project requirements, Drawings and Specifications [ ... ]'.
 Yours faithfully,

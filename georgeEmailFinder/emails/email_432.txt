@@ -1,36 +1,82 @@
-Subject Health, Safety & Wellbeing during Ramadan and Summer Time Working
-Cross Ref. None
-Dear Sir,
-The Engineer writes to remind the Contractor of their obligations to adequately plan and prevent the
-potential exposure of personnel during the summer months, with the rapid increase in temperatures
-and the associated challenges of working in these conditions.
-Additionally, as the Holy Month of Ramadan has commenced, the Contractor is required to identify
-and implement all measures to safeguard all personnel.
-The Contractor is required to submit their updated Summer Working Plans that clearly outlines the
-arrangements and controls across all of the areas, activities and staff. The Contractor is required
-within their plan to cover all local legislative requirements such as the following points, but not limited
-to:
-1. Record your up to date review and assessment in accordance with current and planned
-conditions.
-2. Awareness and prevention training program in accordance with local legislative requirements
-and the maintenance of all training records.
-3. Working condition assessments prior to and during work activities. This includes accurate
-assessments of Thermal Work Limits (TWL), maintenance of these TWL readings and your
-implemented actions in line with legislative requirements. All TWL readings, timings, locations
-and workers rest periods must be recorded.
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0097
+Delays to ADDC Approval and Obtaining Building Completion Certificate (BCC) Due to Additional Fire Life
+Safety Devices Required by House of Expertise
+Dear Sir
+We refer to the recent receipt of commented responses to inter alia our Electrical and Fire Alarm Shop
+Drawings, submitted for the purpose of seeking Code 1 for Abu Dhabi Civil Defence (ADCD) approval,
+and pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we are
+compelled to submit this notice (‘E-Notice’) in consideration that the circumstances surrounding those
+comments and the events occurring since, is likely to delay [and disrupt] the Time for Completion of the
+Works, and seek your urgent assistance on this matter as outlined below.
+The Event(s):
+We refer to our e-mail dated 20 May 2019 (ref: 2) issued to the Employer’s Design Consultant [ARUP] as
+well as copied to you, attached to which were the following four schedules:
 
-4. Welfare and rest facilities to accommodate employees and provide cold and clean drinking
-water, mechanically cooled and clean facilities.
-5. Locations of hydration and the quality of drinking water.
-6. Shaded and welfare facilities, workplaces with mechanical air conditioned cooling systems.
-7. Compliance with all legislative requirements, such as AD-OSHAD CoP 11.0 Safety in Heat.
-The Contractor must officially submit the up to date Summer Working/Heat Stress Mitigation Plans no
-later than 22 May 2019.
-As the MTB building has become more complete and enclosed, the lack of any natural air flow is
-already presenting uncomfortable working conditions in areas of the MTB where Air Cooling systems
-are not operating or not provided. This will soon become a major issue with potential work stoppages
-in line with the Contractors' own procedures and legislative requirements. These mandatory work
-stoppages based upon the TWL readings has the potential to add further productivity delays to the
-completion on the finished facility. The Contractor is required to address this issue as a matter of
-urgency to maintain working hours in full compliance with requirements.
+1.
+‘Comments – Change in IFC – List 1’;
+2.
+‘Comments – Change in IFC – List 2’
+3.
+‘Pier 1 – AHJ and HOE comments – May 19 R14’; and
+4.
+‘Pier 3 – AHJ and HOE comments – May 19 R23’,
+We attach further copies of these schedules at Annex A to C hereto which reflect comments made by
+the Employer’s House of Expertise (HOE) endorsed on our Shop Drawings [following submission of the
+same for the purpose of seeking Code 1 ADCD approval] and which indicate the requirement for
+additional Fire Life Safety (FLS) devices (Smoke Detectors, Strobes, Horn Strobes, Manual Call Points,
+Speakers, Heat Detectors, Exit and Emergency Lights), which we hasten to add, are not currently shown
+upon IFC Drawings, or have been previously subject to Briefing Packs/Engineer’s Instructions.
+These lists also reflect the outcome of various meetings and workshops that have been held since the
+initial commented responses to our Shop Drawings were received; with the HOE introducing further
+changes in the scope of the FLS Works through MCI inspections held prior to ADDC inspections.
+The various meetings held to date include inter alia those held on 14, 15, 19 and 20 May 2019.
+It was during some of the meetings and inspections that we witnessed disagreement between the
+Employer’s HOE (ProFire) and the Design Consultant (ARUP), with the Design Consultant disputing
+whether some of the additional devices are actually needed. Hence the reason for e-mailing you on 20
+May 2019 seeking your and / or the Employer’s further guidance on the matter. However, it is
+disappointing to note that at the date of raising this E-Notice you have failed to respond.
+While we are endeavouring to assist with administering the required changes to the Fire Life Safety
+System and coordinating between you, the Employer’s Design Consultant and the HOE, the lack of clarity
+and disagreement on the design at this stage of the Project is disconcerting. In any event, the various
+additional devices reflected upon the attached schedules represent substantial changes to our scope
+and moreover require instructing if we are required to integrate the same into the Works. We also draw
+your attention to the fact that the additional devices shown upon the noted schedules are at present,
+limited to Pier 1, Pier 3 and various areas of the Central Processor (CP). We have yet to be advised of
+the extent of changes to the FLS system to Pier 2 and the remaining areas of the CP.
+We also remind you that our Electrical and Fire Alarm Shop Drawings had previously been approved
+Status Code 2 by you based on the current IFC design and specifications. Thus, the requirement for the
+additional Smoke Detectors, Strobes, Horn Strobes, Manual Call Points, Speakers, Heat Detectors, Exit
+and Emergency Lights are not part of our Contract Works and warrants issuance of an EI and VO.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing any changes or variations to the FLS system and will
+continue with the Works in accordance with the current IFC Drawings. We trust this is clear.
+Potential Impact:
+The various Shop Drawings reflected in Annexes A to C hereto, were submitted for the purpose of
+seeking Code 1 for Abu Dhabi Civil Defence (ADCD) approval [of the works/installations shown
+thereupon], which as you are aware, is an essential requisite in enabling us obtain the Building
+Completion Certificate (BCC). This is critical to the achievement of Milestone MS09B. Therefore any
+delays in us obtaining Status Code 1 approval will impact upon the completion of Milestone MS09B.
+In which respect we record that it has taken an inordinate amount of time to respond to our Shop
+Drawing Submittals, taking upwards of 136 calendar days to respond, which given that most of the
+submittals are at Rev. 2 or above, is 129 calendar days later that the time specified in the Contract.
+
+Moreover, any requirement especially at this late stage of the Project, for us to alter the FLS system will
+impact upon our ability to complete the remaining Works and / or testing and commissioning, and
+invariably impact upon achievement of Milestone MS9C (Substantial Completion).
+Action Required:
+We therefore request your urgent action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+This include without limitation:
+1.
+Responding to our e-mail dated 20 May 2019 (3:03pm); and
+2.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

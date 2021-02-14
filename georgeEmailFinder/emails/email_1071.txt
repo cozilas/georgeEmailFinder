@@ -1,10 +1,129 @@
-Dear Sir,
-Following the email communication referenced in (4) above, please be advised that pursuant to Clause
-11.3 [Instructions of the Contractor] the Stainless Steel Cladding (DCM-01) for Pier Pavilions, has been
-de-scoped from your scope of works with immediate effect and you are hereby instructed not to
-proceed with these aforesaid works.
-Therefore, you are kindly required to submit your Variation Cost proposal as per the relevant Clauses of
-the Subcontract Agreement for such omission in order for us to issue a Variation Order accordingly.
-This is for your information, record and necessary action.
 
-Yours faithfully,
+Subject: Value Engineering Struct 02 and Struct 09
+Dear Sir,
+We acknowledge the receipt of your letter referenced above requesting information regarding Struct 02
+and 09.
+Before responding to the questions stated in your referenced letter, we would highlight some of the
+relevant Contract conditions.
+The Contract Documents, which were prepared by the Employer, define the obligations of the Parties.
+Generally, the design of the Works are the obligation of the Employer, but more specifically the design
+of the Accepted Value Engineering Items and Provisional Value Engineering Items are the sole obligation
+
+of the Employer as stated in the Conditions of Contract at Clause 9.7.1, " ... For the avoidance of doubt
+the
+design of Value Engineering Items and Provisional Value Engineering Items shall be the responsibility of
+the Employer ... ".
+Furthermore, with regard to pre-Contract submissions and events, Conditions of Contract Clause 9.19
+[Entire Agreement] states that " ... The Contract shall constitute the entire agreement between the
+Parties
+in relation to the Works and shall supersede and extinguish any previous agreements, arrangements,
+understandings and representations relating to the Contract which are not set out in or expressly
+incorporated into the Contract...".
+Taking the above into consideration, we respond to your questions:
+1. During the BAFO Stage who initiated the changes to the roof Steelwork that resulted in VE 02 and
+VE09?
+Struct 02 (VE 02) and Struct 09 (VE 09) were initiated by Employer in BAFO Stage, please refer to
+Request for Best and Final Offer Document- Section 1- Clause 1.1 issued by ADAC on 14/02/2011.
+2. From that starting point how did vour own proposal develop?
+Our pricing of the Employer's proposed value engineering option was based on the limited
+information provided by the Employer. Any sketches that we submitted for inclusion into the Contract
+served only to explain how we had priced Struct 02 and 09 and to assist the Employer in
+its investigation when value engineering the primary (Struct 02) and secondary (Struct 09) girders.
+At no time have we offered a proposal for Struct 02 and 09 or undertaken to design these Accepted
+Value Engineering items.
+3. What was your recollection of how the VE's were established? Did you consider, or were you asked,
+or instructed, to take on any design responsibility? And if so by whom?
+At the Employer's request, VE proposals were submitted by tenderers in their 13 Nov 2011
+submissions. We did not include any proposal for value engineering of the structural steel roof at
+that time.
+Subsequently the Employer issued a "Request for Best and Final Offer" (BAFO), wherein it was
+stated that " ... Tenderers must provide cost savings for all the Value Engineering Items set out in
+Section 4 of these BAFO Documents ... ". This was the first time that Struct 02 and 09 was made
+available to TCA JV to price. Additionally, the BAFO documents stated that " ... None of the Value
+Engineering Items are intended to be implemented by way of a Design-Build process ... ".
+At no time did we consider nor have we been instructed to take any design responsibility or liability
+for these value engineered options.
+The Contractor is ONLY responsible to " ... cooperate and coordinate with the Employer and the
+Master Architect ... " in the finalisation of the necessary design when required by the Employer or
+the Engineer.
+4. Who do you believe carried the risk for the VE's as they were lump sum savings forming part of the
+Contract Sum and not subject to variation?
+The scope of Accepted Value Engineering items is defined by Schedule 24 and Schedule 6 (Bill of
+Quantities), which shall be holistically explanatory according to the Value Engineering Items
+definition in the Contract.
+The Contract is clear that the Employer is 'solely' respo nsible for the design of the Works and the
+full development of value engineering options. Therefore, the risk of implementation to secure the
+benefit of the value engineering savings lies with the Employer.
+In the event the value engineered option were to be fully developed within the intent of the VE
+description, the commercial risk lies with the Contractor.
+In the event the value engineered option were to be partially developed, then the commercial risk
+
+lies with the Contractor for that part developed and with the Employer for that part not developed.
+The Accepted Value Engineering items have been priced lump sum against the definitions in
+Schedule 24 and Schedule 6 (Bill of Quantities). The Contract does not state that the lump sum
+amounts are not subject to variation. On the contrary, in the event a Value Engineered item was
+not instructed through IFC Drawings by the Employer or the extent of the value engineered part
+was not in accordance with the defined scope of the Accepted Value Engineering item then this
+would be a Variation to the Contract. This is confirmed by the Engineer in its letter ref: MTC-CMATCA0401-LTR-00093 dated 21 November 2012 (copy attached marked "A").
+In conclusion, the risk for design and implementation of value engineered items in accordance with
+the Contract remains fully with the Employer. 5. With the design of the VE's still to be completed whv
+were the VE's included in the contract as 'firm'
+figures and not provisional VE and why did you accept them?
+We respectfully suggest that you liaise with the Employer's cost consultant for the answer to this
+one. The Employer issued the Tender and BAFO documents and the tenderers complied.
+6. When were you informed and by whom that the revised steelwork design of the roof as envisaged
+by VE 02 and VE 09 had been abandoned and that you were to construct the roo{in accordance with
+the IFC drawings? Do you have documentary evidence that you can provide to support your view?
+The Contract contains Milestone E1020 for the issuance of "IFC Drawing & Specs for Structural Stee l
+Installations" by 8 December 2012, being 105 days after NTC.
+On 17 October 2012, at a meeting with ADAC, the Engineer and ourselves, it was noted that ARUP
+assessment of primary girders was that the value engineering Struct 02 would not be achieved. In
+addition it was noted that ARUP's design remit excluded arches and backstays thereby limiting the
+full potential to investigate value engineering savings. Our letter 0054 dated 18 October 2012,
+attached marked "B", made further suggestions to the Engineer for value engineering the design.
+On 24 October 2012 a telephonic conference took place between the Employer, Engineer, KPF,
+Arup, RBG (China State engineering consultant) and ourselves. The Minutes of this meeting (ref:
+reference MTB-ACM-VES-MOM-0009, attached marked "C") record that the " ... Primary girders will
+remain as designed and as shown in the IFC Drawings ... ". Further, the Minutes stated that
+" .. .Secondary girders ... will be re-designed by ARUP ... ".
+By Contract, we are obliged to follow the instructions of the Engineer and to construct the Works in
+accordance with the IFC Drawings issued to us under the instruction of the Engineer from time to
+time.
+Due to the substantial number of IFC Drawings issued under Bulletins and responses to thousands
+of RFI's, we have not been able to establish if Struct 02 and 09 were implemented in full or partially
+until the last of the related IFC Drawings had been issued by the Engineer.
+7. Why in your view was the revised steelwork design rejected?
+We respectfully suggest that you liaise with the Employer's design consultant for the answer to this
+one. As the Employer is responsible for the design of the Works and the Accepted Value
+Engineering items is defined by Schedule 24, we are not in the position to respond.
+8. Can you show that your VE 02 and VE 09 proposals would have worked, meeting all the
+requirements of the design brief and the specification.
+Please note that Struct 02 and 09 were the Employer's proposals and not ours. In addition the
+Employer was in fu ll control of the design and privy to all design information, and not us. Kindly
+coordinate with the Employer's design Consultant for the answer to this question.
+A question that perhaps should be asked of the design Consultant is:
+Had the design Consultant been given more time (assuming construction had not commenced)
+co uld he have developed Struct 02 and Struct 09 into an alternative design that would have met
+
+all the requirements of t he design brief and the specification? 9. When VE 02 and VE 09 were not
+carried out why did it take you until April 2015 to raise this issue as
+a claim?
+We have not raised the issue of Struct 02 and 09 as a claim for not being carried out.
+In the absence of a Variation Order, or instruction of the Engineer, that the Employer would not be
+implementing Struct 02 and 09, and having completed our interrogation of the numerous Drawings
+issued for the structural steel roof at that time, we have submitted our RFVO's 0401 and 0500 on
+30 April 2015 and 11 April 2015 respectively for the reversal of the Accepted Value Engineering
+amounts - the Employer having failed to take up these VE options.
+We would advise that the last IFC Drawings issued, which could have contained design changes
+related to Struct 02 and 09, were contained in Bulletin 167 issued to us on 29 June 2015.
+10. Did you ever submit a formal claim? /( so when? And to whom? Can we please have a copy of that
+claim?
+The reversal of Accepted Value Engineering item amounts if not implemented is a variation to the
+Works for which we make RFVO submittals. Only after receiving the Engineer's rejection of this
+submittal would we be compelled to make a claim under clause 27.1.
+We trust that our responses above will assist the Engineer to conclude that our RFVO submissions are
+just and that the Accepted Value Engineering items Struct 02 and 09 are to be reversed, a Variation
+Order issued for the submitted amounts and payment made by the Employer as a matter of urgency.
+In any event, our response above have been made in the spirit of cooperation and are made without
+prejudice to our rights under the Contract and at Law.
+Yours faithfully,

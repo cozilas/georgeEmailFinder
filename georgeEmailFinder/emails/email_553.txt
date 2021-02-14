@@ -1,78 +1,11 @@
-Subject:Discrepancies between Schedules issued by the Engineer for Doors, Doors Hardware, SACS,
-Power and Data – History of Events and Plan for Moving Forward
-Dear Sir,
-Dear Sir,
-We refer to the correspondence exchanged between us concerning discrepancies in various design
-documents issued by you for the doors, door hardware and associated systems, and we also refer to our
-recent constructive meeting held on [16th January 2019] in relation to this subject. We have set down
-the background to this matter below which we believe will assist the parties in the understanding of this
-complex issue. The primary purpose of this letter is to reiterate the message that we gave at the
-meeting of [16th January 2019], namely that urgent action is required to resolve certain outstanding
-issues concerning design of the doors (and associated systems) to ensure that completion of the Works
-within the Time for Completion is not jeopardised.
-At the outset, we believe that it is common ground that responsibility under the Contract for the design
-of doors and the integration of those parts of the Works which are intrinsically linked to the doors,
-including hardware, control system (‘SACS’), power, data and the like, lies with the Employer. Our
-responsibility is to follow with due diligence the Drawings and Specifications, and it is our position that
-we have discharged, and continue to discharge, this obligation with the necessary expertise, care and
-skill that could reasonably be expected from an Experienced Contractor. Further comments regarding
-our position about the design of the doors can be found in our letter referenced (5) above.
-As described below and in our attached chronology of events, discrepancies and ambiguities between
-documents issued by you, including Engineer’s Instructions (‘EIs’), bulletins and door schedules (as well
-as associated hardware, SACS, power and data) were first encountered in 2014. Many of these issues
-even now remain unresolved due to the lack of a final overall comprehensive and clear design with all
-the necessary information required by us to complete the door installation works. Broadly speaking,
-there has been a pattern whereby you have progressively revised and updated the design and instructed
-us to implement the works based on the latest design, whilst it has subsequently transpired that this
 
-latest design which we had implemented or (endeavoured to implement) had not, unfortunately,
-resolved all of existing discrepancies and ambiguities.
-This letter, and its attached chronology, summarizes the main history of events. As there is already
-much correspondence previously submitted providing all of the details of the events, it is not the
-intention of this letter to reproduce the entire content of all of the submissions, but it is necessary to
-reproduce the main aspects, to describe the various events and circumstances around the matters as
-this will be of assistance in resolving the issues.
-We believe that the numerous discrepancies and ambiguities can be traced back to certain deviations
-from standards and codes of practise governing the doors and the associated systems including fire,
-power, data and SACS. An example of such deviations is the introduction of break glass units (‘BGUs’)
-which conflicted with the codes of practices. We raised this issue via our letter referenced
-MTB/TCA/AECOM/L/010696 dated 27 June 2017 wherein we expressed our concerns and sought
-indemnity against any consequences arising from these deviations. In your response , amongst others,
-you made the following statements “… consequently, deviation from code in some cases is inevitable ….
-Design is an engineered solution which did not fully conform to a single code as this code cannot fully
-cover complex buildings (such as terminal buildings), yet such solution has taken into account the
-stakeholders requirements and security demands …”.
-From an early stage in the Project we identified numerous discrepancies and ambiguities in the Door
-Schedules issued by you under Engineer’s Instructions. As a consequence of this, tripartite workshops
-were held in an endeavour to resolve the issues. Engineer’s Instructions and revised Door Schedules
-were issued progressively by you after each workshop from early 2015 up to September 2017. After
-each workshop you issued an Engineer’s Instruction for our implementation and execution. On
-receiving the relevant Engineer’s Instruction we diligently proceeded with the necessary
-implementation, including the ordering and manufacturing of the doors.
-After a final workshop in September 2017, you requested us to submit a combined Door Schedule listing
-all of the doors that were previously instructed for implementation and recording what changes had
-been instructed. Hence we were extremely surprised to receive your letters referenced (3 to 4) above,
-alleging that the purpose of us in providing you with a combined Door Schedule was for you to give
-approval to same prior to it being used for implementation of the Works. You have made amendments
-to our combined Door Schedules and returned the amended Schedule to us for implementation,
-notwithstanding that you are aware that the majority of these revised Works have already been
-implemented based on earlier version of the design. We have contended that those amendments issued
-subsequent to the effective date of Settlement Agreement constitute a Variation .
-More pressing at present, as set down in the attached chronology of events, there remain many
-unresolved issues including discrepancies between the Door Schedule and the SACS Schedule, as well as
-matters relating to fire life safety interface requirements. At the meeting on [16th January 2019] we
-proposed the following plan:
-(1)
-That we will work with you in a proactive and cooperative manner to compile a comprehensive
-schedule of issues relating to the doors that remained outstanding;
-(2)
-thereafter, to the extent that we can, we will assist you in finding solutions to these issues (and
-any solutions such endeavour to minimise the amount of abortive work (if any)); and
-
-(3)
-finally, when the technical issues are resolved, we will continue to work together to identify and
-endeavour to agree which changes (if any) have been subsumed by Settlement Agreement and
-Amendment No. 8 and which amendments constitute a Variation.
-We trust that you are in agreement that this proposed collaborative approach is in the best interests of
-the Employer and the Project.
+Subject Contractor's Organizational Chart
+Dear Sir,
+We write with reference to the currently vacant positions in the Contractor's organization in relation
+to the Deputy Project Manager, QA/QC Manager, HSE Management resources and Senior Integration
+Engineer .
+At this critical stage the Contractor shall ensure that approriately qualified personnel are appointed
+for the above roles .
+The Contractor is requested to submit its deployment plan for these roles along with an updated
+organizational chart to properly reflect the respective positions for the review of the Engineer.
 Yours faithfully,

@@ -1,18 +1,18 @@
-Subject:SAA8 Sub-Clause 2.26, E-Notice No. – E0028 – Overdue MEP RFI Responses
-Reference:
-1. Schedule Attached
+Subject:
+Request for Engineer’s Instruction [RFEI/0401/0732]
+HPC 01 paint system at GRC panels at DAS Bridge
 Dear Sir,
-We write in connection with the above mentioned subject and notify you pursuant to Sub-Clause 2.26 of
-the Settlement Agreement and Amendment No. 8 that this event may cause delay to the Works and
-therefore we seek your swift resolution to avoid any future disruption or delay pertaining to this matter.
-The Contractor is providing the Engineer on a weekly basis a list of the MEP RFIs for which the responses
-are pending with the Engineer. The RFIs are categorized based on their pending duration and priority. As
-can be seen from the attached lists that were provided to the Engineer in the past, many of the RFI
-responses were received by the Contractor after their due date and some others were received after a
-period of over two months. This in turn is preventing the Contractor from proceeding with the related
-works to meet the associated deadlines/milestones.
-Your further guidance, decision and/or instruction is required by no later than 07 November 2018 to
-proceed at the very latest; failing which the Works are likely to be delayed and/or disrupted.
-We reserve our rights under the Contract pursuant to Sub-Clause 27.1 (Contractor’s Claims) to an
-extension to the Time for Completion and additional Costs arising from the above described event.
+The Contractor refers to the email correspondences enclosed herewith and particularly to the email
+referenced (1) above, wherein you have mentioned that the paint system with a “70%:30% Diluted”
+ratio + Keim filler applied at the joint + 2 additional HPC coats at the joints + 2 Full coats on top for
+overall panel”, was found acceptable.
+Please note that the mentioned system is a different paint system than the paint system specified in the
+Contract for GRC panels at DAS Bridge. To date, the Contractor has not yet received a formal instruction
+to proceed with the new system described above.
+The Contractor hereby informs the Engineer that the above issue was not concluded before the Effective
+Date of 4th September 2018 and is not subject to Sub-Clause 1.7.2 and 1.7.4 of the Settlement
+Agreement and Amendment Number 8.
+Consequently, the Engineer’s email reference (1) essentially constitutes a Variation to the Contract and
+the Engineer is hereby requested to follow the procedure set down in Sub-Clause 2.29 of Settlement
+Agreement and Amendment Number 8.
 Yours faithfully,

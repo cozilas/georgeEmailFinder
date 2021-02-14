@@ -1,70 +1,43 @@
-Subject Contractor's Claims Notices
-Dear Sir,
-This has reference to correspondence (1) above, regarding the Contractor's submitted Delay Notices
-and we note that to date we have not received any Time Impact Analyses (TIA's) in order to enable us
-to assess the Contractors' allegations with respect to the alleged delays. We note that without the
-contractually required TIA's for each of the submitted delay notices, and as you are aware, there can
-be no demonstration of the contractual validity of the alleged Employer caused delay events.
-In respect of the above, we summarise in Table 1 below the Contractor's relevant obligations in
-relation to notification and provision of further particulars and information in relation to the prevailing
-Conditions of Contract.
-TABLE 1
-Clause Reference
-27.1.1
-27.1.5
-Description
-Notify the Engineer of an event giving rise to
-an entitlement to any extension of the Time
-for Completion, reimbursement of
-additional Costs, an adjustment to the
 
-Contract Price and or any other costs or
-damages.
-Provide a fully detailed claim including full
-supporting particulars of any extension of
-the Time for Completion, reimbursement of
-additional Costs, an adjustment to the
-Contract Price and or any other costs or
-damages, to which he may consider himself
-entitled in order that such submission may
-be investigated at the time.
-Timescale
-Within 28 days after the
-Contractor becoming aware, or
-should have been aware, of
-such event having first arisen.
-Within 42 days, or such other
-reasonable time as may be
-approved by the Engineer, after
-notification submitted to the
-Engineer
-27.1.5 (b) For ongoing issues, provide interim At intervals of not more than
-particulars of any extension of the Time for monthly.
-Completion, reimbursement of additional
-Costs, an adjustment to the Contract Price
-and or any other costs or damages to which
-he may consider himself entitled.
-27.1.5 (c) For ongoing issues, provide final particulars Within not more than 14 days
-of any extension of the Time for from the end of the effects
-Completion, reimbursement of additional resulting from the event.
-costs, an adjustment to the Contract Price
-and or any other costs or damages to which
-he may consider himself entitled
-27.2.1 Prepare and provide to the Engineer a time Within 28 days after submitting
-impact analysis, demonstrating the effect a claim request, as per 27.1.1
-and consequences of the events and periods
-of delay relied upon.
-In light of the above, we do not consider that the Contractor has complied with their Contract
-obligations in relation to the provision of further particulars and information for any of their submitted
-notices and request that the Contractor comply with the Contract in this regard.
-Further, you are once again reminded that for each separate notified event, the Contractor must
-provide a singular Time Impact Analysis strictly in accordance with the requirements of the Contract,
-to demonstrate the impact, if any, on the Programme's Critical Path at the time of the event or
-circumstance giving rise to a claim in the Contractor's opinion. This must then be followed by a fully
-detailed claim in accordance with the requirements of the Contract, as stated above. The same has
-been requested in correspondence (1) but no action was evidenced.
-Moreover, and in order to avoid any future misunderstanding, we wish to re-confirm that the previous
-unacceptable practice by the Contractor of providing 'Consolidated Delay Analyses' and global claims
-is contrary to the requirements of the contract and will not be accepted.
-
-Yours faithfully,
+Potential Impact:
+Acts of prevention such as those outlined above, will at this stage of the Works, prevent us from
+obtaining the Building Completion Certificate (BCC). This is critical is us achieving Milestone MS09B, and
+if in the event matters such as these will continue, then the more likely these will invariably knock-on
+and resultantly prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+Action Required:
+Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0087 [post-SAA8]
+Installation of Hollow Metal Doors - Unreasonable Status Code 3 Comments issued in response to Work
+Inspection Requests (WIRs) - Update
+Dear Sir
+This letter serves as an update to E-Notice No. 0087 issued by way of our letter ref: (1).
+By way of reminder, our E-Notice No. 0087 sent via letter ref (2), notified you about numerous Work
+Inspection Requests (WIRs) following our request for final inspection and approval of the installation of
+numerous Hollow Metal Doors and Hardware that were subjected to a series of unreasonable Status
+Code 3 comments. Although our E-Notice No. 0087 focussed on the unreasonable comments endorsed
+on seven (7) WIRs covering the installation of 12 Hollow Metal Doors and Door Hardware to Gatehouses
+GH01, GH02, GH47, GH48 and GH49, we made in abundantly clear at the time that there were
+potentially 100’s of WIRs the responses to which contained similar unreasonable comments; this had
+the potential to affect to all of the areas of the Main Terminal Building (CPA and Piers 1 to 4).
+However, despite us providing various indicative examples of the types of comments endorsed on the
+WIR responses justifying precisely why the inspectors’ comments were unreasonable and urging you to
+retract the Status Code 3 comments and re-issue the WIRs [certainly for the seven WIRs subject to our
+letter ref: 1), we note that to-date, no action has been taken on your part to re-code them.
+We also made it clear in letter ref: (1) that we would be reviewing all of the responses to all of the WIRs
+subject to your unreasonable Status Code 3 responses to determine the exact quantity of doors
+affected. We have now completed this exercise and at Annex A hereto, is a detailed list of all the WIRs
+containing unreasonable comments, which are of a similar nature as those identified in our letter ref: 1);
+this information [detailed in Annex A] demonstrates that 932 nos. of doors are affected.
+We reiterate that such comments are without doubt unreasonable and are in indicative of general
+comments reflecting the opinion of the inspector as opposed to specific comments. Consequently, we
+once again urge you to withdraw the comments and annotate each WIR Status Code 2 or higher.
+Meanwhile, we maintain that the various events and circumstances detailed herein constitute acts of
+prevention and/or breaches of Contract on the part of the Employer’s Personnel and therefore give you
+notice, pursuant to Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our right to claim:
+(i)
+An extension to the Time for Completion pursuant to Sub-Clause 16.5.1(c); and
+(ii)
+An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or,
+in the alternative, damages for breach of contract.
+Interim and/or final details of the Time Impacts and adjustments to the Contract Price relating to this
+event will be provided in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Yours faithfully,

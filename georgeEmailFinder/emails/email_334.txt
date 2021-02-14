@@ -1,52 +1,18 @@
+Subject: Cash Flow support
+Dear Sirs
+We refer to the above subject and to our recent conversations in respect of both our cash flow support
+to major subcontractors and our position that we have entitlement to an increase of the Contract Price
+in order to take account of the additional variations instructed during the SAA8 negotiation period, and
+for the subsidence works.
+We have recently submitted an amended draft supplemental agreement that covers the entitlement
+issues. And as you are aware, we are still under significant pressure to continue funding a number of
+the major subcontractors to ensure completion of the project.
+It is accepted as inevitable and understandable that negotiations over the supplemental agreement
+will take some time to conclude and in any case we require cash-flow support in excess of this
+entitlement. We therefore request your indulgence in reverting to the basis of your kind offer set out
+in draft SAA9: we have made a number of amendments to your draft to align more closely with the
+current situation and trust that you will find the principles we have adopted to be acceptable.
+We have attached both a 'tracked changes' and a 'clean' version of our amendments and look
+forward to discussing these with you and to a swift resolution of our current cash constraint.
 
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0144
-Engineer’s Response to RFI/0401/17305 – Introduction of Door No. ‘L32-2315-01’ – Request for
-Engineer’s Instruction (RFEI) / Variation Order (VO)
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
-Overview
-Your response to RFI/0401/17305 detailed in Annex A represents a change in design and scope and
-requires a valid EI and VO in order for us to integrate the same into the Works.
-Potential Impact
-Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 17 July 2019, we raised RFI/0401/17305 Rev. 00 requesting clarification as to whether Door Ref:
-‘L32-2315-01’ (Located at Staircase 05/62 to Level L3.2 Sector 5.31), was required or not; in order to
-overcome an anomaly in and between the IFC Documents in so far as Door Ref: ‘L32-2315-01’ was
-shown indicatively on the IFC Drawings (refer to Figure 1), but was not included in the Door Schedule.
-Figure 1
-Specifically, via RFI/0401/17305 we wrote as follows:
-“The door schedule does not include the door 2315.01 at level 3.2, kindly update the door schedule
-including the missing door. Please provide an Engineer’s Instruction to add the door”
-
-We requested a response to RFI/0401/17305 Rev. 00 by 24 July 2019; however, you failed to reply until
-15 calendar days later on 8 August 2019. Notwithstanding, your response to RFI/0401/17305 Rev. 00
-referred us to two attached sketches enumerated as ‘ASK 4096 (RFI 17305)’ Sheet 1 of 2 and Sheet 2 of
-2; consisting of (1) a marked up / clouded IFC Drawing; and (2) a partial extract of a revised Door
-Schedule. The latter is essential in so far as it provided confirmation of the specific door type, material,
-colour, width, height, finish and fire rating etc., plus details pertaining to the requisite hardware – none
-of which had previously been provided but are nevertheless essential to enable us to procure, and install
-the door and door hardware and undertake any and all associated works.
-On this basis, it is clear that given your response to RFI/0401/17305 Rev. 00 and the introduction of door
-‘L32-2315-01’ and related works to Staircase 05/62 to Level L3.2 Sector 5.31 reflected upon the revised
-Door Schedule appended thereto, represents a change. However, given that SAA8 laid down strict
-guidelines to follow if additional works are required and you appear to have ignored those obligations,
-then this change will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require
-us to proceed with integrating the revised scope into the Works.
-We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
-as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
-is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
-the additional time and/or costs impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted herein. We trust this is clear.
-Yours faithfully,
+Yours faithfully,

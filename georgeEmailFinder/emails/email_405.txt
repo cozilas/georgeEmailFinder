@@ -1,45 +1,79 @@
-Subject Pipework and other infrastructure subsidence - notice of claim for delay, disruption
-and additional cost in accordance with Contract Clause 15.2.4
-Dear Sir,
-We write with reference to correspondence {1) and once again oppose the Contractor's assertions. To
-this effect, the Contractor is referred to Clause 9.3 of the Settlement Agreement and Amendment
-No.8 and we note that the Parties have confirmed that they have entered into SAA8 without relying
-on any statement, representation, assurance or promise that is not expressly set out in the Settlement
-Agreement.
-In addition to the above, we reiterate that the Revised Contract Price {Clause 2.3 SAA8) is inclusive of
-Subsidence (Clause 5 SAA8). We record again that the Contractor's allegations regarding delay and
-disruption and additional cost have no contractual basis and merit. Furthermore, with regard to the
-statement contained in correspondence {2) and {3) in relation to an alleged delay in issuing Issued for
-Construction {IFC) documentation, we note that the Contractor has prevented the Employer from
-issuing the IFC due to the Contractor's own delays in discharging its obligations under SAA8 with
-respect to performing the required testing and investigative works such as:
-• Delays in the completion of correctly executed CPTs and SPTs to allow the Design Consultant
-to complete their assessment of the ground treatment - note that this has yet to be
-completed with an excess of 40 No. CPT's outstanding
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0103
+Engineer’s Response to RFI/0401/16957 - Hardware Installation to Doors with Different Floor
+Levels: Request for Engineer’s Instruction / Variation Order
+Dear Sir
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described below
+may cause delay and/or disruption to the Works; hence we seek your swift resolution of the same.
+The Event(s):
+On 19 March 2019 we submitted RFI/0401/16957, together with a list of 55 nos. doors/openings to
+various areas of the MTB informing you that we are prevented from installing the remaining door
 
-• Delays in proceeding with the inundation testing for the manholes
-Delays in conducting the collapse testing of the material samples
-The Contractor failed to comply with the Engineer's Instructions
-reference {8) to facilitate the assessment by the Design Consultant
-Cone calibration non-compliances impacting on the accuracy of SPT and CPT results
-• Inaccurate CCTV tilt graphics from KMG which necessitated a complete re-survey by a new
-vendor APPLUS Velosi. This has significantly delayed the overall review of the pipeline profile
-and scope of rectification works.
-• Delay in air testing
-• Storm water surveys and CCTV tilt graphics
-The majority of the CPT's have only been completed by the Contractor on 111h June 2019 and with
-regard to the allegation of "additional" points being requested by the Engineer, we record that these
-are not additional but are required as a result of the previously issued CPT/SPTs failing to having been
-executed correctly and in providing the required data to allow the ground conditions to be assessed.
-Furthermore, the Contractor has yet to complete the CPT's in the area of the temporary substations
-and this again precludes the Design Consultant from completing their assessments. The Contractor is
-obligated to perform tests and trials both on and off Site and any other preparatory work required for
-the rectification works (Clause 5.3 SAA8).
-The Contractor's attempts to insinuate that they have an entitlement to any time and cost is baseless
-(4). It has been highlighted numerous times that according to Clause 5 of SAA8 the Contractor has no
-entitlement whatsoever to additional time and/or cost arising out of or in connection with the
-subsidence.
-In light of the above, the Contractor's contentions are refuted and there is no entitlement to any
-additional time and/or cost in relation to the subsidence and we consider the Contractor's Delay
-Notice (4) to have no merit.
+hardware (specifically stops / thresholds / gasketing) due to differences in floor levels between the
+respective rooms, requesting further clarification and resolution of what is in effect a design /IFC issue.
+We further advised you that the difference in levels presented building code violations also.
+Notwithstanding the fact that we requested a reply by 27 March 2019 and you failed to do so until one
+month later on 29 April 2019, your response to RFI/0401/16957 not only failed to address the issues
+raised by us, but introduced changes to the design and scope of Works by requesting the provision of
+entirely new landings to 3 out of the 55 doors/openings listed in the attached door list.
+Furthermore, your response also stated that: It is the Contractor’s responsibility to coordinate the
+hardware installation with the other trades and submit coordinated shop drawings for review”.
+We wish to put on record that your request for us to coordinate the hardware installation with other
+trades, is incorrect, misleading and is deviating from the main issue, which is the floor level/elevation
+differences at the door/openings mentioned above. This design defect is not related to the doors or
+doors hardware, but it is related to the floor elevation differences. Therefore, it is the variance in floor
+levels that is preventing us from completing the installation of the final door hardware and not the
+coordination with other trades or any other issues related to the doors and/or door hardware.
+As stated above the differences of the floor elevation at the door openings, reflect a deficiency in the
+existing design / IFC – we have constructed the Works in accordance with that design / IFC Drawings.
+However, as noted in RFI/0401/16957 any variance in floor elevations at a door opening is a violation of
+IBC 2006 code for this Project; this being the applicable code on this Project. Issue #17 of the Fire
+Strategy Report supports this and clearly indicates IBC 2006 as being the applicable code for ‘Doors’ and
+also ‘Means of Egress’. The Fire Strategy Report under the Section of ‘Means of Egress’ states:
+“A continuous and unobstructed path of vertical and horizontal egress travel from any occupied portion
+of a building or structure to an area of safety”.
+Furthermore, IBC 2006 Section 1008.1.4 [Floor Elevation] states the following:
+“There shall be a floor or landing on each side of a door. Such floor or landing shall be at the same
+elevation on each side of the door. Landings shall be level except for exterior landings, which are
+permitted to have a slope not to exceed 0.25 unit vertical in 12 units horizontal (2-percent slope)”.
+We note that the design of the doors, landings and structure is not within our scope of works. It
+remains with the Employer’s Design Consultant. Therefore, since the structural levels have been
+approved and the relevant WIRs have been raised and approved for the affected floor elevations at the
+areas of the door openings noted above, then the coordination issues you allegedly raised in your
+response regarding the door hardware cannot be accepted and are irrelevant to this instance.
+We refute your comment that “Hardware on the list can be installed”. We made it patently clear in
+RFI/0401/16957 that we are unable to install the remaining hardware (specifically stops / thresholds /
+gasketing) due to the direct effect that the variance in floor levels have on this particular hardware.
+Your attention is therefore drawn to the attached photos (refer to Annex A hereto) which illustrate the
+problem. It is this that we sought your assistance yet you failed to do so, despite our request. This is
+delaying installation of the remaining hardware and will invariably impact on completion.
+Furthermore, as noted above also, the response to RFI/0401/16957 attempts to introduce changes to
+the existing IFC design by requesting the provision of a landing. This requires a valid EI and a VO.
+The SAA8 laid down strict guidelines to follow if additional works are required. However, on the face of
+it, you failed to honour those obligations and an EI and VO are needed for us to proceed with the
+required landings. We also suggest that a survey is undertaken to determine the extent of change as
+there may be more doors/openings than those listed in RFI/0401/16957, with a floor difference.
+We therefore, take this opportunity in reminding you of the provisions of Clause 2.29 to Clause 2.31 of
+SAA8 pertaining to Variations, in so far as we are not to proceed with any Variation until a Variation
+Order and a Time/Cost Record have been issued first. In which respect, it is your obligation to issue this
+
+Time/Cost Record first if you wish to instigate change; this is only after the additional time and/or costs
+impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above. We trust this is clear.
+Potential Impact:
+We note that the foregoing events and/or circumstances is undeniably delaying the installation of the
+door hardware. Consequently, any requirement for additional works, in this case (1) the installation of
+landings and/or (2) changes to the door hardware which may need to be re-ordered and installed, (3) a
+survey to determine the project wide affect, at such a late stage of the Project, is very likely to impact
+upon our ability to achieve Milestone MS9C (Substantial Completion).
+Action Required:
+It is for this reason therefore, that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

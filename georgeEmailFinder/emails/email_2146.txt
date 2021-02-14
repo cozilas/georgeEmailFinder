@@ -1,14 +1,39 @@
 Dear Sir,
 
-We refer to your letters reference 1), 3) & 4) wher eby you have requested the Contractor to submit a
-quotation for a proposal to revise the power source for the emergency lighting from batteries to an
-uninterrupted power source, (UPS), to be provided by the Systems, Rolling Stock and Track works
-Contractor. Subsequent to this request the Engineer's Instruction No. 77, reference item 2), was
-received to initiate and execute the revision as a variation.
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. The nature and extent of the variation is provided below.
+The following Employer's Requirements:
 
-Instructions have been issued to the designers to initiate this revision to the Employer's Requirements
-and the Contractor awaits the final approved designs which will be included in the Tenders packages for
-the MEP Provisional Sum works .
+Volume 6, Sub-Clause 13.3.4.6 a) ii Delete the following Sub-Clause:
 
-We remain at your disposal for any further information and/or clarification.
-Yours faithfully
+"50% of the lighting luminaries shall be equipped with batteries (self-contained) for 1.5 hours, to avoid
+total darkness in the event of failure of the normal power supply."
+
+And replace with the following:
+
+Within the tunnel, fifty percent (50%) of the lighting luminaires shall be powered by the Uninterrupted
+Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwor k Contractor) to provide
+the minimum required luminance level for 1.5 hours.
+
+The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
+the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries. Both power cables shall be
+Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
+to IEc 60331 and Steel Wire Armoured (SWA).
+Volume 6, Sub-Clause 13.3.4.6 a) iv Delete the following Sub-Clause:
+
+"30% of the cross passage lighting luminaries shall be equipped with self-contained batteries (selfcontained - non maintained) for 1.5 hours, to avoid total darkness in the event of failure of the normal
+power supply."
+
+And replace with the following:
+
+Within the cross passages, thirty percent (30%) of the lighting luminaires shall be powered by the
+Uninterrupted Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwork
+Contractor) to provide the minimum required luminance level for 1.5 hours.
+
+The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
+the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries . Both power cables shall be
+
+Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
+to IEc 60331 and Steel Wire Armoured (SWA).
+
+Yours faithfully,

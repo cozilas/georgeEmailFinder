@@ -1,74 +1,69 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0274
-Employer’s Fit-Out Contractor’s Works Affecting Security Systems Installations to North Lounge –
-Request for Engineer’s Instruction / Variation Order
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0266
+Removal of a Public Address and Voice Evacuation (PAVE) Speaker to Retail Unit 2061 located at CP
+Level L2.0 by the Employer’s Fit-Out Contractor (DEPA)
+Dear Sirs,
+
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
 A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The event identified in Annex A hereto records delays attributable to the works of the Employer’s Other
-Contractor (DEPA) to our previously installed Security Systems to the North Lounge, requiring
-rectification and as such warrants an Engineer’s Instruction (EI) and Variation Order (VO) in order for us
-to do so.
+The events described in Annex A hereto records delays attributable to the removal of a previously
+installed PAVE Speaker within Retail Unit 2061 located at CP L2.0 by the Employer’s Other Contractor
+which requires rectification and as such requires the issuance of an Engineer’s Instruction (EI) and
+Variation Order (VO) in order for us to do so. Annex A also describes the fact that despite the speaker
+having been removed by an Other Contractor, you still felt is necessary to issue us an NCR (ref: 1). This is
+unreasonable and unnecessary.
 Potential Impact
 Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
 increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
 Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-We are appreciably concerned about the implications of the actions and works of the Employer’s Fit-out
-Contractor (DEPA) is having and will continue to have on our previously installed Security Systems to the
-North Lounge. Unfortunately, despite the Security Systems having been installed, inspected, and
-handed over by us via the Work Inspection Requests (WIR) process, many of the Security System devices
-have subsequently been impacted (i.e. obstructed, and in some instances covered entirely), by DEPA’s
+We wish to convey our concern regarding the removal of a previously installed Public Address and Voice
+Evacuation (PAVE/PAVA) speaker within Retail Unit 2061 located at CP L2.0, by the Employer’s Other
+Contractor, i.e. the Tennant Fitting-Out Contractor (DEEPA), the location of which is shown in Figure 1
+below.
+Figure 1
+Unfortunately, not only has the PAVE speaker been removed by the Employer’s Other Contractor
+without our permission and without us being notified beforehand (either by you or the Employer’s
+Other Contractor informing us of their planned intention), but in complete ignorance of the facts, you
+elected to issue us an NCR (ref: 1) relating to what you purport to be a “missing PAVA speaker” (refer to
+Figure 2 below) in an effort to shift the responsibility for the same upon us: which we refute in its
+entirety. We wrote informing you of our thoughts on the matter by email on 5 April 2020 [Sunday, 9:23
+AM] attached at Annex B hereto.
+Figure 2
+We therefore put on record that this speaker had previously been installed by us, and then subsequently
+inspected by you and handed-over via the Work Inspection Requests (WIR) process. It has however since
+been removed by the Employer’s Other [Tennant] Contractor without our prior knowledge or
+agreement.
+The absence of this speaker and the potential bearing on the functionality of the PAVE system means
+that we are prevented from completing Testing and Commissioning of the PAVE System to the Retail
+Unit 2061.
+We wish to put on record that this issue is not of our doing or responsibility, and any rectification /
+remedial works necessarily required at this stage to the PAVE system, will invariably delay us. Moreover,
 
-fitting out construction activities, such as wall tiling and gypsum plaster board. Sample photos
-illustrating these obstructions are provided in Photo 1 to Photo 6, while the locations are shown in
-Figures 1 to 3 below.
-Photo 1
-Photo 2
-Photo 3
-
-Photo 4
-Photo 5
-Photo 6
-
-Figure 1 – Level L3.0 Sector 5.13C
-Figure 2 – Level L3.0 Sector 5.14B
-Figure 3 – Level L3.0 Sector 5.15A
-For clarity please note that: Photos 1 to 3 relate to Sector 5.15A (shown in Figure 3); Photo 4 is related
-to Sector 5.13C (shown in Figure 1); and Photos 5 and 6 relate to Sector 5.14B (shown in Figure 2).
-The content of the foregoing photos provided in Photo 1 to Photo 6, are self-explanatory and support
-not only the fact that the DEPA’s fitting out construction activities, such as wall tiling and gypsum plaster
-board, constructing and in some instances covering the security devices completely, but the fact we
-were not given any prior notification that our Security Systems installations would be affected in this
-manner, points to a distinct lack of coordination on your part to inform us [of the intended activities of
-DEPA]. This would have allowed us the opportunity to remove the affected devices and associated
-installations prior to allowing the Employer’s Fit-out Contractor (DEPA) to continue with their fitting out
-construction works.
-By not informing us has increased the possibility of abortive works, reworks and even potential damage
-to some of our installed and signed off and inspected security systems equipment. In addition to the reworks or potential damage created by the situation described above, we have to highlight the fact that it
-appears that the Engineer’s security systems team representative is not following up with the other
-Contractor’s works, and informing us with regards of aforesaid works in progress. We have previously
-addressed matters such as this and respectfully refer you to our letter dated 12 May 2020 reference
-MTB/TCA/AECOM/L/015538, issued in relation to the ‘FR camera in lounges’ issue. It appears that the
-Engineer’s representative is focusing more on finding issues with our Security Systems Subcontractor
-installations, even where the issues does not exist, and turning them into NCR’s rather than focusing on
-the actual status and sequence of works on site, and maintaining overall coordination amongst various
-project contractors. In all, this creates additional delay to the completion of Security Package, and since
-our works are completed in the aforesaid areas, following approved shop drawing and recorded vide
-WIRs, then the security systems subcontractor (ATLAS) will have to revise its Shop Drawings, remove
-installed devices, re-pull cables and re-install the affected devices, in order to re-align the systems on
-site; all of which will require that you issues us an Engineer’s Instruction and Variation Order for us to
-proceed.
-
-Therefore, in accordance with your obligations under SAA8, please issue us an Engineer’s Instruction and
-Variation Order so that we may undertake all necessary works to the affected security systems.
-Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
-our previously handed-over security systems installation by the Employer’s Other Contractor (DEPA).
+this act of prevention was entirely avoidable and as a result it is both delaying and disrupting our
+progress.
+Consequently, the purpose of this E-notice is three-fold:
+•
+Firstly, we wish to notify you that the removal of the PAVE speaker and the impact this has on
+the PAVE system is directly attributable to the Employer’s Other Contractor as mentioned above;
+•
+Secondly, to request that you immediately withdraw your NCR ref: (1) entitled ‘Missing PAVA
+Speaker in Retail 2061, CSP, L2.0’ as considering the circumstances, is entirely unreasonable; and
+•
+Lastly, to request the issuance of Variation Order (VO) / Engineer’s Instruction (EI) to enable us
+to complete the rectification and replacement of the PAVE speaker noted above. This is only after the
+additional time and/or costs impacts have been agreed between us beforehand.
+In this regard, SAA8 laid down strict guidelines to follow in the event that additional works are required
+and we therefore request that you issue us a VO / EI for the requisite rectification works to be
+undertaken and ensure we are appropriately reimbursed – both for the additional time, and the
+additional costs involved.
+Finally, we urge you to take whatever action is necessary on your part to prevent any further occurrence
+of damage being caused to our previously handed-over Works by the Employer’s Other Contractors.
 Yours faithfully,

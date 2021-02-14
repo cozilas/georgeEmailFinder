@@ -1,105 +1,52 @@
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0150
-Late / Unreasonable Status Code 3 Response to DS/0401/10837 Rev. 03 – Low Level Design Document
-Intelligent Video Analytics (IVA) – Employer’s Request for Further Development of IVA Design and Full
-Study – Request for EI and VO
+
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0144
+Engineer’s Response to RFI/0401/17305 – Introduction of Door No. ‘L32-2315-01’ – Request for
+Engineer’s Instruction (RFEI) / Variation Order (VO)
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
-Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
 Overview
-The matters described in Annex A concern potential delays to the Works due to the Employer’s Request
-for further development of IVA Design / Full Study outlined in the response to MS/0401/10837 Rev. 03.
+Your response to RFI/0401/17305 detailed in Annex A represents a change in design and scope and
+requires a valid EI and VO in order for us to integrate the same into the Works.
 Potential Impact
-
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
+Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 24 April 2019, we in conjunction with the specialist Airport Security Systems subcontractor, ATLAS,
-submitted Document Submittal No. MS/0401/10837 Rev.03, seeking your approval of the Low Level
-Design Document Intelligent Video Analytics (IVA) for the Project. This was initially responded to by you
-on 20 July 2019, followed by a further response from the Employer on 8 August 2019; both of which
-were classified Status Code 3 ‘Revise and Resubmit’; in the manner shown in Table 1 below.
-Table 1
-Date submitted Submittal Ref Rev
-Description of Contents Response due per Section 013300
-Response received
-Status Code
-Overdue By (Calendar Days)
-24-Ap-10
-MS/0401/10837
-03
-Low Level Design Document Intelligent Video Analytics
-[Document No MTB-MSI-LLD-IVA-001 Rev. 03] 01-May-19
-Initial Response
-20-Jul-19
-3
-80 days
-Further Response
-08-Aug-19
-3
-99 days
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our Submittals. On the basis that Document Submittal No:
-MS/0401/10837 was at Rev. 03, then this ought to have been responded to within 7 calendar days.
-However, Table 1 shows that you exceeded this contractually based review period in respect of both
-responses by 80 and 99 calendar days. At this stage of the project, this is wholly unacceptable
-While we received an initial set of ten comments from you on 20 July 2019, we are particularly alarmed
-at receiving the Employer’s subsequent comments on 8 August 2019, which reads as follows:
-‘The LLD shall be submitted after selection of the proper cameras for each feature in the mentioned
-locations below: PROHIBITED PARKING Car Lanes & Curb Side area (outside) of LO.O & L2.0 Is required
-with a 10 minutes' grace period set. VIP Parking is not required. WRONG DIRECTION Customs Area
-(LO.O) needs to be included, (Exit from the baggage reclaim area}, this required from Customs. Other
-proposed areas are Car Lanes and Curb side LO.OIL2.0 and L2.0 VIP parking Wrong direction people:
-Immigration areas (LO.O and L2.0) OVER CROWDING Meet & Greet area of both Departure (L2.0) &
-(LO.O) Arrival to be included. Passenger circulation area before the transfer screening in L3 need to be
-included. Passenger Circulation area in Duty Free area of L2. 0 to be Included. Immigration & Screening
-area is required. Check in queuing to Immigration area is required need to cover the area just before the
-check ln. LEFT LUGGAGE Check In Areas & Departure areas until the Immigration gates needs to be
-covered (Immigration areas not required, L2. OJ Arrival Area (meeting & greeting area, LO. OJ to be
-Included. Curb side & Car lanes is not required. VIP Parking is not required. TRIP WIRE feature shall be
-feature shall be implemented for Datacenters, MCR 1 & MCR 2. Access doors from Airside to Landside
-within the building needs to be covered. Access doors from Apron to building needs to be covered. Only
-above points to be covered. PEOPLE COUNTING feature is not required. Please note that: Contractor
-shall resubmit the LLD again after the selection of proper camera in each area we are expecting the ISAT
-to be done again after the installation of IVA license done.’
+On 17 July 2019, we raised RFI/0401/17305 Rev. 00 requesting clarification as to whether Door Ref:
+‘L32-2315-01’ (Located at Staircase 05/62 to Level L3.2 Sector 5.31), was required or not; in order to
+overcome an anomaly in and between the IFC Documents in so far as Door Ref: ‘L32-2315-01’ was
+shown indicatively on the IFC Drawings (refer to Figure 1), but was not included in the Door Schedule.
+Figure 1
+Specifically, via RFI/0401/17305 we wrote as follows:
+“The door schedule does not include the door 2315.01 at level 3.2, kindly update the door schedule
+including the missing door. Please provide an Engineer’s Instruction to add the door”
 
-In short: we have undertaken to complete the IVA in accordance with the IFC design. We have only ever
-received limited information through the VSS Schedule as to what IVA functionality is needed for some
-cameras. We have followed this and set up the camera system accordingly. However, according to the
-above comments, the Employer is now requesting us to do a full study and then allocate the appropriate
-IVA function to the cameras as per the study. This is not for us to do; it is the responsibility of the
-Employer’s Design Consultant. He is after all, employed by the Employer to undertake the design for and
-on behalf of the Employer, not us.
-It is however clear that the above requirement is additional to our Contract and is out with not only our
-scope, but that of the specialist Airport Security Systems Subcontractor. In fact, ATLAS have already
-written on this by letter dated 9 September 2019 (ref: 2) and advises of the following:
-“… the Employer's request to develop the missing IFC IVA design drawings and related schedule,
-although executed through the selection of the proper camera in terms of model, installation location
-and field of view, within the ones available in the VSS consolidated design it is not comprised [sic, should
-read: ‘not contained’] in the Subcontractor current Scope of Work as per the Conditions of the
-Subcontract and, where confirmed in writing by a formal Contractor Instruction, constitutes a
-Variation.”
-SAA8 laid down mandatory procedures to be followed if additional works are required, and you have
-failed to follow these; an EI and VO are needed for us to proceed with the aforementioned changes.
-We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
-Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
+We requested a response to RFI/0401/17305 Rev. 00 by 24 July 2019; however, you failed to reply until
+15 calendar days later on 8 August 2019. Notwithstanding, your response to RFI/0401/17305 Rev. 00
+referred us to two attached sketches enumerated as ‘ASK 4096 (RFI 17305)’ Sheet 1 of 2 and Sheet 2 of
+2; consisting of (1) a marked up / clouded IFC Drawing; and (2) a partial extract of a revised Door
+Schedule. The latter is essential in so far as it provided confirmation of the specific door type, material,
+colour, width, height, finish and fire rating etc., plus details pertaining to the requisite hardware – none
+of which had previously been provided but are nevertheless essential to enable us to procure, and install
+the door and door hardware and undertake any and all associated works.
+On this basis, it is clear that given your response to RFI/0401/17305 Rev. 00 and the introduction of door
+‘L32-2315-01’ and related works to Staircase 05/62 to Level L3.2 Sector 5.31 reflected upon the revised
+Door Schedule appended thereto, represents a change. However, given that SAA8 laid down strict
+guidelines to follow if additional works are required and you appear to have ignored those obligations,
+then this change will warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require
+us to proceed with integrating the revised scope into the Works.
+We remind you of the provisions of Clause 2.29 to Clause 2.31 of SAA8 pertaining to Variations, in so far
+as we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It
+is your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
+the additional time and/or costs impacts have been agreed between us beforehand.
 Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted above and will continue to proceed in
-accordance with the existing IFC design to the extent we are able to. We trust this is clear.
-Potential Impact:
-The overdue response to Document Submittal No: MS/0401/10837 was at Rev. 03 coupled with the
-unreasonable Status Code 3 comment issued by you / the Employer and the Employer’s request for us
-to undertake further development of IVA Design and further studies will severely delay our / ATLAS’s
-ability to complete the Airport Security Systems for the Project. This will affect our ability to complete
-testing and commissioning; and resultantly invariably impact upon our ability to achieve Milestone
-MS09B, and may also prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
+we are unable to proceed with implementing the changes noted herein. We trust this is clear.
 Yours faithfully,

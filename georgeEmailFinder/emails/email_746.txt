@@ -1,43 +1,22 @@
-Subject:
 
+Subject: Continuous Violation to HVAC Protection Plan; Stored and Installed Mechanical
+Materials/ Equipment at Site Contaminated with Urine and Human Waste
 Dear Sir,
-
-Engineer's Instruction No. 722A- Proposal- Required As-Built Drawing List
-
-With reference to the above subject and EI-722A received via ref.1), and the Engineer’s request to
-provide a ROM proposal for reduction in required as-built drawings, please be advised that the
-reduction proposal was a joint study done by TCAJV and AECOM to facilitate Facility Management
-requirements identified by ADAC minimum needs as below:
-•
-All compliance drawings are required - ADM Plumbing, ADSSC.
-•
-Maintainable assets drawings, .e.g. mechanical layouts and wiring detail – Single Line Schematic
-Diagrams & panel drawings for all systems.
-•
-Architectural connection details (e.g. roof drains, facades, glazing panels, internal structure)
-•
-Levels of detail not in BIM from OEM drawings – Lifts, Escalators, PBB, HBSS, etc.
-•
-Life Safety information (e.g. cause & effect is sometimes issued as a drawing).
-•
-Load bearing & system capacities need to be identified.
-•
-Being able to navigate the drawings we receive is as important so we need a clear method of
-categorization with suitable indexing.
-Those needs represent the Facility Management needs towards a completed and operational facility,
-which does not address all the As-Built scope. In fact the as-built drawings and documents do represent
-the entire works that had been constructed, used, dismantled, or evolved, and those as-built drawings
-were concluded, completed, and approved at various stages.
-Essentially, the 43,746 shop drawings (total 77,907 minus required 34,161) were already completed and
-submitted, and the fact that not all of the shop drawings will be re-submitted does not mean that they
-were not produced or the effort of producing them can be saved. However, TCAJV can re-issue the same
-drawings marked as as-built in digital copies to avoid unnecessary printing and waste of paper/ink; in
-compliance with Estidama goals and letter ref.2).
-Accordingly, we reaffirm that the as-built drawings are still considered at full amount of 77,907
-drawings, but the proposed final number that will be re-submitted for FM purposes will be the 34,161 to
-serve ADAC’s requirements.
-For all purposes and intent the full magnitude of as-built documents will not be limited to that issued by
-EI722, and that’s the reason behind letter ref.(3) being quoted as no Value Engineering in interim of
-reduction is forecasted.
-This is for your information and records.
+The Main Contractor reiterated the above concerns about the above subject to which it appears proper
+requirements were being totally neglected by the Sub Contractor on his daily routine for Mechanical
+Package Delivery at site. Continuous violation/ negligence to HVAC Protection Plan Requirements even
+lead to misuse of stored and installed materials/ equipment at site as urinals and/or toilet. Traces of
+urine
+and human waste were evident on mechanical materials/ equipment. This is totally unacceptable and
+immediate strict adherence to the approved HVAC Protection Plan must be implemented aside from the
+Static and Dynamic Equipment Maintenance requirements. Also the Sub Contractor is reminded to
+revisit
+his declared Preventive Measures in closing CMA NCR-702 related to equipment protection against
+using
+it as toilet, AHU in particular.
+Subject concerns have been relayed to your side in official and unofficial platforms but inattention to
+addressing it has been observed. This leads to another NCR issuance from CMA aside from the many
+outstanding Site MEMOs, TCAJV issued NCRs and Site Discrepancy Reports. See attachments. You are
+strictly instructed to mobilize your resources in addressing concerns recorded on those Notification
+Defects not to be a reason of delays on T&C activities and area handover.
 Yours faithfully,

@@ -1,47 +1,43 @@
 Dear Sir,
 
-•
+With reference to the Engineer's letter reference 3 and the subsequent Engineer's Assistant's letter
+reference 2, the Contractor would like to confirm the following.
 
-We refer to your letter dated 11th November 2014, our subsequent reply of 101h December 2014,
-together with subsequent discussions at the Weekly Commercial Review Meetings in connectio n with
-the above
-In accordance with your request the detail of our QR 2,150 per lineal meter rate is as follows:-
+The Contractor hereby acknowledges receipt of the Engineer's Instruction to initiate a variation pursuant
+to Sub-Clause 13.1.1 of the General Conditions of the Main Contract. However, the Contractor refutes
+the Engineer's assertion that this may be an omission of work under the Contract. It is noted that the
+Engineer's Instruction amends the wording of Volume 6 - Employer's Requirements - Design
+Specifications -Sub-Clause
+10.5.1.2 d) [Cross-passageways] which shall now read, "Cross-passageways shall be provided in tunnel
+sections where they are required at a maximum distance of 244m between each other. The distance
+between a cross-passageway and an evacuation shaft, the station platform public area or a tunnel portal
+shall not be more than 500m. "
 
-SI.No
-Description
-Cost per Lm
-1
+The Contractor affirms that the optimisation of the cross-passageways alignment was always an option
+for the Contractor pursuant to Volume 6 - Employer's Requirements - Design Spec ifications - Sub-Clause
+10.5.1.2
+e) [Cross-passageways] whereby , "the maximum distance may be increased, in special cases and subject
+to approval by Civil Defence, by up to 500m in accordance with the European TS/ for railway tunnels
+{TS/ SRT) if it can be demonstrated by engineering analysis that evacuation of the maximum train
+capacity load (1200p} into the non-incident tunnel can be achieved under tenable conditions and that
+the resulting risk for passengers would be acceptable and as low as reasonably practicable ...." These
+provisions have not been amended.
 
-Tunnel walkway73.00
+Accordingly, the Engineer's request for the Contractor to provide an assessment of the adjustment to
+the Contract Price and the Schedule of Payments has no contractual basis.
 
-2
+Notwithstanding the above, the Contractor has duly requested the Lead Designer to inform about the
+duration for the development of all necessary documents in accordance with the provisions of Volume 6
+- Employer's Requirements - Design Specifications - Sub-Clause 10.5.1 .2 e) [Cross-passageways]. The
+Lead Designer's
+response was received under letter reference 1 (enclosed herewith for ease of reference), informing
+that the requested documents can be produced within a period of no less than 5 months. However this
+period does not account for the interfacing that will also be required with QCD after the analysis.
 
-Cable duct 1
-
-174.00
-
-3
-
-Cable duct 2
-
-147.00
-
-4
-
-Handrails
-
-5
-
-2nd stage concrete
-
-Total
-
-424.00
-1,332.00
-
-2,150.00
-
-Please advise should you need any additional information or clarification of any point in respect of this
-matter.
+In light of the above, the Contractor hereby confirms that they will proceed immediately with the design
+changes and the necessary construction in accordance with the Engineers Instruction to comply with
+QCD waiver and the change to Volume 6 Section 10, Sub-Clause 10.5.1.2. (d). In parallel with this, the
+Contractor will also carry out a detailed analysis to show if the evacuation can be achieved within
+acceptable limits or not.
 
 Yours faithfully,

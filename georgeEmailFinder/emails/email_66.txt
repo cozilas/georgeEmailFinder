@@ -1,131 +1,74 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0271
-Building Wires Installations in External Areas – Request for Engineer’s Instruction
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0274
+Employer’s Fit-Out Contractor’s Works Affecting Security Systems Installations to North Lounge –
+Request for Engineer’s Instruction / Variation Order
 Dear Sir
-
-Pursuant to the Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we
-hereby submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described
-herein may cause delay [and disruption] to the Works, and seek your swift resolution of the same.
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
 Overview
-The matters recorded in Annex A describe an attempt made by you at instigating changes to our existing
-scope associated with the ADDC Approval of Building Wires Installations in External Area which will
-require a valid Engineer’s Instruction and Variation Order in order for you to us to instigate into the
-Works.
+The event identified in Annex A hereto records delays attributable to the works of the Employer’s Other
+Contractor (DEPA) to our previously installed Security Systems to the North Lounge, requiring
+rectification and as such warrants an Engineer’s Instruction (EI) and Variation Order (VO) in order for us
+to do so.
 Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required:
+Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
 We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
 Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
-DESCRIPTION OF THE EVENT
-Background
-RFI/0401/15803:
-On 7 March 2018, we raised RFI/0401/15803 associated with the ‘Secondary Containment and Wiring in
-Landside L0.0 and L2.00’ requesting further clarification in relation to the following (refer to Figure 1):
-Figure 1
-You responded on 20 March 2018 informing us of the following (refer to Figure 2):
-Figure 2:
-RFI/0401/15908:
-Following which, we then raised RFI/0401/15908 on 28 March 2018 associated with the ‘Landside Final
-Wiring’ requesting further confirmation from you in relation to the following (refer to Figure 3):
-Figure 3
-This was responded to on 22 April 2018 in which were advised of the following (refer to Figure 4):
-Figure 4:
-This E-Notice No. 0271
-NCR-01650:
-However, on 21 May 2020, we received Non-Conformance Report No: MTC-CMA-0401-NCR-01650
-(NCR-01650) associated with alleged nonconformances relating to ‘Building Wires Installation in External
-Area’.
-The ‘Description’ detailed within NCR-01650 states inter alia (refer to Figure 5):
-Figure 5
-Attached thereto are ADDC Rejection Reports of Case ID 3142992335 and 8839739224 and Site photos.
-NCR-01650 concludes with the following statement under ‘Specs Requirements’ (refer to Figure 6):
+Description of the Event
+We are appreciably concerned about the implications of the actions and works of the Employer’s Fit-out
+Contractor (DEPA) is having and will continue to have on our previously installed Security Systems to the
+North Lounge. Unfortunately, despite the Security Systems having been installed, inspected, and
+handed over by us via the Work Inspection Requests (WIR) process, many of the Security System devices
+have subsequently been impacted (i.e. obstructed, and in some instances covered entirely), by DEPA’s
 
-Figure 6
-We make the following comments and observations in relation to the foregoing:
-•
-The Specification does not call for armored cables for all external lighting.
-•
-We raised RFI to confirm replacing multi-core flexible cables with the approved single-core
-wires. The Employer’s Design Consultant confirmed this via its response to RFI/0401/15908.
-•
-Shop Drawings were submitted showing single core cables for all external lights (except street
-light poles) and have been approved.
-•
-Installations commenced accordingly based on approved Shop Drawings.
-•
-ADDC have since inspected and rejected the installations requesting armored cables instead of
-single-core wires.
-•
-Subject was discussed technically with you and it was agreed to undertake a design risk study.
-•
-We prepared a design risk assessment with mitigation measures and provided the same to you
-•
-You have since issued NCR-01650 which not only rejected the design risk study and but you
-failed to take cognisance of the above chronology of events and what is cited in the RFI responses.
-•
-On this basis we disagree entirely with the statements made in NCR-01650 and reject it outright.
-We take this further opportunity in reminding you of the following:
-On 19 February 2015 (letter ref: MTC-CMA-TCA-0401-LTR-03206) you wrote to us in connection with
-‘Close-Out of ADDC Activities’ informing us that “… the Employer has confirmed that [our] electrical
-services shop drawing will not be submitted to ADDC. Attached to this letter is the ADDC NOC to allow
-you to proceed with the ADDC Stage 3 Application.” This NOC and accompanying letter was prompted
-by the Employer's email request dated 19 November 2014, seeking relaxation of certain ADDC approval
-procedures. The attached ADDC NOC advised the Employer that based on the Employer’s e-mail
-requesting “relaxation [of] and [for ADDC] to accept the deviations for some of the major comments
-raised by ADDC ...” [therefore bypassing Stage 2 ‘Shop Drawing review’], ADDC said it had “no objection”
-for the Employer to proceed to Stage 3 ('Application for Connection'); as long as the Employer is satisfied
-with the consultant’s design. Moreover, within its NOC dated 22 December 2014, ADDC further stated
-that: “[The Employer] ADAC shall ensure that all the installations will comply with the Electricity Wiring
-Regulations 2009 and [accordingly ADAC] shall be responsible for any issues and implications arising out
-of the above deviations at any time.”
-A further copy of ADDC's NOC was issued to us under cover of your letter dated 3 March 2015 (ref:
-letter ref: MTC-CMA-TCA-0401-LTR-03264) confirming the agreement to bypass Stage 2 and proceed
-directly to Stage 3. This meant that we were no longer required to submit shop drawings to ADDC for
-approval but were expressly directed by you to proceed with the electrical installations based on the
-Engineer-approved shop drawings; our shop drawings being developed from and based upon the IFC
-Design Drawings. This was subsequently re-confirmed within our letter dated 22 June 2015 (ref:
-MTB/TCA/AECOM/L/004999) in which we advised you that in consideration of the NOC, and that as part
-of the relaxation of the ADDC approval process, the Employer assumed responsibility for any issues
-arising therefrom, and we would not be held liable for any comments from ADDC inspectors for any
-non-compliance with ADWR 2009, or ADWR 2014, or for any preferential requirements for the electrical
-installations during Stage 3 or 4 of the ADDC inspection / approval process.
-However, it is clear the Employer failed to take on and administer that responsibility and through you,
-are attempting to hold us liable for various issues identified in the IFC Electrical Design by ADDC
-inspectors that have been ‘rejected’ during subsequent ADDC inspections. Once such issue is that
-identified above.
-In summary therefore, for the reasons set out above, we maintain that the various matters listed in
-NCR-01650 associated with the ‘Building Wires Installation in External Area’ are not non-conformances
-per se as alleged but are additional to our existing scope. The matters subject to NCR-01650 represents
+fitting out construction activities, such as wall tiling and gypsum plaster board. Sample photos
+illustrating these obstructions are provided in Photo 1 to Photo 6, while the locations are shown in
+Figures 1 to 3 below.
+Photo 1
+Photo 2
+Photo 3
 
-an attempt at changing the existing IFC requirements and vary our scope without adopting the
-contractual mechanism for instigating any change in design, this will require the provision of revised IFC
-Drawings and an accompanying Engineer’s Instruction/Variation Order for us to integrate such change
-into the Works.
-We therefore take this further opportunity in reminding you of the provisions of Clause 2.29 to Clause
-2.31 of Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we
-are not to proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued
-first. In which respect, it is your obligation to issue this Record first if you wish to instigate change to the
-Project; this is only after the additional time and/or costs impacts have been agreed between us
-beforehand.
-Therefore given that SAA8 laid down strict guidelines to follow if additional works are required and it is
-patently clearly this has been ignored, then this change will warrant a valid Engineer’s Instruction (EI)
-and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
-Works. Meanwhile, until such time as you take the action required of you in accordance with the
-express requirements of SAA8, we are unable to proceed with implementing the changes noted above
-and will continue to proceed in accordance with the existing IFC design to the extent we are able to.
-Meanwhile, please note: given the critical stage the Project is currently at, then any delay to the
-Electrical Installations to the external areas will impact associated inspections, and invariably delay and
-disrupt the completion of our testing and commissioning. This will invariably knock on and impact our
-ability to achieve Milestone MS09B and prevent us from achieving Substantial Completion (Milestone
-MS09C).
-Finally, while acknowledging that the two RFIs and the various letters cited above pre-date SAA8, this
-matter cannot possibly be construed as forming part of the ‘Included Circumstances’ (as per Clause 1.7.4
-of SAA8) as SAA8 cannot reasonably be interpreted as requiring the Contractor to absorb delays of
-unknown (possibly unlimited) durations post 4 September 2018, particularly where the resolution of the
-matter causing the delay lies with the Employer. We contend that in these circumstances, the
-responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
+Photo 4
+Photo 5
+Photo 6
+
+Figure 1 – Level L3.0 Sector 5.13C
+Figure 2 – Level L3.0 Sector 5.14B
+Figure 3 – Level L3.0 Sector 5.15A
+For clarity please note that: Photos 1 to 3 relate to Sector 5.15A (shown in Figure 3); Photo 4 is related
+to Sector 5.13C (shown in Figure 1); and Photos 5 and 6 relate to Sector 5.14B (shown in Figure 2).
+The content of the foregoing photos provided in Photo 1 to Photo 6, are self-explanatory and support
+not only the fact that the DEPA’s fitting out construction activities, such as wall tiling and gypsum plaster
+board, constructing and in some instances covering the security devices completely, but the fact we
+were not given any prior notification that our Security Systems installations would be affected in this
+manner, points to a distinct lack of coordination on your part to inform us [of the intended activities of
+DEPA]. This would have allowed us the opportunity to remove the affected devices and associated
+installations prior to allowing the Employer’s Fit-out Contractor (DEPA) to continue with their fitting out
+construction works.
+By not informing us has increased the possibility of abortive works, reworks and even potential damage
+to some of our installed and signed off and inspected security systems equipment. In addition to the reworks or potential damage created by the situation described above, we have to highlight the fact that it
+appears that the Engineer’s security systems team representative is not following up with the other
+Contractor’s works, and informing us with regards of aforesaid works in progress. We have previously
+addressed matters such as this and respectfully refer you to our letter dated 12 May 2020 reference
+MTB/TCA/AECOM/L/015538, issued in relation to the ‘FR camera in lounges’ issue. It appears that the
+Engineer’s representative is focusing more on finding issues with our Security Systems Subcontractor
+installations, even where the issues does not exist, and turning them into NCR’s rather than focusing on
+the actual status and sequence of works on site, and maintaining overall coordination amongst various
+project contractors. In all, this creates additional delay to the completion of Security Package, and since
+our works are completed in the aforesaid areas, following approved shop drawing and recorded vide
+WIRs, then the security systems subcontractor (ATLAS) will have to revise its Shop Drawings, remove
+installed devices, re-pull cables and re-install the affected devices, in order to re-align the systems on
+site; all of which will require that you issues us an Engineer’s Instruction and Variation Order for us to
+proceed.
+
+Therefore, in accordance with your obligations under SAA8, please issue us an Engineer’s Instruction and
+Variation Order so that we may undertake all necessary works to the affected security systems.
+Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
+our previously handed-over security systems installation by the Employer’s Other Contractor (DEPA).
 Yours faithfully,

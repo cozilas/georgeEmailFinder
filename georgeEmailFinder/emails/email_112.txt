@@ -1,33 +1,22 @@
-Subject:Further Confirmed Coronavirus (COVID-19) Cases – Smiths Detection and AECOM – Impacting
-the PBSS and HBSS Testing & Commissioning
+Subject:Coronavirus (COVID-19) Pandemic – Camp Lockdown Report
 Dear Sirs,
-We refer to our general letters ref: (1), (2) and (3) in relation to the Coronavirus (COVID-19) Pandemic,
-as well as our most recent letter ref: (4) advising you of a specific instance where a Subcontractor’s
-Engineer (working for OTIS) has been tested positive for the COVID-19 virus, and now write to advise
-you of the following:
-On 5 April 2020, it came to our attention that one of the Safety Officers working for one of our
-Subcontractors (Smiths Detection, who are responsible for the Hold Baggage Screening System (HBSS)
-and Passenger Baggage Screening System (PBSS)), has tested positive for the COVID-19 virus. As a
-consequence, Smith Detection’s site-based employees have been placed under quarantine for 14 days.
-This will subsequently impact the ongoing HBSS support and testing of PBSS equipment. There is also
-the possibility this may impact upon the Baggage Handling System (BHS) subcontractor (Crisplant).
-
-We have also been made aware that an AECOM employee, responsible for the QA / QC of the Lift,
-Escalator and Travelator (LET) installations, has also been tested positive for the COVID-19 virus. We
-have yet to be advised further on this and the ramifications this may have on the LET Works. As this is a
-serious issue health and safety issue potentially affecting our staff, our Subcontractors’ staff and the site
-operatives on the Project, we are concerned that we have not yet received correspondence from you
-and/or the Engineer with details of the incident. Can you please revert with details on this matter so
-that we can investigate the potential exposure of our staff, our Subcontractors’ staff and the site
-operatives.
-In our letters ref (1) to (3) we wrote to express our concern associated with the rapidity by which the
-virus is spreading and the implications on the Project given the close proximity and environment in
-which our site operatives as well as members of our staff, the Engineer’s staff and your own staff are
-working. It is therefore unfortunate that persons directly associated with this Project are now becoming
-infected with the COVID-19 virus and despite our best efforts to minimise such risk, the risk to us all is
-increasing.
-We will nevertheless continue to monitor the situation and keep you updated as matters develop. In
-your capacity of Employer, we once again request your guidance in how to best manage the current
-situation to minimise the risk of exposure to the virus to all working on the Project and indeed the
-greater public.
+We refer to our letters ref: (1) to (3) in relation to the Coronavirus (COVID-19) Pandemic.
+In particular, we refer to our e-mail ref: (4) in which we forwarded you a copy of an e-mail received on
+27 March 2020, from our specialist geotechnical foundation company, BAUER, undertaking the
+subsidence remediation and grouting works (further copy attached). In short:
+BAUER advised were advised by ICAD Accommodation Management that Al Yass Building No. 1 would
+be locked down whilst an investigation was carried out regarding a single worker who was displaying flu
+like symptoms. Although the worker in question is not a BAUER employee nor sub-contractor nor does
+he have any association with the BAUER business, the decision from the ICAD Accommodation
+Management is that the whole building is to be quarantined for 14 days with temperature monitoring of
+all workers on daily basis. Within this building are 31 workers who are currently assigned to the Airport
+grouting works.
+BAUER have informed us that arrangements have been made to replace the affected workers from
+within the BAUER pool of labour to progress the grouting works without disruption. BAUER further
+advises us that all of their workers are checked for good health and temperature daily prior to them
+boarding the site buses, plus they have increased the number of busses as well as reduced the number
+of workers on each bus, in accordance with guidelines, so that social distancing recommendations are
+maintained.
+We will continue to monitor the situation closely, both for this particular issue as well other Coronavirus
+(COVID-19) Pandemic related matters generally, and keep you updated as and when matters develop.
 Yours faithfully,

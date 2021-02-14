@@ -1,38 +1,22 @@
 Dear Sir,
-
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the variation is provided below.
-
-The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
-
-"Based on these calculations, the minimum clear width of such passageways, whether elevated or
-underground, shall be no less than 10 m. This does not include areas of low mobility near to vertical
-surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
-deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
-
-Volume 6, Sub-Clause 11.4.6.25 b) is now amended:
-To reflect an optimization outcome where the minimum clear width of passageways whether elevated
-or underground is reduced to 6.80 meters (excluding event stations).
-
-The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
-Required Passageway Widths, attached to this Instruction. Contractor is to note that:
+From continuous reviews of Contractor's tunneling programme and the poor daily rate of TBMs 1 and 2,
+the Engineer's Assistant is becoming increasingly concerned that Contractor will not achieve the KITO,
+STKID 04 date of 31 July 2016, nor the KITO TNTO date of 31 January 2017 in accordance with Volume 5,
+Appendix F Sections 81 Tunnel Sections and D Specific Events.
+From an analysis, recovery requirements in order to achieve the KITO date would indicate that:
 •
 
-This does not include for finishes which should be assumed as +1.0m
+For a six (6) day recovery programme TBM 1 would need to achieve 16.8 m per day and TBM 2
 
+would need to achieve 16.5 m per day
 •
+For a seven (7) day recovery programme TBM 1 would need to achieve 14.4 m per day and TBM
+2 would need to achieve 14.1 m per day.
 
-Width of passageway is the clear width between the two (2) clad facades of the passageway
+The Engineer's Assistant requires the Contractor to consider the current performance level of each TBM
+and submit a detailed recovery mitigation plan that will clearly demonstrate Contractor's ability to meet
+the referenced KITO date above.
 
-•
-Width of walkway is the usable width of the walkway between the two (2) travellators or the
-travellators and the wall - depending upon layout.
-Stations where the minimum width has already been agreed with Other parties or where design and
-construction may have advanced to the stage where reverting minimum width is no longer feasib le,
-shall be considered on a case by case basis.
-
-Contractor is instructed to implement the requirements to ensure the best possible optimization in
-design and installation is carried out and provide the response in accordance with Sub-Clause 13.1.1 of
-the Conditions of Contract.
-
+Contractor should consider the above bullet points in addressing and developing their mitigation plan.
+The plan is to be submitted to the Engineer's Assistance by no later than Wednesday, 08 July 2015.
 Yours faithfully,

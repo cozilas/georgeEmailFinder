@@ -1,33 +1,46 @@
-Subject: Delay Notice No. 1023: Engineer's Late and Overdue Response to the
-Dear Sir,
-Contractor's Various Test Inspection Requests for Interface Verification Tests
-(IVT)
-In the period between 12 December 2017 and 6 February 2018, the Contractor submitted ten (10) Test
-Inspection Requests ('TIR') for Interface Verification Tests ('IVT') for various interfaces of the Airport
-Operational System ('AOS') Package, for the Engineer's review and approval, in the manner shown in
+Abu
 
-Annex A hereto.
-Article 1.3 of Specification Section 013300 'Submittal Procedures' governs the processing t ime by which
-the Engineer is contractually obligated to review and respond to the Contractor's submittals. Therefore,
-on the basis that the TIRs are at Rev. 00 and Rev. 01, then these ought to have been responded to by the
-Engineer within 21 and 14 calendar days, in the period between 26 December 2017 and 27 February
-2018.
-However, Annex A illustrates that the Engineer exceeded and continues to exceed the review period for
-an initial submittal and a first re-submittal review expressly stipulated in the Contract, by upwards of 76
-calendar days.
-The Engineer's failure to respond to the TIRs for IVT for testing of the AOS in a timely manner and in any
-event, within the review times expressly detailed in the Contract, has prevented and is continuing to
-prevent the Contractor from completing the Interface Verification Tests for the AOS Package. Therefore,
-the Contractor urges the Engineer to expedite the review of the noted TIRs and issue the response and
-associated status code without any further undue delay.
-The Contractor therefore contends that the foregoing constitutes a breach of Contract and/or an act of
-prevention on the part of the Employer's Personnel. Therefore, in accordance with Conditions of
-Contract
-Sub-Clauses 16.5.2 and 27 .1.1, the Contractor hereby notifies the Engineer of its entitlement to claim:
-(i) An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.5.1(c); and
-(ii) An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Clause 9.10, or, in
-the alternative, damages for breach of Contract.
-Interim and I or final details of the Time impacts and adjustment to the Contract Price, will be provided
-in
-due course pursuant to Conditions of Contract Sub-Clause 27.1.S(a), (b) and (c).
+Subject : Claim Process
+Dear Sir,
+We write with reference to the above correspondence (1}, (2}, {3} and (4} wherein the Contractor has
+stated its disagreement with the Engineer's correspondence regarding the Contractor's failure to abide
+by the contractual requirements in relation to its obligation to submit delay notices, full details and
+particulars as well as a Time Impact Analysis within the required timeframe in Clause 27.1 of the
+Conditions of Contract.
+The Contractor's assertion that it is the Engineer's and/or the Employer's obligation to identify "the
+delays" is erroneous and contractually unsupported. Clause 27.1 and 27.2 of the Conditions of Contract
+clearly establish the Contractor's obligations regarding the claim process and the required timeframes
+which need to be complied with.
+The Contractor's attempt in correspondence {3} to pass the responsibility of its own fai lure to comply
+with Clauses 27.1 and 27.2 to the Engineer is rejected. The Contractor's excuse that it has not complied
+with the Contract as a result of the changes incurred in the Project is not valid. We reiterate our position
+in correspondence (6) in respect to this issue. Furthermore, we record that the Contractor has never
+requested the relaxation of the timeframe
+requirements specified in the above stated Clauses. Pursuant to Clause 9.1.2 of the Conditions of
+Contract, the rights and remedies of either Party under the Contract may only be waived by formal
+
+written waiver which is signed by a duly authorized representative. The Contractor is therefore
+requested to evidence that it has requested the Employer's rights under Clause 27.1 and 27.2 to be
+waived and that such waiver has been provided.
+The Contractor's statement regarding the alleged failure of the Engineer to honour its obligations with
+respect to the Contractor's claims is also rejected. The Contractor refers to correspondence {7) and {9)
+to
+support its allegation against the Engineer. The Engineer reiterates the contents of its correspondence
+{8) and {10).
+Furthermore, the Contractor's statement that the Engineer has not provided detailed comments on the
+Contractor's submission for EOT 2 is unfounded. The Contractor is referred to correspondence {11), {12)
+and {13) where the Engineer communicated the identified deficiencies of the Contractor's EOT2
+submission and requested the Contractor to address them. The Contractor was requested to assess,
+audit and determine its Subcontractors Costs instead of passing their claims to the Engineer and also to
+provide the required concurrency analysis. For the record, the Contractor to date has failed to adhere to
+these obligations.
+The Contractor also purports that the Engineer has failed to issue an interim extension of time against
+its
+EOT2 claim. However, and as previously communicated via {14) the Contractor has not provided the
+required evidence of compliance with Clause 16.5.2, 27.1 and 27.2 of the Conditions of Contract.
+Therefore, until such time as the Contractor evidences otherwise, it is deemed to have waived its rights
+for additional time and/or cost under the Contract.
+In light of the above, it is apparent that the Contractor has systematically and continuously have failed
+to
+adhere to its Contractual obligations with regards to its claim submissions.
 Yours faithfully,

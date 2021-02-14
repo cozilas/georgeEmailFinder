@@ -1,20 +1,179 @@
-Dear sir
-We write in relation to RFVO {1) related to Engineer's Instruction No. 430- De-scope of Beam Seating
-Compensation. In the Request for Variation Order, the Contractor claimed that due to the instruction to
-de-scope beam seating, considers the omission a breach of Contract and that as a result is entitled to
-recovery of costs and profit associated with the omission. The Contractor has calculated the costs that it
-considers is entitled based on 11.11% (Overheads and Profit) of the omitted Scope - Beam Seating i.e
-AED 22,190,603.75. The RFVO is for the amount of AED 2,465,378.08. The Conditions of Contract are
-very explicit with regards to varying works. The definition of Variation in the General Conditions (Clause
-1.1) includes; " .... a) the addition, omission or substitution of any work or any part thereof" The
-Engineer considers that the omission of the beam seating falls within the definition of Variation and
-rejects the Contractor's assertion that issuance of Engineer's Instruction No. 430 constitutes a breach of
-Contract.
-With regard to the Contractor calculation of the amount due (AED 2,465,378.08 for profit and
-overheads}, the Engineer has previously written to the Contractor (letter reference 6102} referring to
-Schedule 6- Bills of Quantities (of the Conditions of Contract)- Preamble 12;
-"The rates inserted in the Bill of Quantities will be used to value any Variations to the Works, whether
-omissions or additions. The Contractor shall not be entitled to payment for profit and overheads on the
-value of any omitted Works" Based on the Contractor's submission, RFV0/0401/1408 is rejected and a
-Variation Order in the amount requested will not be issued.
-Yours faithfully,
+Dear Sir,
+Notice to correct: Slow Progress, non-performance and Undeliverable Recovery
+Plans as of 31st July 2017
+We write this notice to record our utmost concern of your continual failure to respond to our repeated
+notices
+to correct your slow rates of progress and your failure to advise and take remedy actions to correct the
+same,
+which lead to irrecoverable delays that affected the project and impinged on your contractual and
+financial
+standing.
+We repeat, that it is of paramount importance that you counter this adverse situation by recognising the
+key
+concerns relayed to you throughout this notice and advice rectification measures within (7 days) of
+receiving
+this notice, Which should include ;
+1. A "Detailed Mitigation and recovery Plan" with supporting report as per Subcontract Clause 16.4.1
+2. Deploying additional engineering resources to recover from engineering delays (Shop Drawings, BIM
+etc.)
+3. Attend a Recovery for Mock-Ups Submission which had exceeded.
+4. Complete balance material submission and any balance pre-construction trades.
+5. To increase your fabrication and production yield to satisfy site requirements and work fronts.
+6. To deploy additional site resources to recover from your low productivity and installation delays.
+
+7. Ensure your progress reporting is accurate and is done with the approved program to stay in control
+I
+of the project status.
+Within the context of the above listed measures, The following sections denote the status of your works
+as of
+30th July 2017 and accounts for the delays that you will need to address and work towards rectifying
+Based on our reco rds (refer to Attachment 1}, your shop drawings approval status as of 31st July 2017
+are 3297 drawings out of 4199 total, compared to 3289 drawings on 301h May 2017.
+At eight (8) drawings approved between 31't July 2017 and 30th May 2017, this is a slippage from the
+previous period's figures, and your progress rate remains below the required rate needed to recover
+from the serious delays incurred towards all succeeding phases that follow drawings development.
+We advise you to continue to mitigate and recover your shop drawings activities, including adding
+resources in an effo rt to aid the recovery process.
+A.2) Status Building Information Modelling (BIM)
+Our records (Refer to Attachment 2) depict that you have submitted 212 models out of the tot al 247
+(85.8% compared to the planned 100%), your BIM model submittal status as of 31st July 2017 is as
+follows;
+Out of the targeted total of 247 models you have submitted 212 models where 15.3% are approved
+models {38 models), 48.6% are partially approved models -code 2*- {120 models), 3% under review
+(9 Models), 14.2% not submitted (35 models not yet submitted) and 17.8% are unresolved models
+due to your BIM shortfalls (44 models), these figures exclude the omitted items.
+In addition to the continuing disturbing status, we flag out that some models has been in an inactive
+since twelve months! These models are overdue and reached a critical state were their absence is
+preventing Other Subcontractors from proceeding with their coordination models and consequently
+their onsite works, particularly the following models;
+• Lifts Enclosures models,
+• Levels CP 0.0 and CP 0.1 models,
+• All models for doors across all piers including gatehouses doors
+
+• Glass Screens models for CP L2 .0 and L3.0
+In addition to the belated models mentioned above we also, put on record the following issues that
+we raised to you via official BIM transactions (as sighted), but they remain unresolved -some as late
+as fourteen months;
+This situation has not improved for many months now, and despite our recurrent notices, warning
+letters and repeated calls for you to provide an organizational structure for your BIM resources, and to
+device a recovery plan to recover from these delays. Unfortunately, we record that you have failed to
+carry out any of these instructions, and the BIM models development and coordination state is
+continuing to worsen in regards to slippages and time delays.
+Considering this poor state of affairs, we reserve our rights to deploy additional BIM resources to aid
+you in recovering the long-overdue BIM models, taken into consideration that the additional
+resources shall work in tandem with your team and you will be back-charged for these resources
+accordingly; nonetheless this this will not alleviate you from your responsibility towards providing
+necessary resources to recover from the poor status of progress of the models submission particularly
+those that are still unresolved to date (32% or 81 models not yet resolved or not submitted for more
+than 12 months now).
+A.3) Submittal and Approval of Mock-ups
+Our records indicate that as of 301
+h July 2017 the following Mock-Ups are still unapproved # MSA,
+MSC, M44, M10, M38, M13, M14, El, M45 and M21 to an array of reasons. This status remained
+unchanged for the past Fourteen months (ONE YEAR, TWO MONTHS!) despite our numerous notices
+over the past periods. (Refer Attachment 3)
+Regrettably, you have failed to assign any recovery effort as instructed throughout our previous
+instruction, in particular MTB/TCA/ ALGHURAIR/l/000523 and 0664, and your lack of action is causing
+unrecoverable slippages to the mock-up approval and subsequently the entire activities that follow
+the approved mock-ups namely, Engineering, Procurement, and Installation.
+Given that mock-ups are a predecessor to the fabrication and construction of the mock-ups
+themselves and actual site construction of the permanent items, and considering that you lost 14
+
+months without resolving mock-up issues, and notwithstanding culpable delays issues; we reiterate
+our instruction that you need to take a serious action to address this chronic issue, starting by
+assigning an accountable and responsible team to liaison with our construction department to foresee
+the resolution of any mock-up residual issues.
+Given this state, we are left with no other option but to reserve our right to back charge you towards
+any damages direct or otherwise that may be attributed to this long overdue and critically delayed
+project deliverable.
+B. Delays to Material Submittal, Order and Fabrication
+B.1 Material Submittal & Approval
+Reference is made to (Attachment 4) that details that as of 301
+h July 2017 the remaining materials that
+are yet to be submitted and the materials that were submitted but has failed to meet approval
+standards
+8.2 Material order, Fabrication and Delivery
+Our records that pertain to material order and fabrication as of 31st July 2017 (refer to Attachment 5)
+indicate that you have cumulatively released 75,208.01m2 for fabrication out of the total glass scope
+of 108,000 m2
+, and out of that, you have dispatched a mere 44,797.48 m2
+•
+These figures show that you have redirected some scope from your fabricator "Golden Glass" and
+given it to others to fabricate, and despite this we still record that between the 31st July 2017 and 30th
+May 2017 (the date of the previous notice), you have only managed to fabricate and dispatch to site
+6,470 m2 - or less than 6%- only over 60 days.
+C. AGC's Failure to Plan the works and report Status
+Our records indicate that you continue to fail to provide us with systematic and coherent updates on
+your approved program which run contrary to clause 12.27 of the Subcontract conditions (Progress
+Reports); in addition you are still failing to provide proper weekly progress reports.
+The lack of proper progress reporting prevents us from establishing your own status as reflected by
+
+your program; it also prevents any tangible assessment of delays and consequently affects the
+mitigation timing and quantum. In addition, the applicable claims method for Time Impact Analysis
+(Ref. Contract Clause 27 .2) is dependent in its mechanics on the provision of monthly updates of the
+program.
+Accordingly, we notify you that we reserve our rights to block all preliminaries payments related to
+planning and progress monitoring from your progress payments until your deliver on these items as
+you expected to, (i.e. planning and progress reporting)
+D. On Site Construction and Installation Delays
+Your onsite installation figures as of 02"d Aug 2017 are as follows;
+Given the noticed delays in Engineering submittals, mock-ups, material fabrication, material delivery,
+your construction figures is ought to reflect the same level of poor performance and delays. In figure
+terms, the above figures depict is that you have managed to install only 6,598 m2 of glass (6.1%) in 62
+days, given that you are yet to complete the remaining 76,8142 m2
+, therefore its evident that at rate
+of this progress you will surpass the project completion date which is clearly not acceptable .
+Your deployment of mitigation measures such as those suggested and listed in the first page of this
+notice is imperative to recover from the above-mentioned status and achieve compliance with your
+contractual obligations.
+E. Failure to substantiate entitlement for claims made for time and money compensation.
+Your Submission reference CONQS/DP/RJ/15/0360 dated 141
+h of July 2015 remains without any
+substantiation entitlement to the claimed time and money despite our requests made through the
+referenced notices.
+Equally your claim CONQS/AH/OAR/16/0521 was sent without any digital files (later sent by 281
+h July
+2016 via your transmittal no. 0557) but remains without any substantiation exactly like your previous
+claim (ref# 0360).
+We have met with your planning and claim team in late Feb 2017 and explained that the lack of
+
+substantiation, cross referencing or any form of evidence to the alleged events is stopping us from
+assessing any of them, and overall we cannot commence evaluating the claimed periods and
+ultimately. Subsequently no determination from our part on time and costs is possible until such time
+where you provide substantiation evidence to these claims. Unfortunately we record that you have
+not submitted any substantiation requirements to date.
+We reiterate again that the absence of supporting particulars and substantiation evidence, is contrary to
+the contract clauses requirement 10.3.3(c), 27.1.3, 27.1.4 and other relevant clauses, and ultimately
+prevents the successful assessment of the claim as it will be deemed incomplete and unjustifiable.
+Conclusion
+Based on the above we are issuing you this notice pursuant to Subcontract clauses 12.11, 16.6, 22.1 for
+the above referenced delays.
+We reiterate that all associated delays, costs, losses and/or expenses incurred by the Contractor and/or
+other
+Contractors and/or Subcontractors and the Employer arising as a result of the above shall be recovered
+from you in accordance with the Subcontract clauses 10.3, and 16.6.1 in addition to other relevant
+contract clauses.
+Unfortunately, you have elected not to respond in a timely manner to our previous notices; and
+moreover and much to our disappointment- your late responses attempted to pass the blame to others
+but your selves, which obviously serves no tangible outcome towards recovering from these delays, you
+apparently have yet to take necessary actions in this regard
+Whilst we responded to you in a detailed fashion, we kept notifying you and issuing you with these
+'Notice to
+Correct' in order to allow you to rectify your failures within a reasonable time, sadly the delays
+expanded to a state were the Employer took notice and is sending TCAJV an array of notices depicting
+you're your own
+delays and calling upon immediate and swift action towards recovery of delays.
+As such, we urge you to treat this notice in a diligent manner and cooperate with our efforts to deploy
+the
+required remedies as stated above in order to avoid unnecessary disputes, thus potential losses. We
+also
+remind you of Sub-Clause 16.5.3 (b) in respect to your 'express' responsibility to mitigate the delays. This
+clause is clear regarding the consequence of 'failure to comply'. Therefore, we urge you to start taking
+mitigation measures by working at the available work fronts and assigning adequate manpower to
+recover
+
+your own delays.
+We trust you find the above self-explanatory and we look forward to your continued action and support
+on
+this project.
+Yours faithfully

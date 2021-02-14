@@ -1,76 +1,37 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0159
 
-Security System (Security Access Control and Video Surveillance System) – Snagging, De-snagging and
-Defects Management
-Unreasonable Snagging and De-Snagging Comments Uploaded to ZUTEC
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays to the Works due to unreasonable snagging items
-being uploaded to ZUTEC associated with non-existent Security Systems elements (Security Access
-Control System – ‘SACS’ and Video Surveillance System – ‘VSS’) snags and unnecessary ‘duplications.’
-Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-impacting on MS06A and MS06B. This will invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delays and/or disruption to the Works.
-Kindly ensure that such matters are actioned immediately upon receipt of this e-notice.
-Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We write to notify you of appreciable concerns we have in relation to multiple unfounded comments
-being uploaded by you on the ZUTEC system; primarily issued in relation to purported ‘snags’ raised
-against the Security Systems (Security Access Control System – ‘SACS’ and Video Surveillance System –
-‘VSS’) in various rooms when in fact no elements have been installed by us and as such do not warrant
-uploading to ZUTEC. This unreasonable practice has to cease forthwith but in the meantime continues
-to have major ramifications on Room Completion, Snagging, De-Snagging and Defects Management.
-As we are sure you appreciate, the ZUTEC system is completely ‘fluid’ and changing daily. However, at
-the date of preparing this E-Notice, there are approximately 168,000 snags uploaded to the ZUTEC
-system, out of which, approximately 5,560 concerns the Security Systems. Unfortunately, out of these,
-you have erroneously identified 750 individual ‘snags’ allegedly relating to the SACS & VSS in rooms that
-do not have any elements installed within them as per IFC and approved SD. This in itself causes
-immense problems in so far as we are forced to unnecessarily close out a ‘snag’ on the ZUTEC system
-that in reality does not actually exist. Very simply, once such a ‘snag’ has been entered onto ZUTEC, in
-order to clear this [even though it does not exist] we have to provide a ‘clearance sheet’ to mark the
-room areas as “Security System for this room area is Not Applicable (N/A)”, as well as attach extracts
-from both the corresponding Shop Drawing and IFC Drawing in order to prove that there are no Security
-Systems trades within that particular room / area.
-Not only does this take up unnecessary administrative time given that it takes at least 30 minutes to
-review, identify and upload the relevant supporting information to ZUTEC, but also affects our defects /
-snagging team on site in terms of them having to inspect then re-inspect areas and rooms which would
-not be necessary but for your unreasonable practice of erroneously identifying alleged defects or snags
-that do not exist. This is a matter that is otherwise wholly avoidable, especially at such a late stage of
-the Project.
+Subject Damage to Live Fire Line on 15 September 2019
+Dear Sir,
+We refer to the incident that took place on 15 September 2019 whilst conducting drilling works for the
+permeation grouting which clashed with a live fire water main and resulted in significant water loss
+into the surrounding ground and we raise the following concerns:
+1. The Contractor failed to adhere to their approved Method Statement, Risk Assessment and
+Project Health and Safety requirements at all times.
+2. The Contractor failed to submit an initial investigation and incident report indicating the root
+cause of this event, within 24hrs of the incident.
+3. To date, the Contractor has failed to report any water seepage I damage to adjacent areas
+that may be impacted by the incident.
+4. To date, the Contractor has failed to survey all existing and known monitoring points, in order
+to determine if any noteworthy change has occurred.
+5. Many of the current As-built Drawings have yet to achieve Code 1 status. The Contractor is
+therefore unable to rely on this information and must exercise all caution at site to verify the
+location of utilities, both permanent and temporary. This is not just limited to the MTB
+Contract but other interfacing Contracts and temporary works installations that may have
+been installed by others.
+6. The Contractor has failed to evaluate at site the accuracy of their As-built Drawings I BIM
+modelling with regard to permanent and temporary utilities I services, and provide a list of all
+latest drawings being utilised at site. A permit to excavate I drill must be developed with an
+adequate clearance form signed off by the Contractor and all relevant Subcontractors and the
+respective HSE department, prior to commencing works.
+7. Given the above failures, the Contractor is to demonstrate the integrity of their procedures
 
-What is particularly disconcerting is that the number of incorrect snags/de-snags in ‘N/A room areas’
-uploaded by you to ZUTEC seems to be increasing on a regular basis. Therefore, we urge you to take
-immediate and appropriate action and avoid uploading any further similar ‘N/A’ snags/de-snags.
-In addition to the foregoing, our ability to close out snagging and complete rooms is being further
-hindered by numerous unnecessary duplicated items being uploaded to ZUTEC by you, which for
-example consists of the same Security System element installed at the same location, which despite
-being identical are nevertheless being uploaded with a different reference number.
-Examples of this unnecessary duplication include the following:
-•
-“18 - Documentation Fail- Provide Code-2 comment sheet” and “18 - Documentation Fail - Final
-punch list to be done and provide the appropriate document” – in reality is the same defect description
-with same document to be attached, both with different snag IDs; and
-•
-“18 - Documentation Fail - Final fix inspection to be done and provide the code 2 comment
-sheet.” with snag number 00042846 and “18 - Documentation Fail - Final punch list to be done and
-provide the appropriate document” with snag number 00042849 both raised for the same room “C-L202585-FOOD & BEVERAGE” on the same date.
-In view of the high volume of snagging items that need to be closed and actioned, and the current acts
-of prevention outlined above that is impacting and continues to impact on our ability to expedite room
-completions and conclude our Works throughout the MTB, we urge you to immediately desist from
-raising unnecessary snags and uploading the same on the ZUTEC system. As outline above, this is wholly
-avoidance and is unnecessarily delaying us for which you hold you entirely culpable.
-Resultant Impact
-Meanwhile, the various delays and acts of prevention on your part outlined herein is undeniably causing
-delay and disruption to completion of our Works and is continuing to prevent achievement of Milestone
-MS06A and Milestone MS06B. This will invariably knock on and impact upon our ability to achieve
-Milestone MS09B and prevent us from achieving Substantial Completion (Milestone MS09C).
+through identifying existing underground utilities and services via trial trenches, scanning
+equipment, red-line marking, etc. and to establish necessary precautions, permits, and
+incident response plans for drilling around live/existing utilities.
+8. The Contractor is to consider submitting a setting-out survey report for the drilling location
+and justify and verify any clashing between utilities and drilling points.
+We advise that the Contractor will be held responsible for all costs associated with any remedial works
+necessary and that may be required to the surrounding ground consequent to any damage as a result
+of collapse due to the water accumulation within the open trenches.
+We hereby reserve the Employers' rights under Clause 10.3 of the Conditions of Contract for any
+delays and damages associated with the above.
 Yours faithfully,

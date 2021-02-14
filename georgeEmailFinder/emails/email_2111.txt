@@ -1,38 +1,125 @@
-
 Dear Sir,
 
-We refer to letter ref. M006-LBE-COM-LTR-01162 in which Qatar Rail issued a Direction under SubClause
-13.2.1 for the Contractor to submit a quotation for a variation proposed by the Engineer.
+Further to the Engineer's Instruction Nr.82 of reference 4) issued pursuant to General Condition ("GC")
+13.1.1 of Volume 3 of the Contract, the Contractor encloses herewith full particulars of its actual design
+costs related to the varied requirement with respect to the Autowalks (Moving Walkways).
 
-The requested information was due for submission on 26 August 2015. You are requested to submit the
-requested information without further delay.
+The relevant Fee Change Notice (FCN) 071 includes payment requests from Atkins on account of other
+design changes as well which are not related to the Engineer's Instruction Nr. 82 and hence no reference
+has been made herein. Those shall be addressed by the Contractor under a separate cover in due
+course.
+
+As a direct consequence of this instruction to vary the works, the Contractor instructed Atkins to
+perform additional work and has received a notice for additional payment by Atkins on account of the
+additional design works entailed. Those can be summarized as per the following table:
+
+FCN 071
+(Travellators)
+date (OAR)
+
+Amount claimed by Atkins (OAR)
+
+Atkins Lead Desiqn
+
+2,961 ,955.12
+
+1,319,471.98
+
+Atkins MEP Design
+
+0.00
+
+0.00
+
+Atkins Total
+
+2,961,955.12
+
+0.00
+
+1,319,471.98
+
+A LYSJ JV Determination (OAR) Amount paid to
+1,319,471.98
+
+113191471.98
+
+Table 1) FCN 071 (Travellators): Amounts claimed by Atkins, AL YSJ JV Determination for the same and
+payments to date
+As detailed herein, the Contractor estimates that OAR 1,319,471.98 is a fair and reasonable
+compensation to Atkins against the originally claimed value of OAR 2,961,955.12 which was, at the
+Contractor's opinion, overstated both in terms of the applicable staff rates and the respective time
+spent.
+
+The Contractor has enclosed as attachment 1) to this letter its determination of FCN 071.
+
+Whilst noting that none of its aforementioned determination amounts have been agreed with Atkins as
+full and sole compensation with the entire balance being the subject of an ongoing dispute, the
+Contractor has nevertheless paid the amount of OAR 1,319,471.98 already, for which proof of payment
+in the form of electronic payment (wire transfer) documents has been enclosed as attachment 2).
+
+In any event, and whilst noting that the FCN 071 determination amount may be subject to further
+change, the Contractor kindly requests the Employer to proceed with an interim, on-account payment of
+its current determination value plus 12% for profits and overheads, in the net amount of QAR
+1,477,809.00.
+
+Such payment would be of invaluable assistance to the continued financing of the Project. Yours
+faithfully,
 Dear Sir,
-The Engineer's Assistant refers to item 2 above whereby the Contractor was required to provide a more
-thorough estimate. The Contractor is required to submit an estimate with the potential scope
-requirements including Provisional Sum works. Specifically it has been noted previously:
 
-1.
-Contractor is required to consider and submit additional cost estimates associated with design
-work for the MEP and Architectural Finishes.
+Further to the Engineer's Instruction of reference 4) issued pursuant to General Condition ("GC") 13.1.1
+of Volume 3 of the Contract, the Contractor encloses herewith full particulars in relation to the varied
+scope, quantities and direct costs in accordance with its GC 13.2.2 obligations.
 
-2.
-Contractor is required to consider and submit additional cost estimates associated with bo.th
-MEP and Architectural Finishes work. Although these specific estimates would be within a provisional
-sum contract scope, the Engineer's Assistance requires reasona_ble estimates, broken down into several
-activities, with qualifications and I or contingency factors (such as a percentage allowance) due to the
-lack of detailed design information. It is assumed Contractor should be able to provide such a
-breakdown and assessment based on the drawing information provided with item 1 referenced above.
+The Contractor's detailed valuation of this variation is enclosed as attachment 1 to this letter and further
+summarized in table 1) below. Further supporting particulars in relationto the Contractor's pricing
+methodology can be found in attachments 2, 3 and 4 .
+
+S/N
+
+Additional Works
+
+1)
+
+Earthworks
+
 2)
 
-M006-QRC-EOF-LTR-00062 dated I September 2016
+Concrete Works1,048,438.27
 
-Dear Sir,
+3)
 
-Engineer's Assistant refers to Contractor's letters referenced 2), 3) & 4) above, wherein the Contractor
-submitted pa1tial quotations for the National Museum of Qatar (NMQ) Entrance 3.
+Design Works 1,928,737.80
 
-Contractor is requested to compile an all-inclusive quotation in accordance with Volume 3, Sub-Clause
-13.2.2, while noting the capped value of QAR 18 million agreed in Heads of Tenns.
+4)
 
-The Contractor shall submit the all-inclusive quotation within 5 days of receipt of this letter.
+KONE Works
+
+Total(QR)
+
+Amounts (QR)
+
+611,051 .30
+
+TBC
+
+3,588,227.37
+
+Table 1) Summary of El82 Valuation
+
+ALYSJ
+joint venture
+
+The main repercuss ion of changing Volume 6, Section 13, Items 13.3.3.12.a.(iii) and 13.3.3.12.e.(i) via
+letter reference 4) is an overall increase to the travellators ' length which has modified the respective
+subways' base slab profiles resulting to additional concrete and earthwork quantities.
+
+The evaluation of additional costs associated with the enlarged travellators and ancillary equipment is
+currently ongoing and shall be made available to the Engineer's Assistant for review immediately upon
+receipt of the same by Mis Kone.
+
+The interim adjustment of the Contract Price is therefore of the net amount of QR 3,588,227 .37. The
+Contractor reserves its rights to recover any time related costs in connect ion to this Variation which
+shall be addressed under a separate cover.
+
 Yours faithfully,

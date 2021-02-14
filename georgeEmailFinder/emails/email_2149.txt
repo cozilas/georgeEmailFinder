@@ -1,39 +1,56 @@
 Dear Sir,
+This is a direction under Sub-Clause 13.2.1 where Contractor is required to submit a detailed priced
+quotation and a separate programme for time impacts regarding the design development and
+construction of a Pedestrian Underpass at Souq Waqif Station.
 
-This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
-execute a variation. The nature and extent of the variation is provided below.
-The following Employer's Requirements:
+The Scope of work involve i n this direction:
+1.
 
-Volume 6, Sub-Clause 13.3.4.6 a) ii Delete the following Sub-Clause:
+Deletion of pedestrian entrance and all associated works:
 
-"50% of the lighting luminaries shall be equipped with batteries (self-contained) for 1.5 hours, to avoid
-total darkness in the event of failure of the normal power supply."
+2.
 
-And replace with the following:
+Amendment of pedestrian underpass alignment as per attached sketch;
 
-Within the tunnel, fifty percent (50%) of the lighting luminaires shall be powered by the Uninterrupted
-Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwor k Contractor) to provide
-the minimum required luminance level for 1.5 hours.
+3.
 
-The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
-the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries. Both power cables shall be
-Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
-to IEc 60331 and Steel Wire Armoured (SWA).
-Volume 6, Sub-Clause 13.3.4.6 a) iv Delete the following Sub-Clause:
+Optimisation width to be 7.8m (between exlernal face of outer walls) ;
 
-"30% of the cross passage lighting luminaries shall be equipped with self-contained batteries (selfcontained - non maintained) for 1.5 hours, to avoid total darkness in the event of failure of the normal
-power supply."
+4.
 
-And replace with the following:
+Addition of emergency stairs.
 
-Within the cross passages, thirty percent (30%) of the lighting luminaires shall be powered by the
-Uninterrupted Power Supply (UPS) system (provided by Systems, Rolling Stock and Trackwork
-Contractor) to provide the minimum required luminance level for 1.5 hours.
+Contractor i s required to break down the priced submission on the following basis:
+•
 
-The Contractor shall provide the power cables from the UPS Sub-Main Distribution Board (USMDB) to
-the local UPS Distribution Boards (UDBs) and from UDBs to the luminaries . Both power cables shall be
+Detailed design of Pedestrian Underpass for civil and structural;
 
-Low Smoke Zero Halogen (LSOH) according to IEC 61034 and IEC 60754, Fire Rated/Resistive according
-to IEc 60331 and Steel Wire Armoured (SWA).
+•
+
+Construction of Pedestrian Underpass for civil and structural;
+
+•
+
+Detailed design of Pedestrian Underpass for MEP works and Architectural finishes .
+
+•
+
+Fit-Out of Pedestrian Underpass for both MEP and Architectural Finishes work;
+
+•
+
+Detailed design of any required Utility Diversions ;
+
+•
+
+Utility Diversion work;
+
+•
+Detailed design and construction of any other relevant works deemed necessary by the
+Contractor.
+
+Contractor is to note that at this time the price quotation is to be submitted on the basis of a best
+estimate of plus (+) or Minus (-) fifteen percent (15%).
+The C ntractor is required to submit the quotation on or before 29 November 2015.
 
 Yours faithfully,

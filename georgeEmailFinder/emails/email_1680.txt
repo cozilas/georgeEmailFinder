@@ -1,85 +1,63 @@
 Dear Sir,
 
-Further to the Contractor's Initial Formal Submission (Revision 0) under cover of reference 7), March
-2016 update and April 2016 update under cover of references 4) and 3) for Extensions of Time, Payment
-for Additional I Varied Works and Reimbursement of Prolongation Costs, the Contractor confirms
-pursuant to Sub-Clause 20.1.6(b) of the General Conditions of Contract (Volume 3), that the following
-updated additional costs in relation to Claim No.047 have been incurred by the Contractor since our
-April 2016 update, subsequently, the Contractor provides this May 2016 monthly update.
+Further to the Engineer’s Instruction Nr.96 of reference 2) issued pursuant to General Condition (“GC”)
+13.1.1 of Volume 3 of the Contract, the Contractor encloses herewith full particulars of its actual design
+costs related to the amendment of the remote entry at Doha Zoo Station.
 
-The Contractor has now revised the costs incurred with Claim No.047 up to 31 May 2016.
+As a direct consequence of this instruction to vary the works, the Contractor instructed Atkins to
+perform additional work and has received a notice for additional payment by Atkins on account of the
+additional design works entailed. Those can be summarized as per the following table:
 
-Finance Charges
+FCN 101
 
-The Contractor has incurred financial costs upon all costs associated with this Claim No.047 and
-accordingly claims reimbursement of same.
+Amount claimed by Atkins
 
-The Contractor has been charged 4.25% per annum for finance. Therefore, the financ ing costs incurred
-with respect to this Claim to date are:
+(QAR) ALYSJ JV Determination
+(QAR) Amount paid to date
+(QAR)
+Atkins Lead Design
 
-(Total cost of Claim up to 31 May 2016 excluding finance costs) x (Period of time from date the
-Contractor received EA's Instruction I Variation Letter ref: M006-LBE-ENG-LTR-00524 on 28 December
-2015 to 31 May 2016) implies 156 days.(156) I 365) x 4.25%
+317,047.28
 
-Total costs of Claim to date excluding finance costs is:
+148,872.33
 
-Qatari Riyals
+Atkins MEP Design
 
-The date that the Contractor commenced incurring costs was 28 December 2015 , the period of days
-from 28 December 2015 to 31 May 2016 is 156 days.
+0.00
 
-The Contractor has calculated the finance charges as detailed below:
-(3,605,060 .47) x (156/365) x 4.25% = QAR 65,483.70
+0.00
 
-The Contractor's Overheads and Profit (OHP) accrued on finance charges incurred is 13% as the
-following :
-QAR 65,483.70 x 13% = QAR 8,512.88
+Atkins Total
 
-The Contractor has calculated the total finance charges including OHP as detailed below:
+317,047.28
 
-Contractor 's Financing Costs
-QAR 65,483.70 + QAR 8,512.88 = QAR 73,996.58
+0.00
 
-Total costs of Claim to date including finance costs is:
+148,872.33
 
-Description of Value/Cost
-Qatari Riyals
-Contractor's Direct Costs
-TBC
-Contractor 's Lead Designer's Costs
-Atkins Fee Change Notice No. 118 - Dated 29 February 2016 Page 5
+148,872.33
 
-1,815,930.00
-Contractor's MEP Designer's Costs
-Atkins Fee Change Notice No. 118 - Dated 29 February 2016 Page 5
+148,872.33
 
-1,374.389.00
-Contractor's Architectural Finishes Designer's Costs (Awaited)
+Table 1) FCN101: Amounts claimed by Atkins, ALYSJ JV Determination for the same and payments to
+date
 
-TBC
-Contractor's Vertical I Horizontal Transportation Subcontractor 's Costs (Awaited)
-TBC
-Contractor's Controls Subcontractor's Costs (Awaited)
-TBC
-Contractor's Design Verification Engineer's Costs for Lump Sum Works (Awaited)
-TBC
-Contractor's Design Verification Engineer's Costs for Provisional Sum Works (Awaited)
-TBC
+As detailed herein, the Contractor estimates that QAR 148,872.33 is a fair and reasonable compensation
+to Atkins against the originally claimed value of QAR 317,047.28 which was, at the Contractor’s opinion,
+overstated both in terms of the applicable staff rates and the respective time spent.
 
-Contractor's Overheads & Profit
-414,741.47
+The Contractor has enclosed as attachment 1) to this letter its determination of FCN 101.
 
-Contractor's Financing Costs
-73,996.58
+Whilst noting that none of its aforementioned determination amounts have been agreed with Atkins as
+full and sole compensation with the entire balance being the subject of an ongoing dispute, the
+Contractor has nevertheless paid the amount of QAR 148,872.33 already, for which, proof of payment in
+the form of electronic payment (wire transfer) documents has been enclosed as attachment 2).
 
-Total of Claim 047(to date)
-3,679,057.05
+In any event, and whilst noting that the FCN 101 determination amount may be subject to further
+change, the Contractor kindly requests the Employer to proceed with an interim, on-account payment of
+its actual design costs incurred plus 12% for profits and overheads, in the net amount of QAR
+166,737.01.
 
-Accordingly, the total Claim No. 047 as at 31 May 2016 is QAR 3,679,057 .05.
-
-As the event giving rise to this Claim has a continuing effect, the Contractor is still collating further
-particulars, the Contractor shall be submitting further interim Claim submissions related to the event
-giving rise to the optimisation of Pop-Ups - Supplementary UPS/Battery Room at monthly intervals
-pursuant to Sub -Clause 20 .1.6(b) of the General Conditions of Contract.
+Such payment would be of invaluable assistance to the continued financing of the Project.
 
 Yours faithfully,

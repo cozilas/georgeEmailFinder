@@ -1,33 +1,30 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0132
-Provision of Additional Data Outlets for Existing Flight Information Display Screens to Check-In
-Island in Sector 5.22B to Level L2.0 – Engineer’s Response to RFI/0401/17254 – Request for Engineer’s
-Instruction and Variation Order
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0126
+Changes to Contour Levels by the Employer
+Request for Engineer’s Instruction (RFEI) / Variation Order (VO)
 Dear Sir
 Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
 submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
-
-Overview
-The matters described in Annex A concern delays associated with the provision of additional data
-outlets required to Sector 5.22B to L2.0, introduced through the response to RFI/0401/17254.
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+The matters described in Annex A concern delays and disruption to the Works due to the revised
+contour levels issued by the Engineer, which require a valid EI and VO in order for us to proceed.
 Potential Impact
-Delays and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
 Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
+
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
 resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
 Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
 Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
 the Time for Completion and any associated costs arising from the event(s) described herein.
 ANNEX A
 Description of the Event
-On 2 July 2019, we raised RFI/0401/17254 (dated 30 June 2019) entitled ‘Data outlets removed for
-existing FIDS [Flight Information Display Screens] (check-in L2.0-5.22B)’, having identified in certain
-information previously provided by the Engineer relating to the location and quantity of data points to
-the FIDS, where the data points had previously been deleted; requesting your advice on the same.
-Despite us requesting that you reply to RFI/0401/17254 by 10 July 2019, you failed to respond until 14
-calendar days later i.e. on 24 July 2019, as shown in Table 1 below. Moreover, your response directed
-us to reinstate the FIDS outlets as per the sketch attached thereto (Figure 1 below refers).
+Background
+Between 25 July 2018 and 4 November 2018, we raised a series of five (5) RFIs in the manner shown in
+Table 1 below, attached to which was a ‘final study’ [by way of individual spreadsheets] recording the
+cover levels for each of the noted utilities, requesting your assistance with checking the schedule against
+the notes detailed in the body of each RFI, and asking for confirmation of the same.
 Table 1
 Date Submitted RFI Ref: Rev
 Description
@@ -35,33 +32,212 @@ Reply Req’d By Date
 Response
 Received
 Overdue By
-02-Jul-19
-RFI/0401/17254
+Rev. 01 Response Rec’d
+25-Jul-18
+RFI/0401/16325
 00
-‘Data outlets removed for existing FIDS (check-in L2.05.22B)’ 10-Jul-19
-24-Jul-19
-14 days
-Figure 1
-It is patently clear that the information reflected in the ‘modified’ sketch attached to your response to
-RFI/0401/17254 represents a change to the existing design and a change to our scope of works.
-This is likely to involve inter alia the pulling of new data cables to the new location from the nearest
-Satellite Communication Room (SCR) by the Information Technology subcontractor, BOND.
-In order for us to undertake and instigate changes such as those noted herein, we will require fully
-coordinated revised IFC Drawings encapsulating the changes introduced in your RFI response, and
-further remind you that SAA8 laid down mandatory procedures to be followed if additional works are
-required, in so far as an EI and VO are needed for us to proceed with the aforementioned changes.
-The provisions of Clauses 2.29 to 2.31 of SAA8’ pertaining to Variations are clear; we are not to proceed
-with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In which
-respect, it is your obligation to issue this Record first if you wish to instigate change; this is only after the
-additional time and/or costs impacts have been agreed between us beforehand.
-Therefore, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
-we are unable to proceed with implementing the changes noted above and will continue to proceed in
-accordance with the existing IFC design to the extent we are able to. We trust this is clear.
-Potential Impact:
-We note that the foregoing events and/or circumstances may delay completion of Section 5.22B to Level
-L2.0, and your / Employer’s Design Consultant’s requirement to introduce fundamental changes to the
+Clarifications on cover level[s] for Landside Sewer
+Manholes prior [to] casting
+01-Aug-18
+27-Aug-18
+26 days 01-Aug-18
+RFI/0401/16355
+00
+Clarifications on cover level[s] for Landside IT pits
+prior [to] casting
+07-Aug-18
+14-Oct-18
+68 days 25-Mar-19
+20-Sep-18
+RFI/0401/16457
+00
+Clarifications on sewer manhole cover level[s]
+(ref: RFI/0401/16325) 28-Sep-18
+14-Oct-18
+16 days 25-Mar-19
+20-Sep-18
+RFI/0401/16458
+00
+Clarifications on storm manhole cover level[s]
+(ref: RFI/0401/16326) 28-Sep-18
+14-Oct-18
+16 days 25-Mar-19
+04-Nov-18
+RFI/0401/16556
+00
+Clarifications on cover level[s]
+fort Landside Potable Water Manhole prior [to] casting 11-Nov-18
+23-Dec-18
+42 days 25Mar-19
+In broad terms, each of the attached ‘studies’ records the total number of pits or manholes that are
+then sub-divided between various categories, recording whether the pits or manholes are located in:
+•
+Landscaped areas;
+•
+Asphalt areas;
+•
+Road Pavement areas; or
+•
+Walking Pavement areas.
+Very simply, the main body of each RFI summarises the various utilities according to each category and
+identifies whether there is a discrepancy between the landscaping contour and the approved pit or
+manhole levels and requests your approval to our various suggestions to overcome this; or where the
+two match, then we requested your approval so that we could proceed to cast the pit top slabs.
+In the event, despite requesting your response by the ‘reply required by’ dates shown in Table 1, you
+failed to reply to each of the noted RFIs by periods of between 16 and 68 calendar days later.
+A brief summation of the responses to each RFI follows:
+RFI/0401/16325
+Attached was an amended schedule of the sewer manhole indicating revisions to the cover levels where
+the Design Consultant’s (KPF) response records we had provided a CAD file on 13 August 2018 that was
+used as the basis to calculate the levels. This also records that the levels in the landscaped areas are for
+the Employer to decide; albeit the Landscape Consultant’s reply was shown as ‘N/A’.
+RFI/0401/16355 (ref: 1)
 
-electrical installations such as those outlined above, particularly at such a late stage of the Project, will
-invariably impact on our ability to obtain the Building Completion certificate (BCC).
-This is essential to achieving Milestone MS09B and may impact MS09C (Substantial Completion).
+Attached was an amended schedule of the IT pits indicating revisions to the cover levels where the
+Design Consultant’s (KPF) response records we had provided a CAD file on 13 August 2018 that was used
+as the basis to calculate the levels. Also attached was a sketch drawing showing the related areas
+affected by change. On this occasion the Landscape Consultant responded and confirmed that two
+workshops had been held on 20 and 24 September 2018 and the attached schedule and sketch reflects
+the Landscape Consultant’s response to those workshops. This also records e-mail exchanges between
+us [the Contractor] and the Employer [ADAC] at end of September / early October 2018 that there is no
+additional time or costs associated with us accommodating the revised contour levels.
+The response also records that the potable water manhole cover levels were to be determined once it
+received a potable water manhole spreadsheet from us that warrants a further RFI to be raised.
+RFI/0401/16457 (ref: 2)
+Attached was an amended schedule of the sewer manhole indicating revisions to the cover levels albeit
+on this occasion the Design Consultant’s (KPF) simply records that the levels in the landscaped areas are
+for the Employer to decide; albeit the Landscape Consultant’s reply was shown as ‘N/A’.
+RFI/0401/16457 (ref: 3)
+Attached was an amended schedule of the sewer manhole indicating revisions to the cover levels albeit
+on this occasion the Design Consultant’s (KPF) simply records that the levels in the landscaped areas are
+for the Employer to decide; albeit the Landscape Consultant’s reply was shown as ‘N/A’.
+RFI/0401/16458 (ref: 4)
+Attached was a revised schedule of potable water manholes indicating revisions to the cover levels
+together with a sketch drawing showing the related areas affected by change. On this occasion the
+Landscape Consultant responded by stating that the potable water manholes were agreed during a
+workshop held on 19 November 2018 and that all levels except for MH4 had been agreed; it also
+recommended reducing levels to avoid the need for a retaining wall in the area between manholes.
+Recent Events
+However, on 3 March 2019, we received an e-mail from you [timed at 5:10 PM] which in addition to
+recording the above events, also advised us that following a further review of the contour levels and
+water feature utilities, further changes to the landscaping levels were to be made. Amongst other
+things, you asked us to agree to changes in levels in exchange for the removal of the crib [retaining]
+walls at no extension of time or cost. You also requested confirmation as to when the works to Zone 1
+(North) and Zone 4 (South) could be handed over to Landscaping and Other Contractors. You further
+advised that the revised details/levels would be issued to us via further RFI response(s).
+We replied on 4 March 2019 [08:35 AM], advising you that “we will complete this … additional work at
+no cost” [emphasis added] on the understanding that the crib walls would be deleted from our scope.
+We further advised that we would come back to you on when the work could be completed.
+Following which on 25 March 2019, we received revised responses to four out of five of the RFIs listed in
+Table 1; annotated as ‘RFI/0401/16355-01’, ‘RFI/0401/16457-01’, ‘RFI/0401/16458-01’, and
+RFI/0401/16556-01’, attached to which were four sketches indicating the revised contour levels [albeit
+they record that an advance copy of the sketches had been issued to us by e-mail on 3 March 2019].
+Additionally, however, the Landscape Consultant’s response also informs us that “The contour lines
+have been further refined to take account of the following additional information:
+1.
+Fire Hydrant Locations,
+2.
+North Embankment Airside Fence Layout
+3.
+VVIP water feature revised piping layout.”
+The revised responses to each of these four RFIs also records that ‘Revision 4 of the [North and South
+Contour] drawings’ was issued to us on 19 March 2019 which shows ‘on the final contour levels’.
+We note that 25 March 2019 is some three to five months after the initial RFI responses were issued.
+
+Nevertheless, receipt of the revised contour drawings on 19 March 2019 triggered a further series of
+discussions between us, which inter alia, subsequently caused us to raise a further three RFIs (refer to
+Table 2 below), that collectively sought to record the outcome of those meetings and by the same token
+requested your confirmation of the revised potable, IT, storm and sewer manhole levels.
+Table 2
+Date Submitted RFI Ref: Rev
+Description
+Reply Req’d By Date
+Response
+Received
+Overdue By
+19-Jun-19
+RFI/0401/17221
+00
+Confirmation of the levels for storm and sewer network
+at the Landside 28-Jun-19
+14-Jul-19
+16 days
+30-Jun-19
+RFI/0401/17244
+00
+Record of revised contour levels received from the
+Client on CD
+at March 2019 08-Jul-19
+14-Jul-19
+6 days
+14-Jul-19
+RFI/0401/17296
+00
+Confirmation of the manhole levels for Potable, Power
+and IT at Landside, L0.0 21-Jul-19
+17-Aug-19
+27 days
+As noted these additional RFIs were raised in order to elicit some form of formal confirmation from you
+as to the following that were discussed and agreed after numerous meetings and, workshops;
+particularly given the fact that the revised drawings were issued to us by hand and not formally:
+•
+Levels for Storm and Sewer networks at the Landside;
+•
+Revised contour levels;
+•
+Cover levels for Potable, Power and IT network at the Landside, L0.0.
+Once again despite requesting your response by the ‘reply required by’ dates shown in Table 2, you
+failed to reply to each of the noted RFIs by periods of between 6 and 26 calendar days later.
+A brief summation of the responses to each RFI follows:
+RFI/0401/17221 (ref: 5)
+The Landscape Consultant confirmed three additional workshops held on 30 May 2019, and 16 and 25
+June 2019, and similarly confirmed that we were to proceed with the revised levels agreed within
+RFI/0401/17221. The Design Consultant’s response also records that ‘As previously agreed between
+Client, Engineer and Contractor, the works must be carried out at no additional cost.’
+RFI/0401/17244 (ref: 6)
+The Landscape Consultant confirmed that Rev. 4 of the drawings had been issued to us on 19 March
+2019 but also records that ‘As previously agreed between Client, Engineer and Contractor, the works
+must be carried out at no additional cost.’
+RFI/0401/17296 (ref: 7)
+The Landscape Consultant confirmed that levels for potable water, power and it manholes are as per
+correspondence attached to the RFI [e-mails dated 10 June 2019 to 4 July 2019] but was to ensure that
+it was to submit the relevant coordinated and updated shop drawings for Consultant’s review.
+Summary
+In view of the foregoing, we put on record that the impact of the further changes to the contour levels
+that were initially promulgated by you on 19 June 2019 and then subsequently agreed during successive
+meetings and discussions throughout June/July 2019, and then subsequently confirmed by you in the
+response to the RFIs referenced in Table 2 above, have affected and are continuing to affect and delay
+our works. Specifically, numerous concrete manholes require to be reinstated along with required
+additional backfilling works. Further details regarding these works are provided below:
+Impact on concrete manholes – the revised manhole cover levels are causing numerous already
+constructed manholes to be reinstated. This will necessitate breaking numerous already constructed
+manholes and reinstating them to the required levels, respectively. This will involve reinstatement of
+the manholes and inter alia include works such as concrete breaking, formwork placement, additional
+reinforcement, re-pouring of concrete, lifting covers, all of which require additional time and cost.
+
+Impact on the backfilling works - additional quantities of backfill materials will be required to achieve
+the revised levels required by you. Once again, this will take time and result in additional cost.
+Therefore, we record that the revised contour levels will require additional works and will impact the
+concrete manholes and also require additional backfilling works as stated above. The additional cost
+[and time] for such works, cannot be construed as having been “previously agreed between Client,
+Engineer and Contractor” on the basis a further set of revised levels were issued on 25 March 2019.
+Under the circumstances, given that these works are additional to our scope, will necessitate that you
+re-issue IFC Drawings under an Engineer’s Instruction / Variation Order, if you require the additional
+work to be undertaken by us. Moreover, for the reasons stated above, we refute the content of your
+subsequent letter (ref: 8), wherein you have notified us regarding an alleged lack of progress of the
+external works and a purported failure to provide access to the landscaping areas to the Employer’s
+Other Contractor (Landscape Contractor) – allegedly due in June 2019. Any verbal agreement that we
+may have made in early March 2019 to complete the contour levelling etc. by 13 June 2019 has been
+negated by the fact that revised levels were issued to us on 25 June 2019. Furthermore, the extent of
+the additional works outlined above consequent on the revised contour levels have caused serious
+delays and are directly affecting the completion of external works and the landscaping areas.
+Furthermore, at the risk of being repetitive, our ability to commence the additional works i.e.
+reinstatement of manholes and additional backfilling works is dependent upon an EI and a VO.
+Accordingly, we take this opportunity in reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing any of the changes outlined and described above.
 Yours faithfully,

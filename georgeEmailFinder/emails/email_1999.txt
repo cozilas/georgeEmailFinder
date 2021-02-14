@@ -1,45 +1,32 @@
-
 Dear Sir,
 
-As we have not received a proper cost estimate as per the original request the Contractor is now
-required to consider the following revised scope of works and the attached conceptual presentation
-whose purpose is to optimise station entrances/ function including the assessment as to whether a
-shelter shall be provided or not and the necessity of waiting areas in specific locations. Final number of
-vertical transportation elements shall be verified against the passenger demand figures by the
-Contractor.
-Provision of retail areas is specifically excluded and is not a requirement. Impact to as built works is not
-foreseen or acceptable.
-No impact on KITO dates is foreseen and Contractor's assessment must verify that there is no impact on
-KITO dates.
-The detailed geometry of the entrance is not part of this proposal and subject to the' detailed design of
-the Contractor, taking into consideration of all constraints, especially from the Public Right of Way and
-adjacent stakeholders.
-The following is a non-exhaustive list of requirements which may be adjusted to achieve the above.
-Furthermore the adjustments will be applied to all entrances that lead directly to underground stations
-and subways:
-The minimum length of run-off areas may be reduced to 4m for types other than A. Run-off areas shall
-not overlap.
-Where waiting areas are required (types BW and BWR), a minimum of 6 seats shall be provided.
-To optimize (reduce) the height of the shelters for all types apart from A, the following shall be
-assumed: lift speed 1m/s, car clear height 2.3m, headroom height 1.4m, min clearance between lift
-enclosure and roof 0.2m.
-For types D and E standalone lifts are acceptable ALYSJ Gold I.Int Underground
-Type E does not have a shelter and the entrance door/Air curtain to the AC controlled area shall be
-provided underground. Adequate signage on the status of the station to be provided at surface level.
+Further to Engineer's direction under letter reference 1) and subsequent receipt of Contractor's
+quotation via letter reference 2), this is a direction under Sub-Clause 13.2.1 of the General Condition of
+Contract, for the Contractor to submit a revised quotation for any both time and cost impact for the
+Variation proposed by the Engineer.
 
-For types C, D and E, vertical transportation in the non-peak direction may be provided by fixed stairs.
+The proposed Variation is to modify the Urban Integration and Interface Plan, and Urban Integration and
+Land Acquisition Plan for Al Sudan (Al Saad Stadium), part of Employer's Requirements Volume 8 as
+below;
+Volume 8 Employer's Requirements-Tender Drawings currently are;
 
-To assess if relaxation of RAM targeUEmployer's Requirement is required for stations which will have
-only one (1) lift per entrance.
-Contractor is required to establish multiple workshops , as required, including design and construction
-staff to assess the scope of works, cost and time impact at each location. Engineer's Assistant is to be
-involved in the process prior to Contractor's response to this 13.2.1 direction.
-Due to the urgency of this request the Engineer's Assistant requires the Contractor to submit the
-response within fourteen (14) days from receipt of this letter.
-Should Contractor not be in a position to provide a quotation for the works within this time-frame,
-Contractor is required nevertheless to provide an Order of Magnitude Cost estimate and statement on
-time impact. It is imperative that the Contractor provides this information to allow the Employer to
-progress with
-ing the change, subject to the Contractor's response.
+Urban Integration and Interface Plan Al Saad Stadium- M006-QRC-UIF-DWG-YWSTSAS-00- 23001 Rev.8
+Urban Integration and Land Acquisition Plan Al Saad Stadium - M006-QRC-LOA-DWG- YWST040-0023001 Rev.8
+The above Employer's Requirements are now modified as;
+
+Sketch 1- Urban Integration Plan, Station Area Planning,Key Plan, Al Sudan - Current RoW - M006-QRCSAP-DWG-YWST040-00-000001
+Sketch 2 - Urban Integration Plan, Proposed RfC - Change of remote entry of YWST040 (Al Sudan station)
+- M006-QRC-SHM-DWG-YWST040-00-000001
+
+Change in entrance type from 'Type B' to 'Type F'
+Accomplishi ng a Vision
+
+The information provided in this direction is consistent with what the Contractor would receive to
+progress the detailed design. The Engineer reminds the Contractor of the Contractor's obligation to
+finalise the exact location and the resulting re-alignment of the relevant subway.
+
+The Contractor has noted the urgency to finalise a decision on this entrance provision within letter
+reference 2). Accordingly the Contractor is required to provide the quotation within seven (7) days from
+receipt of this direction.
 
 Yours faithfully,

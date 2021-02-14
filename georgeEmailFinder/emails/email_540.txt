@@ -1,14 +1,26 @@
-Subject: Unfair comments in response to Document Submittal DS/0401/8280 Rev.
+Subject: Notice to Correct- Continuous failure to provide adequate Supervision
 Dear Sir,
-The Contractor writes with reference to the receipt of the Engineer's Status Code 3 'Revise and
-Resubmit' response to Document Submittal No. DS/0401/8280 Rev. 00 - 'ITF Interface Verification
-Test Procedure for Fire Alarm System and Lighting Control System (FAS-LCS), and wishes to convey
-its displeasure at the Engineer's unfair and unjustified comments issued in relation thereto.
-The IVTP Test Cases have been derived and developed based on the approved FAS LCS lCD and no
-
-reference of the Exit Route lighting scenarios were mentioned and commented in the approved lCD.
-The Engineer is therefore urged to re-consider its comments forthwith and I or further elaborate
-upon the basis of the current Status Code 3 response to Document Submittal No. DS/0401/8280
-Rev. 00 and re-code the document to Code 2 to avoid the unnecessary prolonged approval process
-and delay the Delivery schedule of the IVTPs.
+Further to our email reminder referenced in {3) above, in addition to our numerous reminders through
+meetings and telecommunication, we hereby put on record your continuous failure to provide adequate
+supervision for your scope of works. Please note that this has resulted in poor workmanship as well as
+persistent failure to complete mock-up/benchmark timeously.
+We further put on record that your Project Manager (Mr Andree Exner) violated Project HSE
+requirements
+by going to site using a temporary pass and without first completing the safety induction. In this regard,
+you have been penalised with a fine of AED 5,000.00 along with a AED 150.00 fine for him not wearing
+eye
+protection.
+In view of the above failure, we hereby issue you this Notice to Correct in accordance with Subcontract
+Clause 22 .1 [Notice to Correct] which state;
+11/f the Subcontractor fails to carry out any obligation under the Subcontract, the Contractor may by
+notice
+require the Subcontractor to make good the failure and to remedy it within a specified reasonable
+period."
+Therefore, you are hereby instructed to provide adequate and qualified Supervision for your scope of
+works within seven (7) days from receipt of this letter. In the interim and in the absence of your Project
+Manager, please note that TCAJV will be providing supervision on your behalf hence all relevant costs
+(inclusive of our applicable admin fee) associated with the provision of such supervision will be
+recovered
+from your account in accordance with Clause 10.3 [Contractor's Claims] of the Subcontract.
+This is for your immediate action and attention.
 Yours faithfully,

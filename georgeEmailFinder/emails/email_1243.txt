@@ -1,66 +1,20 @@
-Subject The Contractor's Presentation of "Concurrent Delay" dated 18 January 2017
+Subject: Concurrent Delays of Fire Sealant in L0.1
 Dear Sir,
-We write in response to the above referenced correspondence (1) with regard to the Contractor's
-Presentation of "Concurrent Delay" dated 18 January 2017.
-The Engineer reiterates the contractual requirement for the Contractor to provide an analysis that
-demonstrates concurrent delay. Thus, the Contractor's statement that, "the concurrent delay
-assessment methodology was done so purely out of courtesy to the Employer" has no contractual basis
-and is wholly disregarded by the Engineer.
-The Heads of Agreement (HoA) dated OS March 2015, clearly states that the Contractor's Claim for Cost
-shall be evaluated and agreed in accordance with the provisions of the Construction Contract,
-specifically in this regard, Clauses 16.5.1 (a) to (c), 21.2.1 Conditions of Contract and 1.3.7 of the Project
-Control Requirements. As you are aware, until or unless the Contractor complies with its contractual
-obligations, it is not entitled to any compensation whatsoever for prolongation costs under the HoA.
-The Contractor states that "it was anticipating providing such presentation to representatives of the
-Employer only and was not anticipating the attendance of the Engineer". The relevance of this comment
-is not clear. Regardless of whether or not the presence of the Engineer was anticipated should not affect
-the Contractor presentation in anyway. The Contractor is aware that the Engineer is authorized to
-administer the contract and as such the attendance of the Engineer would surely not be unexpected at
-all meetings that, at a minimum, relate to contractual or commercial issues.
-The Engineer disagrees with the Contractor's opinion that the points raised via correspondence (2) do
-not represent a true and accurate record of the Contractor's presentation and comments as follows:
-The Contractor implies that there is no connection between Time Impact Analysis and concurrent delay
-and asserts that the purpose of the presentation was to present the methodology adopted for the
-assessment of the concurrent delay.
-According to the Contract, and in particular, Clauses 16.5.4, 21.2.2, 27.1, 27.2.2 of the Conditions of
-Contract and Clause 1.3.7 of the Program Project Control Requirements, concurrent delay is expressly
-linked to and part of the Contractor's Time Impact Analysis (TIA).
-Further, during the meeting referred to above, the Employer representatives when commenting on the
-Contractor's methodology of Delay Analysis, made specific comments to the Time Impact Analysis and
-the Contractor at no time during the meeting raised any objections in this regard.
-The Engineer's opinion that the TIA methodology presented was confusing and complicated remains
-unchanged. The Contractor's TIA methodology as presented was complicated and confusing. Your
-representative spent some time in trying to explain the process of extracting data from Primervera and
-then importing it into EXCEL and then exporting to MS Access in order to analyse and modify the data
-and then reverse the process to capture it in Primavera. This is per se; unquestionably complicated by
-any measure.
-The Contractor's statement that "there was no reason to issue any supporting TIA submission pursuant
-
-to Clause 27 of the Conditions of Contract", is not aligned with the terms of the HoA. It has been
-recorded on numerous occasions in previous correspondence that according to Clause 23 of the Heads
-of Agreement, the Contractor's Claims shall be evaluated and agreed in accordance with the
-Construction Contract. Again, within the contents of this letter, the relevant contract clauses relat ing to
-evaluation are restated.
-Notwithstanding the Contractor alleges that its Consolidated Submission on 27 August 2015 was
-provided "to assist in the successful conclusion of the financial negotiations in relation to the Heads of
-Agreement", the dates referred to in this correspondence especially in relation to the Piers, are not
-aligned with the HoA dates and indicate different completion dates than the dates stated in the HoA
-(Appendix 1). The Contractor's submission was in fact seeking an extension of time to Milestones 9A and
-9B.
-Within its submission of 27 August 2015, the Contractor added fifty (50) new milestones to the
-approved
-Baseline programme, without prior approval by the Engineer. As you are aware, this unapproved
-practice causes the logic of the programme to be altered and corrupts the original programme logic.
-These same comments were also highlighted during the presentation by both the Engineer and the
-Employer.
-In relation to the Contractor's comments pertaining to the independent third party, it is fact that this
-'party' is employed and accountable to the Contractor and by definition is not 'independent'.
-The Engineer reiterates the statement made in correspondence (2) relating to the Contractor's failure to
-finalize the analysis of Contractor concurrent delay. The Contractor is aware, of its contractual
-obligation, when substantiating its claim to an extension of time and associated additional Cost, it must
-as part of such substantiation include an analysis of Contractor concurrent delay. Until and unless this
-requirement is complied with in accordance with the contract, the Contractor's entitlement for
-compensation for prolongation cannot be evaluated.
-Therefore, the Contractor is urged to address the issues raised above in order to comply with its
-obligations under the Contract.
-Yours faithfully
+Further to issuance of our letter reference MTB-TCA-ANEL-L-003718 dated 28 December 2016, we again
+would like to emphasize the poor fire sealant progress. At this juncture, no manpower has been
+assigned
+for this level to progress the fire sealant as an example of this poor progress. Appendix 1 for this
+instance
+clearly shows some areas you should have had progress thus far. This failure, in spite of the fact that you
+have been noticed for the open front areas continues today with no respite (See Appendix 2).
+You are instructed to expedite the process with due expectation.
+We trust we have made our position clear in this matter and you are instructed to carry out whatever
+mitigation measures necessary to remedy I rectify this situation caused by your reluctance to comply
+with
+your contractual obligations of which we find you completely culpable.
+Consequently, you are instructed to provide a detailed recovery plan for the remaining activities
+completion in strict accordance with that of clause 16.4.1 (Recovery of Delays). Moreover, we hold you
+completely culpable for all costs and/or delays incurred and the same will be levied against your account
+in accordance to Clause 10.3 (Contractors Claims). If you seek further. clarification to any of the points
+raised within this letter, please do not hesitate to contact the undersigned.
+Yours faithfully,

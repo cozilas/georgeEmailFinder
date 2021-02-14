@@ -1,45 +1,45 @@
-Subject: Notice of likely Delay No.2718
-Dear Sir,
-Mr. Ahmed Abbas, Construction Manager
-AUH.06.10.0401
-With reference to Structural calculation for the subject handrail reference no.S above, we would like to
-bring to the Engineer's attention the fact that this calculation was given code-3 six times with
-unreasonable comments. As confirmed in our previous letter reference no.7 above that our scope is
-limited to the design of the connections and fixings only as per related project specification reference
-no.1
-above. However, we have prepared & submitted a detailed design based on the Engineer's requests.
+Subject RE: Notice of Delay due to Unfair Comments for PrA and PrO Door Interface
+Drawing.
 
-Though, the Engineer kept giving this calculation code-3 for comments which were not under TCAJV
-scope
-of work.
-To avoid further unnecessary delays, TCAJV will proceed as per IFC drawings & details (Reference nos.
-2,3,
-&4 above} noting that approved China State (CSC) shop drawing (reference no.9 above} for the same
-handrail on Landside Bridges (MTL contract) is following the same IFC details with no change. Therefore,
-we would like to follow the same, as we trust that the engineer has already reviewed and approved esc
-shop drawings. And further, to maintain the same aesthetic affect for the DAS and the Landside
-approach
-roads. This will avoid any sudden change of the handrail profile between the two contracts that may
-lead
-to any visual difference to the building occupants.
-On this basis, kindly note that we will re-submit our structural calculations (ref. no.S above) for
-cancellation, and we will instead now submit our handrail shop drawings for approval.
-If the Engineer is interested in the re-design of IFC handrails, please issue the necessary Engineer's
-Instruction to proceed with the same. Otherwise, confirm the above.
-In accordance with Conditions of Contract clause 20.1.4(b), the contractor is of the view that the
-Engineer
-has issued comments, clarification and I or instruction constituting a Variation which are not in the form
-of or have not been confirmed in writing by the Engineer by way of a formal Variation Order.
-We are unable to undertake changes pursuant to informally revised drawings or sketches constituting a
-Variation without a formal Variation Order or a confirmation of same.
-Please issue an Engineer's instruction and revised Drawings and/or Specification as a Variation by means
-of a formal Variation Order to avoid further delays and additional costs arising as a result of abortive
-works and unnecessary time required to seek further clarifications or the confirmations mandated by
-Conditions of Contract clause 20.1.4 and 20.3.1.
-Failing to undertake the Engineer's duties as set out in the Contract has delayed the progress of the
-Works
-and will continue to do so thus resulting in delays to the Time for Complet ion and an increase to the
-Contract Price.
-Accordingly, we hereby notify you pursuant to CoC 9.10.3 that we intend to claim for an extension of the
-Time for Completion and the additional Cost implications.
+Dear Sir,
+The Contractor acknowledges receipt of the Engineer's letter reference (1) which responds to a letter
+sent by
+the Contractor objecting to some unfair comments made by the Design Consultants (KPF/ Arup) on the
+Contractor's door interface drawings for the PrA and PrD fac;:ade (6).
+Firstly, the Contractor notes that its letter objecting to KPF/Arup comments was issued on the 16
+December
+2017 (6) and the Engineer's response was received 285 days later on 27 September 2018. This is neither
+reasonable nor in accordance with the processing time contemplated in the Specification 013300
+[Submittal
+Procedures] .
+Almost one year has elapsed since the Contractor forma lly objected to the comments made on its shop
+drawings and requested KPF/ Arup to reconsider them. Please note that during this time the Contractor
+has
+resubmitted some of the shop drawings which, at present, are all code-02 approved in up to their fourth
+revision. Some of the comments referred by KPF/ Arup in their letters (2) to (5) are no longer relevant as
+they
+have already been closed in the subsequent revisions of the shop drawings.
+In relation to those comments that remain open thus far, the Contractor notes the following:
+In letter (3), Arup confirmed that it had received the response sheet from the Engineer on 25 April
+2018 and therefore the comments pertaining to the absence of this response sheet could be closed;
+however, these comments remain open in the latest revision of the shop drawings. Amp is requested
+to re-issue these shop drawings and close/remove all comments related to the absence of a response
+sheet.
+It was agreed during the workshop held on 07 September 2017 between representatives of the
+Engineer, KPF/ Arup, the Contractor and the Subcontractor (Jangho) that the use of coa:ted aluminium
+or stainless steel materials was not required for non-visible elements of the fac;:ade. The items
+(screwsand plates) marked by Arup in the shop drawings are cladded and are therefore neither visible
+nor
+exposed to the external weather.
+It was also discussed during the workshop held on 07 September 2017 that the wet sealant was
+necessary due to the steel and brackets tolerances.
+Finally, in relation to the Engineer's citation of Clause 1.7.2 [Contractor's Settled Claims] and Clause 1.7.4
+[Included Circumstances] of the Amendment No. 8, the Contractor confirms that nothing contained in
+the
+aforementioned clauses states that the Contractor shall incorporate all comments made by KPF/Arup to
+date
+and/or re-submit shop drawings at the Engineer's convenience. The Engineer's request that the
+Contractor resubmits
+its code-02 approved shop drawings on this basis is unwarranted and will not be followed by the
+Contractor.
 Yours faithfully,

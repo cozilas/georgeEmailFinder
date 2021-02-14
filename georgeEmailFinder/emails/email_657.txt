@@ -1,13 +1,20 @@
-Subject:Notice of Termination
+Subject: HOE Comments Leading to Abortive Works to already Completed Areas
 Dear Sir,
-With reference to the above subject, we kindly inform you that as per the Engineer’s request your
-services are not required for the project anymore.
+The Contractor refers to the comments made by Messrs. PROFIRE during the for the MCR and Data
+Center rooms; in which the Contractor was requested to include additional sampling points for the
+VESDA detection system in the beam pockets of the rooms.
+The Contractor notes that the works in these rooms were completed following the approved shop
+drawings as listed in appendix-1 attached to this letter. Moreover, all the VESDA system installations in
+these rooms were inspected earlier by Messrs. Jensen Hughes (the former HOE) and no comments
+requiring any additional sampling points were raised at the time of these inspections.
+The Contractor also notes that the subject rooms are already energized, and to implement the
+comments of Messrs. PROFIRE at this late stage, there will be a lot of abortive works including but not
+limited to, deenergizing the rooms, erecting scaffolds, removal of installed services to allow access to
+the required remedial works, moreover, all ongoing cause & effect testing, commissioning and precommissioning activities will be impacted by de-energizing the rooms.
+In light of the above, the Contractor requests that the Employer being the AHJ to revisit the subject
+rooms to decide if the comments of Messrs. PROFIRE could be waived.
+In the event the Engineer requires the Contractor to provide the additional sampling points as
+commented by Messrs. PRO FIRE, the Engineer is requested to issue an Engineer's Instruction pursuant
+to CC-20.1.1(a).
 
-Therefore, in line with the Subcontract Professional Services Agreement referenced (1) and Extension of
-Consulting Services letter referenced (2) above, you are hereby given this written Notice of Termination
-under Subcontract Clause 11.1 [Termination and Suspension], effective on the seventh (7th) day upon
-receiving of this letter.
-In the interim, you are reminded to fulfill all of your obligations pertaining to the completion of the
-Works and perform in accordance with the requirements of the Subcontract and particularly as per
-Clause 11.6 until the end of your service.
-Yours faithfully,
+Yours faithfully,

@@ -1,15 +1,53 @@
 Dear Sir,
 
-Further to the Contractor's formal Notice of Claim No 011 issued under cover of reference 1 (in
-accordance with Sub-Clause/General Condition 20.1.2 of the General Conditions of Contract) concerning
+With reference to your letter reference (1) above, as the Engineer's Assistant's continues to quote the
+Contract verbatim, the Contractor offers the following analysis of Volume 2 (Part 2), Sub-Clause 9.1.2.5 f
+ii H so that the situation can be resolved.
 
-the above titled matter, the Contractor hereby encloses its Claim No 011 formal interim submission
-(Revision O) in accordance with Sub-Clause/General Condition 20.1.6 of the General Conditions of
-Contract.
+The Engineer's Assistant is to kindly note the definition of Accepted Contract Amount, in accordance
+with Volume 3, Sub-Clause 1.1.4.1:
 
-As the event giving rise to this claim has a continuing effect, the attached Claim No 011 submission is to
-be considered as interim in accordance with Sub-Clause/General Condition 20.1.6(a) of the General
-Conditions of Contract. The Contractor shall therefore be submitting further interim claim submissions
-with respect to the event giving rise to Claim No 011 at monthly intervals as required by SubClause/General Condition 20.1.6(b) of the General Conditions of Contract.
+"Accepted Contract Amount " means the Amount stated in the Letter of Acceptance for the execution
+and completion of the work under the Contract and the Remedial Work. The breakdown of this
+Accepted Contract Amount is contained in Contractor's Proposal.
+
+This is to be contrasted with Volume 3, Sub-Clause 1.1.4.2:
+
+"Contract Price" as of the date of the Letter of Acceptance , means the Accepted Contract Amount less
+Provisional Sums. {..}
+
+Volume 2 (Part 2), Sub-Clause 9.1.2.5 f ii H states:
+
+The Design Verification Engineer's scope of work will apply to all defined works within the Accepted
+Contract Amount, covering both the lump sum and the Provisional Sum portions of the Accepted
+Contract Amount. [...} The Accepted Contract Amount includes the DVE'sfull scope of work which
+includes checking and certifying the provisional sum elements of the Works.
+
+There is no argument from the Contractor that the Accepted Contract Amount includes the DVE scope
+of the Provisional Sums work; what Sub-Clause 9.1.2.5 f ii H does not state is that the cost for the DVE is
+included in the Contract Price, a subdivision of the Accepted Contract Amount. The Contractor's
+contention has always been that the cost of the DVE related to provisional sum design work was
+contained within the Provisional Sums, itself a part of the Accepted Contract Amount.
+
+ALYSJ
+joint venture
+
+Apart from this being logical given the nature of the service being provided - it is clearly putting the cart
+before the horse to suggest that the cost of verification of a design whose value would be determined in
+the future would be determined prior to ascertaining the extent of the design - the Contractor has not
+relied solely on a rational interpretation of the Contract and had in fact raised a question during the
+tender process to provide clarity on this matter.
+
+The Engineer's Assistant's attention is drawn to Tender Clarification TC02 contained within Volume 11 of
+the Contract, in Item 7 a i, titled "Section 6 - Annex 1 - Understanding of the Terms of Reference", an
+extract of which is reproduced below:
+This clarification provides the required information to determine that while the cost of the DVE is
+contained within the Accepted Contract Amount , it is not within the Contract Price. This clarification
+being complementary and not contradictory to Sub-Clause 9.1.2.5 f ii H, there can be no doubt as to the
+correctness of the Contractor's position on this matter.
+
+Given the lack of any evidence to the contrary the Contractor looks forward to receiving acceptance of
+its subject SAR submissions and expeditious resolution of the Claim that it has regrettably been
+compelled to file regarding the costs of the DVE.
 
 Yours faithfully,

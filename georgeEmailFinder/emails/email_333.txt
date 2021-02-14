@@ -1,56 +1,58 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0133
-Delays due to Damage Caused by Employer’s Other Contractor (DEPA) to MEP Services at North Lounge Request for Engineer’s Instruction/Variation Order
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Annex A records delays attributable to damage caused by the Employer’s Other Contractor (DEPA) to
-our previously installed MEP services at North Lounge, which require rectification and accordingly will
-require an Engineer’s Instruction (EI) and Variation Order (VO) in order for us to do so.
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We herewith enclose a series of photographs together with a set of reports (at Annexe B to E hereto)
-that serves to evidence damage having been caused to our previously installed MEP services at North
-Lounge Level L3.0 and Level L3.1. Unfortunately despite various fire life safety services and devices
-having been installed, inspected and handed over by us through the WIR process, this has subsequently
-been damaged; and is directly attributable to the Employer’s Other Contractor (DEPA).
-Specifically, we draw your attention to the following:
-•
-Between 5 August 2019 to 15 August 2019, 3 nos. of FLS devices and cables (consisting of two
-Smoke detectors and one Isolator module and fire alarm cable) at level 3.0 North Etihad lounge, were
-found damaged (refer to Annex C ‘L3.0 NORTH ETIHAD DAMAGE REPORT’);
-•
-On 17 August 2019, during a routine site check it was found that the Electrical PAVA systems’
-Loud Speaker at CSP L3.0 North lounge area, has been damaged by DEPA (refer to Annex B);
-In support of the foregoing, we provide the following attachments:
-1.
-Annex A: This narrative providing a ‘Description of the Event’;
-2.
-Annex B: ‘Photos / Images Reference PAVA’;
+Subject TCA-JV HSE Incentive & Motivation Scheme - Failure to Respond
+Dear Sir,
+The Engineer writes further to the ongoing communications with the Contractor with regards to the
+inaction of the Contractor to effectively implement the TCA-JV HSE Incentive & Motivation Scheme
+(PP721-ISM-1093) dated May 30, 2013. Although the Contractor has previously held regularly
+scheduled Recognition and Reward ceremonies, these events have not been maintained.
+The Engineer reiterates that the Recognition and Reward programs are not only positively associated
+with improved performance and injury prevention but they are also required under the Contractor's
+Site Specific Safety Plan (SSSP), as per the MTB contractual obligations as detailed in Division 1
+Specification.
+The Contractor is required to respond to this letter with its clear plan of action to gain the necessary
+improvements and required compliance within seven (7) days upon receipt of this letter.
+We look forward to your active engagement to reinvigorate the TCA-JV HSE Incentive & Motivation
+Scheme.
+Subject Recent Fire related Incidents
+Dear Sir,
+We write with reference to the recent fire related incidents that have been sustained in areas
+associated with the TCAJV.
+The Contractor has sustained ten fire related events in the month of August 2019. Six of these fires
+have been reported by the Contractor as likely to have been caused on purpose without any evidence
+as to the motive for these potential malicious attempts to cause damage and disruption.
+A meeting with the TCAJV Senior Management was conducted on 1 September 2019 to discuss these
+concerns.
+As the Project moves closer to overall completion, it is essential that the TCAJV place sufficient
+measures to avoid any damages and/or disruption to the MTC facilities and temporary structures.
+It is also paramount that fire and life safety standards are maintained 24/7 throughout the final stages
+of the project leading to the successful and timely project delivery.
+With immediate effect the Contractor is required to implement all necessary prevention and
+mitigation measures to avoid any further fires and/or damage to the MTC facilities. This should include
 
-3.
-Annex C: ‘FAS Damaged Devices’;
-4.
-Annex D: Draft ‘Witness Statements’ [pages 1 of 2 and 2 of 2]; and
-5.
-Annex E: Draft ‘HSE Reports’ [pages 1 of 2 and 2 of 2]
-We wish to put on record that the foregoing events are not of our doing or responsibility, and any
-rectification / remedial works necessarily required to re-install and re-test the damaged elements of the
-Fire Life Safety system at the Level L3.0 North Lounge at this stage will invariably delay us.
-We therefore inform you in order for us to undertake the rectification works to the damaged services
-noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
-down strict guidelines to follow in the event that additional works are required and we therefore
-request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
-Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
-our previously handed-over MEP services installation by the Employer’s Other Contractors.
+better surveillance measures as well as additional supervisory responsibilities.
+The Contractor is required to respond within 3 days from the date of receipt of this letter detailing the
+additional measures, as far as reasonably practicable, to deter and avoid any further fire and damage
+related incidents. Any damages sustained could result in the Contractor being liable for the associated
+costs and the resulting impacts.
+Subject: Overall completion schedule as impacted by subsidence and other notified issues
+Dear Sirs,
+As requested, and following the release to us of the majority of the Engineer's Instructions in respect
+of the subsidence works we confirm having issued to you on 8 September 2019 the following
+documents:
+1. The overall completion schedule .showing the completion of initial cause & effect testing to
+CXA Stage 8 by 31 October 2019 and indicating Substantial Completion by 15 September 2020;
+2. The associated Programme Narrative that clarifies the status of the Works as at the original
+Completion date of 31 October 2019;
+3. Integrated Level 1 Programme;
+4. A schedule showing room completions;
+5. 2 number Schedules showing the completion of FOBs and isolators;
+6. A layout and schedule showing PPE Free and transfer of responsibility dates.
+We would state that in compiling these documents it has had to be assumed that the supplementary
+agreement and SAA9, both as recently submitted, will be put into effect in time to allow us to
+successfully implement this Completion process.
+Accepting of course this is a matter for the Parties to resolve we are sure you will understand that
+whilst we are currently proceeding on this basis, having committed cash to subsidence and associated
+additional works that would otherwise be required to complete the original scope of Works, unless
+and until the project cash position is resolved, we will not be able to continue in this manner beyond
+the next few weeks.
+Please let us have your comments on the documents submitted in this context, as a matter of urgency.
 Yours faithfully,

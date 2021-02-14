@@ -1,35 +1,48 @@
-Subject: Post Heads of Agreement Concurrency Review up to 1 January 2017
+Subject The Contractor Presentation of 'Concurrent Delay' dated 18 January 2017
 Dear Sir,
-Further to recent discussions between representatives of the Contractor and the Employer I Engineer,
-the
-Contractor herewith provides proposed timetables for the preparation of a detailed concurrency review
-for the period between 5 March 2015 and 1 January 2017. These are attached hereto.
-In order to undertake the concurrency review exercise in parallel with the preparation of the revised TIA
-submissions (also requested by the Employer I Engineer), the Contractor proposes the adoption of a
-'Windows' form of delay analysis to establish the existence of any concurrent Contractor (i.e. culpable)
-delay in the period between 5 March 2015 and 1 January 2017.
-The 'Windows' methodology will utilize 'Cleaned Up' versions for the Contractor's monthly updates a
-predefined
-time slice periods.
-The 'Windows' methodology establishes the progressed status of the works at the start of the time slice
-period and then the progressed s.tatus of the works at the conclusion of the time slice period.
-Once the status of the works at the start and conclusion of the time slice period has been established
-then
-. the programmes can be investigated to identify those specific activities giving rise to critical delay to
-the
-various Project Milestone during the time slice period.
-This process will establish which part'r' is responsible for the critical delay, and in so doing, will also
-identify, what if any period of critical delay is deemed to be a Contractor concurrent culpable delay.
-It should be noted that accuracy of such a Concurrency review is governed by the duration of the time
-slice periods. The greater the time slice periods the less accurate the conclusions will be.
-The Contractor has provided 3 time slice option for consideration, these being 1 month, 2 month and
+Following the Contractor Presentation of 'concurrent delay' made to the Employer and the Engineer
+on Wednesday 18 January 2017 we wish to record the following points ahead of any formal
+submission by the Contractor.
+The Contractor's Time Impact Analysis (TIA) Methodology outlined at the meeting is not accepted by
+the Engineer due to the following:
+a. The Contractor's Methodology is unnecessarily complicated compared to the traditional and
+widely recognized Window analysis technique and it does not conform to any recognized method
+of delay analysis by any practice such as the SCL or AACE International.
+b. It was not made clear by the Contractor why it is necessary to extract the data from Primavera to
+MS Excel and then to MS Access and then back to Primavera. Primavera is the approved
+programming software and is capable of performing all the required analysis. It is the Engineer's
+opinion that this chosen approach by the Contractor unnecessarily increases the risk of errors
+occurring and confuses the analysis.
+c. The Contractor has introduced new Milestones and Constraints to the baseline programme for
+the CSP and Piers without the approval from the Engineer. Contractually this is non-compliant
+and currently not accepted.
+d. The Contractor has deleted many activities without the agreement and approval of the Engineer,
+again this is contractually non-compliant and currently not accepted.
+e. The Contractor has disregarded the Contractor delays that exist in and evidenced within the
+records of correspondences / minutes of meetings etc.
+f. The Contractor stated "there are some concurrent delays" but failed to demonstrate how this
+was calculated and did not provide an explanation why the concurrency analysis, which is
+required as part of its TIA submissions, is not yet finalized.
+g. The Contractors independent third party expert appears to have simply agreed with the
+Contractors analysis and has not submitted an independent report on the matter of Concurrency.
+Further to the meeting and in regard to the Contractor's CDA Submission date 27 August 2015, the
+contention of the Contractor stated in Para 5.28 and 5.29 that;
+''The results of the analysis for each delay event in each monthly delay analysis period are
+classified into 3 categories. This will, the Contractor hopes~ assist the Engineer to reach a
+speedy determination of the financial implications of the delays to section of the Work",
+[emphasis addedt does not provide any such assistance whatsoever to the Engineer due to the
+fact that the Contractor has failed to demonstrate any 'culpable delay' or 'unallocated delay' as
+asserted, in its CDA submission.
+We trust this is a true and accurate record of the presentation and we note for record purposes that
+the new approach adopted by the Contractor in this presentation to evidence the existence or not of
+any concurrent delays differs significantly from the previous approach adopted in the previously
+submitted Consolidated Delay Analyses where no concurrent delays due to the Contractor have been
+evidenced and is contrary to the current approach the Contractor has presented in identifying
+areas/periods during the course of the Works where the Contractor was culpable for some of the
+delays. Although the above points will need to be addressed, the Engineer welcomes the principle of
+admitting the Contractor own delays within the analysis which is what is required under the Contract
+and as a pre-requisite before any compensation can be finalized . This presentation supports the
 
-3 month time slice periods.
-Based upon the provided timetables, the concurrency review exercise will be complete as follows;
-1 month Time Slice periods- 8 October 2017;
-2 month Time Slice periods- 23 July 2017; and
-3 month Time Slice periods- 25 June 2017;
-The three options and associated timetables are provided for the Employers I Engineer's consideration
-and the Contractor requests the Employer I Engineer to confirm which time slice period is to be adopted
-so the exercise can commence.
+Engineer's stand that all previously submitted CDAs are not in compliance with the Contract
+requirements.
 Yours faithfully,

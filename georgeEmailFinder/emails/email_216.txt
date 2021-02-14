@@ -1,32 +1,211 @@
-Subject Delay Notification - Failures to Submit WIRs with Complete and Correct
-Documentation
-Cross Ref. None
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0200
+BHS – Floor Painting Directional Arrows – Level L1.0 Drive Isles
+Receipt of Etihad / ADAC Ops ‘Approved’ Drawings on 8 January 2020 – Request for Issued for
+Construction Drawings and Engineer’s Instruction/Variation Order
 Dear Sir,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and / or circumstances described in
+Annex A may cause delay and/or disruption to the Works, and seek your swift resolution of the same.
 
-We record our concerns regarding the Contractor's failure to raise Work Inspection Requests with
-complete and correct documentation. The Contractor was advised in the past on the issue of missing
-and/or incomplete documentation that are required to be submitted with the WIRs in accordance
-with the Project's procedures. However, the Contractor has failed to act in addressing this issue.
-Recently, the Contractor has submitted further WIRs that are not compliant to the Project's
-procedures. For instance, the Contractor has issued WIR-YOU-00029 with incorrect inspection
-description for Electronic Display (ED) and ITP for the ED and was used for the inspection of the BRS
-BLP Enclosure. The applicable Shop drawings were also omitted.
-We record that although the ITP used for the inspection is not correct for the installation, the
-Contractor has acknowledged that the items being offered for inspection are ready for Engineer's
-inspection. This casts doubt on the extent of the Contractor's QA verifications related to non relevant
-construction activities such as "Wall is cleared without re-bars ... ", "height is maintained at all points
-... ", "Adequate Hilti Chemical bolts to be provided" which are not applicable to a wheeled, floor
-standing enclosure.
-These along with other discrepancies were noted and brought to the Contractor's attention.
-However, the Contractor chose to ignore the Engineer's comments and issued WIR-YOU-00030 and
-WIR-YOU-00031 without rectifying the Engineer's earlier comments. In particular, we also record the
-Contractor's failure in obtaining the Engineer's approval for all applicable engineering and
-construction documents. The Engineer notes that the works were performed by the Contractor
-without an approved Installation Method Statement. The Contractor remains responsible for all rework
-requi red to bring the works into compliance when the documents are submitted and approved.
-Another example is the Contract or issued WIR-S ITA-00417 and WIR-S ITA-00425 without submitting
-the approved BRS IP54 En closure WIRs and the detailed drawings for the system being offered for
-inspect ion. The description for the works to be inspected for WIR-SITA-00417 reads "Mock Up - Site
-Installation of BRS Rugged Workstation Enclosure IP 54", however, the works offered for inspection
-are the BRS workstation and peripherals.
+Overview
+The floor painting drawing received on 8 January 2020 detailed in Annex A represents a change in design
+and scope and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works;
+i.e. Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 8 January 2020 [10:54 AM], we received a copy e-mail issued by a representative of the Engineer
+addressed to the Employer, which for the avoidance of doubt, is worded as follows:
+“Is the final layouts for the BHS L1.0 - floor markings been issued to TCA
+•
+Arrow types, shapes,
+•
+Colors
+•
+Dimensions - sizes
+•
+paint type (e.g. reflective ?)
+•
+Locations,
+Is this all confirmed in the IFC?”
+The Employer responded on 8 January 2020 [2:41 PM] providing the following comments:
+“We are in the finishing stages, if people don’t keep changing their minds! I have Geraint looking after
+this drawing now and once today’s changes are updated and approved by the operational staff, it will be
+sent out today.
+The only items that’s not shown on the drawing is the Paint Type, I expect this would be covered
+somewhere between the CMA and JV…”
+Further to which, at 3:43 PM, the Employer provided “approved drawings in .pdf and .dwg format” as
+well as “attached a .pdf … for quick reference and a photo the signed version of the drawing.”
+A copy of the BHS L1.0 - floor marking layout and setting out drawing approved and signed between the
+Employer (ADAC Ops) and the Stakeholder (Etihad) is reproduced in Figure 1.
+Figure 1- BHS L1.0 Floor Marking Setting Out
+We wish to record that contrary to the Employer’s e-mail dated 8 January 2020 [2:41 PM] however, not
+only was the paint type missing from the above drawing, but also the paint colour was not indicated.
+Moreover, this was an unreferenced, unnumbered drawing and certainly not an IFC Drawing.
+Accordingly, as recorded in our e-mail dated 19 January 2020 addressed to the Employer [12:02 PM] “An
+EI is requested since the new drawing of arrows is completely different than the IFC”.
+However, in a follow up e-mail also dated 19 January 2020 [3:06 PM], the Engineer informed us that the
+issue had already been “clarified” through a combination of letters and responses to a series of RFIs that
+pre-dated SAA8 (i.e. 4 September 2018) and thus deemed to be included within SAA8:
+“This issue was clarified (in 2016) via CMA letter # 5630 – this in response to TCA letter # 3309 (RFEI0061) – BHS Floor Markings
+•
+Based on RFI’s – TCA should have produced shop drawings
+
+CMA-TCA-0401-LTR-05630 – Response to RFEI – 0061 Follow RFI’s No. 10039, 10040, 10041,
+10042,10043,10049
+6 June, 2016
+This issue was all included in “Amendment 8” agreement”
+For the reasons set out below, this is refuted.
+On 3 December 2014 (letter dated 23 November 2014 ref: MTB/TCA/AECOM/L/003309), we wrote in
+connection with IFC Drawing No. MTC-B-09-TB-L1.0_0.__-005 Rev. 00 ‘Terminal Building BHS General
+Arrangement L1.0 (Apron), informing you of the following:
+“There is no IFC drawing that shows the floor marking at BHS Make up areas at L1.0 traffic flows,
+designated tug & dolly movement, parking areas etc. If the Engineer intends that this to be provided
+please advise of the exact requirements for by issuing revised IFC Documents together with an
+accompanying Engineer’s Instruction pursuant to CC-20.1.1(a).”
+As this letter served as a formal request for an EI, it was given the reference RFEI/0401/0061.
+In the event however, you failed to reply until in excess of one a half years later, on 9 June 2016 (letter
+dated 6 June 2016, ref: MTC-CMA-TCA-0401-LTR-05630), attaching the Employer’s Design Consultant’s
+[KPF] reply to RFEI/0401/0061, which for the avoidance of any doubt simply stated the following:
+“For L1.0 traffic flows and tug &dolly movement Contractor to follow RFI’s – 10039-10040-1004110042-10043-10049 responses.
+For parking areas, follow IFC A-02 series.
+For floor marking material and specification, Contractor to refer spec 099123 “Interior Painting”
+Para 2.1.5
+Floor Coating and marking to be white RAL 9016.
+Contractor to submit relevant coordinated shop drawings for review accordingly.
+Note: This was confirmed by ADAC FM
+Technical Clarification.”
+We further record that in your covering letter dated 6 June 2016 (ref: MTC-CMA-TCA-0401-LTR-05630),
+you advised us that the attached responses to all of the various matters listed therein was considered to
+be “clarifications … and therefore no further instructions will be issued …”
+In the meantime, on 22 and 25 October 2015, we submitted the various RFIs referenced above (RFI Nos.
+10039, 10040, 10041, 10042, 10043 and 10049), seeking clarification of various matters associated with
+the Flight Information Display Screens (FIDS) [described below] to enable us to finalise the mounting
+installations; which you later responded to on 1 and 7 December 2015 (refer to Table 1 below).
+Table 1
+Date Submitted RFI Ref: Rev
+RFI Title
+Reply Req’d By Date
+Response Received
+22-Oct-15
+RFI/0401/10039
+00
+L1.0 ST FID Arrival input Belt area mounting details
+28-Oct-15
+07-Dec-15
+22-Oct-15
+RFI/0401/10040
+00
+L1.0 ST FIDS OOG Departure area mounting details
+28-Oct-15
+01-Dec-15
+22-Oct-15
+RFI/0401/10041
+00
+L1.0 Transfer Input Area
+Displays mounting details
+28-Oct-15
+07-Dec-15
+22-Oct-15
+RFI/0401/10042
+00
+L1.0 Time Critical area
+displays mounting details
+28-Oct-15
+07-Dec-15
+22-Oct-15
+RFI/0401/10043
+00
+L1.0 Departure Carousel Belt (BMA) area displays
+mounting details
+28-Oct-15
+07-Dec-15
+25-Oct-15
+RFI/0401/10049
+00
+L1.0 Customs Screening Area
+displays mounting details
+28-Oct-15
+01-Dec-15
+Almost all of the above RFIs were worded in a similar manner. By way of example, with reference to
+RFI/0401/10041, we requested without limitation, the following information from you:
+
+“With reference to the attached SAS IFC drawings, Please provide below details to [allow us to] finalise
+the mounting installation coordination with other trades
+1.
+Please advise the L1.0 traffic flows
+2.
+Please advise the Tug & Dolly movement path way….”
+However, in your reply to RFI/0401/10041, and by way of addressing a response to Questions 1 and 2
+above, you referred us to two sketches appended thereto (Sketch ASK-2644, 1 of 2 and 2 of 2) for both
+the traffic flows and the Tug & Dolly movement path way (refer to Figure 2 and Figure 3 hereunder):
+Figure 3 – ASK-2644 (Sheet 1 of 2)
+Figure 3 – ASK-2644 (Sheet 1 of 2)
+Therefore reverting back to the Employer’s Design Consultant’s [KPF] response to RFEI/0401/0061, the
+replies to RFI Nos. 10039, 10040, 10041, 10042, 10043 and 10049, simply provided the “L1.0 traffic
+flows and tug &dolly movement”; they did not provide any setting out details, or specific shapes, sizes or
+dimensions of the directional arrows to the BHS arrival and departure areas to Level L1.0.
+Given the fundamental failure on the part of the Employer’s Design Consultant to provide basic design /
+setting out information etc., it was prohibitively difficult for us to prepare detailed shop drawings –
+contrary to the Employer stating the “TCA should have produced shop drawings” “based on RFI’s” .
+The information was simply not there for us to do so. Even if all of the information was provided in the
+RFI responses to enable us to undertake the Level L1.0 BHS area floor painting directional arrows [which
+is denied], RFI responses that vary the requirements of the contract / differ from the Contract Drawings,
+require IFC Drawings and an accompanying Engineer’s Instruction in order for us to proceed the works.
+In the event however, despite us requesting “the exact requirements” (i.e. setting out details, specific
+shapes, sizes or dimensions of the directional arrows to the BHS areas to Level L1.0) and “revised IFC
+Documents together with an accompanying Engineer’s Instruction” on 3 December 2014 (letter dated
+23 November 2014 ref: MTB/TCA/AECOM/L/003309), it was not until in excess of five years later by way
+of the Employer’s e-mail dated 8 January 2020 [3:43 PM] that we were finally provided with [signed]
+“approved drawings in .pdf and .dwg format” of the BHS L1.0 Floor Marking Setting Out.
+Even a cursory review of the approved BHS L1.0 Floor Marking Setting Out Drawing issued on 8 January
+2020 when compared with the original IFC Drawing No. MTC-B-09-TB-L1.0_0.__-005 Rev. 00 attached to
+our letter dated 23 November 2014, shows a fundamental difference between the two (refer to Figures
+4 and 5 below). It is patently clear therefore that the original IFC Drawing failed to show any setting-out
+details, specific shapes, sizes or dimensions of the directional arrows to the BHS areas to Level L1.0.
+Figure 4 - IFC Drawing No. MTC-B-09-TB-L1.0_0.__-005 Rev. 00
+‘Terminal Building BHS General Arrangement L1.0 (Apron)’
+Figure 5 - BHS L1.0 Floor Marking Setting Out Drawing
+Issued on 8 January 2020 via email [3:43 PM]
+In summary therefore, we record that the drawings issued by the Employer on 8 January 2020 finally
+show the requisite setting-out details, shapes, sizes and dimensions of the directional arrows to the BHS
+areas to Level L1.0, which the original IFC Drawings / Contract Drawings failed to do so; and reflect
+works that is additional to our scope. This will necessitate that you issue these Drawings as IFC under an
+Engineer’s Instruction / Variation Order, if you require the additional work to be undertaken by us.
+We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+
+Until such time as you take the action required of you in accordance with SAA8 Clause 2.29, and issue
+the Drawings as IFC together with an EI, we are unable to proceed with implementing any changes to
+the floor painting to L1.0 and will continue with the Works in accordance with the current IFC Drawings.
+Given this information was not provided until 8 January 2020 despite us requesting it on 3 December
+2014, this cannot possibly be construed as forming part of or ‘Included Circumstances’ (per Clause 1.7.4
+of SAA8) and will be included within any forthcoming Time Impact Analysis, albeit in recognition of the
+Effective Date included in SAA8, any delays will be analysed from 4 September 2018 onwards. SAA8
+cannot reasonably be interpreted as requiring the Contractor to absorb delays of unknown (possibly
+unlimited) duration both pre and post 4 September 2018, particularly where the resolution of the
+matter causing the delay lies with the Employer. We contend therefore that under the circumstances
+the responsibility, under the Contract (as amended by SAA8), for such delays lies with the Employer.
+Potential Impact:
+Any requirement for additional works, in this case, additional floor painting, at such a late stage of the
+Project, is very likely to impact upon our ability to achieve Milestone MS9C (Substantial Completion).
+Action Required:
+It is for this reason therefore that we issue this E-Notice requesting your prompt action, guidance,
+decision or further instruction as may be applicable to resolve the matters referenced herein in order to
+mitigate such delay and/or disruption to the Works. This includes without limitation:
+1.
+Issuing such Instruction as necessary for us to instigate the required changes into the Works.
+Kindly ensure that such matters are actioned within ten (10) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
 Yours faithfully,

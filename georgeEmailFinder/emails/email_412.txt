@@ -1,26 +1,22 @@
-
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0101
-Gatehouse GH49 – Damage to PCA Pit Due to Grouting Works by Others
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
-may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
-The Event(s):
-At Annex A hereto we enclose a series of photographs showing damage to the Pre-Conditioned Air (PCA)
-pit adjacent to Gatehouse GH49 taken on the morning of the 3 June 2019, which appears to be
-attributable due to the effects of pressure grouting undertaken by the MTA Contractor (L&T) while
-carrying out remedial works in an effort to alleviate the subsidence occurring on this Project.
-The photographs indicates a large area adjacent to the PCA pit having been subjected to pressure
-grouting and this appears to have caused undue stress/pressure around the pit causing the concrete to
-buckle and shatter, or in other words, caused an upheave in pressure and “burst” the concrete.
-We suggest that L&T expose the duct bank connection and HDPE pipe connections to this pit to ensure
-that the integrity of the same has not been compromised by the movement of the pit.
-This is an unforeseen event, is not of our doing or responsibility but is clearly at the risk of others, but
-any remedial works necessary to address the upheaval and make good the concrete has the potential to
-delay and disrupt the progress and completion of our Main Terminal Building (MTB) Works, and
-constitute an act of prevention or breach of Contract on the part of the Employer’s Other Contractor.
-While writing wish to draw your attention to the fact that since the photographs included at Annex A
-were taken, L&T have broken out the PQC slab immediately adjacent the PCA pit to Gatehouse GH06
-[the photos attached at Annex B refers]. Therefore, if this area is to be grouted also, we request that
-you inform us as to what measures they have/will put in place to avoid any potential reoccurrence.
+Subject:Delay Notification – GH20 SCR MEP Works
+Dear Sir,
+We write with reference to your letter (1) in which you advise us of constant slippage to the completion
+of MEP works inside Gate House GH20 SCR.
+You are more than aware that the delay to the completion of the MTA works in the location of GH20 has
+seriously impacted our planned work. The MTA Contractor’s works were not completed until early May
+2019, causing unplanned delays which were outside of our control and contemplation.
+We have sent many e-mails to you on the matter in February and March 2019, notifying you that our
+work fronts need to be cleared from the constraints related to MTA Contractor’s uncompleted works. In
+particular, the pending MTA works has significantly hindered the installation of the raised floor within
+the SCR to Gatehouse GH20 which is critical for ADDC inspections and Form 4 approvals.
+Several e-mails exchanged between us including site photos for GH20 electrical closet where the 400 Hz
+cables are missing and MTA cables are pulled back and looped in the room due to external apron works
+and the demolished duct bank, which is due to the MTA Contractor delaying our works. Copies of some
+of the e-mails exchanged between 7 and 10 March 2019 are attached for reference.
+Accordingly, we hereby reserve all our rights under the provisions of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs due to the acts of prevention described herein.
+Meanwhile, we reiterate that we remain fully committed to ADAC, the Project and to completing our
+obligations within the shortest possible time, without compromising on safety and quality, but will not
+be held responsible for such factors as those outlined above for which we are not culpable.
 Yours faithfully,

@@ -1,21 +1,35 @@
-Subject:
 
-Notice to Correct – Non-Designation of a Project Manager
+Subject: Re Settlement Agreement and Amendment No 8 TIA Methodology
+Dear sir,
+We acknowledge receipt of your letter reference (1) above on 23 December 2018. As requested we
+set down below our proposed TIA methodologl provided via email on 6 December 20182
+•
+Fragnet development
+• A draft fragnet (based on the information provided with the Engineer's Instruction
+requesting a cost and time proposal) depicting the envisaged works shall be developed in
+conjunction with the relevant Subcontractors to reflect how the additional works would be
+executed.
+• The fragnet will be circulated internally to the appropriate teams within TCAJV for
+comment, (including but not limited to engineering, construction/operations, project
+controls, commissioning/close-out and commercial).
+• The fragnet will be amended and finalised, incorporating comments received, and then will
+be submitted to the Engineer.
+• Thereafter, TCAJV and the Engineer will endeavour to agree on the activities, durations and
 
-Dear Sir,
-Further to our enclosed emails and other numerous correspondences, this is to officially put on record
-that you have not been providing a full time Project Manager as per your Subcontract obligations.
-It has been observed that during the regular working hours, there is no designated Project Manager on
-site to act on your behalf as per Schedule 0 (Scope of Subcontract Works) Clause 4.2.12 A [General
-Services & Builders Work] of the Subcontract. Please note that your mentioned failure is a general
-breach of the Subcontract Agreement. Your failure to comply with the Conditions of the Subcontract is
-unacceptable and you are strictly reminded to fully comply with your Subcontract obligations at all
-times.
-In view of the above, we hereby instruct you under Subcontract Clause 22.1 [Notice to Correct] to
-immediately designate a Project Manager on site and take all necessary measures to prevent any similar
-future events.
-
-As noted in our enclosed email, in the event you are unable to provide a full time Project Manager, we
-will take all necessary actions on your behalf and backcharge you accordingly.
-This is for your immediate action.
+logic of the fragnet.
+Fragnet Impact
+• Ideally, and in accordance with industry recognised practice, the TIA process would require
+progress to be established and the current working programme (currently Rev 11.2) to be
+updated to the date immediately prior to the commencement of the impacting event.
+However, this cannot be achieved as the Engineer requires a minimum of 33 days3 after
+receiving our cost and time proposal before he is in a position to issue the necessary
+Variation Order.
+• Therefore, as an alternative to the above methodology, the agreed fragnet shall be inserted
+into the approved Rev 11.2 programme (with no post 4th September 2018 progress applied)
+and the start and finish activities in the fragnet shall be logically linked to the appropriate
+activities in this programme.
+• The logic connecting both ends of the fragnet to the Rev 11.2 programme activities shall be
+verified by TCAJV's project controls department.
+• The Rev 11.2 programme, complete with the new fragnet, shall be rescheduled to establish
+the impact to the milestones resulting from the proposed Variation.
 Yours faithfully,

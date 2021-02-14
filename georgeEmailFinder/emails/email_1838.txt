@@ -1,111 +1,11 @@
+Dear sir
+In response to ALYSJ's letter (Reference 1) to implement the Engineer's Instruction (E.I.) contained in the
+above referenced Engineer's letter, WorleyParsons is assessing the impact of the changes based on the
+currently executed models.
+Time I cost impact associated will be assessed in accordance with Sub-Clauses 4.5.2 and 4.5.3 of the
+General Conditions of the Agreement and shall be submitted as a Project Change Request.
+Further, WorleyParsons continues to progress with the MEP design in the best way possible,
+coordinating and participating in Workshops with ALYSJ, MSI, Hyder and Atkins and proactively seeking
+for clarifications on the missing information .
 
-Dear Sir,
-
-Further to the Engineer’s Direction of reference 1) issued pursuant to General Condition (“GC”) 13.2.1 of
-Volume 3 of the Contract, the Contractor encloses herewith particulars in relation to the varied scope,
-quantities and direct costs in accordance with its GC 13.2.2 obligations.
-
-The Contractor has assessed the impacts of this Variation and has concluded that the following items
-will be severely affected both as to cost and time:
-
-a.
-
-Design
-
-b.
-
-Land acquisition
-
-c.
-
-Traffic diversion
-
-d.
-
-Utilities diversion
-
-e.
-
-ELS
-
-f.
-
-Construction and site installation
-
-Considering the uncertainty of the information received via letter reference 1) with regards to the exact
-location of the Al Sudan remote entrance and the resulting re-alignment of the relevant subway, the
-Contractor has made an approximate cost estimate, which is summarized in Table 1 below.
-
-Full particulars of the Contractor's valuation of this variation are enclosed in Attachment 1) and 2) to this
-letter.
-
-SN
-
-DESCRIPTION
-
-Amount (QAR)
-
-A
-
-CONSTRUCTION COST (Subway)
-
-1
-
-Cost reduction due to reduced subway length
-
-2
-
-Over-excavation and backfill
-
-B
-
-CONSTRUCTION COST (Entrance)
-
-1
-
-Additional ELS 1,330,000.00
-
-2
-
-Additional Construction Costs due to confined space
-
-(600,000.00)
-
-19,774.44
-
-TBA
-
-3
-C
-
-LEAD DESIGN
-
-1
-
-Abortive/Additional Design
-
-1,391,829.28
-
-TOTAL 2,141,603.72
-Table 1: Summary of preliminary valuation
-
-The Contractor hereby provides a preliminary estimate of the adjustment to the Contract Price in the
-net amount of QAR 2,141,603.72 as detailed in Attachments 1) and 2).
-
-The Contractor’s preliminary assessment of the time impact shows that the completion of Entrance 2
-will be delayed by 3 to 4 months due to the need for piling at the new entrance location. This will extend
-the duration of TTM accordingly.
-
-The Contractor kindly requests the Engineer to clarify the final position of Entrance 2 and secure the
-necessary land for the temporary site installation.
-
-Finally the Contractor understands that the necessity to relocate entrance 2 is a fait accompli and kindly
-requests the Engineer to formally issue an Instruction under 13.1.1. Any delay in doing so increases the
-risk of additional works to be abortive and further delays to be incurred.
-
-The Contractor reserves its rights to recover any time related costs in connection to this Variation which
-shall be addressed under a separate cover.
-
-We remain at your disposal for any further information and/or clarification.
-
-Yours faithfully,
+Yours faithfully

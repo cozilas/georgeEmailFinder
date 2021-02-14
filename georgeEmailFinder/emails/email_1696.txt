@@ -1,56 +1,76 @@
+
 Dear Sir,
 
-Further to Engineer's Assistant's letter reference 1), the Contractor maintains having complied with the
-provisions of Volume 5 - Employer's Requirements - Particular, Sub-Clause 2.1.2 b), for underground and
-above ground ancillary structures including ventilation shaft, plant rooms.
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation both to timing and
+price for the Variation proposed by the Engineer regarding work under the contract.
 
-In addition, the Contractor confirms compliance with the provisions of Volume 5 - Employer's
-Requirements
-- Particular, Sub-Clause 2.1.1, that "the design and construction of the works shall be developed in
-accordance with the Employer 's Requirements and the Contractor's Technical Proposals."
+The Variation as proposed:
 
-The Contractor is unable to concur with the Engineer's Assistant's observations regarding the
-requirement of Traction Power Supply in the Emergency Exit shaft at Al Sharq being defined under
-Volume 6 - Employer's Requirements - Design Specifications, Sub-Clause 14.3.2.3.
+The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
 
-Finally, the Contractor kindly refers the Engineer's Assistant to Volume 9 - Employer's Requirements Employers Investigations Report No. 1.2.1.5, Power and Water Demand Study Final Report and Power
-Demand Study Operational Simulation Final Report prepared by DBi.
+"Based on these calculations, the minimum clear width of such passageways, whether elevated or
+underground, shall be no less than 1O m. This does not include areas of low mobility near to vertical
+surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
+deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
 
-The Engineer's Assistant's attention is drawn towards Annex 6 - Matrix for Traction Power Substation
-750 V DC metro location, page 4 of 7 (enclosed herewith for ease of reference) wherein it is mentioned
-that the TPS DC location is
+Volume 6, Sub-Clause 11.4.6.25 b) proposed:
+To reflect an optimization outcome where the minimum clear width of passageways whether elevated
+or underground is reduced to 6.80 meters (excluding event stations).
 
-;;::.
+The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
+Required Passageway Widths (attached). Contractor is to note that:
+•
 
-In Tunnel for the Tunnel section up to Ras Bu Abboud (Airport City North) Station
+This does not include for finishes which should be assumed as +1.0m
 
-J.>
+•
 
-In Ras Bu Abboud (Airport City North) Station
+Width of passageway is the clear width between the two (2) clad facades of the passageway
 
-;;::.
+•
+Width of walkway is the usable width of the walkway between the two (2) travellators or the
+travellators and the wall - depending upon layout.
 
-In Qatar National Museum (Al Sharq/ National Museum) Station
+Stations where the minimum width has already been agreed with Other parties or where design and
+construction may have advanced to the stage where reverting minimum width is no longer feasible,
+shall be considered on a case by case basis.
 
-)::>-
+The Contractor shall submit the quotation within 14 days from receipt of this direction.
+Dear Sir,
 
-In Station Souq Waqif (Doha Souq) Station
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation both to timing and
+price for the Variation proposed by the Engineer regarding work under the contract.
 
-;;::.
+The Variation as proposed:
 
-..
+The Employers Requirements Volume 6, Sub-Clause 11.4.6.25 b) currently state that:
 
-This confirms that no Traction Power Supply was planned through the Emergency Exit between Ras Bu
-Abboud (Airport City North) Station and Qatar National Museum (Al Sharq/ National Museum) Station at
-tender stage.
+"Based on these calculations, the minimum clear width of such passageways, whether elevated or
+underground, shall be no less than 1O m. This does not include areas of low mobility near to vertical
+surfaces such as walls, railings or balustrades. For these areas, an additional width of 0.25 m must be
+deducted per surface from the overall width to arrive at the absolute clear width for the passageway."
 
-Further to the above, the Contractor hereby reiterates that there is no contractual requirement for the
-provision of Traction Power Supply through the Emergency Exit at Al Sharq.
+Volume 6, Sub-Clause 11.4.6.25 b) proposed:
+To reflect an optimization outcome where the minimum clear width of passageways whether elevated
+or underground is reduced to 6.80 meters (excluding event stations).
 
-Dear Sir,
+The potential minimum width allowable at each station is as shown in Attachment A, Summary Table of
+Required Passageway Widths (attached). Contractor is to note that:
+•
 
-Further to the Contractor's submission under letter reference 1) and the discussions held at the Design
-Meeting of 04 November 2015, the Contractor encloses herewith its proposal for the Urban Integration
-of Pop - Ups at Joaan Station.
+This does not include for finishes which should be assumed as +1.0m
 
-We remain at your disposal for any further information and/or clarification. Yours faithfully ,
+•
+
+Width of passageway is the clear width between the two (2) clad facades of the passageway
+
+•
+Width of walkway is the usable width of the walkway between the two (2) travellators or the
+travellators and the wall - depending upon layout.
+
+Stations where the minimum width has already been agreed with Other parties or where design and
+construction may have advanced to the stage where reverting minimum width is no longer feasible,
+shall be considered on a case by case basis.
+
+The Contractor shall submit the quotation within 14 days from receipt of this direction.
+Yours faithfully,

@@ -1,111 +1,35 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0205
-Changes Introduced to our Works associated with the installation of CO2 Fire Extinguishers to all
-Energised Rooms – Request for Engineer’s Instruction (EI) and Variation Order (VO) in order to integrate
-Variation / Change into Works
+Subject: Agreement of principle issues
 Dear Sirs,
+We refer to meetings that took place at senior level between the Part ies on 14 and 22 January 2020
+in respect of the way forward to completion of this Project.
+We are pleased to confirm mutual agreement on the principle issues as follows:
+1. TCA JV commits to fund their own cost, which inclusive of JV staff, labour and equipment etc.
+until the Substantial Completion date. The total contribution from JV will be approximat ely
+300M AED.
+2. OPTION A: ADAC will return the current Retention Bond in the sum of 860 M AED in exchange
+for the provision of cleared funds to the project by the Banks in the same value. ADAC and JV
+will administer this amount through an Escrow Account.
+Option B: Parties will jointly appoint a 3rd Party to assess the Claims and Variations submitted
+by TCA JV to ADAC that is approximately 1.3 BAED. The non-binding outcome of the 3rd Party
+assessment value will define the amount ofthe Retention Bond that will be returned back to
+TCA JV. The target duration to fin "alize this process is maximum 6 weeks.
+3. TCA JV through their bank will issue an Advance Payment bank guarantee for 25 1 M AED
+within a week in favor of ADAC, ADAC will release the payment as long as the JV clea rly shows
+and evidence the distribution of the Payment to t heir respect ive subcont ract ors.
+4. TCA JV Project Management Organizat ion will be modif ied with replacing some of the key
+staff. The revised organizat ion will be officially submitted to ADAC.
+5. ADAC has requested to finalize t he sett lement agreement wit h TAV IT.
+6. It was highlighted by TCA JV management that, Side Agreement topic, which covers the
+Variation Orders and Subsidence subjects, will be elevated to higher Governmental
+Authorities for conclusion.
+7. TCA JV will submit a schedule to ADAC defining the completion status by 30 June 2020
+(minimum achievements are agreed that PIERS and CP Cause & Effect will be finalized by AHJ)
 
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern changes introduced to our works by the Employer’s Fire
-Safety Consultant (Profire) associated with the requirement to install CO2 Fire Extinguishers to all
-Energised Rooms, and requires a valid EI and VO in order for us to integrate the same into the Works.
-Potential Impact
-Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 11 December 2019, a Mechanical Work Completion Inspection (MCI) of the Fire Suppression Systems
-was undertaken by the Employer’s Fire Safety Consultant (Messrs Profire). Their Inspection Report ref:
-191210-PF-IR-34451-GM dated 11 December 2019 addressed to the Employer (ADAC) [copy attached
-hereto], identified a limited number of ‘Findings’. This included but was not limited to the following
-comments in relation to the fire extinguishers in energised rooms located at various sectors at CP Pier 4
-Level 1.0:
-“9. Installation of fire extinguisher not complied with as per NFPA 10 sec-6.4.1 minimum requirements.
-Fire extinguisher with class Crating shall be required where energized electrical equipment can be
-encountered, provide fire extinguisher [to] all Energized Rooms, and electrical closet: [comment is NOT
-limited all Energized Rooms, and electrical closet. UPS/BAT, SCR & ELV, EMD, ELECTRICAL SUBSTATION
-and LV SWITCHGEAR ROOM] Refer below room.” [bold added and underlined for emphasis]
-Given that Profire’s request to provide fire extinguishers to all energised rooms (i.e. Electrical Closets,
-IT/Telecommunications Closets, Satellite Communication Rooms (SCR), Main Communication Rooms
-(MCR), LV Switchgear, Substations, EMD, UPS / Battery, Electrical Closets and Generator energised
-rooms), is additional to what has been requested by you via previous RFI responses (described below),
-then Profire’s comments represents an attempt at introducing change to the Works by instructing us to
-install fire extinguishers to all energized rooms;. We further note is a change to our scope of works as
-explained below.
-There are three types of portable, hand-carried fire extinguishers described in Specification Section
-104416 (‘Fire Extinguishers’); namely: (A) Multipurpose dry chemical type; (B) Class K extinguishing
-agent; and (C) Carbon Dioxide extinguishing agent, albeit only the ‘Multipurpose dry-chemical type’ was
-shown in the IFC Drawings [including an IFC layout of their specific locations on the Project].
-It is for this reason [that the remaining types: (B) ‘Class K extinguishing agent’ and type ‘(C) Carbon
-Dioxide extinguishing agent’ are not shown on the IFC Drawings] that we raised RFI/0401/15643 on 28
-January 2018, requesting further clarifications from you as to the requirements for the same, and with
-reference to the various attachments appended thereto, requested you to provide revised IFC Drawings
-showing each of their respective quantities and locations on the Project (Figure 1 refers):
-Figure 1 – Extract from RFI/0401/15643
-
-We received your response to RFI/0401/15643 on 22 February 2018 wherein you addressed items ‘2’
-and ‘3’ raised by us, stating the following:
-“2) Type K extinguishers to be used in all Kitchens.
-3) CO2 extinguishers to be used in all Electrical
-Closets, IT/Telecommunications Closets, SCR’s MCR’s.”
-Your response to RFI/0401/15643 as shown above did not fully address the matter and also failed to
-provide any IFC Drawings as requested. Additionally, you stated that CO2 fire extinguishers shall be
-used only in specific energised rooms, these being the Electrical Closets, IT/Telecommunications Closets,
-SCRs and MCRs energised rooms only. For this reason, we sought further clarification from you by
-raising RFI/0401/16409 on 20 August 2018 stating the following (Figure 2 refers):
-Figure 2 – Extract from RFI/0401/16409
-With RFI/0401/16409, we requested you to provide:
-•
-IFC Drawings showing the exact locations and quantities of Type k fire extinguishers; and
-•
-IFC Drawing showing the exact locations and quantities of the CO2 fire extinguishers at the
-specific energised rooms listed in your response to RFI/0401/15643 (i.e. electrical closets, IT /
-telecommunication closets, SCRs and MCRs).
-We requested a response to RFI/0401/16409 by 28 August 2018. However, you failed to reply until 41
-calendar days later on 8 October 2018, wherein the Employer’s Design Consultant (KPF) stated the
-following (Figure 3 refers):
-Figure 3
-Notably, KPF clarified that “…contractor to provide Type K extinguishers in all kitchen areas with cooking
-equipment…” and referred us to the attached list thereto enumerated as ‘ATTACHMENT TO RFI-16409
-RESPONSE’, which provided a “list of rooms with cooking equipment as directed by ADAC”. KPF also
-noted that “…Fire extinguishers to be temporarily wall mounted by the contractor at the units back wall.
-(As these spaces are currently with no fit-out works) …”
-In regards to the CO2 fire extinguishers, KPF clarified and listed once again the energised rooms wherein
-CO2 fire extinguishers shall be installed, i.e. the “Electrical Closets, IT/Telecommunications Closets, SCR,
-MCR”. Additionally, ADAC’s response to RFI/0401/16409 states (Figure 4 refers):
-Figure 4
-In summary, ADAC’s statement appears to put to question the IFC Design and the Contract Documents
-in regards to the Fire Extinguishers and explains that for the Type K extinguishers “Unfortunately the
-tenant design for such kitchen areas are undefined at this moment in time, therefore KPF should advise
-TCAJV in this RFI response on how to meet the design intent for this IFC requirement including but not
-limited to, defining temporary locations for the FE’s”.
-In view of the above, we put on record that none of your abovementioned RFI responses provided the
-requested IFC Design / Drawings regarding the Fire Extinguishers. In addition, your responses advised
-that the CO2 extinguishers must be installed to some, and not to all energised rooms, i.e. the Electrical
-Closets, IT/Telecommunication Closets, SCR and MCR energised rooms only. The IFC Drawings along
-with your RFI responses failed to specify the installation of fire extinguishers to the LV Switchgear,
-Substations, EMD, UPS / Battery, electrical closets, SCR and generator rooms.
-In summary therefore, it is evidently clear that the requirement to install CO2 fire extinguishers to all
-energised rooms insisted upon by Profire constitute a change to the existing IFC requirements and thus
-is variation to our original scope of work and accordingly an EI would be required to proceed.
-
-As you know, SAA8 laid down strict guidelines to follow if additional works are required and this appears
-to have been ignored. Hence this change will warrant a valid Engineer’s Instruction (EI) and a Variation
-Order (VO) if you require us to proceed with integrating the revised scope into the Works.
-We therefore take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
-Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
-proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
-which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
-after the additional time and/or costs impacts have been agreed between us beforehand.
-Meanwhile, until such time as you take the action required of you in accordance with the express
-requirements of SAA8, we are unable to proceed with implementing the changes noted above and will
-continue to proceed in accordance with the existing IFC design to the extent we are able to.
+and critical remaining works between pt of July 2020- 3Pt of August 2020).
+8. Subject to TCA JV completing the Works in accordance with the dates agreed and confirmed
+elsewhere in these minutes, and subject to the resolution in line with the process set out in
+the Contract of TCA JV's claims and ADAC's counterclaims, ADAC will release the remaining
+securities, if any, in accordance with the Contract.
+We thank you for your positive approach and commitment and confirm we are proceeding on the
+basis of these agreements: we trust this meets with your approval.
 Yours faithfully,

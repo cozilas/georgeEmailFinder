@@ -1,26 +1,33 @@
-
 Dear Sir,
-The Engineer's Assistant would like to remind ALYSJ JV of its obligations to fulfill the Employers
-Requirements, Volume 6, Clause 11.4.3 Landscaping, specifically regarding the urban integration of ".....
-all functional and structural features pertaining to stations ...." by minimizing the visual impact of
-technical Pop Ups on the urban environment.
 
-Please see the attached sketch for reference.
+Further to our letter reference 1) and Engineer's Instruction No. 78 to delete the diesel generators
+reference 2) we reiterate your obligations to fulfill the Employers Requirements,Volume 6, Clause 11.4.3
+Landscaping, specifically regarding the urban integration of " .....all functional and structural features
+pertaining to stations .... "by minimizing the visual impact of technical Pop Ups on the urban
+environment. This includes the supplementary UPS/ battery rooms introduced in reference 2) to
+replace the diesel generators. We confirm that the requirement is for one supplementary UPS/ battery
+room with minimum
+area of 70 m2 and minimum clear headroom of 5 m per I type station and two such rooms for X type
+stations.
 
-Further, we refer you to Employers Requirements, Volume 6, Clause 13.2.3.1 (n) Chilled Water System I
-Central Plant which details a typical dry cooled chiller pit.
+The following additional guidance is provided:
 
-For chiller yards and tunnel ventilation/draught relief shafts, the equipment shall be located in a sunken
-plaza as far away from the public view as is technically feasible.
+1.
+For stations with switch boxes (Ras Bu Abboud, Bin Mahmoud, Al Sudan, Sport City and
+Muaither) the supplementary UPS/ battery room {s) can be located within the overburden above the
+switchbox provided that this room is adjacent or as close as possible to the SPS MV/ LV room.
 
-For emergency exits, the enclosed stair structure shall terminate below grade with only an exposed
-stair leading to grade level.
+2.
+For stations without switchboxes (Qatar National Museum, Al Sadd, Joaan, Al Waab, Al Aziziyah,
+Doha Zoo and Al' Rayyan Sbuth) the supplementary UPS/ battery room {s) can be buried within the
+available overburden above the station box provided that it does not encroach within Ashghal's RoW
+or conflict with utilities. To fac ilitate this burial the minimum clear
+headroom of the supplementary UPS/ battery room can be reduced to 3 m with a subsequent increase
+in the minimum area to 100 m2
 
-In all other cases where the above measures cannot be implemented, ALYSJ JV will need to provide
-justification on a case to case basis which will need to be evaluated by Qatar Rail. We request that ALYSJ
-JV provides a report detailing the feasibility of such measures at each station at the earliest possible
-time to avoid future delay to deslgii developi11e11t.
-
-Finally, please note that any protective railing or parapet wall that will be required at grade needs to be
-in line with the branding design intent.
+3.
+In situations where neither of these options is possible (Souq Waqif) the supplementary UPS/
+battery room should be located within the station box utilizing rooms which are currently shown
+unallocated in the DD1 Architectural Layouts. To assist with facilitating this, an alternative
+configuration of two separate rooms with minimum clear areas of 35 m2 is acceptable.
 Yours faithfully,

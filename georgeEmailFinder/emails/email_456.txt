@@ -1,107 +1,145 @@
+Subject:
+Concrete Lid Slab under Escalators and Stairs at CP L0.0 Sectors 5.16 & 5.22 Employer’s
+Request for Justification for Deviating from IFC Drawings
+Dear Sir,
+We refer to receipt of the Employer’s e-mail ref: (4) requesting an ‘official letter’ in support of the
+reasons for us purportedly deviating from the original design of the ‘lid’ under the escalators and stairs
+at L0.0 Sectors 5.16 and 5.22, following our successive requests to have you re-code the current Status
+Code 3 responses our Shop Drawing Submittals, including those identified in our RFEI submitted via our
+letter ref: (1). Please note that we have previously addressed a similar matter, for a different location, in
+our letter ref: (5) above.
+The history of events associated with this issue is convoluted and voluminous; a detailed narrative of
+which is provided at Annex A hereto for your information and reference. However at its simplest:
+•
+The original IFC was unclear and failed to specify the type of material or system to be used for
+the 2-hour fire resistance and whether for example, it was gypsum or concrete or other material;
+•
+As a result, we raised RFEI/0401/0152 via our letter ref: (1), requesting for an Engineer’s
+Instruction and revised IFC drawings;
+•
+The Engineer via letter ref: (2) responded to RFEI/0152 stating that the matters raised, were
+discussed during previous meetings and requested us to raise an RFI to resolve the technical solution;
 
-Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0063
-Late and Unreasonable Status Code 3 Responses to Material Submittal Nos: MS/0401/A/1720-00 &
-MS/0401/A/1727-00, and Late Response to Material Submittal No: MS/0401/A/1720-01 – Hardware for
-Smoke Rated Doors
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
-may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
-The Event(s):
-On 27 November 2018, 19 December 2018 and 4 March 2019, we submitted the following three (3)
-Material Submittals seeking your approval of the Hardware for Smoke Rated Doors (Table 1 refers).
-At the cut-off date associated with preparing this notice, you have so far responded to two out of three
-of those submittals (items 1 and 2), while the response to the other (Item 3) remains overdue.
-Table 1
-Item Date submitted Submittal Ref Rev
-Description of Contents Response due per Section
-013300 Response received
-Status Code
-Delay (Calendar Days)
-1
-27-Nov-18
-DS/0401/A/1720
-00
-Material Submittal
-Hardware for Smoke Rated Doors
-18-Dec-18
-03-Feb-19
-3
-47 days
-2
-19-Dec-18
-DS/0401/A/1727
-00
-Material Submittal
-Hardware for Smoke Rated Doors
-09-Jan-19
-26-Feb-19
-3
-48 days
-3
-04-Mar-19
-DS/0401/A/1720
-02
-Material Submittal
-Hardware for Smoke Rated Doors
-18-Mar-19
-23 days
-Article 1.3 of Specification Section 013300 ‘Submittal Procedures’ governs the processing time by which
-you are contractually obligated to respond to our submittals. On the basis that each of the material
-Submittals listed in Table 1 is at Rev. 00 then these ought to have been responded to by you 21 calendar
-days later. However, the information recorded in Table 1 shows that at the cut-off date associated with
-this E-Notice (10 April 2019), you exceeded, and in one instance (item 1) continue to exceed the review
-periods expressly stipulated in the Contract, by upwards of 48 calendar days.
-Additionally, we further record that the responses to Material Submittal No. MS/0401/A/1720 Rev. 00
-and MS/0401/A/17207 Rev. 00 (identified at Items 1 and 2 in Table 1), contain what we contend are a
-series of unreasonable comments, despite the door hardware subject to these submittals being
-compliant. The information recorded in Table 2 below, records the particular comments in question,
-alongside we have provides a response justifying why we believe those comments are unreasonable.
-Table 2
+•
+Numerous workshops and meetings were held to discuss this issue, where it was agreed to
+proceed with a 2-hour fire rated concrete material in both locations at CP L0.0 Sector 5.16 and 5.22;
+•
+Our technical proposal was sent in advance, via an email dated 20 January 2018, prior to
+sending an RFI. With our mentioned email, we submitted the proposal for a 2-hour fire rated concrete
+lid. The Engineer’s Design Consultant (KPF) responded with various technical comments without stating
+any objection for the proposal (emails hereby attached);
+•
+The main reasons which it was jointly decided by the parties to proceed with a concrete
+solution, for the 2-hour fire rated lid system are the following:
+works are expedited using concrete instead of gypsum and can be constructed faster; and
+MEP services can be readily suspended from a concrete lid system but not from gypsum;
+•
+Subsequently, RFI/0401/15861 was raised including the 2-hour fire rated concrete lid as
+discussed and agreed. The Engineer responded to RFI/15861, stating no objection to the 2-hour fire
+rated concrete lid;
+•
+Consequently, absent the receipt of any updated IFC Drawings from you, and in order to
+progress the works and mitigate any potential delay, our Shop Drawings were developed incorporating
+the 2-hour fire resistance rated concrete lid as agreed. This has been subsequently constructed;
+•
+Unfortunately, the relevant Shop Drawing Submittals, identified at ref: (3), were returned Status
+Code 3. Clearly, you have overlooked the fact that the RFI/15861 response which included the 2-hour
+fire rated concrete lid was already accepted by the Engineer;
+•
+Meanwhile, the associated the structural calculations submitted1, which reflect the agreed 2hour fire rated concrete lid at the locations discussed herein, have received code 2.
+The situation we now face is this: despite having discussed the above with you and the Employer on
+many occasions and requesting you to re-code the Status Code 3 Shop Drawing Submittals, this has
+failed to materialise. In the meantime, we are now faced with a situation where, because of the Code 3
+status, there exist numerous open Work Inspection Requests (WIRs), which are required to be closed so
+that we can finalise the works.
+We therefore, request your kind assistance to re-code the Shop Drawing Submittals identified herein to
+Status Code 2 or higher, and do so urgently. This will enable us to close the relevant WIRs and NCR.
 
-Item Engineer Comments
-Contractor’s Response
-Comment on Material Submittal No: DS/0401/A/1720 Rev. 00
-1
-CODE 3 COMMENT:
-1.The hardware set configurations call for power transfer
-pivots. What is submitted is a power transfer loop. Electric
-power transfer loop (EPTL) submitted is not acceptable.
-MS-C-0564-02 has an approved EPT 10 which can also be used on this submittal. Contractor to submit
-EPT 10.
-Power transfer pivots are not compatible with the hinges as listed in the hardware set. The
-proposed product, Securitron EPT, is compliant with requirement as per spec to have 'steel housing for
-mortise in hinge stile of door, with flexible tube for wiring'. There is no valid reason for rejection of
-material.
-Specification Section 087110 2.31.D States:
-Door and Frame Transfer Devices: Steel housing for mortise in hinge stile of door, with flexible tube for
-wiring bundle; accommodating doors that swing open to 180 degrees.
-1. Concealed PTFE-jacketed wires, secured at each leaf and continuous through sleeve.
-Comment on Material Submittal No: DS/0401/A/1727 Rev. 00
-2
-‘Code 3:
-EPTL is not accepted in this project. Contractor to refer to
-MS-0401-A-1720-0 comment for the power transfer loop.’
-Power transfer pivots are not
-compatible with the hinges as listed in the hardware set. The proposed product, Securitron EPT, is
-compliant with requirement as per spec to have 'steel housing for mortise in hinge stile of door, with
-flexible tube for wiring'. There is no valid reason for rejection of material
-Specification Section 087110 2.31.D States:
-Door and Frame Transfer Devices: Steel housing for mortise in hinge stile of door, with flexible tube for
-wiring bundle; accommodating doors that swing open to 180 degrees.
-1. Concealed PTFE-jacketed wires, secured at each leaf and continuous through sleeve.
-We note that the foregoing affect 14 doors in total; 3 in Pier 2 and 11 in the Central Processor.
-Potential Impact:
-Your Status Code 2 or higher approval of the Material Submittals for the Hardware for Smoke Rated
-Doors listed in Table 1 is essential in so far as it affects testing and Commissioning which is similarly
-essential in enabling us obtain the Building Completion Certificate (BCC). This is critical to achieving
-Milestone No. MS09B. Consequently, the more you unduly prolong the review and approval of these
-Smoke Rated Door Hardware Submittals and subject them to unnecessary and unreasonable Status
-Code 3 comments, the more likely this will prevent us from achieving Substantial Completion.
-Action Required:
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Background of Events
+1.0
+Concrete Lid Slab under Escalator and Stairs to CP Level L0.0 Sector 5.16 and 5.22
+1.1
+Based on the Design as per IFC Drawings series ‘G’, the works for fire compartmentation under
+the escalators and stairs at CP L0.0 Sector 5.16 & 5.22, consist of a 2-hour fire resistance rating. The IFC
+Drawings however, do not specify the type of material or system to be used for the 2-hour fire
+resistance rating (i.e. if it is a lid system with gypsum or concrete or any other material or any other
+system);
+1.2
+As a result, due to the inefficiencies in the Design and the incomplete information provided to
+us in the Contract, we raised RFEI/0401/0152 via letter ref (1) above, requesting more clarity and an
+Engineer’s Instruction in regards to the 2-hour fire resistance rating to be constructed, at the mentioned
+locations;
+1.3
+Specifically, with RFEI/0152 we requested the following:
+
+1.3.1 In IFC Drawings A07/415, A04/102 at sector 5.11 and IFC A04/109 at sector 5.22, fire-rated
+ceiling was indicated for the rooms located under the escalators. However, the walls were not indicated
+to be similarly fire rated. IFC Drawings A42/216, A42/221 and A07/415 also did not specify fire-rated
+ceiling in similar rooms located under the escalators at L0.0 Level. The Contractor therefore, requested
+the Engineer to review the information provided in the IFC drawings and instruct the necessary changes
+(if desired) and issue the revised IFC Documents together with an Engineer's Instruction;
+1.4
+In accordance with the Fire Strategy Report [Volume 3 of 4 DESIGN REPORTS Book 20 of 24], a 2hour fire resistance rated system must be constructed under the escalators and stairs. As stated above,
+the IFC drawings do not provide details in regards to the system and material to be used. Therefore, the
+mentioned RFEI was raised to provide more clarity on the Design;
+1.5
+For the reasons stated above, we had further RFEI meetings/workshops with the
+Employer/Engineer/Engineer’s Design Consultant. During the meetings we raised the issue that
+underneath the escalators at L0.0 Sector 5.16 and 5.22 there was a 2-hour fire rated ceiling, but the
+enclosing walls were not shown as fire rated. After numerous meetings/workshops, it was agreed to
+proceed with a 2-hour fire rated concrete instead of a gypsum material in both locations at CP L0.0
+Sector 5.16 and 5.22;
+1.6
+The Engineer via letter ref: (2) responded to RFEI/0152 and also included in its response,
+numerous other design issues raised by us previously. The Engineer stated that the matters raised in
+RFEI/0152 were discussed during a meeting on 13th January 2015 and also mentioned that an email was
+sent including a proposed solution. Please note that we have not been able to locate the said email and
+any minutes of the meeting, therefore, it is unclear what has been discussed during the mentioned
+meeting. Moreover, we were requested to raise an RFI to resolve the technical solution.
+1.7
+Our technical proposal was sent in advance, via an email (attached herewith) dated 20 January
+2018, prior to sending an RFI. With our mentioned email, we submitted a proposal for a 2-hour fire
+rated concrete lid and the Engineer’s Design Consultant (KPF) responded with comments on our
+proposal. Specifically, KPF stated that there is no objection in regards to the proposal and made specific
+comments in regards to further technical details to be provided (email hereby attached);
+1.8
+In light of the aforementioned, it was also jointly agreed between the parties, to proceed with
+the works of a 2-hour fire resistance rated concrete lid system at CP L0.0 Sector 5.16 & 5.22;
+1.9
+The main reasons which it was jointly decided by the parties to proceed with a concrete
+solution, for the 2-hour fire rated lid system are the following:
+1.9.1 the works would be expedited using concrete instead of gypsum since concrete can be
+constructed faster; and
+1.9.2 the MEP services can be hanged from the concrete lid system but not from a gypsum lid system.
+1.10 Subsequently, as per our aforementioned discussions, RFI/0401/15861 was submitted wherein
+we included the 2-hour fire rated concrete lid as agreed, to be used at the locations discussed herein.
+The Engineer responded to RFI/15861, stating no objection to the proposed 2-hour fire rated concrete
+lid.
+1.11 Consequently, the shopdrawings have been submitted via SDS/0401/S/4129-00 incorporating
+the 2-hour fire resistance rated concrete lid for approval, which has been constructed. However, the
+comments received on 24 May 2018 in the aforementioned shopdrawings submittal by the Engineer and
+the Engineer’s Design Consultant, have been code 3. Clearly, you have overlooked the fact that the
+RFI/15861 response which included the 2-hour fire rated concrete lid was already accepted by the
+Engineer.
+1.12 Also the Engineer provided code 3 for the columns stating its disagreement about the projected
+columns located in the corridor. However, the column setting out showing the projected columns in the
+corridor was already included in our proposal submitted via RFI/15861, which was accepted by the
+Engineer.
+
+1.13 Meanwhile, the associated structural calculations submitted , which reflect the agreed 2-hour
+fire rated concrete lid at the locations discussed herein, have received code 2;
+1.14 All of the above, have been discussed numerous times and have been agreed with the
+Employer/Engineer/Engineer’s Design Consultant prior to implementation;
+1.15 Currently, there are numerous open Work Inspection Requests (WIRs) which are required to be
+closed so that we can finalize the works.
+1.16 In view of the above and the fact that the events discussed herein have been previously agreed
+with the Employer and consequently the Engineer, we kindly request you to re-code the shop-drawings,
+enclosed in the list herewith.
+1.17 Additionally, we wish to confirm that the events and circumstances discussed herein are
+deemed to be known events that occurred prior to the ‘Amendment Effective Date’ included within
+Settlement Agreement and Amendment No. 8 (SAA8), i.e. 4 September 2018; and accordingly are
+considered to be subject to SAA8 Sub-Clause 1.7.2 (‘Contractor’s Settled Claims’) and/or Sub-Clause
+1.7.4 (Included Circumstances’).
+Subject: Handing back of all PQC Apron and associated areas
 Yours faithfully,

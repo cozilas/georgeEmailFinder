@@ -1,48 +1,23 @@
-Subject: Re: Revise Claim
+Subject HBSS- Equipment failures 10080 XCT
 Dear Sir,
-We write in response to your letter referenced (1) pertaining to the aforementioned subject.
-Following our review of your claim submission referenced (1) above, we note that, you have
-resubmitted
-an updated 'Off-Site Storage Claim', which we have rejected back in early 2017 through our letter
-referenced (2) above.
-As you are aware, obtaining approval for the fundamental project deliverables such as below, is
-condition
-precedent for proceeding with your works at site. Please note that, you were still submitting your
-documents for approval as late as June 2017.
-• Inspection & Test Plan (ref. ITP-1093-104EA rev.01)
-Submitted on 8th May 2017 and received CODE 2 on 6th June 2017.
-
-• Method Statement (ref. MS-1093-104EA rev.OO)
-· Submitted on 12th March 2017 and received CODE 2 on 11th Apri/2017.
-Notwithstanding with any project schedule or area availability, we note that, you were not in a position
-to
-commence the site works earlier than June 2017 due to your failure to submit the documents and
-obtain
-the approvals.
-In addition to the above, we also record that, you still do not have valid and approved insurances;
-• Third Party Liability Insurance
-• Workmen's Compensation
-Please note, pursuant to the Conditions of Subcontract Clause 10.1.2(b) under the Subcontract
-Agreement, we may defer the provision of any right of access until the date on which you have valid and
-approved insurances.
-Moreover, your pending insurance submissions are not only affecting the commencement of your works
-at site and also avoiding you to receive the Advance Payment as per the requirements stated under
-Schedule 11 {Payment Terms) Paragraph 2.2 of the Subcontract Agreement.
-We would like to highlight once again that, multiple handling of the materials were your choice despite
-the fact that, material storage area was allocated for you. On the other hand, "Off-Site Storage Claims"
-(currently rejected) are separate to 'Prolongation Claims'
-(not yet received regardless of the several reminders with guidance attachments).
-These email chains were issued to you on several occasions with the attachments to assist you in your
-task
-to prepare prolongation costs in accordance with the JV and the Engineer's Requirements, including a
-Workshop held with you.
-Therefore, should you deem yourself entitled to 'Prolongation Costs' for any period beyond March 2015
-(EoT 2), you are required to follow the attachments and letters as previously provided on several email
-and letter reminders (Attachment 1).
-You are also reminded of your obligation to submit a detailed TIA Report and follow the requirements to
-demonstrate your time entitlement (if any), as per the relevant clauses including but not limited 27.1
-(Subcontractor's Claims), 27.2 (Time Impact Analysis) under the Subcontract Agreement.
-In light of the explanations, we hereby reject any claim, whatsoever pertaining to the "Off-Site Material
-Storage".
-This is for your reference and necessary action.
+Per the NCR-00897 referenced above, please provide a root cause analysis report, signed by the
+manufacturer in Germany, design management, identifying the reasons for the 10080 XCT failures
+It must be highlighted to you that a failure of the HBSS equipment during BHS testing by levels 4, 3, 2
+and 1 commissioning will affect the Engineers decision to accept or reject the BHS system. The HBSS
+system must be 99.99% available as specified under section 283310 I item 1.5 - Performance
+Requirements
+The Contractor must ensure the report is submitted at the earliest, and that the reworks start
+immediately to avoid disrupting any BHS commissioning plans. Analysis should include as a minimum:
+• What parts are failing
+• What are the current failure rates
+• Root causes analysis, reasons for the failure ofthese machines and parts
+• Describe in detail how the manufacturer will rectify the problem
+• Define a time frame, schedule when the rectification works will start and finish
+• Define a monitoring period for the reworks to establish that the problem has been
+eliminated
+• Define how the Contractor will ensure the machine will not fail in the future operations
+• Clarify where these machines been installed in existing operations Any replacement of parts and
+equipment repairs made during the project execution must be recorded
+into the project maintenance records for future reference- refer to letter (2} above.
+Your urgency on this matter is required.
 Yours faithfully,

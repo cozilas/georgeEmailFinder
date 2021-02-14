@@ -1,39 +1,37 @@
-Subject:Re: Back Charge Notification – BIM Services
+Subject: BIM Delays
 Dear Sir,
-We write in response to your letter referenced (6), wherein you rejected the backcharges issued via our
-letter referenced (5) above.
-The issue of not accepting the BIM backcharges, has been ongoing since 2015 and the fact that you have
-not yet complied with your Subcontract obligation is unacceptable. There are already numerous
-correspondences submitted providing all of the details and our position on the matter, including but not
-limited to our correspondences referenced above.
-In view of the above, we note and reiterate the following:
-•
-The statement in your letter not accepting the backcharges has no contractual basis. It is noted
-that such statements do not act in good faith towards your contractual obligations and shall be avoided;
-•
-All terms and conditions of the LOA referenced (1) shall apply to the VOs mentioned in your
-letter (5);
-•
-You are referred to the “Facilities Responsibility Matrix” in Appendix K of the LOA items I12 and
-I13, where your obligations regarding BIM are clearly shown;
-•
-Therefore, your statement that “all design and design work has never been part of our scope
-and, as such, any BIM work is thereby also excluded” has no contractual basis and is hereby refuted. To
-be clear, even though the design is indeed not part of your scope, however, the BIM deliverables clearly
-form part of your scope;
-•
-We put on record your failure to submit BIM models. We hereby enclosed a list of the BIM
-models, which you have failed to provide.
-•
-The sample model that was submitted by you to (for the EDI finalization) did not include the
-right coordinates;
-•
-Numerous emails (a list of emails is hereby enclosed) have been sent to you requesting the BIM
-models to be provided.
+TCAJV' s letter ref: MTB/TCA/WMS/L/000071 dated OS May 2015
 
-You are hereby reminded that any delays, costs, claims, losses and/or expenses and the like incurred by
-us arising as a result of your failure to complete the aforementioned activities will be solely your
-responsibility as per the Subcontract Agreement Clauses including but not limited to 10.3 [Contractor’s
-Claims], 12.12.4 [Other Contractors and Other Subcontractors] and 16.6 [Delay Damages].
-This is for your information and record.
+We hereby write with reference to the above subject and further to our numerous previous
+correspondence, meetings, workshops including, but not limited to, that referred to above and express
+our concerns regarding your failure to fulfill your Subcontract obligations in regards to BIM deliverables
+(EDI, Models submission, BIM activities etc.) and Implementation Plan in a timely manner.
+We note that you have consistently failed not only to furnish sufficient skilled BIM resources, services
+and/or to provide the required competent BIM staff but also to meet basic BIM deliverables to make
+timely progress within your BIM contractual obligations under, including, the Specification, Section
+019800 [Building Information Modelling {BIM)], Section 013300 [Submital Procedures], 013105
+[Contractor's Master System Integration {MSI} Team], 017700 [Project Close Out], and 019500
+[Requirements For Facilities Management and Maintenance]. Moreover, you have failed to meet your
+BIM
+targets, with the deliverables severely behind schedule, with no intention/effort to mitigate from your
+side. By way of example, refer to the below table which shows your progress as of 31 May 2015:
+Furthermore, as you are aware, the continuous absence in coordination and/or delay in completion of
+your Project Models at all levels of developments beyond the presently-established construction target
+dates have led to imposition of unpredicted consequences on Site not only at open fronts, but also at
+finished areas.
+You are hereby required immediately to comply with your contractual obligations regarding BIM, to
+comply, provide, finalize and submit BIM activities according to BIM procedures and Models for
+coordination, provide all necessary resources, and arrange for timely BIM deliveries to meet project BIM
+scheduled completion date.
+You are also required to submit, within three days of the receipt of this letter, your mitigation plan
+including all necessary resources, and demonstrate your ability to meet Project BIM scheduled
+completion
+date. Should you fail to do so, TCAJV shall either de-scope your BIM Scope or determine what actions
+should be taken to assure timely BIM completion. It is noted that you shall be held responsible for any
+loss, damages and/or extra expense TCAJV and/or other affected trades may incur as a result of your
+delays in the BIM progress and in the completion of your BIM Coordination Models at LOD 400 on the
+Project including the costs for TCAJV's BIM Team's engagement(s) incurred in assisting, supporting,
+educating and even rendering on your behalf your Scope of Work not to hinder the BIM Coordination
+process which shall be backcharged to your account.
+This above is for your immediate action.
 Yours faithfully,

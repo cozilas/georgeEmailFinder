@@ -1,15 +1,83 @@
-Subject: Pipework and infrastructure subsidence: delayed instructions
+Subject:SAA8 Sub-Clause 2.26: E-Notice No. 0102
+Delays due to ADDC Rejection of Electrical Design: Wet Areas – Weather Proof Sockets for Urinal Flash
+Control Sockets / Auto Tap / Dishwasher
 Dear Sirs,
-We refer inter alia to the above letter and whilst acknowledging the recent issuance by you of a series
-of instructions in your letter 10728 dated 28 May 2019, we remain most concerned that we as yet we
-still only have instructions for remedial work to Pier 4.
-Given that you have been investigating this matter for over eight months and have caused the
-expenditure of over AED 30m to date in iterative testing and investigating, we cannot understand why
-the root cause of the subsidence has not been made clear and why we are as yet unable to plan and
-properly procure works to the remaining 84% of the perimeter.
-Your consultant has recently requested a scattering of more CPT that will be available in the next week:
-however, this should not be holding back the issuing of IFC documentation in respect of large areas for
-which full data has been with you for some time.
-Please focus efforts on releasing coordinated IFC information in order that we may progress these
-significantly delayed remedial Works.
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described herein
+may cause delay and disruption to the Works, and accordingly seek your swift resolution of the same.
+
+The Event(s):
+In the period between 10 April 2019 and 9 May 2019, the Abu Dhabi Distribution Company (ADDC)
+undertook a series of inspections on the dates and in the manner identified in Table 1 below.
+Table 1
+Item Inspection Date Case ID ADDC Comments
+1
+10-Apr-19
+6711880540 ‘Excluded. Drug recovery toilet. Spur outlet exposed to wet
+services shall be WP outlet.’
+2
+21-Apr-19
+5854585634 ‘... outlet shall be away from water source.
+Janitor room outlet shall be weather proof.’
+3
+02-May-19
+2192497968 ‘Excluded. Wet area WP outlets to be provided. Drinking
+fountain outlet location not proper.’
+4
+09-May-19
+2593450389 ‘Auto Urinal Flush controller, MLC Shade Motor’
+Details pertaining to each of these Case IDs are appended hereto at Annex A.
+However, in every case, the electrical installations have been rejected by ADDC for the reasons that
+include those identified and reproduced in Table 1 above, which primarily relate to wet areas and a
+purported failure of the installations to comply with applicable Electrical Wiring Regulations.
+We remind you that we have constructed the works in accordance with the IFC Drawings reflecting a
+design for which the Employer’s Design Consultant [KPF] is unequivocally responsible for, not us.
+However, it is clear there is a fundamental variance and disparity between the IFC Design [which we
+have constructed the works in accordance with] and the applicable codes and regulations governing the
+electrical design [for which the Employer’s Design Consultant, KPF, is responsible for] and against which
+ADDC is inspecting the works; hence the reason for its rejection of the electrical installations.
+Unfortunately this scenario is not new – but we are being unfairly targeted and our works rejected due
+to distinct failure on your and / or the Employer’s part to liaise with ADDC and resolve design related
+issues – specifically associated with an NOC issued by ADDC in or around February 2015 [four + years
+ago] agreeing to the relaxation of the ADDC approval process. In short, this relaxation meant that we
+would no longer be required to submit shop drawings to ADDC for approval but had been expressly
+directed by you to proceed with the electrical services installations based on approved shop drawings;
+which at the risk of being repetitive, were developed from and based upon the IFC Design.
+Moreover, in light of ADDC's comments in relation to compliance stated in the NOC coupled with the
+fact that as part of the relaxation of the ADDC approval process, ADAC accepted responsibility for any
+issues arising therefrom, and we advised that we would not be held accountable or responsible for any
+comments from ADDC inspectors for any purported non-compliance with ADWR 2009, nor ADWR 20141
+or any ADDC preferential requirements for the electrical installations during Stage 3 or 4 of the ADDC
+inspection and approval process. We have previously written to you on this matter including inter alia
+our letters dated 15 May 2018, 30 August 2018 and 2 September 2018 (refs. 2, 3 and 4).
+However, this has clearly been ignored and continues to be ignored; evidenced by ADDC’s rejection of
+the electrical installations; including without limitation the Case IDs summarized in Table 1 above.
+We remind you that the subject of wet and damp area has been discussed variously between us and
+culminated in the issuance on 24 July 2018 of Engineer’s Instruction No. 749 (via your letter dated 23
+July 2019, ref: MTC-CMA-TCA-0401-LTR-09749) instructing us to upgrade elements of the electrical
+design. However, having followed your Instruction (EI No. 749) we note that the foregoing comments
+from ADDC identified in Table 1, is out of the scope of the exercise and definition of the wet areas.
+We are therefore appreciably disappointed to find out yet again that the Engineer is not taking any
+proactive action to resolve these types of rejections but leaves it to us solve the problem with ADDC;
+this takes time, added to which, is severely disrupting our progress and that of our subcontractors.
+If the Form 4 inspection process continues to be affected on the grounds of electrical design related
+matters, which are out with our scope of works and responsibility and is not addressed forthwith
+
+between the Employer/Employer’s Design Consultant and ADDC, then this will continue to prevent
+energization of the final Distribution Boards and resultantly will have a direct and consequential effect
+on the inspection process and similarly effect the project testing and commissioning schedule.
+We urge you to ensure the issue is resolved between the Employer’s Design Consultant and ADDC.
+Potential Impact:
+ADDC’s rejection of the electrical installations in respect of the above noted Case IDs is preventing the
+completion of the ADDC inspection process, which will knock on and delay energisation of critical areas
+of the Project, and will invariably impact on our ability to hand over the affected areas. If the matter
+continues and is not addressed, then this will impact our ability to achieve Milestone MS09B.
+Moreover, this will invariably continue to knock on and delay achievement of Milestone MS09C.
+Action Required:
+We therefore request your prompt action, guidance, decision or further instruction as may be applicable
+to resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are resolved within ten (10) days from the date of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of Conditions of Contract Sub-Clauses
+16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to the Time
+for Completion and any associated costs due to the event(s) and circumstances described herein.
 Yours faithfully,

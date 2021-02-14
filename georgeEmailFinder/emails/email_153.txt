@@ -1,24 +1,120 @@
-Subject:Clause 27.1.1: Notice of Claim – Delay Notice No. 0227
-Suspension: Grouting East Elevation (GH19-GH20) Adjacent APM Head House
-Dear Sir
-On 6 February 2020 [3:19 PM] we e-mailed you in connection with the ‘Grout ingress to APM tunnel
-from the expansion joints areas’ notifying you of the following event: “Due to very loose soil, we have
-encountered continuous backflows even from the lower depths and collapses of the drilled bore holes
-are also encountered”, and requested that you advise us what action to take.
-You replied on 6 February 2020 [3:32 PM] stating:
-“To avoid confusion, note that the drilling has been done on 02 Feb 2020 and observed on 02 Feb 2020.
-However, CMA is very clear on addressing the status on these area to be on hold until further notice.
-These was highlighted during our progress meeting 03 Feb 2020.
-Please follow accordingly.” [Underlined and emphasis added]
-Therefore, based on your instruction for us to place the noted work “on hold”, we hereby notify you in
-accordance with Conditions of Contract Sub-Clauses 16.5.2 and 27.1.1, of our entitlement to claim:
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0210
+Unreasonable Code 3 comments issued in reply to Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001
+Rev 04 & Rev. 05 and RFI/0401/17425 – Failure to Resolve Design issues – Mechanical HVAC Ductwork
+to Hotel Building L3.4
+Dear Sirs,
+We refer to your letter ref: (1) following issuance of our E-Notice No. 0210 (ref: 2) in which you allege
+that we are responsible for overcoming the design issues described in (ref: 2) due to a purported “lack of
+coordination [on our part] between various trades and services”. You also infer that we are somehow
+liable for deficiencies in “Code compliance requirements”.
+For the reasons comprehensively set out in our letter ref: (2) we disagree entirely. We therefore take
+this further opportunity in reminding you of the following salient evidence of fact:
+During a Briefing Pack (BP) 10 design development meeting held on or around end January / early
+February 2018, it was found that the existing arrangement of the HVAC ductwork to the Hotel Building
+L3.4 had been poorly designed / poorly coordinated by the Employer’s Design Consultant (i.e. in and
+between the HVAC and Architectural Design Drawings), such that if constructed, the ductwork would
+clash with the architectural cladding located immediately above. Additionally, there were also issues
+concerning the orientation of light fixtures.
+In an e-mail dated 11 February 2018 [1.56 pm] we advised you as follows (refer to Figure 1):
+Figure 1
+In a further e-mail dated 20 February 2018 [4:10 pm] we wrote as follows (refer to Figure 2):
+Figure 2
+The snapshots referenced above and included in our e-mail dated 20 February 2018 conveys the
+clashing of the ductwork as well as the means by which it could be overcome (Figure 3):
+Figure 3
+Meanwhile, during the BP10 design development meeting held on 4 February 2018, a sketch layout
+indicating the agreement of the parties of the side by side arrangement of the HVAC ductwork was
+tabled (refer to Figure 4 below). In addition to addressing the clashing of the ductwork, this sketch also
+took cognisance of accessibility issues and the resolution of issues with the lighting fixtures.
+Figure 4
+However, although all other parties had signed this sketch as agreed, whether by reason of oversight or
+some other reason that remains unclear, the Employer’s Design Consultant [KPF] had not signed it.
+On 5 December 2018 we issued Shop Drawing Submittal No. SDS/0401/M/0957 Rev. 05 requesting your
+approval of Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 04, relating to the ‘Mechanical
+Duct Layout L3.4 (Hotel/Offices/Lounges Level) Sector 5.32B. Unfortunately however, on 2 January
 
-(i)
-An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.9.1(a)
-‘Consequence of Suspension’, or alternatively, Sub-Clause 16.5.1(c) ‘act of prevention’; and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Sub-Clause 16.9
-‘Consequence of Suspension’, or in the alternative, damages for breach of Contract.
-Interim and/or final details of the time impacts and adjustment to the Contract Price will be provided in
-due course pursuant to Conditions of Contract Sub-Clause 27 .1.5{a), (b) and (c).
+2019, we received a Status Code 3 response to SDS/0401/M/0957-05 together with a series of
+comments annotated upon Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 04. These include
+amongst other things, the following comments in relation to the ductwork (Figure 5 refers).
+Figure 5 – Status Code 3 Comments
+Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001-Rev 04
+These comments – particularly in relation to the ductwork blocking the walkway and means of egress
+shall not be blocked – demonstrate that that the Employer’s Design Consultant had either overlooked or
+chose to ignore what was previously discussed and agreed at the Briefing Pack 10 design meetings.
+This caused us to raise RFI/0401/17425-00 (entitled ‘Comment on Shop Drawing – Ductwork Route at
+Hotel Building L3.4’), on 3 September 2019, which besides enclosing a series of attachments in support
+of the above, asked you / the Employer’s Design Consultant to confirm the following:
+1.
+Confirm acceptance to the current duct routing as shown on the shop drawing; and
+2.
+Confirm acceptance to shift the 5 lighting fixtures as marked on attached sketch.
+We requested a response to RFI/0401/17425-00 by 8 September 2019. However you failed to reply until
+21 October 2019. Unfortunately, rather than the Employer’s Design Consultant [KPF] address what was
+being requested, KPF’s response stated inter alia the following:
+•
+“We have given our comments at ADAC's request to assist the project but have no responsibility
+for the measures the JV adopt to rectify their defects”
+•
+“The changes proposed by the Contractor shall have no increased cost or programme impact to
+the client”
+•
+“CMA have assumed design responsibility for changes to the ducting on the roof without getting
+technical input from the design team.
+•
+“… we cannot support the change as directed by CMA. We would recommend that ADAC reject
+this change.”
+We made our thoughts known on these comments in our letter (ref: 2) addressing each one by way of a
+Scott schedule per Table 2 thereto, and therefore for brevity will not repeat the content here. We will
+however, reiterate that it is clear that KPF is aware of the numerous discussions, meetings and resultant
+agreements mentioned above to resolve these issues, which they consider have taken place without
+their direct involvement. Thus, it is evident that KPF is unwilling to take ownership and address this
+matter, which in its view, you [the Engineer] and ADAC, have assumed responsibility for.
+Further to which, on 12 January 2020, we submitted SDS/0401/M/0957-06 requesting approval of Shop
+Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 05, which was returned on 23 January 2020,
+classified Status Code 3 was accompanied by a series of comments annotated thereupon. These include
+amongst other things, the following comments in relation to the ductwork (Figure 6 refers).
+Figure 6 – Further Status Code 3 Comments
+Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001-Rev 05
+As noted in letter ref: (2), we are disappointed that the Employer’s Design Consultant has maintained its
+position as per its previous responses and ignored the previous agreement that was reached in early
+February 2018. This issue is not being resolved and is delaying us; hence our E-Notice No. 0210.
+Meanwhile, in an e-mail dated 26 January 2020 [08:48 AM] titled ‘SDS/0401/M/0957-06’, we wrote to
+advise you that: “The ... drawing is again rejected by KPF/ARUP with comments claiming that the
+Contractor’s proposal in RFI-17425 was rejected by ARUP. In fact ARUP didn’t reject the proposal they
+only recommended that ADAC rejects it (see below excerpt from ARUP’s response).” We also stated:
+“TCA-JV are working closely with the CMA to address all the concerns raised by ADAC in the RFI
+response; the items related to the scope of the drawing were addressed adequately prior resubmitting
+the drawing which are the location of the grease trap and the travel distance (See attached emails).
+
+In light of the above, we kindly request ADAC to direct the Design Consultant to recode the drawing.”
+However, in your response dated 13 February 2020 [7:29 PM] you wrote to advise inter alia:
+“1.
+We discussed with ProFire regarding the egress path at L3.4 Hotel Roof and they informed that
+since the current scenario it is single sided common path egress allowable distance shall be not more
+than 15m as per NFPA. However, if an alternative route can be provide by catwalk to the other side or
+ladder to the lower level balcony, the travel distance required is relaxed to 60m. Please check the
+possibility of providing alternative exit path as shown in the snip below and issue a proposal to close the
+issue.”
+We replied on 17 February 2020 [5:53 PM] and stated amongst other things that:
+“As discussed, the shop drawing is following the agreed solution during the BP and the signed sketch for
+the same.
+Your below proposal to add a ladder to resolve item 1 constitutes a variation to the Contractor’s scope
+of work and requires an Engineer’s instruction to be implemented.”
+Our position remains unchanged; both in terms of the Employer’s Design Consultant failure to take
+ownership and address the on-going design problem and design coordination issue which we have
+comprehensively set out in our E-Notice No. 0210 and summarised above; and your joint failure in
+recognising that any changes to the existing IFC design constitutes a variation and requires an Engineer’s
+Instruction for us to proceed with incorporating any change [alternative exit path] into the Works. Both
+you and the Employer’s Design Consultant fail to recognise and accept that this is not a design and build
+contract; we are not responsible for the design, and as such we are not responsible for overcoming
+design coordination issues nor are we responsible for overcoming code complaint issues; neither are we
+responsible for providing proposals “to close the issue.” These responsibilities rest firmly with the
+Employer’s Design Consultant not us. Hence as this is a design problem, it cannot be construed as being
+due to any failure on our part to coordinate between trades and services.
+At the risk of being repetitive, this issue is a design problem and design coordination problem and we
+therefore reiterate that, as noted in our e-mail dated 26 January 2018, you approach the Employer to
+direct the Design Consultant to recode Shop Drawing No: 401-EF-M-02-34-5.32B-AC-SD-001 Rev 05 or in
+the alternative, to provide a properly coordinated code compliant design solution. That is his role.
+Meanwhile, we continue to maintain all our rights under the provision of Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event described in letter ref: (2).
 Yours faithfully,

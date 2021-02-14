@@ -1,13 +1,280 @@
-Subject: Elevator Shaft Incident in Pier 3 Elv-03-17 on 10 December 2018
-Dear Sir,
-We refer to the incident took place in the elevator shaft Pier 3 Elv-03-17, and enclose the incident
-report, our assessment and action plan.
-We believe the causes of the incident and possible consequences are well understood and mitigation
-measures are taken to prevent a similar incident from happening. The involved personnel had been
-suspended from 12 December onwards, until the investigation is concluded.
-Following our assessment, we decided current disciplinary action (suspension 12 days) is adequate
-and TCAJV's involved engineer shall return to duty, under the conditions stated in our assessment
-and action plan.
-We will share an update in 2 weeks' time on the actions committed.
-Accordingly, we consider the matter addressed and closed.
+Subject:
+
+Initial Review of the Subcontractor’s Extension of Time Claim No.4
+
+Dear Sir/Madam,
+With reference to the above subject and further to letters (1), (2) and (3), please find enclosed our initial
+comments as follows.
+The Subcontractor’s response is surprising as it contradicts the Subcontractor’s agreement with the
+points raised by the Contractor during a meeting in TCAJV site office on 11 October 2018, and
+subsequently confirmed in the Contractor’s letter reference MTB/TCA/MOSART/L/000622 dated 16
+October 2018.
+Nevertheless, the Contractor hereby re-iterates and expands its responses to the Subcontractor’s
+comments in the same order as the Subcontractor’s letters.
+Subcontractor letter MMM/18/MTB/176 dated 19 November 2018
+
+Item 1: The Contractor’s letter describes the Subcontractor’s lack of contractual compliance related to
+timely delay notices and correspondences. The Subcontractor’s reply does not address the Contractor’s
+comments, it refers to generic weekly reports.
+Item 2/2a: The Subcontractor responded that the prospective delay fragnets presented in its claims are
+interim and will be updated once access has been granted. In Contractor’s opinion, the amount of delay
+in each window should only be assessed up to the cut-off date of each period. Prospective impacts
+beyond the window period are/will remain theoretical until actualised in later window periods. One of
+the reasons for not applying prospective impacts beyond the window is, it hides the true critical path at
+the window cut-off period. i.e. impact events/fragnets should be applied/extended progressively in
+successive windows until either actualised or forecast to the end of the last window.
+Previously, (refer to Page 23, Paragraph 5.1.5 of the Subcontractor’s EOT Claim no. 4 submitted by letter
+reference MMM/18/MTB/149 received on 17 September 2018) the Subcontractor stated; “The logic and activity dates of the update programme were amended at this point to accurately reflect
+the impact upon subsequent activities resulting from the delay event.”
+Accordingly, under item 2b (of Contractor letter MTB/TCA/MOSART/L/000622 dated 16 October 2018),
+the Contractor requested Subcontractor to provide details of its amendments to the progress updates.
+“The Subcontractor states that it has made amendments to its progress updates whilst preparing the
+delay analysis. However, these changes are not listed or explained with the Subcontractor’s Claim No.4
+submission.”
+However, item 2b of the Subcontractor’s response/letter MMM/18/MTB/176 dated 19 November 2018
+(quoted below), is inconsistent with its previous position.
+“There have been no changes to the progress updates whilst preparing the TIA therefore the
+Contractor’s comment in this respect is not valid.”
+Item 2c(i.): The Subcontractor stated, “the updated progress programme is chosen as of “prior to” the
+delay events in question, which is a basic principal of the TIA method”. Contractor agrees with this
+statement in principle, subject to the following; 1.
+The Subcontractor has used two progress updates with data dates 21 January 2018 and 22 July
+2018 to carry out the TIA in Subcontractor’s EOT Claim No. 4. Based on the Subcontractor’s statement in
+item-2c(i.), the Subcontractor has carried out TIA for delay events occurring after the data date 21
+January 2018.
+2.
+Any delay which occurred prior to 21 January 2018 should be presented, using TIA’s, in the
+Subcontractor’s EOT Claim Nos. 1 and 2. As explained below the Subcontractor has not carried out any
+delay analysis (TIA) under EOT Claim 1 or 2.
+Item 2c(ii.): The Subcontractor stated, “to establish the fact that there is no access to most of the areas,
+it is sufficient to use a programme having a data of January 2018”. The Contractor agrees with this as a
+general statement, the Subcontractor would be entitled to an EOT due to Contractor delays in providing
+
+access. However, without a proper delay analysis which also considers concurrency, the number of
+compensable delay days cannot be established.
+Item 2c(iii.): The Subcontractor stated, “the delay events are mostly related to ‘design details’”. A claim
+based on prospective fragnets may in theory produce entitlement to an EOT. However, the amount of
+entitlement to EOT and compensable periods will depend on the liabilities for actual critical delays,
+which can only be established through a proper delay analysis.
+Previously, (refer to Pages 24-25, Paragraphs 5.3 – 5.4.1 of the Subcontractor’s EOT Claim no. 4
+submitted by letter reference MMM/18/MTB/149 received on 17 September 2018) the Subcontractor
+claimed that the TIA was carried out in windows. Window 1 starts in January 2018 and ends in March
+2018. Window 2 starts in July 2018 and ends in August 2018. However, Contractor observed; 1.
+If the Subcontractor had used TIA in windows, then the Subcontractor should have curtailed the
+delay fragnet within the window period. i.e. It is not clear why the Subcontractor has used windows
+when delay fragnets which start in January 2018 are shown extending through to 31 December 2018
+2.
+Also, the window periods should be continuous, i.e. there should not be a gap between March
+2018 and July 2018.
+Similarly, in item 2c,iv (of the Subcontractor’s response/letter MMM/18/MTB/176 dated 19 November
+2018), the Subcontractor explained that the two TIA’s carried out with data dates of 21 January 2018
+and 22 July 2018 were ongoing (interim). Accordingly, the assessment for entitlement under these delay
+events will be finalised once the events have been actualised.
+Item 2d: The Subcontractor stated, “delay events may contain “actual dates”, but the updated progress
+programme does not contain any actual date greater than the data date”.
+The screenshot below - taken from the Subcontractor’s TIA programme with data date 21 January 2018 shows the ‘original programme activities’ with progress/actual dates after the data date. The
+Subcontractor stated, “delay events may contain “actual dates””. The Contractor agrees that delay
+events before/left of the data date should use actual dates. However, activities after/right of the data
+date are forecasts, should not be actualised for two reasons. Firstly, they obviously cannot have
+happened at this time (if the data date is correct). Secondly, applying actual dates after the data date
+incorrectly distorts the logical scheduling of the remaining activities, including the critical path.
+
+Item-2e: The Subcontractor stated, “the only constraints, are on the fragnets”. The approved baseline
+programme included six (6) constraints. The Subcontractor’s TIA programme dated 21 January 2018,
+contains 261nr constraints, of which 84nr are applied to delay fragnet activities.
+Adding constraints in fragnets can be acceptable. However, the Subcontractor should not make
+modifications to baseline programme activities/logic through the addition of constraints (or other
+measures) without reasonable explanation(s). The screenshot below – taken from the Subcontractor’s
+TIA programme dated 21 January 2018 - provides examples of constraints added to the original baseline
+programme activities.
+
+Item 2f: The Subcontractor stated, “the TIA has not been reviewed properly, with comments raised
+without an understanding of the programme, the delay events, and the way they are impacted”. The
+Subcontractor’s statement is unacceptable given the examples below, which demonstrate the
+Subcontractor’s improper application of TIA methodology.
+The Subcontractor’s EOT claims are summarised in Table 1.
+Table 1 – Subcontractor’s EOT Claims
+Claim No.
+Delay Claim/Period to be analysed
+Impact/EOT Claimed
+Start Finish Days Cum. Period
+Impacted Completion EOT
+Days Cum. EOT Claim
+1
+13-Dec-14
+05-Mar-15
+83
+83
+08-Dec-16
+285
+2
+06-Mar-15
+30-Apr-17
+787
+870
+12-Sep-17
+278
+3
+01-May-17
+31-Dec-17
+245
+1,115 11-Oct-18
+394
+4
+01-Jan-18
+31-Aug-18
+243
+1,358 25-Sep-19
+349
+
+285
+563
+957
+1,306
+
+An EOT of 285 days had already been awarded prior to Subcontractor’s Claim No. 1, based on
+Contractor’s Revision-6 Programme issued by letter references MTB/TCA/MOSART/L/000103 dated 25
+March 2015 and MTB/TCA/MOSART/L/000110 dated 17 May 2015.
+Based on the Contractor’s Revision-6 Programme, the Subcontract Commencement Date and the Time
+for Completion were revised based on the Heads of Agreement (HOA) – 1 with the Employer dated 5
+March 2015. The contractual dates and the revised dates based on HOA-1 are summarised in Table 2.
+Table 2 – Contractual and Revised Dates
+Description
+Commencement Date Completion Date
+Duration
+Days
+Contractual
+13-Dec-14
+27-Feb-16
+442
+Revised (Based on approved EOT)
+07-Mar-15
+08-Dec-16
+643
+Net Delay
+Days 84
+285
+201
+Accordingly, there was no requirement for a delay analysis for the 83 days period (Table 1) covered
+under the Subcontractor’s EOT Claim No. 1. However, an analysis of concurrency is required to establish
+the amount of compensable delay within Claim No.1.
+EOT Claim no. 2 covers a period of 787 days (Table 1).
+The Subcontractor’s EOT Claim No. 2 (letter reference MMM/18/MTB/024 received on 18 February
+2018) provided only two sentences under Section 6, ‘Delay Analysis’:
+1.
+“The impact of delayed access has been inserted into the Updated Baseline Programme and
+shows that completion of the Subcontract Works would have been delayed to 12th September 2017 due
+to these events, which is beyond the period currently claimed in this Claim No 02 to 30th April 2017.”
+2.
+
+“The Time Impact Analysis is enclosed as Appendix C.”
+
+Appendix C included a hard copy of a progress update (not a delay impact analysis) scheduled around
+the end of November 2016 (data date not shown in the hard copy). There is no delay impact analysis
+carried out by the Subcontractor.
+Clearly the Subcontractor has not performed a credible TIA to establish its entitlement to any EOT within
+the period ‘analysed’ (787 days).
+EOT Claim No. 3 covers a period of 245 days (Table 1).
+The Subcontractor’s EOT Claim No. 3 (letter reference MMM/18/MTB/043 received on 14 March 2018)
+provided only two sentences under Section 6, ‘Delay Analysis’:
+1.
+“The impact of delayed access has been inserted into the Updated Baseline Programme and
+shows that completion of the Subcontract Works would have been delayed to 11th October 2018 due to
+these events, which is beyond the period currently claimed in this Claim No 03 to 31st December 2017.”
+2.
+
+“The Time Impact Analysis is enclosed as Appendix C.”
+
+Appendix C included a hard copy of a progress update (not a delay impact analysis) as of February 2018.
+There is no delay impact analysis performed by the Subcontractor in EOT Claim No.3.
+Clearly the Subcontractor has not performed a credible TIA to establish its entitlement to any EOT within
+the period ‘analysed’ (245 days).
+EOT Claim No. 4 covers a period of 243 days (Table 1).
+The Subcontractor’s EOT claim No. 4 (letter reference MMM/18/MTB/149 received on 17 September
+2018) included TIA’s with data dates 21 January 2018 and 22 July 2018. These prospective TIA’s are
+ongoing (interim) and will be assessed once the actualised delay impacts are submitted by the
+Subcontractor.
+Item 3: The Subcontractor stated, “we are currently preparing a full TIA of 48 monthly windows”.
+Subcontractor letters MMM/18/MTB/181 dated 9 December 2018 and MMM/18/MTB/184 dated 15
+December 2018
+The Subcontractor has submitted TIA’s Part-1 and Part-2 (which combine to give 29 out of 48 monthly
+window analyses), refer letter references MMM/18/MTB/181 dated 9 December 2018 and
+MMM/18/MTB/184 dated 15 December 2018. The summary periods analysed in each part are; •
+•
+•
+
+Part-1 contains the TIA’s for the period Yr.2015 – Yr.2016;
+Part-2 contains the TIA’s for Yr.2017;
+Part-3 - containing the TIA’s for Yr.2018 - is awaited from the Subcontractor.
+
+The Contractor has made an initial review of the Subcontractor’s Part-1 and Part-2 submissions.
+In both Part-1 and Part-2 submissions the Subcontractor concludes the executive summary as follows:
+
+“The Subcontractor considers that it is entitled to an Extension of the Subcontract Time for Completion
+as a result of the delay events occurring each month due to "DELAY DUE TO PARTIAL / NO ACCESS TO
+WORK AREAS". The total Extension of the Subcontract Time for Completion claimed by the
+Subcontractor will be presented in part-3 of the report.
+The Costs arising as a result of the delay event are evaluated and will form part of the submission. The
+details of Cost calculation will be provided in the final Part i.e. Part-3 of the report covering the whole
+period from August 2015 till Dec 2018.”
+Accordingly, the Subcontractor has not concluded any of its claims for EOT/Cost for the period 2015 2017 covered under Part-1 and Part-2.
+The Subcontractor’s delay analysis methodology in Section 5, paragraphs 7 and 8 states; 7.
+“The delay fragnets are added to each month, as a separate WBS-Delay Event. The delay
+fragnets / activities are WIRs, based on their zones, level, sector, Section, and the Site access details /
+request.”
+8.
+“The previous month file containing the delay events then becomes the base-file for the next
+month delay events, this file is then updated in accordance with the available update / submitted
+monthly update and delay fragnets for the current month are added to it. The Programme is scheduled
+and analyzed. This process continues.”
+The Subcontractor’s statement concerning the application of the TIA methodology is correct. However,
+the Subcontractor (as illustrated in Table 3) has not in practice applied the method as written.
+The purpose of performing a TIA in monthly window periods is to assess the impact/extent of and
+determine liabilities for variations to the critical path in each ‘month’ due to delay, mitigation and/or
+acceleration events.
+However, the Subcontractor’s TIA report does not include a simple summary table of delay (claimed
+entitlement or liabilities for the critical delays) within each window. The results of the Subcontractor’s
+analysis are not evident in the narrative.
+Instead, the Contractor has had to review the Subcontractor’s ‘detailed’ appendices to determine the
+periods of delay claimed in each window. This has revealed several significant anomalies, refer Table 3 .
+Table 3 – Example of Window Period from 24-Apr-16 to 22-May-16
+Description
+Progress Update with data date
+24-Apr-16
+Progress Update with data date
+22-May-16
+Window Duration
+Days
+28
+Comments
+Completion Date of programme before Impact 08-Feb-2017 18-Jul- 2017
+Difference in completion dates of progress update as of 24 Apr 2016 and 22 May 2016 = 160 Cal. Days.
+Progress Update shows a delay of 160 days in a period of 28 days
+
+Completion Date of programme after Impact 08-Feb-2017 18-Jul-2017
+Same
+(160
+days)
+Same (160 days)
+Impact on the Completion Date after impacting/applying fragnet?
+None None
+The
+delay fragnet has no impact. The progress updates produce anomalous results (160 days delay in 28 day
+update period).
+The example in Table 3 shows that the delay fragnets did not impact the completion dates in the
+Subcontractor’s 24 April 2016 and 22 May 2016 progress updates.
+As noted in Table 3 the progress updates at 24 April 2016 and 22 May 2016 cover a period of 28 days.
+However, the completion date forecast in each shows a difference of 160 days. Contractor has observed
+that this is due to logic changes and other amendments applied to progress data, by the Subcontractor.
+For example, removing actual dates (de-statusing) in the 22 May 2016 update that had been assigned in
+the previous update.
+The Subcontractor should use the original approved baseline programme (unamended) logic and any
+additional logic should be applied using the delay fragnets.
+The Subcontractor should review the progress updates and any discrepancies should be explained in the
+delay analysis report. It is essential that the Subcontractor’s analysis is based on reliable and consistent
+progress data.
+In conclusion, the Subcontractor’s TIA submissions to date are inadequate, require thorough revision
+and resubmission.
+This is for your information, records, and immediate action.
+
 Yours faithfully,

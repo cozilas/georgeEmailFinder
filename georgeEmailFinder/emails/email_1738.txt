@@ -1,10 +1,18 @@
 
-Dear Sir,
-Engineer's Assistant notes Contractor's failure to respond within the time specified in letter referenced
-1) above. Pursuant to Sub-Clause 13.2.1 of the General Conditions of Contract, Contractor must submit
-the quotation within time specified or not later than 14 days of the direction .
+Dear Sir,
+This is a direction under Sub-Clause 13.2.1 for the Contractor to submit a quotation (both as to price and
+any possible time impact) for the Variation proposed by the Engineer, namely the deletion of the Diesel
+Generators in Stations and Tunnel Power Supply Substations .
 
-Contractor's response is overdue since 1 February 2016 and delayed by 85 days as of the date of this
-letter. Engineer's Assistant hereby requires the Contractor to abide by his Contractual obligations and
-submit the
-Yours faithfully,
+The proposed variation allows for Diesel Generators to be deleted from metro stations as Qatar Rrail's
+multiple redundancies in tne power supply system are by means of two Station Power Supply
+Substations (SPS) at either site of a metro station. At this level there is 100% SPS redundancy . If SPS 1
+fails, SPS 2
+
+can provide the full load. The room allocation for Diesel Generators (70m2
+
+is to remain for Systems use.
+
+The room allocation for Diesel Tanks (30m2) can be deleted, providing the overall space requirements
+for the stations are met.
+The Contractor shall submit the quotation within 14 days of this direction. Yours faithfully,

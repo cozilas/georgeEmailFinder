@@ -1,11 +1,15 @@
-Dear Sir,s
+Dear Sir,
 
-The Contractor refers to letter reference 1) from the Engineer's Assista.nt and subsequent Engineer's
-Instruction reference 2) where in the Employer has instructed to carry out additional works for provision
-of additional entrances for Bin Mahmoud Station. The Contractor herby encloses a detailed cost
-estimate for the sum of QAR 163,034.38 (enclosed as Appendix A) to carry out the construction of the
-aforementioned works. The Contractor has not been able to identify any additional design Costs and no
-information has been provided by the Lead Designer to date. As such the Contractor believes that there
-will be no additional design cost associated with this work however it reserves its rights under the
-Contract.
+The Contractor refers hereby to the revised Engineer's Instruction (E.1.) no.86 regarding changes in the
+design of the entrance 1.2 at Bin Mahmoud Station as detailed in the Engineer's letter reference 1).
+
+The Contractor records that the revised E.I. no.86 makes reference "to attached SAP drawing CP0_
+14_74061 Rev VB_ O)" and informs the Engineer's Assistant that only the PDF format of the SAP V8_0
+for Bin Mahmoud Station was received with letter reference 1).
+
+Further to the above, the Contractor kindly requests the Engineer's Assistant to provide the Station Area
+Planning Baseline drawings V8_0 for Bin Mahmoud Station in CAD format. Upon receipt thereof, the
+Contractor will proceed with the implementation of the revised E.Ino.86 in the design.
+
+We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

@@ -1,53 +1,101 @@
-This is an instruction under Sub-Clause 13.1.1to initiate a variation. The nature and extent of the
-variation is outlined below.
-The Variation as proposed:
 
-Station entrances shall be optimized with respect to minimum number of vertical transportation
-elements, the size and height of shelters and run off area. However, the optimization as stated
-hereunder shall apply to entrances as recommended in the attached conceptual presentat ion.
-The minimum length of run-off areas may be reduced to 4m for types other than A. Run-off areas shall
-not overlap.
-Wher e waiting areas are required (types BW and BWR),a minimum of six (6) seats shall be provided.
-To optimize (reduce) the height of the shelters for all types apart from A. Contractor shall consider the
-lift speed m/s, car clear height 2.3m,headroom height 1.4m,min clearance between lift enclosure and
-roof 0.2m.
-For types D and E standalone lifts are acceptable.
-Type E does not have a shelter and the entrance door/ air curtain to the AC controlled area shall be
-positioned underground. Adequate signage on the status of the station to be provided at surface level.
+Dear Sir,
+Further to the Engineer’s Direction of reference 2) issued pursuant to General Condition (“GC”) 13.2.1 of
+Volume 3 of the Contract and the Engineer’s Instruction under 13.1.1 of reference 1), the Contractor
+encloses herewith the revised particulars in relation to the varied scope, quantities, direct costs and
+time impact in accordance with its GC 13.2.2 obligations.
 
-M006-QRC-EMT-IST-00113
+Subsequent to the Contractor’s interim valuation issued under reference 3) the Contractor has further
+assessed the impacts of this Variation and has concluded that the following items will be severely
+affected both as to cost and time:
 
-Page 1of 2
+a.
 
-qr com qa
+Design
 
-Cl....-.,! 9J '9
+b.
 
-..'
+Land acquisition
 
-ij "') ·;
+c.
 
-Accompl ishing a Vision
+Traffic diversion
 
-For types C, D and E, vertical transportation in the non-peak direction shall be by fixed stairs.
-Contractor to assess if relaxation of RAM target/Employer's Requirement is required for stations with
-one
-(1)
+d.
 
-lift per entrance.
+Utilities diversion
 
-Contractor is to standardize component parts and shelter types as part of the design process. Consider
-the status of the Architectural Finishes Provisional Sum Tender as follows:
-i.
+e.
 
-Incorporate changes into tender documents where the tender is yet to be released. ii.
-Incorporate changes into tender bulletin where the tender has been issued.
+ELS
 
-iii.
-Incorporate changes through design development where tenders have already been
-received / accepted.
-Due to the urgency of this change and the delay in receipt of the Contractor's quotation, this instruction
-has been issued prior to the receipt of Contractor's quotation, referenced above. The Contractor is still
-required to provide the directed quotation under Sub-Clause 13.2.1without further delay.
+f.
 
-Yours faithfully,
+Construction and site installation
+
+The Engineer’s letters of references 1), 2) and 4) contained a concept design with regards to the location
+and size of the Al Sudan remote entrance and the resulting re-alignment of the subway. The Contractor
+has made an evaluation summarized in Table 1 below, which is based on the provided concept design
+only and enclosed in Attachment 4).
+Full particulars of the Contractor's valuation of this variation are enclosed in Attachments 1) to 6) to this
+letter.
+
+SN
+
+DESCRIPTION
+
+Amount (QAR)
+
+A
+
+STRUCTURAL WORKS
+
+B
+
+DESIGN FEE CHANGE (Lead Design)
+
+940,322.22
+1,391,829.28
+
+Lead Design Only - Arch. FoH and MEP Design are not included
+C
+
+Reinstatement of Al Waab Street over and above original scope not incl.
+
+D
+
+9 Month Prolongation to TTM 168,854.40
+
+E
+
+9 Month Prolongation to Entrance Construction 3,496,592.16
+
+F
+
+VHTS (covered by Entrance Optimisation Variation)
+
+G
+
+Utility Diversion (to be covered by PS Protocol) not incl.
+
+TOTAL
+
+not incl.
+
+5,997,598.06
+
+Table 1: Summary of valuation
+
+The Contractor hereby provides its valuation of the adjustment to the Contract Price in the net amount
+of QAR 5,997,598.06 as detailed in Attachments 1) to 6).
+
+The Contractor’s assessment of the time impact shows that the completion of Entrance 2 will be delayed
+by nine (9) months due the re-sequencing of the Works. This will extend the duration of TTM
+accordingly. The Contractor is mitigating the time impact proactively in the proposed Programme.
+
+The Contractor kindly requests the Engineer to secure the necessary land for the temporary site
+installation.
+
+We remain at your disposal for any further information and/or clarification.
+
+Yours faithfully,

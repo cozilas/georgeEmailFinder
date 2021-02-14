@@ -1,14 +1,30 @@
 
-Dear Sir,
+Dear Sir,
 
-The Contractor notes that the Engineer’s Assistant’s reminder of reference 2) coincided with the
-Contractor’s response of reference 1).
+This is an instruction under Sub-Clause 13.1.1 of the General Conditions of Contract to initiate and
+execute a variation. Th nature and extent of the variation i proviqed below.
+Contractor to provide the as-built drawings in accordance with new alignment baseline as outlined
+hereunder:
 
-Furthermore the Contractor notes that the Engineer’s Assistant’s letters of references 1) and 4) to 11)
-were responded to via letter reference 3).
+•
 
-The Contractor therefore kindly requests the Engineer’s Assistant to remove its letters referenced above
-from the list of outstanding correspondence enclosed to the MoMs of the bi-weekly commercial review
-meeting.
+Setting Msheireb station (centre of platforms Gold and Green/Red) as chainage 0+000
+
+•
+Calculating chainage from Msheireb with positive increment into all directions of the
+Network and elimination of chainage gaps
+•
+
+Using the same start chainage at line branches
+
+•
+Introducing chainage 0+000 for Blue Line at Al Sadd Station with positive increments to north
+and south
+•
+Incorporation of the chainage into theoretical as-built alignment and preparation of the as-built
+drawing based on the new chainages
+•
+Last update of the chainage once the as-built track alignment has been received from MSI
+Contractor. (only minimum deviations expected that do not affect the Civil D&B as-built drawings)
 
 Yours faithfully,

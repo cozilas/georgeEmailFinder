@@ -1,43 +1,72 @@
-Subject Subsidence - lack of complete and coordinated economic and appropriate design
-solution to the subsidence of the sewer and storm water infrastructure: suspend
-further works
-Cross Ref. {1) MTB/TCA/ ADAC/L/000651 dated 15 July 2019
-(2} MTC-CMA-TCA-0401-LTR-10764 dated 17 June 2019
-Dear Sir,
-We write with reference to correspondence (1) issued by the Contractor to the Employer notifying
-that the Contractor suspends all site remedial works in relation to subsidence.
-The Contractor has no right under the Contract to suspend the Works. On the contrary, the Contractor
-is obligated to comply with the instructions given by the Engineer under Clause 11.3 of the Conditions
-of Contract. We consider the Contractor to be in material breach of the Contract and we reserve the
-Employer's rights for any damage which the Employer may incur as a result of the Contractor's breach.
-In addition to the above, we also note that the Contractor did not adhere to their obligations under
-Clause 2.26 of the Settlement Agreement and Amendment No 8 to raise the possibility of suspending
-the works during the Risk Committee Meeting and prior to unilatery deciding to proceed to suspend
-the Works, despite the topic of Subsidence being an issue of discussion during all Risk Committee
-Meetings and the Contractors' assurances of progressing with the works.
-As previously conveyed via correspondence (2), the Contractor has and continues to delay the
-development of the complete design as a result of {but not limited to) the following:
-• Delays in the completion of correctly executed CPTs and SPTs;
-• Delays in proceeding with the inundation testing for the manholes;
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0120
 
-• Inaccurate and unreliable CC1V tilt graphics
-The Contractor's allegation that a comprehensive and coordinated design is not in place, is irrelevant.
-The Contractor has received comprehensive instructions which enable them to proceed with
-immediate effect with the rectification works at numerous locations around the MTB Building.
-Furthermore, the Contractor's statement regarding the alleged mobilization of specialist
-subcontractors is inaccurate. The Contractor and despite instruction from the Engineer to proceed
-with the ground treatment, has failed to appoint any specialist subcontractor to date. Moreover,
-notwithstanding numerous requests from the Engineer and the Employer during workshops and
-meetings, the Contractor has also failed to provide a resource loaded programme for the work which
-have been instructed.
-The Contractor's contention that they are unable "to properly programme, resource and sequence
-works" is not acceptable given that the Contractor is responsible to coordinate and sequence their
-construction activities. The Contractor is currently acting in bad faith and against their obligations
-under Section 01 31 03 "to behave in a professional manner and to proceed with integrity to execute
-the work in the best manner possible".
-To conclude, we reiterate and remind the Contractor that they are obligated under Clause 11.3 of the
-Conditions of Contract and Clause 5 of the Settlement Agreement and Amendment No.8 to proceed
-with the rectification works for the Subsidence upon being instructed to do so by the Engineer.
-In light of the above, the Contractor shall immediately seize the suspension and proceed with the
-required works.
+Delays Cause and Effect Testing and Commissioning due to Delayed Response to NOC Request to Create
+Opening within AMC Walls to Level L3.1 to install Fire Smoke Damper Actuators, FSD-CS-L3.1-017 and
+027 and Failure to Issue an Engineer’s Instruction to rectify damage caused by Other Contractor
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Annex A records delays to the cause and effect testing and commissioning due the delayed receipt of an
+NOC approving the installation of two Fire Smoke Damper Actuators, to the Airport Management Centre
+(AMC) to L3.1, as well as delayed receipt of an instruction to rectify damage to power cables.
+Potential Impact
+Disruptions and delays on the part of others such as that outlined herein at this stage of the Project is
+increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+Ordinarily we would be requesting your prompt action, guidance, decision or further instruction as may
+be applicable to resolve the matters referenced herein in order to mitigate such delay and/or disruption
+to the Works. However, on the basis the NOC was issued, there is no action on your part.
+Nevertheless, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 30 June 2019, we wrote under letter ref: (1) requesting you to provide the necessary approvals /
+NOC to create an opening within existing [false] walls to the Airport Management Centre (AMC) to Level
+L3.1 to install two Fire Smoke Damper (FSD) Actuators, FSD-CS-L3.1-017 and FSD-CS-L3.1-027.
+Attached to our letter ref: (1) was a request for installation issued by way of No Objection Certificate
+(NOC) ref: No: N-441, two photographs (one for each FSD Actuator) plus a marked up IFC Drawing. We
+also identified that the ‘Duration’ of the noted installation Works was 10 days.
+You failed to reply. This caused us to forward our NOC request to the Employer by e-mail dated 8 July
+2019 [10:40am] (ref: 2) requesting “urgent approval” in order to proceed with the works.
+The Employer failed to reply also.
+We then e-mailed you on 21 July 2019 [at 3:44pm] (ref: 3) in which we notified you of the following:
+“We have not obtained attached NOC last 3 weeks and it is affecting directly Office C&E. Please provide
+advance NOC to start balance works asap.”
+The approved NOC was eventually received on 24 July 2019 attached to your Transmittal Advice No.
+MTC-CMA-TCA-0401-TML-06426, also dated 24 July 2019 (ref: 4) duly signed by the Employer’s Other
+Contractor, ARCO, as well as yourselves (AECOM) together with a series of four (4) comments; i.e.:
+1.
+“To coordinate with ARCO site Engineer”;
+2.
+“Opening to be done to allow T&C for fire alarm interface”;
+3.
+“Photos attached for the FSD behind wall base build by ARCO”; and
+4.
+“TCA JV to be responsible for any damages.”
+We record that 24 July 2019 is 24 calendar days after our NOC request was initially issued, which at this
+late stage of the Project may have a consequential impact on our progress and delay us.
+We also take this opportunity in reminding you of another factor affecting completion of the cause and
+effect testing and commissioning and that is the rectification of the damage to the previously handed
+over fire and life safety services within the AMC Room to L3.1 caused by the Employer’s Other
+
+Contractor, for which an Engineer’s Instruction is required and remains outstanding. Our earlier letters,
+including without limitation, letters dated 11 February 2018 and 12 March 2018 refers ref:
+MTB/TCA/AECOM/L/012420 and MTB/TCA/AECOM/L/012610 respectively; with the latter letter
+advising you that a formal Variation Order / Engineer’s Instruction shall be required for inter alia “reinstallation and re-testing and commissioning and for the certification process.” Moreover, despite a
+subsequent NOC request having been approved under your Transmittal Advice MTC-CMA-TCA-0401TML-05881, allowing the damaged circuits to be rectified, the effected works have still failed to be
+remedied. Our letter dated 3 June 2018 (MTB/TCA/AECOM/L/013095) noting “…NOC is approved
+subject to agreed changes been recorded on a revise drawings and share officially with TCAJV”.
+We therefore urge you to issue the necessary Variation Order / Engineer’s Instruction together with
+revised Drawings without further undue delay; albeit any potential delays arising from this particular
+issue will be assessed from the Effective Date contained in SAA8 (i.e. 4 September 2018) on the basis it
+cannot possibly be constructed as forming part of the ‘Excluded Circumstances’ referenced therein.
+Resultant Impact:
+As noted above, the openings in the walls to the AMC are required to install two Fire Smoke Damper
+(FSD) Actuators, necessary to allow testing and commissioning of the fire alarm interface. However, the
+resultant delay in approving our NOC Ref: N-441 has the potential to cause delay and disruption to our
+Works. Not only does this potentially delay cause and effect testing and commissioning but will
+invariably knock on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the
+potential to prevent us from achieving Substantial Completion (i.e. Milestone MS09C).
 Yours faithfully,

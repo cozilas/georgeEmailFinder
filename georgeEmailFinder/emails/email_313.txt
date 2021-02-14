@@ -1,151 +1,14 @@
-
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0160
-Delays to Subsidence Rectification Works (Grout and Excavation Works) – Delayed Receipt of
-MTA Contractor’s As-Built Drawings
-Dear Sir
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and/or disruption to the Works and seek your swift resolution of the same.
-Overview
-The matters described in Annex A concern delays to completion of the Works due to your failure to
-provide the MTA Contractor’s As-Built Drawings showing levels and locations of existing services.
-Potential Impact
-Any requirement for additional works, such as that outlined herein and at this stage of the Project, is
-likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-*** We note that the content of some of the e-mails quoted in Table 2 to letter (ref: 1), incorrectly
-mentions the accuracy of the MTA Contractor’s ‘as-built drawings’ when in fact they should have
-referred to the MTA Contractor’s ‘shop drawings’.
-ANNEX A
-Description of the Event
-We refer to various letters issued by us in connection with the subsidence rectification works such as
-letters ref: (1) to (4) cited above, that amongst other thing, notified you of delays consequent on soil
-rectification works and in particular the works that are outside the zone of influence of the sewers.
-Letter ref: (4) for example cites eleven subsidence related EIs/Bulletins defining the scope of works.
-This included inter alia Engineer’s Instruction No. 775A (Bulletin 261.1) associated with the ‘soil
-Rectification Works for Pier 1’ (refer to item 1 of Table 1 below) received on 31 July 2019. Following
-
-which, we have since received an additional seven (7) Engineer’s Instructions / Bulletins for additional
-soil rectification works (grouting and excavation works) (refer to items 2 to 8 of in Table 1 below).
-Table 1 – Additional EIs /Bulletins – Soil Rectification Works
-Grouting and Excavation Works
-Item Date of Receipt Letter ref:
-Date Subject
-Grouting Works
-1
-31-Jul-19
-MTC-CMA-TCA-0401-LTR-10887 30-Jul-19
-Engineer’s Instruction No. 775A
-– Bulletin 261.1
-– Soil Rectification Works for Pier 1
-2
-23-Sep-19
-MTC-CMA-TCA-0401-LTR-11011 22-Sep-19
-Engineer’s Instruction No. 773C
-– Bulletin 259.3
-– Pier 4 Grouting Works
-3
-26-Sep-19
-MTC-CMA-TCA-0401-LTR-11026 26-Sep-19
-Engineer’s Instruction No. 774B
-– Bulletin 260.2
-– Pier 3 Grouting
-4
-09-Oct-19
-MTC-CMA-TCA-0401-LTR-11062 09-Oct-19
-Engineer’s Instruction No. 776B
-– Bulletin 226.2
-– Pier 2 Grouting Works
-Excavation Works
-5
-23-Sep-19
-MTC-CMA-TCA-0401-LTR-11015 23-Sep-19
-Engineer’s Instruction No. 778A
-– Bulletin 263.1
-– Treatment above Invert Level Sewerage Pier 4
-6
-30-Sep-19
-MTC-CMA-TCA-0401-LTR-11027 30-Sep-19
-Engineer’s Instruction No. 779 –
-Bulletin 264.1
-– Pier 3 Treatment above Sewer Formation Level
-7
-15-Oct-19
-MTC-CMA-TCA-0401-LTR-11070 13-Oct-19
-Engineer’s Instruction No. 780A
-– Bulletin 265.1
-– Soil Rectification Works Pier 1
-8
-15-Oct-19
-MTC-CMA-TCA-0401-LTR-11071 13-Oct-19
-Engineer’s Instruction No. 781A
-– Bulletin 266.1
-– Soil Rectification Works Pier 2
-However, following a review of the multiple ‘For Construction’ Drawings appended to each of above
-referenced EIs / Bulletins, we found that that we were effectively being directed to either grout or
-excavate around the MTA Contractor’s existing underground services; yet the EIs (Bulletins) failed to
-include any corresponding as-built MTA services drawings information for each of the affected areas.
-This caused us to issue a series of e-mails including but not necessarily limited to the e-mails listed in
-Table 2 below, requesting the provision of CAD drawings defining the location of as-built utilities.
-Table 2
-Item Date Time Information Requested by TCA JV
-1
-03-Sep-19
-08:46 AM
-Be noted that we commenced yesterday the requested CPT
-points on pier 1. CPT-P1-R025 reached 1m with Qc=80MPa, as per attached layout, the position of CPT is
-clash free, But we are not confidant with other contractor as-built drawings. Be noted that TCAJV will
-not hold any responsibility for any potential damage that might occurs because of an-accurate as built
-drawings of other contractors utilities.
-We still waiting CMA confirmation about the accuracy of other contractor as-built drawings (refer to
-attached ). we waiting your confirmation and direction to get moving with Pier 1 CPT points.”
-2
-05-Sep-19
-12:14 PM
-“Please be noted that we started verifying the required grouting
-works/points on pier 2. We notice that the received as-built drawing through attached e-mail for MTA
-
-contractor doesn’t contain any coordinates and levels for existing MTA utilities which we will not be able
-to verify the grout points and confirm if its clash free or not. We kindly keep seeking CMA/Engineer
-verification and confirmation on other contractors works and as-built in order to avoid any potential
-damages that might occurs due to the miss-information or un-accurate as-built drawings.
-We kindly request CMA/Engineer to check and supply us with all of verified and accurate as-built
-drawings related other contractor works. The required drawings shall contain the setting outs and the
-actual installation level for all MTA utilities.”
-3
-17-Sep-19
-3:19 PM
-“Following e mail from Rafat below [item … above], please note
-that as of today, we still didn’t received verified data which will able us to proceed with grouting clash
-free study for pier 1.
-Please note the LNT work is massive around pier 1 and without knowing the levels of pipes the study is
-not possible.
-This is bringing us to the concerns about providing grouting point study for pier1 to site on time and
-appropriate accuracy.”
-4
-10-Oct-19
-3:43 PM
-“Referring to the attached e-mail and the discussed held during
-weekly subsidence meeting (Monday 07/10/19), we still waiting your feedback about MTA as-built
-drawings. We are not able to verify the grout work which located along other contractor works without
-having a clear as-built drawings contain the actual installation levels and position from other contractor
-works.
-Delaying issuing the as-built of other contractors works are delaying us of verifying the required grout
-works and issuing the required shop drawings for approval and commence the site works as well.
-Appreciate your cooperation and quick response with providing all of the required information/as-built
-drawings to allow us checking/verifying and issue the required shop drawings for grout works.”
-The information recorded in Table 2 above, demonstrates successive requests for us to be provided with
-essential as-built drawing information pertaining to the coordinates and levels of existing MTA utilities
-and our inability verify the grout points and confirm whether the areas and works in question are clash
-free or otherwise absent receipt of such information. However, despite our requests, at the date of
-preparing this E-Notice which is 15 October 2019, this information remains outstanding.
-As noted, the delayed receipt of the MTA Contractor’s As-Built Drawings information in support of the
-coordinates and levels of existing MTA utilities is preventing us from verifying the required works and
-preventing us issuing all necessary Shop Drawings to you prior to commencing the works on site. We
-therefore urge you to insist that the MTA Contractor provides this without further undue delay.
+Subject: SAA8: supplementary agreement
+Dear Sirs,
+We refer to your letter cited above and reiterate that the basis upon which SAA8 was executed was
+the understanding reached between senior members of the Parties, that a supplementary agreement
+would be issued within weeks of 20 September 2018, the date of its execution. Clause 5 of SAA8
+would thereby be superseded and provision would be made to pay the agreed sum in respect of
+variations that had been instructed after SAA8 negotiations had commenced.
+The purpose of our latest letter noted above was to record that the facts in respect of subsidence
+gathered over the intervening eleven months had strengthened the position of the JV, further
+supporting that understanding: two expert reports had confirmed that the cause of the subsidence
+was not materials or workmanship.
+We trust that you will now review our letter of 29 August 2019 in this context let us have your
+comments on our proposed draft of the supplementary agreement.
 Yours faithfully,

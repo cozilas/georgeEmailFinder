@@ -1,69 +1,38 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0188
+Subject: MTA Underground Utility CAD FILES (in CD) and WIRs from Potable Water, Fire Water,
+Communication and Chilled Water.
+Dear Sir,
+We write in regard to the provision of information on MTA Project Utilit ies located around and
+within MTB areas through your transmittal No.: MTC-CMA-TCA-0401-TM L-06627 received on 09th
+Dec 2019.
+We have reviewed and examined the provided information/data and we would like t o draw your
+attention to following issues:
+- CAD drawings provided within the attached CD under above mentioned t ransmittal have the same
+content/information that TCAJV had received via CMA letter "MTC-CMA-TCA-0401-LTR11081" dated on 23/10/19, including only MTA Project shop drawings, not the As-Built Drawings as
+requested by TCAJV, since Aug-2019. Our BIM team has been checking the provided CAD drawings
+within the transmittal and confirmed that our standpoint regarding the modeling of MTA utilit ies is
+still the same (please refer to attached e-mail from TCAJV-BIM Engineer - Attachment - 1), merely
+due to absence of information. The hardcopies provided for MTA Project Site Inspection Records (L& T)
+and survey readings are
+scanned copies, mostly un-clear and un-readable layouts and do not include any clear survey reports.
+Enclosed survey reports within the provided site inspection records show t he Leve ling Inst rument
+readings only, without having the location and coordinates for where the level reading had been
+taken (sample attached for your easy reference- Attachment- 2).
+Thus, we kindly notify you that the provided information of the other contractors services/utilities
+does not reflect the actual installation conditions and it has not been provided in a format or quality
+allowing us to utilize or proceed, as requested on several occasions over the past 5 months, as we
+have just been provided with scanned-hardcopies.
+At this juncture we are compelled to remind you that we are not responsible to review and clarify
+the site records of other contractors work in order to produce the as-built drawings on behalf of the
 
-Engineer’s Request to remove our installed/completed works associated to SS Cladding Camera poles
-located at South Etihad area L0.0 Room 5.64 Sector 5.22 (Tenant Area) to facilitate the Employer's
-Other Contractor (DEPA) works – Request for Engineer’s Instruction / Variation Order
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Annex A records delays on the part of the Employer’s Personnel/Other Contractor and the requirement
-for additional work that requires a valid EI and VO in order for us to proceed.
-Potential Impact
-Disruptions and delays on the part of others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-On 18 November 2019 [12:38 PM], we received an email (enclosed in Annex B hereto), from you
-informing us that two (2) of our already installed SS Cladding Camera poles located at South Etihad area
-L0.0 Room 5.64 Sector 5.22 (Figure 1 refers), had to be temporarily removed, to enable the Employer’s
-Other Contractor (M/s DEPA) to install floor tiles associated with the Tenant Works.
-Figure 1
-We note that your abovementioned email, requesting us to temporarily remove the SS Cladding Camera
-poles located at South Etihad area L0.0 Room 5.64 Sector 5.22 (Tenant’s Area) to facilitate the
-installation of floor tiles by DEPA and then reinstall the SS Cladding Camera poles back after the
-completion of DEPA’s works, was sent to us a year after our Works have been completed.
-For this reason, we reiterate once again that the two (2) SS Cladding Camera poles at South Etihad area
-L0.0 Room 5.64 Sector 5.22 located within the Tenant’s area, have been installed and handed over to
-your via the WIR process (WIR-FIN-53785 refers). Therefore, prior to the installation of the SS Cladding
-Camera poles and since these works were located within the Tenant’s area, a permission to proceed
-with the installation of the SS Cladding Camera poles within this area was required by you. It is for this
-reason that on 29 October 2018 [8:32 AM] we sent you an email (enclosed in Annex C hereto),
-requesting you whether we could proceed with the installation of the SS Cladding Camera poles, or not,
-since the Stone Floor installation was yet to proceed by the Employer’s Other Contractor (DEPA). This
-was then followed on Tuesday 30 October 2018 by receipt of an e-mail from you at [2:55 PM]
-(reproduced in Figure 2 below and enclosed in Annex C hereto) informing us that you “…don’t have any
-objection [for us] to proceed with the camera pole installation…”.
-Figure 2
-
-For the reasons explained above, given that our Works for the installation of the SS Cladding Camera
-poles located at South Etihad area L0.0 Room 5.64 Sector 5.22 have been completed within the Tenant’s
-Area, following your request to do so, which was received via the email replicated in Figure 2 above, we
-put on record that the works required by us to provide support to facilitate DEPA’s works by removing
-our installed SS Cladding Camera poles, will, at such a late stage of the Project, invariably result in
-consequential delay and disruption to our Works.
-Also, given that the ‘support’ to be provided to DEPA is additional to our scope, then we remind you that
-SAA8 laid down strict guidelines to follow in the event that additional works are required, and will
-warrant a valid Engineer’s Instruction (EI) and a Variation Order (VO) if you require us to proceed.
-However, it appears that you have overlooked or ignored this.
-Very simply, the provisions of Clause 2.29 to Clause 2.31 of SAA8 [pertaining to Variations] states that
-we are not to proceed with any Variation until a VO and a Time/Cost Record have been issued first. It is
-your obligation to issue this Time/Cost Record first if you wish to instigate change; but this is only after
-the additional time and/or costs impacts have been agreed between us beforehand. Therefore, until
-such time as you take the action required of you in accordance with SAA8 Clause 2.29, then we are
-unable to proceed with undertaking the additional works noted above. We trust this is clear.
-Resultant Impact:
-The requirements to remove the SS Cladding Camera poles located at South Etihad area L0.0 Room 5.64
-Sector 5.22 (Tenant’s Area) to facilitate the installation of floor tiles by DEPA and then reinstall the SS
-Cladding Camera poles back after the completion of DEPA’s works, at such a late stage of the project will
-as noted, cause significant delay and disruption to our works. This has the potential to invariably knock
-on and impact upon our ability to achieve Milestone MS09B. Similarly, this has the potential to prevent
-us from achieving Substantial Completion (i.e. Milestone MS09C).
+them. You as the Engineer have the contract ual obligation to review, clarify and validate all of the
+other contractors work and supply TCAJV with the accurate information required from the as-built
+drawings in a STANDARD, USABLE FORMAT that can be easily converted to 3D model in order to start
+verifying the instructed grouting works via Bulletins 261.2 and 262.2 and prepare and submit all of
+required shop drawings for approval, prior to commencing any site works.
+Based on the above, we are unable to continue these works in alignment with the target program,
+until such time the required information is provided for the instructed works, for which we reserve
+our right under the provisions of the Contract Sub-Clauses 15.5.2 and 27.1.1 for additional time and
+cost. Hence, we have no other option but to return the transmittal, as received, back to you
+(Attachment- 3).
+This is for your information, records and immediate action accordingly.
 Yours faithfully,

@@ -1,13 +1,39 @@
-Subject Notice to Correct {Clause 12.10 Conditions of Contract)- Shortage of Manpower
+Subject:MTB Chilled Water Piping Rectification Works Due to Settlement of External CHW Piping –
+Request for an Engineer's Instruction
 Dear Sir,
-We write with reference to correspondence (1) wherein the Engineer notified the Contractor of his
-concerns in relation to the levels of manpower on site and requested that the Contractor corrects the
-decline in their resources. The Contractor is responsible for the acts, omissions or defaults of any and
-all Subcontractors and their agents or employees, as if they were acts, omissions or defaults of the
-Contractor (Clause 12.9.6 Conditions of Contract).
-The Contractor is referred to the table below which identifies a few Subcontractors where the current
-resources and the variance in Direct/Indirect levels are reflected as of 15 November 2019:
-the contractor is requested to immediately rectify the above shortages which impact the performance
-of their Subcontractors and ensure that their subcontractors allocate the required resources for the
-rectification of all non-compliances and to ensure adherence to the target schedule for completion.
+We write with reference to several recent meetings, and in particular, meeting (1) attended by ADAC,
+AECOM, TCAJV and PCE JV, related to the ‘Action Plan’ regarding the rectification works associated with
+the Chilled Water Leakage at the MTB Pump Room (88.C.L00.0553).
+We remind you that we previously notified you on this subject via our E-Notice No. 0152 (3), however
+since then, the subject has been discussed at length and an ‘Action Plan’ has been agreed upon.
+Via our email (4), we submitted the site survey report to you (based on TCAJV and AECOM joint survey),
+which confirmed that the root cause of the leakage to the flange connection of the BTU meter in the
+pump room, was the settlement of external chilled water piping which was installed by the MTA
+Contractor (L&T), which is outside of our scope and responsibility.
+Understanding the importance of the matter, we initiated the preparation of a job specific method
+statement for the rectification of chilled piping within the pump room based on your verbal instruction,
+submitted to you under cover of our submission (2). We are yet to receive a formal instruction from you
+for this additional scope.
+Following the ‘Action Plan’ meeting (1), ADAC/AECOM/CxA informed us that District Cooling Plant (DCP)
+Contractor will top-up the chilled water preservation chemicals prior to commencement of our
+rectification works.
+
+As required by the DCP Contractor’s dosing plan, we were verbally instructed to isolate some of the
+valves within MTB (to be identified by DCP Contractor). We are yet to receive a formal instruction from
+you for this.
+Although we are committed to providing the assistance to the DCP Contractor, we shall not be held
+responsible for any consequences of this activity [such as losing preservation chemicals, time and cost
+impact].
+In addition, we accept no liability for the chilled water quality or for contamination of the chilled water
+due to stagnant water and/or re-filling water as result of MTB rectification works.
+As stated in the minutes of meeting (1)), we have proactively planned for the works to start during week
+commencing 10 November 2019 however, this is subject to the DCP Contractor providing the chilled
+water preservation chemicals.
+Although we have acted cooperatively to date, we request that you issue an Engineer's instruction to
+cover all the additional works we have initiated to date.
+Furthermore, we require an instruction to proceed with the rectification works.
+Our Subcontractor (PCE JV) will undertake this additional scope of work and we have requested that
+they provide us with an estimate of the associated costs which we will duly submit for your
+consideration. We will then be in a position to value of this rectification works which together with the
+survey and excavation works, forms a variation to our scope.
 Yours faithfully,

@@ -1,39 +1,28 @@
-Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0202
-Damages to our installed Handrails at CP Level 3.1 North Etihad Lounge Level caused by the Employer’s
-Fit-Out Contractor (DEPA) - Request for Engineer’s Instruction / Variation Order
-Dear Sirs,
-Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
-submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
-A may cause delay and disruption to the Works, and seek your swift resolution of the same.
-Overview
-Annex A records delays attributable to damages caused by the Employer’s Other Contractor (DEPA) to
-our previously installed works, which require rectification and as such require an Engineer’s Instruction
-(EI) and Variation Order (VO) in order for us to do so.
-Potential Impact
-Disruptions and delays caused by others such as that outlined herein at this stage of the Project is
-increasingly likely to impact on achievement of Milestones MS9B and MS9C (Substantial Completion).
-Action Required
-We therefore request your prompt action, guidance, decision or further instruction as applicable to
-resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
-Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Subject Post SAA8 Sub-Clause 2.26: E-Notice No. 0171- Engineer's Response to
+RFI/0401/17400- Introduction of Gypsum Ceiling at CP Hotel L2.0 to Underside of
+Elevator 0595- Request for Engineer's Instruction (RFEI) & Variation Order (VO)
+Cross Ref. (1) MTB/TCA/ AECOM/L/015016 dated 12 November 2019
+Dear Sir,
+We write with reference to correspondence (1), regarding E-Notice No.0171 and we refute the
+contents of the letter in their entirety.
+The RFI response did not provide a change in the design or Scope of Works but merely provided the
+clarification requested by the Contractor. The Contractor was referred to Shop Drawing 401-DM-A02-21-5.17B-CL-SD-015-01 and to the comments provided on 23 November 2015. The Contractor was
+to provide the gypsum ceiling in Room 0070 at L3.0 to close the gap and exposed steel structure
+complying with Division 01 of the Specification's requirements. The Contractor's statements that "the
+drawing relates to stone works and is irrelevant to the ceiling work, the comments to the noted Shop
+Drawings are incorrect" etc. are unfounded.
+The Contractor should have addressed the provided comments on the Shop Drawings and should have
+raised the RFI at that time and prior to execution of the works on site. The refe rred RFI was only raised
+on 25 August 2019 whereas the Contractor was aware of the comments on the Shop Drawing since
+2015. The RFI response has addressed the query and provided the Contractor with the directions to
+proceed.
+Regarding the modifications required to incorporate the referred ceiling, the Contractor is referred to
+Specification Section 01 31 13, and the requirement for the Contractor to coordinate and submit to
+the Engineer any discrepancies through the RFI process and not to withhold any information regarding
+known discrepancies. The Contractor has failed to coordinate the interface details and proceeded with
 
-Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
-the Time for Completion and any associated costs arising from the event(s) described herein.
-ANNEX A
-Description of the Event
-We herewith enclose a series of photographs that collectively serve to evidence damages having been
-caused to our previously installed handrails located at CP Level 3.1 North Etihad Lounge. Unfortunately
-despite the handrails having been installed, inspected and handed over by us through the WIR process,
-these have subsequently been removed without an approved No Objection Certificate (NOC) and a 3
-meter sticker has been applied to the glass panels as shown in Figure 1 below. This is directly to the
-Employer’s Other Contractor (DEPA).
-Figure 1
-We wish to put on record that the foregoing events are not of our doing or responsibility, and any
-rectification / remedial works necessarily required at this stage, will invariably delay us.
-We therefore inform you in order for us to undertake the rectification works to the damaged works
-noted above, will require the issuance of a Variation Order (VO) / Engineer’s Instruction (EI). SAA8 laid
-down strict guidelines to follow in the event that additional works are required and we therefore
-request you to issue the necessary VO / EI for the requisite rectification works to be undertaken.
-Furthermore, we request you to take necessary action to prevent any further occurrence of damages to
-our previously handed-over Works by the Employer’s Other Contractors.
-Yours faithfully,
+the site installation.
+We therefo re do not agree with the Contractor's assertion that the RFI response constitutes a
+Variation and remind the Contractor of their obligations to coordinate the works and submit
+coordinated documents for the Engineer's approval.
+Yours faithfully

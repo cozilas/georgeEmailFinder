@@ -1,49 +1,85 @@
+Subject: Stone Visit Report (STN-13-0iympia Cream) and Design Intent Control Samples
 Dear Sir,
-We refer to Engineer's letter ref. MTC-CMA-TCA-0401-lTR-01126 dated 02 February 2014 and respond
-as
-follows.
-We reject the Engineer's notion that the risk of using ABS pipes is a matter associated with means and
-methods, and therefore a Contractor responsibility. The Engineer failed to acknowledge clearly
-identified
-issues and the responsibility for such design decisions. We provided abundant engineering ass.essments
-to
-show that the Specified Material is inappropriate and would be cause for serious performance issues
-and
-we reassert our rebuttal of the Engineer's opinion that a hybrid plastic/steel system "would perform
-any·
-different to an all ERW steel system". _,.
-We have provided a notice of Design Error pursuant to Conditions of Contract clause 12.1.6 (k) an.d
-require .
-the Engineer to take the corrective actions to resolve the matter by issuing a fully detailed design
-solution ·· ·· •. ~
-that may be implemented by the Contractor. It is surprising that Engineer would seek to exploi~ a failure
-: .... r
-to design a hybrid Hydronic piping system as an opportunity for further value engineering price
-reduction
-and to penalize the Contractor when the Employer is responsible for performance.
-•ol 1 '1
-The Engineer is advised that other tenderers questioned the suitability of the ABS piping solution. We '
-refer you to Tender Query RFC-007 issued as part of Tender Bulletin 20 that posed the question: "Please
-~, · · ·
-confirm whether ABS is suitable for hydronic piping." We note that the Answer to RFC-007 neglected to
-respond to the last part of the query (repeated above). •
-We remind the Engineer again that the design of the Value Engineering Items is an Employer · ' · •
-responsibility. We contend that had the Engineer acted in accordance with the express obligations of the
-Conditions of Contract clause 9.7.1, the Employer would be required to issue Drawings to establish such
-hybrid pipe design. Having failed to implement the Value Engineering Item design in an appropriate
-manner, the Contractor has no option than to revert to the base Contract Works.
-Notwithstanding the above, and the further value engineering "opportunity'' sought by the Engineer, we
-hereby notify that the Employer is not entitled for any cost savings as a result of the change of the pipe
-to ERW steel. We refer the Engineer to Tender Bulletins OS and 09 queries no. 70 and 68 respectively
-(reproduced and enclosed in Attachment A).
-The Tender Bulletins referenced above show that the Employer agreed that ERW pipe is "as equal" to
-the
-steel pipe specified in the Specification 232113. As such ERW pipe need not be written into the'
-Specification to allow the Contractor to use ERW pipes. Since ERW pipe is allowable under the base
-Contract documents, the Employer is not entitled to a value engineering saving for the same.
+We acknowledge the receipt of the above Engineer's Inspection Report ref. MTC-CMA-TCA-Q401-TML01190 dated on 11 January 2015. However we object the content of the report for DEEMAH STN-13
+Olympia Cream part and request for clarification as follows;
+}> Stone Flooring Spec 096340 issued on July 2012, refers to a Stone Type (STN-08) as Olympia
+Cream with a fabricator named of Campolonghi ltalia Sri.
+}> Stone Facing Spec 097500 issued on July 2012, refers to a Stone Type (STN-13) as Olympia Cream
+with a fabricator named of Campolonghi ltalia Sri.
+We have submitted Olympia Cream (STN-08} stone under material submittal ref.
+MS/0401/C/0145 dated on 08 May 2013 and received a Code 1 status for the mentioned stone
+from Campolonghi ltalia Sri .
+We also provided a stone mock up in accordance to SDS ref. SDS/A/0142 with the approved stone
+ordered from Campolonghi ltalia Sri.
+We requested an inspection for the stone flooring mock up installed with STN-08 Olympia Cream
 
-Find enclose RFVO no. RFV0/0401/0222 to revert the Value Engineering Item to the original
-Specification
-and return the unjustified Value Engineering Item value to the Contractor.
-We look forward to your expedient issuance of a Variation Order for the above.
+at the tent adjacent to the Mock up Building by letter ref. MTB/TCA/AECOM/l/001621 dated 11
+March 2014.
+We therefore understand that the mat erial "Olympia Cream" either used in Stone Flooring or Stone
+Facing with different tags in MTB Project, refers to the same material coming from the same quarry
+location which is approved previously by the Engineer with Code 1 MS/0401/C/0145 received on 27 May
+2013. With reference to El-109 for FOH Toilet Mock up, as a requirement of Spec 097500, we have
+submitted
+same materiai"Oiympia Cream" with a different tag STN-13. Based on the STN-08 reference, we have
+also
+requested a confirmation or further information if any for Sample for Stone (Olympia Cream) under a
+letter MTB/TCA/AECOM/l/002003 dated on OS June 2014.
+The Engineer's letter ref. MTC/CMA/TCA/0401/TML/00888 and MTB/TCA/AECOM/l/001985,
+(KPF/PD/2132/LTR/00297) clearly mentioned that'' ... For STN-13 Olympia Cream, please note that vein
+of the submitted sample is less desirable than one presented to us during earlier design review, Per Spec
+097500 ... " and also Engineer's letter MTC/CMA/TCA/0401/TML/00922 dated on 25 June 2014 stated
+that
+" ... Veins and Colours of Stone Shall be Similar to the approved samples ... 11
+Based on the comments of the Engineer, please note that by letter reference
+MTB/TCA/ AECOM/l/002070, " ... STN-13 Olympia Cream: The aforementioned material is not uniform in
+nature, usually the veins are scattered over a big block& are not equally parted. Please find attached
+photo (Ref.0001} from Campolonghi ... 11
+Please be advised that KPF/ADAC/JV representatives were invited for a stone inspection for STN-13
+Olympia Cream at Khaters Factory in Italy to progress with official submissions to the Engineer. On the
+date of the inspection 18 November 2014 we note that the KPF Design Team brought along 3 nos. of
+new
+stone samples 300x300 for "Olympia Cream" with a tag from Campolonghi ltalia Sri. introduced as
+control Samples for which the visual appearance is totally different than the previously approved Code 1
+Olympia Cream material from the same fabricator.
+The inspection was followed up with the exhibition of six slabs which were intended as a true reflection
+the nature of this material. KPF/ADAC team marked the acceptable/unacceptable portions of the slabs
+and followed with a discussion with the Vendor to confirm with the quarry owner on the feasibility of a
+vein free store.
+STN-13 Olympia Cream was again submitted under MS/0401/A/0405 on 27 October 2014 and received
+Code 3 on 07 December 2014.
+The latest STN-13 Olympia Cream submission is made under MS/0401/A/0460 on 29 December 2014
+also
+including a certificate from a quarry of origin in Tunisia to satisfy the Engineers previous comments, still
+pending with the Engineer with the discussions of a vein free stones.
+In view of the above, we would like to state our understanding for the expectations for STN-13 Olympia
+Cream.
+Objections;
+)> Firstly, we object to the parts of the report where KPF compares the STN-13 Olympia Cream slabs
+in Khater Factory with the new "Olympia Cream" sample introduced on 18 November 2014 at the
+factory inspection. We request a revised report from the Engineer which removes the comparison
+of slabs visual characteristics with these different samples.
+)> Secondly, we object to the report where Olympia Cream vein characteristics are eliminated. This is
+the inherit characteristic of the material which should be recognized and accepted by the
+Engineer. As previously commented, the designer intended to see similar veins as the approved
+
+sample. Third, we object to the MS/0401/A/0405 received on 07 December 2014 detailed comments
+Item 1 for receiving Code 3 " ... The material sample of Olympia Cream does not match the
+specified design intent as represented by KPF's Control sample of Olympia Cream {Provided by
+Campolonghi). The visual characteristics and aesthetic appearance of the Deemah submittal are
+different from Olympia Cream specified by KPF. See Fig. 1 for stone comparison. Contractor to
+resubmit to match KPF's Control sample ... " As seen clearly from the previous correspondences,
+MS/0401/A/0405; The Engineer cannot give Code 3 for Item 1 due to it is not matching with the
+sample firstly seen on 18th November 2014 in Italy.
+Conclusion;
+}> If the design intent of the Engineer is to proceed with the newly introduced Stone Facing STN-13 ,
+this is totally a different material which needs to be re-evaluated.
+}> If the design intent of the Engineer is to proceed with the already inspected slabs at Khaters
+factory in Italy, it is confirmed by the quarry that the inspected slabs are indicative of this vein
+characteristic. We request the Engineer to review Olympia Cream slab inspection comments and
+consider their selection criteria by recognizing the nature of this material and allow us to proceed
+accordingly.
+In light of the above, The Engineer is requested to respond our concerns and clarifying the design intent.
+The Engineer has been supportive in this regards for which we thank their efforts. However the formal
+communication and record is required to be corrected and we require a clear direction to resolve the
+ambiguities.
 Yours faithfully,

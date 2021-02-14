@@ -1,81 +1,40 @@
-Subject: Submitted Likely Delay Notices Evidence of Compliance with the Contract PwrovisioRs
+Subject Internal Glazing Works Lack of Performance
 Dear Sir,
-We understand, from recent discussions and meetings with the Employer and: the Engineer, that the
-current position of the Engineer is that the Contractor's extension of time (f07!) claim for EOT 2 is "time
-barred", albeit to date the Engineer has failed to issue a determination on the Contractor's claim despite
-the requirements of Clause 27.1.8. The Engineer is reminded that we have issued successive claims for
-EOT post Heads of Agreement during the past three years, which we most recently updated via
-Consolidated Time Impact Analysis No. 9 (submitted under cover of our letter ref:
-MTB/TCA/AECOM/L/011969 dated 20 November 2017) (TIA ~o .9). The Engineer is extremely late in
-rendering its determination with respect to the Contractor's claim, including providing its "detailed
-comments" as required by Clause 27.1.6 of the Contract. The Engineer should have issued its
-determination by 18 December 2017 for TIANo 9, which is still outstanding as of the date of this letter.
-Given the significance of the Engineer's current position (which we have only recently been made aware
-of), we are obliged to respond to correct the Engineer's stance.
-(1) It is unclear what the Engineer means by time barred
-As a threshold matter, it is unclear what the Engineer means by the Contractor's claim being "time
-barred." In recent correspondence (e.g., refer~nce 3), the Engineer appears to confuse and conflate two
-separate sets of contractual requirements.
-As clearly indicated in the table above, the Contract specifies that only non-compliance with Clause 27
-.1.1
-" bars" a claim (provided that such bars are enforceable as a matter of UAE law, which they are not as
-explained below). Otherwise, the Contract provides that the Contractor's claims are only limited (if at
-all)
-to the extent that the Employer can prove that the Contractor's failure "prevented or prejudiced proper
-investigation of the claim."
-Clause 16.5.2 does not change this. Clause 16.5.2 provides that:
-"If the Contractor considers itself to be entitled to an extension of the Time for Completion,
-the Contractor shall give notice to the Engineer in accordance with clause 27.1 (Contractor's
-Claims) and, if applicable, comply with the provisions set out in clause 27.2 (Time Impact
-Analysis). Compliance with the notice requirements of clause 27.1 (Contractor's Claims) and
-clause 27.2 (Time Impact Analysis) shall be conditions precedent to the Contractor's
-entitlement to an extension of the Time for Completion. When determining each extension of
-the Time for Completion under clause 27.1 (Contractor's Claims), the Engineer shall review
-previous determinations and may increase, but not shall decrease, the total extension of the
-Time for Completion."
-The terms "notice requirements" and "condition precedent" are general, vague and undefined. In
-contrast, clause 27.1.9 speaks precisely to this issue.
-1 Accordingly, these terms are defined and limited by
-clause 27.1.9. This interpretation is rendered unavoidable by the fact that clause 16.5.2 refers to the
-requirements of clause 27.1, which includes clause 27.1.9. This means that clause 16.5.2 does not
+We write with reference to our letter referenced (4) and your Monthly Report No. 67 for the period
 
-supersede clause 27 .1.9, but rather, incorporates its requirements.
-As such, clause 16.5.2 must mean that, other than non-compliance with clause 27.1.1, an extension of
-time determination must consider any prevention or prejudice to the Employer resulting from the
-Contractor's non-compliance with clauses 27.1 and 27.2. That means the requirements in clauses 27.1.5
-and 27.2 are not "time bars". Any other reading would create an unavoidable conflict between two
-provisions of the Contract. This is not the proper way to construe a legal instrument.
-Construct1on ~~arabtec MIDFIELD TERMINAL CONTRACTOR
-TCA Joint Venture
-The Contractor notes that Clause 27.1.1 provides that the Contractor shall give notice to the Engineer
-whenever it becomes aware, or should become aware, of an event giving rise to a claim. The Contract
-does not mandate that the notice be of any specific form other than meeting the requirements of Clause
-9.4.1. This means that general correspondence, RFis and other forms of communication suffice?
-Given the above, we assume that the Engineer's comment relates only to the Contractor's noncompliance
-with Clause 27.1.1. If this assumption is not correct, then the Engineer's position is contradicted by the
-plain terms of the Contract.
-{2) Claims cannot be strictly time barred as a matter of UAE law
-As the Engineer is well aware, the "Contract shall be governed by and construed in accordance with the
-laws of the Emirate of Abu Dhabi and the federal law of the United Arab Emirates as applied in the
-Emirate
-of Abu Dhabi."4 It is widely recognized that UAE law does not blindly permit the application of
-contractual
-time bars. To the contrary:
-1. Prescription periods in the UAE law are mandatory provisions of law for which parties cannot
-contract around;
-2. The Employer cannot rely upon time bars where it has actual or constructive notice of the
-event giving rise to the Contractor's claim; and
-3. The Employer cannot rely upon time bars when it has not strictly complied with the Contract
-itself or has impeded the Contractor's performance of its contractual obligations.
-Appendix A elucidates these points at greater length. As is clear, the Engineer cannot invoke Clause 27
-.1.1
-to deny the Contractor's just claims as a matter of UAE law.
-The Engineer is required to administer the Contract according to its terms. This includes the governing
-law
-clause. Thus, the Employer (via the Engineer's conduct) is in breach of the Contract if the Engineer fails
-to
-apply the Contract in the manner required by UAE law.
-In light of (a) the Engineer's current position; and (b) its failure to provide an assessment, to date, of the
-Contractor's EOT 2 claim, we would request the Engineer to consider the points elucidated in this letter
-and respond accordingly.
+ending March 2018 referenced (1), which includes the updated Programme to Completion as of 1 April
+2018 and Target Programme Rev 10.4 (Clean-up as of 1 February 2018). The Engineer hereby raises
+concerns over the lack of performance of AI Ghurair in the Central Processor, Piers, and all
+Gate houses.
+One of the main purposes that the Contractor was requested to introduce the Clean-up programme
+(01 February 2018) was to align the forecast dates and t o mitigate the impact of delays for certain
+trades. The Programme shows slippage to all type of works pertaining to the delivery and construction
+(Refer to Attachment-1), such as but not limited to AI Ghurair's scope of works for Glazing (Glass
+Screen, Glazing Pavilion, Glass Wall Lining), Toilet Compartment, and Utility Wall, as well as other
+activities not included in the programme, such as the Light Box and the Equipment band.
+The slow progress of AI Ghurair's scope of work has resulted in a negative impact on the programme,
+since the Glass Screen works is on the second critical path for Pier 4. The Engineer raises its concern
+that ongoing delays may not be recovered by the next monthly update as previously notified (5).
+The Engineer records that, Abu Dhabi Civil Defense No Object Certificate (NOC) is planned to be issued
+on 9 August 2018 for Pier 4 and all the work related to AI Ghurair has to be completed prior to the
+start of the Civil Defense inspection process. This allows only 3 months from the date of t his letter yet
+the relevant material has not yet been delivered to site.
+We note that despite the issuance of Notices pursuant t o Clause 12.10.1 of the Conditions of Contract,
+the Contractor has not adhered to its commitment that it will manage its Subcontractor as required
+under the Contract, and that decisive actions have been taken to rectify its progress (ref.
+MTB/TCA/AECOM/L/010779 dated 07 June 2017). Furthermore, we note that Assa Abloy which was
+appointed in order to mitigate AI Ghurair's delays is also under performing.
+The late delivery of material has negatively impacted the installation works by AI Ghurair (refer to
+Attachement-2) and subsequently impacted the succeeding commissioning activities and the target
+interim completion dates. The lack of progress has been discussed in the Weekly Progress Meetings
+with the Contractor.
+Accordingly, the Contractor is hereby requested to submit its Mitigation Plan detailing the measures
+proposed to be adopted to mitigate the slippage that has occurred and to eliminate any knock-on
+effect on the target completion dates. The Contractor shall include in its mitigation measures the
+defective items such as survey, procurement, and installation.
+The Mitigation Plan shall be submitted not later than one week from the date of receipt of this letter
+and upon agreement with the Engineer, the Contractor shall incorporate the same in the next
+programme update.
+We remind the Contractor that it is solely responsible for all the delays incurred to date by its
+Subcontractor's lack of performance and we hereby reserve the Employer's rights under t he Contract.
 Yours faithfully,

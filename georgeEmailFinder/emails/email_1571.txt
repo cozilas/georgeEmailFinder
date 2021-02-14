@@ -1,22 +1,55 @@
-Dear Sir,
-The Contractor refers to the Engineer's Instruction ("El") Nr 111 at reference 1 (received by the
-Contractor on 28 January 2016) which has been issued as a Variation Instruction pursuant to General
-Condition ("GC")
-13.1.1 of Volume 3 of the Contract.
 
-The Contractor is of the opinion that this Engineer's Variation Instruction may provide the Contractor
-with entitlement for additional payment for the resulting varied Works as an addition to the Contract
-Price pursuant to GC 13.6.1 and may provide the Contractor with entitlement to receive extension(s) to
-the affected Time(s) for Completion pursuant to GC 8.4.1(a) for any delays consequently incurred due to
-executing the varied Works.
+Dear Sir,
 
-Accordingly, the Contractor hereby notifies the Engineer's Assistant of the Contractor's intention to
-claim for its possible entitlement (1) for additional payment due to El Nr 111 (notification pursuant to
-GC 20.1.2) and,
-(2) for any extensions to the affected Time(s) for Completion for any delays that may be incurred due to
-El Nr 111 (notification pursuant to GC 8.4.2 and GC 20.1.2).
+The Contractor refers to the Minutes of Meeting (Item 2.3) under reference 1) whereby the Engineer's
+Assistant asserts that the location of the MEP rooms in the subway entry shelters is not ABM compliant.
 
-Please rest assured however that notwithstanding the above, the Contractor will endeavour, in
-accordance with its contractual obligations, to mitigate any delays and additional costs incurred due to
-El Nr 111.
+The Contractor refutes the Engineer's Assistant's assertion and refers the Engineer's Assistant to the
+provisions of ABM 1 and ABM 2 that allow for modular entry shelters with MEP modules as part of the
+Urban Integration Strategy, further detailed In the ABM 3 as per the following non-exhaustive list of
+references to the location of the MEP plant rooms in the subway entry shelters above ground:
+
+a.
+Chapter G Urban Elements, item G 3.1.2.a Design Strategy Guidelines for small entrance shelters
+(page 201);
+b.
+Chapter G Urban Elements, item G 3.1.2.b Geometry Guidelines for small entrance shelters
+(page 202)
+c.
+Chapter G Urban Elements, item G 3.1.2.d Growth Strategy Guidelines for small entrance
+shelters (page 211 and page 212)
+
+In this respect, the location of the MEP rooms in the entry shelters at ground level is compliant with the
+Architectural Branding Manual.
+
+In addition, the Engineer's Assistant is reminded that the MEP plant rooms in the entry shelters at
+ground level are included in the Contractor's DD1 design submissions which were DVE certified and
+received NOWC from the Engineer's Assistant with no comments on this particular subject.
+
+Further to the above, it is evident that the proposed relocation of the MEP rooms from the entrance
+shelters at ground level to the underground (except from a shaft to accommodate smoke extract, air
+intake and air exhaust) is a departure from the Contractor's ABM compliant design.
+
+Notwithstanding the above, the Contractor proactively addressed the Engineer's Assistant's request to
+reduce the subway entry shelters' footprint and proposed such alternative solutions during the
+Workshop on Entrance shelters & Subways- Architectural & MEP strategy held on 26 October 2016
+(Minutes of Meeting reference M006-LBE-ENG-MOM-00694 ).
+
+It appears that the Contractor's proposed solution for the relocation of the MEP plant rooms from the
+entrance shelters at ground level to the underground subway (except from a shaft to accommodate
+smoke extract, air intake and air exhaust) was accepted in principle by the Employer and the Engineer's
+Assistant in the Subways and Entrance Footprints meeting held on 10 December 2015.
+
+In the event that the above change is required to be incorporated in the design, the Contractor hereby
+kindly requests the Engineer's Assistant to obtain the Employer's written confirmation of its agreement
+to implement the change and instruct accordingly in order to minimize abortive design.
+
+This change constitutes a Variation and upon receipt of the Engineer's instruction, the Contractor shall
+proceed in accordance with the provisions of Clause 13 [Variations and Adjustments] of Volume 3 Conditions of Contract.
+
+For the avoidance of doubt, the Contractor informs the Engineer's Assistant that the design is
+progressing with the MEP plant rooms in the subway entry shelters at ground level in compliance with
+the provisions of the Architectural Branding Manual, unless instructed otherwise.
+
+We remain at your disposal for any further information and/or clarification.
 Yours faithfully,

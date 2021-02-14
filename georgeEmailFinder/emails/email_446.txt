@@ -1,50 +1,22 @@
-Subject:Clause 27.1.1: Notice of Claim
-Delay Notice No. 0035 (Post SAA8) – Instruction to hold all ceiling activities to the SEHA
-Clinic due to EI No. 758 and subsequent instruction to resume work
-Dear Sir,
-We hereby submit this Delay Notice No. 0035 in accordance with the General Conditions Clause 16.5.2
-and Sub-Clause 27.1.1, for the delays associated with the requirement to place a “hold” on the ceiling
-works to the SEHA Clinic, and the subsequent instruction to resume works, described below:
-On 3 October 2018, we received EI No. 758 appended to your letter dated 2 October 2018, identified at
-ref: (1) instructing us, pursuant to General Conditions Clauses 11.3 and 20.1.1(b), “to provide a Rough
-Order of Magnitude (ROM) and proposal, for the Modifications to the SEHA Clinic (4 pages)…”
-Thereafter, we received an e-mail from you on 22 October 2018 [at 12:28 pm], ref: (2) instructing us to
-“stop all ceiling activities in SEHA clinic due to the upcoming changes as per EI 758”. This same
-instruction was echoed in a further e-mail from you on the same date, at 2:38 pm, ref: (3), where we
-were ordered to “hold the [ceiling] works to minimize further impacts to the assessment of EI 758.”
+Subject Clause 27.1.5(a): Interim Particulars - Delay Notice No.0046 - The Engineer's
+Overdue Responses to the Contractor's Mechanical Requests for Information (RFI)
 
-Meanwhile, we complied with your request described in EI No. 758 (ref: 1) and on 27 November 2018
-issued the ROM by way of Proposal Request Response Ref. PRR/0401/0004-TCAJV Rev. 00 (ref: 4); in
-which we advised you that if in the event the modification works subject to EI No. 758 would not
-proceed, then the impact of any delay would be dealt with as a separate delay event as opposed to
-being addressed as part of any future time and cost record to be agreed prior to issuance of a VO.
-However the works failed to be instructed and it is for this reason that we write to you now.
-Specifically on 20 February 2019, during the Chairman’s Progress Meeting, the Employer directed us to
-continue to construct the works to the SEHA Clinic in accordance with the latest IFC information and
-cease contemplating undertaking any further works subject to EI No. 758 – our letter dated 20 February
-2019 (ref: 5) regarding the ‘cancellation of works’ is synonymous with this very matter.
-You responded to our letter on 28 February 2018 vide letter ref: (6) confirming “…that the Employer
-does not wish to proceed with the Variation proposal for the modifications to the SEHA Clinic…”
-We complied with the Employer’s and your directives in this regard also.
-However, we remind you that the Contract does not provide for you to simply ‘tell’ us to place works
-“on hold”; but it does permit you to ‘Suspend Works’, which we consider you unequivocally ordered [in
-respect of the works described above] by way of your e-mails dated 22 October 2018 (ref. 1 and 2);
-despite the absence of any reference to Conditions of Contract Clause 16.7 (Suspension of Work). This
-also applies to your letter dated 28 February 2018 and the absence any reference to Conditions of
-Contract Clause 16.11 (Resumption of Work) confirming the Employer’s directive ‘resume’ work.
-Meanwhile, in a further e-mail also dated 22 October 2018 (timed at 5:49pm) (identified at ref: 7), we
-advised you that in consequence of your directive to “hold the works” in the SEHA Clinic, “we have to
-deduct 14 rooms from the target milestone of October” as the rooms were targeted to be completed in
-October. Your response issued on 23 October 2018 (at 7:47am) (identified at ref: 8), simply stated
-“agreed”. Consequently, it remains to be seen what if any critical impacts have been caused.
-Notwithstanding, in consideration of the events outlined above, and accordance with Conditions of
-Contract Sub-Clauses 16.5.2 and 27.1.1, we hereby notify you of our entitlement to claim:
-(i)
-An extension of the Time for Completion of the Works pursuant to Sub-Clause 16.9.1(a) i.e.
-‘Consequence of Suspension’ as a result of a Suspension and Resumption of Works; and
-(ii)
-An adjustment to the Contract Price in accordance with Clause 21.2 pursuant to Sub-Clause 16.9
-‘Consequence of Suspension’.
-Interim and / or final details of the Time impacts and adjustment to the Contract Price, will be provided
-in due course pursuant to Conditions of Contract Sub-Clause 27.1.5(a), (b) and (c).
+Dear Sir,
+We write with reference to the above correspondence (1) wherein the Contractor submitted the
+Interim Particulars in relation to Delay Notice No. 0046 issued via (4) for the alleged delay subject:
+"The Engineer's Overdue Responses to the Contractor's Mechanical Requests for Information (RFI)- as
+at 14 February 2019".
+The Contractor at the Risk Committee Meeting that was held on 10 March 2019 stated that there is no
+current impact on the critical path for the submitted E-Notices. The Contractor's statement at the Risk
+Committee Meeting is also supported by the fact that the Contractor's Monthly Programme updates
+do not show any impact to the Substantial Completion Date.
+We also record that the Contractor in correspondence (1) has not evidenced the impact of the alleged
+delay to its programme and has not stated the implemented mitigation measures for the avoidance of
+the alleged delay in accordance with the Programme Project Controls Requirements (Clause 1.3.7).
+Furthermore, the Contractor has failed to submit a Time Impact Analysis within 28 days as required
+under Clause 27.2 .1 of the Conditions of Contract.
+The Contractor is aware that a Time Impact Analysis along with a concurrency analysis are required to
+be submitted in order to enable the Engineer to review the Contractor's allegations.
+In light of the above, we consider that the Contractor has not substantiated any entitlement to an
+extension to the Time for Completion.
 Yours faithfully,

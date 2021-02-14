@@ -1,626 +1,77 @@
-Subject Consolidated Delay Analysis for events between 2 May 2019 and 1 August 2019
-Dear Sir,
-We write with reference to correspondence (1) wherein the Contractor submitted their Consolidated
-Delay Analysis for events between 2 May 2019 and 1 August 2019 and we hereby provide our
-assessment pursuant to Clause 27.1.6 of the Conditions of Contract. No costs have been submitted by
-the Contractor within its claim (1) which mainly concerns time only.
-Having examined the submitted document we note that the Contractor has failed to address the
-Engineer's comments provided via correspondence (4) regarding the deficiencies and non-compliance
-of TIA No.1. The Contractor's adopted methodology for TIA No.2 is the same as that of TIA No.1 and
-thus the previousy conveyed comments regard ing the contractual compliance and methodology of the
-TIA apply as follows:
-A. Contractual Compliance
-The Contractor and in this submittal (1) and similarly with TIA No 1, has not complied with the
-requirements of the Contract and in particular with Clauses 27.1.5 and 27.2 of the Conditions of
-Contract. The Contractor has failed to submit both fully detailed claims for the submitted notices and
-a separate Time Impact Analysis (TIA) within the contractually stipulated timeframe.
-Furthermore, part of the Contractor's obligations under the Contract is to submit a concurrency
-analysis as a pre-requisite for any potential entitlement for time to be compensable. The Contractor's
-submission does not provide such an analysis nor does it substantiate how it complied with the
-provisions of the Contract in this regard. The Contractor merely states that t here are no concurrent
-delays.
-It is evident that the Contractor has changed the Programme's logic with no demonstration of the
-mitigation measures being taken, therefore the updated Programme is not in compliance with either
-the Conditions of Contract nor with the Project Control Requirements Clause 1.3.4 which states "The
-progress Programme shall conform to all requirments of the Baseline Programme". Clause 1.3.4
-further states that " The Employer shall accept this list (Programme logic changes) as part of its overall
-Progress Programme submittal review and acceptance process".
-The Engineer notes that on numerous occasions it has rejected the Contractor's updated Programmes
-due to non-compliance. The Engineer is therefore prevented from effectively assessing the submitted
-claims by utilizing these rejected updated Programmes.
-In light of the above, the Engineer advises that the Contractor has failed to comply with the Contract
-in both the timing of the submission of fully detailed claims for the alleged delaying events and the
-methodology and timing of submission of the TIA.
+Subject:Post SAA8 Sub-Clause 2.26: E-Notice No. 0171
+Engineer's Response to RFI/0401/17400 – Introduction of Gypsum Ceiling at CP Hotel L2.0 to Underside
+of Elevator 0595 – Request for Engineer’s Instruction (RFEI) & Variation Order (VO)
+Dear Sirs,
+Pursuant to Sub-Clause 2.26 of the Settlement Agreement and Amendment No. 8 (‘SAA8’), we hereby
+submit this notice (‘E-Notice’) in consideration that the events and/or circumstances described in Annex
+A may cause delay and disruption to the Works, and seek your swift resolution of the same.
+Overview
+Your response to RFI/0401/17400 detailed in Annex A hereto, represents a change in design and scope
+and requires a valid EI and VO in order for us to integrate the same into the Works.
+Potential Impact
+Delay and disruption due to the events and circumstances outlined herein at this stage of the Project is
+likely to impact on the achievement of Milestones MS9B and MS9C (Substantial Completion).
+Action Required
+We therefore request your prompt action, guidance, decision or further instruction as applicable to
+resolve the matters referenced herein in order to mitigate such delay and/or disruption to the Works.
+Kindly ensure that such matters are actioned within seven (7) days of receipt of this e-notice.
+Meanwhile, we hereby reserve all our rights under the provisions of the Conditions of Contract SubClauses 16.5.2 and 27.1.1 [which have not been amended by SAA8 Sub-Clause 1.1] to an extension to
+the Time for Completion and any associated costs arising from the event(s) described herein.
+ANNEX A
+Description of the Event
+On 25 August 2019 we raised RFI/0401/17400 (ref: 1), requesting further clarification from you and/or
+the Employer’s Design Consultant (KPF) in relation to the ceiling to the Underside of Elevator Lift 0595 at
+CP Hotel L2.0, and whether a ceiling at this location is required or not (Figures 1 refers).
+Figure 1
+In addition to the photograph reproduced in Figure 1, also attached to RFI/0401/17400 were three (3)
+extracts from various IFC Drawings as shown in Figure 2, Figure 3 and Figure 4 below, which do not
+indicate any ceiling required to the Underside of Elevator Lift 0595 at CP Hotel L2.0.
+Figure 2
+Figure 3
+Figure 4
 
-B. Methodology of the TIA
-The Contractor's contractual non-compliance with the TIA methodology has been explained in Section
-A above.
-The Contractor has adopted a non-compliant methodology. This deviation, and according to the
-Contractor, made further changes to activities, logic and durations in order to assist the Contractor
-accommodate alleged delays which the Contractor claims they have been experiencing and their
-mitigation of these delays to the extent that they could. Two relevant points arise from t his additional
-deviation that the Contractor has adopted:
-(a) In various communications to the Contractor with respect to their periodic Programme
-updates, the Engineer has noted that the modifications made by the Contractor to their
-periodic Programme updates are unsubstantiated and unjustified and therefore render these
-Programme updates to be unreliable. Further, the Contractor is referred to the outstanding
-NCR 01061 that is related to the non-compliant progress Programme and Monthly Report
-submittals, which remains open. The monthly updates have been rejected and the
-Contractor's TIA submission is based on a formally rejected Programme update.
-(b) By using a different periodic update as the basis for each TIA window, the analysis is further
-and irrecoverably compromised. Notwithstanding the fact that the methodology used by the
-Contractor in their previous claim's submissions is outside of recognised industry protocols,
-the Contractor's use of different Programmes as the basis for each new Time Impacted
-Window further reduces the robustness of the delay analysis and the integrity of any claimed
-results derived from it.
-The Engineer considers the inclusion of Variations with signed Time and Cost Records to be incorrect
-and compromises further the integrity of the delay analysis and the results derived from it. The same
-applies to the inclusion of the alleged Subsidence delay event within the analysis.
-Before the Engineer could review any further resubmission or new submissions, the TIA's will need to
-be adjusted to address the deficiencies stated above. However, prior to this, the monthly updates will
-firstly need to be initially corrected to address comments relayed by the Engineer on the monthly
-updates before importing each month's progress. The Contractor is referred to the previous"cleanup"
-exercise to all its monthly updates of Programme Rev 6.3 that was conducted in 2017 before the
-EOT 2 could be assessed (ref. MTC-CMA-TCA-0401-LTR-7537, MTC-CMA-TCA-0401-LTR-05893,
-MTCCMA-CA-0401-LTR-05834 etc. ).
-C. Basis of Entitlement
-The Contractor has included in the submitted TIA {1) 34 No. Notices. The Engineer has reviewed the
-basis of entitlement for the claimed events and comments as follows:
-• Notice No.107- Engineers Responses to RFI Nos. 16346, 16794, 17087, 17158, 17056, 17157,
-and 17185 - Changes to Doors Hardware, Acoustic/ Fire Ratings, SACS, etc.: Request for
-Engineer's Instruction I Variation Order
-The Engineer has responded to the Contractor regarding the merit of the submitted E-Notice.
-The Contractor is referred to Clause 1.2 of Section 013113 of the Specifications wherein it is
-stated that the Contractor shall coordinate all works with other trades. The Contractor's raised
-RFis demonstrates a lack of the Contractor's coordination amongst the trades. In particular:
-)> RFI/0401/16794: As per Bulletin No.254 that was issued under El714 dated 04
-December 2017, the Name/Function of Room L01-0184 changed from TBD to APM
-Switchgear Room and according to the Bulletin it should have a Gas Suppression
-System. The response to the RFI provided the required technical clarification.
-Additionally, the Contractor is referred to EI681D which was issued on 23 August 2017
-and which fully covers the costs, therefore the Contractor has no entitlement to
-additional monies. Furthermore, we note that this issue was known to the Contractor
+IFC - MTC A 04 TB L3.0 5.32 00.664. 05
+L3.0 5.17 00.647 07
 
-prior to the Settlement Agreement and Amendment No 8 (SAA8) Effective Date and
-Clauses 1.7.2, 1.7.4 and 2.24 of SAA8 apply.
-)> RFI/0401/17087: EI681C was issued to the Contractor on 15 August 2017 regarding the
-90 minutes fire rating. Furthermore, the fire rating has been updated with Bulletin 245
-to align with the fire compartmentation drawing. The Contractor has no entitlement
-to additional time and/or cost given that it was a known event prior to SAA8 Effective
-Date.
-)> RFI/0401/16346: Technical clarification of Access Control between Door and SACS
-shedule. Door 88-C-L30-2478.01 SACS Type 2A was issued under El726 in February
-2018. The Contractor has no entitlement to additional time and/or cost given that it
-was a known event prior to SAA8 Effective Date.
-)> RFI/0401/17157: According to the response to RFI/0401/14710, the Contractor's
-proposal to relocate the fire protection riser inside the circulation room 0595.14 was
-not acceptable. The Contractor subsequently proposed covering the exposed pipes by
-dry wall type 1-5 and provide a new RHR door for 0603.01 for the accessibility. This
-proposal was accepted on the basis that there will be no additional cost and/or impact
-to the Programme thus the Contractor has no entitlement to additional time and/or
-cost and Clause 2.24 of SAA8 applies.
-)> RFI/0401/17158: The Contractor, due to the site conditions and as a result of a lack of
-coordination, could not install the door at the IFC location and the Contractor then
-proposed to fix it at the door's marked location. The Contractor's proposal was
-accepted in order to assist the Contractor and there is no entitlement to additional
-cost and/or time and Clause 2.24 of SAA8 applies.
-)> RFI/0401/17056: This RFI was issued by the Contractor as a result of a lack of site
-coordination. According to the IFC Drawings, Room 88.C. LI0.0113 .43 AS is designated
-as a sto rage room. As per the site installation, the storage room is fully occupied with
-the Fire Standpipe and Sprinkler Valve Piping works and can no longer be used as a
-storage room. Therefore, the function of the room has changed . Door 0113.01
-requires SCS-2A. Again the Contractor's proposal was t o overcome a lack of
-coordination and in order to assist the Contractor, t his was accepted and therefore
-does not provide the Contract or with an entitlement to additional cost and/or time
-and Clause 2.24 of SAA8 applies.
-);> RFI/0401/17185: This is a discrepancy between the door schedule and the IFC
-Architectural drawing. The approved shop drawing includes this door and the
-discrepancy amongst the documents should have been highlighted prior to the
-fabrication. This is a result of a lack of coordination with the door schedule and the
-approved shop drawings. Door no: L30-02375.01 was deleted by El No. 681F as TPS
-door. As per the latest IFC Architectural drawing MTC-A-02-TB-L3 .0-5.12-00.642_rev12 and approved shop drawing No. 401-JV-A-04-30-5.12D-GA-SD-003_rev-OO, Door
-L30-1375.01 exist in the washroom No. 30.P2 for the Janitor closet. Therefore, the
-Contractor has no entitlement to any additional time and/or cost and Clause 2.24 of
-SAA8 applies.
-• Notice No. 126 - Changes to Contour Levels from the Employer-Request for Engineer's
-Instruction {RFEI} I Variation Order {VO}
-Regarding the referred changes in levels, areas, crib wall scope and manhole modifications,
-these changes were discussed at length with the Contractor and agreement has been reached
-with the Contractor, which was merely formalized via the RFI process. The Contractor has
-proceeded with the works following these agreements which has not created any additional
+IFC - MTC A 07 TB L_._._00.141 02
 
-scope nor abortive works for the Contractor. The alleged delay resulting from the revised
-piping layout for the VVIP water feature was a failure by the Contractor to coordinate these
-works and Clause 2.24 of SAA8 applies.
-The Engineer does not consider the events cited in this notice to have any impact on the
-critical path of the Project and such impact was not demonstrated.
-• Notice No.100 -Engineer's Response to RFII0401I17162- Levels L3.0, L3.1, L3.2 and L3.3 Fire
-Curtain at Hotel - Changes in Scope: Request for Engineer's Instruction I VO
-The Contractor in the submitted E-Notice requested for an Engineer's Instruction and a
-Variation. The Engineer responded to the Contractor's request that there is no entitlement to
-any additional time and/or cost. Section 083116 para 1.2.C of the Specifications states
-"Provide access panels and frames for access to mechanical, plumbing and electrical Work
-located behind or above finished walls or ceilings which require access, whether or not such
-panels are indicated on Drawings"
-Access panels, particularly those in walls, are openings that allow passage for people to access
-mechanical spaces/shafts where equipment is located. As many mechanical shafts cross
-multiple floor levels, there is a high likelihood that these also cross multiple security zones.
-Therefore, any such passageway that allows persons to cross security zones must be equipped
-with door position indicators as part of the Security Access Control System (refer to Section
-281300 Clause 2.2 D) which states " Each door and shutter that shall allow passage from one
-security zone to another shall be provided with a door or shutter position indication. Position
-indicators shall monitor and initiate an alarm at an operator workstation based on the settings
-of the individual door" As such the door position indicators are required and the RFI response
-does not constitute a change and Clause 2.24 of SAA8 applies.
-• Notice No.99- Engineer's Response to RFII0401I17023- Requirement for Additional Road
-Marking at Airside- Request for Engineer's Instruction I Variation Order (VO)
-The Engineer has responded to the Contractor's submitted Notice and an Engineer's
-Instruction (EI No785) was issued for the Contractor to submit a ROM proposal and TIA in
-respect of the additional traffic markings. Until such time the ROM proposal is submitted,
-reviewed and a subsequent Variation Order is issued, t he Contract or has no entitlement to
-any additional time and/or cos (Clause 2.29 of SAA8) .
-• Notice No. 94 - Engineer's Failure to Provide IFC to Set-up SACS Initial Database
-(RFII0401I16926}
-The Contractor has been provided with an update of the required access profile groups as
-received from ADAC's Security on 11 June 2019. The profiles were entered into the SACS
-system by Atlas and confirmed to the Engineer at the SACS Weekly Progress Meeting No.125.
-Any delay that allegedly incurred is attributable to the Contractor's delays in the
-implementation of the initial access database. Clause 1.7.4 of SAA8 applies.
-• Notice No.103 - Engineer's Response to RFII0401I16957 - Hardware Installation to Doors
-with Different Floor Levels: Request for Engineer's Instruction I Variation Order
-The information related to the floor level difference has been known and is reflected in the IFC
-Drawings, based on the instructed VE by the Employer. The Contractor's door schedules were
-also reviewed by the Design Consultant/Engineer and issued by late 2017.
-We refer to the Conditions of Contract and in particular to Clauses 13.1.1, 13.1.2, 13.5.1 and
-Div. 01 Specification Section 013113, and remind the Contractor of their responsibility to
-coordinate and provide detailed coordination drawings for all integrated systems including
-doors.
-Prior to commencing any works on site, the Contractor shall have in place detailed
-coordinated drawings approved by the Engineer. The Contractor shall also field verify the
+IFC – MTC A 02 TB
 
-exact locations and dimensions and other pertinent information of all existing conditions that
-are associated with the referred works.
-The Contractor has failed to integrate the referred list of doors with floor levels and did not
-provide any coordination drawings for the Engineer's review and has been proceeding to
-fabrication with a doors schedule and was further installing the doors on site without any
-coordination drawings. This is also the case for other components which the Contractor
-proceeded with its installation without any coordination (example door height conflict with
-ceilings).
-We again remind the Contractor of their obligations as per Clause 13.5.1 of the Conditions of
-Contract by which the Contractor's execution of the works shall comply with the
-Local/Project's technical standard (IBC 2006 for this project) and the Contractor should
-highlight any deviation(s) from the applicable Code prior to any fabrication and further
-installations on site.
-The referred RFI was raised only on 19 March 2019, after the installation of the works on site
-which demonstrates the Contractor's failure to adhere to the Contract requirements related
-to site installation. In light of the above, the Contractor is required to coordinate the door
-detail/hardware with the floor finish based on the direction given in the RFI (the RFI clarified
-clearly which 3 doors out of 55 doors queried to have a landing). The RFI response has
-addressed the query and provided the Contractor with directions to proceed. As this is a
-known event, the provisions of SAA8 Clauses 1.7.4 and 2.24 applies.
-Notice No.0108 - Engineer's Late and Unreasonable Comments to RFII0401I16986 f or
-Access Ramps for BHS Rolling Shutter Doors: Request for Engineer's Instruction I VO
-The Engineer notes t hat Specification Section 083323 Clause 1.3 A, clearly states "The
-Contractor is responsible for the design of connections and fixings f or overhead coiling doors
-and related elements, including interfaces and coordination with works of adjoining trades, to
-satisfy aesthetic effects and performance requirements. As scope and performance documents,
-the drawings and specifications do not necessarily indicate or describe in detail all
-work required for the full performance and completion of the works".
-The referred drawing in the Contractor's E-Notice for the rolling shutters was approved with
-comments back in 2017 therefore it is considered to be included in the Settlement Agreement
-and Amendment No. 8 (SAA8) and moreover the Specifications clearly states the aesthetic and
-performance requirements. It was up to the Contractor, to coordinate the requirements in the
-Contract drawings and Specifications, highlighting any issues requiring the Engineer's
-directions through an RFI in a timely manner, and to prepare the coordinated drawings based
-on the clarifications provided in the RFI for an Engineer's approval. The RFI was only recently
-raised on 27 March 2019, requesting confirmation of the Contractor's proposal for the change
-of the pavement material.
-We refer the Contractor to Div. 01 Specification Section 01 3113, and remind the Contractor
-of their responsibility to coordinate and submit to the Engineer any discrepancies through the
-RFI process and not to withhold any information regarding known discrepancies or
-requirements.
-In light of the above, we do not consider that the Contractor has any entitlement to additional
-time and/or cost given the Contractor's obligations under Clauses 1.7.4 and 2.24 of SAA8 and
-the other provisions mentioned above.
-• Notice No.135- Engineer's Response to RFI-16984 -17 nos Outstanding Door Workshop for
-Offices and Lounges- Request for Engineers Instruction (RFEI} and Variation Order (VO}
-The Engineer has responded to the Contractor's submitted Notice and an Engineer's
-Instruction (EI No786) was issued for the Contractor to submit a ROM proposal and TIA in
-
-respect of the changes to the Door Schedules. The ROM proposal has not been submitted by
-the Contractor as of the cut off date of its claim and therefore until such time this is
-submitted, reviewed and a subsequent Variation Order is issued, the Contractor has no
-entitlement to additional time and/or cost (Clause 2.29 of SAA8).
-• Notice No 129 - Provision of Additional Power Supplies to Hold Open Doors to 8 Doors to
-Sections 5.16 and 5.21 to Level L0.1- Engineer's Response to RFI/0401/17164- Request for
-IFC Drawings plus Engineers Instruction and Variation Order
-The E-Notice refers to the provision of additional power supplies to eight hold open doors to
-Level L0.1. As per the Engineer's assessment, this is not considered a change, but a
-discrepancy among the Contract documents (Door Schedule and IFC drawings.). The approved
-Door Schedule (DS-10833 dated 11 January 2018) includes the hardware set, however this was
-not indicated in the electrical IFC layouts. This discrepancy was known to the Contractor since
-January 2018 (i.e. prior to the Effective Date of Settlement Agreement and Amendment No. 8
-(SAA8) and so is an included circumtances/event under Clause 1.7.4. However, the Contractor
-raised the RFI in May 2019, requesting clarification on this discrepancy. The RFI response has
-addressed the query and provided the Contractor with the directions to proceed.
-The Contractor is required to highlight such discrepancy and seek directions in a timely
-manner. We refer the Contractor to the provisions of Div. 01 of the Specifications Section 01
-31 13 and remind the Contractor of their responsibility to coordinate and submit to the
-Engineer any discrepancies through the RFI process and not to withhold any information
-regarding known discrepancies. Furthermore, according to Cla use 2.24 of SAA8, it is deemed
-that the Contract or has reviewed the drawings, designs and Specifications and confirmed that
-these do not contain any errors.
-In light of the above we do not consider the Contractor has an entitlement to any additional
-time and/or cost.
-• Notice No.116- Delays to Glazing and 3rd Fix installation due to activities of the Employer's
-Other Contractor's Works (DEPA - Lifting Frame for Material Shifting)
-According to Clause 2.11 of the Settlement Agreement and Amendment No. 8 (SAA8) in
-combination with Clause 12.11 of the Conditions of Contract, the Contractor has an obligation
-to provide to the Employer's Other Contractors (including the Fit-Out Contractors) appropriate
-opportunities for carrying out their respective works.
-In light of the above and upon discussion between all relevant parties, the Contractor
-provided a No Objection Certificate (NOC) where approval was provided for preserving the
-opening at Level 3.1 until August 2019 for DEPA to be able to perfom their works. Therefore,
-we do not consider that the Contractor has merit in asserting that they have an entitlement to
-additional time and/or cost.
-Additionally, and with regard to the Contractor's statement that this issue is critical for the
-achievement of Milestone MS09B, we record that Milestone 09B's Completion Date was on 30
-June 2019, and the Contractor has failed to achieve it as a result of the numerous Contractor
-delays. The status of the works related to Milestone 9B by 30th June 2019 has been notified to
-the Contractor via ref. MTC-CMA-TCA-0401-LTR-11003. Considering the outstanding works
-summarized in MTC-CMA-TCA-0401-LTR-11068, we advise that the Contractor has not
-evidenced nor substantiated how this event has had an impact to the overall completion of
-MS09B.
-• Notice 097 - Delays to ADCD Approval and Obtaining Building Completion Certificate (BCC}
-Due to Additional Fire Life Safety Devices Required by House of Expertise
-The ADCD package reviews allowed the Design Consultant to cross check for the coordination
-between the different FLS systems in the building. Inevitably, this review process identified
-
-some issues which the Contractor has missed in their coordination of the systems. As the
-Contractor is aware, any coordination issues identified by the Design Consultant during their
-review are the Contractor's responsibility and any potential time impact remains the
-responsibility of the Contractor. In addition, the Contractor has not substantiated in their Time
-Impact Analysis the alleged impact of this E-Notice to their Programme.
-In light of the above, we do not consider that the Contractor has any entitlement to any
-additional time and/or cost.
-• Notice No.134 - Overdue Response to Material Submittal MS/0401/FC/0127 Rev. 01 - CUSS
-Workstation Operating System
-The Contractor is reminded that in order to avoid any potential delays, they are required to
-submit the drawings in a timely manner as per Clause 1.3.3. f of Section 01 33 00 of the
-Specifications otherwise there is no entitlement for any extension to the Time for Completion.
-The Contractor has neither evidenced that they have submitted the documents in a timely
-manner nor that the "overdue" response has affected their works and impacted t he critical
-path.
-In light of the above, we do not consider that the Contract or has any entitlement to any
-additional time and/or cost.
-Notice No. 113 -Engineer's Response to RFI/0401/17064 - Re-introduction of Door No. L300672-01 -Request for Engineer's Instruction (RFEI} I Variation Order (VO}
-The submitted E-Notice refers to a discrepancy among the Contract documents (door schedule
-and approved shop drawing.) The approved shop drawing (approval date was 19 January
-2017) includes the referred door with the door tag. The Engineer's Instruction No. 681F issued
-on OS September 2017 indicates the referred door as being deleted. This discrepancy was
-known to the Contractor since September 2017 i.e prior to the Effective Date of SAA8 and is
-therefore provided for in SAA8 under Clause 1.7.4 (included circumstance).
-The RFI was raised by the Contractor only in April 2019, requesting for a clarification. The RFI
-response has addressed the query and provided the Contractor with the required directions of
-how to proceed. The Contractor is required to highlight any encountered discrepancies and
-seek directions in a timely manner. We refer to Div. 01 Specification Section 01 31 13, and
-remind the Contractor of their responsibility to coordinate and submit to the Engineer any
-discrepancies through the RFI process and to withhold any information regarding known
-discrepancies. Clause 2.24 of SAA8 applies and in light of the above, we do not consider that
-the Contractor has an entitlement to additional time and/or cost.
-• Notice No.96- Overdue Responses to 538 As-Built Drawings as at 23 May 2019 including but
-not limited to Electrical, Mechanical, Local Area Network, Passenger Boarding Bridges
-Structural Steel, Elevators and Escalators [issued vide 64 Submittals]
-The Engineer disagrees with the Contractor's contention and advises that the Contractor is
-reminded of their obligations to submit the drawings in a timely manner as per Clause 1.3.3. f
-of Section 01 33 00 of the Specifications otherwise there is no entitlement for any extension to
-the Time for Completion. The Contractor has committed to complete all its submissions by Q4
-2018 and unfortunately this was not adhered to.
-The Contractor's assertion that the alleged delay to the review of As-Built Drawings will
-potentially have an impact on their ability to achieve Substantial Completion is unfounded and
-the Engineer has on numerous occassions recorded the Contractor's delays to adhere to their
-own submittal's targets and the dates of the Rev. 11.2 Baseline Programme.
-In light of the above, we do not consider that the Contractor has an entitlement to additional
-time and/or cost.
-• Notice No.104 -Overdue Responses to Contractor's MSI Document Submittals at 05
-
-September 2019 Response required
-Regarding the potential delay to the Works as a result of alleged delays to the MSI Submittals,
-the Engineer's comments are provided in Appendix A.
-The Contractor's claim that as a result of overdue responses the ability of their MSI
-Subcontractor to procure, deliver and subsequently install any related hardware has been
-affected, is refuted . There are no Material Approval Requests included within the summary
-provided by the MSI.
-We note that many documents were submitted "For Information Only". These are related to
-the close-out of the Integration Verification Test phase, however we record that the MSI has
-not proceeded to complete t he closeout of that phase, subsequent to the Code 1 review of
-applicable documents.
-We record that the Contractor did not submit the Testing and Commissioning documents in a
-timely manner (Clause 1.3.3 (f) of Section 01 33 00 the Specifications) prior to t he scheduled
-tests. The Engineer allowed the t ests to proceed despite the late submittal of documents
-whilst these were still under review.
-In light of the above, should any delays be caused to the Programme, these are deemed to be
-attributable to the Contractor's late and/or incomplete submissions.
-• Notice No.111- Clause 27.1.1: Notice of Claim- Delay Notice No. 0111 [post-SAAB] Engineer's
-Pending Confirmation for Outstanding Doors Issues
-The Engineer has responded to the Contractor's submitted Notice and an Engineer's
-Instruction (EI No786) was issued for the Contractor to submit a ROM proposal and TIA in
-respect of the additional Doors. Until such time the ROM proposal be submitted, reviewed
-and a subsequent Variation Order is issued, the Contractor has no entitlement to additional
-time and/or cost (Clause 2.29 of SAA8). As of the cut off date of the Contractor's TIA, this ROM
-was not submitted.
-• Notice No.95 - Overdue Responses to 867 Shop Drawings as at 23 May 2019 including but
-not limited to Mechanical, Electrical, Fire Alarm, Fire Fighting, Landscaping, Ceiling, and
-Road Marking Shop Drawings etc. [issued vide 295 Submittals]
-The Engineer disagrees with the Contractor's contention and advises that the Contractor is
-required to submit the drawings in a timely manner as per Clause 3.3. f of Section 01 33 00 of
-the Specifications otherwise there is no entitlement for any extension to the Time for
-Completion. The Contractor did not adhere to the Rev. 112 Baseline Programme submission
-dates.
-The Contractor's assertion that the alleged delay to the review of Shop Drawings will
-potentially have an impact on their ability to achieve Substantial Completion is unfounded and
-the Engineer has on numerous occassions recorded the Contractor's delays to adhere to their
-own submittals' targets.
-In light of the above, the Contractor has not evidenced the alleged delay and thus we do not
-consider that the Contractor has an entitlement to any additional time and/or cost.
-• Notice No. 112- Engineer's Response to RFI/0401/17181- Failure to Provide Confirmation
-on Requirement for Additional Bollards at Departure Level (DAS- Level L2.0) - Request for
-Engineer's Instruction I Variation Order (VO)
-We note that the referenced delay/disruption event is consequent to the Contractor's failure
-to coordinate the exact location of the bollards with the MTL Contractor in accordance with
-the Contractor's contractual obligations and failure to act on the Code 2 comments issued
-over 2 years back by the Employer's Design Consultant.
-Furthermore, the installation of these bollards does not constitute delays to the critical path
-of the Project. The Contractor is therefore not entitled for an extension to the Time for
-
-Completion and associated costs arising from the alleged delay event as this is provided for by
-Clause 1.7.4 of SAA8 (included circumstance).
-• Notice No 130 -Missing General Arrangement Drawings for Security Cameras - Lounge Area
-Request f or Provision of Updated IFC Drawings, Missing Elevations & Setting-Out
-Information et c. and an Engineer's Instruction/Variation Order
-We record that the required coordination with Etihad's Fit-Out Contractor has been done and
-the Contractor obtained the required GA and furniture drawings in the CP L2 Etihad 1st Class
-Ch eck-In area (lounge). Advance copies of the drawings in CAD and PDF format have been
-reviewed and forwarded to t he Contractor on 19 September 2019. The requirements for the
-design and location of the 4 FR cameras to be installed by t he Contractor are available in t he
-det ails of the drawings as noted by your Subcontractor (Atlas). With regard to RFI No. 17132
-t hat is referred to in the E-Notice, please note that the Engineer has responded to the same
-on 17 June 2019. To date, the Contractor has not requested any clarification regardin the 4
-FR cameras. Therefore, any potential delays shall be attributed to the Contractor and not the
-Employer.
-• Notice No 117- Additional Works associated with the Installation of Antennas to Piers 1 to 4
-by an Other Contractor- Request for Engineer's Instruction/ Variation Order
-The Employer's Other Contractor (COMBA Telecom) has confirmed that there are no
-additional cuttings/openings required and therefore the ContraCtor should have proceeded to
-complete any outstanding works instructed under El 748 and hence has no entitlement to a
-Variation Order.
-The Contractor is therefore not entitled to any time and cost as a result of this.
-• Notice No 98- Clause 27.1.1: Notice of Claim- Delay Notice No. 0098, Delays to the Time for
-Completion of the Works due to Delays to Receipt of Subsidence Works Instructions and
-Subsidence to Other Areas of the MTB
-The Engineer has on numerous occassions communicated to the Contractor that the
-Contractor has no entitlement pursuant to Clause 5 of SAA8 to any additional time and/or cost
-in relation to subsidence and therefore we consider that the submitted Notice has no merit.
-Instruction and information was relayed to the Contractor as and when these were available.
-The Contractor is reminded of its delays with progressing promptly with the remedial works
-and the investigation works that were instructed and conveyed to the Contractor and contrary
-ot the Contractor's obligation under SAA8.
-• Notice No 110- Engineer's Response to RFI/0401/17162- Levels L3.0, L3.1, L3.2 and L3.3
-Fire Curtain at Hotel- Changes in Scope: Request for Engineer's Instruction/ VO
-The submitted E-Notice does not refer to a change in design and does not constitute a change,
-but a discrepancy among the Contract documents (IFC drawings, BP sketches and approved
-shop drawings.) The information related to the glass wall lining at lift's elevations has been
-known in the Contract and IFC Drawings as listed hereunder:
-);> IFC Drawings A 02 series for Levels L3.0, L3 .1, L3.2 and L3.3 (Drawing Nos. MTC-A-02TB-L3.0);> 5.32-00.662, MTC-A-02-TB-L3.1-5.32-00.708, MTC-A-02-TB-L3.2-5.32-00.754 and MTCA02-TB-L3 .3-5.32-00.800) refers to A 04 series for Detail Floor Plan .
-);> IFC Drawings A 04 series for Levels L3.0, L3.1, L3.2 and L3.3 (Drawing Nos. MTC-A-04-TBL3
-.0);> 5.32-00.664, MTC-A-04-TB-L3.1-5.32-00.814, MTC-A-04-TB-L3.2-5.32-00.854 and MTCA04-TB-L3.3-5.32-00.904) refers to Section Detail at Drawing MTC-A-07-TB-L_._-_._00.197.
-);> The section at Drawing MTC-A-07-TB-L_._-_._-00.197 refers to an enlarged detail 11 in
-
-the Drawing
-);> MTC-A-07-TB-L_._-_._-00.337 indicating Glass Wall Lining GLZ-16.
-);> Details for Typical Lift Lobbies at Drawing MTC-A-71-TB-L_. _-_._-00.630 indicates Glass
-Wall
-);> Lining GLZ-16. This was confirmed through RFC-532 response issued in Tender Bulletin
-No. 8 item 26.
-The Contractor's Shop Drawings for the Hotel's Architectural General Arrangement Layout
--Central Space Sector 5.178 (Leve ls 3.0 up to 3.2) were also reviewed and approved with
-Code 2. The Engineer's comments shown as "Back Painted Glass as per IFC (GLZ-16) as per
-IFC detail 11 Drawing A07-337" are to be provided on the lift lobby walls. The signed
-sketch 401-FE-A-BP56- L31-L33-5.00-GA-S IFC-001_R00_180718 cannot be the basis for
-the omission of the glass wall lining since the drawing's intent is for the smoke curtain
-details and not an amended detail for IFC Detail11 Drawing A07-337
-In light of the above, the Contractor has no entitlement to additional time and/or cost and
-considering the Contractor's obligations under Clauses 1.7.4 and 2.24 of SAA8.
-• Notice No 121 - No response-Kitchen & Smoke Extract Fan Installation in Hotel Building
-Level L3.4 Response to RFI/00401/17163 and SDS/0401/M/1375-01
-The Contractor's assertions are refuted given that the Contractor has delayed the resolution of
-the Design Consultant's provided comments in a timely manner. The Shop Drawings were
-rejected by the Design Consultant on the basis of the acoustics concern that the current
-assembly may have at the Hotel areas. In order to address the Deisgn Consutlant's concerns
-and avoid any abortive works as the installation has been completed, the Engineer and the
-Employer agreed the following with the Contractor:
-1. The fans will be tested on site and witnessed by CxA in order to address the Design
-Consultant's comments.
-2. The preliminary tests were carried out in the presence of CxA and further tests are required
-for the vibration and testing on permanent power which are pending the Contractor's action.
-3. The Engineer followed up on 20 October 2019 and the Contractor informed that both the
-permanent power and the specialist testing agency for the vibration will be arranged as well
-and this is expected to be confirmed by the end of October 2019 and testing will be conducted
-in the first week of November 2019.
-4. Depending on the outcome of the test and acceptance by CxA, the approved test pack will
-be issued to ADAC in order to confirm compliance with the Contract's requirements.
-In light of the above, we do not consider that the Contractor's E-Notice has any merit given
-the delays by the Contractor in addressing the Design Consultant's comments. Moreover, the
-respective test is being delayed as a result of the non-availability of permanent power. The
-Contractor has not evidenced how this activity will impact the completion of Milestone MS09C
-in view of the current Contractor's ongoing delays to the Project.
-• Notice No 127 - Overdue Responses to 1288 Shop Drawings as at 1 August 2019 including
-but not limited to Mechanical, Electrical, Fire Alarm, Fire Fighting, Ceiling, and Road Marking
-Shop Drawings etc. [issued vide 442 Submittals]
-The Engineer disagrees with the Contractor's contention and advises that the Contractor is
-reminded of their obligations to submit the drawings in a timely manner as per Clause 3.3. f of
-Section 01 33 00 of the Specifications otherwise there is no entitlement for any extension to
-the Time for Completion. The Contractor has committed to complete all its submissions by Q4
-2018 and in accordance with the Rev 11.2 Baseline Programme but unfortunately this was not
-adhered to.
-The Contractor's assertion that the alleged delay to the review of Shop Drawings will
-
-potentially have an impact on their ability to achieve Substantial Completion is unfounded and
-the Engineer has on numerous occasions recorded the Contractor's delays to adhere to their
-own submittals' targets .
-In light of t he above, we do not consider that the Contract or has an entitlement to additional
-t ime and/or cost.
-• Notice No 106 - Delays to Automated Tray Return System (ATRS} Testing - Overdue
-Responses to Document Submittal Nos. DS/0401/13480 Rev. 02 (Smart View Matrix SAT
-Protocol) and DS/0401/14184 Rev. 01 (ATRS Performance Test Document)
-The Engineer refutes the Contractor's assertion and notes that the actual reasons t he
-Contract or could not perform t he ATRS equipment performance tests was due to the actual
-site conditions which as of 8 July 2019 were as follows:
-1. None (O) of the ninety-five (95) ATRS units (including the related PBSS X-Ray machines) had
-any permanent power connections to the floor boxes as a result of the lack in the energization
-progress from upstream sources. All units were on temporary construction power only.
-2. The performance testing relies on stable permanent, uninterrupted power supplies during
-the testing of equipment to properly validate performance.
-3. Scaffolding interferences exists above the installed equipment from other trades'
-construction activities such as civil, mechanical, ceiling and fit out works that were still
-ongoing.
-4. At the time of the Contractor's E-Notice there were three (3) ATRS units that were not
-physically installed at L2.0 Premium Departure lanes (Sector 5.50). Installation works were still
-ongoing at the Etihad First Class lanes L2.0 (Sector 5.52).
-The Engineer via various correspondence has notified the Contractor of the delays that
-occurred due to the lack of coordination of the various Subcontractors' works, hindering the
-ATRS installations and testing. As the Contractor is aware, both the approved Work Inspection
-Requests (WIR) and approved Commissioning Inspection Requests (CIR) are the contractual
-requirements for measuring the actual work completeness. The Engineer's inspection records
-highlight that the Contractor had not completed the full installations and stand alone testing
-requirements as per the approved Inspection Test Plans (ITP's).
-In light of t he above we do not consider that the Contractor has an entitlement to additional
-time and/or cost.
-• Notice No 101 - Gatehouse GH49 - Damage to PCA Pit Due to Grouting Works by Others Update- Further Damage to GH49 PCA pits plus Damage to GH1 PCA Pits
-The MTA Contractor has refuted the Contractor's assertions regarding the alleged damage to
-the PCA Pit. The Contractor's position that the alleged damages would affect the Contractor
-obtaining the BCC is rejected. The Contractor has not evidenced this allegation and the
-Engineer notes that the Contractor, and due to his own delays, has failed to achieve Milestone
-MS09B by 30 June 2019, thus any delays to the BCC are considered the Contractor's delays.
-• Notice No 120 -Delays to Cause and Effect Testing and Commissioning due to Delayed
-Response to NOC Request to Create Opening within AMC Walls to Level L3.1 to install Fire
-Smoke Damper Actuators, FSD-CS-L3.1-017 and 027 and Failure to Issue an Engineer's
-Instruction to rectify damage caused by Other Contractor
-The Contractor's allegation regarding the late approval of the requested NOC is refuted and
-we advise that the delay is attributable to the Contractor as they did not provide sufficient
-information to the Employer's Other Contractor to enable them to approve the requested
-NOC. The Contractor provided inaccurate information regarding the numbers, locations and
-size of openings thus has prevented the processing of the NOC. This is contrary to the
-Contractor's obligations under the Contract and Clause 2.11 of SAA8 for facilitating Fitout
-
-Contractor's works.
-In light of the above we do not consider that the Contractor has an entitlement to any
-additional time and/or cost.
-• Notice No 132 - Provision of Additional Data Outlets for Existing Flight Information Display
-Screens to Check-In Island in Sector 5.228 to Level L2.0 - Engineer's Response to
-RFI/0401/17254 - Request for Engineer's Instruction and Variation Order
-The Contractor in the submitted E-Notice has requested for an Engineer's Instruction in order
-to proceed with the two data outlets. It is the Engineer's position that the Contractor has no
-entitlement to a Variation Order given t hat as indicated in the respective drawing, Flight
-Information Display Screens are within the Contractor's scope of works and in or r to
-operate they require data outlets. The Contractor is referred to its obligations under Clause
-2.24 of SAA8.
-In light of the above, we do not consider that the Contractor has an entitlement to any
-additional time and/or cost.
-• Notice No 122 - Engineer's Overdue Response to MS/0401/A/1756 and Unreasonable
-Engineer's Comments regarding Precast Planters Sealer Application
-The Contractor offered the precast planter benchmark for inspection (WIR-17237 Rev.01) and
-it was inspected by the Employer, the Engineer and the Design Consultant. To assist the
-Contractor with the fabrication of the precast works and the progress of these works, WIR17237 rev. 01 has been released with Code 2 with a caveat that the Contractor applies the
-sealer and offers it for inspection.
-The Request for an Engineer's Instruction (RFEI) No. 0705 has been received by the Contractor
-on 27 November 2018 and the Material Submittal was made on 17 June 2019. The Contractor
-has failed to consider the time constraints for this Material submission. The RFEI confirmed
-the requirement for a hydrophobic coating.
-The Material Submittal MS-A-0401-1756 Rev. 0 was accepted by the Employer with
-comments. One of the comments was "The Contractor to provide mock-up/benchmark for
-review". On 27 July 2019, the Contractor sent an invitation to both the Employer and the
-Engineer for an inspection. There was no request with the submitted approved Method
-Statement for the sealer application and no WIR was submitted. To assist the Contractor, both
-the Employer and Engineer attended the inspection although the precast mockup was not in
-the E2 benchmark due to quality issues as confirmed by the Contractor, and instead was
-relocated to Zone 4. The Employer provided his comments and highlighted the main issues;
-the surface preparation was unacceptable to receive the sealer application and the approved
-samples (with or without sealer) do not match the panels on-site.
-Based on the comments provided on 25 August 2019, another inspection was conducted after
-applying the sealer on 2 types of surface preparation and again the Contractor failed to
-achieve the finish. The application method was not satisfactory to the Employer and it was
-observed that the Contractor was not following the manufacturer's recommendations and
-procedures as stipulated in the approved data sheet. The delay in submitting the Method
-Statement impacted the site works and the subsequent approvals since there is no assurance
-that the Contractor is applying the sealer as per the Manufacturer's recommendations.
-The Contractor is further referred to its obligations under Clause 2.24 of SAA8.
-In light of the above, we do not consider that the Contractor has an entitlement to any
-additional time and/or cost.
-• Notice No 123 -Overdue Response to Material Submittal MS/0401/C/0877 Rev. 01 - Key
-Cabinet & Keying Control System
-The Engineer considers that the Contractor has failed to evidence t hat they have complied
-
-with Clause 1.3.3 (f) of Section 013300 of t he Specifications and to substantiate that the
-document was submitted in a timely manner. Furthermore, we note t hat t he Master Keying
-development has been delayed due to the Contractor (ref. MTC-CMA-TCA-0401-LTR-09774
-dated 04 August 2019).
-In light of the above we do not consider that the Contractor has an entitlement to any
-additional time and/or cost.
-• Notice No 125 -Overdue Responses to the Contractor's Material Submittals - Architectural,
-Structural, Civil, and MEP- as at 29 August 2019
-The Engineer considers that the Contractor has failed to evidence that they have complied
-with Clause 1.3.3 (f) of Section 013300 of the Specifications and to substantiate that the
-document was submitted in a timely manner and in accordance with the Rev 11.2 Baseline
-Programme.
-In light of the above, we do not consider that the Contractor has an entitlement to any
-additional time and/or cost.
-• Notice 115-Delays to Installation of Displays due to Other Contractor (Info Booths)
-The Engineer notes that the installation of the displays and associated works are considered to
-be final installation works and there are no critical work dependencies that would cause
-critical delays to the Contractor's works. The installation of the displays and associated work in
-the areas described in the Contractor's submitted E-Notice are to be installed towards the
-very end and therefore are not considered to be disrupting the Contractor's ongoing activities.
-In light of the above, we do not consider that the Contractor has an entitlement to any
-additional time and/or cost.
-• Notice No 128 - Overdue Responses to 84 As-Built Drawings as at 1 August 2019- including
-Electrical, Plumbing, Security Systems, Local Area Network, and Elevators & Escalators
-[issued vide 16 As-Built Submittals]
-The Engineer disagrees with the Contractor's contentions and advises that the Contractor is
-required to submit the drawings in a timely manner as per Clause 1.3.3 (f) of Section 013300
-of the Specifications and to substantiate that the drawings were submitted in a timely manner
-and in accordance with the Rev 11.2 Baseline Programme . The Engineer on numerous
-ocassions has notified and recorded the Contractor's delays and failure to adhere to their own
-target dates regarding the submission of the As-Built Drawings.
-• Notice No 131 - Unreasonable WIR Code 3 Comments Rejecting the Mock-up for XD1
-Lighting Fixtures requesting changes to the Ceiling Roses and Gl Boxes
-The Contractor is referred to the Shop Drawing ref. 401-AN-E-02-00-5.26D-LT-SD-001- R03
-that was attached with the benchmark WIR-ELEC-66175 for XD1 fixtures that clearly shows
-WPBOX (Weather Proof Box) for the fixtures XD1 (refer to drawing attached to the Engineer's
-response to this notice where highlighted in green are the WPBOX).
-The Contractor did not reflect the above WPBOX in the detailed drawing ref 401-AN-E-07-GE0.00-LT-SD-110. The comment provided in the said benchmark WIR-ELEC-66175 is based on
-the Project Specification Sections 260500, Clause 1.5.A.3, Section 265600 Clause E.9.a and
-ADDC's wiring regulations Clauses 7.1.14, 7.3.12, 7.8.17 and 9.8.1.
-The ceiling rose which was approved through MS/0401/E/0123 was submitted for general use
-within the whole MTB and this approval does not specifically allow the Contractor to use it for
-external installations as it is not complying with t he weather requirement s. Accordingly, the
-Contract or shall use the approved materials in full compliance wit h the related authorities and
-regulations as commented in the MS/0401/E/0123.
-In October 2016, and in response to t he Engineer's comments given for MS/0401/E/03 17-00 Lighting Fixtures FOH Type XD1, the Contractor noted the Engineer's comment " We take no
-
-exception to the IP20 rated driver provided it is enclosed/ protected by an IP rated enclosure/
-protection which is suitable for the operating environment." The Contractor is therefore
-aware of the weather proof requirements for such installations which are expected to be
-followed in all other related installations/connections as per the above referred
-specifications/codes/ drawing. Photos for the installed IP66 driver of XDl was provided in the
-Engineer's response to Notice. The Contractor is also referred to its obligations under Clauses
-1.7.4 and 2.24 of SAA8.
-In light of the above, the Contractor's E-Notice is considered to be unfounded and has no
-merit and we do not consider the Contractor to have an entitlement to any additional time
-and/or cost.
-D. Conclusion
-In light of the above, and for the reasons explained in the previous sections, the Engineer and
-pursuant to Clause 27.1.6 of the Conditions of Contract dissaproves the submitted claim (1)
-and considers that the Contractor has failed to demonstrate or substantiate an entitlement for
-an extension to the Time for Completion.
+Accordingly, we asked that you clarify and confirm whether the underside of Elevator Lift 0595 at CP
+Hotel L2.95 requires a ceiling or not given the fact that there is no ceiling shown in the IFC Drawings.
+We requested a response to RFI/0401/17400 by 31 August 2019. However, you failed to reply until 23
+calendar days later on 23 September 2019. Notwithstanding the prolonged period in responding, the
+Employer’s Design Consultant confirmed the following:
+“Contractor shall coordinate ceiling and stone edge at this area as commented in shop drawing 401-DMA-02-21-5.17B-CL-SD-015-01. In room 0070 @ L3.0, contractor to provide gypsum ceiling and stone edge
+above it. Contractor to submit shop drawing clarifying all interfaces for review before proceeding on
+site. No time/cost impact-”
+In this regard, KPF’s reference to Shop Drawing No. 401-DM-A-02-21-5.17B-CL-SD-015-01 (refer to
+extract shown in Figure 5) is incorrect since it relates to stone works and is irrelevant to the ceiling
+works. Consequently, the clouded comments shown to the noted Shop Drawing for the “Contractor to
+coordinate with landing and architectural ceiling cladding”, is not only incorrect but invalid on the basis
+there exists no ceiling to ‘coordinate’ to the Underside of Elevator Lift 0595 at CP Hotel L2.0.
+Figure 5
+Shop Drawing - 401-DM-A-02-21-5.17B-CL-SD-015-01
+In addition to the above, IFC Drawing MTC A 42 TB L3.0 5.17 00.300 00, associated with ‘Enlarged
+Reflected Ceiling Plan Level 3.0 Sector 5.17’, clearly indicates there is no ceiling to the Underside of
+Elevator Lift 0595 (Figure 6 refers). We are not the designers for this Project, the Employer’s Design
+Consultant is. Consequently, we accept no liability or responsibility for any inconsistencies in the
+Design; this remains with the Employer’s Design Consultant. In this regard, we put on record that the
+Works have been constructed by us based on IFC Drawings prepared by KPF and issued by you.
+Figure 6
+IFC - MTC A 42 TB L3.0 5.17 00.300 00
+In summary therefore, it is evidently clear that your/KPF’s response to RFI/0401/17400: “In room 0070
+@ L3.0, contractor to provide gypsum ceiling and stone edge above it…”, represents a change.
+However, given that SAA8 laid down strict guidelines to follow if additional works are required and you
+appear to have ignored those obligations, then this change will warrant a valid Engineer’s Instruction (EI)
+and a Variation Order (VO) if you require us to proceed with integrating the revised scope into the
+Works.
+We therefore, take this opportunity in also reminding you of the provisions of Clauses 2.29 to 2.31 of
+Settlement Agreement and Amendment No. 8 (‘SAA8’) pertaining to Variations, in so far as we are not to
+proceed with any Variation unless a Variation Order and a Time/Cost Record have been issued first. In
+which respect, it is your obligation to issue this Record first if you wish to instigate change; this is only
+after the additional time and/or costs impacts have been agreed between us beforehand.
+Meanwhile, until such time as you take the action required of you in accordance with SAA8 Clause 2.29,
+we are unable to proceed with implementing the changes noted above and will continue to proceed in
+accordance with the existing IFC design to the extent we are able to.
 Yours faithfully,

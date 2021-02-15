@@ -4,9 +4,13 @@
 #include <conio.h>
 #include <vector>
 #include <cstdlib>
+#include <algorithm>
 using namespace std;
 
 bool checkForWord(string file,string keyword){
+            for_each(keyword.begin(), keyword.end(), [](char & c){
+            c = ::tolower(c);
+            });
     fstream TheFile;
     TheFile.open(file, ios::in);
   unsigned int found = 0;
@@ -14,7 +18,13 @@ bool checkForWord(string file,string keyword){
     {
         string Line;
 
+
         while (getline(TheFile, Line)) {
+                int tolower ( int c );
+                for_each(Line.begin(), Line.end(), [](char & c){
+            c = ::tolower(c);
+            });
+
             if (Line.find(keyword) != string::npos){
                    ++found;
             }
